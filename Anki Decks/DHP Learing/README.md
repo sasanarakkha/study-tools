@@ -1,2 +1,1 @@
-SBS Pāli-English Vocab - Anki Deck—it has PDF word by word analysis of SBS Pāli-English Recitations and Anki Deck with all words from Recitations Book. This is a work in progress and if you are using it please get an updated version monthly. It closely depends on DPD 1, which gets updated daily.
-PS. for those who already using old version, please find me to clarify how to install updated version with keeping all statistic information.
+DHP learning - Anki deck. Made for memorization of DHP verses. It has cut mp3 with Ven. Ṭhitavijjo voice. Done up to DHP 334.
