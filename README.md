@@ -1,4 +1,4 @@
-# pāli study tools
+# Pāli Study Tools
 
 Including:
 
@@ -6,11 +6,11 @@ Including:
 - SBS Pāli-English Recitations
 - Analysis of SBS Pāli-English Recitations
 
-And various Anki decs:
+And various Anki decks:
 
 - SBS Pāli-English Vocab
 - DHP Vocab
-- DHP learning
-- Pātimokkha Word By Word
-- Pātimokkha learning
-- SBS Anumodana
+- DHP Learning
+- Pātimokkha Word by Word
+- Pātimokkha Learning
+- SBS Anumodāna
