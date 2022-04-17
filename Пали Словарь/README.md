@@ -5,11 +5,11 @@
 
 Скачайте файл кликнув по **prp-yyyy-mm-dd.zip**
 
-![2022-04-17_19-19](https://user-images.githubusercontent.com/39419221/163712222-c23a7315-49bc-4be3-9056-eb045c99847d.png)
+![2022-04-17_21-39](https://user-images.githubusercontent.com/39419221/163716961-9bfea62e-3cda-4587-b1ff-95c2cffc2ede.png)
 
 В открывшемся окне нажмите на **download**
 
-![2022-04-17_19-20](https://user-images.githubusercontent.com/39419221/163712231-b9fb9b72-5733-431c-9d53-af21cc812225.png)
+![2022-04-17_21-41](https://user-images.githubusercontent.com/39419221/163716967-27f410d3-c342-4187-b733-4c420c368038.png)
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html)
 
