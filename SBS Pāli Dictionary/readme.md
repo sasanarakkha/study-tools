@@ -1,6 +1,6 @@
 # SBS Pāli Dictionary
 
-It is a work in progress, it is analysis of the words from SBS Pāli-English Recitation. It made available for testing and feedback purposes. Because of this it is very important be up to date, please download the lates version regularly. How to instull it, you can read [here](https://digitalpalidictionary.github.io/update.html)
+This is a work in progress, an analysis of the words from SBS Pāli-English Recitation. It made available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools) purposes. Because of this it is very important be up to date, please download the lates version regularly. How to instull it, you can read [here](https://digitalpalidictionary.github.io/update.html)
 
 this tool recommended to use together with [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/tree/main/SBS%20P%C4%81li-English%20Recitations) and [Analysis of SBS Pāli-English Recitations.](https://github.com/sasanarakkha/study-tools/tree/main/Analysis%20of%20SBS%20P%C4%81li-English%20Recitations)
 
