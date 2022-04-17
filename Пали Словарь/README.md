@@ -13,3 +13,5 @@
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html)
 
+При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе колода карточек, основанная на данном словаре. Пожалуйста [свяжитесь](mailto:devamitta@sasanarakkha.org) со мной для получения свежей версии. 
+
