@@ -15,5 +15,3 @@ In the new window please click on **download** button.
 This work based on a DPD [Digital Pāḷi Dictionary by Ven. Bodhirasa.](https://digitalpalidictionary.github.io/)
 (Please explore this website to learn more about GoldenDict features)
 
-This is a work in progress and if you are using it please get an updated version monthly. It closely depends on DPD 1, which gets updated daily.
-
