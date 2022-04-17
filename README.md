@@ -1,4 +1,4 @@
-# pāli study-tools
+# pāli study tools
 
 Including:
 
