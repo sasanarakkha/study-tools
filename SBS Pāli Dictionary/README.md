@@ -15,5 +15,4 @@ In the new window click on the **download** button.
 ![2022-04-17_19-20](https://user-images.githubusercontent.com/39419221/163712231-b9fb9b72-5733-431c-9d53-af21cc812225.png)
 
 This work is based on the DPD [Digital Pāḷi Dictionary by Ven. Bodhirasa.](https://digitalpalidictionary.github.io/)
-(Please explore this website to learn more about Golden Dictionary's features)
 
