@@ -4,13 +4,9 @@ UNDER DEVELOPMENT
 
 Made for memorization of words from SBS Pāli-English Recitation. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
 
-This tool is recommended to use together with the [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/blob/main/P%C4%81li-English%20Recitations.pdf); the [Analysis of SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/blob/main/Analysis%20of%20SBS%20P%C4%81li-English%20Recitations.pdf) and the [SBS Pāli Dictionary](https://github.com/sasanarakkha/study-tools/tree/main/SBS%20P%C4%81li%20Dictionary).
+This tool is recommended to use together with the [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/P%C4%81li-English%20Recitations.pdf); the [Analysis of SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/Analysis%20of%20SBS%20P%C4%81li-English%20Recitations.pdf) and the [SBS Pāli Dictionary](https://github.com/sasanarakkha/study-tools/tree/main/SBS%20P%C4%81li%20Dictionary).
 
-- For downloading this file click on **[SBS Pāli-English Vocab.apkg](https://github.com/sasanarakkha/study-tools/blob/main/Anki%20Decks/SBS%20P%C4%81li-English%20Vocab/SBS%20P%C4%81li-English%20Vocab.apkg)**
-
-- In the new window click on the **download** button.
-
-![2022-04-17_19-56_1](https://user-images.githubusercontent.com/39419221/163816746-af8d58f0-332e-446c-877a-f5921d8f1266.png)
+- **[Download the latest update](https://github.com/sasanarakkha/study-tools/blob/main/Anki%20Decks/SBS%20P%C4%81li-English%20Vocab/SBS%20P%C4%81li-English%20Vocab.apkg)**
 
 - Install [Anki](https://apps.ankiweb.net/)
 
