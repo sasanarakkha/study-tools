@@ -26,13 +26,16 @@ Benefits: you will cover all words.
 
 - in Anki go to **Browse**
 
-![2022-04-17_20-04](https://user-images.githubusercontent.com/39419221/163816818-f74b1834-5d9f-4cb2-a211-08ed01a17095.png)
+![2022-04-17_20-04](https://user-images.githubusercontent.com/39419221/163944779-ad73b9a5-4478-410c-abf6-466e03b9b777.png)
 
-- Select deck **SBS Pāli-English Vocab** in the left pannel
+- Select deck **DHP Vocab** in the left pannel
 - Select all card by **Ctrl + A**
 - Right click and choose **Toggle Suspend** (Ctrl + J)
 
 Now all cards are inactive for study.
+
+![2022-04-19_15-03](https://user-images.githubusercontent.com/39419221/163945216-713c1d2e-ce3f-4f28-ac49-93e7fdb56033.png)
+
 
 ![2022-04-17_20-09](https://user-images.githubusercontent.com/39419221/163816875-7c8bb12b-8a38-4217-ba2e-d7d271d155b2.png)
 
