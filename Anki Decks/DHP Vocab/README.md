@@ -1,10 +1,8 @@
-DHP Vocab. Made for memorizing individual words in exact context of Pātimokkha. This is a work in progress and if you are using it please get an updated version monthly. It closely depends on DPD 1, which gets updated daily.
-
 # [DHP Vocab](https://github.com/sasanarakkha/study-tools/tree/main/Anki%20Decks/DHP%20Vocab)
 
 UNDER DEVELOPMENT
 
-Made for memorization of words from DHP. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
+Made for memorization of words from DHP. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform). Be sure to regularly download the latest content here.
 
 This tool is recommended to use together with the [DHP gramatical analisis](https://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp)
 
@@ -37,15 +35,12 @@ Now all cards are inactive for study.
 ![2022-04-19_15-03](https://user-images.githubusercontent.com/39419221/163945216-713c1d2e-ce3f-4f28-ac49-93e7fdb56033.png)
 
 
-![2022-04-17_20-09](https://user-images.githubusercontent.com/39419221/163816875-7c8bb12b-8a38-4217-ba2e-d7d271d155b2.png)
-
-- Select chant which you want to study among tags in the left pannel
+- Select vagga by searching name of the vagga (e.g. appamādavaggo)
 - Select all card by **Ctrl + A**
 - Right click and choose **Toggle Suspend** (Ctrl + J) 
 
-![2022-04-17_20-07](https://user-images.githubusercontent.com/39419221/163816889-740ebca2-d637-4461-9a05-0bc0c07fb393.png)
 
-Now all cards from selected chant will appear in your Anki daily routine. After you finish them, you may repeat the process with another chant and so on.
+Now all cards from selected vagga will appear in your Anki daily routine. After you finish them, you may repeat the process with another vagga and so on.
 
 
 # Update existing deck with keeping statistic
@@ -53,9 +48,9 @@ Now all cards from selected chant will appear in your Anki daily routine. After 
 This work is based on the [DPD](https://digitalpalidictionary.github.io/) which is the work in progress and updating regularly. Because of this, time after time may be added or editted some words (for example: the word 'pada' become 'pada 1', because has beed found another meaning of this word in another context). We need time after time remove those duplicated words, which are not existing any more. For this reason we have a field **"Test"**
 After you updated your Anki Deck (same way just by double clicking on the latest downloaded file). In **Browse** type:
 
-`"deck:SBS Pāli-English Vocab" -test:2`
+`"deck:DHP vocab" -test:3`
 
-It will show all cards which do not have number '2' in field "Test". And you can easily delate all of this old words, by selecting all (**Ctrl + A**) and deleting (**Ctrl + Delete**). 
+It will show all cards which do not have number '3' in field "Test". And you can easily delate all of this old words, by selecting all (**Ctrl + A**) and deleting (**Ctrl + Delete**). 
 
 Now you are up to date.
 
