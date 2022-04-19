@@ -1,4 +1,4 @@
-# Пали-Русско-Пали Словарь
+# [Пали Словарь](https://devamitta.github.io/)
 
 Это образовательный проект и находится на стадии тестирования и редактирования. Ваши [предложения и комментарии](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=devamitta.github.io) будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря. 
 Пожалуйста регулярно обновляйте словарь, чтобы иметь доступ к информации с меньшим колличеством ошибок и недочетов. Инструкции можнно найти [здесь](https://devamitta.github.io/update_ru.html).
@@ -13,5 +13,5 @@
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html)
 
-При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе колода карточек, основанная на данном словаре. Пожалуйста [свяжитесь](mailto:devamitta@sasanarakkha.org) со мной для получения свежей версии. 
+При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе колода карточек, основанная на данном словаре. Пожалуйста [свяжитесь](mailto:devamitta@sasanarakkha.org) для получения свежей версии.
 
