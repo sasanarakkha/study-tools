@@ -1,4 +1,4 @@
-# SBS Pāli-English Vocab - Anki Deck
+# [SBS Pāli-English Vocab - Anki Deck](https://github.com/sasanarakkha/study-tools/tree/main/Anki%20Decks/SBS%20P%C4%81li-English%20Vocab)
 
 UNDER DEVELOPMENT
 
