@@ -1,11 +1,12 @@
 # Pāli Study Tools
 
+- [SBS Pāli Dictionary](https://github.com/sasanarakkha/study-tools/tree/main/SBS%20P%C4%81li%20Dictionary)
+- [Пали-Русский Словарь](https://github.com/sasanarakkha/study-tools/tree/main/%D0%9F%D0%B0%D0%BB%D0%B8%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C)
+
 Click to download various latest version of:
 
-- [SBS Pāli Dictionary](https://github.com/sasanarakkha/study-tools/raw/main/SBS%20P%C4%81li%20Dictionary/sbs-pd.zip)
 - [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/P%C4%81li-English%20Recitations.pdf)
 - [Analysis of SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/Analysis%20of%20SBS%20P%C4%81li-English%20Recitations.pdf)
-- [Пали-Русский Словарь](https://github.com/sasanarakkha/study-tools/raw/main/%D0%9F%D0%B0%D0%BB%D0%B8%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%9F%D0%B0%D0%BB%D0%B8%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.zip)
 
 And various Anki decks:
 
