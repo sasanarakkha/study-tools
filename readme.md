@@ -1,6 +1,6 @@
 # Pāli Study Tools
 
-- [SBS Pāli Dictionary](https://sasanarakkha.github.io/study-tools/SBS Pāli Dictionary/SBS Pāli-English Vocab.html)
+- [SBS Pāli Dictionary](https://sasanarakkha.github.io/study-tools/SBS_Pāli_Dictionary/SBS_Pāli-English_Vocab.html)
 - [Пали-Русский Словарь](https://sasanarakkha.github.io/study-tools/Пали Словарь/ПалиСловарь.html)
 
 Click to download various latest version of:
