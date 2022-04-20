@@ -1,4 +1,4 @@
-# [Pātimokkha Word By Word - Anki deck.](https://github.com/sasanarakkha/study-tools/tree/main/Anki%20Decks/P%C4%81timokkha%20Word%20By%20Word) 
+# Pātimokkha Word By Word - Anki deck
 
 UNDER DEVELOPMENT
 
@@ -10,7 +10,7 @@ This work recomended to do study together with the [Bhikkhu Vibhaṅga](https://
 
 It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.438735500=devasika%E1%B9%83&entry.1433863141=Patimokkha), thanks to Venerable Bodhirasa.
 
-- [Download the latest update](https://github.com/sasanarakkha/study-tools/raw/main/Anki%20Decks/P%C4%81timokkha%20Word%20By%20Word/P%C4%81timokkha%20Word%20by%20Word.apkg)
+- [Download the latest update](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/P%C4%81timokkha_Word_By_Word/P%C4%81timokkha%20Word%20by%20Word.apkg)
 
 - Install [Anki](https://apps.ankiweb.net/)
 

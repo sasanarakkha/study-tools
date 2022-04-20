@@ -1,4 +1,4 @@
-# [DHP Vocab](https://github.com/sasanarakkha/study-tools/tree/main/Anki%20Decks/DHP%20Vocab)
+# DHP Vocab
 
 UNDER DEVELOPMENT
 
@@ -6,7 +6,7 @@ Made for memorization of words from DHP. It is available for public testing and 
 
 This tool is recommended to use together with the [DHP gramatical analisis](https://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp)
 
-- **[Download the latest update](https://github.com/sasanarakkha/study-tools/raw/main/Anki%20Decks/DHP%20Vocab/DHP%20vocab.apkg)**
+- **[Download the latest update](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/DHP_Vocab/DHP%20vocab.apkg)**
 
 - Install [Anki](https://apps.ankiweb.net/)
 
