@@ -1,7 +1,7 @@
 # Pāli Study Tools
 
-- [SBS Pāli Dictionary](https://sasanarakkha.github.io/study-tools/SBS Pāli-English Vocab.html)
-- [Пали-Русский Словарь](https://sasanarakkha.github.io/study-tools/ПалиСловарь.html)
+- [SBS Pāli Dictionary](https://sasanarakkha.github.io/study-tools/SBS Pāli Dictionary/SBS Pāli-English Vocab.html)
+- [Пали-Русский Словарь](https://sasanarakkha.github.io/study-tools/Пали Словарь/ПалиСловарь.html)
 
 Click to download various latest version of:
 
@@ -10,9 +10,9 @@ Click to download various latest version of:
 
 And various Anki decks:
 
-- [SBS Pāli-English Vocab](https://sasanarakkha.github.io/study-tools/SBS Pāli-English Vocab.html)
-- [DHP Vocab](https://sasanarakkha.github.io/study-tools/DHP Vocab.html)
-- [DHP Learning](https://sasanarakkha.github.io/study-tools/DHP learning.html)
-- [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/Pātimokkha Word by Word.html)
-- [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/Pātimokkha Learning.html)
-- [SBS Anumodāna](https://sasanarakkha.github.io/study-tools/SBS Anumodana.html)
+- [SBS Pāli-English Vocab](https://sasanarakkha.github.io/study-tools/SBS Pāli-English Vocab/SBS Pāli-English Vocab.html)
+- [DHP Vocab](https://sasanarakkha.github.io/study-tools/Anki Decks/DHP Vocab/DHP Vocab.html)
+- [DHP Learning](https://sasanarakkha.github.io/study-tools/Anki Decks/DHP Learing/DHP learning.html)
+- [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/Anki Decks/Pātimokkha Word By Word/Pātimokkha Word by Word.html)
+- [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/Anki Decks/Pātimokkha Learning/Pātimokkha Learning.html)
+- [SBS Anumodāna](https://sasanarakkha.github.io/study-tools/Anki Decks/SBS Anumodana/SBS Anumodana.html)
