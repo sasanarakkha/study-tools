@@ -6,21 +6,29 @@ Made for memorization of words from SBS Pāli-English Recitation. It is availabl
 
 This tool is recommended to use together with the [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/P%C4%81li-English%20Recitations.pdf); the [Analysis of SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/Analysis%20of%20SBS%20P%C4%81li-English%20Recitations.pdf) and the [SBS Pāli Dictionary](https://sasanarakkha.github.io/study-tools/SBS_Pāli_Dictionary/SBS_Pāli_Dictionary.html).
 
+Also as a reference can be used [Word by Word Analisis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/raw/main/Analysis%20of%20SBS%20Anumodana%20by%20A%20Thanuttamo.pdf)
+
 - **[Download the latest update](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/SBS%20P%C4%81li-English%20Vocab.apkg)**
 
 - Install [Anki](https://apps.ankiweb.net/)
 
 - Double click on the downloaded file SBS Pāli-English Vocab.apkg and it will appear in your Anki.
 
-# Ways of studying this deck:
+# Recomended ways of studying this deck:
 
-1) **Just study all cards in sucession how it is in [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/blob/main/P%C4%81li-English%20Recitations.pdf).**
+1) **Use the order of the Recitation Book.**
 
-Benefits: you will cover all words.
+- Read analisis of the first chant. 
+- Then study words from this chant. 
+- After go to the next chant. 
+- Better to go with order of Recitation Book.
+
+Benefits: you will cover all words consistently.
 
 2) **Study chants which you are interested.**
 
 Using this method you are at risk to loose some words, because they has beed added in order of [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/blob/main/P%C4%81li-English%20Recitations.pdf), and if the word appear later not always it has beed added again.
+- Read analisis of the chant what you like to study. 
 - in Anki go to **Browse**
 
 ![2022-04-17_20-04](https://user-images.githubusercontent.com/39419221/163816818-f74b1834-5d9f-4cb2-a211-08ed01a17095.png)
