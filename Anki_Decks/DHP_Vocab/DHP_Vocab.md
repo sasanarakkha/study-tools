@@ -12,13 +12,7 @@ This tool is recommended to use together with the [DHP gramatical analisis](http
 
 - Double click on the downloaded file SBS Pāli-English Vocab.apkg and it will appear in your Anki.
 
-# Ways of studying this deck:
-
-1) Just study all words in alphabetical order from DHP
-
-Benefits: you will cover all words.
-
-2) **Study vaggas which you are interested.**
+# Recomended way of studying this deck:
 
 - first read some vagga from DHP in pali and in [analisis](https://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp)
 
@@ -35,7 +29,8 @@ Now all cards are inactive for study.
 ![2022-04-19_15-03](https://user-images.githubusercontent.com/39419221/163945216-713c1d2e-ce3f-4f28-ac49-93e7fdb56033.png)
 
 
-- Select vagga by searching name of the vagga (e.g. appamādavaggo)
+- Select deck **DHP Vocab** in the left pannel
+- Select vagga by searching name of the vagga (e.g. appamādavaggo) in this deck
 - Select all card by **Ctrl + A**
 - Right click and choose **Toggle Suspend** (Ctrl + J) 
 
