@@ -6,34 +6,34 @@ Made for memorization of words from SBS Pāli-English Recitation. It is availabl
 
 This tool is recommended to use together with the [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/P%C4%81li-English%20Recitations.pdf); the [Analysis of SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/Analysis%20of%20SBS%20P%C4%81li-English%20Recitations.pdf) and the [SBS Pāli Dictionary](https://sasanarakkha.github.io/study-tools/SBS_Pāli_Dictionary/SBS_Pāli_Dictionary.html).
 
-Also as a reference can be used [Word by Word Analisis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/raw/main/Analysis%20of%20SBS%20Anumodana%20by%20A%20Thanuttamo.pdf)
+Also, as a reference can be used [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/raw/main/Analysis%20of%20SBS%20Anumodana%20by%20A%20Thanuttamo.pdf)
 
 - **[Download the latest update](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/SBS%20P%C4%81li-English%20Vocab.apkg)**
 
 - Install [Anki](https://apps.ankiweb.net/)
 
-- Double click on the downloaded file SBS Pāli-English Vocab.apkg and it will appear in your Anki.
+- Double-click on the downloaded file SBS Pāli-English Vocab.apkg and it will appear in your Anki.
 
-# Recomended ways of studying this deck:
+# Recommended ways of studying this deck:
 
 1) **Use the order of the Recitation Book.**
 
-- Read analisis of the first chant. 
+- Read analysis of the first chant. 
 - Then study words from this chant. 
-- After go to the next chant. 
+- After, go to the next chant. 
 - Better to go with order of the Recitation Book.
 
 Benefits: you will cover all words consistently.
 
 2) **Study chants which you are interested.**
 
-Using this method you are at risk to loose some words, because they has beed added in order of the Recitation Book, and if the word appear later not always it has beed added again.
-- Read analisis of the chant what you like to study. 
+Using this method you are at risk to lose some words, because they have been added in order of the Recitation Book, and if the word appear later not always it has been added again.
+- Read analysis of the chant, which you like to study. 
 - in Anki go to **Browse**
 
 ![2022-04-17_20-04](https://user-images.githubusercontent.com/39419221/163816818-f74b1834-5d9f-4cb2-a211-08ed01a17095.png)
 
-- Select deck **SBS Pāli-English Vocab** in the left pannel
+- Select deck **SBS Pāli-English Vocab** in the left panel
 - Select all card by **Ctrl + A**
 - Right click and choose **Toggle Suspend** (Ctrl + J)
 
@@ -41,7 +41,7 @@ Now all cards are inactive for study.
 
 ![2022-04-17_20-09](https://user-images.githubusercontent.com/39419221/163816875-7c8bb12b-8a38-4217-ba2e-d7d271d155b2.png)
 
-- Select chant which you want to study among tags in the left pannel
+- Select chant which you want to study among tags in the left panel
 - Select all card by **Ctrl + A**
 - Right click and choose **Toggle Suspend** (Ctrl + J) 
 
@@ -52,15 +52,15 @@ Now all cards from selected chant will appear in your Anki daily routine. After 
 
 # Update existing deck with keeping statistic
 
-This work is based on the [DPD](https://digitalpalidictionary.github.io/) which is the work in progress and updating regularly. Because of this, time after time may be added or editted some words (for example: the word 'pada' become 'pada 1', because has beed found another meaning of this word in another context). We need time after time remove those duplicated words, which are not existing any more. For this reason we have a field **"Test"**
-After you updated your Anki Deck (same way just by double clicking on the latest downloaded file). In **Browse** type:
+This work is based on the [DPD](https://digitalpalidictionary.github.io/) which is the work in progress and updating regularly. Because of this, time after time may be added or edited some words (for example: the word 'pada' become 'pada 1', because has been found another meaning of this word in another context). We need time after time to remove those duplicated words, which are not existing any more. For this reason, we have a field **"Test"**
+After you updated your Anki Deck (same way, just by double-clicking on the latest downloaded file). In **Browse** type:
 
 `"deck:SBS Pāli-English Vocab" -test:2`
 
 It will show all cards which do not have number '2' in field "Test". And you can easily delate all of this old words, by selecting all (**Ctrl + A**) and deleting (**Ctrl + Delete**). 
 
-Now you are up to date.
+Now you are up-to-date.
 
 With every next update this 'test number' will be different.
 
-- If English is not your first language, it is always recommended to translate words on your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
+- If English is not your first language, it is always recommended to translate words to your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
