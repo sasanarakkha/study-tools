@@ -21,13 +21,13 @@ Also as a reference can be used [Word by Word Analisis of SBS Anumodana made by 
 - Read analisis of the first chant. 
 - Then study words from this chant. 
 - After go to the next chant. 
-- Better to go with order of Recitation Book.
+- Better to go with order of the Recitation Book.
 
 Benefits: you will cover all words consistently.
 
 2) **Study chants which you are interested.**
 
-Using this method you are at risk to loose some words, because they has beed added in order of [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/blob/main/P%C4%81li-English%20Recitations.pdf), and if the word appear later not always it has beed added again.
+Using this method you are at risk to loose some words, because they has beed added in order of the Recitation Book, and if the word appear later not always it has beed added again.
 - Read analisis of the chant what you like to study. 
 - in Anki go to **Browse**
 

@@ -16,8 +16,4 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 
 - Double click on the downloaded file Pātimokkha Word by Word.apkg and it will appear in your Anki.
 
-# Update existing deck with keeping statistic
-
-Download the latest version of [Pātimokkha Word by Word.apkg](https://github.com/sasanarakkha/study-tools/raw/main/Anki%20Decks/P%C4%81timokkha%20Word%20By%20Word/P%C4%81timokkha%20Word%20by%20Word.apkg)
-
-Double click on the downloaded file and it will appear in your Anki.
+- For updating existing pack with keeping statistic do the same, while your Anki is open, just double click on the downloaded file Pātimokkha Word by Word.apkg and it will update.
