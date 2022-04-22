@@ -10,4 +10,4 @@ Made for memorization of DHP verses. It has cut mp3 with Venerable Ṭhitavijjo 
 
 - Install [Anki](https://apps.ankiweb.net/)
 
-- Double click on the downloaded file SBS Anumodana.apkg and it will appear in your Anki.
+- Double-click on the downloaded file SBS Anumodana.apkg, and it will appear in your Anki.
