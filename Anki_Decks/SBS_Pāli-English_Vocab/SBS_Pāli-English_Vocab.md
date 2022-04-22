@@ -62,3 +62,5 @@ It will show all cards which do not have number '2' in field "Test". And you can
 Now you are up to date.
 
 With every next update this 'test number' will be different.
+
+- If English is not your first language, it is always recommended to translate words on your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
