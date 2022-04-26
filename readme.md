@@ -21,3 +21,5 @@ Anki decks:
 - [SBS Anumodāna](https://sasanarakkha.github.io/study-tools/Anki_Decks/SBS_Anumodana/SBS_Anumodana.html)
 
 Made available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools).
+
+If you have any pali study related questions, please [ask](mailto:devamitta@sasanarakkha.org) freely.
