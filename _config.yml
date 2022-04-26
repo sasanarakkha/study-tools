@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: Tools for Pāli Study
+github:
+  is_project_page: false
