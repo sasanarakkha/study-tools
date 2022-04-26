@@ -1,8 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/39419221/165271019-e4da74da-05b9-4f46-ade6-3b173966ab75.png)
 
-![logo](https://user-images.githubusercontent.com/39419221/165288537-db89d5f6-2f77-4e09-9fc6-d84807cd0f8d.png)
-
-
 
 Dictionaries:
 
