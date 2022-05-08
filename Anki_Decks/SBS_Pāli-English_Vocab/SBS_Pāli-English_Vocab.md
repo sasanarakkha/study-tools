@@ -59,7 +59,7 @@ usually it is enough just to double-click on the downloaded file SBS Pāli-Engli
 
 If you have a problem with updating, you can use the following method:
 
-- download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/sbs-pd.csv). In the opened window you need to right-click and save as sbs-pd.csv.
+- download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/sbs-pd.csv). In the opened window you need to **right-click** and **save as** sbs-pd.csv.
 
 - in the Anki click on **File - Import**
 
