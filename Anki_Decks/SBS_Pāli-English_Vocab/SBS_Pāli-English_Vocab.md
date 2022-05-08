@@ -80,3 +80,7 @@ If you have a problem with updating, you can use the following method:
 - choose Type - SBS Vocab ; Deck - SBS Pāli-English Vocab ; Update existing notes when the first field matches ; Allow HTML in fields ; and in the last Field (40) you need to change it to **Tags**
 
 - double check everything with this picture, and click **import**
+
+- now you only need to get read of the duplicates, as described [here](https://github.com/sasanarakkha/study-tools/blob/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/SBS_P%C4%81li-English_Vocab.md#update-existing-deck-with-keeping-statistic)
+
+- Now you are up-to-date.
