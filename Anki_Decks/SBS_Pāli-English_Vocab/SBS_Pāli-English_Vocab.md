@@ -64,3 +64,15 @@ Now you are up-to-date.
 With every next update this 'test number' will be different.
 
 - If English is not your first language, it is always recommended to translate words to your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
+
+#Another method of updating
+
+If you have a problems with updating you can use the following method:
+
+- downlodad the latest csv file [here.](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/sbs-pd.csv)
+
+- in the Anki click on **File - Import**
+
+- choose downloaded sbs-pd.csv
+
+- 
