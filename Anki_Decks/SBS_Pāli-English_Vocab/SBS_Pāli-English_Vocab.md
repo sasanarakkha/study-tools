@@ -53,7 +53,7 @@ Now all cards from selected chant will appear in your Anki daily routine. After 
 
 # Updating existing deck with keeping statistic
 
-usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words]()
+usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words](https://github.com/sasanarakkha/study-tools/blob/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/SBS_P%C4%81li-English_Vocab.md#removing-duplicated-words)
 
 # Another method of updating
 
