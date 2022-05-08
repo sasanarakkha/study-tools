@@ -49,23 +49,13 @@ Now all cards are inactive for study.
 
 Now all cards from selected chant will appear in your Anki daily routine. After you finish them, you may repeat the process with another chant and so on.
 
-
-# Update existing deck with keeping statistic
-
-This work is based on the [DPD](https://digitalpalidictionary.github.io/) which is the work in progress and updating regularly. Because of this, time after time may be added or edited some words (for example: the word 'pada' become 'pada 1', because has been found another meaning of this word in another context). We need time after time to remove those duplicated words, which are not existing any more. For this reason, we have a field **"Test"**
-After you updated your Anki Deck (same way, just by double-clicking on the latest downloaded file). In **Browse** type:
-
-`"deck:SBS Pāli-English Vocab" -test:2`
-
-It will show all cards which do not have number '2' in field "Test". And you can easily delate all of this old words, by selecting all (**Ctrl + A**) and deleting (**Ctrl + Delete**). 
-
-Now you are up-to-date.
-
-With every next update this 'test number' will be different.
-
 - If English is not your first language, it is always recommended to translate words to your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
 
-#Another method of updating
+# Updating existing deck with keeping statistic
+
+usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words]()
+
+# Another method of updating
 
 If you have a problem with updating, you can use the following method:
 
@@ -81,6 +71,15 @@ If you have a problem with updating, you can use the following method:
 
 - double check everything with this picture, and click **import**
 
-- now you only need to get read of the duplicates, as described [here](https://github.com/sasanarakkha/study-tools/blob/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/SBS_P%C4%81li-English_Vocab.md#update-existing-deck-with-keeping-statistic)
+- now you are up-to-date.
 
-- Now you are up-to-date.
+# Removing duplicated words
+
+This work is based on the [DPD](https://digitalpalidictionary.github.io/) which is the work in progress and updating regularly. Because of this, time after time may be added or edited some words (for example: the word 'pada' become 'pada 1', because has been found another meaning of this word in another context). We need time after time to remove those duplicated words, which are not existing any more. For this reason, we have a field **"Test"**
+After you updated your Anki Deck (same way, just by double-clicking on the latest downloaded file). In **Browse** type:
+
+`"deck:SBS Pāli-English Vocab" -test:2`
+
+It will show all cards which do not have number '2' in field "Test". And you can easily delate all of this old words, by selecting all (**Ctrl + A**) and deleting (**Ctrl + Delete**). 
+
+With every next update this 'test number' will be different.
