@@ -67,12 +67,16 @@ With every next update this 'test number' will be different.
 
 #Another method of updating
 
-If you have a problems with updating you can use the following method:
+If you have a problem with updating, you can use the following method:
 
-- downlodad the latest csv file [here.](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/sbs-pd.csv)
+- download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/SBS_P%C4%81li-English_Vocab/sbs-pd.csv)
 
 - in the Anki click on **File - Import**
 
 - choose downloaded sbs-pd.csv
 
-- 
+![image](https://user-images.githubusercontent.com/39419221/167286562-147cf68d-df8a-4205-aab9-524d773dbc88.png)
+
+- choose Type - SBS Vocab ; Deck - SBS Pāli-English Vocab ; Update existing notes when the first field matches ; Allow HTML in fields ; and in the last Field (40) you need to change it to **Tags**
+
+- double check everything with this picture, and click **import**
