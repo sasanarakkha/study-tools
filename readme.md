@@ -20,6 +20,7 @@ Anki decks:
 - [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/Anki_Decks/Pātimokkha_Learning/Pātimokkha_Learning.html)
 - [SBS Anumodāna](https://sasanarakkha.github.io/study-tools/Anki_Decks/SBS_Anumodana/SBS_Anumodana.html)
 - [Sutta Quiz](https://sasanarakkha.github.io/study-tools/Anki_Decks/Sutta_Quiz/Sutta_Quiz.html)
+- [Пали Словарь для Анки](https://sasanarakkha.github.io/study-tools/Anki_Decks/Пали_Словарь_Анки/Пали_Словарь_Анки.html)
 
 Made available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools).
 
