@@ -9,7 +9,7 @@ Dictionaries:
 Click to download the latest version:
 
 - [SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/P%C4%81li-English%20Recitations.pdf)
-- [Analysis of SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/Analysis%20of%20SBS%20P%C4%81li-English%20Recitations.pdf)
+- [Analysis of SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/raw/main/analysis%20of%20SBS%20P%C4%81li-English%20Recitations.pdf)
 
 Anki decks:
 
