@@ -40,3 +40,19 @@
 
 - also need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/Anki_Decks/SBS_P%C4%81li-English_Vocab/test.html)
 
+# Another method of updating
+
+If you have a problem with updating, you can use the following method:
+
+- download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/DHP_Vocab/dhp.csv) In the opened window you need to **right-click** and **save as** dhp.csv.
+
+- in the Anki click on **File - Import**
+
+- choose downloaded dhp.csv
+
+- choose Type - DHP Vocab ; Deck - DHP Vocab ; Update existing notes when the first field matches ; Allow HTML in fields
+
+- double check everything with this picture, and click **import**
+
+- now you are up-to-date.
+

@@ -19,3 +19,19 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 - For updating existing pack with keeping statistic do the same, while your Anki is open, just double-click on the downloaded file Pātimokkha Word by Word.apkg, and it will update.
 
 - If English is not your first language, it is always recommended to translate words on your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
+
+# Another method of updating
+
+If you have a problem with updating, you can use the following method:
+
+- download the latest csv file [here.](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/Anki_Decks/P%C4%81timokkha_Word_By_Word/P%C4%81timokkha%20for%20Anki.csv) In the opened window you need to **right-click** and **save as** patimokkha.csv.
+
+- in the Anki click on **File - Import**
+
+- choose downloaded patimokkha.csv
+
+- choose Type - Patimokkha Word be Word ; Deck - Patimokkha Word be Word ; Update existing notes when the first field matches ; Allow HTML in fields
+
+- double check everything with this picture, and click **import**
+
+- now you are up-to-date.
