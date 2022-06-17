@@ -24,11 +24,13 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 
 If you have a problem with updating, you can use the following method:
 
-- download the latest csv file [here.](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/Anki_Decks/P%C4%81timokkha_Word_By_Word/P%C4%81timokkha%20for%20Anki.csv) In the opened window you need to **right-click** and **save as** patimokkha.csv.
+- download the latest csv file [here.](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/Anki_Decks/P%C4%81timokkha_Word_By_Word/P%C4%81timokkha%20for%20Anki.csv) In the opened window you need to **right-click** and **save as** Pātimokkha for Anki.csv
 
 - in the Anki click on **File - Import**
 
-- choose downloaded patimokkha.csv
+- choose downloaded Pātimokkha for Anki.csv
+
+![PAT](https://user-images.githubusercontent.com/39419221/174243196-9ab26e50-9c37-4166-9751-eac936340760.png)
 
 - choose Type - Patimokkha Word be Word ; Deck - Patimokkha Word be Word ; Update existing notes when the first field matches ; Allow HTML in fields
 
