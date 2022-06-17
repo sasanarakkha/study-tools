@@ -50,6 +50,9 @@ If you have a problem with updating, you can use the following method:
 
 - choose downloaded dhp.csv
 
+![dhp](https://user-images.githubusercontent.com/39419221/174243032-22bf1919-c1c8-475c-90b6-d7f2dd1a3624.png)
+
+
 - choose Type - DHP Vocab ; Deck - DHP Vocab ; Update existing notes when the first field matches ; Allow HTML in fields
 
 - double check everything with this picture, and click **import**
