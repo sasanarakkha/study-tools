@@ -13,14 +13,14 @@ Click to download the latest version:
 
 Anki decks:
 
-- [SBS Pāli-English Vocab](https://sasanarakkha.github.io/study-tools/Anki_Decks/SBS_Pāli-English_Vocab/SBS_Pāli-English_Vocab.html)
-- [DHP Vocab](https://sasanarakkha.github.io/study-tools/Anki_Decks/DHP_Vocab/DHP_Vocab.html)
-- [DHP Learning](https://sasanarakkha.github.io/study-tools/Anki_Decks/DHP_Learing/DHP_learning.html)
-- [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/Anki_Decks/Pātimokkha_Word_By_Word/Pātimokkha_Word_by_Word.html)
-- [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/Anki_Decks/Pātimokkha_Learning/Pātimokkha_Learning.html)
-- [SBS Anumodāna](https://sasanarakkha.github.io/study-tools/Anki_Decks/SBS_Anumodana/SBS_Anumodana.html)
-- [Sutta Q&A](https://sasanarakkha.github.io/study-tools/Anki_Decks/Sutta_Q&A/Sutta_Q&A.html)
-- [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/Anki_Decks/Пали_Словарь_Анки/Пали_Словарь_Анки.html)
+- [SBS Pāli-English Vocab](https://sasanarakkha.github.io/study-tools/SBS_Pāli-English_Vocab.html)
+- [DHP Vocab](https://sasanarakkha.github.io/study-tools/DHP_Vocab.html)
+- [DHP Learning](https://sasanarakkha.github.io/study-tools/DHP_learning.html)
+- [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/Pātimokkha_Word_by_Word.html)
+- [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/Pātimokkha_Learning.html)
+- [SBS Anumodāna](https://sasanarakkha.github.io/study-tools/SBS_Anumodana.html)
+- [Sutta Q&A](https://sasanarakkha.github.io/study-tools/Sutta_Q&A.html)
+- [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/Пали_Словарь_Анки.html)
 
 Made available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools).
 
