@@ -4,7 +4,7 @@
 <p>This tool is recommended to use together with the <a href="https://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp">DHP grammatical analysis</a></p>
 <ul>
 <li>
-<p><strong><a href="https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/DHP_Vocab/DHP%20vocab.apkg">Download the latest update</a></strong></p>
+<p><strong><a href="https://github.com/sasanarakkha/study-tools/releases/latest/download/dhp-vocab.apkg">Download the latest update</a></strong></p>
 </li>
 <li>
 <p>Install <a href="https://apps.ankiweb.net/">Anki</a></p>
@@ -38,17 +38,17 @@
 </ul>
 <p>Now all cards from selected vagga will appear in your Anki daily routine. After you finish them, you may repeat the process with another vagga and so on.</p>
 
-- also need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/Anki_Decks/SBS_P%C4%81li-English_Vocab/test.html)
+- also need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
 
 # Another method of updating
 
 If you have a problem with updating, you can use the following method:
 
-- download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/DHP_Vocab/dhp.csv) In the opened window you need to **right-click** and **save as** dhp.csv.
+- download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/dhp-vocab.csv) 
 
 - in the Anki click on **File - Import**
 
-- choose downloaded dhp.csv
+- choose downloaded dhp-vocab.csv
 
 ![dhp](https://user-images.githubusercontent.com/39419221/174243032-22bf1919-c1c8-475c-90b6-d7f2dd1a3624.png)
 

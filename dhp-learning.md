@@ -4,10 +4,10 @@ UNDER DEVELOPMENT
 
 Currently covered up to DHP 334.
 
-Made for memorization of DHP verses. It has cut mp3 with Venerable Ṭhitavijjo voice. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=DHP-learning-Anki).
+Made for memorization of DHP verses. It has cut mp3 with Venerable Ṭhitavijjo voice. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform).
 
-- [Download the latest update](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/DHP_Learing/DHP.apkg)
+- [Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/dhp-learning.apkg)
 
 - Install [Anki](https://apps.ankiweb.net/)
 
-- Double-click on the downloaded file SBS Anumodana.apkg, and it will appear in your Anki.
+- Double-click on the downloaded file dhp.apkg, and it will appear in your Anki.

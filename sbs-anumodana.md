@@ -1,11 +1,11 @@
 # SBS Anumodana - Anki Deck
 
-Made for memorization of Anumodana chant, how it is recited daily in [TIMS](https://m.facebook.com/TaipingInsightMeditationSociety). It has cut mp3 with Bhante Ariyadhammika’s voice. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=Anumodana).
+Made for memorization of Anumodana chant, how it is recited daily in [TIMS](https://m.facebook.com/TaipingInsightMeditationSociety). It has cut mp3 with Bhante Ariyadhammika’s voice. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform).
 
 
-Can be studied together with [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/raw/main/Analysis%20of%20SBS%20Anumodana%20by%20A%20Thanuttamo.pdf)
+Can be studied together with [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-anumodana-by-thanuttamo.pdf)
 
-- [Download the latest update](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/SBS_Anumodana/SBS%20Anumodana.apkg)
+- [Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-anumodana.apkg)
 
 - Install [Anki](https://apps.ankiweb.net/)
 

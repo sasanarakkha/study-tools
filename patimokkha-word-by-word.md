@@ -2,7 +2,7 @@
 
 UNDER DEVELOPMENT
 
-This is the Word By Word analysis of the [Dvemātikāpāḷi](https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.6.0.x.x.x.x.t) version of the Pātimokkha
+This is the Word By Word analysis of the [Dvemātikāpāḷi Chaṭṭha Saṅgāyana edition](https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.6.0.x.x.x.x.t) version of the Pātimokkha
 
 This is a work in progress. Not all Pātimokkha rules covered yet, by every week covering few rules. So far covered up to PA 48. 
 
@@ -10,7 +10,7 @@ This work recommended to study together with the [Bhikkhu Vibhaṅga](https://su
 
 It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform), thanks to Venerable Bodhirasa.
 
-- [Download the latest update](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/P%C4%81timokkha_Word_By_Word/P%C4%81timokkha%20Word%20By%20Word.apkg)
+- [Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/patimokkha-word-by-word.apkg)
 
 - Install [Anki](https://apps.ankiweb.net/)
 
@@ -24,7 +24,7 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 
 If you have a problem with updating, you can use the following method:
 
-- download the latest csv file [here.](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/Anki_Decks/P%C4%81timokkha_Word_By_Word/P%C4%81timokkha%20for%20Anki.csv) In the opened window you need to **right-click** and **save as** Pātimokkha for Anki.csv
+- download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/patimokkha-word-by-word.csv)
 
 - in the Anki click on **File - Import**
 

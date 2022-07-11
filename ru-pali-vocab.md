@@ -2,10 +2,10 @@
 
 ПРОЕКТ В РАЗРАБОТКЕ
 
-Удобрый интрумент для запоминания слов на пали. Анки версия [Пали словаря](https://sasanarakkha.github.io/study-tools/Пали_Словарь/ПалиСловарь.html). Колода доступна для публичного тестирования и [отзывов](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=ПалиСловарь)
+Удобрый интрумент для запоминания слов на пали. Анки версия [Пали словаря](https://sasanarakkha.github.io/study-tools/ru-pali-dictionary.html). Колода доступна для публичного тестирования и [отзывов](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=ПалиСловарь)
 Не забывайте регулярно загружать свежую версию.
 
-- **[Загрузить последнее обновление](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%90%D0%BD%D0%BA%D0%B8/P%C4%81li.apkg)**
+- **[Загрузить последнее обновление](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-vocab.apkg)**
 
 - Установите [Анки](https://apps.ankiweb.net/)
 
@@ -15,13 +15,13 @@
 
 обычно достаточно просто дважды щелкнуть по загруженному файлу Pāli.apkg, и он обновится в Анки.
 
-- также нужно [удалить повторяющиеся слова](https://sasanarakkha.github.io/study-tools/Пали_Словарь/тест.html)
+- также нужно [удалить повторяющиеся слова](https://sasanarakkha.github.io/study-tools/ru-test.html)
 
 # Другой метод обновления
 
 Если у вас возникли проблемы с обновлением, вы можете использовать следующий метод:
 
-- скачать последний файл csv [здесь](https://github.com/sasanarakkha/study-tools/raw/main/Anki_Decks/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%90%D0%BD%D0%BA%D0%B8/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.csv). В в открывшемся окне нужно **щелкнуть правой кнопкой мыши** и **сохранить как** Пали_Словарь.csv.
+- скачать последний файл csv [здесь](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-vocab.csv).
 
 - в Anki нажмите **Файл - Импортировать**
 
@@ -33,4 +33,4 @@
 
 - дважды проверьте все с этой картинкой и нажмите **Импортировать**
 
-- также нужно [удалить повторяющиеся слова](https://sasanarakkha.github.io/study-tools/Пали_Словарь/тест.html)
+- также нужно [удалить повторяющиеся слова](https://sasanarakkha.github.io/study-tools/ru-test.html)
