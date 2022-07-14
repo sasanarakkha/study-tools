@@ -25,3 +25,5 @@ Anki decks:
 Made available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools).
 
 If you have any questions related to Pāli-study, please [ask](mailto:devamitta@sasanarakkha.org) freely.
+
+You can check the date of latest update [here](https://github.com/sasanarakkha/study-tools/releases/latest)
