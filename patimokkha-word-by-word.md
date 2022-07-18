@@ -8,6 +8,8 @@ This is a work in progress. Not all Pātimokkha rules covered yet, by every week
 
 This work recommended to study together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb) and The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita.
 
+You can download ODS file of analysis [here](https://github.com/cjtoolseram/patimokkha_dict/raw/main/original_sources/P%C4%81timokkha%20Word%20by%20Word.ods)
+
 It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform), thanks to Venerable Bodhirasa.
 
 - [Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/patimokkha-word-by-word.apkg)
