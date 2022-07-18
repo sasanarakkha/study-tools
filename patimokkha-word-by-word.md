@@ -14,9 +14,9 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 
 - Install [Anki](https://apps.ankiweb.net/)
 
-- Double-click on the downloaded file Pātimokkha Word by Word.apkg, and it will appear in your Anki.
+- Double-click on the downloaded file patimokkha-word-by-word.apkg, and it will appear in your Anki.
 
-- For updating existing pack with keeping statistic do the same, while your Anki is open, just double-click on the downloaded file Pātimokkha Word by Word.apkg, and it will update.
+- For updating existing pack with keeping statistic do the same, while your Anki is open, just double-click on the downloaded file patimokkha-word-by-word.apkg, and it will update.
 
 - If English is not your first language, it is always recommended to translate words on your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
 
@@ -28,7 +28,7 @@ If you have a problem with updating, you can use the following method:
 
 - in the Anki click on **File - Import**
 
-- choose downloaded Pātimokkha for Anki.csv
+- choose downloaded patimokkha-word-by-word.apkg
 
 ![PAT](https://user-images.githubusercontent.com/39419221/174243196-9ab26e50-9c37-4166-9751-eac936340760.png)
 

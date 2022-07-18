@@ -10,13 +10,13 @@
 <p>Install <a href="https://apps.ankiweb.net/">Anki</a></p>
 </li>
 <li>
-<p>Double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will appear in your Anki.</p>
+<p>Double-click on the downloaded file dhp-vocab.apkg, and it will appear in your Anki.</p>
 </li>
 </ul>
 <h1>Recomended way of studying this deck:</h1>
 <ul>
 <li>
-<p>first read some vagga from DHP in the Pāli and in <a href="https://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp">the analysis</a></p>
+<p>first read some vagga from DHP in the Pāḷi and in <a href="https://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp">the analysis</a></p>
 </li>
 <li>
 <p>in Anki go to <strong>Browse</strong></p>

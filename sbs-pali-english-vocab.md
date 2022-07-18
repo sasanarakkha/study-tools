@@ -1,10 +1,10 @@
-# SBS Pāli-English Vocab - Anki Deck
+# SBS Pāḷi-English Vocab - Anki Deck
 
 UNDER DEVELOPMENT
 
-Made for memorization of words from SBS Pāli-English Recitation. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
+Made for memorization of words from SBS Pāḷi-English Recitation. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
 
-This tool is recommended to use together with the [SBS Pāli-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/); the [Analysis of SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf) and the [SBS Pāli Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html).
+This tool is recommended to use together with the [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/); the [Analysis of SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf) and the [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html).
 
 Also, as a reference can be used [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-anumodana-by-thanuttamo.pdf)
 
@@ -12,7 +12,7 @@ Also, as a reference can be used [Word by Word Analysis of SBS Anumodana made by
 
 - Install [Anki](https://apps.ankiweb.net/)
 
-- Double-click on the downloaded file SBS Pāli-English Vocab.apkg and it will appear in your Anki.
+- Double-click on the downloaded file SBS Pāḷi-English Vocab.apkg and it will appear in your Anki.
 
 # Recommended ways of studying this deck:
 
@@ -33,7 +33,7 @@ Using this method you are at risk to lose some words, because they have been add
 
 ![2022-04-17_20-04](https://user-images.githubusercontent.com/39419221/163816818-f74b1834-5d9f-4cb2-a211-08ed01a17095.png)
 
-- Select deck **SBS Pāli-English Vocab** in the left panel
+- Select deck **SBS Pāḷi-English Vocab** in the left panel
 - Select all card by **Ctrl + A**
 - Right click and choose **Toggle Suspend** (Ctrl + J)
 

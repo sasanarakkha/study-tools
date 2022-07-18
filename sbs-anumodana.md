@@ -9,4 +9,4 @@ Can be studied together with [Word by Word Analysis of SBS Anumodana made by Ven
 
 - Install [Anki](https://apps.ankiweb.net/)
 
-- Double-click on the downloaded file SBS Anumodana.apkg, and it will appear in your Anki.
+- Double-click on the downloaded file sbs-anumodana.apkg, and it will appear in your Anki.

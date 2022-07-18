@@ -13,4 +13,4 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 
 - Install [Anki](https://apps.ankiweb.net/)
 
-- Double-click on the downloaded file dhp.apkg, and it will appear in your Anki.
+- Double-click on the downloaded file nanatiloka-dictionary.apkg, and it will appear in your Anki.

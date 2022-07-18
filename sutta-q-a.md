@@ -8,5 +8,5 @@ Made for memorization some interesting and important passages from the suttas. I
 
 - Install [Anki](https://apps.ankiweb.net/)
 
-- Double-click on the downloaded file Sutta Q&A.apkg, and it will appear in your Anki.
+- Double-click on the downloaded file sutta-q-a.apkg, and it will appear in your Anki.
 

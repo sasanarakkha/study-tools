@@ -1,10 +1,10 @@
-# SBS Pāli Dictionary
+# SBS Pāḷi Dictionary
 
 UNDER DEVELOPMENT
 
-Grammatical analysis of the words from SBS Pāli-English Recitation has been made available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). It is a dictionary which runs in GoldenDict, or any other application that supports the Stardict format.
+Grammatical analysis of the words from SBS Pāḷi-English Recitation has been made available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). It is a dictionary which runs in GoldenDict, or any other application that supports the Stardict format.
 
-This tool is recommended to used together with [SBS Pāli-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/) and [Analysis of SBS Pāli-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf).
+This tool is recommended to used together with [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/) and [Analysis of SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf).
 
 [Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-pd.zip)
 

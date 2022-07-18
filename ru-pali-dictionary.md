@@ -7,6 +7,6 @@
 
 [Начать загрузку последней версии](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-dict.zip)
 
-Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html)
+Эта работа основывается на [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/index.html)
 
 При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе колода карточек, основанная на данном словаре. Свежую версию можно найти [здесь.](https://sasanarakkha.github.io/study-tools/ru-pali-vocab.html)

@@ -6,4 +6,4 @@ Made for memorization of Pātimokkha, based on the book The Bhikkhu Pātimokkha 
 
 - Install [Anki](https://apps.ankiweb.net/)
 
-- Double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will appear in your Anki.
+- Double-click on the downloaded file patimokkha-learning.apkg, and it will appear in your Anki.
