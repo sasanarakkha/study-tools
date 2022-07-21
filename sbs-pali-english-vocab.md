@@ -25,7 +25,11 @@ Also, as a reference can be used [Word by Word Analysis of SBS Anumodana made by
 
 Benefits: you will cover all words consistently.
 
-2)
+2) **Study chapter which you are interested.**
+
+Using this method you are at risk to lose some words, because they have been added in order of the Recitation Book, and if the word appear later not always it has been added again.
+- Read analysis of the chapter, which you like to study.
+- Go to corresponding sub-deck 
 
 ![image](https://user-images.githubusercontent.com/39419221/180200524-ebcb853e-a81a-4882-9722-e2c656005146.png)
 
