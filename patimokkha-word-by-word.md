@@ -4,11 +4,11 @@ UNDER DEVELOPMENT
 
 This is the Word By Word analysis of the [Dvemātikāpāḷi Chaṭṭha Saṅgāyana edition](https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.6.0.x.x.x.x.t) version of the Pātimokkha
 
-This is a work in progress. Not all Pātimokkha rules covered yet, by every week covering few rules. So far covered up to PA 48. 
+This is a work in progress. Not all Pātimokkha rules have been covered yet, every update new rules are added. So far the pack has coverage until PA 77.
 
-This work recommended to study together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb) and The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita.
+It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb) and The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita.
 
-You can download ODS file of analysis [here](https://github.com/cjtoolseram/patimokkha_dict/raw/main/original_sources/P%C4%81timokkha%20Word%20by%20Word.ods)
+You can download the .ods-file of analysis [here](https://github.com/cjtoolseram/patimokkha_dict/raw/main/original_sources/P%C4%81timokkha%20Word%20by%20Word.ods)
 
 It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform), thanks to Venerable Bodhirasa.
 
@@ -18,9 +18,9 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 
 - Double-click on the downloaded file patimokkha-word-by-word.apkg, and it will appear in your Anki.
 
-- For updating existing pack with keeping statistic do the same, while your Anki is open, just double-click on the downloaded file patimokkha-word-by-word.apkg, and it will update.
+- For updating the existing pack while keeping our past statistics, while your Anki is open, just double-click on the downloaded file patimokkha-word-by-word.apkg, and it will update. Your past statistics will not be lost.
 
-- If English is not your first language, it is always recommended to translate words on your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
+- If English is not your first language, it is recommended to translate words on your native language. For this, a field called "native" has been added that you can fill. And even with next update, this field still will keep all your info.
 
 # Another method of updating
 
