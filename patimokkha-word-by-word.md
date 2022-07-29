@@ -4,7 +4,7 @@ UNDER DEVELOPMENT
 
 This is the Word By Word analysis of the [Dvemātikāpāḷi Chaṭṭha Saṅgāyana edition](https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.6.0.x.x.x.x.t) version of the Pātimokkha
 
-This is a work in progress. Not all Pātimokkha rules covered yet, by every week covering few rules. So far covered up to PA 48. 
+This is a work in progress. Not all Pātimokkha rules covered yet, by every week covering few rules. So far covered up to PA 77. 
 
 This work recommended to study together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb) and The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita.
 
@@ -20,7 +20,7 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 
 - For updating existing pack with keeping statistic do the same, while your Anki is open, just double-click on the downloaded file patimokkha-word-by-word.apkg, and it will update.
 
-- If English is not your first language, it is always recommended to translate words on your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
+- If English is not your first language, it is always recommended to translate words on your native language. For this, we have empty field "native" that you can fill. And even with next update, this field still will keep all your info.
 
 # Another method of updating
 
