@@ -2,11 +2,11 @@
 
 UNDER DEVELOPMENT
 
-Made for memorization of words from SBS Pāḷi-English Recitation. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
+Made for the memorization of words from 'SBS Pāḷi-English Recitations'. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
 
-This tool is recommended to use together with the [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/); the [Analysis of SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf) and the [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html).
+This tool is recommended to be used together with [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/); the [Analysis of SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf) and the [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html).
 
-Also, as a reference can be used [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-anumodana-by-thanuttamo.pdf)
+Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-anumodana-by-thanuttamo.pdf) can be made use of.
 
 - **[Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-pali-english-vocab.apkg)**
 
@@ -20,24 +20,24 @@ Also, as a reference can be used [Word by Word Analysis of SBS Anumodana made by
 
 - Read analysis of the first chant. 
 - Then study words from this chant. 
-- After, go to the next chant. 
+- After this, go to the next chant. 
 - Better to go with order of the Recitation Book.
 
 Benefits: you will cover all words consistently.
 
-2) **Study chapter which you are interested.**
+2) **Study the chapter that you are interested.**
 
 Using this method you are at risk to lose some words, because they have been added in order of the Recitation Book, and if the word appear later not always it has been added again.
-- Read analysis of the chapter, which you like to study.
+- Read analysis of the chapter that you like to study.
 - Go to corresponding sub-deck 
 
 ![image](https://user-images.githubusercontent.com/39419221/180200524-ebcb853e-a81a-4882-9722-e2c656005146.png)
 
 
-2) **Study chants which you are interested.**
+2) **Study chants that you are interested.**
 
-Using this method you are at risk to lose some words, because they have been added in order of the Recitation Book, and if the word appear later not always it has been added again.
-- Read analysis of the chant, which you like to study. 
+Using this method you are at risk to lose some words, because they have been added in order of the Recitation Book, and if the word appear later it is not always added again.
+- Read the analysis of the chant that you like to study. 
 - in Anki go to **Browse**
 
 ![2022-04-17_20-04](https://user-images.githubusercontent.com/39419221/163816818-f74b1834-5d9f-4cb2-a211-08ed01a17095.png)
@@ -56,13 +56,13 @@ Now all cards are inactive for study.
 
 ![2022-04-17_20-07](https://user-images.githubusercontent.com/39419221/163816889-740ebca2-d637-4461-9a05-0bc0c07fb393.png)
 
-Now all cards from selected chant will appear in your Anki daily routine. After you finish them, you may repeat the process with another chant and so on.
+Now all cards from the selected chant will appear in your Anki daily routine. After you finish them, you may repeat the process with another chant and so on.
 
-- If English is not your first language, it is always recommended to translate words to your native language. For this, we have empty field "native". You can feel it. And even with next update, this field still will keep all your info.
+- If English is not your first language, it is always recommended to translate words to your native language. For this, there is an empty field called "native".,that you can fill. And even with next update, this field still will keep all your info.
 
-# Updating existing deck with keeping statistic
+# Updating existing deck without losing your statistics
 
-usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+Usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
 
 # Another method of updating
 
@@ -82,5 +82,5 @@ If you have a problem with updating, you can use the following method:
 
 - now you are up-to-date.
 
-- also need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
 
