@@ -2,7 +2,7 @@
 
 UNDER DEVELOPMENT
 
-Made for memorization enteries of the Buddhist Dictionary - Manual of Buddhist Terms and Doctrines, 
+Made for memorization of the entries of the Buddhist Dictionary - Manual of Buddhist Terms and Doctrines, 
 by Ñāṇatiloka Mahathero.
 
 Source: Tipitaka - der Pali Kanon des Theraváda-Buddhismus, http://www.palikanon.com
