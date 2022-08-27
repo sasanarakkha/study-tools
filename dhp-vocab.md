@@ -77,3 +77,9 @@ If you have a problem with updating, you can use the following method:
 - also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
 
 
+
+
+https://user-images.githubusercontent.com/39419221/187020101-701ee57e-b708-4be1-91d7-0c9b411a11cd.mp4
+
+
+
