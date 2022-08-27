@@ -25,15 +25,6 @@ Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhan
 
 Benefits: you will cover all words consistently.
 
-2) **Study the chapter that you are interested.**
-
-Using this method you are at risk to lose some words, because they have been added in order of the Recitation Book, and if the word appear later not always it has been added again.
-- Read analysis of the chapter that you like to study.
-- Go to corresponding sub-deck 
-
-![image](https://user-images.githubusercontent.com/39419221/180200524-ebcb853e-a81a-4882-9722-e2c656005146.png)
-
-
 2) **Study chants that you are interested.**
 
 Using this method you are at risk to lose some words, because they have been added in order of the Recitation Book, and if the word appear later it is not always added again.
@@ -62,6 +53,8 @@ Now all cards from the selected chant will appear in your Anki daily routine. Af
 
 # Updating existing deck without losing your statistics
 
+There is a small video how to update.
+
 Usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
 
 # Another method of updating
@@ -69,6 +62,8 @@ Usually it is enough just to double-click on the downloaded file SBS Pāli-Engli
 If you have a problem with updating, you can use the following method:
 
 - download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-pd.csv)
+
+- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/sbs-fields.png). You can check it in menu: **Tools > Manage Note Types**
 
 - in the Anki click on **File - Import**
 
