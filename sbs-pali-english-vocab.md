@@ -55,6 +55,12 @@ Now all cards from the selected chant will appear in your Anki daily routine. Af
 
 There is a small video how to update.
 
+
+
+https://user-images.githubusercontent.com/39419221/187018792-3afe402c-e77b-46e6-ba5d-4efa0846de93.mp4
+
+
+
 Usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
 
 # Another method of updating
