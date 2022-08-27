@@ -59,3 +59,8 @@ If you have a problem with updating, you can use the following method:
 
 - now you are up-to-date.
 
+
+![image](https://user-images.githubusercontent.com/39419221/187018978-aa198754-bf2d-49c1-a470-1d3a80ea8acb.png)
+![image](https://user-images.githubusercontent.com/39419221/187018990-f0ce18f6-d36f-434b-a19c-cb5f54f5ffe3.png)
+
+
