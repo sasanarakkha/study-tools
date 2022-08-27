@@ -65,15 +65,23 @@ If you have a problem with updating, you can use the following method:
 
 - make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/sbs-fields.png). You can check it in menu: **Tools > Manage Note Types**
 
+![image](https://user-images.githubusercontent.com/39419221/187018182-541cc298-2e2c-40d7-9fb9-8234c1beffc0.png)
+
+- make sure that your card settings exectly the same as current [card settings](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab.txt). You can check it in menu: **Tools > Manage Note Types**
+
+![image](https://user-images.githubusercontent.com/39419221/187018254-38971497-8fa9-40e4-97db-1d6fe9e200ed.png)
+
 - in the Anki click on **File - Import**
+
+![image](https://user-images.githubusercontent.com/39419221/187018280-c295e071-c130-4f42-8518-a3a5e0326124.png)
 
 - choose downloaded sbs-pd.csv
 
-![image](https://user-images.githubusercontent.com/39419221/167286562-147cf68d-df8a-4205-aab9-524d773dbc88.png)
-
-- choose Type - SBS Vocab ; Deck - SBS Pāli-English Vocab ; Update existing notes when the first field matches ; Allow HTML in fields ; and in the last Field (40) you need to change it to **Tags**
+- choose Type - SBS Vocab ; Deck - SBS Pāli-English Vocab ; Update existing notes when the first field matches ; Allow HTML in fields ; and in the last Field (42) you need to change it to **Tags**
 
 - double check everything with this picture, and click **import**
+
+![image](https://user-images.githubusercontent.com/39419221/187018321-7e157b8f-57f0-4216-a5f2-a0008f21295e.png)
 
 - now you are up-to-date.
 
