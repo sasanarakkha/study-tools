@@ -32,7 +32,7 @@ If you have a problem with updating, you can use the following method:
 
 - in the Anki click on **File - Import**
 
-- choose downloaded patimokkha-word-by-word.apkg
+- choose downloaded patimokkha-word-by-word.csv
 
 ![PAT](https://user-images.githubusercontent.com/39419221/174243196-9ab26e50-9c37-4166-9751-eac936340760.png)
 
