@@ -12,6 +12,8 @@ This draft based on the Beginner Pāli Course made by Ven. Bodhirasa. This docum
 
 [Key to Exercises for Beginner Pāli Course](https://docs.google.com/document/d/14ZtcfunRroZl5yvxQdUojMXOj83IAqhIWFUjw5hC2pY/)
 
+[Sentences from Beginner Pāli Course](https://docs.google.com/document/d/19u1_BuP1ovgjqGf8GWkCE2zlS977jnHE6MXHv5EPBXU/)
+
 Anki Decks, vocabulary.xlsx and other materials can be found on the file server:
 
 `share1/Sharing between users/13 For Pāli class/`
