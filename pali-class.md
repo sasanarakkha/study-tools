@@ -1,4 +1,4 @@
-# Beginner Pāli Course at SBS
+# **Beginner Pāli Course at SBS**
 
 **UNDER DEVELOPMENT**
 
@@ -23,6 +23,10 @@ This draft based on the Beginner Pāli Course made by Ven. Bodhirasa. This docum
 -------
 
 - [Sentences from Beginner Pāli Course](https://docs.google.com/document/d/19u1_BuP1ovgjqGf8GWkCE2zlS977jnHE6MXHv5EPBXU/)
+
+- [Key to Sentences from Beginner Pāli Course]()
+
+-------
 
 Anki Decks, vocabulary.xlsx and other materials can be found on the file server:
 
