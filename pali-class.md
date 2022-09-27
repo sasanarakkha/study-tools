@@ -12,7 +12,7 @@ This draft based on the Beginner Pāli Course made by Ven. Bodhirasa. This docum
 
 - [Examples from Tipiṭaka](https://docs.google.com/document/d/11QMWMTxnxkz5YeHnlxm1YJap2VxAeXTK9_j2F-6o5OI/)
 
-- [Key to Examples from Tipiṭaka](https://docs.google.com/document/d/1Gswovnkf3m8ZRkZjhWAjbboT6KSHIoN2OegGQVEopV4/)
+- [Key to Examples from Tipiṭaka](https://docs.google.com/document/d/1cHq5qkUIBkZdUgRUmbmqgOKdGgS2gUheCoPvQlRXscw/)
 
 -------
 
