@@ -8,6 +8,8 @@ This draft based on the Beginner Pāli Course made by Ven. Bodhirasa. This docum
 
 [Examples from Tipiṭaka](https://docs.google.com/document/d/11QMWMTxnxkz5YeHnlxm1YJap2VxAeXTK9_j2F-6o5OI/)
 
+[Key to Examples from Tipiṭaka](https://docs.google.com/document/d/1Gswovnkf3m8ZRkZjhWAjbboT6KSHIoN2OegGQVEopV4/)
+
 [Exercises for Beginner Pāli Course](https://docs.google.com/document/d/13BVDI3SSNqfd2gmv-cnUZynJ63es7-0TNkqXP95Wqb0/)
 
 [Key to Exercises for Beginner Pāli Course](https://docs.google.com/document/d/14ZtcfunRroZl5yvxQdUojMXOj83IAqhIWFUjw5hC2pY/)
