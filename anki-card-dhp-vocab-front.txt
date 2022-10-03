@@ -1,0 +1,41 @@
+<div style='font-size: 80%;'><I>{{sutta1}}</I></div>
+
+<div class=myclass>
+<div style='font-size: 65%;'><i>{{source1}}</i></div>
+</div>
+
+<div>{{sentence1}}</div>
+
+{{#source2}} 
+
+<div class=brclass><br></div>
+<div class=brclass><br></div>
+
+{{/source2}}
+
+
+<div style='font-size: 80%;'><I>{{sutta2}}</I></div>
+
+<div class=myclass>
+<div style='font-size: 65%;
+ '><i>{{source2}}</i></div>
+</div>
+<div>{{sentence2}}</div>
+
+
+<div class=brclass><br></div>
+
+
+<div style='font-size: 80%;'><I>{{sutta3}}</I></div>
+
+<div class=myclass>
+<div style='font-size: 65%;
+ '><i>{{source3}}</i></div>
+</div>
+</div>
+<div>{{sentence3}}</div>
+<div class=brclass><br></div>
+
+<hr>
+
+<div><b>{{pali}}</b></div>
