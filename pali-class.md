@@ -28,7 +28,19 @@ This draft based on the Beginner Pāli Course made by Ven. Bodhirasa. This docum
 
 -------
 
-Anki Decks, vocabulary.xlsx and other materials can be found on the file server:
+- Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Vocab%20P%C4%81li%20Class.apkg)
+
+- Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Grammar%20P%C4%81li%20Class.apkg)
+
+-------
+
+- [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/vocab) with vocab csv files related to each class
+
+- [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pics-wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class
+
+-------
+
+All these materials can be found on the SBS file server:
 
 `\\FILESRV1\share1\Sharing between users\13 For Pāli class`
 
