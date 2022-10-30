@@ -44,4 +44,12 @@ All these materials can be found on the SBS file server:
 
 `\\FILESRV1\share1\Sharing between users\13 For Pāli class`
 
+-------
+
+It is recommended to use the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html). Which has links between the meaning of words and sentences from exercise to course.
+
+It is also very useful to have an updated version of DPD, [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/).
+
+-------
+
 We really appreciate all ideas and feedback, please use [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc0KxEDyN5G2Mqr4t3AvDpXxSOIbIBi0GrZsAGhDB207sjLow/viewform)
