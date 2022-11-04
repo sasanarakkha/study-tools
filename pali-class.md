@@ -10,21 +10,26 @@ This draft based on the Beginner Pāli Course made by Ven. Bodhirasa. This docum
 
 -------
 
-- [Examples from Tipiṭaka](https://docs.google.com/document/d/11QMWMTxnxkz5YeHnlxm1YJap2VxAeXTK9_j2F-6o5OI/)
-
-- [Key to Examples from Tipiṭaka](https://docs.google.com/document/d/1cHq5qkUIBkZdUgRUmbmqgOKdGgS2gUheCoPvQlRXscw/)
-
--------
-
 - [Exercises for Beginner Pāli Course](https://docs.google.com/document/d/13BVDI3SSNqfd2gmv-cnUZynJ63es7-0TNkqXP95Wqb0/)
 
 - [Key to Exercises for Beginner Pāli Course](https://docs.google.com/document/d/14ZtcfunRroZl5yvxQdUojMXOj83IAqhIWFUjw5hC2pY/)
 
 -------
 
+- [Examples from Tipiṭaka](https://docs.google.com/document/d/11QMWMTxnxkz5YeHnlxm1YJap2VxAeXTK9_j2F-6o5OI/)
+
+- [Key to Examples from Tipiṭaka](https://docs.google.com/document/d/1cHq5qkUIBkZdUgRUmbmqgOKdGgS2gUheCoPvQlRXscw/)
+
+-------
+
 - [Sentences from Beginner Pāli Course](https://docs.google.com/document/d/19u1_BuP1ovgjqGf8GWkCE2zlS977jnHE6MXHv5EPBXU/)
 
 - [Key to Sentences from Beginner Pāli Course](https://docs.google.com/document/d/1U6EnudzNGIYxuzupwy8bT_sSvLu1JLjLF_Br_k6arMw/)
+
+to download any of those documents, choose needed format:  **File > Download > DOCX (or) PDF**
+
+![image](https://user-images.githubusercontent.com/39419221/199924044-aa65bd28-fe5e-4138-9729-9b81a098d806.png)
+
 
 -------
 
