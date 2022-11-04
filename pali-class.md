@@ -26,7 +26,8 @@ This draft based on the Beginner Pāli Course made by Ven. Bodhirasa. This docum
 
 - [Key to Sentences from Beginner Pāli Course](https://docs.google.com/document/d/1U6EnudzNGIYxuzupwy8bT_sSvLu1JLjLF_Br_k6arMw/)
 
-to download any of those documents, choose needed format:  **File > Download > DOCX (or) PDF**
+to download any of these documents, select the needed format:  
+**File > Download > DOCX (or) PDF**
 
 ![image](https://user-images.githubusercontent.com/39419221/199924044-aa65bd28-fe5e-4138-9729-9b81a098d806.png)
 
