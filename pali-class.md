@@ -4,6 +4,8 @@
 
 This draft based on the Beginner Pāli Course made by Ven. Bodhirasa. This document is a work in progress, please don’t share or distribute outside of the class.
 
+Please download the latest version of all documents and dictionaries every week, after each class we make some new changes and corrections.
+
 -------
 
 - [Beginner Pāli Course](https://docs.google.com/document/d/1mXn2uQyPoFjpqKj5xKAPEFdb25pLwQ2yOxTiLeAh4_c/)
