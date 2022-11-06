@@ -38,6 +38,8 @@ to download any of these documents, select the needed format:
 
 - Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Vocab%20P%C4%81li%20Class.apkg)
 
+see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html) how and why we need to remove duplicates
+
 - Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Grammar%20P%C4%81li%20Class.apkg)
 
 -------
