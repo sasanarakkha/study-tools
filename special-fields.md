@@ -18,7 +18,7 @@ open settings of Add-on special fields **Tools > Special Fields**
 
 ![image](https://user-images.githubusercontent.com/39419221/200498866-7718e0aa-873c-4ed6-aec4-3abbd733f731.png)
 
-click **Update Settings**
+click **'Update' Settings**
 
 also, if you like to protect fields which you edit yourself, like **native** or **notez** - you may specify them, and Add-on will protect them while next update.
 
