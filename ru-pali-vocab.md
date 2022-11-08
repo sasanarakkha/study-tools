@@ -13,6 +13,8 @@
 
 # Обновление существующей колоды с сохранением статистики
 
+Рекомендуется использовать Аддон для Анки [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
+
 обычно достаточно просто дважды щелкнуть по загруженному файлу ru-pali-vocab.apkg, и он обновится в Анки.
 
 - также нужно [удалить повторяющиеся слова](https://sasanarakkha.github.io/study-tools/ru-test.html)
