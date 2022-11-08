@@ -1,11 +1,29 @@
-<h1>Removing duplicated words</h1>
+<h1>Add-on special fields</h1>
 
-Please see small [video](https://user-images.githubusercontent.com/39419221/187020101-701ee57e-b708-4be1-91d7-0c9b411a11cd.mp4) how to do it.
+This add-on make things easier when you update Anki decks
 
-<p>This work is based on the <a href="https://digitalpalidictionary.github.io/">DPD</a> dictionary which is a work in progress and being updated regularly. Because of this, from time to time may an updated may be done of selected words (this will show itself like this; for example: the word 'pada' will become 'pada 1', and variations of meanings of 'pada' will be added as 'pada 2', 'pada 3' etc.). </p>
-<p>From this follows that from time to time duplicated words (the original 'pada' is now duplicated as 'pada 1', need to be removed. For this, the field called <strong>"Test"</strong> is used.</p>
-<p>After you updated the downloaded Anki Deck (same way, just by double-clicking on the latest downloaded file). Choose your Deck and in the <strong>Browse</strong> add:</p>
-<p><code>-test:</code>82</p>
-<p>It will show all cards which do not have a number in field "Test". And you can easily delate all of this old words, by selecting all (<strong>Ctrl + A</strong>) and deleting (<strong>Ctrl + Delete</strong>). </p>
-<p>Now you are up-to-date.</p>
-<p>With every update, this number will be different.</p>
+Open **Anki > Tools > Add-ons**
+
+![image](https://user-images.githubusercontent.com/39419221/200498467-26700367-d17e-4704-813c-59b3f0502e94.png)
+
+You can check [page](https://ankiweb.net/shared/info/1102281552) of Add-on "special fields"
+
+Click **Get Add-ons > 1102281552 > OK**
+
+![image](https://user-images.githubusercontent.com/39419221/200498685-bb38bca2-51d1-4d8d-ac63-d453e53544ae.png)
+
+restart Anki
+
+open settings of Add-on special fields **Tools > Special Fields**
+
+![image](https://user-images.githubusercontent.com/39419221/200498866-7718e0aa-873c-4ed6-aec4-3abbd733f731.png)
+
+click **Update Settings** and choose **All fields are special**
+
+also, if you like to protect fields which you edit yourself, like **native** or **notez** - you may specify them, and Add-on will protect them while next update.
+
+![image](https://user-images.githubusercontent.com/39419221/200499088-6a549666-9dc4-41c3-8d00-e87ff0deaa85.png)
+
+For more details how to use this add-on see small [video](https://youtu.be/TTHpODHBk3U).
+
+Now you can update your decks.
