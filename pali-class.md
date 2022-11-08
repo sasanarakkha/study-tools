@@ -38,7 +38,7 @@ to download any of these documents, select the needed format:
 
 - Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Vocab%20P%C4%81li%20Class.apkg)
 
-It is reccomended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
+It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
 
 see small video how-to-update in Class folder on the server
 
