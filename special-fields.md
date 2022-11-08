@@ -18,11 +18,11 @@ open settings of Add-on special fields **Tools > Special Fields**
 
 ![image](https://user-images.githubusercontent.com/39419221/200498866-7718e0aa-873c-4ed6-aec4-3abbd733f731.png)
 
-click **Update Settings** and choose **All fields are special**
+click **Update Settings**
 
 also, if you like to protect fields which you edit yourself, like **native** or **notez** - you may specify them, and Add-on will protect them while next update.
 
-![image](https://user-images.githubusercontent.com/39419221/200499088-6a549666-9dc4-41c3-8d00-e87ff0deaa85.png)
+![image](https://user-images.githubusercontent.com/39419221/200555605-f1575f9d-d26b-43b9-b9d2-c0a7797468f0.png)
 
 For more details how to use this add-on see small [video](https://youtu.be/TTHpODHBk3U).
 
