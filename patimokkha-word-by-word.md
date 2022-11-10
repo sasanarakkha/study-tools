@@ -10,6 +10,9 @@ It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](http
 
 You can see and comment analysis [here](https://docs.google.com/spreadsheets/d/1HnnxNvFZEOltxTQJWvCVkHQAapI6qFlx_p4ygO9JkW0/)
 
+![image](https://user-images.githubusercontent.com/39419221/201099247-07acfb11-a014-4501-9a93-f5c38840b064.png)
+
+
 It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform), thanks to Venerable Bodhirasa.
 
 - [Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/patimokkha-word-by-word.apkg)
