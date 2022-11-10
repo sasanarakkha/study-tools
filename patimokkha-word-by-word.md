@@ -8,7 +8,7 @@ This is a work in progress. Not all Pātimokkha rules have been covered yet, eve
 
 It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb) and The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita.
 
-You can download the .ods-file of analysis [here](https://github.com/cjtoolseram/patimokkha_dict/raw/main/original_sources/P%C4%81timokkha%20Word%20by%20Word.ods)
+You can see and comment analysis [here](https://docs.google.com/spreadsheets/d/1HnnxNvFZEOltxTQJWvCVkHQAapI6qFlx_p4ygO9JkW0/)
 
 It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform), thanks to Venerable Bodhirasa.
 
@@ -19,6 +19,8 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 - Double-click on the downloaded file patimokkha-word-by-word.apkg, and it will appear in your Anki.
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
+
+
 
 for update information see small [video](https://user-images.githubusercontent.com/39419221/184583735-fa65dec0-cf6a-4198-91e2-b214662a51c5.mp4)
 
