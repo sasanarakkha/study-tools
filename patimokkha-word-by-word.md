@@ -2,7 +2,7 @@
 
 UNDER DEVELOPMENT
 
-This is the word by word analysis of the Dvemātikāpāḷi Bhikkhupātimokkhapāḷi, the Chaṭṭha Saṅgāyana edition: [DPR](https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.6.0.x.x.x.x.t) or [Suttacentral](https://suttacentral.net/pli-tv-bu-pm/pli/ms?layout=plain&reference=cck/pts/vri&notes=asterisk&highlight=true&script=latin)
+This is the word by word analysis of the Dvemātikāpāḷi Bhikkhupātimokkha, the Chaṭṭha Saṅgāyana edition: [DPR](https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.6.0.x.x.x.x.t) or [Suttacentral](https://suttacentral.net/pli-tv-bu-pm/pli/ms?layout=plain&reference=cck/pts/vri&notes=asterisk&highlight=true&script=latin)
 
 This is a work in progress. Not all Pātimokkha rules have been covered yet, every update new rules are added. So far the pack has coverage until PA 77.
 
