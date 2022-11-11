@@ -37,7 +37,21 @@ If you have a problem with updating, you can use the following method:
 
 - download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/patimokkha-word-by-word.csv)
 
+- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/pat-fields.png). You can check it in menu: **Tools > Manage Note Types**
+
+![image](https://user-images.githubusercontent.com/39419221/201275418-161e0941-c36d-4f14-a429-0ea166ea44b6.png)
+
+- make sure that your card settings exectly the same as current card settings. You can check it in menu: **Tools > Manage Note Types**
+
+![image](https://user-images.githubusercontent.com/39419221/201275452-16521bbe-a1fa-4bde-b7eb-0a12e2e31134.png)
+
+- note that there are 3 different fields for card settings: [**FRONT TEMPLATE**](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-pat-front.txt) ; [**BACK TEMPLATE**](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-pat-back.txt) and [**STYLE**](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-pat-style.txt) Check that each of them matches current card settings.
+
+![image](https://user-images.githubusercontent.com/39419221/201276425-fb934126-b498-4144-adeb-7cd943cc9913.png)
+
 - in the Anki click on **File - Import**
+
+![image](https://user-images.githubusercontent.com/39419221/187018280-c295e071-c130-4f42-8518-a3a5e0326124.png)
 
 - choose downloaded patimokkha-word-by-word.csv
 
