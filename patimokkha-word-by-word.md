@@ -61,6 +61,8 @@ If you have a problem with updating, you can use the following method:
 
 - double check everything with this picture, and click **import**
 
+- also make sure to remove duplicated words. Use `-test:10` in Anki browser, selecting current deck and delete old words (should be not more then 100 words)
+
 - now you are up-to-date.
 
 
