@@ -20,7 +20,7 @@ open settings of Add-on special fields **Tools > Special Fields**
 
 click **'Update' Settings**
 
-also, if you like to protect fields which you edit yourself, like **native** or **marks** - you may specify them, and Add-on will protect them while next update.
+also, if you like to protect fields which you edit yourself, like **native** or **marks** - you may add them, and Add-on will protect them while next update.
 
 ![image](https://user-images.githubusercontent.com/39419221/200596447-c492169d-413b-44a8-be8d-019197edfd8e.png)
 

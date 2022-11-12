@@ -75,7 +75,12 @@ If you have a problem with updating, you can use the following method:
 
 ![image](https://user-images.githubusercontent.com/39419221/187018254-38971497-8fa9-40e4-97db-1d6fe9e200ed.png)
 
-- note that there are 3 different fields for card settings: [**FRONT TEMPLATE**](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab-front.txt) ; [**BACK TEMPLATE**](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab-back.txt) and [**STYLE**](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab-style.txt) Check that each of them matches current card settings.
+- note that there are 3 different fields for card settings: 
+1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab-front.txt)
+2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab-back.txt)
+3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab-style.txt) 
+
+Check that each of them matches current card settings.
 - 
 ![image](https://user-images.githubusercontent.com/39419221/193513245-d7d4277b-45d4-4615-a9bc-6c477f6e7cb6.png)
 

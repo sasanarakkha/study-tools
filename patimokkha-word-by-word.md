@@ -21,7 +21,7 @@ It is available for public testing and [feedback](https://docs.google.com/forms/
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
 
-also please remove duplicates by using `-test:10` in the Anki browser
+- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
 
 for update information see small [video](https://user-images.githubusercontent.com/39419221/184583735-fa65dec0-cf6a-4198-91e2-b214662a51c5.mp4)
 
@@ -43,7 +43,12 @@ If you have a problem with updating, you can use the following method:
 
 ![image](https://user-images.githubusercontent.com/39419221/201275452-16521bbe-a1fa-4bde-b7eb-0a12e2e31134.png)
 
-- note that there are 3 different fields for card settings: [**FRONT TEMPLATE**](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-pat-front.txt) ; [**BACK TEMPLATE**](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-pat-back.txt) and [**STYLE**](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-pat-style.txt) Check that each of them matches current card settings.
+- note that there are 3 different fields for card settings: 
+1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-pat-front.txt) ; 
+2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-pat-back.txt)
+3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-pat-style.txt) 
+
+Check that each of them matches current card settings.
 
 ![image](https://user-images.githubusercontent.com/39419221/201276425-fb934126-b498-4144-adeb-7cd943cc9913.png)
 
@@ -59,7 +64,7 @@ If you have a problem with updating, you can use the following method:
 
 - double check everything with this picture, and click **import**
 
-- also make sure to remove duplicated words. Use `-test:10` in Anki browser, selecting current deck and delete old words (should be not more then 100 words)
+- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
 
 - now you are up-to-date.
 
