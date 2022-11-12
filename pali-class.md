@@ -67,3 +67,12 @@ It is also very useful to have an updated version of DPD, [Digital Pāḷi Dicti
 -------
 
 We really appreciate all ideas and feedback, please use [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc0KxEDyN5G2Mqr4t3AvDpXxSOIbIBi0GrZsAGhDB207sjLow/viewform)
+
+or just in any document select, right click and comment
+
+![image](https://user-images.githubusercontent.com/39419221/201474905-65994ba4-1f0e-4d0f-9f87-c569b4334c53.png)
+
+-------
+
+Thank you
+
