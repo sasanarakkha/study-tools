@@ -31,7 +31,7 @@ Please download the latest version of all documents and dictionaries every week,
 to download any of these documents, select the needed format:  
 **File > Download > DOCX (or) PDF**
 
-![image](https://user-images.githubusercontent.com/39419221/199924044-aa65bd28-fe5e-4138-9729-9b81a098d806.png)
+![image](https://user-images.githubusercontent.com/39419221/201474798-8fe9178b-4637-47e1-a82f-76403c88752b.png)
 
 
 -------
