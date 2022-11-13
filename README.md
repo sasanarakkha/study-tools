@@ -19,7 +19,7 @@ Anki decks:
 - [DHP Learning](https://sasanarakkha.github.io/study-tools/dhp-learning.html)
 - [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/patimokkha-word-by-word.html)
 - [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/patimokkha-learning.html)
-- [SBS Anumodāna](https://sasanarakkha.github.io/study-tools/sbs-anumodana.html)
+- [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/sbs-daily-chanting-sentences.html)
 - [Sutta Q&A](https://sasanarakkha.github.io/study-tools/sutta-q-a.html)
 - [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/ru-pali-vocab.html)
 - [Ñāṇatiloka Buddhist Dictionary](https://sasanarakkha.github.io/study-tools/nanatiloka.html)
