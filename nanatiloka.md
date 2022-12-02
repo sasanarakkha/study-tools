@@ -5,7 +5,8 @@ UNDER DEVELOPMENT
 Made for memorization of the entries of the Buddhist Dictionary - Manual of Buddhist Terms and Doctrines, 
 by Ñāṇatiloka Mahathero.
 
-Source: Tipitaka - der Pali Kanon des Theraváda-Buddhismus, http://www.palikanon.com
+Source: [Buddhist Dictionary Manual of Buddhist Terms and Doctrines, 
+by Ñāṇatiloka](https://www.palikanon.com/english/wtb/dic_idx.html)
 
 It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform).
 
