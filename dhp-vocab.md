@@ -68,7 +68,7 @@ If you have a problem with updating, you can use the following method:
 
 Check that each of them matches current card settings.
 - 
-![image](https://user-images.githubusercontent.com/39419221/193513245-d7d4277b-45d4-4615-a9bc-6c477f6e7cb6.png)
+![image](https://user-images.githubusercontent.com/39419221/205493920-854a4da9-1e37-4a17-8a11-12dcceea3754.png)
 
 
 - in the Anki click on **File - Import**
