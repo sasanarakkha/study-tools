@@ -26,7 +26,7 @@ This tool is recommended to be for advance Pāli students.
 <li>Right click and choose <strong>Toggle Suspend</strong> (Ctrl + J)</li>
 </ul>
 <p>Now all cards are inactive for study.</p>
-<p><img alt="2022-04-19_15-03" src="https://user-images.githubusercontent.com/39419221/163945216-713c1d2e-ce3f-4f28-ac49-93e7fdb56033.png" /></p>
+<p><img alt="2022-04-19_15-03" src="https://user-images.githubusercontent.com/39419221/205493741-28c7b342-cdcd-46e1-ae29-8570c1792715.png" /></p>
 <ul>
 <li>Select the deck <strong>Sutta Pitaka Vocab</strong> in the left panel</li>
 <li>Select the sutta by searching for name the of the sutta (e.g. madhupiṇḍikasutta) in this deck or just number of sutta-pitaka (e.g. MN_18 or AN_)</li>
@@ -55,20 +55,20 @@ If you have a problem with updating, you can use the following method:
 
 - make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/sutta-pitaka-fields.png). You can check it in menu: **Tools > Manage Note Types**
 
-![image](https://user-images.githubusercontent.com/39419221/187018978-aa198754-bf2d-49c1-a470-1d3a80ea8acb.png)
+![image](https://user-images.githubusercontent.com/39419221/205493835-f778130b-d941-47ee-896a-7d66432891ae.png)
 
 - make sure that your card settings exectly the same as current card settings. You can check it in menu: **Tools > Manage Note Types**
 
-![image](https://user-images.githubusercontent.com/39419221/187018990-f0ce18f6-d36f-434b-a19c-cb5f54f5ffe3.png)
+![image](https://user-images.githubusercontent.com/39419221/205493858-dc25632e-7167-4c1f-8da5-9c8dbf4dad72.png)
 
 - note that there are 3 different fields for card settings: 
-1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sutta-pitaka-vocab-front.txt)
-2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sutta-pitaka-vocab-back.txt)
-3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sutta-pitaka-vocab-style.txt) 
+1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-dhp-vocab-front.txt)
+2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-dhp-vocab-back.txt)
+3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-dhp-vocab-style.txt) 
 
 Check that each of them matches current card settings.
 - 
-![image](https://user-images.githubusercontent.com/39419221/193513245-d7d4277b-45d4-4615-a9bc-6c477f6e7cb6.png)
+![image](https://user-images.githubusercontent.com/39419221/205493897-e5b75f13-f22f-4616-94fb-85a0a64bf2b4.png)
 
 
 - in the Anki click on **File - Import**
@@ -77,9 +77,9 @@ Check that each of them matches current card settings.
 
 - choose downloaded sutta-pitaka-vocab.csv
 
-- choose Type - sutta-pitaka Vocab ; Deck - sutta-pitaka Vocab ; Update existing notes when the first field matches ; Allow HTML in fields
+- choose Type - Sutta Pitaka Vocab ; Deck - Sutta Pitaka Vocab ; Update existing notes when the first field matches ; Allow HTML in fields
 
-![sutta-pitaka](https://user-images.githubusercontent.com/39419221/174243032-22bf1919-c1c8-475c-90b6-d7f2dd1a3624.png)
+![image](https://user-images.githubusercontent.com/39419221/205493976-56dd78d5-70b6-4e33-b96f-f9c2736bb16a.png)
 
 - double check everything with this picture, and click **import**
 
