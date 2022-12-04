@@ -29,7 +29,7 @@ This tool is recommended to be for advance Pāli students.
 <p><img alt="2022-04-19_15-03" src="https://user-images.githubusercontent.com/39419221/205493741-28c7b342-cdcd-46e1-ae29-8570c1792715.png" /></p>
 <ul>
 <li>Select the deck <strong>Sutta Pitaka Vocab</strong> in the left panel</li>
-<li>Select the sutta by searching for name the of the sutta (e.g. madhupiṇḍikasutta) in this deck or just number of sutta-pitaka (e.g. MN_18 or AN_)</li>
+<li>Select the sutta by searching for name the of the sutta (e.g. madhupiṇḍikasutta) in this deck or just number of sutta-pitaka (e.g. MN_18 or AN_ 7.61)</li>
 <li>Select all card by <strong>Ctrl + A</strong></li>
 <li>Right click and choose <strong>Toggle Suspend</strong> (Ctrl + J) </li>
 </ul>
