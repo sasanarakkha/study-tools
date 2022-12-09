@@ -48,8 +48,9 @@ see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html
 
 - Anki Deck [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Roots%20P%C4%81li%20Class.apkg)
 
-
 -------
+
+- [Root lists](https://docs.google.com/spreadsheets/d/11CGPhDJ1-mPLfuumdz_CxgYtFpjY28jfBUA4sMkCINU/) Saddanīti, Dhātupātha, Dhātumañjūsa.
 
 - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/vocab) with vocab csv files related to each class
 
