@@ -4,6 +4,8 @@
 
 This draft based on the Intermediate Pāli Course made by Ven. Bodhirasa. This document is a work in progress, please **don’t** share or distribute outside of the class.
 
+It has 13 classes + final test. Total 14 meetings.
+
 Please download the latest version of all documents and dictionaries every week, after **each class** we make some new changes and corrections.
 
 -------
