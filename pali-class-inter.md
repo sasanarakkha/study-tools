@@ -75,7 +75,7 @@ We really appreciate all ideas and feedback, please use [Google form](https://do
 
 or just in any document select, right click and comment
 
-![image](https://user-images.githubusercontent.com/39419221/201474905-65994ba4-1f0e-4d0f-9f87-c569b4334c53.png)
+![image](https://user-images.githubusercontent.com/39419221/206903048-944cbb56-0c92-44d2-b4d9-e3b5c1320b06.png)
 
 -------
 
