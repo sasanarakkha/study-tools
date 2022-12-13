@@ -12,17 +12,17 @@ Please download the latest version of all documents and dictionaries every week,
 
 - [Intermediate Pāli Course](https://docs.google.com/document/d/1K9UEl91eisxDjutTya-8bP8K4VcC1TD2cS6JEz4JAUE/)
 
--------
+<!-- ------- -->
 
-- [Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/1fWI28PgTLUVqGn-c0jnAFp_9-6cYg9M4AwmjmmRJrfw/)
+<!-- - [Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/1fWI28PgTLUVqGn-c0jnAFp_9-6cYg9M4AwmjmmRJrfw/) -->
 
-- [Key to Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/10k828FOENjhbYtu7EAD3xuuAX4EOSSmhciIXmAbP2qw/)
+<!-- - [Key to Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/10k828FOENjhbYtu7EAD3xuuAX4EOSSmhciIXmAbP2qw/) -->
 
 -------
 
 <!-- - [Examples from Tipiṭaka for Intermediate Pāli Course](https://docs.google.com/document/d/11QMWMTxnxkz5YeHnlxm1YJap2VxAeXTK9_j2F-6o5OI/) -->
 
-<!-- - [Key to Examples from Tipiṭaka for Intermediate Pāli Course](https://docs.google.com/document/d/1cHq5qkUIBkZdUgRUmbmqgOKdGgS2gUheCoPvQlRXscw/) -->
+- [Key to Examples from Tipiṭaka for Intermediate Pāli Course](https://docs.google.com/document/d/1pW7bf1Ve_pKjLCxXk6BWsOOZ44Sm24u6zroT8EpW188/)
 
 <!-- ------- -->
 
