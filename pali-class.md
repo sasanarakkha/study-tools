@@ -54,6 +54,8 @@ see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html
 
 - [Root lists](https://docs.google.com/spreadsheets/d/11CGPhDJ1-mPLfuumdz_CxgYtFpjY28jfBUA4sMkCINU/) Saddanīti, Dhātupātha, Dhātumañjūsa.
 
+- [List of friquent words and roots](https://docs.google.com/spreadsheets/d/1XwwVMnoYwNqJxj-pbYnQJfqZOD44sdr7EXRco2Ate_g/) in Vinaya + Sutta piṭaka.
+
 - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/vocab) with vocab csv files related to each class
 
 - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pics-wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class
