@@ -38,24 +38,24 @@ to download any of these documents, select the needed format:
 
 -------
 
-- Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Vocab%20P%C4%81li%20Class.apkg)
+<!-- - Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Vocab%20P%C4%81li%20Class.apkg) -->
 
-It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
+<!-- It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html) -->
 
-see small video how-to-update in Class folder on the server
+<!-- see small video [how-to-update-anki-deck](https://drive.google.com/file/d/1fRYTWmrWl2InCXlJEJnJOiYlBAmeeRDB/view?usp=sharing) -->
 
-see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html) how and why we need to remove duplicates
+<!-- see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html) how and why we need to remove duplicates -->
 
-- Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Grammar%20P%C4%81li%20Class.apkg)
+<!-- - Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Grammar%20P%C4%81li%20Class.apkg) -->
 
-- Anki Deck [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Roots%20P%C4%81li%20Class.apkg)
+<!-- - Anki Deck [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Roots%20P%C4%81li%20Class.apkg) -->
 
 
 -------
 
-- [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/vocab) with vocab csv files related to each class
+<!-- - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/vocab) with vocab csv files related to each class -->
 
-- [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pics-wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class
+<!-- - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pics-wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class -->
 
 -------
 
@@ -71,6 +71,10 @@ It is also very useful to have an updated version of DPD, [Digital Pāḷi Dicti
 
 -------
 
+[Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class.html) availible for beginner Pāli students.
+
+-------
+
 We really appreciate all ideas and feedback, please use [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc0KxEDyN5G2Mqr4t3AvDpXxSOIbIBi0GrZsAGhDB207sjLow/viewform)
 
 or just in any document select, right click and comment
@@ -79,5 +83,5 @@ or just in any document select, right click and comment
 
 -------
 
-Thank you
+Thank you!
 

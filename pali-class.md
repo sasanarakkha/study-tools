@@ -76,6 +76,10 @@ It is also very useful to have an updated version of DPD, [Digital Pāḷi Dicti
 
 -------
 
+[Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-inter.html) availible for more advance Pāli students.
+
+-------
+
 We really appreciate all ideas and feedback, please use [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc0KxEDyN5G2Mqr4t3AvDpXxSOIbIBi0GrZsAGhDB207sjLow/viewform)
 
 or just in any document select, right click and comment
@@ -84,5 +88,5 @@ or just in any document select, right click and comment
 
 -------
 
-Thank you
+Thank you!
 
