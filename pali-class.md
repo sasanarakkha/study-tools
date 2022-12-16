@@ -42,7 +42,7 @@ to download any of these documents, select the needed format:
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
 
-see small video how-to-update in Class folder on the server
+see small video [how-to-update-anki-deck](https://drive.google.com/file/d/1fRYTWmrWl2InCXlJEJnJOiYlBAmeeRDB/view?usp=sharing)
 
 see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html) how and why we need to remove duplicates
 
@@ -59,6 +59,8 @@ see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html
 - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/vocab) with vocab csv files related to each class
 
 - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pics-wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class
+
+- [Folder](https://drive.google.com/drive/folders/1PrnduqNyqjDV9s4zcS2T3B6gNCtDI2i1?usp=sharing) with video of each class.
 
 -------
 
