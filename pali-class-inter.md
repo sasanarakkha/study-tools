@@ -12,15 +12,15 @@ Please download the latest version of all documents and dictionaries every week,
 
 - [Intermediate Pāli Course](https://docs.google.com/document/d/1K9UEl91eisxDjutTya-8bP8K4VcC1TD2cS6JEz4JAUE/)
 
-<!-- ------- -->
+-------
 
-<!-- - [Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/1fWI28PgTLUVqGn-c0jnAFp_9-6cYg9M4AwmjmmRJrfw/) -->
+- [Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/1fWI28PgTLUVqGn-c0jnAFp_9-6cYg9M4AwmjmmRJrfw/)
 
-<!-- - [Key to Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/10k828FOENjhbYtu7EAD3xuuAX4EOSSmhciIXmAbP2qw/) -->
+- [Key to Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/10k828FOENjhbYtu7EAD3xuuAX4EOSSmhciIXmAbP2qw/)
 
 -------
 
-<!-- - [Examples from Tipiṭaka for Intermediate Pāli Course](https://docs.google.com/document/d/11QMWMTxnxkz5YeHnlxm1YJap2VxAeXTK9_j2F-6o5OI/) -->
+- [Examples from Tipiṭaka for Intermediate Pāli Course](https://docs.google.com/document/d/1tzD2ZO4NdgrVjsGBAX-sb9LdEnmkAhI9LuJvyi25vVg/)
 
 - [Key to Examples from Tipiṭaka for Intermediate Pāli Course](https://docs.google.com/document/d/1pW7bf1Ve_pKjLCxXk6BWsOOZ44Sm24u6zroT8EpW188/)
 
@@ -39,6 +39,8 @@ to download any of these documents, select the needed format:
 -------
 
 <!-- - Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Vocab%20P%C4%81li%20Class.apkg) -->
+
+<!-- It is a continuation of the Vocab Anki Deck from the [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class.html). -->
 
 <!-- It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html) -->
 
