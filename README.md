@@ -26,6 +26,7 @@ Anki decks:
 - [Ñāṇatiloka Buddhist Dictionary](https://sasanarakkha.github.io/study-tools/nanatiloka.html)
 - [Reading Common Pāli Phrases](https://sasanarakkha.github.io/study-tools/reading-common-pali-phrases.html)
 - [Sutta Piṭaka Vocab](https://sasanarakkha.github.io/study-tools/sutta-pitaka-vocab.html)
+- [Roots](https://sasanarakkha.github.io/study-tools/roots.html)
 
 Made available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools).
 
