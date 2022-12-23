@@ -48,9 +48,9 @@ see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html
 
 - Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Grammar%20P%C4%81li%20Class.apkg)
 
-- Anki Deck most common [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Roots%20P%C4%81li%20Class.apkg)
+- Anki Deck most common [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Common%20Roots%20P%C4%81li%20Class.apkg)
 
-- Anki Deck for recognition of [Roots](https://sasanarakkha.github.io/study-tools/roots.html) in different words.
+- Anki Deck for recognition of [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Roots%20Class.apkg) in words from Vocab Pāli Class.
 
 -------
 
