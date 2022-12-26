@@ -17,7 +17,7 @@ This learning tool consists of:
 
 You can download ODS file of analysis [here](https://github.com/sasanarakkha/study-tools/releases/latest/download/reading-common-pali-phrases.ods)
 
-It is available for public testing and [feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform).
+It is available for testing and [feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform).
 
 - [Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/reading-common-pali-phrases.apkg)
 

@@ -4,7 +4,7 @@ UNDER DEVELOPMENT
 
 Currently covered up to DHP 334.
 
-Made for memorization of DHP verses. It has cut mp3 with the voice of the Venerable Ṭhitavijjo. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform).
+Made for memorization of DHP verses. It has cut mp3 with the voice of the Venerable Ṭhitavijjo. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform).
 
 - [Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/dhp-learning.apkg)
 

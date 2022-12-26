@@ -2,7 +2,7 @@
 
 UNDER DEVELOPMENT
 
-Made for memorization of Pāli roots. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&amp;entry.1433863141=Roots). Be sure to regularly download the latest content here.
+Made for memorization of Pāli roots. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&amp;entry.1433863141=Roots). Be sure to regularly download the latest content here.
 
 It includes other information, but mainly the idea is to be able to recognize Pāli root in bases of different words.
 

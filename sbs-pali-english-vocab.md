@@ -2,7 +2,7 @@
 
 UNDER DEVELOPMENT
 
-Made for the memorization of words from 'SBS Pāḷi-English Recitations'. It is available for public testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
+Made for the memorization of words from 'SBS Pāḷi-English Recitations'. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
 
 This tool is recommended to be used together with [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/); the [Analysis of SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf) and the [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html).
 
