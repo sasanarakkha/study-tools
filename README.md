@@ -35,9 +35,3 @@ If you have any questions related to Pāḷi-study, please [ask](mailto:devamitt
 You can check the date of latest update [here](https://github.com/sasanarakkha/study-tools/releases/latest)
 
 -----------
-
-for SBS Pāli students there are:
-
-- [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class.html)
-
-- [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-inter.html)
