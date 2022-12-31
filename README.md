@@ -17,14 +17,14 @@ Anki decks:
 
 - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/sbs-pali-english-vocab.html)
 - [DHP Vocab](https://sasanarakkha.github.io/study-tools/dhp-vocab.html)
-- [DHP Learning](https://sasanarakkha.github.io/study-tools/dhp-learning.html)
+<!-- - [DHP Learning](https://sasanarakkha.github.io/study-tools/dhp-learning.html) -->
 - [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/patimokkha-word-by-word.html)
 - [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/patimokkha-learning.html)
 - [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/sbs-daily-chanting-sentences.html)
-- [Sutta Q&A](https://sasanarakkha.github.io/study-tools/sutta-q-a.html)
+<!-- - [Sutta Q&A](https://sasanarakkha.github.io/study-tools/sutta-q-a.html) -->
 - [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/ru-pali-vocab.html)
-- [Ñāṇatiloka Buddhist Dictionary](https://sasanarakkha.github.io/study-tools/nanatiloka.html)
-- [Reading Common Pāli Phrases](https://sasanarakkha.github.io/study-tools/reading-common-pali-phrases.html)
+<!-- - [Ñāṇatiloka Buddhist Dictionary](https://sasanarakkha.github.io/study-tools/nanatiloka.html) -->
+<!-- - [Reading Common Pāli Phrases](https://sasanarakkha.github.io/study-tools/reading-common-pali-phrases.html) -->
 - [Sutta Piṭaka Vocab](https://sasanarakkha.github.io/study-tools/sutta-pitaka-vocab.html)
 - [Roots](https://sasanarakkha.github.io/study-tools/roots.html)
 
