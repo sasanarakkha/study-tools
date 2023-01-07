@@ -1,3 +1,6 @@
+Text for Anki deck [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/sbs-daily-chanting-sentences.html).
+
+
 # SBS Anumodana
 
 **YATHĀ VĀRI-VAHĀ PŪRĀ (Khp 1.7)**
