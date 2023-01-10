@@ -2,7 +2,7 @@
 
 **UNDER DEVELOPMENT**
 
-This draft based on the Intermediate Pāli Course made by Ven. Bodhirasa. This document is a work in progress, please **don’t** share or distribute outside of the class.
+This draft is based on the Intermediate Pāli Course made by Ven. Bodhirasa. This document is a work in progress, please **don’t** share or distribute outside of the class.
 
 It has 13 classes + final test. Total 14 meetings.
 
@@ -67,13 +67,13 @@ All these materials can be found on the SBS file server:
 
 -------
 
-It is recommended to use the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html). Which has links between the meaning of words and sentences from exercise to course.
+It is recommended to use the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html). All exercises and words used in the course are specifically labelled in the dictionary as such, making it clear which particular meaning of words (if there are multiple) is intended in specific examples in the course.
 
 It is also very useful to have an updated version of DPD, [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/).
 
 -------
 
-[Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class.html) availible for beginner Pāli students.
+[Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class.html) available for beginner Pāli students.
 
 -------
 
