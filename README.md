@@ -6,6 +6,7 @@ Dictionaries:
 
 - [SBS Pāḷi-English Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html)
 - [Pāḷi-Russian Dictionary](https://sasanarakkha.github.io/study-tools/ru-pali-dictionary.html)
+- [Devamitta Pāḷi Study](https://sasanarakkha.github.io/study-tools/dps.html)
 - [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/)
 
 Click to download the latest version:
