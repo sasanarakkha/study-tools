@@ -1,4 +1,4 @@
-# Devamitta Pāḷi Study
+# [Devamitta Pāḷi Study](https://devamitta.github.io/pali/)
 
 UNDER DEVELOPMENT
 
