@@ -11,7 +11,7 @@ But for now there is some steps required:
 3. Add new Field "ID" and place it strait after field "feedback"
 4. Download corresponding CSV with "ID after feedback" from [this folder.](https://github.com/sasanarakkha/study-tools/tree/main/ID%20after%20feedback)
 5. Import csv
-6. [Remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+6. [Remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html) or rename words (see list of words for renaming)
 7. Reposition ID column to the beginning, make it 1st field.
 8. Download corresponding csv with "ID in the first possition" from [this folder](https://github.com/sasanarakkha/study-tools/tree/main/ID%20in%20the%20first%20possition)
 9. To check import csv
