@@ -1,5 +1,7 @@
 <h1>ID column</h1>
 
+This is relevant to [update from 07.02.2023.](https://github.com/sasanarakkha/study-tools/releases/tag/artifacts-07.02.2023_12-59-44)
+
 For convenience, we introduce new column `ID`
 
 Now it is leading column, so no matter what changes we apply in the future, even in Pāli headword - you will receive all changes without any lost of progress in Anki.
