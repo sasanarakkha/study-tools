@@ -84,6 +84,3 @@
 <div class=brclass><br></div>
 <div style='font-size: 70%; text-align: left;'>{{feedback}}</div>
 <br>
-
-<div>{{picture}}</div>
-<br>
