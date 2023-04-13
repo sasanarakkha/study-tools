@@ -39,6 +39,8 @@ This tool is recommended to be used together with the [DHP grammatical analysis]
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
 
+## If you do not have ID field, please [add it](https://sasanarakkha.github.io/study-tools/ID.html)
+
 Please see a small [video](https://user-images.githubusercontent.com/39419221/187018792-3afe402c-e77b-46e6-ba5d-4efa0846de93.mp4) how to update.
 
 Or just follow the description:
