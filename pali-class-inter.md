@@ -16,7 +16,13 @@ Please download the latest version of all documents and dictionaries every week,
 
 - [Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/1fWI28PgTLUVqGn-c0jnAFp_9-6cYg9M4AwmjmmRJrfw/)
 
-- [Key to Exercises for Intermediate Pāli Course](https://docs.google.com/document/d/10k828FOENjhbYtu7EAD3xuuAX4EOSSmhciIXmAbP2qw/)
+- [Key to Exercises 16 - 19](https://docs.google.com/document/d/10k828FOENjhbYtu7EAD3xuuAX4EOSSmhciIXmAbP2qw/)
+
+- [Key to Exercises 20 - 24](https://docs.google.com/document/d/1RK3BFVPlRoJZMvCOYGvU3fUW0EdLbPrtztjQACxbybA/)
+
+- [Key to Exercises 25 - 29](https://docs.google.com/document/d/1afXpWDCOCeS9WlbmjaMFDhonlCdbV5PHh-kJoE5WKig/)
+
+
 
 -------
 
