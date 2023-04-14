@@ -1,4 +1,4 @@
-# **Advance Pāli Course at SBS**
+# **Advanced Pāli Course at SBS**
 
 **UNDER DEVELOPMENT**
 

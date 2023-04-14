@@ -57,7 +57,7 @@ These materials are available for the benefit, welfare, and happiness of many pe
 
 - [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-inter.html)
 
-- [Advance Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-advance.html)
+- [Advanced Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-adv.html)
 
 You can check the date of latest update [here](https://github.com/sasanarakkha/study-tools/releases/latest)
 
