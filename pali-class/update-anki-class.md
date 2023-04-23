@@ -29,20 +29,20 @@ If you have a problem with updating, you can use the following method:
 - note that there are 3 different fields for card settings: 
 1. [Vocab FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-vocab-front.txt)
 2. [Vocab BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-vocab-back.txt)
-3. [Vocab STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-vocab-style.txt) 
+3. [Vocab STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-style.txt) 
 
 
 ### for Root deck:
 - note that there are 3 different fields for card settings: 
 1. [Root FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-root-front.txt)
 2. [Root BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-root-back.txt)
-3. [Root STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-root-style.txt) 
+3. [Root STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-style.txt) 
 
 ### for Phonetic Changes deck:
 - note that there are 3 different fields for card settings: 
 1. [Phonetic FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-phonetic-front.txt)
 2. [Phonetic BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-phonetic-back.txt)
-3. [Phonetic STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-phonetic-style.txt) 
+3. [Phonetic STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-class-style.txt) 
 
 Check that each of them matches current card settings.
 - 

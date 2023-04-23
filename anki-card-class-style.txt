@@ -24,7 +24,7 @@
 
 b {
     color: #493414;
- font-size: 115%;
+ font-size: 130%;
 }
 
 .nightMode.card {
@@ -54,6 +54,6 @@ b {
 
 .nightMode b {
     color: #F9E79F;
-font-size: 105%;
+font-size: 130%;
 
 img {width: auto;height: auto; max-width: 400px; max-height: 400px;}
