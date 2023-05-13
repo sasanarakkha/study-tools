@@ -66,7 +66,7 @@ see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html
 
 - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pics-wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class
 
-- [Folder](https://drive.google.com/drive/folders/1PrnduqNyqjDV9s4zcS2T3B6gNCtDI2i1?usp=sharing) with video of each class.
+<!-- - [Folder](https://drive.google.com/drive/folders/1PrnduqNyqjDV9s4zcS2T3B6gNCtDI2i1?usp=sharing) with video of each class. -->
 
 -------
 
