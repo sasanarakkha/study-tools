@@ -46,6 +46,8 @@ These materials are available for the benefit, welfare, and happiness of many pe
 
 - [Roots](https://sasanarakkha.github.io/study-tools/roots.html)
 
+You can check the date of the latest update of all decks  [here](https://github.com/sasanarakkha/study-tools/releases/latest)
+
 <!-- - [DHP Learning](https://sasanarakkha.github.io/study-tools/dhp-learning.html) -->
 <!-- - [Sutta Q&A](https://sasanarakkha.github.io/study-tools/sutta-q-a.html) -->
 <!-- - [Ñāṇatiloka Buddhist Dictionary](https://sasanarakkha.github.io/study-tools/nanatiloka.html) -->
@@ -58,8 +60,6 @@ These materials are available for the benefit, welfare, and happiness of many pe
 - [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-inter.html)
 
 - [Advanced Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-adv.html)
-
-You can check the date of latest update [here](https://github.com/sasanarakkha/study-tools/releases/latest)
 
 ----------
 
