@@ -1,6 +1,6 @@
 [![logo](https://user-images.githubusercontent.com/39419221/165271019-e4da74da-05b9-4f46-ade6-3b173966ab75.png)](http://sasanarakkha.org/)
 
-These materials are available for the benefit, welfare, and happiness of many people, please help to improve them by giving your [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools).
+These materials are provided for the benefit, welfare, and happiness of many people. We would greatly appreciate your [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools) to help us improve them.
 
 ### Dictionaries:
 
@@ -46,7 +46,7 @@ These materials are available for the benefit, welfare, and happiness of many pe
 
 - [Roots](https://sasanarakkha.github.io/study-tools/roots.html)
 
-You can check the date of the latest update of all decks  [here](https://github.com/sasanarakkha/study-tools/releases/latest)
+You can check the date of the latest update for all decks  [here](https://github.com/sasanarakkha/study-tools/releases/latest).
 
 <!-- - [DHP Learning](https://sasanarakkha.github.io/study-tools/dhp-learning.html) -->
 <!-- - [Sutta Q&A](https://sasanarakkha.github.io/study-tools/sutta-q-a.html) -->
