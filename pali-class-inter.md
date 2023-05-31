@@ -22,7 +22,7 @@ Please download the latest version of all documents and dictionaries every week,
 
 - [Key to Exercises 25 - 29](https://docs.google.com/document/d/1afXpWDCOCeS9WlbmjaMFDhonlCdbV5PHh-kJoE5WKig/)
 
-
+- [Key to MN 107 gaṇakamoggallānasuttaṃ](https://docs.google.com/document/d/1oW92myGIHzLypzNQGQPa0YeTGDfVq_Aogre8sLTRQuM/)
 
 -------
 
