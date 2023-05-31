@@ -22,15 +22,16 @@ Please download the latest version of all documents and dictionaries every week,
 
 - [Key to Exercises 25 - 29](https://docs.google.com/document/d/1afXpWDCOCeS9WlbmjaMFDhonlCdbV5PHh-kJoE5WKig/)
 
-- [Key to MN 107 gaṇakamoggallānasuttaṃ](https://docs.google.com/document/d/1oW92myGIHzLypzNQGQPa0YeTGDfVq_Aogre8sLTRQuM/)
-
 -------
 
 - [Examples from Tipiṭaka for Intermediate Pāli Course](https://docs.google.com/document/d/1tzD2ZO4NdgrVjsGBAX-sb9LdEnmkAhI9LuJvyi25vVg/)
 
 - [Key to Examples from Tipiṭaka for Intermediate Pāli Course](https://docs.google.com/document/d/1pW7bf1Ve_pKjLCxXk6BWsOOZ44Sm24u6zroT8EpW188/)
 
-<!-- ------- -->
+-------
+
+- [Key to MN 107 gaṇakamoggallānasuttaṃ](https://docs.google.com/document/d/1oW92myGIHzLypzNQGQPa0YeTGDfVq_Aogre8sLTRQuM/)
+
 
 <!-- - [Sentences from Intermediate Pāli Course](https://docs.google.com/document/d/19u1_BuP1ovgjqGf8GWkCE2zlS977jnHE6MXHv5EPBXU/) -->
 
