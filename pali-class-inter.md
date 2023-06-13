@@ -30,9 +30,6 @@ Please download the latest version of all documents and dictionaries every week,
 
 -------
 
-- [Key to MN 107 gaṇakamoggallānasuttaṃ](https://docs.google.com/document/d/1oW92myGIHzLypzNQGQPa0YeTGDfVq_Aogre8sLTRQuM/)
-
-
 <!-- - [Sentences from Intermediate Pāli Course](https://docs.google.com/document/d/19u1_BuP1ovgjqGf8GWkCE2zlS977jnHE6MXHv5EPBXU/) -->
 
 <!-- - [Key to Sentences from Intermediate Pāli Course](https://docs.google.com/document/d/1U6EnudzNGIYxuzupwy8bT_sSvLu1JLjLF_Br_k6arMw/) -->
