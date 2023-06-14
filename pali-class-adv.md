@@ -20,7 +20,20 @@ You already finish [Beginner Pāli Course](https://sasanarakkha.github.io/study-
 
 -------
 
-- [Key to suttas]()
+Detailed analisis of those sutta passages can be found in the **Reading the Buddha’s Discourses in Pāli** by Veberable Bhikkhu Bodhi.
+
+1. [Compilation from  Sacca Saṃyutta (SN 56)](https://docs.google.com/document/d/1QvmDByxRI4hMT3C8EqrafaGoXC5HA_8kRn730-VtKjY/)
+
+2. Compilation from  Khandha Saṃyutta (SN 22)
+
+3. Compilation from  Saḷāyatana Saṃyutta (SN 35)
+
+4. Compilation from  Nidānasa Saṃyutta (SN 12)
+
+5. Compilation from  Satipaṭṭhāna Saṃyutta (SN 47)
+
+6. Compilation from  Asaṅkhata Saṃyutta (SN 43)
+
 
 -------
 
