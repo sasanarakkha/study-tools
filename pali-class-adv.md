@@ -6,6 +6,12 @@ You already finish [Beginner Pāli Course](https://sasanarakkha.github.io/study-
 
 # **SBS Pāḷi-English Recitations**
 
+Once you finished with Beginner and Intermediate Pāli Courses it is recommended to do analisis of the SBS Pāḷi-English Recitations book together with the Anki deck.
+
+Exersises divided by chapteres:
+
+Analisis divided by chapteres:
+
 - [HOMAGE TO THE TRIPLE GEM]
 - [VERSES]
 - [TEACHINGS]
@@ -16,20 +22,23 @@ You already finish [Beginner Pāli Course](https://sasanarakkha.github.io/study-
 - [PROTECTIVE RECITATIONS]
 - [FUNERAL CHANTS]
 - [SHARING OF MERRITS]
+- 
 
+Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/sbs-pali-english-vocab.html) (incluading words from pubbakicca Dhammayuttika)
 
 # **Suttas and passages**
 
 -------
 
+- [Exersises on the pubbakicca Dhammayuttika](https://docs.google.com/document/d/1QYOPRLT0jDjBrPS5AuqvFo1gn3FJKkYdbNbcq88ibnA/)
 
-- [Key to pubbakicca dhammayuttika](https://docs.google.com/document/d/1z4B3TELrZlVemxP_gB0ciampFTIOS5hL/)
-
+- [Key to pubbakicca Dhammayuttika](https://docs.google.com/document/d/1z4B3TELrZlVemxP_gB0ciampFTIOS5hL/)
 
 -------
 
 - [Key to MN 107 gaṇakamoggallānasuttaṃ](https://docs.google.com/document/d/1oW92myGIHzLypzNQGQPa0YeTGDfVq_Aogre8sLTRQuM/)
 
+- [Exersises on MN 107 gaṇakamoggallānasuttaṃ](https://docs.google.com/document/d/1kG7DPHLKYlzYdzEQboyYlGJed1cx7zm1LaVU6Qp5Jro/edit?usp=sharing)
 
 -------
 
