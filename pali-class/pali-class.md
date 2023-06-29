@@ -40,9 +40,9 @@ to download any of these documents, select the needed format:
 
 -------
 
-- Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Vocab%20P%C4%81li%20Class.apkg)
+- Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/anki-decks/Vocab%20P%C4%81li%20Class.apkg)
 
-It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
+It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
 [How to update Anki Deck Vocab Pāli Class](https://sasanarakkha.github.io/study-tools/pali-class/update-anki-class.html)
 
@@ -50,11 +50,11 @@ see small video [how-to-update-anki-deck](https://drive.google.com/file/d/1fRYTW
 
 see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html) how and why we need to remove duplicates
 
-- Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Grammar%20P%C4%81li%20Class.apkg)
+- Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/anki-decks/Grammar%20P%C4%81li%20Class.apkg)
 
-- Anki Deck most common [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Common%20Roots%20P%C4%81li%20Class.apkg)
+- Anki Deck most common [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/anki-decks/Common%20Roots%20P%C4%81li%20Class.apkg)
 
-- Anki Deck for recognition of [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Roots%20Class.apkg) in words from Vocab Pāli Class.
+- Anki Deck for recognition of [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/anki-decks/Roots%20Class.apkg) in words from Vocab Pāli Class.
 
 -------
 
@@ -76,13 +76,13 @@ All these materials can be found on the SBS file server:
 
 -------
 
-It is recommended to use the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html). All exercises and words used in the course are specifically labelled in the dictionary as such, making it clear which particular meaning of words (if there are multiple) is intended in specific examples in the course.
+It is recommended to use the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html). All exercises and words used in the course are specifically labelled in the dictionary as such, making it clear which particular meaning of words (if there are multiple) is intended in specific examples in the course.
 
 It is also very useful to have an updated version of DPD, [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/).
 
 -------
 
-[Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-inter.html) available for more advance Pāli students.
+[Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html) available for more advance Pāli students.
 
 -------
 

@@ -2,7 +2,7 @@
 
 **UNDER DEVELOPMENT**
 
-You already finish [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class.html) and [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-inter.html), aren't you? If no please do not jump the gun.
+You already finish [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html) and [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html), aren't you? If no please do not jump the gun.
 
 # **SBS Pāḷi-English Recitations**
 
@@ -24,7 +24,7 @@ Analisis divided by chapteres:
 - [SHARING OF MERRITS]
 - 
 
-Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/sbs-pali-english-vocab.html) (incluading words from pubbakicca Dhammayuttika)
+Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html) (incluading words from pubbakicca Dhammayuttika)
 
 # **Suttas and passages**
 

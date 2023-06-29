@@ -4,17 +4,17 @@ These materials are provided for the benefit, welfare, and happiness of many peo
 
 ### Dictionaries:
 
-- [SBS Pāḷi-English Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html)
+- [SBS Pāḷi-English Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html)
 
-- [Pāḷi-Russian Dictionary](https://sasanarakkha.github.io/study-tools/ru-pali-dictionary.html)
+- [Pāḷi-Russian Dictionary](https://sasanarakkha.github.io/study-tools/dict/ru-pali-dictionary.html)
 
 - [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/)
 
-<!-- - [Devamitta Pāḷi Study](https://sasanarakkha.github.io/study-tools/dps.html) -->
+<!-- - [Devamitta Pāḷi Study](https://sasanarakkha.github.io/study-tools/dict/dps.html) -->
 
 ### Recitation Book
 
-- [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/)
+- [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/tag/build_07.06.2023_04-24)
 
 - [Analysis of SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf) (Click to download)
 
@@ -30,36 +30,36 @@ These materials are provided for the benefit, welfare, and happiness of many peo
 
 ### Anki decks:
 
-- [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/sbs-pali-english-vocab.html)
+- [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html)
 
-- [DHP Vocab](https://sasanarakkha.github.io/study-tools/dhp-vocab.html)
+- [DHP Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/dhp-vocab.html)
 
-- [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/patimokkha-word-by-word.html)
+- [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html)
 
-- [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/patimokkha-learning.html)
+- [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-learning.html)
 
-- [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/sbs-daily-chanting-sentences.html)
+- [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-daily-chanting-sentences.html)
 
-- [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/ru-pali-vocab.html)
+- [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/anki-decks/ru-pali-vocab.html)
 
-- [Sutta Piṭaka Vocab](https://sasanarakkha.github.io/study-tools/sutta-pitaka-vocab.html)
+- [Sutta Piṭaka Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sutta-pitaka-vocab.html)
 
-- [Roots](https://sasanarakkha.github.io/study-tools/roots.html)
+- [Roots](https://sasanarakkha.github.io/study-tools/anki-decks/roots.html)
 
 You can check the date of the latest update for all decks  [here](https://github.com/sasanarakkha/study-tools/releases/latest).
 
-<!-- - [DHP Learning](https://sasanarakkha.github.io/study-tools/dhp-learning.html) -->
-<!-- - [Sutta Q&A](https://sasanarakkha.github.io/study-tools/sutta-q-a.html) -->
-<!-- - [Ñāṇatiloka Buddhist Dictionary](https://sasanarakkha.github.io/study-tools/nanatiloka.html) -->
-<!-- - [Reading Common Pāli Phrases](https://sasanarakkha.github.io/study-tools/reading-common-pali-phrases.html) -->
+<!-- - [DHP Learning](https://sasanarakkha.github.io/study-tools/anki-decks/dhp-learning.html) -->
+<!-- - [Sutta Q&A](https://sasanarakkha.github.io/study-tools/anki-decks/sutta-q-a.html) -->
+<!-- - [Ñāṇatiloka Buddhist Dictionary](https://sasanarakkha.github.io/study-tools/anki-decks/nanatiloka.html) -->
+<!-- - [Reading Common Pāli Phrases](https://sasanarakkha.github.io/study-tools/anki-decks/reading-common-pali-phrases.html) -->
 
 ### Pāli class:
 
-- [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class.html)
+- [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html)
 
-- [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-inter.html)
+- [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html)
 
-- [Advanced Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-adv.html)
+- [Advanced Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-adv.html)
 
 ----------
 
