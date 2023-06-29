@@ -5,6 +5,5 @@
 <p>After you updated the downloaded Anki Deck (same way, just by double-clicking on the latest downloaded file). Choose your Deck and in the <strong>Browse</strong> add:</p>
 <p><code>-test:</code>8</p>
 <p>It will show all cards which do not have a number in field "Test". And you can easily delate all of this old words, by selecting all (<strong>Ctrl + A</strong>) and deleting (<strong>Ctrl + Delete</strong>). </p>
-
 <p>Now you are up-to-date.</p>
 <p>With every update, this number will be different.</p>
