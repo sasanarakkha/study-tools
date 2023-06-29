@@ -1,0 +1,57 @@
+<div style=" word-wrap:break-word;"><b>{{pali}}</b></div>
+<br>
+<div>{{sentence}}</div>
+<div class=myclass>{{abbrev}} {{source}}</div>
+<hr id=answer>
+<table>
+<tr valign='top'>
+<td><div class=myclass>POS:
+<td>{{pos}}</td>
+
+<tr valign='top'>
+<td><div class=myclass>{{#gram}}Grammar:{{/gram}}</td>
+<td><div style="font-size: 95%;">{{#gram}}{{gram}}{{/gram}}{{#case}} ({{case}}){{/case}}</b></td>
+
+<tr valign='top'>
+<td><div class=myclass>English:</td>
+<td><div><b>{{meaning}}</b></b></td>
+
+<tr valign='top'>
+<td><div class=myclass></td>
+<td><div style=" word-wrap:break-word;">{{#litmeaning}}lit. {{litmeaning}}{{/litmeaning}}</b></td>
+
+<tr valign='top'>
+<td><div class=myclass>{{#native}}Native:{{/native}}</td>
+<td>{{native}}</td>
+
+<tr valign='top'>
+<td><div class=myclass>{{#root}}Root:{{/root}}</td>
+<td>{{#root}}{{root}}{{/root}} {{rootgroup}}{{#rootsign}} {{rootsign}}{{/rootsign}}
+
+<tr valign='top'>
+<td><div class=myclass>{{#base}}Base:{{/base}}</td>
+<td>{{base}}</td>
+
+<tr valign='top'>
+<td><div class=myclass>{{#construction}}Constr.:{{/construction}}</td>
+<td></div style>{{construction}}</td>
+
+<tr valign='top'>
+<td><div class=myclass>{{#compound}}Compound:{{/compound}}</td>
+<td></div style>{{compound}}{{#compoundconstruction}} ({{compoundconstruction}}){{/compoundconstruction}}</td>
+<tr valign='top'>
+<td><div class=myclass>{{#variant}}Variant:{{/variant}}</td>
+<td></div style>{{variant}}</td>
+
+<tr valign='top'>
+<td><div class=myclass>{{#commentary}}Commentary:{{/commentary}}</td>
+<td></div style>{{commentary}}</td>
+
+<br>
+<tr valign='top'>
+<td><div style='color: red'>{{notez}}</td>
+<tr valign='top'>
+<td>
+<div style="font-size:60%; text-align: right">{{feedback}}</div
+
+
