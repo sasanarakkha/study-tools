@@ -4,6 +4,19 @@
 
 You already finish [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class.html) and [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class-inter.html), aren't you? If no please do not jump the gun.
 
+# **SBS Pāḷi-English Recitations**
+
+- [HOMAGE TO THE TRIPLE GEM]
+- [VERSES]
+- [TEACHINGS]
+- [REFLECTIONS]
+- [REFLECTIONS]
+- [CARDINAL SUTTAS]
+- [THANKSGIVING RECITATION]
+- [PROTECTIVE RECITATIONS]
+- [FUNERAL CHANTS]
+- [SHARING OF MERRITS]
+
 
 # **Suttas and passages**
 
