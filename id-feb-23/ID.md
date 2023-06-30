@@ -18,4 +18,4 @@ But for now there are some steps required:
 - To check import CSV
 - The results “0 added, 0 updated, `many` unchanged” this is what you need hoping to see.
 
-And after you can update with the latest release and do not forget to [Remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html).
+And after you can update with the latest release and do not forget to [Remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html).

@@ -1,4 +1,4 @@
-Text for Anki deck [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/sbs-daily-chanting-sentences.html).
+Text for Anki deck [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-daily-chanting-sentences.html).
 
 
 # SBS Anumodana

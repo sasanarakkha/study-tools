@@ -19,9 +19,9 @@ It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FA
 
 - Double-click on the downloaded file patimokkha-word-by-word.apkg, and it will appear in your Anki.
 
-It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
+It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
-- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 for update information see small [video](https://user-images.githubusercontent.com/39419221/184583735-fa65dec0-cf6a-4198-91e2-b214662a51c5.mp4)
 
@@ -64,7 +64,7 @@ Check that each of them matches current card settings.
 
 - double check everything with this picture, and click **import**
 
-- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 - now you are up-to-date.
 

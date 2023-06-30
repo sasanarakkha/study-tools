@@ -4,7 +4,7 @@ UNDER DEVELOPMENT
 
 Made for the memorization of words from 'SBS Pāḷi-English Recitations'. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
 
-This tool is recommended to be used together with [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/); the [Analysis of SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf) and the [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/sbs-pali-dictionary.html).
+This tool is recommended to be used together with [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/); the [Analysis of SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf) and the [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html).
 
 Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-anumodana-by-thanuttamo.pdf) can be made use of.
 
@@ -53,7 +53,7 @@ Now all cards from the selected chant will appear in your Anki daily routine. Af
 
 # Updating existing deck without losing your statistics
 
-It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
+It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
 ## If you do not have ID field, please [add it](https://sasanarakkha.github.io/study-tools/ID.html)
 
@@ -61,7 +61,7 @@ Please see a small [video](https://user-images.githubusercontent.com/39419221/18
 
 Or just follow the description:
 
-Usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+Usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 # Another method of updating
 
@@ -101,5 +101,5 @@ Check that each of them matches current card settings.
 
 - now you are up-to-date.
 
-- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 

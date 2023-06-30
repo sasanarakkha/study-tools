@@ -15,7 +15,7 @@ It includes other information, but mainly the idea is to be able to recognize PÄ
 
 # Updating existing deck without losing your statistics
 
-It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
+It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
 ## If you do not have ID field, please [add it](https://sasanarakkha.github.io/study-tools/ID.html)
 
@@ -25,7 +25,7 @@ Or just follow the description:
 
 Usually it is enough just to double-click on the downloaded apkg file, and it will update in your Anki. 
 
-Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 # Another method of updating
 
@@ -64,7 +64,7 @@ Check that each of them matches current card settings.
 
 - now you are up-to-date.
 
-- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 
 

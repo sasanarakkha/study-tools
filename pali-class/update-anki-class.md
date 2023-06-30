@@ -1,6 +1,6 @@
 # Vocab Pāli Class
 
-Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/Vocab%20P%C4%81li%20Class.apkg)
+Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/Vocab%20P%C4%81li%20Class.apkg)
 
 # Updating existing deck without losing your statistics
 
@@ -29,7 +29,7 @@ If you have a problem with updating, you can use the following method:
 - note that there are 3 different fields for card settings: 
 1. [Vocab FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-vocab-front.txt)
 2. [Vocab BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-vocab-back.txt)
-3. [Vocab STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-style/anki-card-class-style.txt) 
+3. [Vocab STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-style.txt) 
 
 
 ### for Root deck:

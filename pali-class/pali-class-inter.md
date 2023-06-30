@@ -42,19 +42,19 @@ to download any of these documents, select the needed format:
 
 -------
 
-- Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/anki-decks/Vocab%20P%C4%81li%20Class.apkg)
+- Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Vocab%20P%C4%81li%20Class.apkg)
 
 It is a continuation of the Vocab Anki Deck from the [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html).
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
-[How to update Anki Deck Vocab Pāli Class](https://sasanarakkha.github.io/study-tools/pali-class/video/update-anki-class.html)
+[How to update Anki Deck Vocab Pāli Class](https://sasanarakkha.github.io/study-tools/pali-class/update-anki-class.html)
 
 see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html) how and why we need to remove duplicates
 
-- Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/anki-decks/Grammar%20P%C4%81li%20Class.apkg)
+- Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Grammar%20P%C4%81li%20Class.apkg)
 
-- Anki Deck [Roots](https://github.com/sasanarakkha/study-tools/raw/main/pali-class/anki-decks/Roots%20P%C4%81li%20Class.apkg)
+- Anki Deck [Roots](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Roots%20P%C4%81li%20Class.apkg)
 
 
 -------
