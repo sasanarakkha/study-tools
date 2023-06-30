@@ -4,6 +4,8 @@
 
 How to proceed with individual Pāli study once you're finished with the [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html) and [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html).
 
+The first recommendation is to review the class materials again, paying attention to the details. Now that you're familiar with the basics of grammar, you'll be able to pick up on details that might not have been obvious to you when you first learned this material. Usually, teachers say that these courses contain information that cannot be absorbed at one time. Redo class exercises as needed, and it's always a good idea to maintain your reviews in Anki.
+
 # **SBS Pāḷi-English Recitations**
 
 It is recommended to do analysis of the SBS Pāḷi-English Recitations book together with the Anki deck.
@@ -52,7 +54,7 @@ Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-too
 
 - [Exersises on MN 107 gaṇakamoggallānasuttaṃ](https://docs.google.com/document/d/1kG7DPHLKYlzYdzEQboyYlGJed1cx7zm1LaVU6Qp5Jro/edit?usp=sharing)
 
-There is an Anki Deck - [Suttas](https://sasanarakkha.github.io/study-tools/anki-decks/suttas.html) which include MN 107 and other suttas listed next.
+There is an Anki Deck - [Suttas Advanced](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Suttas%20Advanced.apkg) which will include MN 107 and other suttas listed next.
 
 
 -------
@@ -77,7 +79,11 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 ------
 
-This material based on the New Pali Course Part 3 - Ven. A.P. Buddhadatta
+This material based on the New Pali Course Part 3 - Ven. A.P. Buddhadatta.
+
+Can be found in the class folder on the server:
+
+`\\FILESRV1\share1\Sharing between users\13 For Pāli class\Extra Reading\`
 
 ------
 
