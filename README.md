@@ -63,6 +63,8 @@ You can check the date of the latest update for all decks  [here](https://github
 
 ----------
 
+If you have any questions or comments related to these study tools, please [email us.](mailto:studytools@sasanarakkha.org)
+
 -----------
 
 These Learning Tools are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
