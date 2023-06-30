@@ -16,25 +16,23 @@ It is recommended to do analysis of the SBS Pāḷi-English Recitations book tog
 - [VERSES]()
 - [TEACHINGS]()
 - [REFLECTIONS]()
-- [REFLECTIONS]()
 - [CARDINAL SUTTAS]()
 - [THANKSGIVING RECITATION]()
 - [PROTECTIVE RECITATIONS]()
 - [FUNERAL CHANTS]()
-- [SHARING OF MERRITS]()
+- [SHARING OF MERITS]()
 
-**Analisis divided by chapters:**
+**Analysis divided by chapters:**
 
 - [HOMAGE TO THE TRIPLE GEM]()
 - [VERSES]()
 - [TEACHINGS]()
 - [REFLECTIONS]()
-- [REFLECTIONS]()
 - [CARDINAL SUTTAS]()
 - [THANKSGIVING RECITATION]()
 - [PROTECTIVE RECITATIONS]()
 - [FUNERAL CHANTS]()
-- [SHARING OF MERRITS]()
+- [SHARING OF MERITS]()
 
 Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html) (incluading words from pubbakicca Dhammayuttika)
 
