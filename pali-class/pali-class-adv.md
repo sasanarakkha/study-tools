@@ -87,7 +87,7 @@ Can be found in the class folder on the server:
 
 - [Key to Exercises 30 - 39](https://docs.google.com/document/d/1VoFPr2jqJbQEQgT_UbuhxpzHM_H_mqX3BCy3vMdqiUc/)
 
-- [Key to Exercises 40 - 49]()
+- [Key to Exercises 40 - 50](https://docs.google.com/document/d/1c5E1-xA5OEKOC_myMBqVzdcEkoyiqfurAphMLz7JmnQ/)
 
 - [Key to idioms and difficult passages]()
 
