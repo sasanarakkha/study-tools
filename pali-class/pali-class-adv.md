@@ -89,7 +89,7 @@ Can be found in the class folder on the server:
 
 - [Key to Exercises 40 - 50](https://docs.google.com/document/d/1c5E1-xA5OEKOC_myMBqVzdcEkoyiqfurAphMLz7JmnQ/)
 
-- [Key to idioms and difficult passages]()
+- [Key to idioms and difficult passages](https://docs.google.com/document/d/18IBPFP0zs3ngEV-Ps5MmiGwaFtuz_2r3AqsZBlksPIQ/)
 
 
 
