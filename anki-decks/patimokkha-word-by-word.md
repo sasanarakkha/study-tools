@@ -6,7 +6,7 @@ This is the word by word analysis of the Dvemātikāpāḷi Bhikkhupātimokkha, 
 
 It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb) and The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita.
 
-Analysis of the Bhikkhupātimokkha you can see and comment [here](https://docs.google.com/spreadsheets/d/1HnnxNvFZEOltxTQJWvCVkHQAapI6qFlx_p4ygO9JkW0/)
+Analysis of the Bhikkhupātimokkha you can see and comment [here](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/)
 
 ![image](https://user-images.githubusercontent.com/39419221/201099247-07acfb11-a014-4501-9a93-f5c38840b064.png)
 
