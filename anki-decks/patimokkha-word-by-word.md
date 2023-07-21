@@ -6,10 +6,13 @@ This is the word by word analysis of the Dvemātikāpāḷi Bhikkhupātimokkha, 
 
 It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb) and The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita.
 
-Analysis of the Bhikkhupātimokkha you can see and comment [here](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/)
+Analysis of the Bhikkhupātimokkha you can see and comment [here](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/).
 
 ![image](https://user-images.githubusercontent.com/39419221/201099247-07acfb11-a014-4501-9a93-f5c38840b064.png)
 
+You can use [second sheet](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/edit#gid=1448457199) of that analisis as an exercise book.
+
+If you want to understand the Pātimokkha rules more deeply, you can use the [Anki deck of Vibhaṅga](https://sasanarakkha.github.io/study-tools/anki-decks/vibhanga.html), which contains pāli words from definitions of Pātimokkha words.
 
 It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform), thanks to Venerable Bodhirasa.
 

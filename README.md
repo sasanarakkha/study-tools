@@ -36,6 +36,8 @@ These materials are provided for the benefit, welfare, and happiness of many peo
 
 - [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html)
 
+- [Vinaya Vibhaṅga](https://sasanarakkha.github.io/study-tools/anki-decks/vibhanga.html)
+
 - [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-learning.html)
 
 - [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-daily-chanting-sentences.html)
