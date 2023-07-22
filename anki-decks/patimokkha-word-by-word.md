@@ -8,7 +8,7 @@ It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](http
 
 Analysis of the Bhikkhupātimokkha you can see and comment [here](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/).
 
-or here [htiml](https://devamitta.github.io/patimokkha_dict/Bhikkhu_Patimokkha/main.html) format of analysis.
+or use analysis in [HTML](https://devamitta.github.io/patimokkha_dict/Bhikkhu_Patimokkha/main.html) format.
 
 ![image](https://user-images.githubusercontent.com/39419221/201099247-07acfb11-a014-4501-9a93-f5c38840b064.png)
 
