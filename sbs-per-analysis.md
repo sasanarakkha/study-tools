@@ -110,3 +110,5 @@ Files that may be usefull with this analysis:
 - [The Highest Honour and Aspirations](https://docs.google.com/document/d/1snej2MNlaEtPH-f_4Gv8YpFleifo-Uz3f17XEkbYUw4/)
 
 In addition there is an analysis of [Post Pātimokkha recitations](https://docs.google.com/document/d/1Qzh_BTJgg-YSxGMyEyu1TciVSX_lVg3arSzD_Vtf_Fg/)
+
+Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://docs.google.com/document/d/1qOjSvYnNt1FpMRZdq-vXRMQFH6uTdoYU5hWUN6AP5Hs/) can be made use of.
