@@ -74,6 +74,8 @@ Files that may be usefull with this analysis:
 - [Kāla-dāna-sutta-gāthā](https://docs.google.com/document/d/1smMeRSKEqTywbpTQexaVWwlM0ItftEwS9Fs9922ieJU/)
 - [So attha-laddho](https://docs.google.com/document/d/1iISQ3e2TaL4qS0jYmuu8qDzW2MxbGdPaLtTmDp2zwiw/)
 
+Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://docs.google.com/document/d/1qOjSvYnNt1FpMRZdq-vXRMQFH6uTdoYU5hWUN6AP5Hs/) can be made use of.
+
 **PROTECTIVE RECITATIONS**
 
 - [Devā-ārādhanā](https://docs.google.com/document/d/1g85wBs0kuJF51coQzQSBOdfbqFewAi749Th9jJqaVhw/)
@@ -111,4 +113,3 @@ Files that may be usefull with this analysis:
 
 In addition there is an analysis of [Post Pātimokkha recitations](https://docs.google.com/document/d/1Qzh_BTJgg-YSxGMyEyu1TciVSX_lVg3arSzD_Vtf_Fg/)
 
-Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://docs.google.com/document/d/1qOjSvYnNt1FpMRZdq-vXRMQFH6uTdoYU5hWUN6AP5Hs/) can be made use of.
