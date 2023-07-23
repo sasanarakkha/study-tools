@@ -10,29 +10,9 @@ The first recommendation is to review the class materials again, paying attentio
 
 It is recommended to do analysis of the SBS Pāḷi-English Recitations book together with the Anki deck.
 
-**Exercises divided by chapters:**
+[Exercises divided by chapters](https://sasanarakkha.github.io/study-tools/sbs-per-ex.html)
 
-- [HOMAGE TO THE TRIPLE GEM]()
-- [VERSES]()
-- [TEACHINGS]()
-- [REFLECTIONS]()
-- [CARDINAL SUTTAS]()
-- [THANKSGIVING RECITATION]()
-- [PROTECTIVE RECITATIONS]()
-- [FUNERAL CHANTS]()
-- [SHARING OF MERITS]()
-
-**Analysis divided by chapters:**
-
-- [HOMAGE TO THE TRIPLE GEM]()
-- [VERSES]()
-- [TEACHINGS]()
-- [REFLECTIONS]()
-- [CARDINAL SUTTAS]()
-- [THANKSGIVING RECITATION]()
-- [PROTECTIVE RECITATIONS]()
-- [FUNERAL CHANTS]()
-- [SHARING OF MERITS]()
+[Analysis divided by chapters](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html)
 
 Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html) (incluading words from pubbakicca Dhammayuttika)
 
