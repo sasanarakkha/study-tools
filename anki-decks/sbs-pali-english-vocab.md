@@ -6,7 +6,7 @@ Made for the memorization of words from 'SBS Pāḷi-English Recitations'. It is
 
 This tool is recommended to be used together with [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/); the [Analysis of SBS Pāḷi-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html) and the [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html).
 
-Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-anumodana-by-thanuttamo.pdf) can be made use of.
+Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://docs.google.com/document/d/1qOjSvYnNt1FpMRZdq-vXRMQFH6uTdoYU5hWUN6AP5Hs/) can be made use of.
 
 - **[Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-pali-english-vocab.apkg)**
 
