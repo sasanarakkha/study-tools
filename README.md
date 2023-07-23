@@ -16,7 +16,7 @@ These materials are provided for the benefit, welfare, and happiness of many peo
 
 - [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/tag/build_07.06.2023_04-24)
 
-- [Analysis of SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/study-tools/releases/latest/download/analysis-of-sbs-pali-english-recitations.pdf) (Click to download)
+- [Analysis of SBS Pāḷi-English Recitations](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-per-analysis.html)
 
 ### Pāṭimokkha
 
