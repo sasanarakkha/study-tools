@@ -3,7 +3,7 @@
 Made for better gramatical understanding of suttas and passages from 'SBS Pāḷi-English Recitations'. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=Analisis-SBS-PER).
 
 Files that may be usefull with this analysis:
-- [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/)
+- [SBS Pāḷi-English Recitations](https://sasanarakkha.org/2019/09/08/sbs-pali-english-recitations/)
 - [SBS Pāḷi-English Vocab - Anki Deck](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html)
 - [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html)
 

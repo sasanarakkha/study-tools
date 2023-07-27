@@ -32,6 +32,8 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 ### Anki decks:
 
+- [Parittas](https://sasanarakkha.github.io/study-tools/anki-decks/parittas.html)
+
 - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html)
 
 - [DHP Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/dhp-vocab.html)
@@ -49,6 +51,7 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 - [Sutta Piṭaka Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sutta-pitaka-vocab.html)
 
 - [Roots](https://sasanarakkha.github.io/study-tools/anki-decks/roots.html)
+
 
 You can check the date of the latest update for all decks  [here](https://github.com/sasanarakkha/study-tools/releases/latest).
 

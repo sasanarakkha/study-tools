@@ -4,7 +4,7 @@ UNDER DEVELOPMENT
 
 Made for the memorization of words from 'SBS Pāḷi-English Recitations'. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Be sure to regularly download the latest content here.
 
-This tool is recommended to be used together with [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/); the [Analysis of SBS Pāḷi-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html) and the [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html).
+This tool is recommended to be used together with [SBS Pāḷi-English Recitations](https://sasanarakkha.org/2019/09/08/sbs-pali-english-recitations/); the [Analysis of SBS Pāḷi-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html) and the [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html).
 
 Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://docs.google.com/document/d/1qOjSvYnNt1FpMRZdq-vXRMQFH6uTdoYU5hWUN6AP5Hs/) can be made use of.
 
