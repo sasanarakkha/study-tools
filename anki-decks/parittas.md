@@ -7,9 +7,10 @@ This tool is designed for memorizing words from a few traditional paritta chants
 The chants can be studied using [SBS Pāḷi-English Recitations](https://sasanarakkha.org/2019/09/08/sbs-pali-english-recitations/)
 
 Word by word analysis of those suttas can be found 
+
+- [Maṅgala-sutta](https://docs.google.com/document/d/1U96ujGucaUwKziqm0FNCg4u2e55oGH2ZGMP1IEsuZoQ/)
 - [Ratana-sutta](https://docs.google.com/document/d/1GE9J6Ws1ezWHxGQ5hJeFabPIoHONt7Gzrt86UNYNR4s/)
 - [Karaṇīya-metta-sutta](https://docs.google.com/document/d/1iLTSvK02-i-V2EfiMOXs_z8X-Tf2as06dVe2AuYBREo/)
-- [Khandha-parittaṃ](https://docs.google.com/document/d/1o2cDWXsgpJXm2d00woMNvsfk3Q35s5j9-DVV170bkgo/)
 
 For easier memorization, can be helpful to use audio of those chants.
 
