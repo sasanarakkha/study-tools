@@ -24,4 +24,6 @@ How to install Anki deck:
 
 - Double-click on the downloaded file parittas.apkg and it will appear in your Anki.
 
+![image](https://github.com/sasanarakkha/study-tools/assets/39419221/0a69cd5b-54f5-4832-9b09-29b332c24758)
+
 - In case of need you can use [parittas.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/parittas.csv)
