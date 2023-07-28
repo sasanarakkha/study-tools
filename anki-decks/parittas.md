@@ -8,9 +8,9 @@ The chants can be studied using [SBS Pāḷi-English Recitations](https://sasana
 
 Word by word analysis of those suttas can be found 
 
+- [Karaṇīya-metta-sutta](https://docs.google.com/document/d/1iLTSvK02-i-V2EfiMOXs_z8X-Tf2as06dVe2AuYBREo/)
 - [Maṅgala-sutta](https://docs.google.com/document/d/1U96ujGucaUwKziqm0FNCg4u2e55oGH2ZGMP1IEsuZoQ/)
 - [Ratana-sutta](https://docs.google.com/document/d/1GE9J6Ws1ezWHxGQ5hJeFabPIoHONt7Gzrt86UNYNR4s/)
-- [Karaṇīya-metta-sutta](https://docs.google.com/document/d/1iLTSvK02-i-V2EfiMOXs_z8X-Tf2as06dVe2AuYBREo/)
 
 For easier memorization, can be helpful to use audio of those chants.
 
