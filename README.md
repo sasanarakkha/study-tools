@@ -1,6 +1,6 @@
 [![logo](https://user-images.githubusercontent.com/39419221/165271019-e4da74da-05b9-4f46-ade6-3b173966ab75.png)](http://sasanarakkha.org/)
 
-These materials are provided for the benefit, welfare, and happiness of many people. We would greatly appreciate your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform?) to help us improve them.
+These materials are provided for the benefit, welfare, and happiness of many people. We would greatly appreciate your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform?) to assist us in improving them.
 
 ### Dictionaries:
 
@@ -22,13 +22,7 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 ### Pāṭimokkha
 
-- [Ven. Ñānatusita's version of the Pāṭimokkha](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/)
-
-- [Thai Dhammayut version of the Pāṭimokkha](https://github.com/sasanarakkha/thai-dhammayut-patimokkha/releases/latest/)
-
-- [Sri Lankan Galduwa version of the Pāṭimokkha](https://github.com/sasanarakkha/galduwa-patimokkha/releases/latest/)
-
-- [Chaṭṭha Saṅgāyana version of the Pāṭimokkha](https://github.com/sasanarakkha/chattha-sangayana-patimokkha/releases/latest/)
+- [Different editions of the Pāṭimokkha](https://sasanarakkha.github.io/study-tools/patimokkha.html)
 
 ### Anki decks:
 
