@@ -48,7 +48,7 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 - [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/anki-decks/ru-pali-vocab.html)
 
-- [Sutta Piṭaka Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sutta-pitaka-vocab.html)
+<!-- - [Sutta Piṭaka Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sutta-pitaka-vocab.html) -->
 
 - [Roots](https://sasanarakkha.github.io/study-tools/anki-decks/roots.html)
 
