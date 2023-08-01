@@ -1,6 +1,6 @@
 # **Exersises of sentences from SBS Pāḷi-English Recitations**
 
-Made for better gramatical understanding of suttas and passages from 'SBS Pāḷi-English Recitations'. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=Analisis-SBS-PER).
+Made for better gramatical understanding of suttas and passages from 'SBS Pāḷi-English Recitations'. It is available for testing and [feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?).
 
 Files that may be usefull with this analysis:
 

@@ -2,7 +2,7 @@
 
 UNDER DEVELOPMENT
 
-This tool is designed for memorizing words from a few traditional paritta chants. It is currently available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). Make sure to regularly download the latest content here.
+This tool is designed for memorizing words from a few traditional paritta chants. It is currently available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&amp;entry.1433863141=SBS-study-tools). Make sure to regularly download the latest content here.
 
 The chants can be studied using [SBS Pāḷi-English Recitations](https://sasanarakkha.org/2019/09/08/sbs-pali-english-recitations/)
 

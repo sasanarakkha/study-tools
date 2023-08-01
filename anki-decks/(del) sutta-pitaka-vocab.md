@@ -2,7 +2,7 @@
 
 UNDER DEVELOPMENT
 
-Made for memorization of some words from Sutta Piṭaka. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&amp;entry.1433863141=SuttaPitaka). Be sure to regularly download the latest content here.
+Made for memorization of some words from Sutta Piṭaka. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform?). Be sure to regularly download the latest content here.
 
 This tool is recommended to be for advance Pāli students.
 
