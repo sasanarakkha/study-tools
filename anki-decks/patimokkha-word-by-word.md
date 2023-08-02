@@ -49,9 +49,9 @@ If you have a problem with updating, you can use the following method:
 ![image](https://user-images.githubusercontent.com/39419221/201275452-16521bbe-a1fa-4bde-b7eb-0a12e2e31134.png)
 
 - note that there are 3 different fields for card settings: 
-1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/pat-front.txt) ; 
-2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/pat-back.txt)
-3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/pat-styling.txt) 
+1. [FRONT TEMPLATE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/pat-front.txt) ; 
+2. [BACK TEMPLATE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/pat-back.txt)
+3. [STYLE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/pat-styling.txt) 
 
 Check that each of them matches current card settings.
 
