@@ -1,0 +1,8 @@
+id
+abbrev
+meaning
+pāli
+example
+explanation
+pattern
+feedback

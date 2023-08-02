@@ -48,7 +48,7 @@ It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/
 
 see small video [how-to-update-anki-deck](https://drive.google.com/file/d/1fRYTWmrWl2InCXlJEJnJOiYlBAmeeRDB/view?usp=sharing)
 
-see [here](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html) how and why we need to remove duplicates
+see [here](https://sasanarakkha.github.io/study-tools/anki-decks/test.html) how and why we need to remove duplicates
 
 - Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Grammar%20P%C4%81li%20Class.apkg)
 

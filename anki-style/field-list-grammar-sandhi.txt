@@ -1,0 +1,8 @@
+id
+example
+sandhi
+details
+result
+meeting
+pattern
+feedback

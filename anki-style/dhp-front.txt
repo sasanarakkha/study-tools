@@ -1,0 +1,12 @@
+
+<div style='font-size: 80%;'><I>{{sbs_sutta_1}}</I></div>
+
+<div style='font-size: 65%;'><i>{{sbs_source_1}}</i></div>
+
+<div>{{sbs_example_1}}</div>
+
+<hr>
+
+<div>{{sbs_audio}}</div>
+
+<div><b>{{pali_1}}</b></div>

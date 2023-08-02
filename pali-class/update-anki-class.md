@@ -8,7 +8,7 @@ It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/
 
 Usually it is enough just to double-click on the downloaded apkg file, and it will update in your Anki. 
 
-Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html)
+Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 # Another method of updating
 
@@ -16,7 +16,19 @@ If you have a problem with updating, you can use the following method:
 
 - download the latest csv file
 
-- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/anki-style/blob/main/class-fields.png). You can check it in menu: **Tools > Manage Note Types**
+- make sure that your filed list exectly the same as current:
+
+- - [filed list for Vocab deck](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-vocab-class.txt). 
+
+- - [filed list for Root and Phonetic Changes deck](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-roots-class.txt).
+
+- - [filed list for Grammar Abbr](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-grammar-abbr.txt).
+
+- - [filed list for Grammar Grammar](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-grammar-gramm.txt).
+
+- - [filed list for Grammar Sandhi](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-grammar-sandhi.txt).
+
+You can check it in menu: **Tools > Manage Note Types**
 
 ![image](https://user-images.githubusercontent.com/39419221/187018978-aa198754-bf2d-49c1-a470-1d3a80ea8acb.png)
 
@@ -27,22 +39,16 @@ If you have a problem with updating, you can use the following method:
 ### for Vocab deck:
 
 - note that there are 3 different fields for card settings: 
-1. [Vocab FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-vocab-front.txt)
-2. [Vocab BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-vocab-back.txt)
-3. [Vocab STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-style.txt) 
+1. [Vocab FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/class-front.txt)
+2. [Vocab BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/class-back.txt)
+3. [Vocab STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/styling.txt) 
 
 
-### for Root deck:
+### for Root and Phonetic Changes decks:
 - note that there are 3 different fields for card settings: 
-1. [Root FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-root-front.txt)
-2. [Root BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-root-back.txt)
-3. [Root STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-style.txt) 
-
-### for Phonetic Changes deck:
-- note that there are 3 different fields for card settings: 
-1. [Phonetic FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-phonetic-front.txt)
-2. [Phonetic BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-phonetic-back.txt)
-3. [Phonetic STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-class-style.txt) 
+1. [Root FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/roots-front.txt)
+2. [Root BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/roots-back.txt)
+3. [Root STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/styling.txt) 
 
 Check that each of them matches current card settings.
 - 
@@ -63,7 +69,7 @@ Check that each of them matches current card settings.
 
 - now you are up-to-date.
 
-- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/pali-class/class-test.html)
+- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 
 

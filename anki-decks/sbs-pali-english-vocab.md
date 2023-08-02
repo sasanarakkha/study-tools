@@ -55,8 +55,6 @@ Now all cards from the selected chant will appear in your Anki daily routine. Af
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
-## If you do not have ID field, please [add it](https://sasanarakkha.github.io/study-tools/ID.html)
-
 Please see a small [video](https://user-images.githubusercontent.com/39419221/187018792-3afe402c-e77b-46e6-ba5d-4efa0846de93.mp4) how to update.
 
 Or just follow the description:
@@ -69,7 +67,7 @@ If you have a problem with updating, you can use the following method:
 
 - download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-pd.csv)
 
-- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/sbs-fields.png). You can check it in menu: **Tools > Manage Note Types**
+- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-sbs.txt). You can check it in menu: **Tools > Manage Note Types**
 
 ![image](https://user-images.githubusercontent.com/39419221/187018182-541cc298-2e2c-40d7-9fb9-8234c1beffc0.png)
 
@@ -78,9 +76,9 @@ If you have a problem with updating, you can use the following method:
 ![image](https://user-images.githubusercontent.com/39419221/187018254-38971497-8fa9-40e4-97db-1d6fe9e200ed.png)
 
 - note that there are 3 different fields for card settings: 
-1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab-front.txt)
-2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab-back.txt)
-3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-sbs-vocab-style.txt) 
+1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/sbs-front.txt)
+2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/sbs-back.txt)
+3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/styling.txt) 
 
 Check that each of them matches current card settings.
 - 

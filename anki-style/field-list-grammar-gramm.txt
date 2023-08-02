@@ -1,0 +1,8 @@
+id
+pali
+gram
+of
+transl
+decl-con
+pattern
+feedback
