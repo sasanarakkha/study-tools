@@ -39,15 +39,13 @@ This tool is recommended to be used together with the [DHP grammatical analysis]
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
 
-## If you do not have ID field, please [add it](https://sasanarakkha.github.io/study-tools/ID.html)
-
 Please see a small [video](https://user-images.githubusercontent.com/39419221/187018792-3afe402c-e77b-46e6-ba5d-4efa0846de93.mp4) how to update.
 
 Or just follow the description:
 
 Usually it is enough just to double-click on the downloaded apkg file, and it will update in your Anki. 
 
-Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 # Another method of updating
 
@@ -55,7 +53,7 @@ If you have a problem with updating, you can use the following method:
 
 - download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/dhp-vocab.csv) 
 
-- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/dhp-fields.png). You can check it in menu: **Tools > Manage Note Types**
+- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/anki-style/blob/main/field-list-dhp.txt). You can check it in menu: **Tools > Manage Note Types**
 
 ![image](https://user-images.githubusercontent.com/39419221/187018978-aa198754-bf2d-49c1-a470-1d3a80ea8acb.png)
 
@@ -64,9 +62,9 @@ If you have a problem with updating, you can use the following method:
 ![image](https://user-images.githubusercontent.com/39419221/187018990-f0ce18f6-d36f-434b-a19c-cb5f54f5ffe3.png)
 
 - note that there are 3 different fields for card settings: 
-1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-dhp-vocab-front.txt)
-2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-dhp-vocab-back.txt)
-3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-dhp-vocab-style.txt) 
+1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/dhp-front.txt)
+2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/dhp-back.txt)
+3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/styling.txt) 
 
 Check that each of them matches current card settings.
 - 
@@ -87,7 +85,7 @@ Check that each of them matches current card settings.
 
 - now you are up-to-date.
 
-- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/test.html)
+- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 
 

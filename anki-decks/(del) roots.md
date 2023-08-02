@@ -42,9 +42,9 @@ If you have a problem with updating, you can use the following method:
 ![image](https://user-images.githubusercontent.com/39419221/205493858-dc25632e-7167-4c1f-8da5-9c8dbf4dad72.png)
 
 - note that there are 3 different fields for card settings: 
-1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-dhp-vocab-front.txt)
-2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-dhp-vocab-back.txt)
-3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/main/anki-card-dhp-vocab-style.txt) 
+1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-dhp-vocab-front.txt)
+2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/anki-card-dhp-vocab-back.txt)
+3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/styling.txt) 
 
 Check that each of them matches current card settings.
 - 
