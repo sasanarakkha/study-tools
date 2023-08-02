@@ -39,16 +39,16 @@ You can check it in menu: **Tools > Manage Note Types**
 ### for Vocab deck:
 
 - note that there are 3 different fields for card settings: 
-1. [Vocab FRONT TEMPLATE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/class-front.txt)
-2. [Vocab BACK TEMPLATE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/class-back.txt)
-3. [Vocab STYLE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/styling.txt) 
+1. [Vocab FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/class-front.txt)
+2. [Vocab BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/class-back.txt)
+3. [Vocab STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 
 ### for Root and Phonetic Changes decks:
 - note that there are 3 different fields for card settings: 
-1. [Root FRONT TEMPLATE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/roots-front.txt)
-2. [Root BACK TEMPLATE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/roots-back.txt)
-3. [Root STYLE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/styling.txt) 
+1. [Root FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/roots-front.txt)
+2. [Root BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/roots-back.txt)
+3. [Root STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 Check that each of them matches current card settings.
 - 

@@ -76,9 +76,9 @@ If you have a problem with updating, you can use the following method:
 ![image](https://user-images.githubusercontent.com/39419221/187018254-38971497-8fa9-40e4-97db-1d6fe9e200ed.png)
 
 - note that there are 3 different fields for card settings: 
-1. [FRONT TEMPLATE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/sbs-front.txt)
-2. [BACK TEMPLATE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/sbs-back.txt)
-3. [STYLE](https://github.com/sasanarakkha//study-tools/blob/main/anki-style/styling.txt) 
+1. [FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/sbs-front.txt)
+2. [BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/sbs-back.txt)
+3. [STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 Check that each of them matches current card settings.
 - 
