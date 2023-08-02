@@ -53,7 +53,7 @@ If you have a problem with updating, you can use the following method:
 
 - download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/dhp-vocab.csv) 
 
-- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/anki-style/blob/main/field-list-dhp.txt). You can check it in menu: **Tools > Manage Note Types**
+- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-dhp.txt). You can check it in menu: **Tools > Manage Note Types**
 
 ![image](https://user-images.githubusercontent.com/39419221/187018978-aa198754-bf2d-49c1-a470-1d3a80ea8acb.png)
 
