@@ -18,15 +18,15 @@ If you have a problem with updating, you can use the following method:
 
 - make sure that your filed list exectly the same as current:
 
-- - [filed list for Vocab deck](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-vocab-class.txt). 
+- - [filed list for Vocab deck](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-vocab-class.txt). 
 
-- - [filed list for Root and Phonetic Changes deck](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-roots-class.txt).
+- - [filed list for Root and Phonetic Changes deck](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-roots-class.txt).
 
-- - [filed list for Grammar Abbr](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-grammar-abbr.txt).
+- - [filed list for Grammar Abbr](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-abbr.txt).
 
-- - [filed list for Grammar Grammar](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-grammar-gramm.txt).
+- - [filed list for Grammar Grammar](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-gramm.txt).
 
-- - [filed list for Grammar Sandhi](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-grammar-sandhi.txt).
+- - [filed list for Grammar Sandhi](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-sandhi.txt).
 
 You can check it in menu: **Tools > Manage Note Types**
 
@@ -39,16 +39,16 @@ You can check it in menu: **Tools > Manage Note Types**
 ### for Vocab deck:
 
 - note that there are 3 different fields for card settings: 
-1. [Vocab FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/class-front.txt)
-2. [Vocab BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/class-back.txt)
-3. [Vocab STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/styling.txt) 
+1. [Vocab FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/class-front.txt)
+2. [Vocab BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/class-back.txt)
+3. [Vocab STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 
 ### for Root and Phonetic Changes decks:
 - note that there are 3 different fields for card settings: 
-1. [Root FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/roots-front.txt)
-2. [Root BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/roots-back.txt)
-3. [Root STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/styling.txt) 
+1. [Root FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/roots-front.txt)
+2. [Root BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/roots-back.txt)
+3. [Root STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 Check that each of them matches current card settings.
 - 

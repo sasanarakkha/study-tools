@@ -62,9 +62,9 @@ If you have a problem with updating, you can use the following method:
 ![image](https://user-images.githubusercontent.com/39419221/187018990-f0ce18f6-d36f-434b-a19c-cb5f54f5ffe3.png)
 
 - note that there are 3 different fields for card settings: 
-1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/dhp-front.txt)
-2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/dhp-back.txt)
-3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/styling.txt) 
+1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/dhp-front.txt)
+2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/dhp-back.txt)
+3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 Check that each of them matches current card settings.
 - 

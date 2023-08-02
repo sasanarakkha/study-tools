@@ -67,7 +67,7 @@ If you have a problem with updating, you can use the following method:
 
 - download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-pd.csv)
 
-- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/anki-style/main/field-list-sbs.txt). You can check it in menu: **Tools > Manage Note Types**
+- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-sbs.txt). You can check it in menu: **Tools > Manage Note Types**
 
 ![image](https://user-images.githubusercontent.com/39419221/187018182-541cc298-2e2c-40d7-9fb9-8234c1beffc0.png)
 
@@ -76,9 +76,9 @@ If you have a problem with updating, you can use the following method:
 ![image](https://user-images.githubusercontent.com/39419221/187018254-38971497-8fa9-40e4-97db-1d6fe9e200ed.png)
 
 - note that there are 3 different fields for card settings: 
-1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/sbs-front.txt)
-2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/sbs-back.txt)
-3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/anki-style/main/styling.txt) 
+1. [FRONT TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/sbs-front.txt)
+2. [BACK TEMPLATE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/sbs-back.txt)
+3. [STYLE](https://raw.githubusercontent.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 Check that each of them matches current card settings.
 - 
