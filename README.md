@@ -38,7 +38,7 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 - [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-learning.html)
 
-- [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-daily-chanting-sentences.html)
+- [SBS Daily Chanting Sentences](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-daily-chanting.html)
 
 - [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/anki-decks/ru-pali-vocab.html)
 

@@ -35,7 +35,7 @@ declare -r repo='study-tools'
 # Array of filenames
 # Must be filenames without path, so script may be in any location, but
 # current working directory must contains enumerated files.
-declare -a assets=('analysis-of-sbs-pāli-english-recitations.pdf' 'dhp-vocab.apkg' 'dhp-vocab.csv' 'patimokkha-word-by-word.apkg' 'patimokkha-word-by-word.csv' 'roots.apkg' 'roots.csv' 'ru-pali-dict.zip' 'ru-pali-vocab.apkg' 'ru-pali-vocab.csv' 'sbs-pali-english-vocab.apkg' 'sbs-pd.csv' 'sbs-pd.zip' 'sutta-pitaka-vocab.apkg' 'sutta-pitaka-vocab.csv' 'dhp-learning.apkg' 'patimokkha-learning.apkg' 'sbs-daily-chanting-sentences.apkg')
+declare -a assets=('analysis-of-sbs-pāli-english-recitations.pdf' 'dhp-vocab.apkg' 'dhp-vocab.csv' 'patimokkha-word-by-word.apkg' 'patimokkha-word-by-word.csv' 'roots.apkg' 'roots.csv' 'ru-pali-dict.zip' 'ru-pali-vocab.apkg' 'ru-pali-vocab.csv' 'sbs-pali-english-vocab.apkg' 'sbs-pd.csv' 'sbs-pd.zip' 'sutta-pitaka-vocab.apkg' 'sutta-pitaka-vocab.csv' 'dhp-learning.apkg' 'patimokkha-learning.apkg' 'sbs-daily-chanting.apkg')
 
 # Title of the release will be prepended with this through a space
 declare -r release_base_name='Build'
