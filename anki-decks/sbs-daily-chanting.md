@@ -1,4 +1,4 @@
-# SBS Daily Chanting Sentences - Anki Deck
+# SBS Daily Chanting - Anki Deck
 
 Made for the memorization of [Anumodana chants, food reflections and requisites reflections.](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-daily-chanting-text.html) The pack includes cut-up mp3 files with the voice of Bhante Ariyadhammika. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform).
 
