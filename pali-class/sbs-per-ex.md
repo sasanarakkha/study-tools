@@ -88,15 +88,15 @@ Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhan
 - [Maṅgala-sutta](https://docs.google.com/document/d/1PXx87BaISiQiZdYose37VjVtpdeGAP1p5ITFcLePaAE/)
 - [Ratana-sutta](https://docs.google.com/document/d/13rQtm6xlWVryfXrn2k3jP0PrQrjgG3gbp3oyuWoe46o/)
 - [Karaṇīya-metta-sutta](https://docs.google.com/document/d/1yDuAPB5G2xpxUV--F0Icyx_xIjvgJignLj3XbmsDIuo/)
-- [Khandha-parittaṃ](https://docs.google.com/document/d/1Fh6WS4A5ISJZcxOg4UI4UlaYL8YONYS8OoIqYlH79Xk/)
+- [Khandha-parittaṁ](https://docs.google.com/document/d/1Fh6WS4A5ISJZcxOg4UI4UlaYL8YONYS8OoIqYlH79Xk/)
 - [Buddha-dhamma-saṅgha-guṇā](https://docs.google.com/document/d/1Iad_3_Pjvnkw70hUOq4MUbyik7dL_vvJruB6kydQ898/)
-- [Yaṅ’kiñci ratanaṃ loke](https://docs.google.com/document/d/19ByogEijjQy7GhYqmw_RJMfPm19vi9QOLLcEcNvwimw/)
-- [Bojjh’aṅga-parittaṃ](https://docs.google.com/document/d/1gXWenslO9EOqQ3TAhkFNUBSM3gWmhfz55Xmon7IKwIg/)
-- [Abhaya-parittaṃ](https://docs.google.com/document/d/1Sh9-Pkud75ol_hbxW_F6JvhXTKYiasaeRD59tAQ0OLs/)
+- [Yaṅ’kiñci ratanaṁ loke](https://docs.google.com/document/d/19ByogEijjQy7GhYqmw_RJMfPm19vi9QOLLcEcNvwimw/)
+- [Bojjh’aṅga-parittaṁ](https://docs.google.com/document/d/1gXWenslO9EOqQ3TAhkFNUBSM3gWmhfz55Xmon7IKwIg/)
+- [Abhaya-parittaṁ](https://docs.google.com/document/d/1Sh9-Pkud75ol_hbxW_F6JvhXTKYiasaeRD59tAQ0OLs/)
 - [Devatā-uyyojana-gāthā](https://docs.google.com/document/d/1JwvXXlrHZAqHH9sp9hpGdH1ngv35p3-5b77St9pguy4/)
 - [Jaya-maṅgala-aṭṭha-gāthā](https://docs.google.com/document/d/1WnbCRgNd-aj8UN9PlpOh3KjFVR8mvy12AUvM3XMfrE4/)
-- [Jaya-parittaṃ](https://docs.google.com/document/d/1X1DCe7INTVFkGpHPlZSMWVjA_ogqTBWM9aq5a6ZZ5l8/)
-- [Bhavatu-sabba-maṅgalaṃ](https://docs.google.com/document/d/1WfNAljSzDiTlqpkabTZk4yNnne60x6QLV46m7xJc9hQ/)
+- [Jaya-parittaṁ](https://docs.google.com/document/d/1X1DCe7INTVFkGpHPlZSMWVjA_ogqTBWM9aq5a6ZZ5l8/)
+- [Bhavatu-sabba-maṅgalaṁ](https://docs.google.com/document/d/1WfNAljSzDiTlqpkabTZk4yNnne60x6QLV46m7xJc9hQ/)
 
 **FUNERAL CHANTS**
 
@@ -104,7 +104,7 @@ Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhan
 - [Vipassanā-bhūmi-pāṭho](https://docs.google.com/document/d/1Aw3bolOUw97TzBNLTZIk0pyXRVxUpzbjMNRZhKLK_CY/)
 - [Paṭṭhāna-mātikā-pāṭho](https://docs.google.com/document/d/1eCc14q-QUZTqRUAm-99IGZtP5jyRSLztL24Hvz5g8bw/)
 - [Adāsi-me ādi gāthā](https://docs.google.com/document/d/13RVCLdPnBhxWFas5DibgQm8qEVSWB_ypLbGYFsRKcbQ/)
-- [Paṃsu-kūla](https://docs.google.com/document/d/1t0PpFRjya6XxI7s5mriHFgcYRLIDNmevJ3ynIHqLt30/)
+- [Paṁsu-kūla](https://docs.google.com/document/d/1t0PpFRjya6XxI7s5mriHFgcYRLIDNmevJ3ynIHqLt30/)
 
 **SHARING OF MERRITS**
 
