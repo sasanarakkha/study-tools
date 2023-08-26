@@ -218,7 +218,7 @@ Padakkhiṇāni katvāna; labhant'atthe padakkhiṇe
 
 Te atthaladdhā sukhitā; virūḷhā Buddhasāsane
 
-Arogā sukhitā hotha; saha sabbehi ñātibhī
+Arogā sukhitā hotha; saha sabbehi ñātibhi
 
 One who gives food to another; gives to the other five things too 
 
