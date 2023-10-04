@@ -7,16 +7,17 @@
 - make patimokkha and grammar using [utilities/all_in_one.sh](https://github.com/Devamitta/utilities/blob/main/all_in_one.sh)
 - in Anki update all decks from importing csvs (dpd-db/dps/csvs/anki-csvs/)
 - push [patimokkha_dict](https://github.com/Devamitta/patimokkha_dict) to github, updating [html version of word-by-word.](https://devamitta.github.io/patimokkha_dict/Bhikkhu_Patimokkha/main.html)
+- in https://ankiweb.net/ share all decks `studytools` account
 
 
 ## plans on pali projects
 
 **sutta interlude**
 
-- checking words in [Anki deck related to MN107](https://github.com/sasanarakkha/study-tools/blob/main/pali-class/anki-decks/Suttas%20Advanced.apkg)
+- checking words in [Anki deck related to MN107](https://ankiweb.net/shared/info/1671533496)
 - checking [analysis of SBS PER](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html)
 - checking words in [Anki deck of SBS PER](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html)
-- adding words from **Reading the Buddha’s Discourses in Pāli** by Venerable Bhikkhu Bodhi which analyzing by Ñāna [(6 chapters-saṃyuttas)](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-adv.html) using [dpd-db/dps/scripts/extract_id_from_docs.py](https://github.com/digitalpalidictionary/dpd-db/blob/main/dps/scripts/extract_id_from_docs.py) and in [GUI](https://github.com/digitalpalidictionary/dpd-db/blob/main/gui/gui.py) in "Words To Add" tab section "from id-list" field: "sbs_category" do not have value - and all words one by one add relevant sutta by "edit word in DPS" button. Then using [dpd-db/dps/scripts/anki_csvs.py](https://github.com/digitalpalidictionary/dpd-db/blob/main/dps/scripts/anki_csvs.py) extract csv for anki deck. Add words to [Anki deck](https://github.com/sasanarakkha/study-tools/blob/main/pali-class/anki-decks/Suttas%20Advanced.apkg) using generated csv.
+- adding words from **Reading the Buddha’s Discourses in Pāli** by Venerable Bhikkhu Bodhi which analyzing by Ñāna [(6 chapters-saṃyuttas)](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-adv.html) using [dpd-db/dps/scripts/extract_id_from_docs.py](https://github.com/digitalpalidictionary/dpd-db/blob/main/dps/scripts/extract_id_from_docs.py) and in [GUI](https://github.com/digitalpalidictionary/dpd-db/blob/main/gui/gui.py) in "Words To Add" tab section "from id-list" field: "sbs_category" do not have value - and all words one by one add relevant sutta by "edit word in DPS" button. Then using [dpd-db/dps/scripts/anki_csvs.py](https://github.com/digitalpalidictionary/dpd-db/blob/main/dps/scripts/anki_csvs.py) extract csv for anki deck. Add words to [Anki deck](https://ankiweb.net/shared/info/1671533496) using generated csv.
 - check words from anki deck related to each saṃyutta
 
 **[advanced pali course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-adv.html)**

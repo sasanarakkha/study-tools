@@ -40,7 +40,7 @@ to download any of these documents, select the needed format:
 
 -------
 
-- Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Vocab%20P%C4%81li%20Class.apkg)
+- Anki Deck [Vocab Pāli Class](https://ankiweb.net/shared/info/1271100901)
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
@@ -50,11 +50,13 @@ see small video [how-to-update-anki-deck](https://drive.google.com/file/d/1fRYTW
 
 see [here](https://sasanarakkha.github.io/study-tools/anki-decks/test.html) how and why we need to remove duplicates
 
-- Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Grammar%20P%C4%81li%20Class.apkg)
+- Anki Deck [Grammar Pāli Class](https://ankiweb.net/shared/info/600739051)
 
-- Anki Deck most common [Roots](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Common%20Roots%20P%C4%81li%20Class.apkg)
+- Anki Deck most common [Roots](https://ankiweb.net/shared/info/611183334)
 
-- Anki Deck for recognition of [Roots](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Roots%20Class.apkg) in words from Vocab Pāli Class.
+- Anki Deck for recognition of [Roots](https://ankiweb.net/shared/info/790850450) in words from Vocab Pāli Class.
+
+- Anki Deck for recognition of [Phonetic Changes](https://ankiweb.net/shared/info/268219721) in words from Vocab Pāli Class.
 
 -------
 

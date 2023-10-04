@@ -32,7 +32,7 @@ Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-too
 
 - [Exersises on MN 107 gaṇakamoggallānasuttaṁ](https://docs.google.com/document/d/1kG7DPHLKYlzYdzEQboyYlGJed1cx7zm1LaVU6Qp5Jro/edit?usp=sharing)
 
-There is an Anki Deck - [Suttas Advanced Pāli Class](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Suttas%20Advanced.apkg) which will include MN 107 and other suttas listed next.
+There is an Anki Deck - [Suttas Advanced Pāli Class](https://ankiweb.net/shared/info/1671533496) which includes MN 107 and other suttas listed next.
 
 
 -------
@@ -41,7 +41,7 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 1. [Compilation from  Sacca Saṁyutta (SN 56)](https://docs.google.com/document/d/1QvmDByxRI4hMT3C8EqrafaGoXC5HA_8kRn730-VtKjY/)
 
-2. [Compilation from  Khandha Saṁyutta (SN 22)](https://docs.google.com/document/d/1kt-OP0fUHEjR4pmc72ZljK8XD9oirssI1fMvfTvOhKw/)
+2. [Compilation from  Khandha Saṁyutta (SN 22)](https://docs.google.com/document/d/1Ug89WXCTkP7p_afy0c-D6XIv_8Rg7mGGd9ti3ov7cG8/)
 
 3. [Compilation from  Saḷāyatana Saṁyutta (SN 35)](https://docs.google.com/document/d/1uyOA--pUQlHTzs1GWFQHorXkeVkwBEmJdWmPMBWoBXc/)
 

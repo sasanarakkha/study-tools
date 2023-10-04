@@ -42,7 +42,7 @@ to download any of these documents, select the needed format:
 
 -------
 
-- Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Vocab%20P%C4%81li%20Class.apkg)
+- Anki Deck [Vocab Pāli Class](https://ankiweb.net/shared/info/1271100901)
 
 It is a continuation of the Vocab Anki Deck from the [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html).
 
@@ -52,9 +52,11 @@ It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/
 
 see [here](https://sasanarakkha.github.io/study-tools/anki-decks/test.html) how and why we need to remove duplicates
 
-- Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Grammar%20P%C4%81li%20Class.apkg)
+- Anki Deck [Grammar Pāli Class](https://ankiweb.net/shared/info/600739051)
 
-- Anki Deck [Roots](https://github.com/sasanarakkhastudy-tools/anki-decks/raw/main/pali-class/anki-decks/Roots%20P%C4%81li%20Class.apkg)
+- Anki Deck [Roots](https://ankiweb.net/shared/info/790850450).
+
+- Anki Deck [Phonetic Changes](https://ankiweb.net/shared/info/268219721).
 
 
 -------

@@ -18,7 +18,7 @@ Always beneficial to keep [Digital Pāḷi Dictionary](https://digitalpalidictio
 
 How to install Anki deck:
 
-- **[Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/parittas.apkg)**
+- **[Download the latest update](https://ankiweb.net/shared/info/57114117)**
 
 - Install [Anki](https://apps.ankiweb.net/)
 
