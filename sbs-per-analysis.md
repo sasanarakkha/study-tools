@@ -53,8 +53,8 @@ Files that may be usefull with this analysis:
 - [The Repulsiveness of Food](https://docs.google.com/document/d/1bLJ3tYzSSWpfigqewEVIxtTq3H_9azz2Ch0CLZYOdzs/)
 - [Universal Well-Being](https://docs.google.com/document/d/1VlYGVeSDtx8tavnXCmgee4J6-Py3eH9DbJ2nwY23HNk/)
 - [The Divine Abidings](https://docs.google.com/document/d/1uOHGOyp_ydFd54V88oczlgnkBdJvD9pbNq42gauRm90/)
-- [Five Subjects for Frequent Recollection](https://docs.google.com/document/d/19nhhk-fkG8oUwE_mkNLV1ja_WmaskRqgKVaOreY8XSY/)
-- [Ten Subjects for Frequent Recollection by One Who Has Gone Forth](https://docs.google.com/document/d/1-6yapQqB0s7WdX7GijzXCeni5QmPhp4Xd7lVqovaNcA/)
+- [Five Subjects for Frequent Reflection](https://docs.google.com/document/d/19nhhk-fkG8oUwE_mkNLV1ja_WmaskRqgKVaOreY8XSY/)
+- [Ten Subjects for Frequent Reflection by One Who Has Gone Forth](https://docs.google.com/document/d/1-6yapQqB0s7WdX7GijzXCeni5QmPhp4Xd7lVqovaNcA/)
 - [The Thirty-Two Parts](https://docs.google.com/document/d/193i-Z1sEgIkPK9YkBvn-TSMI7b-8QQIsbXqkN_cgZ2g/)
 - [Recollection of Impermanence](https://docs.google.com/document/d/1d59_2DrZ1axq39iXItJaI17oPnUd-tZ_8Heebu0bo9c/)
 
