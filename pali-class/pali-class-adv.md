@@ -32,7 +32,7 @@ Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-too
 
 - [Exersises on MN 107 gaṇakamoggallānasuttaṁ](https://docs.google.com/document/d/1kG7DPHLKYlzYdzEQboyYlGJed1cx7zm1LaVU6Qp5Jro/edit?usp=sharing)
 
-There is an Anki Deck - [Suttas Advanced Pāli Class](https://ankiweb.net/shared/info/1671533496) which includes MN 107 and other suttas listed next.
+There is an Anki Deck - [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.apkg) which includes MN 107 and other suttas listed next.
 
 
 -------

@@ -1,6 +1,6 @@
 # Vocab Pāli Class
 
-Anki Deck [Vocab Pāli Class](https://ankiweb.net/shared/info/1271100901)
+Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/vocab-pali-class.apkg)
 
 # Updating existing deck without losing your statistics
 

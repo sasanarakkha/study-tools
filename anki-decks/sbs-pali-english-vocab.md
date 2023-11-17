@@ -8,7 +8,7 @@ This tool is recommended to be used together with [SBS Pāḷi-English Recitatio
 
 Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhanuttamo](https://docs.google.com/document/d/1qOjSvYnNt1FpMRZdq-vXRMQFH6uTdoYU5hWUN6AP5Hs/) can be made use of.
 
-- **[Download the latest update](https://ankiweb.net/shared/info/1471739428)**
+- **[Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-pali-english-vocab.apkg)**
 
 - Install [Anki](https://apps.ankiweb.net/)
 

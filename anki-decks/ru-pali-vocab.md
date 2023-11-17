@@ -5,7 +5,7 @@
 Удобрый интрумент для запоминания слов на пали. Анки версия [Пали словаря](https://sasanarakkha.github.io/study-tools/ru-pali-dictionary.html). Колода доступна для тестирования и [отзывов](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=ПалиСловарь)
 Не забывайте регулярно загружать свежую версию.
 
-- **[Загрузить последнее обновление](https://ankiweb.net/shared/info/227361842)**
+- **[Загрузить последнее обновление](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-vocab.apkg)**
 
 - Установите [Анки](https://apps.ankiweb.net/)
 

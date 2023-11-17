@@ -38,7 +38,7 @@ to download any of these documents, select the needed format:
 
 ----
 
-- Anki Deck [Vocab Pāli Class](https://ankiweb.net/shared/info/1271100901)
+- Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/vocab-pali-class.apkg)
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
@@ -48,13 +48,13 @@ see small video [how-to-update-anki-deck](https://drive.google.com/file/d/1fRYTW
 
 see [here](https://sasanarakkha.github.io/study-tools/anki-decks/test.html) how and why we need to remove duplicates
 
-- Anki Deck [Grammar Pāli Class](https://ankiweb.net/shared/info/600739051)
+- Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class.apkg)
 
-- Anki Deck most common [Roots](https://ankiweb.net/shared/info/611183334)
+- Anki Deck most common [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots-pali-class.apkg)
 
-- Anki Deck for recognition of [Roots](https://ankiweb.net/shared/info/790850450) in words from Vocab Pāli Class.
+- Anki Deck for recognition of [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/roots-pali-class.apkg) in words from Vocab Pāli Class.
 
-- Anki Deck for recognition of [Phonetic Changes](https://ankiweb.net/shared/info/268219721) in words from Vocab Pāli Class.
+- Anki Deck for recognition of [Phonetic Changes](https://github.com/sasanarakkha/study-tools/releases/latest/download/phonetic-pali-class.apkg) in words from Vocab Pāli Class.
 
 ----
 

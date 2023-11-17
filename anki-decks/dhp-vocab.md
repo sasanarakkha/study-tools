@@ -7,7 +7,7 @@ Made for memorization of words from DHP. It is available for testing and [feedba
 This tool is recommended to be used together with the [DHP grammatical analysis](https://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp)
 
 
-- **[Download the latest update](https://ankiweb.net/shared/info/416566414)**
+- **[Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/dhp-vocab.apkg)**
 
 - Install [Anki](https://apps.ankiweb.net/)
 
