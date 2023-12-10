@@ -2,7 +2,11 @@
 
 **UNDER DEVELOPMENT**
 
-This draft is based on the Intermediate Pāli Course made by Ven. Bodhirasa. This document is a work in progress, please **don’t** share or distribute outside of the class.
+This document is still being edited, please provide corrections or suggestions using the [feedback form](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/) or by commenting directly in the Google documents. We really appreciate all ideas and feedback.
+
+This material is for free distribution only.
+
+Originally created by Ven. Bodhirasa. Updated and enhanced by Ven. Devamitta. Supported by [Sāsanārakkha Buddhist Sanctuary.](http://sasanarakkha.org/)
 
 It has 13 classes + final test. Total 14 meetings.
 
@@ -79,13 +83,6 @@ It is also very useful to have an updated version of DPD, [Digital Pāḷi Dicti
 
 ----
 
-We really appreciate all ideas and feedback, please use [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc0KxEDyN5G2Mqr4t3AvDpXxSOIbIBi0GrZsAGhDB207sjLow/viewform)
+These work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
-or just in any document select, right click and comment
-
-![image](https://user-images.githubusercontent.com/39419221/206903048-944cbb56-0c92-44d2-b4d9-e3b5c1320b06.png)
-
-----
-
-Thank you!
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
