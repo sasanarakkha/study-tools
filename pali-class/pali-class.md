@@ -6,7 +6,7 @@ This document is still being edited, please provide corrections or suggestions u
 
 This material is for free distribution only.
 
-Originally created by Ven. Bodhirasa. Updated and enhanced by Ven. Devamitta. Supported by [Sāsanārakkha Buddhist Sanctuary.](http://sasanarakkha.org/)
+Originally created by Ven. Bodhirasa. Updated and enhanced by [Sāsanārakkha Buddhist Sanctuary](http://sasanarakkha.org/) Pāli Development panel under the guidance of Ven. Devamitta.
 
 It has introductory meeting + 13 classes + final test. Total 15 meetings.
 
