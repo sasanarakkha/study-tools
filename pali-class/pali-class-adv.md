@@ -39,17 +39,50 @@ There is an Anki Deck - [Suttas Advanced Pāli Class](https://github.com/sasanar
 
 Detailed analysis of those sutta passages can be found in the **Reading the Buddha’s Discourses in Pāli** by Venerable Bhikkhu Bodhi.
 
-1. [Compilation from  Sacca Saṁyutta (SN 56)](https://docs.google.com/document/d/1QvmDByxRI4hMT3C8EqrafaGoXC5HA_8kRn730-VtKjY/)
+1. Compilation from  Sacca Saṁyutta (SN 56)
 
-2. [Compilation from  Khandha Saṁyutta (SN 22)](https://docs.google.com/document/d/1Ug89WXCTkP7p_afy0c-D6XIv_8Rg7mGGd9ti3ov7cG8/)
+- [part 1](https://docs.google.com/document/d/1QvmDByxRI4hMT3C8EqrafaGoXC5HA_8kRn730-VtKjY/)
 
-3. [Compilation from  Saḷāyatana Saṁyutta (SN 35)](https://docs.google.com/document/d/1uyOA--pUQlHTzs1GWFQHorXkeVkwBEmJdWmPMBWoBXc/)
+- [part 2](https://docs.google.com/document/d/1npr7IQbpQ3X3GPMEa6arv1qGEOJ1hQTdvxSV_zDj8Ro/)
 
-4. [Compilation from  Nidāna Saṁyutta (SN 12)](https://docs.google.com/document/d/1rSgxc6Hg8Pt63nU1fdG8j7QpobBRYbeDEE9KoZ9c6UQ/)
+2. Compilation from  Khandha Saṁyutta (SN 22)
 
-5. [Compilation from  Satipaṭṭhāna Saṁyutta (SN 47)](https://docs.google.com/document/d/1h-Xhkskz1-gchNBDG08QQJ-AqUs-sIimSBnDizvMibQ/)
+- [part 1](https://docs.google.com/document/d/1Ug89WXCTkP7p_afy0c-D6XIv_8Rg7mGGd9ti3ov7cG8/)
 
-6. [Compilation from  Asaṅkhata Saṁyutta (SN 43)](https://docs.google.com/document/d/1yDVS30Mha1T5cQ0-AkDW0_LJ2QhDU-3tdrBq7byKJ5w/)
+- [part 2](https://docs.google.com/document/d/1O-oQeRvJt0xhauPKk1GAwn6nNbYHPeXOyY41fvPvnoo/)
+
+- [part 3](https://docs.google.com/document/d/1kt-OP0fUHEjR4pmc72ZljK8XD9oirssI1fMvfTvOhKw/)
+
+3. Compilation from  Saḷāyatana Saṁyutta (SN 35)
+- [part 1](https://docs.google.com/document/d/1uyOA--pUQlHTzs1GWFQHorXkeVkwBEmJdWmPMBWoBXc/)
+
+- [part 2](https://docs.google.com/document/d/1OAlO5q91aYzVf8UrbmvOvHOni3SAKrAvEoCKrfzVZ0Q/)
+
+- [part 3](https://docs.google.com/document/d/1K6UwT_WEbC0SNXVVfl9aUzd3nPBtKN3k1fRpH2STd2s/)
+
+4. Compilation from  Nidāna Saṁyutta (SN 12)
+
+- [part 1](https://docs.google.com/document/d/1rSgxc6Hg8Pt63nU1fdG8j7QpobBRYbeDEE9KoZ9c6UQ/)
+
+- [part 2](https://docs.google.com/document/d/1mxa0g9gczp2HxXIU8UJSflBnoH9Zr9yFjLs9CgALtJo/)
+
+<!-- - [part 3]() -->
+
+5. Compilation from  Satipaṭṭhāna Saṁyutta (SN 47)
+
+- [part 1](https://docs.google.com/document/d/1h-Xhkskz1-gchNBDG08QQJ-AqUs-sIimSBnDizvMibQ/)
+
+<!-- - [part 2]() -->
+
+<!-- - [part 3]() -->
+
+6. Compilation from  Asaṅkhata Saṁyutta (SN 43)
+
+- [part 1](https://docs.google.com/document/d/1yDVS30Mha1T5cQ0-AkDW0_LJ2QhDU-3tdrBq7byKJ5w/)
+
+<!-- - [part 2]() -->
+
+<!-- - [part 3]() -->
 
 -------
 
