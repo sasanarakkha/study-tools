@@ -54,6 +54,7 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 - [part 3](https://docs.google.com/document/d/1kt-OP0fUHEjR4pmc72ZljK8XD9oirssI1fMvfTvOhKw/)
 
 3. Compilation from  Saḷāyatana Saṁyutta (SN 35)
+
 - [part 1](https://docs.google.com/document/d/1uyOA--pUQlHTzs1GWFQHorXkeVkwBEmJdWmPMBWoBXc/)
 
 - [part 2](https://docs.google.com/document/d/1OAlO5q91aYzVf8UrbmvOvHOni3SAKrAvEoCKrfzVZ0Q/)
