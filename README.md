@@ -70,7 +70,7 @@ If you have any questions or comments related to these study tools, please [emai
 
 -----------
 
-Also, explore [AI that is only limited by Early Buddhist texts](https://norbu-ai.org/ebt/), Dhamma, and Vinaya.
+Also, explore [chat with AI](https://norbu-ai.org/ebt/) that is limited by Early Buddhist texts, Dhamma, and Vinaya.
 
 ---
 
