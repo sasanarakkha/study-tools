@@ -1,7 +1,5 @@
 ## Removing outdated words
 
-Please see small video how to do it.
-
 This work relies on the evolving [DPD](https://digitalpalidictionary.github.io/) dictionary, updated regularly. Occasionally, selected words might undergo changes—for instance, 'pada' could become 'pada 1', with additional meanings like 'pada 2', 'pada 3', and so forth. Consequently, duplicates (like the original 'pada' duplicated as 'pada 1') must be removed using the "Test" field.
 
 ### How to do it
