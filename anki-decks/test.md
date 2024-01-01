@@ -16,6 +16,7 @@ As it depends on the name of the deck you are updating and the {day} of update.
 
 Where {day} is the date of the update. You can look it on the [page of latest release](https://github.com/sasanarakkha/study-tools/releases/latest/). For example if date 01.01.2024 you need to use number 01.
 
+![2024-01-01_15-10](https://github.com/sasanarakkha/study-tools/assets/39419221/7c8aaca3-5db9-48d6-90dc-2ab5e89d47bb)
 
 Using this search in the Anki Brows you will see all cards which do not have a {day} in field "Test". And you can easily delate all of this old words, by selecting all (**Ctrl + A**) and deleting (**Ctrl + Del**).
 
