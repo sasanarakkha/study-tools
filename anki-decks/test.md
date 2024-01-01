@@ -1,11 +1,24 @@
-<h1>Removing duplicated words</h1>
-<p>Please see small <a href="https://user-images.githubusercontent.com/39419221/187020101-701ee57e-b708-4be1-91d7-0c9b411a11cd.mp4">video</a> how to do it.</p>
-<p>This work is based on the <a href="https://digitalpalidictionary.github.io/">DPD</a> dictionary which is a work in progress and being updated regularly. Because of this, from time to time may an updated may be done of selected words (this will show itself like this; for example: the word 'pada' will become 'pada 1', and variations of meanings of 'pada' will be added as 'pada 2', 'pada 3' etc.). </p>
-<p>From this follows that from time to time duplicated words (the original 'pada' is now duplicated as 'pada 1', need to be removed. For this, the field called <strong>"Test"</strong> is used.</p>
-<p>After you updated the downloaded Anki Deck (same way, just by double-clicking on the latest downloaded file). Choose your Deck and in the <strong>Browse</strong> add:</p>
-<p><code>-test:</code>{date}</p>
-<p>Where {date} is the date of the update. You can look it u on the <a href="https://github.com/sasanarakkha/study-tools/releases/latest/">page of latest release.</a> For example if date 12.07.2023 you need to use number <strong>12</strong>.</p>
+## Removing outdated words
 
-<p>It will show all cards which do not have a number in field "Test". And you can easily delate all of this old words, by selecting all (<strong>Ctrl + A</strong>) and deleting (<strong>Ctrl + Delete</strong>). </p>
-<p>Now you are up-to-date.</p>
-<p>With every update, this number will be depended on the date of release.</p>
+Please see small video how to do it.
+
+This work relies on the evolving [DPD](https://digitalpalidictionary.github.io/) dictionary, updated regularly. Occasionally, selected words might undergo changes—for instance, 'pada' could become 'pada 1', with additional meanings like 'pada 2', 'pada 3', and so forth. Consequently, duplicates (like the original 'pada' duplicated as 'pada 1') must be removed using the "Test" field.
+
+After you updated the downloaded Anki Deck (same way, just by double-clicking on the latest downloaded file). Choose your Deck and in the Browse add:
+
+`-test:{day}`
+
+It will be something like this:
+
+`deck:Vocab Pali Class -test:01`
+
+As it depends on the name of the deck you are updating and the {day} of update.
+
+Where {day} is the date of the update. You can look it on the [page of latest release](https://github.com/sasanarakkha/study-tools/releases/latest/). For example if date 01.01.2024 you need to use number 01.
+
+
+Using this search in the Anki Brows you will see all cards which do not have a {day} in field "Test". And you can easily delate all of this old words, by selecting all (**Ctrl + A**) and deleting (**Ctrl + Del**).
+
+Now you are up-to-date.
+
+This number will depend on the date of release with every update.
