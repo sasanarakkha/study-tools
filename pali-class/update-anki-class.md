@@ -8,7 +8,7 @@ It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/
 
 Usually it is enough just to double-click on the downloaded apkg file, and it will update in your Anki. 
 
-Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
+Only you need to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 # Another method of updating
 
@@ -69,7 +69,7 @@ Check that each of them matches current card settings.
 
 - now you are up-to-date.
 
-- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
+- also make sure to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 
 

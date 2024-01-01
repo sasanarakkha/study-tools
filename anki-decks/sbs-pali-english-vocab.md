@@ -59,7 +59,7 @@ Please see a small [video](https://user-images.githubusercontent.com/39419221/18
 
 Or just follow the description:
 
-Usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
+Usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 # Another method of updating
 
@@ -99,5 +99,5 @@ Check that each of them matches current card settings.
 
 - now you are up-to-date.
 
-- also make sure to [remove duplicated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
+- also make sure to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 

@@ -48,9 +48,7 @@ It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/
 
 [How to update Anki Deck Vocab Pāli Class](https://sasanarakkha.github.io/study-tools/pali-class/update-anki-class.html)
 
-<!-- see small video [how-to-update-anki-deck](https://drive.google.com/file/d/1fRYTWmrWl2InCXlJEJnJOiYlBAmeeRDB/view?usp=sharing) -->
-
-see [here](https://sasanarakkha.github.io/study-tools/anki-decks/test.html) how and why we need to remove duplicates
+[How to removing outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 - Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class.apkg)
 
@@ -69,8 +67,6 @@ see [here](https://sasanarakkha.github.io/study-tools/anki-decks/test.html) how 
 - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/vocab) with vocab csv files related to each class
 
 - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pics-wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class
-
-<!-- - [Folder](https://drive.google.com/drive/folders/1PrnduqNyqjDV9s4zcS2T3B6gNCtDI2i1?usp=sharing) with video of each class. -->
 
 ----
 
