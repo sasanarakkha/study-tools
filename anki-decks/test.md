@@ -4,7 +4,7 @@ This work relies on the evolving [DPD](https://digitalpalidictionary.github.io/)
 
 ### How to do it
 
-After you updated the downloaded Anki Deck (same way, just by double-clicking on the latest downloaded file). Choose your Deck and in the Browse add:
+After you updated the downloaded Anki Deck (by double-clicking on the latest downloaded file, or using CSV). Choose your Deck and in the Browse and add:
 
 `-test:{day}`
 
@@ -18,7 +18,7 @@ Where {day} is the date of the update. You can look it on the [page of latest re
 
 ![2024-01-01_15-10](https://github.com/sasanarakkha/study-tools/assets/39419221/7c8aaca3-5db9-48d6-90dc-2ab5e89d47bb)
 
-Using this search in the Anki Brows you will see all cards which do not have a {day} in field "Test". And you can easily delate all of this old words, by selecting all (**Ctrl + A**) and deleting (**Ctrl + Del**).
+Using this search in the Anki Brows you will see all cards which do not have a {day} in field "Test". And you can easily delate all of this old words, by selecting all (**Ctrl + A**) and deleting (**Ctrl + Del**); or right-click on the selected cards, **Notes > Delete**
 
 Now you are up-to-date.
 
