@@ -1,15 +1,12 @@
-# **Advanced Pāli Course at SBS**
 
 **UNDER DEVELOPMENT**
 
-How to proceed with individual Pāli study once you're finished with the  and .
-
+Please note that the data provided here is constantly being updated, so please make sure to use the most recent information. Please feel free to use the [feedback form](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/) to report any errors or make suggestions.
 
 # Vocabulary for each class separately:
 
 ## [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html)
 
-- [vocab-class1](./vocab-class1.html)
 - [vocab-class2](./vocab-class2.html)
 - [vocab-class4](./vocab-class4.html)
 - [vocab-class5](./vocab-class5.html)
