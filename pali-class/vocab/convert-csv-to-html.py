@@ -14,6 +14,9 @@ for csv_file in csv_files:
     # Load the CSV file
     df = pd.read_csv(csv_path)
 
+    # Replace NaN values with an empty string
+    df = df.fillna("")
+
     # Sort by 'sbs_class'
     df = df.sort_values(by='sbs_class')
 
