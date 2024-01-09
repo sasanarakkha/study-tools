@@ -64,7 +64,7 @@ It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/
 
 - [List of friquent words and roots](https://docs.google.com/spreadsheets/d/1XwwVMnoYwNqJxj-pbYnQJfqZOD44sdr7EXRco2Ate_g/) in Vinaya + Sutta piṭaka.
 
-- [vocabulary related to each class](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pali-class/vocab/index-vocab.html) 
+- [vocabulary related to each class](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) 
 
 - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pics-wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class
 

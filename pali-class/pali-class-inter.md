@@ -58,7 +58,7 @@ It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/
 
 - Anki Deck [Phonetic Changes](https://github.com/sasanarakkha/study-tools/releases/latest/download/phonetic-pali-class.apkg).
 
-- [vocabulary related to each class](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/pali-class/vocab/index-vocab.html) 
+- [vocabulary related to each class](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) 
 
 
 ----
