@@ -20,12 +20,15 @@ for csv_file in csv_files:
     # Convert DataFrame to HTML table
     html_table = df.to_html(index=False, classes='sortable')
 
+    # Extract class number from filename
+    class_number = os.path.splitext(csv_file)[0].split('-')[-1]
+
     # HTML template for the table
     html_template = Template('''
         <!DOCTYPE html>
         <html>
         <head>
-        <title>Vocabulary List</title>
+        <title>Vocabulary List for $class_number</title>
         <style>
         table {
             width: 100%;
@@ -44,14 +47,17 @@ for csv_file in csv_files:
         </script>
         </head>
         <body>
-        <h1>Vocabulary List</h1>
+        <h1>Vocabulary List for $class_number</h1>
+        <a href="https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html">go to index of vocabulary related to each class</a>
+        <br>
+        <br>
         $table
         </body>
         </html>
     ''')
 
-    # Substitute the table placeholder with the html_table string
-    html_content = html_template.safe_substitute(table=html_table)
+    # Substitute the class number placeholder with the actual class number
+    html_content = html_template.safe_substitute(table=html_table, class_number=class_number)
 
     # Generate output HTML file name
     html_output_file = os.path.splitext(csv_file)[0] + '.html'
