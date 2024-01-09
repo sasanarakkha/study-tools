@@ -40,5 +40,5 @@ Please note that the data provided here is constantly being updated, so please m
 
 Also can be found in the class folder on the server:
 
-`\\FILESRV1\share1\Sharing between users\13 For Pāli class\vocab\`
+`\\FILESRV1\share1\Sharing between users\13 For Pāli class\vocab-for-classes.xlsx`
 
