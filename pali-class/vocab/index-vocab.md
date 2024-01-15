@@ -8,6 +8,7 @@ Please note that the data provided here is constantly being updated, so please m
 ## [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html)
 
 - [vocab-class2](./vocab-class2.html)
+- [vocab-class3](./vocab-class3.html)
 - [vocab-class4](./vocab-class4.html)
 - [vocab-class5](./vocab-class5.html)
 - [vocab-class6](./vocab-class6.html)
@@ -18,11 +19,11 @@ Please note that the data provided here is constantly being updated, so please m
 - [vocab-class11](./vocab-class11.html)
 - [vocab-class12](./vocab-class12.html)
 - [vocab-class13](./vocab-class13.html)
+- [vocab-class14](./vocab-class14.html)
+- [vocab-class15](./vocab-class15.html)
 
 ## [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html)
 
-- [vocab-class14](./vocab-class14.html)
-- [vocab-class15](./vocab-class15.html)
 - [vocab-class16](./vocab-class16.html)
 - [vocab-class17](./vocab-class17.html)
 - [vocab-class18](./vocab-class18.html)

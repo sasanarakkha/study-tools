@@ -2,6 +2,7 @@ id
 pali_1
 sbs_class_anki
 sbs_category
+sbs_class
 grammar
 neg
 verb

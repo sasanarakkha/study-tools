@@ -67,8 +67,6 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 - [part 2](https://docs.google.com/document/d/1mxa0g9gczp2HxXIU8UJSflBnoH9Zr9yFjLs9CgALtJo/)
 
-<!-- - [part 3]() -->
-
 5. Compilation from  Satipaṭṭhāna Saṁyutta (SN 47)
 
 - [part 1](https://docs.google.com/document/d/1h-Xhkskz1-gchNBDG08QQJ-AqUs-sIimSBnDizvMibQ/)

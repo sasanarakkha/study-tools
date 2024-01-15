@@ -1,16 +1,15 @@
 pali_1,pos,meaning_1,root,pattern,sbs_class
 attha 1.1,masc,meaning; sense; significance,√ar,a masc,2
 attha 2.1,masc,need (for); want (for),√atth,a masc,2
-anālaya 1,masc,non-clinging; non-attachment; non-reliance; unstuck,√lī 1,a masc,2
 anusaya,masc,underlying tendency (to); inherent inclination (to); dormant disposition (towards); propensity (to),√sī,a masc,2
 anussarati 1.1,pr,remembers; recollects; bears in mind,√sar 2,ati pr,3
-abyāpāda,masc,goodwill; kindness; friendliness; benevolence,√pad,a masc,2
 abhivaḍḍhati,pr,increases more and more; surpasses; outgrows,√vaḍḍh,ati pr,3
 ākāsa 2,masc,sky; air,√kās 1,a masc,2
 ācariya 1,masc,teacher; religious leader,√car 2,a masc,2
 ājānāti 1,pr,knows; understands,√ñā,āti pr,3
 ānanda 2,masc,"name of an arahant monk; attendant of the Buddha; great disciple of the Buddha; foremost disciple in great learning, remembrance, conduct, resoluteness and service",√nand,a masc,2
 ābādha 1,masc,disease; sickness; illness; affliction,√bādh,a masc,2
+āmantayati 1,pr,tells; informs; advises,√mant,ati pr,3
 āsava 1.2,masc,discharge; suppuration; outflow; effluent,√su 2,a masc,2
 āvāsa 1,masc,home (of); dwelling place (of); residence (of),√vas 1,a masc,2
 uddisati 1,pr,recites; chants,√dis 2,ati pr,3
@@ -20,8 +19,9 @@ upasama 1,masc,calmness (of); tranquillisation (of); stillness (of); peace (of),
 upāyāsa,masc,affliction; difficulty; trouble; despair,√yas,a masc,2
 upāsaka,masc,lay disciple; lay devotee,√ās,a masc,2
 uposatha 1,masc,full moon or new moon observance day,√vas 1,a masc,2
+uppajjati 1,pr,appears; arises; takes place,√pad,ati pr,3
 uppāda 1.1,masc,arising (of); appearance (of); coming into being (of),√pad,a masc,2
-ehi,imp,come!,√i 1,eti pr 2,3
+karoti 1,pr,does; acts; performs,√kar,karoti pr,3
 kalyāṇamitta 2,masc,excellent friend; good spiritual companion,,a masc,2
 kassapa 1,masc,name of the 1st previous Buddha,,a masc,2
 kāma 3,masc,sense desire (of); sensual pleasure (of),√kam 2,a masc,2
@@ -40,8 +40,10 @@ cāga 1,masc,giving up; relinquishing; abandoning,√caj,a masc,2
 cāga 2,masc,generosity; sharing; liberality,√caj,a masc,2
 ceteti 2,pr,intends; wills (to),√cit 1,eti pr,3
 chanda 1,masc,interest (in); desire (for); wish (for); intention (to); impulse (for),√chand,a masc,2
+jināti 2,pr,surpasses; beats; wins (over),√ji 2,āti pr,3
 ñāya,masc,way; means; method; system,√i 1,a masc,2
 tathāgata,masc,Such Become; Realised; being in such a state; arrived at the truth; epithet of the Buddha,,a masc,2
+tasati 1.1,pr,is afraid (of); fears,√tas 1,ati pr,3
 tiṭṭhati 3,pr,remains; persists; lasts,√ṭhā,ati pr,3
 thullaccaya,nt,(vinaya) heavy offence; grave transgression; class of serious offences,,a nt,2
 thera 1.2,masc,(vinaya) elder; senior monk; monk with ten or more years as a monk,√ṭhā,a masc,2
@@ -54,14 +56,15 @@ dhamma 1.03,masc,teaching; discourse; doctrine,√dhar 1,a masc,2
 dhamma 1.05,masc,mental states,√dhar 1,a masc,2
 dhamma 1.09,masc,law; case; rule; legal process,√dhar 1,a masc,2
 dhāreti 3,pr,bears in mind; keeps in mind; remembers,√dhar 2,eti pr,3
+nakha 1,masc,fingernail; toenail,,a masc,2
 nara,masc,man; person,,a masc,2
-niraya,masc,hell; hell realm,√i 1,a masc,2
 nirodha,masc,ending (of); cessation (of); termination (of); finishing (of),√rudh 1,a masc,2
 nissaya 1,masc,dependency; physical support; reliance; something one depends on,√si 1,a masc,2
 nīvaraṇa 1,masc,obstacle; obstruction; barrier; hindrance,√var 1,a masc,2
 pakkamati 1,pr,goes (from); goes away (from); leaves (from),√kam 1,ati pr,3
 pajahati,pr,gives up; abandons; lets go (of),√hā 1,ati pr,3
 paṭiggaṇhāti 1,pr,takes; accepts; receives,√gah,āti pr,3
+paṭiggaheti,pr,takes; accepts; receives,√gah,eti pr,3
 paṭinissagga,masc,giving up (of); relinquishing (of); dropping (of); abandoning (of),√sajj 1,a masc,2
 paṭibhāti,pr,comes to mind; occurs (to),√bhā,āti pr,3
 paṭilabhati 1,pr,obtains; gets; receives; personally experiences,√labh,ati pr,3
@@ -73,9 +76,8 @@ papañca,masc,various opinions; proliferation; endless conceptualization,√pañ
 parikkhāra 1,masc,requisite; requirement; necessity; accessory; everyday item,√kar,a masc,2
 parideva,masc,lamentation; wailing; crying,√dev,a masc,2
 pariyāya 4,masc,way; nature; habit; property; quality,√i 1,a masc,2
-passa 2.1,imp,see!; look (at)!,√dis 1,ati pr,3
 passati 1,pr,sees,√dis 1,ati pr,3
-pātimokkha 2,masc,(vinaya) precepts for Buddhist monastics,√mokkh,a masc,3
+pātimokkha 2,masc,(vinaya) precepts for Buddhist monastics,√mokkh,a masc,2
 pāda 1,masc,foot,√pad,a masc,2
 pāpuṇāti 1,pr,reaches; arrives (at); comes (to),√ap,āti pr,3
 puggala,masc,person; individual,,a masc,2
@@ -85,12 +87,12 @@ puthujjana,masc,common man; ordinary man; normal person; man in the street,,a ma
 punabbhava,masc,appearing again; renewed existence; rebirth; future life,,a masc,3
 phassa 1,masc,contact; sense impingement; raw experience; touch,√phus 1,a masc,2
 bāla 2,masc,fool; idiot; immature person,,a masc east,2
-buddha 1,masc,Buddha; Awakened One,√budh,a masc,2
 bojjhaṅga 1,masc,element of awakening; factor of enlightenment,,a masc,2
 brāhmaṇa 1,masc,Brahman; priest; man of the Brahman caste,√brah,a masc,2
 brāhmaṇa 2,masc,arahant; awakened being; saint; paragon,√brah,a masc,2
 bhava 2,masc,being; becoming; existence,√bhū,a masc,2
 bhāsati 1.1,pr,speaks (about); talks (about),√bhās 1,ati pr,3
+bhuñjati 1,pr,eats; consumes,√bhuj 1,ati pr,3
 bheda 1,masc,death,√bhid,a masc,2
 manasikāra,masc,attention; bringing-to-mind; observation; noticing; focussing,,a masc,2
 manussa,masc,human being; man; person,,a masc,2
@@ -119,8 +121,8 @@ saṃvara 1,masc,control (according to); restraint (according to); holding back 
 sāriputta,masc,name of an arahant monk; chief disciple; great disciple of the Buddha; foremost disciple in great wisdom,,a masc,2
 sāvaka,masc,disciple; pupil; follower,√su 1,a masc,2
 sīha 1,masc,lion,,a masc,2
+sugata 2,masc,Accomplished One; Fortunate One; epithet of the Buddha,√gam,a masc,2
 suṇāti 1,pr,hears,√su 1,āti pr,3
-suṇātu,imp,one must listen!; it must hear!,√su 1,āti pr,3
 sekha,masc,trainee; apprentice; learner; initiate; (comm) seven stages of a noble person before arahantship,√sikkh,a masc,2
 soka,masc,grief; sorrow; sadness,√suc 1,a masc,2
 vadati 1,pr,says (to); speaks (to); tells (to),√vad 1,ati pr,3
@@ -129,11 +131,11 @@ vitakka 1,masc,thought; reflection; pondering,√takk,a masc,2
 vinaya 1,masc,discipline; training,√nī,a masc,2
 vinipāta,masc,state of suffering; purgatory; underworld,√pat 1,a masc,2
 vipāka 1,masc,(of an action) result; outcome; consequence; fruit,√pac,a masc,2
-vibhaṅga 1,masc,analysis; classification; breakdown,√bhañj,a masc,3
-virāga 1.1,masc,fading of desire (for); dispassion (towards); detachment (from); indifference (to),√raj 1,a masc,2
+vibhaṅga 1,masc,analysis; classification; breakdown,√bhañj,a masc,2
 virāga 2.1,masc,fading (of); disappearance (of); cessation (of); destruction (of),√raj 2,a masc,2
 visesa 1,masc,distinction; attainment; superior state; eminence,√sis,a masc,2
 viveka 1,masc,seclusion; solitude; detachment; disengagement; independence,√vic,a masc,2
 viharati 1,pr,lives (in); dwells (in); stays (in),√har 3,ati pr,3
 vūpasama 1,masc,peace (of); calming (of); subsiding (of); settling (of),√sam 1,a masc,2
 hattha 1,masc,hand,,a masc,2
+adhigama 2,masc,attainment (of); achievement (of),√gam,a masc,2
