@@ -11,18 +11,15 @@ attha 1.1,masc,meaning; sense; significance,√ar,a masc,2
 attha 2.1,masc,need (for); want (for),√atth,a masc,2
 attha 4.2,imp,you (all) must be; may you (all) be,√as 1,atthi pr,4
 atthi 1.1,pr,there is; there exists,√as 1,atthi pr,4
-atthi 1.2,pr,there are; they are,√as 1,atthi pr,4
 adhamma 2,masc,false teaching; something opposed to the teaching,√dhar 1,a masc,5
 adhigacchati,pr,gets to; attains; finds; acquires; obtains,√gam,ati pr,3
 anāgāmī,adj,who does not return; non-returning,√gam,ī adj,5
 anālaya 1,masc,non-clinging; non-attachment; non-reliance; unstuck,√lī 1,a masc,5
-aniccānupassī,adj,observing impermanence (of); watching instability (of),,ī adj,5
 anupassī 1,adj,looking (at); observing; following; noticing; witnessing; watching,√dis 1,ī adj,5
 anuyuñjati 2,pr,indulges (in); is addicted (to),√yuj,ati pr,3
 anusaya,masc,underlying tendency (to); inherent inclination (to); dormant disposition (towards); propensity (to),√sī,a masc,2
 anussarati 1.1,pr,remembers; recollects; bears in mind,√sar 2,ati pr,3
 anuviloketi,pr,looks around; surveys,√lok,eti pr,3
-antarāya,masc,obstacle (for); danger (for),,a masc,2
 apucchi,aor,asked; enquired,√pucch,i aor isuṃ,4
 abyāpāda,masc,goodwill; kindness; friendliness; benevolence,√pad,a masc,5
 abhāsi 1,aor,spoke; said,√bhā,i aor isuṃ,4
@@ -34,10 +31,6 @@ abhiramati,pr,enjoys; delights (in); takes pleasure (in),√ram 1,ati pr,3
 abhisaṅkharoti 2,pr,does; performs,√kar,oti pr,3
 abhisamaya,masc,complete comprehension (of); total understanding (of); completely getting (of); breakthrough (to),√i 1,a masc,2
 abhivaḍḍhati,pr,increases more and more; surpasses; outgrows,√vaḍḍh,ati pr,3
-amha 1.1,pr,we are,√as 1,atthi pr,4
-amhākaṃ 3,pron,our; of us,,ahaṃ pron,5
-amhi,pr,I am,√as 1,atthi pr,4
-asi 2.1,pr,you are,√as 1,atthi pr,4
 asura,masc,titan; anti-god; enemy of the devas,√sur,a masc,5
 assa 3.1,opt,may be; could be; should be; would be,√as 1,ssa opt,7
 assatha,opt,you all could be; you might be,√as 1,ssa opt,7
@@ -68,11 +61,9 @@ ahosi,aor,was; existed; became,√hū,hosi aor,4
 āsaya 2,masc,home (of); dwelling (of); abode (of),√sī,a masc,2
 āsava 1.2,masc,discharge; suppuration; outflow; effluent,√su 2,a masc,2
 āsi 1.1,aor,was,√as 1,āsi aor irreg,4
-āsiṃ,aor,I was,√as 1,āsi aor irreg,4
 āvāsa 1,masc,home (of); dwelling place (of); residence (of),√vas 1,a masc,2
 isi,masc,seer; sage,,i masc,4
 udapādi 1,aor,arose (for); sprung up (for),√pad,i aor,4
-udapāna,masc,well; (comm) pond; pool,,a masc,2
 uddisati 1,pr,recites; chants,√dis 2,ati pr,3
 uddesa 1,masc,proposition; synopsis; statement in brief; summary; introduction,√dis 2,a masc,2
 upajjhāya,masc,preceptor; teacher; mentor,√i 2,a masc,2
@@ -102,7 +93,6 @@ karuṇā,fem,compassion; sympathy; kindness (towards unfortunate beings),,ā fe
 kareyya 1,opt,could do; would do; could make,√kar,karoti pr,7
 karoti 1,pr,does; acts; performs,√kar,karoti pr,3
 karohi,imp,do!; make!,√kar,karoti pr,4
-kalyāṇamitta 2,masc,excellent friend; good spiritual companion,,a masc,2
 kassaka,masc,farmer; ploughman,√kass,a masc,2
 kassapa 1,masc,name of the 1st previous Buddha,,a masc,2
 kāma 3,masc,sense desire (of); sensual pleasure (of),√kam 2,a masc,2
@@ -112,7 +102,6 @@ kāra 1,masc,deed; action; service,√kar,a masc,2
 kāraka 2,masc,builder,√kar,a masc,2
 kālena,ind,timely; at the right time; at an appropriate moment,√kal 1,,6
 kesa,masc,(head) hair,,a masc,2
-kosalā,masc,name of the people of Kosala; Kosalans,,a masc pl,2
 khaṇati,pr,digs; digs up; uproots,√khaṇ,ati pr,3
 khattiya 2,masc,man of the ruling caste; high caste man; nobleman,,a masc,2
 khandha 1,masc,mass; heap; pile; volume; aggregation,√khand,a masc,2
@@ -127,7 +116,6 @@ gamissati,fut,will go,√gam,issati fut,5
 gayā 1,fem,name of a village,,ā fem,7
 garu 5,masc,respect; honour,√gar 1,u masc,6
 gavesī 1,adj,seeking; searching for; looking for,√gaves,ī adj,5
-gahapati,masc,householder; landowner,,i masc,4
 gāthā 1,fem,verse; poem; stanza,√gā,ā fem,7
 gāma 1,masc,village; hamlet,,a masc,2
 gāmaṇi,masc,chief; chieftain; headman; leader,,i masc,4
@@ -155,24 +143,13 @@ jhāyati 1.2,pr,meditates; contemplates,√jhā,ati pr,3
 taca 1,masc,(of a humna) skin,,a masc,2
 taṇḍula 1,masc,dehusked rice; (comm) grain from grass,,a masc,2
 taṇhā 1,fem,craving (for); wanting; desire (for),√tas 2,ā fem,7
-tathāgata,masc,Such Become; Realised; being in such a state; arrived at the truth; epithet of the Buddha,,a masc,2
-tayā 1,pron,by you; with you,,tvaṃ pron,5
 tasati 1.1,pr,is afraid (of); fears,√tas 1,ati pr,3
-taṃ 2.1,pron,you (object),,tvaṃ pron,5
 tiṭṭhati 3,pr,remains; persists; lasts,√ṭhā,ati pr,3
-tumhākaṃ 2,pron,for you all; to you all,,tvaṃ pron,5
-tumhākaṃ 3,pron,of you all; yours,,tvaṃ pron,5
-tumhe 1,pron,you all,,tvaṃ pron,5
-tumhe 2,pron,(object) you all,,tvaṃ pron,5
-tuvaṃ 1,pron,you,,tvaṃ pron,5
-te 2.4,pron,your; of you,,tvaṃ pron,5
 tvaṃ 1,pron,you (subject),,tvaṃ pron,5
-thullaccaya,nt,(vinaya) heavy offence; grave transgression; class of serious offences,,a nt,2
 thera 1.2,masc,(vinaya) elder; senior monk; monk with ten or more years as a monk,√ṭhā,a masc,2
 daṇḍa 1,masc,stick; truncheon; nightstick; club,,a masc,2
 dadāti,pr,gives (to); offers (to); donates (to),√dā 1,āti pr,3
 danta 1.1,masc,tooth,,a masc,2
-dassati 1.1,fut,will give (to),√dā 1,ssati fut,5
 dassī 2,adj,who sees; who knows; who perceives; who understands,√dis 1,ī adj,5
 dava 1.1,masc,fun; joke; play; sport; pleasure,√dū,a masc,2
 dātar 1,masc,giver; donor; bestower (of),√dā 1,ar masc,6
@@ -210,11 +187,8 @@ nisīdi,aor,sat (on); sat down (in),√sad,i aor isuṃ,4
 nissaya 1,masc,dependency; physical support; reliance; something one depends on,√si 1,a masc,2
 nīvaraṇa 1,masc,obstacle; obstruction; barrier; hindrance,√var 1,a masc,2
 neti 1.1,pr,leads; carries away; takes away,√nī,eti pr,3
+neva 1,sandhi,neither; not,,,5
 no 1.1,ind,no; not,,,5
-no 1.3,ind,then; now; indeed,,,5
-no 2.1,pron,us (object),,ahaṃ pron,5
-no 2.3,pron,for us; to us,,ahaṃ pron,5
-no 2.4,pron,our,,ahaṃ pron,5
 pakkamati 1,pr,goes (from); goes away (from); leaves (from),√kam 1,ati pr,3
 pakkhī,masc,bird,,ī masc,5
 paggaṇhāti 2,pr,holds up; raises up,√gah,āti pr,3
@@ -235,7 +209,6 @@ paṭilabhati 1,pr,obtains; gets; receives; personally experiences,√labh,ati p
 paṭisaṃvedī,adj,experiencing; feeling; sensitive to,√vid 1,ī adj,5
 paṭisaṃvedeti,pr,personally experiences; undergoes; feels,√vid 1,eti pr,3
 paṭisevati 2,pr,uses; makes use (of),√sev,ati pr,3
-paṇḍita 2,masc,sage; intelligent person; wise man; smart person,,a masc east,2
 patta 1.1,masc,bowl; alms bowl; begging bowl,√pā 1,a masc,2
 patha 2,masc,range; mode; way,√path 1,a masc,2
 panūdati,pr,dispels; drives out; rejects; pushes away,√nud,ati pr,3
@@ -258,7 +231,6 @@ pavaḍḍhati 1,pr,increases; develops; grows,√vaḍḍh,ati pr,3
 pavattar 1,masc,proclaimer (of); who tells about; who points out,√vac,ar masc,6
 pavāraṇā 2,fem,(vinaya) invitation ceremony at the end of the rains retreat,√var 2,ā fem,7
 pātimokkha 2,masc,(vinaya) precepts for Buddhist monastics,√mokkh,a masc,2
-pāturahosi,aor,appeared; manifested,,hosi aor,4
 pāda 1,masc,foot,√pad,a masc,2
 pāpuṇāti 1,pr,reaches; arrives (at); comes (to),√ap,āti pr,3
 pitar,masc,father,,ar2 masc,6
@@ -266,8 +238,6 @@ puggala,masc,person; individual,,a masc,2
 pucchati,pr,asks; enquires; questions,√pucch,ati pr,3
 pucchi,aor,asked; enquired; questioned,√pucch,i aor,4
 putta 1,masc,son; child,,a masc,2
-puthujjana,masc,common man; ordinary man; normal person; man in the street,,a masc,2
-punabbhava,masc,appearing again; renewed existence; rebirth; future life,,a masc,3
 pubbe 1,ind,before; previously; formerly; in the past,,,6
 purisa 1,masc,man; person,,a masc,2
 pure 2,ind,formerly; previously; in the past,,,6
@@ -278,14 +248,11 @@ phāsu 2,masc,ease (for); comfort (for),√phus 1,u masc,6
 bandhati 1,pr,binds; ties up; imprisons; confines,√bandh,ati pr,3
 balavant 1,adj,strong; powerful,√bal,ant adj,6
 balibadda,masc,ox; bull,,a masc,2
-bāla 2,masc,fool; idiot; immature person,,a masc east,2
 bāhā 1,fem,arm; forearm,√bah 2,ā fem,7
 bāhu,masc,arm; forearm,√bah 2,u masc,6
-bojjhaṅga 1,masc,element of awakening; factor of enlightenment,,a masc,2
 byākarissati,fut,will explain; will define; will describe,√kar,oti pr,5
 byākāsi 1,aor,answered; replied,√kar,āsi aor,4
 byādhi,masc,sickness; disease; illness,√dhā,i masc,4
-brahmacārī 2,masc,celibate man; who abstains from sexual intercourse,,ī masc,5
 brāhmaṇa 1,masc,Brahman; priest; man of the Brahman caste,√brah,a masc,2
 brāhmaṇa 2,masc,arahant; awakened being; saint; paragon,√brah,a masc,2
 bhagavant 1,masc,Sublime One; Blessed One; Fortunate One; Auspicious One; epithet of the Buddha,√bhaj 1,ant masc,6
@@ -306,24 +273,15 @@ maccu,masc,death; Death,√mar,u masc,6
 maññati 1,pr,thinks; imagines; conceives; presumes; supposes,√man,ati pr,3
 mattaññū,adj,knowing the correct measure (in); knowing the limit (in); moderate (in),,ū adj,6
 mada 1,masc,excess; pleasure; indulgence,√mad,a masc,2
-manasikāra,masc,attention; bringing-to-mind; observation; noticing; focussing,,a masc,2
 manussa,masc,human being; man; person,,a masc,2
-mama 2,pron,my; mine; of me,,ahaṃ pron,5
-mayaṃ 1,pron,we,,ahaṃ pron,5
-mayā 1,pron,by me; with me,,ahaṃ pron,5
-mallā,masc,name of the people of Malla; Mallans,,a masc pl,2
-maṃ 1,pron,me (object),,ahaṃ pron,5
 mā 1.1,ind,do not; may one not; don’t let,,,5
 māṇava 1,masc,young man; young gentleman; young Brahman,,a masc,2
-mātāpitar,masc,mother and father; parents,,ar2 masc,6
 māna 1.1,masc,pride; conceit; egotism; superiority; comparing oneself,√man,a masc,2
 māra,masc,death; Death; death personified,√mar,a masc,2
 māsa 2.1,masc,bean,,a masc,2
 mugga,masc,mung beans,√mud,a masc,2
 muditā,fem,happiness (for); appreciation; sympathetic joy,√mud,ā fem,7
 muni 1,masc,monk; sage; seer; hermit; silent sage,√mun,i masc,4
-me 3,pron,to me; for me,,ahaṃ pron,5
-me 5,pron,my; mine,,ahaṃ pron,5
 mettā,fem,goodwill (towards); friendliness (to); benevolence (for),√mitt,ā fem,7
 medhāvī,masc,intelligent man; wise man; who has good judgment,√medh 1,ī masc,5
 moggallāna 1,masc,name of a monk; chief disciple; great disciple of the Buddha; foremost disciple in psychic power,,a masc,2
@@ -341,18 +299,13 @@ labhati 1,pr,gets; receives; obtains,√labh,ati pr,3
 loka 1,masc,world; universe; cosmos,√lok,a masc,2
 lokavidū,masc,who understands the world; who knows the world; epithet of the Buddha,,ū masc,6
 loma 1,masc,body hair,,a masc,2
-sakadāgāmī,adj,once-returner; who has attained the second stage of the path,,ī adj,5
 sakuṇa,masc,bird,,a masc,2
-sakkaroti,pr,honours; esteems; respects,,oti pr,4
 saṅkhāra 1,masc,intention; volitional formation; choice; karmic activity,√kar,a masc,2
 saṅkhāra 3,masc,mental formation; mental activity; thought processes; fourth of the five aggregates,√kar,a masc,2
 saṅgara 1,masc,dealing; bargaining; negotiating; transacting,√gir 2,a masc,2
 saṅgaha 1,masc,support (of); maintenance (of); looking after,√gah,a masc,2
 saṅgha 1,masc,community; monastic order; assembly of monks,√ghaṭ 2,a masc,2
-saṅghādisesa 2,masc,offence requiring suspension,,a masc,2
-sacchikiriyā,fem,personal experience (of); intimate experience (of); personal realization (of),,ā fem,7
 saññā 1,fem,perception; conception; recognition; third of the five aggregates,√ñā,ā fem,7
-satipaṭṭhāna 1,masc,attending mindfully; being present with mindfulness,,a masc,2
 satimant 1,adj,mindful; fully present; attentive,√sar 2,ant adj,6
 satta 2.1,masc,being; living being; creature,√as 1,a masc,2
 satthar 1,masc,master; teacher,√sās,ar masc,6
@@ -361,7 +314,6 @@ saddhā 1,fem,faith (in); belief (in); trust (in),√dhā,ā fem,7
 saddhiṃ,ind,together (with); with,,,5
 sabbavidū 1,adj,all-knowing; omniscient,,ū adj,6
 sabbābhibhū,adj,all conquering; victorious over everything,,ū adj,6
-sabrahmacārī,masc,fellow monk; spiritual companion,,ī masc,5
 samaṇa 1,masc,ascetic; renunciant; holy man; monk; recluse,√sam 2,a masc,2
 samatikkama,masc,surpassing (of); overcoming (of); going beyond; transcendence,√kam 1,a masc,2
 samatha 1.1,masc,stilling (of); serenity (of); calming (of); settling (of); peace (of); (comm) mental unification,√sam 1,a masc,2
@@ -372,11 +324,9 @@ samudda,masc,sea; ocean,√ud,a masc,2
 sambodha,masc,full awakening; perfect understanding; enlightenment,√budh,a masc,2
 sammodi,aor,greeted; exchanged pleasantries; had a friendly conversation (with),√mud,i aor,4
 saha 1.2,ind,with; together (with); accompanied (by),,,5
-sahāya,masc,friend; companion; ally; fellow traveller,,a masc,2
 saṃvattati,pr,leads (to); results (in); causes,√vatt,ati pr,3
 saṃvara 1,masc,control (according to); restraint (according to); holding back (according to),√var 1,a masc,2
 saṃvara 2,masc,control (over); restraint (of); holding back (of),√var 1,a masc,2
-sāriputta,masc,name of an arahant monk; chief disciple; great disciple of the Buddha; foremost disciple in great wisdom,,a masc,2
 sāli,masc,fine rice,,i masc,4
 sāvaka,masc,disciple; pupil; follower,√su 1,a masc,2
 sikkhati 2,pr,trains (in); trains (for the purpose of); practices (for the sake of); practice (to),√sikkh,ati pr,3
@@ -427,11 +377,7 @@ vīhi,masc,rice paddy; Oryza sativa,,i masc,4
 vūpasama 1,masc,peace (of); calming (of); subsiding (of); settling (of),√sam 1,a masc,2
 vedanā 1,fem,"(pleasant, unpleasant or neutral) felt experience; feeling; sensation; second of the five aggregates",√vid 1,ā fem,7
 vedeti 1,pr,feels; experiences; senses,√vid 1,eti pr,3
-vo 1.2,pron,by you all; with you all,,tvaṃ pron,5
-vo 1.3,pron,to you all; for you all,,tvaṃ pron,5
-vo 1.4,pron,of you all; your,,tvaṃ pron,5
 hattha 1,masc,hand,,a masc,2
-hanati 2,pr,kills; executes,√han,hanati pr,7
 harati 2,pr,takes; steals; robs,√har 1,ati pr,3
 hirimant,adj,having a conscience; with scruples; with an internal sense of right and wrong,√hir,ant adj,6
 hoti 1,pr,is; becomes,√hū,hoti pr,4
@@ -440,3 +386,4 @@ hotha,imp,may you all be!; I pray you all may be!,√hū,hoti pr,4
 hontu,imp,may they be!; they must be!,√hū,hoti pr,4
 adhigama 2,masc,attainment (of); achievement (of),√gam,a masc,2
 pūjā 1,fem,veneration (of); homage (to); honour (for),√pūj,ā fem,7
+adhigaccheyya 2,opt,would experience; would feel,√gam,ati pr,7
