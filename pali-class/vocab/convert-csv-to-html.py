@@ -18,7 +18,7 @@ for csv_file in csv_files:
     df = df.fillna("")
 
     # Sort by 'sbs_class'
-    df = df.sort_values(by='sbs_class')
+    df = df.sort_values(by='cl.')
 
     # Convert DataFrame to HTML table
     html_table = df.to_html(index=False, classes='sortable')
