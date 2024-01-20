@@ -722,7 +722,8 @@ ettāva + tā",,13
 ettha 1,ind,here; in this place; in this case; in this regard,,ima + ttha,,8
 etha,imp,come you all!,"√i 1 a (come, go)",e + tha,eti pr 2,4
 esī,adj,who is seeking; looking for,"√es 1 a (seek, search)",√es + ī,ī adj,5
-eva 1,ind,only; just; merely; exclusively,,,,13
+eva 1,ind,only; just; merely; exclusively,,,,10
+eva 3,ind,even; too; as well,,,,10
 evaṃ 1,ind,thus; this; like this; similarly; in the same manner; just as; such,,eva + aṃ,,13
 evaṃ 2,ind,yes!; that is right!; correct!,,eva + aṃ,,13
 ehi,imp,come!,"√i 1 a (come, go)",e + hi,eti pr 2,4
@@ -1184,6 +1185,7 @@ duccarita 2,nt,misconduct; misbehaviour; bad behaviour,"√car 1 a (act, behave)
 duṭṭha 1,pp,wicked; evil; bad; corrupt,"√dus 3 ya (be angry, corrupt)",√dus + ta,a pp,11
 duṭṭhulla 2,adj,(of speech) rude; obscene; vulgar; coarse,"√thūl 8 *e (be fat, coarse)",dur + √thūl > thull + a,a adj,11
 dutiya 1,ordin,second (2nd),,dvi > du + tiya,a ordin,12
+dubbala 1,adj,frail; weak; feeble,"√bal 1 a (be strong, live)",dur + √bal + a,a adj,11
 dubbalatara,adj,weaker,"√bal 1 a (be strong, live)","dur + √bal + a + tara
 dubbala + tara",a adj,11
 dubbalī,adj,weak; feeble,"√bal 1 a (be strong, live)","dur + √bal + a
@@ -1944,6 +1946,7 @@ yakkhī,fem,female supernatural being; female spirit; daemoness,√yakkh 8 *e (w
 yakkha + ī",ī fem,8
 yato 2,ind,since; because; due to the fact that,,ya + to,,8
 yattha,ind,wherever; where; when; in which,,ya + ttha,,8
+yattha tattha,idiom,where … there,,,,9
 yathā 1,ind,like; as; as per; according to; how; in whatever way,,ya + thā,,13
 yadā,ind,when; whenever,,ya + dā,,6
 yadi 2,ind,whether ... or,,ya + di,,13
@@ -1966,6 +1969,7 @@ yāpanāya,nt,for sustenance (of); for preservation (of); for continuance,√yā
 yāpana + āya",a nt,9
 yāpetuṃ,inf,to sustain oneself (with); to support oneself (by); to keep oneself going,√yā 1 *āpe (go),yāpe + tuṃ,,14
 yāma 1,masc,watch (of the night); one eighth of the day; about three hours,"√yam 1 a (control, strive, end)",√yam > yām + *a,a masc,2
+yāva tāva,idiom,as long as … then,,,,9
 yāva 1,ind,as long as; as far as; so much so; up to; until; from … to,,,,13
 yāvataka,adj,as much as; as long as; as big as; as far as,,"yāva + tā + ka
 yāvatā + ka",a adj,11
@@ -1973,6 +1977,7 @@ yāvatā 1,ind,as long as; as far as; of all; to the extent that,,yāva + tā,,1
 yāvant,adj,as many as; however many,,yāva + vant,ant adj,6
 yiṭṭha 1,pp,given (as a gift); offered,"√yaj 1 a (honour, sacrifice)",√yaj > yij + ta,a pp,11
 yutta 3,pp,engaged (in); practising (to),"√yuj 2 ṃa (yoke, join)",√yuj + ta,a pp,11
+yena tena,idiom,where … there,,,,9
 yena 2,ind,because of; because of which,,ya + ena,,9
 yena 3,ind,where; wherever; in which direction; to; towards,,ya + ena,,9
 yogī,masc,meditator; practitioner,"√yuj 2 ṃa (yoke, join)",√yuj > yoj > yog + *ī,ī masc,5
@@ -2627,3 +2632,8 @@ pacchima 1,adj,,,pacchā + ima,a adj,11
 vaggati,pr,jumps; prances; springs; bounces; skips,"√vagg 1 a (dance, jump)",vagga + ti,ati pr,3
 kuṭika,adj,with a little hut; living in a small shack,"√kuṭ 1 a (be crooked, bent)","√kuṭ + i + ika
 kuṭi + ika",a adj,11
+yāni tāni,idiom,whoever … they; whichever ... those,,,,9
+yaṃ taṃ,idiom,whoever … him; whatever ... that,,,,9
+yasmā tasmā,idiom,because … therefore; since ... that is why,,,,9
+yasmiṃ tasmiṃ,idiom,in whichever … in that; at which ... at that,,,,9
+yesu tesu,idiom,among whom … among them; in which ... in those,,,,9
