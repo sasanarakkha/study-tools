@@ -12,7 +12,7 @@ attha 2.1,masc,need (for); want (for),√atth 8 *aya (wish for),√atth + a,a ma
 attha 4.2,imp,you (all) must be; may you (all) be,√as 1 a (be),√as + tha > attha,atthi pr,4
 atthi 1.1,pr,there is; there exists,√as 1 a (be),√as + ti > atthi,atthi pr,4
 adhamma 2,masc,false teaching; something opposed to the teaching,"√dhar 1 a (hold, carry, endure)",na > a + √dhar + ma,a masc,5
-adhigacchati,pr,gets to; attains; finds; acquires; obtains,√gam 1 a (go),adhi + gaccha + ti,ati pr,3
+adhigacchati 1,pr,gets to; attains; finds; acquires; obtains,√gam 1 a (go),adhi + gaccha + ti,ati pr,3
 anāgāmī,adj,who does not return; non-returning,√gam 1 a (go),na > an + ā + √gam > gām + *ī,ī adj,5
 anālaya 1,masc,non-clinging; non-attachment; non-reliance; unstuck,"√lī 3 ya (stick, hide)",na > an + ā + √lī > lay + *a,a masc,5
 anupassī 1,adj,looking (at); observing; following; noticing; witnessing; watching,√dis 1 a (see),anu + passa + ī,ī adj,5
@@ -55,7 +55,6 @@ ahosi,aor,was; existed; became,√hū 1 a (be),a + ho + si,hosi aor,4
 ānanda 2,masc,"name of an arahant monk; attendant of the Buddha; great disciple of the Buddha; foremost disciple in great learning, remembrance, conduct, resoluteness and service","√nand 1 a (delight, enjoy)",ā + √nand + a,a masc,2
 āpajjati 2,pr,arouses; exhibits; produces; brings into being,"√pad 3 ya (go, step)",ā + pajja + ti,ati pr,3
 āpajjati 5,pr,causes; effects,"√pad 3 ya (go, step)",ā + pajja + ti,ati pr,3
-ābādha 1,masc,disease; sickness; illness; affliction,"√bādh 1 a (press, oppress)",ā + √bādh + a,a masc,2
 āmantayati 1,pr,tells; informs; advises,"√mant 8 *aya (counsel, invite)",ā + mantaya + ti,ati pr,3
 āmantesi,aor,addressed; said (to); advised,"√mant 8 *e (counsel, invite)",ā + mante + si,esi aor,4
 āyasmant 1,masc,venerable; reverend,"√i 1 a (come, go)","ā + √i > ay + *as + mant
@@ -106,11 +105,11 @@ kāra 1,masc,deed; action; service,"√kar 7 o (do, make)",√kar > kār + *a,a 
 kāraka 2,masc,builder,"√kar 7 o (do, make)",√kar > kār + *aka,a masc,2
 kālena,ind,timely; at the right time; at an appropriate moment,√kal 8 *e (spend time),"√kal > kāl + *a + ena
 kāla + ena",,6
-kesa,masc,(head) hair,,,a masc,2
+kesa 1,masc,(head) hair,,,a masc,2
 khaṇati,pr,digs; digs up; uproots,√khaṇ 1 a (dig),khaṇa + ti,ati pr,3
 khattiya 2,masc,man of the ruling caste; high caste man; nobleman,,,a masc,2
-khandha 1,masc,mass; heap; pile; volume; aggregation,"√khand 1 a (jump up, pile up)",√khand + a,a masc,2
-khandha 3,masc,aggregate; combination; conglomeration,"√khand 1 a (jump up, pile up)",√khand + a,a masc,2
+khandha 1,masc,mass; heap; pile; volume; aggregation,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
+khandha 3,masc,aggregate; combination; conglomeration,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
 khaya,masc,wearing away (of); exhaustion (of); erosion (of); depletion (of); destruction (of),"√khī 1 a (exhaust, destroy)",√khī > khay + *a,a masc,2
 khādati,pr,chews; devours; eats,√khād 1 a (chew),khāda + ti,ati pr,3
 khemī,adj,at peace; safe; secure,"√khi 1 a (live, abide peacefully)","√khi > khe + *ma + ī
@@ -118,7 +117,7 @@ khema + ī",ī adj,5
 gaccha 1,imp,go!; begone!; away with you!,√gam 1 a (go),gaccha + a,ati pr,4
 gacchati 1,pr,goes; walks; moves; wanders around,√gam 1 a (go),gaccha + ti,ati pr,3
 gabbha 3,masc,room; inside room; inner chamber,,,a masc,2
-gamissati,fut,will go,√gam 1 a (go),√gam + issa + ti,issati fut,5
+gamissati 1,fut,will go,√gam 1 a (go),√gam + issa + ti,issati fut,5
 gayā 1,fem,name of a village,,,ā fem,7
 garu 5,masc,respect; honour,"√gar 1 a (esteem, be heavy)",√gar + u,u masc,6
 gavesī 1,adj,seeking; searching for; looking for,"√gaves 1 a (seek, search)",√gaves + ī,ī adj,5
@@ -153,7 +152,7 @@ taṇhā 1,fem,craving (for); wanting; desire (for),√tas 6 ṇhā (thirst),ta�
 tasati 1.1,pr,is afraid (of); fears,"√tas 1 a (tremble, fear)",tasa + ti,ati pr,3
 tiṭṭhati 3,pr,remains; persists; lasts,√ṭhā 1 a (stand),tiṭṭha + ti,ati pr,3
 tvaṃ 1,pron,you (subject),,tumha + aṃ > tuvaṃ > tvaṃ,tvaṃ pron,5
-thera 1.2,masc,(vinaya) elder; senior monk; monk with ten or more years as a monk,√ṭhā 1 a (stand),√ṭhā > thā + ira > thera,a masc,2
+thera 1.2,masc,(vinaya) elder; senior monk; monastic of ten or more years standing,√ṭhā 1 a (stand),√ṭhā > thā + ira > thera,a masc,2
 daṇḍa 1,masc,stick; truncheon; nightstick; club,,,a masc,2
 dadāti,pr,gives (to); offers (to); donates (to),√dā 1 a (give),dadā + ti,āti pr,3
 danta 1.1,masc,tooth,,,a masc,2
@@ -213,7 +212,7 @@ paññā + vant",ant adj,6
 pañha 2,masc,question; enquiry,"√pañh 1 a (ask, question)",√pañh + a,a masc,2
 paṭiggaṇhāti 1,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gaṇhā + ti,āti pr,3
 paṭiggaheti,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gahe + ti,eti pr,3
-paṭighāta 1,masc,warding off; repelling; driving off,"√ghaṭ 8 *e (strike, kill)","pati + √ghaṭ > ghāṭ + *a
+paṭighāta 1,masc,warding off; repelling; driving off; keeping at bay,"√ghaṭ 8 *e (strike, kill)","pati + √ghaṭ > ghāṭ + *a
 pati + ghāta",a masc,2
 paṭijānāti 3,pr,makes the claim (of); claims (to be),√ñā 5 nā (know),pati + jānā + ti,āti pr,3
 paṭinissagga,masc,giving up (of); relinquishing (of); dropping (of); abandoning (of),"√sajj 1 a (relinquish, let loose)",pati + nī + √sajj > sagg + a,a masc,2
@@ -283,7 +282,7 @@ bhava 2,masc,being; becoming; existence,"√bhū 1 a (be, become)",√bhū > bha
 bhavati 1,pr,is; is being; becomes,"√bhū 1 a (be, become)",bhava + ti,ati pr,3
 bhavissati 1,fut,could be; should be,"√bhū 1 a (be, become)",bhavissa + ti,issati fut,5
 bhātar,masc,brother,,,ar2 masc,6
-bhāsati 1.1,pr,speaks (about); talks (about),√bhās 1 a (speak),bhāsa + ti,ati pr,3
+bhāsati 1.1,pr,speaks (about); talks (about); says,√bhās 1 a (speak),bhāsa + ti,ati pr,3
 bhikkhu,masc,monk; monastic; mendicant; fully ordained monk,√bhikkh 1 a (beg),√bhikkh + u,u masc,6
 bhuñjati 1,pr,eats; consumes,"√bhuj 2 ṃa (use, eat, enjoy)",bhuñja + ti,ati pr,3
 bheda 1,masc,death,"√bhid 2 ṃa (break, split)",√bhid > bhed + *a,a masc,2
@@ -371,7 +370,7 @@ suṇātu,imp,one must listen!; it must hear!,√su 4 ṇā (hear),suṇā + tu,
 suve,ind,tomorrow,,,,6
 sekha,masc,trainee; apprentice; learner; initiate; (comm) seven stages of a noble person before arahantship,"√sikkh 1 a (learn, train)",√sikkh > sekh + *a,a masc,2
 senā,fem,army; military,,,ā fem,7
-soka,masc,grief; sorrow; sadness,√suc 1 *a (grieve),√suc > suk > sok + *a,a masc,2
+soka,masc,grief; sorrow; sadness (over),√suc 1 *a (grieve),√suc > suk > sok + *a,a masc,2
 soci,aor,grieved; was sad,√suc 1 *a (grieve),soca + i,i aor,4
 sota 1.1,masc,stream; river; current,√su 1 a (flow),√su > so + *ta,a masc,2
 sobhati 2,pr,looks beautiful (in),"√subh 1 *a (shine, adorn)",sobha + ti,ati pr,3
@@ -415,3 +414,4 @@ hontu,imp,may they be!; they must be!,√hū 1 a (be),ho + ntu,hoti pr,4
 adhigama 2,masc,attainment (of); achievement (of),√gam 1 a (go),adhi + √gam + a,a masc,2
 pūjā 1,fem,veneration (of); homage (to); honour (for),"√pūj 8 *e (honour, venerate)",√pūj + ā,ā fem,7
 adhigaccheyya 2,opt,would experience; would feel,√gam 1 a (go),adhi + gaccha + eyya,ati pr,7
+ābādha 2,masc,affliction; oppression; suffering,"√bādh 1 a (press, oppress)",ā + √bādh + a,a masc,2
