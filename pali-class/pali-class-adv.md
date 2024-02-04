@@ -67,17 +67,15 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 * [part 2](https://docs.google.com/document/d/1mxa0g9gczp2HxXIU8UJSflBnoH9Zr9yFjLs9CgALtJo/)
 
-5) Compilation from  Satipaṭṭhāna Saṁyutta (SN 47)
+5) Compilation from  
 
-* [part 1](https://docs.google.com/document/d/1h-Xhkskz1-gchNBDG08QQJ-AqUs-sIimSBnDizvMibQ/)
+* Satipaṭṭhāna Saṁyutta [(SN 47)](https://docs.google.com/document/d/1h-Xhkskz1-gchNBDG08QQJ-AqUs-sIimSBnDizvMibQ/)
 
-<!-- * [part 2]() -->
+* Bojjhaṅgasaṃyutta Saṃyutta [(SN 46)](https://docs.google.com/document/d/11674RA0aMFbJuzdJ8LpVQIb3FRXRuoVRuWZ7IPA70Xc/)
 
-6) Compilation from  Asaṅkhata Saṁyutta (SN 43)
+* Maggasaṃyutta Saṃyutta [(SN 45)](https://docs.google.com/document/d/1Efn0qcwgBoVdtx9GfU9Ia9lQYwMgYAjNvDyUVH9RlnM/)
 
-* [part 1](https://docs.google.com/document/d/1yDVS30Mha1T5cQ0-AkDW0_LJ2QhDU-3tdrBq7byKJ5w/)
-
-<!-- * [part 2]() -->
+6) Compilation from  Asaṅkhata Saṁyutta [(SN 43)](https://docs.google.com/document/d/1yDVS30Mha1T5cQ0-AkDW0_LJ2QhDU-3tdrBq7byKJ5w/)
 
 ---
 
