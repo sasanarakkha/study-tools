@@ -61,13 +61,9 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 * [part 3](https://docs.google.com/document/d/1K6UwT_WEbC0SNXVVfl9aUzd3nPBtKN3k1fRpH2STd2s/)
 
-4) Compilation from  Nidāna Saṁyutta (SN 12)
+4) Compilation from  Nidāna Saṁyutta [(SN 12)](https://docs.google.com/document/d/1rSgxc6Hg8Pt63nU1fdG8j7QpobBRYbeDEE9KoZ9c6UQ/)
 
-* [part 1](https://docs.google.com/document/d/1rSgxc6Hg8Pt63nU1fdG8j7QpobBRYbeDEE9KoZ9c6UQ/)
-
-* [part 2](https://docs.google.com/document/d/1mxa0g9gczp2HxXIU8UJSflBnoH9Zr9yFjLs9CgALtJo/)
-
-5) Compilation from  
+5) Compilation from:  
 
 * Satipaṭṭhāna Saṁyutta [(SN 47)](https://docs.google.com/document/d/1h-Xhkskz1-gchNBDG08QQJ-AqUs-sIimSBnDizvMibQ/)
 
