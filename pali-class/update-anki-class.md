@@ -29,7 +29,7 @@ If you have a problem with updating, you can use the following method:
 
 - download the latest csv file:
 
-- [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/vocab-pali-class.apkg)
+- [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/vocab-pali-class.csv)
 
 - Grammar Pāli Class has 3 note types:
 
@@ -37,7 +37,7 @@ If you have a problem with updating, you can use the following method:
 
 - - [note:pali class Grammar](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class-gramm.csv)
 
-- - [note:pali class Sandhi](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class-sandhi.apkg)
+- - [note:pali class Sandhi](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class-sandhi.csv)
 
 - [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/roots-pali-class.csv)
 
