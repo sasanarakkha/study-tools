@@ -1,6 +1,19 @@
-# Vocab Pāli Class
+# Anki decks for Pāli Class
 
-Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/vocab-pali-class.apkg)
+Download the latest update of the decks:
+
+- [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/vocab-pali-class.apkg)
+
+- [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class.apkg)
+
+- [Most Common Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots-pali-class.apkg)
+
+- [Phonetic Changes](https://github.com/sasanarakkha/study-tools/releases/latest/download/phonetic-pali-class.apkg)
+
+- [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/roots-pali-class.apkg).
+
+- [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.apkg)
+
 
 # Updating existing deck without losing your statistics
 
@@ -14,7 +27,23 @@ Only you need to [remove outdated words](https://sasanarakkha.github.io/study-to
 
 If you have a problem with updating, you can use the following method:
 
-- download the latest csv file
+- download the latest csv file:
+
+- [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/vocab-pali-class.apkg)
+
+- Grammar Pāli Class has 3 note types:
+
+- - [note:pali class abbrev](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class-abbr.csv)
+
+- - [note:pali class Grammar](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class-gramm.csv)
+
+- - [note:pali class Sandhi](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class-sandhi.apkg)
+
+- [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/roots-pali-class.csv)
+
+- [Phonetic Changes](https://github.com/sasanarakkha/study-tools/releases/latest/download/phonetic-pali-class.csv)
+
+- [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.csv)
 
 - make sure that your filed list exectly the same as current:
 
@@ -22,11 +51,13 @@ If you have a problem with updating, you can use the following method:
 
 - - [filed list for Root and Phonetic Changes deck](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-roots-class.txt).
 
-- - [filed list for Grammar Abbr](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-abbr.txt).
+- - [filed list for Grammar note:pali class abbrev](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-abbr.txt).
 
-- - [filed list for Grammar Grammar](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-gramm.txt).
+- - [filed list for Grammar note:pali class Grammar](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-gramm.txt).
 
-- - [filed list for Grammar Sandhi](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-sandhi.txt).
+- - [filed list for Grammar note:pali class Sandhi](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-sandhi.txt).
+
+- - [filed list for Suttas Advanced deck](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-suttas-class.txt). 
 
 You can check it in menu: **Tools > Manage Note Types**
 
@@ -50,6 +81,12 @@ You can check it in menu: **Tools > Manage Note Types**
 2. [Root BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/roots-back.txt)
 3. [Root STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
+### for Suttas Advanced deck:
+- note that there are 3 different fields for card settings: 
+1. [Root FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/suttas-front.txt)
+2. [Root BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/suttas-back.txt)
+3. [Root STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt)
+
 Check that each of them matches current card settings.
 - 
 ![image](https://user-images.githubusercontent.com/39419221/205493920-854a4da9-1e37-4a17-8a11-12dcceea3754.png)
@@ -59,9 +96,9 @@ Check that each of them matches current card settings.
 
 ![image](https://user-images.githubusercontent.com/39419221/187018280-c295e071-c130-4f42-8518-a3a5e0326124.png)
 
-- choose downloaded class-vocab.csv
+- choose downloaded *.csv
 
-- choose Type - pali class Vocab ; Deck - Vocab Pāli Class; Update existing notes when the first field matches ; Allow HTML in fields
+- choose Type - "desired deck"; Update existing notes when the first field matches ; Allow HTML in fields
 
 ![dhp](https://user-images.githubusercontent.com/39419221/174243032-22bf1919-c1c8-475c-90b6-d7f2dd1a3624.png)
 
