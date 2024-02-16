@@ -89,9 +89,9 @@ alaṃ 1,ind,(it is) suitable (to); proper (to); appropriate (to); worthy (for),
 alaṃ 2,ind,is able (to); is possible (to); is capable (of),,ala + aṃ,,9
 alaṃ 3,ind,enough; it is enough (for),,,,9
 alika 1,nt,lie; falsehood; untruth,,,a nt,9
-asati 1.1,prp,when isn’t; when not existing,√as 1 a (be),"na > a + sa + nta + ti
+asati 1.1,prp,when isn't; when not existing,√as 1 a (be),"na > a + sa + nta + ti
 na + santa + ti",anta prp,10
-asante,prp,when there isn’t; when not existing; when does not exist,√as 1 a (be),"na > a + sa + nta + e
+asante,prp,when there isn't; when not existing; when does not exist,√as 1 a (be),"na > a + sa + nta + e
 na + sante",santa prp,10
 asamanupassanta,prp,not seeing; not perceiving,√dis 1 a (see),"na > a + saṃ + anu + passa + nta
 na + samanupassanta",anta prp,10
@@ -391,7 +391,7 @@ nakkha + tta",a nt,9
 nakha 1,masc,fingernail; toenail,,,a masc,2
 natthi 1,pr,is not; it is not; there is not; there is no; there is nothing,√as 1 a (be),"na + √as + ti
 na + atthi",natthi pr,5
-nanu,ind,surely?; but wouldn’t?; is it true?; wasn’t?,,na + nu,,9
+nanu,ind,surely?; but wouldn't?; is it true?; wasn't?,,na + nu,,9
 nappaṭikaṅkhati,pr,does not anticipate; does not expect; does not await; does not personally wish (for),√kaṅkh 1 a (wish for),"na + pati + kaṅkha + ti
 na + paṭikaṅkhati",ati pr,5
 nara,masc,man; person,,,a masc,2
@@ -420,7 +420,7 @@ nisīdati,pr,sits (on); sits down (in),"√sad 1 a (sink, sit, settle)",ni + sī
 nisīdi,aor,sat (on); sat down (in),"√sad 1 a (sink, sit, settle)",ni + sīda + i,i aor isuṃ,4
 nissaya 1,masc,dependency; physical support; reliance; something one depends on,"√si 1 a (depend on, associate with)",ni + √si > say + *a,a masc,2
 nīvaraṇa 1,masc,obstacle; obstruction; barrier; hindrance,"√var 1 a (cover, dress, restrain)",ni > nī + √var + *aṇa,a masc,2
-nu,ind,(adds a question mark) surely?; didn’t?; wouldn't?; which?,,,,9
+nu,ind,(adds a question mark) surely?; didn't?; wouldn't?; which?,,,,9
 nu kho,idiom,does?; is?; would?,,,,9
 neti 1.1,pr,leads; carries away; takes away,"√nī 1 a (lead, carry)",ne + ti,eti pr,3
 neva 1,sandhi,neither; not,,na + eva,,5
@@ -598,7 +598,7 @@ mada 1,masc,excess; pleasure; indulgence,"√mad 3 ya (be mad, intoxicated)",√
 manussa,masc,human being; man; person,,manu + ssa,a masc,2
 maraṇa,nt,death; dying,√mar 1 a (die),√mar + aṇa,a nt,9
 maṃsa 1,nt,meat; flesh,,,a nt,9
-mā 1.1,ind,do not; may one not; don’t let,,,,5
+mā 1.1,ind,do not; may one not; don't let,,,,5
 māṇava 1,masc,young man; young gentleman; young Brahman,,manu > māṇav + *a,a masc,2
 mātar,fem,mother,,,mātar fem,8
 māna 1.1,masc,pride; conceit; egotism; superiority; comparing oneself,√man 3 ya (think),√man > mān + *a,a masc,2
@@ -709,7 +709,7 @@ sambodha,masc,full awakening; perfect understanding; enlightenment,"√budh 3 ya
 sammodamāna,prp,being friendly; being on good terms,"√mud 1 *a (be soft, happy)",saṃ + moda + māna,māna prp,10
 sammodi,aor,greeted; exchanged pleasantries; had a friendly conversation (with),"√mud 1 *a (be soft, happy)",saṃ + moda + i,i aor,4
 sayāna,prp,lying down,"√sī 1 a (lie, sleep)",saya + āna,āna prp,10
-saraṇa 2.1,nt,shelter; refuge; help,"√sar 1 a (go, flow)",√sar + aṇa,a nt,9
+saraṇa 1.1,nt,shelter; refuge; help,"√sar 1 a (go, flow)",√sar + aṇa,a nt,9
 saritvā 1.1,abs,having remembered; having recollected,√sar 1 a (remember),√sar + itvā,,8
 sarīra 1,nt,body,,,a nt,9
 saha 1.2,ind,with; together (with); accompanied (by),,,,5
@@ -844,6 +844,6 @@ pūjā 1,fem,veneration (of); homage (to); honour (for),"√pūj 8 *e (honour, v
 adhigaccheyya 2,opt,would experience; would feel,√gam 1 a (go),adhi + gaccha + eyya,ati pr,7
 ābādha 2,masc,affliction; oppression; suffering,"√bādh 1 a (press, oppress)",ā + √bādh + a,a masc,2
 chindati 5,pr,cuts across; breasts; fords,"√chid 2 ṃa (cut, steal)",chinda + ti,ati pr,3
-yaṃ taṃ,idiom,whoever … him; whatever ... that,,,,9
-yasmā tasmā,idiom,because … therefore; since ... that is why,,,,9
-yesu tesu,idiom,among whom … among them; in which ... in those,,,,9
+yaṃ taṃ,idiom,whoever … him; whatever … that,,,,9
+yasmā tasmā,idiom,because … therefore; since … that is why,,,,9
+yesu tesu,idiom,among whom … among them; in which … in those,,,,9
