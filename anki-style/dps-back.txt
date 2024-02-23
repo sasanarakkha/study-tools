@@ -37,7 +37,7 @@
 
 <div class=brclass><br></div>
 
-<div> <b> {{meaning_1}}</b>{{#meaning_lit}}; lit.: {{meaning_lit}}{{/meaning_lit}} </div>
+<div> <b> {{meaning_1}}</b>{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}} </div>
 <div class=brclass><br></div>
 
 {{#sbs_meaning}} 
@@ -46,7 +46,7 @@
 <div class=brclass><br></div> 
 {{/sbs_meaning}} 
 
-<div> {{ru_meaning}}{{#ru_meaning_lit}}; досл.: {{ru_meaning_lit}}{{/ru_meaning_lit}} </div>
+<div> {{ru_meaning}}{{#ru_meaning_lit}}; досл. {{ru_meaning_lit}}{{/ru_meaning_lit}} </div>
 
 <div class=brclass><br></div>
 {{#compound_type}}

@@ -37,7 +37,7 @@
 
 <div class=brclass><br></div>
 
-<div> <b> {{meaning_1}}</b>{{#meaning_lit}}; lit.: {{meaning_lit}}{{/meaning_lit}} </div>
+<div> <b> {{meaning_1}}</b>{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}} </div>
 <div class=brclass><br></div>
 
 
