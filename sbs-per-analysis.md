@@ -5,7 +5,7 @@ Made for better gramatical understanding of suttas and passages from 'SBS Pāḷ
 Files that may be usefull with this analysis:
 - [SBS Pāḷi-English Recitations](https://sasanarakkha.org/2019/09/08/sbs-pali-english-recitations/)
 - [SBS Pāḷi-English Vocab - Anki Deck](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html)
-- [SBS Pāḷi Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html)
+- [DPD with SBS examples](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html)
 
 # **SBS Pāḷi-English Recitations**
 

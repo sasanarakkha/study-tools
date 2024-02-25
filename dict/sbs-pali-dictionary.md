@@ -1,13 +1,13 @@
-# SBS Pāḷi Dictionary
+# Digital Pāḷi Dictionary with SBS examples
 
 UNDER DEVELOPMENT
 
-A grammatical analysis of the words from the chanting book 'SBS Pāḷi-English Recitations' has been made available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&entry.1433863141=SBS-study-tools). It is a dictionary which runs in GoldenDict, or any other application that supports the Stardict format.
+An extended version of the [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/) with examples related to SBS Pāli progects. All projects can be found on the main [web-page](https://sasanarakkha.github.io/study-tools/).
 
-This tool is recommended to be used together with [SBS Pāḷi-English Recitations](https://github.com/sasanarakkha/pali-english-recitations/releases/tag/build_07.06.2023_04-24) and [Analysis of SBS Pāḷi-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html).
+Download the latest update in various formats:
+- for [GoldenDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-dpd.zip)
+- for [MDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-dpd-mdict.mdx)
 
-[Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-pd.zip)
-
-This work is based on the [Digital Pāḷi Dictionary by Ven. Bodhirasa](https://digitalpalidictionary.github.io/), which is a work in progress and in the process of being updated regularly. That's why if you want to have access to more clear and correct information, please regularly install updates.
+This work is based on the [DPD by Ven. Bodhirasa](https://digitalpalidictionary.github.io/), which is a work in progress and in the process of being updated regularly. That's why if you want to have access to more clear and correct information, please regularly install updates.
 
  Instructions on installing Goldendict can be found on the [website.](https://digitalpalidictionary.github.io/titlepage.html)

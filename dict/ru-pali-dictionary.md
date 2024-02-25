@@ -5,7 +5,9 @@
 Это образовательный проект и находится на стадии тестирования и редактирования. Ваши [предложения и комментарии](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=devamitta.github.io) будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря. 
 Пожалуйста, регулярно обновляйте словарь, чтобы иметь доступ к информации с меньшим количеством ошибок и недочетов. Инструкции можно найти [здесь](https://devamitta.github.io/pali/update_ru.html).
 
-[Начать загрузку последней версии](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-dict.zip)
+Начать загрузку последней версии в форматах: 
+- [GoldenDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd.zip)
+- [MDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd-mdict.mdx)
 
 Эта работа основывается на [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/index.html)
 
