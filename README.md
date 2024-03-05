@@ -6,11 +6,11 @@ These materials are provided for the benefit, welfare, and happiness of many peo
 
 ### Dictionaries:
 
-- [SBS Pāḷi-English Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html)
+- [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/)
+
+<!-- - [SBS Pāḷi-English Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html) -->
 
 - [Pāḷi-Russian Dictionary](https://sasanarakkha.github.io/study-tools/dict/ru-pali-dictionary.html)
-
-- [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/)
 
 <!-- - [Devamitta Pāḷi Study](https://sasanarakkha.github.io/study-tools/dict/dps.html) -->
 
