@@ -57,7 +57,7 @@ for csv_file in csv_files:
         $table
         </body>
         </html>
-    ''')
+    ``')
 
     # Substitute the class number placeholder with the actual class number
     html_content = html_template.safe_substitute(table=html_table, class_number=class_number)
