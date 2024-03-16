@@ -24,7 +24,7 @@ apucchi,aor,asked; enquired,"√pucch 1 a (ask, question)",a + √pucch + i,i ao
 abyāpāda,masc,goodwill; kindness; friendliness; benevolence,"√pad 3 ya (go, step)",na > a + vi > vy > by + ā + √pad > pād + *a,a masc,5
 abhāsi 1,aor,spoke; said,"√bhā 1 a (shine, speak)",a + √bhā + si,i aor isuṃ,4
 abhijjhā,fem,wishing; wanting; covetousness; greed,"√jhā 3 ya (think, meditate)",abhi + √jhā + ā,ā fem,7
-abhitthavati,pr,,"√thu 1 a (be familiar, praise)",abhi + thava + ti,ati pr,3
+abhitthavati,pr,praises; applauds,"√thu 1 a (be familiar, praise)",abhi + thava + ti,ati pr,3
 abhinandi 1,aor,delighted (in); was pleased (with); approved (of); was happy (with); relished,"√nand 1 a (delight, enjoy)",abhi + √nand + i,i aor,4
 abhibhū 1,masc,conqueror; victor; vanquisher; master (of),"√bhū 1 a (be, become)",abhi + √bhū + ū,ū masc,6
 abhiramati,pr,enjoys; delights (in); takes pleasure (in),"√ram 1 a (delight, please)",abhi + rama + ti,ati pr,3
@@ -61,7 +61,7 @@ ahosi,aor,was; existed; became,√hū 1 a (be),a + ho + si,hosi aor,4
 āyas + mant",ant masc,6
 āloka,masc,light; brightness; clarity,√lok 8 *e (look),ā + √lok + a,a masc,2
 āsaya 2,masc,home (of); dwelling (of); abode (of),"√sī 1 a (lie, sleep)",ā + √sī > say + *a,a masc,2
-āsava 1.2,masc,discharge; suppuration; outflow; effluent,√su 1 a (flow),ā + √su > sav + *a,a masc,2
+āsava 1.2,masc,discharge; suppuration; outflow; effluent; (comm) defilement,√su 1 a (flow),ā + √su > sav + *a,a masc,2
 āsi 1.1,aor,was,√as 1 a (be),a + √as + i,āsi aor irreg,4
 āvāsa 1,masc,home (of); dwelling place (of); residence (of),√vas 1 a (live),ā + √vas > vās + *a,a masc,2
 isi,masc,seer; sage,,,i masc,4
@@ -93,7 +93,7 @@ obhāsati 1.1,pr,speaks coarsely (to); speaks suggestively (to); talks rudely (t
 kathā 1,fem,talk; speech; conversation; discussion,"√kath 8 *e (speak, narrate)",√kath + ā,ā fem,7
 kappati,pr,it is suitable (for); it is proper (for); it is fitting (for); it is allowable,"√kapp 1 a (be fit, be suitable)",kappa + ti,ati pr,3
 karuṇā,fem,compassion; sympathy; kindness (towards unfortunate beings),,,ā fem,7
-kareyya 1,opt,could do; would do; could make,"√kar 7 o (do, make)",√kar + eyya,karoti pr,7
+kareyya 2,opt,would make; could make,"√kar 7 o (do, make)",√kar + eyya,karoti pr,7
 karoti 1,pr,does; acts; performs,"√kar 7 o (do, make)",karo + ti,karoti pr,3
 karohi,imp,do!; make!,"√kar 7 o (do, make)",karo + hi,karoti pr,4
 kassaka,masc,farmer; ploughman,"√kass 1 a (drag, draw along)",√kass + aka,a masc,2
@@ -229,7 +229,7 @@ panūdati,pr,dispels; drives out; rejects; pushes away,"√nud 1 a (drive out, r
 papañca,masc,various opinions; proliferation; endless conceptualization,"√pañc 8 *e (expand, spread)",pa + √pañc + a,a masc,2
 pabbajjā,fem,(vinaya) novice ordination; renunciation; becoming a monastic,√vaj 1 a (go on),pa + √vaj > baj + yā,ā fem,7
 pamāda,masc,carelessness; negligence; heedlessness,"√mad 3 ya (be mad, intoxicated)",pa + √mad > mād + *a,a masc,2
-parikkhāra 1,masc,requisite; requirement; necessity; accessory; everyday item,"√kar 7 o (do, make)",pari + √kar > khār + *a,a masc,2
+parikkhāra 1,masc,requisite; requirement; necessity,"√kar 7 o (do, make)",pari + √kar > khār + *a,a masc,2
 paricarati 3,pr,enjoys; indulges; has sex with,"√car 1 a (move, walk)",pari + cara + ti,ati pr,3
 pariṇāyaka 2,masc,leader; who shows the way,"√nī 1 a (lead, carry)",pari + √nī > ṇāy + *aka,a masc,2
 parideva,masc,lamentation; wailing; crying,√dev 1 a (lament),pari + √dev + a,a masc,2
@@ -374,7 +374,7 @@ soka,masc,grief; sorrow; sadness (over),√suc 1 *a (grieve),√suc > suk > sok 
 soci,aor,grieved; was sad,√suc 1 *a (grieve),soca + i,i aor,4
 sota 1.1,masc,stream; river; current,√su 1 a (flow),√su > so + *ta,a masc,2
 sobhati 2,pr,looks beautiful (in),"√subh 1 *a (shine, adorn)",sobha + ti,ati pr,3
-vajjavant,adj,,"√vajj 8 *e (turn, avoid)",√vajj + ya + vant,ant adj,6
+vajjavant,adj,sinful; with faults; with mistakes,"√vajj 8 *e (turn, avoid)",√vajj + ya + vant,ant adj,6
 vattati 1,pr,proceeds; continues; goes forward; practices,"√vatt 1 a (be, proceed)",vatta + ti,ati pr,3
 vadati 1,pr,says (to); speaks (to); tells (to),"√vad 1 a (say, speak)",vada + ti,ati pr,3
 vasa 1.2,masc,control (over); authority (over); power (over); mastery (over),"√vas 1 a (want, control)",√vas + a,a masc,2

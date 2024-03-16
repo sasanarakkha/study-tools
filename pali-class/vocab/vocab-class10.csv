@@ -31,7 +31,7 @@ atthi 1.1,pr,there is; there exists,√as 1 a (be),√as + ti > atthi,atthi pr,4
 adhamma 2,masc,false teaching; something opposed to the teaching,"√dhar 1 a (hold, carry, endure)",na > a + √dhar + ma,a masc,5
 adhigacchati 1,pr,gets to; attains; finds; acquires; obtains,√gam 1 a (go),adhi + gaccha + ti,ati pr,3
 adhicitta,nt,meditation; mental development; higher consciousness,"√cit 8 *e (think, intend)",adhi + √cit + ta,a nt,9
-anagāriya,nt,homelessness; homeless state,,na > an + agāra + iya,a nt,9
+anagāriya 1,nt,homelessness; homeless state,,na > an + agāra + iya,a nt,9
 anañña,pron,not another; no other,,na > an + añña,a pron,10
 anabhineti,pr,does not invite; does not conduct towards,"√nī 1 a (lead, carry)","na > an + abhi + ne + ti
 an + abhineti",eti pr,5
@@ -64,7 +64,7 @@ abyosita + tta",a nt,9
 abhāsi 1,aor,spoke; said,"√bhā 1 a (shine, speak)",a + √bhā + si,i aor isuṃ,4
 abhikkantāya rattiyā,idiom,as the evening passed; as the night progressed,,,,10
 abhijjhā,fem,wishing; wanting; covetousness; greed,"√jhā 3 ya (think, meditate)",abhi + √jhā + ā,ā fem,7
-abhitthavati,pr,,"√thu 1 a (be familiar, praise)",abhi + thava + ti,ati pr,3
+abhitthavati,pr,praises; applauds,"√thu 1 a (be familiar, praise)",abhi + thava + ti,ati pr,3
 abhinandi 1,aor,delighted (in); was pleased (with); approved (of); was happy (with); relished,"√nand 1 a (delight, enjoy)",abhi + √nand + i,i aor,4
 abhinipajjituṃ,inf,to lie down (on); to lie (in),"√pad 3 ya (go, step)",abhi + ni + pajja + ituṃ,,9
 abhinisīdituṃ,inf,to sit down (in); to sit (on),"√sad 1 a (sink, sit, settle)",abhi + ni + sīda + ituṃ,,9
@@ -138,7 +138,7 @@ aroga + *ya",a nt,9
 āloka,masc,light; brightness; clarity,√lok 8 *e (look),ā + √lok + a,a masc,2
 āsana 1,nt,seat; chair,√ās 1 a (sit),√ās + ana,a nt,9
 āsaya 2,masc,home (of); dwelling (of); abode (of),"√sī 1 a (lie, sleep)",ā + √sī > say + *a,a masc,2
-āsava 1.2,masc,discharge; suppuration; outflow; effluent,√su 1 a (flow),ā + √su > sav + *a,a masc,2
+āsava 1.2,masc,discharge; suppuration; outflow; effluent; (comm) defilement,√su 1 a (flow),ā + √su > sav + *a,a masc,2
 āsi 1.1,aor,was,√as 1 a (be),a + √as + i,āsi aor irreg,4
 āvāsa 1,masc,home (of); dwelling place (of); residence (of),√vas 1 a (live),ā + √vas > vās + *a,a masc,2
 āhāra 1,masc,food (for); fuel (for); sustenance (for); nutriment (for); (comm) condition,"√har 1 a (take, seize)",ā + √har > hār + *a,a masc,2
@@ -212,7 +212,7 @@ kathā 1,fem,talk; speech; conversation; discussion,"√kath 8 *e (speak, narrat
 kappati,pr,it is suitable (for); it is proper (for); it is fitting (for); it is allowable,"√kapp 1 a (be fit, be suitable)",kappa + ti,ati pr,3
 karitvā 2,abs,having made,"√kar 7 o (do, make)",√kar + itvā,,8
 karuṇā,fem,compassion; sympathy; kindness (towards unfortunate beings),,,ā fem,7
-kareyya 1,opt,could do; would do; could make,"√kar 7 o (do, make)",√kar + eyya,karoti pr,7
+kareyya 2,opt,would make; could make,"√kar 7 o (do, make)",√kar + eyya,karoti pr,7
 karoti 1,pr,does; acts; performs,"√kar 7 o (do, make)",karo + ti,karoti pr,3
 karohi,imp,do!; make!,"√kar 7 o (do, make)",karo + hi,karoti pr,4
 kallaṃ,ind,it is suitable (to); it is proper (to); it is fit (for),√kal 8 a (accomplish),"√kal + ya + aṃ
@@ -265,7 +265,7 @@ garu 5,masc,respect; honour,"√gar 1 a (esteem, be heavy)",√gar + u,u masc,6
 gavesanta,prp,seeking; searching (for); looking (for),"√gaves 1 a (seek, search)",gavesa + nta,anta prp,10
 gavesī 1,adj,seeking; searching for; looking for,"√gaves 1 a (seek, search)",√gaves + ī,ī adj,5
 gaha 2,nt,house,√gah 6 ṇhā (grasp),√gah + a,a nt,9
-gahetvā 1,abs,having taken; having grabbed hold (of); having seized,√gah 6 ṇhā (grasp),gahe + tvā,,8
+gahetvā 1,abs,having taken; having held,√gah 6 ṇhā (grasp),gahe + tvā,,8
 gahetvā 5,abs,having arrested; having taken prisoner,√gah 6 ṇhā (grasp),gahe + tvā,,8
 gaḷanta,prp,flowing; dripping; trickling; oozing,"√gal 1 a (drip, flow)",gaḷa + nta,anta prp,10
 gāthā 1,fem,verse; poem; stanza,√gā 3 ya (sing),√gā + thā,ā fem,7
@@ -326,7 +326,7 @@ tasmiṃ samaye,idiom,then; on that occasion; at that time,,,,10
 tassa 3,pron,when he; when it,,ta + ssa,ta pron,10
 taṃ kiṃ maññasi,idiom,what do you think about that?; what's your opinion on this?,,,,9
 tārituṃ,inf,to cross; to cross over,√tar 1 a (cross),√tar > tār + *ituṃ,,9
-tāva 1,ind,that much; that far; as long as; to that extent; until; at least,,,,9
+tāva 1,ind,until then; that long,,,,9
 tiṭṭhati 3,pr,remains; persists; lasts,√ṭhā 1 a (stand),tiṭṭha + ti,ati pr,3
 tiṭṭhanta 1,prp,standing (in); standing still,√ṭhā 1 a (stand),tiṭṭha + nta,anta prp,10
 tila,nt,sesame seed,,,a nt,9
@@ -344,7 +344,7 @@ dassī 2,adj,who sees; who knows; who perceives; who understands,√dis 1 a (see
 dava 1.1,masc,fun; joke; play; sport; pleasure,"√dū 1 a (go, run)",√dū > dav + *a,a masc,2
 dātar 1,masc,giver; donor; bestower (of),√dā 1 a (give),√dā + tar,ar masc,6
 dāna 1.1,nt,giving; offering; charity; generosity,√dā 1 a (give),√dā + ana,a nt,9
-dāna 1.2,nt,,√dā 1 a (give),√dā + ana,a nt,9
+dāna 1.2,nt,alms; gift,√dā 1 a (give),√dā + ana,a nt,9
 dāra,masc,wife,,,a masc,2
 dārikā,fem,girl; daughter,,dāra + ikā,ā fem,7
 diṭṭhi 1,fem,view; belief; opinion; concept; theory; attitude,√dis 1 a (see),√dis + ti,i fem,8
@@ -469,7 +469,7 @@ pabbajjā,fem,(vinaya) novice ordination; renunciation; becoming a monastic,√v
 pamāṇa 3,nt,measure; measurement; length; size; amount; quantity,√mā 5 nā (measure),pa + √mā + aṇa,a nt,9
 pamāda,masc,carelessness; negligence; heedlessness,"√mad 3 ya (be mad, intoxicated)",pa + √mad > mād + *a,a masc,2
 para 1,pron,other; another (person),,,a pron,10
-parikkhāra 1,masc,requisite; requirement; necessity; accessory; everyday item,"√kar 7 o (do, make)",pari + √kar > khār + *a,a masc,2
+parikkhāra 1,masc,requisite; requirement; necessity,"√kar 7 o (do, make)",pari + √kar > khār + *a,a masc,2
 paricarati 3,pr,enjoys; indulges; has sex with,"√car 1 a (move, walk)",pari + cara + ti,ati pr,3
 pariṇāyaka 2,masc,leader; who shows the way,"√nī 1 a (lead, carry)",pari + √nī > ṇāy + *aka,a masc,2
 parideva,masc,lamentation; wailing; crying,√dev 1 a (lament),pari + √dev + a,a masc,2
@@ -498,7 +498,7 @@ pavaḍḍhati 1,pr,increases; develops; grows,"√vaḍḍh 1 a (grow, increase
 pavattar 1,masc,proclaimer (of); who tells about; who points out,"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
 pavana 1.1,nt,woodland; forest,,pa + vana,a nt,9
 pavāraṇā 2,fem,(vinaya) invitation ceremony at the end of the rains retreat,"√var 8 *e (wish, choose)",pa + vāre + anā,ā fem,7
-pavicaranta,prp,,"√car 1 a (move, walk)",pa + vi + cara + nta,anta prp,10
+pavicaranta,prp,examining; investigating; considering carefully; lit. moving around,"√car 1 a (move, walk)",pa + vi + cara + nta,anta prp,10
 pavisati,pr,enters; goes (into),√vis 1 a (enter),pa + visa + ti,ati pr,3
 pahoti 2,pr,is able (to); is capable (of); is qualified (to),√hū 1 a (be),pa + ho + ti,hoti pr,4
 pācittiya 1,nt,(vinaya) offence requiring confession,,,a nt,9
@@ -509,7 +509,7 @@ pāmojja,nt,joy; happiness; gladness,"√mud 1 a (be soft, happy)","pa + √mud 
 pamoda + *ya",a nt,9
 pāra 1.1,nt,far side; far shore; bank on the other side; epithet of Nibbāna,,para > pāra + *a,a nt,9
 pārājika 3,nt,(vinaya) offence involving defeat; transgression requiring expulsion,√ji 1 a (conquer),parā > pārā + √ji + *aka,a nt,9
-pāripūrī,fem,,"√pūr 1 a (fill, fulfil)",pari + √pūr + ī,ī fem,8
+pāripūrī,fem,fulfilment; completion; perfecting; maturity,"√pūr 1 a (fill, fulfil)",pari + √pūr + ī,ī fem,8
 pālicca,nt,hoariness; grey hair,,palita > pālita + *ya,a nt,9
 piṇḍāya,masc,for alms; to collect alms food,√piṇḍ 8 *e (collect),"√piṇḍ + a + āya
 piṇḍa + āya",a masc,9
@@ -586,6 +586,7 @@ maññati 1,pr,thinks; imagines; conceives; presumes; supposes,√man 3 ya (thin
 maṇḍana,nt,adorning; embellishing; beautifying oneself,√maṇḍ 1 a (adorn),√maṇḍ + ana,a nt,9
 mattaññū,adj,knowing the correct measure (in); knowing the limit (in); moderate (in),,matta + ñū,ū adj,6
 mada 1,masc,excess; pleasure; indulgence,"√mad 3 ya (be mad, intoxicated)",√mad + a,a masc,2
+manāpa 2,nt,something pleasant; something nice,,,a nt,9
 manussa,masc,human being; man; person,,manu + ssa,a masc,2
 maraṇa,nt,death; dying,√mar 1 a (die),√mar + aṇa,a nt,9
 maṃsa 1,nt,meat; flesh,,,a nt,9
@@ -609,7 +610,7 @@ moggallāna 1,masc,name of a monk; chief disciple; great disciple of the Buddha;
 moha 1,masc,illusion; delusion; hallucination,"√muh 3 ya (be deluded, confused)",√muh > moh + *a,a masc,2
 yakkhī,fem,female supernatural being; female spirit; daemoness,√yakkh 8 *e (worship),"√yakkh + a + ī
 yakkha + ī",ī fem,8
-yato 2,ind,since; because; due to the fact that,,ya + to,,8
+yato 2,ind,since; because; due to the fact that; on account of which,,ya + to,,8
 yattha,ind,wherever; where; when; in which,,ya + ttha,,8
 yattha tattha,idiom,where … there,,,,9
 yadā,ind,when; whenever,,ya + dā,,6
@@ -680,7 +681,7 @@ sama + tha",a masc,2
 samanupassanta,prp,seeing; perceiving,√dis 1 a (see),saṃ + anu + passa + nta,anta prp,10
 samanupassituṃ,inf,to see (as); to regard (as); to consider (as),√dis 1 a (see),saṃ + anu + passa + ituṃ,,9
 samaya 1.1,masc,time; occasion,"√i 1 a (come, go)",saṃ + √i > ay + *a,a masc,2
-samācare,opt,,"√car 1 a (act, behave)",saṃ + ā + cara + e,ati pr,7
+samācare,opt,could behave; would act; could conduct oneself,"√car 1 a (act, behave)",saṃ + ā + cara + e,ati pr,7
 samādāya 2,ger,undertaking; taking up; accepting,"√ādā 3 ya (take, seize)",saṃ + √ādā + ya,,8
 samādhi 1,masc,perfect peace of mind; stability of mind; stillness of mind; mental composure,"√dhā 1 a (place, support)",saṃ + ā + √dhā + i,i masc,4
 samāpajjati 2,pr,engages (in); practices; performs,"√pad 3 ya (go, step)",saṃ + ā + pajja + ti,ati pr,3
@@ -717,7 +718,7 @@ sāvaka,masc,disciple; pupil; follower,√su 4 ṇā (hear),√su > sāv + *aka,
 sāvatthī,fem,name of a city; capital of Kosala,√su 1 a (flow),"√su > sāv + a + ttha + *ī
 sāvattha + ī",ī fem,8
 sikkhati 2,pr,trains (in); trains (for the purpose of); practices (for the sake of); practice (to),"√sikkh 1 a (learn, train)",sikkha + ti,ati pr,3
-sikkhā 2,fem,training (in); practice (in),"√sikkh 1 a (learn, train)",√sikkh + ā,ā fem,7
+sikkhā 1,fem,training (in); practice (in),"√sikkh 1 a (learn, train)",√sikkh + ā,ā fem,7
 sippika 1.1,masc,craftsman; artisan,,sippa + ika,a masc,2
 siyaṃ,opt,I could be; may I be; I might be; I should be,√as 1 a (be),siya + aṃ,siyā opt,7
 siyā 2,opt,there could be,√as 1 a (be),siya + ā,siyā opt,7
@@ -757,7 +758,7 @@ sumanas + *ya",a nt,9
 soracca,nt,kindness; gentleness; compassion; (comm) good conduct,"√ram 1 a (delight, please)","su > so + √ram + ta + *ya
 surata + *ya",a nt,9
 vaccha 1.1,masc,calf; yearling; young animal,,,a masc,2
-vajjavant,adj,,"√vajj 8 *e (turn, avoid)",√vajj + ya + vant,ant adj,6
+vajjavant,adj,sinful; with faults; with mistakes,"√vajj 8 *e (turn, avoid)",√vajj + ya + vant,ant adj,6
 vaḍḍhati,pr,increases (in); grows (in); develops (in),"√vaḍḍh 1 a (grow, increase)",vaḍḍha + ti,ati pr,3
 vatta 1.1,nt,custom; practice; way of life; behaviour,"√vatt 1 a (be, proceed)",√vatt + a,a nt,9
 vattati 1,pr,proceeds; continues; goes forward; practices,"√vatt 1 a (be, proceed)",vatta + ti,ati pr,3
@@ -765,7 +766,7 @@ vattha 1.1,nt,cloth; clothes; robe,"√vas 8 *e (wear, dress)",√vas + ta,a nt,
 vatthi 1,fem,bladder; urinary tract,,,i fem,8
 vatthu 2,nt,site; location; base; grounds,√vas 1 a (live),√vas + tu,u nt,9
 vadati 1,pr,says (to); speaks (to); tells (to),"√vad 1 a (say, speak)",vada + ti,ati pr,3
-vadeyya,opt,,"√vad 1 a (say, speak)",vada + eyya,ati pr,7
+vadeyya,opt,should say; could speak,"√vad 1 a (say, speak)",vada + eyya,ati pr,7
 vanatha 2.1,masc,desire; craving,"√van 7 o (like, desire)","√van + a + tha
 vana + tha",a masc,2
 vasa 1.2,masc,control (over); authority (over); power (over); mastery (over),"√vas 1 a (want, control)",√vas + a,a masc,2

@@ -7,7 +7,7 @@ akālika 2,adj,timeless; not limited to a particular time,√kal 8 *e (spend tim
 akāla + ika",a adj,11
 akāsi 2,aor,made,"√kar 7 o (do, make)",a + √kar > kā + si,āsi aor,4
 akiñcana,adj,with nothing; is nothing; having no; possession-less; epithet of an arahant,,na > a + kiñci + ana,a adj,11
-akusala 4,adj,unhealthy; unwholesome; unskillful; unbeneficial; useless,,na > a + kusala,a adj,11
+akusala 3,adj,unhealthy; unwholesome; unskillful; unbeneficial; kammically unprofitable,,na > a + kusala,a adj,11
 akovida,adj,unskilled (in); not expert (in); not proficient (in); not a master (of),√vid 1 a (know),na > a + ku > ko + √vid + *a,a adj,11
 akkosa,masc,verbal abuse; insult; name calling,"√kus 1 *a (call, insult)",ā + √kus > kos + *a,a masc,2
 akkhāta,pp,said; told; declared; announced,"√khā 1 a (tell, announce)",ā + √khā + ta,a pp,11
@@ -92,7 +92,7 @@ adhiṭṭhahi 1,aor,fixed attention (on),√ṭhā 1 a (stand),adhi + ṭhaha +
 adhiṭṭhāna 2,nt,standpoint; prejudice; bias; preconception,√ṭhā 1 a (stand),adhi + √ṭhā + ana,a nt,9
 adhunā,ind,recently; now; presently; at this time,,,,13
 adho 1,ind,below; under,,,,13
-anagāriya,nt,homelessness; homeless state,,na > an + agāra + iya,a nt,9
+anagāriya 1,nt,homelessness; homeless state,,na > an + agāra + iya,a nt,9
 anaṅgaṇa,adj,spotless; blemish free,"√añj 1 a (smear, anoint)",na > an + √añj > aṅg + aṇa,a adj,11
 anañña,pron,not another; no other,,na > an + añña,a pron,10
 anatimānī,adj,who is not conceited; who is not arrogant; who is humble,√man 3 ya (think),na > an + ati + √man > mān + *ī,ī adj,5
@@ -154,7 +154,7 @@ anta 2,masc,end; side; extreme,,,a masc,2
 antamaso 1,ind,even so much as; even with; even down to; with as little as,,antama + so,,13
 andha 1.2,adj,blind; sightless; visually impaired,,,a adj,11
 apagata 1,pp,without; free (from); with no,√gam 1 a (go),apa + √gam + ta,a pp,11
-apaññatta 1,pp,,√ñā 5 *āpe (know),na > a + pa + ñāpe + ta,a pp,14
+apaññatta 1,pp,(of a rule) not formulated; not prescribed; not decreed; not declared,√ñā 5 *āpe (know),na > a + pa + ñāpe + ta,a pp,14
 apara 1,adj,another; after; further; next,,apa + ra,a adj,11
 aparājita 1,pp,unconquered; undefeated; victorious; triumphant,√ji 1 a (conquer),na > a + parā + √ji + ta,a pp,11
 aparāmaṭṭha,pp,irreproachable; untouchable; untarnished,"√mas 1 a (touch, rub)",na > a + parā + √mas + ta,a pp,11
@@ -197,14 +197,14 @@ abhiññā 3,ger,directly knowing; understanding experientially,√ñā 5 nā (k
 abhiṭhāna,nt,deadly sin; heinous crime; great wrong,√ṭhā 1 a (stand),abhi + √ṭhā + ana,a nt,9
 abhiṇhaṃ,ind,continuously; repeatedly; regularly; often,"√ikkh 1 a (see, mark)","abhi + √ikkh + aṇa + aṃ
 abhikkhaṇaṃ > abhiṇhaṃ",,13
-abhitthavati,pr,,"√thu 1 a (be familiar, praise)",abhi + thava + ti,ati pr,3
+abhitthavati,pr,praises; applauds,"√thu 1 a (be familiar, praise)",abhi + thava + ti,ati pr,3
 abhinandi 1,aor,delighted (in); was pleased (with); approved (of); was happy (with); relished,"√nand 1 a (delight, enjoy)",abhi + √nand + i,i aor,4
 abhinanditabba,ptp,should be delighted in; should be approved of; should be applauded,"√nand 1 a (delight, enjoy)",abhi + √nand + itabba,a ptp,14
 abhininnāmeti 1,pr,inclines (towards); bends (towards); directs (towards),√nam 1 *e (bend),abhi + nī + nāme + ti,eti pr,14
 abhinipajjituṃ,inf,to lie down (on); to lie (in),"√pad 3 ya (go, step)",abhi + ni + pajja + ituṃ,,9
 abhinipphādeti,pr,produces; comes up with,"√pad 3 *e (go, step)",abhi + nī + phāde + ti,eti pr,14
 abhinisīdituṃ,inf,to sit down (in); to sit (on),"√sad 1 a (sink, sit, settle)",abhi + ni + sīda + ituṃ,,9
-abhinivissa,ger,attaching; clinging; adhering; sticking,√vis 1 a (enter),abhi + ni + √vis + ya,,8
+abhinivissa,ger,attaching; clinging; adhering; sticking; doubling down,√vis 1 a (enter),abhi + ni + √vis + ya,,8
 abhippamodayanta,prp,gladdening; pleasing; satisfying,"√mud 1 *aya (be soft, happy)",abhi + pa + modaya + nta,anta prp,14
 abhibhū 1,masc,conqueror; victor; vanquisher; master (of),"√bhū 1 a (be, become)",abhi + √bhū + ū,ū masc,6
 abhirati,fem,pleasure (in); delight (in); happiness (in),"√ram 1 a (delight, please)",abhi + √ram + ti,i fem,8
@@ -224,7 +224,7 @@ ambho,ind,hey!; yo!; look here!,,haṃ + bho,,13
 arañña,nt,forest; wood; wild; wilderness,"√ar 1 a (move, attain)","√ar + aṇa + ya
 araṇa + ya",a nt,9
 arahati 3,pr,should; ought (to); is suitable (for); it is befitting (for),"√arah 1 a (deserve, be worthy)",araha + ti,ati pr,3
-ariya 1,adj,noble; distinguished; of the Buddha,,,a adj,11
+ariya 1,adj,noble; distinguished; of an awakened being; of the Buddha,,,a adj,11
 aroga,adj,healthy; free from disease,"√ruj 1 a (hurt, be painful)",na > a + √ruj > rog + *a,a adj,11
 alaṃ 1,ind,(it is) suitable (to); proper (to); appropriate (to); worthy (for),,,,9
 alaṃ 2,ind,is able (to); is possible (to); is capable (of),,ala + aṃ,,9
@@ -272,7 +272,7 @@ assu 3.1,opt,they should be; they may be; they would be; may they be,√as 1 a (
 assutavant,adj,unlearned; untaught; uninitiated; untrained,√su 4 ṇā (hear),"na > a + √su + ta + vant
 na + suta + vant",ant adj,6
 avakkhitta,pp,dropped; thrown down,√khip 1 a (throw),ava + √khip + ta,a pp,11
-avaṅkata,adj,,"√vañc 8 *e (be bent, deceive)","na > a + √vañc > vaṅk + a + tā + a
+avaṅkata,adj,not crooked; non-dishonest; lit. not bent,"√vañc 8 *e (be bent, deceive)","na > a + √vañc > vaṅk + a + tā + a
 avaṅkatā + a",a adj,11
 avacanīya 1,ptp,incorrigible; uninstructible; unteachable; unadmonishable,"√vac 1 a (say, speak)",na > a + √vac + anīya,a ptp,14
 avañjha,adj,productive; profitable; successful,,na > a + vañjha,a adj,11
@@ -337,7 +337,7 @@ aroga + *ya",a nt,9
 āloka,masc,light; brightness; clarity,√lok 8 *e (look),ā + √lok + a,a masc,2
 āsana 1,nt,seat; chair,√ās 1 a (sit),√ās + ana,a nt,9
 āsaya 2,masc,home (of); dwelling (of); abode (of),"√sī 1 a (lie, sleep)",ā + √sī > say + *a,a masc,2
-āsava 1.2,masc,discharge; suppuration; outflow; effluent,√su 1 a (flow),ā + √su > sav + *a,a masc,2
+āsava 1.2,masc,discharge; suppuration; outflow; effluent; (comm) defilement,√su 1 a (flow),ā + √su > sav + *a,a masc,2
 āsi 1.1,aor,was,√as 1 a (be),a + √as + i,āsi aor irreg,4
 āsevita 1,pp,practised persistently,"√sev 1 a (serve, associate)",ā + √sev + ita,a pp,11
 āsevitabba,ptp,should be practised; should be pursued; should be indulged in,"√sev 1 a (serve, associate)",ā + √sev + itabba,a ptp,14
@@ -390,7 +390,7 @@ uddharati 2,pr,removes; takes away; packs up,"√dhar 1 a (hold, carry, endure)"
 uddharāpeti,pr,causes to remove; makes take away; causes to pack up,"√dhar 1 *āpe (hold, carry, endure)",ud + dharāpe + ti,eti pr,14
 uddhaṃ 1,ind,above; up; on top,,"ud + dha + aṃ
 uddha + aṃ",,13
-upakappati,pr,,"√kapp 1 a (be fit, be suitable)",upa + kappa + ti,ati pr,3
+upakappati,pr,is beneficial to; serving for,"√kapp 1 a (be fit, be suitable)",upa + kappa + ti,ati pr,3
 upaghātī,adj,who injures; who harms,"√ghaṭ 8 *e (strike, kill)",upa + √ghaṭ > ghāṭ + *ī,ī adj,5
 upajjhāya,masc,preceptor; teacher; mentor,"√i 1 a (study, recite)",upa + adhi > adhy > ajjh + √i > āy + *a,a masc,2
 upaṭṭhapetvā 1,abs,having set up; having made sure is present,√ṭhā 1 *āpe (stand),upa + ṭhape + tvā,,14
@@ -501,7 +501,7 @@ kamma + aniya",a adj,11
 karaṇīya 2,ptp,should be done; must be done; ought to be made; to be observed,"√kar 7 o (do, make)",√kar + aṇīya,a ptp,14
 karitvā 2,abs,having made,"√kar 7 o (do, make)",√kar + itvā,,8
 karuṇā,fem,compassion; sympathy; kindness (towards unfortunate beings),,,ā fem,7
-kareyya 1,opt,could do; would do; could make,"√kar 7 o (do, make)",√kar + eyya,karoti pr,7
+kareyya 2,opt,would make; could make,"√kar 7 o (do, make)",√kar + eyya,karoti pr,7
 karoti 1,pr,does; acts; performs,"√kar 7 o (do, make)",karo + ti,karoti pr,3
 karohi,imp,do!; make!,"√kar 7 o (do, make)",karo + hi,karoti pr,4
 kalyāṇa 1,adj,good; favourable; propitious; beneficial; lovely,,,aī adj,11
@@ -588,7 +588,7 @@ garu 5,masc,respect; honour,"√gar 1 a (esteem, be heavy)",√gar + u,u masc,6
 gavesanta,prp,seeking; searching (for); looking (for),"√gaves 1 a (seek, search)",gavesa + nta,anta prp,10
 gavesī 1,adj,seeking; searching for; looking for,"√gaves 1 a (seek, search)",√gaves + ī,ī adj,5
 gaha 2,nt,house,√gah 6 ṇhā (grasp),√gah + a,a nt,9
-gahetvā 1,abs,having taken; having grabbed hold (of); having seized,√gah 6 ṇhā (grasp),gahe + tvā,,8
+gahetvā 1,abs,having taken; having held,√gah 6 ṇhā (grasp),gahe + tvā,,8
 gahetvā 5,abs,having arrested; having taken prisoner,√gah 6 ṇhā (grasp),gahe + tvā,,8
 gaḷanta,prp,flowing; dripping; trickling; oozing,"√gal 1 a (drip, flow)",gaḷa + nta,anta prp,10
 gāthā 1,fem,verse; poem; stanza,√gā 3 ya (sing),√gā + thā,ā fem,7
@@ -691,11 +691,11 @@ tasmiṃ samaye,idiom,then; on that occasion; at that time,,,,10
 tasmiṃ 2,pron,when that,,ta + asmiṃ,ta pron,10
 tassa 3,pron,when he; when it,,ta + ssa,ta pron,10
 tassa 4,ind,therefore; thus; so; because of that; regarding that,,ta + ssa,,13
-taṃ kiṃ maññatha,idiom,,,,,9
+taṃ kiṃ maññatha,idiom,what do you think?,,,,9
 taṃ kiṃ maññasi,idiom,what do you think about that?; what's your opinion on this?,,,,9
 tārituṃ,inf,to cross; to cross over,√tar 1 a (cross),√tar > tār + *ituṃ,,9
 tāreti,pr,saves; rescues; helps across,√tar 1 *e (cross),tāre + ti,eti pr,14
-tāva 1,ind,that much; that far; as long as; to that extent; until; at least,,,,9
+tāva 1,ind,until then; that long,,,,9
 ti 1,card,three (3),,,ti card,12
 ti 2,ind,(end of direct speech) ' ',,iti > ti,,13
 tiṭṭhati 3,pr,remains; persists; lasts,√ṭhā 1 a (stand),tiṭṭha + ti,ati pr,3
@@ -731,7 +731,7 @@ dassī 2,adj,who sees; who knows; who perceives; who understands,√dis 1 a (see
 dava 1.1,masc,fun; joke; play; sport; pleasure,"√dū 1 a (go, run)",√dū > dav + *a,a masc,2
 dātar 1,masc,giver; donor; bestower (of),√dā 1 a (give),√dā + tar,ar masc,6
 dāna 1.1,nt,giving; offering; charity; generosity,√dā 1 a (give),√dā + ana,a nt,9
-dāna 1.2,nt,,√dā 1 a (give),√dā + ana,a nt,9
+dāna 1.2,nt,alms; gift,√dā 1 a (give),√dā + ana,a nt,9
 dāni,ind,now; immediately,,ima + dāni,,6
 dāra,masc,wife,,,a masc,2
 dārikā,fem,girl; daughter,,dāra + ikā,ā fem,7
@@ -788,7 +788,7 @@ dhamma 1.05,masc,mental states,"√dhar 1 a (hold, carry, endure)",√dhar + ma,
 dhamma 1.06,masc,matter; thing; phenomena,"√dhar 1 a (hold, carry, endure)",√dhar + ma,a masc,2
 dhamma 1.09,masc,law; case; rule; legal process,"√dhar 1 a (hold, carry, endure)",√dhar + ma,a masc,2
 dhamma 1.14,masc,act; practice,"√dhar 1 a (hold, carry, endure)",√dhar + ma,a masc,2
-dhammika 2,adj,righteous; just,"√dhar 1 a (hold, carry, endure)","√dhar + ma + ika
+dhammika 2,adj,righteous; just; moral,"√dhar 1 a (hold, carry, endure)","√dhar + ma + ika
 dhamma + ika",a adj,11
 dhammī 1,adj,righteous; religious; moral; related to the Dhamma,"√dhar 1 a (hold, carry, endure)","√dhar + ma + ī
 dhamma + ī",ī adj,5
@@ -977,7 +977,7 @@ parābhava,masc,ruin; downfall; disgrace,"√bhū 1 a (be, become)",parā + √b
 parāmāsā,ind,clinging; adhering; clutching,"√mas 1 a (touch, rub)","parā + √mas > mās + *a + ā
 parāmāsa + ā",,13
 parikassati 1.1,pr,is dragged about (by); is swept away (by); is carried away (by),"√kas 1 ya (drag, draw)",pari + kassa + ti,ati pr,13
-parikkhāra 1,masc,requisite; requirement; necessity; accessory; everyday item,"√kar 7 o (do, make)",pari + √kar > khār + *a,a masc,2
+parikkhāra 1,masc,requisite; requirement; necessity,"√kar 7 o (do, make)",pari + √kar > khār + *a,a masc,2
 paricarati 3,pr,enjoys; indulges; has sex with,"√car 1 a (move, walk)",pari + cara + ti,ati pr,3
 paricita 1,pp,practised; rehearsed; consolidated; familiarized,"√ci 5 nā (gather, accumulate)",pari + √ci + ta,a pp,11
 pariḍayhamāna,prp,being burnt (by); being tormented (by); being afflicted (by); being distressed (by),√ḍah 1 ya (burn),pari + ḍayha + māna,māna prp,13
@@ -1042,7 +1042,7 @@ pavaḍḍhati 1,pr,increases; develops; grows,"√vaḍḍh 1 a (grow, increase
 pavattar 1,masc,proclaimer (of); who tells about; who points out,"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
 pavana 1.1,nt,woodland; forest,,pa + vana,a nt,9
 pavāraṇā 2,fem,(vinaya) invitation ceremony at the end of the rains retreat,"√var 8 *e (wish, choose)",pa + vāre + anā,ā fem,7
-pavicaranta,prp,,"√car 1 a (move, walk)",pa + vi + cara + nta,anta prp,10
+pavicaranta,prp,examining; investigating; considering carefully; lit. moving around,"√car 1 a (move, walk)",pa + vi + cara + nta,anta prp,10
 pavisati,pr,enters; goes (into),√vis 1 a (enter),pa + visa + ti,ati pr,3
 pavivitta,pp,separated; secluded; detached (from),√vic 1 a (separate),pa + vi + √vic + ta,a pp,11
 pavuccati,pr,is called; is named; is said to be,"√vac 1 ya (say, speak)",pa + vucca + ti,ati pr,13
@@ -1069,7 +1069,7 @@ pamoda + *ya",a nt,9
 pāra 1.1,nt,far side; far shore; bank on the other side; epithet of Nibbāna,,para > pāra + *a,a nt,9
 pārājika 1,adj,(vinaya) defeated; deposed; disqualified; expelled,√ji 1 a (conquer),parā > pārā + √ji + *aka,a adj,11
 pārājika 3,nt,(vinaya) offence involving defeat; transgression requiring expulsion,√ji 1 a (conquer),parā > pārā + √ji + *aka,a nt,9
-pāripūrī,fem,,"√pūr 1 a (fill, fulfil)",pari + √pūr + ī,ī fem,8
+pāripūrī,fem,fulfilment; completion; perfecting; maturity,"√pūr 1 a (fill, fulfil)",pari + √pūr + ī,ī fem,8
 pārupetvā,abs,(of an outer garment) having wrapped oneself; having caused to be covered,"√var 1 *e (cover, dress, restrain)",pa + ā + rupe + tvā,,14
 pālicca,nt,hoariness; grey hair,,palita > pālita + *ya,a nt,9
 pāsāda,masc,mansion; stately home; palace; building with pillars,"√sad 1 a (sink, sit, settle)",pa + ā + √sad > sād + *a,a masc,2
@@ -1113,6 +1113,8 @@ phusati 1,pr,touches; contacts; feels; experiences,√phus 1 a (touch),phusa + t
 phussita 1,pp,flowering; in full blossom,√phus 1 ya (touch),phussa + ita,a pp,13
 bajjhati 1,pr,is bound (by); is tied up (by); is caught (by); is imprisoned (by),"√badh 1 ya (bind, tie)",bajjha + ti,ati pr,13
 bandhati 1,pr,binds; ties up; imprisons; confines,"√bandh 1 a (bind, tie)",bandha + ti,ati pr,3
+bandhuma,masc,name of Vipassī Buddha's father,"√bandh 1 a (bind, tie)","√bandh + u + mant + a
+bandhumant + a",a masc,2
 bala 1,nt,strength; power; might,"√bal 1 a (be strong, live)",√bal + a,a nt,9
 bala 2,nt,mental power; Dhamma strength,"√bal 1 a (be strong, live)",√bal + a,a nt,9
 balavant 1,adj,strong; powerful,"√bal 1 a (be strong, live)","√bal + a + vant
@@ -1145,7 +1147,7 @@ byākaraṇīya,ptp,should be answered; to be replied (to),"√kar 7 o (do, make
 byākarissati,fut,will explain; will define; will describe,"√kar 7 o (do, make)",vi > vy > by + ā + karissa + ti,oti pr,5
 byākāsi 1,aor,answered; replied,"√kar 7 o (do, make)",vi > vy > by + ā + √kar > kā + si,āsi aor,4
 byādhi,masc,sickness; disease; illness,"√dhā 1 a (place, support)",vi > vy > by + ā + √dhā + i,i masc,4
-byāpāda,masc,dislike; ill-will; hatred; hostility; enmity; malevolence,"√pad 3 ya (go, step)",vi > vy > by + ā + √pad > pād + *a,a masc,2
+byāpāda,masc,dislike; ill-will; hatred; hostility; enmity; malevolence (towards),"√pad 3 ya (go, step)",vi > vy > by + ā + √pad > pād + *a,a masc,2
 brāhmaṇa 1,masc,Brahman; priest; man of the Brahman caste,√brah 1 a (increase),"√brah > brāh + ma + *aṇa
 brahma + *aṇa",a masc,2
 brāhmaṇa 2,masc,arahant; awakened being; saint; paragon,√brah 1 a (increase),"√brah > brāh + ma + *aṇa
@@ -1159,7 +1161,7 @@ bhaññamāna 1,prp,being spoken; being told; being mentioned,"√bhaṇ 1 ya (t
 bhaṇati 1,pr,speaks; says; tells,"√bhaṇ 1 a (talk, speak)",bhaṇa + ti,ati pr,3
 bhatta 1.1,nt,food; boiled rice,"√bhaj 1 a (divide, distribute)",√bhaj + ta,a nt,11
 bhaya 3,nt,danger (of; from); peril (of; from),√bhī 1 a (fear),√bhī > bhay + *a,a nt,9
-bhayato,ind,,√bhī 1 a (fear),"√bhī > bhay + *a + to
+bhayato,ind,as dangerous; as fearful,√bhī 1 a (fear),"√bhī > bhay + *a + to
 bhaya + to",,11
 bhava 2,masc,being; becoming; existence,"√bhū 1 a (be, become)",√bhū > bhav + *a,a masc,2
 bhava 3,masc,state of existence; form of becoming,"√bhū 1 a (be, become)",√bhū > bhav + *a,a masc,2
@@ -1210,6 +1212,7 @@ mattaññū,adj,knowing the correct measure (in); knowing the limit (in); modera
 mattikā,fem,clay; earth,"√madd 1 a (crush, grind)",√madd > matt + ikā,ā fem,7
 mada 1,masc,excess; pleasure; indulgence,"√mad 3 ya (be mad, intoxicated)",√mad + a,a masc,2
 manāpa 1,adj,pleasant; likeable; attractive; agreeable,,,a adj,11
+manāpa 2,nt,something pleasant; something nice,,,a nt,9
 manussa,masc,human being; man; person,,manu + ssa,a masc,2
 maraṇa,nt,death; dying,√mar 1 a (die),√mar + aṇa,a nt,9
 mahanta 1,adj,big; great; large; grand; vast; extensive,√mah 1 a (increase),maha + nta,anta adj,11
@@ -1244,7 +1247,7 @@ moggallāna 1,masc,name of a monk; chief disciple; great disciple of the Buddha;
 moha 1,masc,illusion; delusion; hallucination,"√muh 3 ya (be deluded, confused)",√muh > moh + *a,a masc,2
 yakkhī,fem,female supernatural being; female spirit; daemoness,√yakkh 8 *e (worship),"√yakkh + a + ī
 yakkha + ī",ī fem,8
-yato 2,ind,since; because; due to the fact that,,ya + to,,8
+yato 2,ind,since; because; due to the fact that; on account of which,,ya + to,,8
 yattha,ind,wherever; where; when; in which,,ya + ttha,,8
 yattha tattha,idiom,where … there,,,,9
 yathā 1,ind,like; as; as per; according to; how; in whatever way,,ya + thā,,13
@@ -1291,7 +1294,7 @@ labhati 1,pr,gets; receives; obtains,√labh 1 a (get),labha + ti,ati pr,3
 loka 1,masc,world; universe; cosmos,√lok 8 *e (look),√lok + a,a masc,2
 loka 2,masc,world; plane of existence,√lok 8 *e (look),√lok + a,a masc,2
 lokavidū,masc,who knows the world; who understands the universe; epithet of the Buddha,,loka + vidū,ū masc,6
-loṇa 1,adj,salty,,,a adj,11
+loṇa 2,nt,sea-salt; brine,,,a nt,9
 loma 1,masc,body hair,,,a masc,2
 lohita 1,nt,blood,,,a nt,9
 saka 1,adj,one's own; my own,,sa + ka,a adj,11
@@ -1349,7 +1352,7 @@ santike 1,ind,to; in the presence (of); near (to); nearby; close (to); on the ve
 santika + e",,13
 santuṭṭha 1,pp,satisfied; pleased; content; happy with,"√tus 3 ya (be content, pleased)",saṃ + √tus + ta,a pp,11
 santhata 1,nt,spread; bedspread; coverlet; counterpane,"√thar 1 a (spread, expand)",saṃ + √thar + ta,a nt,9
-sandassiyamāna 1,prp,being compared; being checked; being verified,√dis 1 iya (see),saṃ + dassiya + māna,māna prp,13
+sandassiyamāna 1,prp,being compared; being checked; being verified,√dis 1 *e + iya (see),saṃ + dassiya + māna,māna prp,13
 sandassetabba,ptp,should be compared (to); should be checked (with); should be verified (with),√dis 1 *e (see),saṃ + dasse + tabba,a ptp,14
 sandassetvā,abs,having instructed; having explained,√dis 1 *e (see),saṃ + dasse + tvā,,14
 sandiṭṭhika,adj,directly visible; evident; real; perceivable; (comm) able to be seen by oneself,√dis 1 a (see),"saṃ + √dis + ti + ka
@@ -1380,7 +1383,7 @@ samanuyuñjiyamāna,prp,being cross-questioned (by); being cross-examined (by),"
 samannāgata,pp,possessing; endowed (with); having,√gam 1 a (go),saṃ + anu > ann + ā + √gam + ta,a pp,11
 samaya 1.1,masc,time; occasion,"√i 1 a (come, go)",saṃ + √i > ay + *a,a masc,2
 samaṃ 2,ind,in a similar manner; similarly likewise,,sama + aṃ,,13
-samācare,opt,,"√car 1 a (act, behave)",saṃ + ā + cara + e,ati pr,7
+samācare,opt,could behave; would act; could conduct oneself,"√car 1 a (act, behave)",saṃ + ā + cara + e,ati pr,7
 samācāra,masc,conduct; behaviour; activity,"√car 1 a (act, behave)",saṃ + ā + √car > cār + *a,a masc,2
 samādapeti,pr,arouses; incites; instigates; encourages,"√ādā 3 *āpe (take, seize)",saṃ + ādape + ti,eti pr,14
 samādapetvā,abs,having aroused; having encouraged,"√ādā 3 *āpe (take, seize)",saṃ + ādape + tvā,,14
@@ -1407,7 +1410,7 @@ sampajāna 1,adj,clearly aware; fully knowing; completely comprehending,√ñā 
 sampasāriyati,pr,is drawn forward; is inclined towards,"√sar 1 *e + iya (go, flow)",saṃ + pa + sāriya + ti,ati pr,14
 sampassamāna,prp,seeing; observing; considering,√dis 1 a (see),saṃ + passa + māna,māna prp,10
 sampahaṃsetvā,abs,having delighted; having pleased; having thrilled,"√haṃs 1 *e (rise, elate)",saṃ + pa + haṃse + tvā,,14
-sampādetuṃ,inf,,"√pad 3 *e (go, step)",saṃ + pāde + tuṃ,,14
+sampādetuṃ,inf,to press on; to cause to rich; to strive to achieve,"√pad 3 *e (go, step)",saṃ + pāde + tuṃ,,14
 sambuddha 1,masc,Awakened One; Buddha; who is wide awake; who has completely understood,"√budh 3 ya (know, wake up)",saṃ + √budh + ta,a masc,11
 sambodha,masc,full awakening; perfect understanding; enlightenment,"√budh 3 ya (know, wake up)",saṃ + √budh > bodh + *a,a masc,2
 sambhava 1,masc,birth; origin; source (of),"√bhū 1 a (be, become)",saṃ + √bhū > bhav + *a,a masc,2
@@ -1473,7 +1476,7 @@ sāvatthī,fem,name of a city; capital of Kosala,√su 1 a (flow),"√su > sāv 
 sāvattha + ī",ī fem,8
 sāhāra 1,adj,with fuel; with nutriment; with sustenance,"√har 1 a (take, seize)",sa + ā + √har > hār + *a,a adj,11
 sikkhati 2,pr,trains (in); trains (for the purpose of); practices (for the sake of); practice (to),"√sikkh 1 a (learn, train)",sikkha + ti,ati pr,3
-sikkhā 2,fem,training (in); practice (in),"√sikkh 1 a (learn, train)",√sikkh + ā,ā fem,7
+sikkhā 1,fem,training (in); practice (in),"√sikkh 1 a (learn, train)",√sikkh + ā,ā fem,7
 sikkhitabba,ptp,should be learned (by); should be practised (by); should be trained (by),"√sikkh 1 a (learn, train)",√sikkh + itabba,a ptp,14
 siñcati 1,pr,waters; pours; sprinkles; scatters,"√sic 2 ṃa (sprinkle, pour)",siñca + ti,ati pr,3
 siñcāpeti,pr,causes to water; causes to pour; makes sprinkle; causes to scatter,"√sic 2 ṃa + *āpe (sprinkle, pour)",siñcāpe + ti,eti pr,14
@@ -1502,7 +1505,6 @@ sukhuma 1,adj,fine; subtle; refined,,,a adj,11
 sugata 2,masc,Accomplished One; Fortunate One; epithet of the Buddha,√gam 1 a (go),su + √gam + ta,a masc,2
 sugati,fem,good destination; happy fate,√gam 1 a (go),su + √gam + ti,i fem,8
 suggati,fem,state of happiness; good destination; heaven,√gam 1 a (go),su + √gam + ti,i fem,8
-suñña 2,adj,empty; uninhabited,,,a adj,11
 suññato,ind,as empty; as void; as essenceless,,suñña + to,,11
 suṇāti 1,pr,hears,√su 4 ṇā (hear),suṇā + ti,āti pr,3
 suṇātu,imp,one must listen!; it must hear!,√su 4 ṇā (hear),suṇā + tu,āti pr,4
@@ -1513,7 +1515,7 @@ suduttara,adj,extremely difficult to cross; very hard to escape,√tar 1 a (cros
 sudesita,adj,well preached; well taught; well explained; well instructed,"√dis 1 *e (point out, explain)",su + dese + ita,a adj,14
 sunakkhatta 2,masc,name of a former monk,"√nakkh 1 a (attain, arrive)","su + √nakkh + a + tta
 su + nakkha + tta",a masc,2
-supatiṭṭhita 1,adj,,√ṭhā 1 a (stand),su + pati + √ṭhā + ita,a adj,11
+supatiṭṭhita 1,adj,well placed; well established,√ṭhā 1 a (stand),su + pati + √ṭhā + ita,a adj,11
 supita,nt,sleep,"√sup 1 a (lie down, sleep)",√sup + ita,a nt,11
 subhāsita 1,adj,well spoken; articulate; eloquent,√bhās 1 a (speak),su + √bhās + ita,a adj,11
 sumedha 1,adj,wise; sage,√medh 1 a (be wise),"su + √medh + ā + a
@@ -1525,7 +1527,7 @@ susamāraddha,adj,resolutely undertaken; fully engaged with; energetically taken
 suvaca,adj,easy to instruct; obedient; compliant,"√vac 1 a (say, speak)",su + √vac + a,a adj,11
 suvisuddha,adj,well cleansed; perfectly purified; completely pure,√sudh 3 ya (be pure),su + vi + √sudh + ta,a adj,11
 suve,ind,tomorrow,,,,6
-suhuju,adj,,√uj 1 a (be straight),su + [h] + √uj + u,u adj,11
+suhuju,adj,very straight; very upright,√uj 1 a (be straight),su + [h] + √uj + u,u adj,11
 sekkha,masc,trainee; apprentice; learner; (comm) seven stages of a noble person before arahantship,"√sikkh 1 a (learn, train)",√sikkh > sekkh + *a,a masc,2
 sekha,masc,trainee; apprentice; learner; initiate; (comm) seven stages of a noble person before arahantship,"√sikkh 1 a (learn, train)",√sikkh > sekh + *a,a masc,2
 sekhiya 1,ptp,related to training; to be practised,"√sikkh 1 a (learn, train)",√sikkh > sekh + *iya,a ptp,14
@@ -1554,7 +1556,7 @@ va 1.1,ind,like; as,,iva > (i)va > va,,13
 vacanīya 2,ptp,should be spoken (to); should be told (to); should be said (to),"√vac 1 a (say, speak)",√vac + anīya,a ptp,14
 vaccha 1.1,masc,calf; yearling; young animal,,,a masc,2
 vajja 2.1,nt,fault (of); error (of); mistake (of),"√vajj 8 *e (turn, avoid)",√vajj + ya > vajja,a nt,14
-vajjavant,adj,,"√vajj 8 *e (turn, avoid)",√vajj + ya + vant,ant adj,6
+vajjavant,adj,sinful; with faults; with mistakes,"√vajj 8 *e (turn, avoid)",√vajj + ya + vant,ant adj,6
 vaḍḍhati,pr,increases (in); grows (in); develops (in),"√vaḍḍh 1 a (grow, increase)",vaḍḍha + ti,ati pr,3
 vata 1.2,ind,certainly; surely; indeed,,,,13
 vatta 1.1,nt,custom; practice; way of life; behaviour,"√vatt 1 a (be, proceed)",√vatt + a,a nt,9
@@ -1563,7 +1565,7 @@ vattha 1.1,nt,cloth; clothes; robe,"√vas 8 *e (wear, dress)",√vas + ta,a nt,
 vatthi 1,fem,bladder; urinary tract,,,i fem,8
 vatthu 2,nt,site; location; base; grounds,√vas 1 a (live),√vas + tu,u nt,9
 vadati 1,pr,says (to); speaks (to); tells (to),"√vad 1 a (say, speak)",vada + ti,ati pr,3
-vadeyya,opt,,"√vad 1 a (say, speak)",vada + eyya,ati pr,7
+vadeyya,opt,should say; could speak,"√vad 1 a (say, speak)",vada + eyya,ati pr,7
 vanatha 2.1,masc,desire; craving,"√van 7 o (like, desire)","√van + a + tha
 vana + tha",a masc,2
 vanta 1,pp,vomited,"√vam 1 a (eject, vomit)",√vam + ta,a pp east,11
