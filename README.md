@@ -10,7 +10,7 @@ These materials are provided for the benefit, welfare, and happiness of many peo
 
 <!-- - [SBS Pāḷi-English Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html) -->
 
-- [Pāḷi-Russian Dictionary](https://sasanarakkha.github.io/study-tools/dict/ru-pali-dictionary.html)
+- [Pāḷi-Russian Dictionary](https://digitalpalidictionary.github.io/rus/)
 
 <!-- - [Devamitta Pāḷi Study](https://sasanarakkha.github.io/study-tools/dict/dps.html) -->
 
