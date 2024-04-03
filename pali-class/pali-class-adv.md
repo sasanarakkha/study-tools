@@ -84,6 +84,8 @@ Can be found in the class folder on the server:
 
 `\\FILESRV1\share1\Sharing between users\13 For Pāli class\Extra Reading\`
 
+Draft of the [class material](https://docs.google.com/document/d/1QMX_yuH9uJeTEfg3ItetlI5RVsPGlj0Q1XUstHXRLZo/).
+
 ---
 
 - [Key to Exercises 30 - 39](https://docs.google.com/document/d/1VoFPr2jqJbQEQgT_UbuhxpzHM_H_mqX3BCy3vMdqiUc/)
