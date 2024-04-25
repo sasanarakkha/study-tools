@@ -14,12 +14,12 @@ abhivaḍḍhati,pr,increases more and more; surpasses; outgrows,"√vaḍḍh 1
 uddisati 1,pr,recites; chants,"√dis 1 a (point out, explain)",ud + disa + ti,ati pr,3
 uddesa 1,masc,proposition; synopsis; statement in brief; summary; introduction,"√dis 1 a (point out, explain)",ud + √dis > des + *a,a masc,2
 upajjhāya,masc,preceptor; teacher; mentor,"√i 1 a (study, recite)",upa + adhi > adhy > ajjh + √i > āy + *a,a masc,2
-upasama 1,masc,calmness (of); tranquillisation (of); stillness (of); peace (of),"√sam 3 ya (be calm, tired)",upa + √sam + a,a masc,2
-upāyāsa,masc,affliction; difficulty; trouble; despair,"√yas 3 ya (strive, struggle)",upa + ā + √yas > yās + *a,a masc,2
+upasama 1,masc,calmness (of); tranquillisation (of); stillness (of); peace (of),"√sam 3 ya (be calm, be tired)",upa + √sam + a,a masc,2
+upāyāsa 1,masc,affliction; difficulty; trouble; despair,"√yas 3 ya (strive, struggle)",upa + ā + √yas > yās + *a,a masc,2
 upāsaka,masc,lay disciple; lay devotee,√ās 1 a (sit),upa + √ās + aka,a masc,2
 uposatha 1,masc,full moon or new moon observance day,√vas 1 a (live),"upa + √vas + a + tha
 up<b>ava</b>sa > up<b>o</b>sa + tha",a masc,2
-uppajjati 1,pr,appears; arises; takes place,"√pad 3 ya (go, step)",ud + pajja + ti,ati pr,3
+uppajjati 1,pr,appears; arises; occurs; takes place,"√pad 3 ya (go, step)",ud + pajja + ti,ati pr,3
 uppāda 1.1,masc,arising (of); appearance (of); coming into being (of),"√pad 3 ya (go, step)",ud + √pad > pād + *a,a masc,2
 karoti 1,pr,does; acts; performs,"√kar 7 o (do, make)",karo + ti,karoti pr,3
 kassapa 1,masc,name of the 1st previous Buddha,,,a masc,2
@@ -62,7 +62,7 @@ pajahati,pr,gives up; abandons; lets go (of),√hā 1 a (abandon),pa + jaha + ti
 paṭiggaṇhāti 1,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gaṇhā + ti,āti pr,3
 paṭiggaheti,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gahe + ti,eti pr,3
 paṭinissagga,masc,giving up (of); relinquishing (of); dropping (of); abandoning (of),"√sajj 1 a (relinquish, let loose)",pati + nī + √sajj > sagg + a,a masc,2
-paṭibhāti,pr,comes to mind; occurs (to),"√bhā 1 a (shine, speak)",pati + bhā + ti,āti pr,3
+paṭibhāti,pr,comes to mind; occurs (to); inspires (someone to),"√bhā 1 a (shine, speak)",pati + bhā + ti,āti pr,3
 paṭilabhati 1,pr,obtains; gets; receives; personally experiences,√labh 1 a (get),pati + labha + ti,ati pr,3
 paṭisaṃvedeti,pr,personally experiences; undergoes; feels,"√vid 8 *e (know, sense, feel)",pati + saṃ + vede + ti,eti pr,3
 paṭisevati 2,pr,uses; makes use (of),"√sev 1 a (serve, associate)",pati + seva + ti,ati pr,3
@@ -77,7 +77,7 @@ pātimokkha 2,masc,(vinaya) precepts for Buddhist monastics,√mokkh 1 a (be fre
 pāda 1,masc,foot,"√pad 3 ya (go, step)",√pad > pād + *a,a masc,2
 pāpuṇāti 1,pr,reaches; arrives (at); comes (to),"√ap 4 uṇā (reach, attain)",pa + apuṇā + ti,āti pr,3
 puggala,masc,person; individual,,,a masc,2
-pucchati,pr,asks; enquires; questions,"√pucch 1 a (ask, question)",puccha + ti,ati pr,3
+pucchati,pr,asks; enquires; questions (somebody about something),"√pucch 1 a (ask, question)",puccha + ti,ati pr,3
 putta 1,masc,son; child,,,a masc,2
 phassa 1,masc,contact; sense impingement; raw experience; touch,√phus 1 a (touch),√phus > phass + a,a masc,2
 bāla 2,masc,fool; idiot; immature person,,,a masc east,2
@@ -92,7 +92,7 @@ bheda 1,masc,death,"√bhid 2 ṃa (break, split)",√bhid > bhed + *a,a masc,2
 manussa,masc,human being; man; person,,manu + ssa,a masc,2
 māṇava 1,masc,young man; young gentleman; young Brahman,,manu > māṇav + *a,a masc,2
 māra,masc,death; Death; death personified,√mar 1 a (die),√mar > mār + *a,a masc,2
-moha 1,masc,illusion; delusion; hallucination,"√muh 3 ya (be deluded, confused)",√muh > moh + *a,a masc,2
+moha 1,masc,illusion; delusion; hallucination,"√muh 3 ya (be deluded, be confused)",√muh > moh + *a,a masc,2
 rasa 1,masc,taste; flavour,√ras 1 a (taste),√ras + a,a masc,2
 rukkha 1,masc,tree,,,a masc,2
 labhati 1,pr,gets; receives; obtains,√labh 1 a (get),labha + ti,ati pr,3
@@ -103,7 +103,7 @@ saṅkhāra 3,masc,mental formation; mental activity; thought processes; fourth 
 saṅgha 1,masc,community; fellowship; monastic order,√ghaṭ 1 a (join together),saṃ + √ghaṭ + a,a masc,2
 samaṇa 1,masc,ascetic; renunciant; holy man; monk; recluse,"√sam 3 ya (exert, strive)",√sam + aṇa,a masc,2
 samatikkama,masc,surpassing (of); overcoming (of); going beyond; transcendence,√kam 1 a (go),saṃ + ati + √kam + a,a masc,2
-samatha 1.1,masc,stilling (of); serenity (of); calming (of); settling (of); peace (of); (comm) mental unification,"√sam 3 ya (be calm, tired)","√sam + a + tha
+samatha 1.1,masc,stilling (of); serenity (of); calming (of); settling (of); peace (of); (comm) mental unification,"√sam 3 ya (be calm, be tired)","√sam + a + tha
 sama + tha",a masc,2
 samaya 1.1,masc,time; occasion,"√i 1 a (come, go)",saṃ + √i > ay + *a,a masc,2
 sambodha,masc,full awakening; perfect understanding; enlightenment,"√budh 3 ya (know, wake up)",saṃ + √budh > bodh + *a,a masc,2
@@ -113,7 +113,7 @@ sāvaka,masc,disciple; pupil; follower,√su 4 ṇā (hear),√su > sāv + *aka,
 sīha 1,masc,lion,,,a masc,2
 sugata 2,masc,Accomplished One; Fortunate One; epithet of the Buddha,√gam 1 a (go),su + √gam + ta,a masc,2
 suṇāti 1,pr,hears,√su 4 ṇā (hear),suṇā + ti,āti pr,3
-sekha,masc,trainee; apprentice; learner; initiate; (comm) seven stages of a noble person before arahantship,"√sikkh 1 a (learn, train)",√sikkh > sekh + *a,a masc,2
+sekha 1,masc,trainee; apprentice; learner; initiate; (comm) seven stages of a noble person before arahantship,"√sikkh 1 a (learn, train)",√sikkh > sekh + *a,a masc,2
 soka,masc,grief; sorrow; sadness (over),√suc 1 *a (grieve),√suc > suk > sok + *a,a masc,2
 vadati 1,pr,says (to); speaks (to); tells (to),"√vad 1 a (say, speak)",vada + ti,ati pr,3
 vassa 2,masc,rainy season; monsoon,√vass 1 a (rain),√vass + a,a masc,2
@@ -126,7 +126,7 @@ virāga 2.1,masc,fading (of); disappearance (of); cessation (of); destruction (o
 visesa 1,masc,distinction; attainment; superior state; eminence,"√sis 8 *e (remain, distinguish)",vi + √sis > ses + *a,a masc,2
 viveka 1,masc,seclusion; solitude; detachment; disengagement; independence,√vic 1 a (separate),vi + √vic > vec > vek + *a,a masc,2
 viharati 1,pr,lives (in); dwells (in); stays (in),√har 1 a (live),vi + hara + ti,ati pr,3
-vūpasama 1,masc,peace (of); calming (of); subsiding (of); settling (of),"√sam 3 ya (be calm, tired)",vi + upa + √sam + a,a masc,2
+vūpasama 1,masc,peace (of); calming (of); subsiding (of); settling (of),"√sam 3 ya (be calm, be tired)",vi + upa + √sam + a,a masc,2
 hattha 1,masc,hand,,,a masc,2
 adhigama 2,masc,attainment (of); achievement (of),√gam 1 a (go),adhi + √gam + a,a masc,2
 ābādha 2,masc,affliction; oppression; suffering,"√bādh 1 a (press, oppress)",ā + √bādh + a,a masc,2
