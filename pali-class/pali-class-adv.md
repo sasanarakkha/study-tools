@@ -94,5 +94,9 @@ Draft of the [class material](https://docs.google.com/document/d/1QMX_yuH9uJeTEf
 
 - [Key to idioms and difficult passages](https://docs.google.com/document/d/18IBPFP0zs3ngEV-Ps5MmiGwaFtuz_2r3AqsZBlksPIQ/)
 
+---
+
+Feel free to [contact us](mailto:studytools@sasanarakkha.org) if you need any assistance.
+
 
 

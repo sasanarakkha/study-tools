@@ -70,9 +70,11 @@ It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/
 
 ----
 
-All these materials can be found on the SBS file server:
+Videos of the class are available and can be found on the SBS file server.
 
 `\\FILESRV1\share1\Sharing between users\13 For Pāli class`
+
+Feel free to [contact us](mailto:studytools@sasanarakkha.org) if you need any assistance.
 
 ----
 
