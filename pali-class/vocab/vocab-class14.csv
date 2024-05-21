@@ -152,7 +152,7 @@ aparitassanta,prp,being unperturbed; being unshaken,√tas 3 ya (be agitated),na
 aparimāṇa,adj,measureless; boundless,√mā 5 nā (measure),na > a + pari + √mā + aṇa,a adj,11
 aparimita,pp,immeasurable; limitless,√mā 5 nā (measure),na > a + pari + √mā > mi + ta,a pp,11
 apariyādinna 1,pp,not used up; not exhausted; not consumed; not run out,"√ādā 3 ya (take, seize)",na > a + pari + [y] + √ādā > ādī + na,a pp,11
-aparihāna,nt,not deteriorating; not decreasing; non-declining; non-regressing,√hā 3 ya (decrease),na > a + pari + √hā + ana,a nt,9
+aparihāna,nt,not deteriorating; not decreasing; non-declining; non-regressing (of),√hā 3 ya (decrease),na > a + pari + √hā + ana,a nt,9
 apassanta,prp,not seeing; not noticing; not aware,√dis 1 a (see),na > a + passa + nta,anta prp,10
 apāya 1,masc,state of loss; state of misery,"√i 1 a (come, go)",apa + √i > ay + *a,a masc,2
 api nu,idiom,is?; did?; are?; who?; what?; how?; would?,,,,9
@@ -541,7 +541,7 @@ khāyita 2,nt,eating; chewing,√khād 1 a (chew),√khād > khāy + ita,a nt,11
 khipi 1.1,aor,threw; tossed; hurled,√khip 1 a (throw),√khip + i,i aor,4
 khīṇa 1,pp,consumed; spent; finished; exhausted; slowly destroyed,"√khī 1 a (exhaust, destroy)",√khī + na,a pp,11
 khudda,adj,small; minute; tiny,,,a adj,11
-khuddā 1,fem,hunger,√khud 1 a (be hungry),√khud + yā,ā fem,7
+khuddā 1.1,fem,hunger,√khud 1 a (be hungry),√khud + yā,ā fem,7
 khema 1,adj,well; safe; secure; at peace; at rest,"√khi 1 a (live, abide peacefully)",√khi > khe + *ma,a adj,11
 khemī,adj,at peace; safe; secure,"√khi 1 a (live, abide peacefully)","√khi > khe + *ma + ī
 khema + ī",ī adj,5
@@ -698,7 +698,7 @@ dakkhiṇa 1,adj,right (hand side),"√dakkh 1 a (be able, please)",√dakkh + i
 dakkhiṇā 1,fem,gift; donation,"√dakkh 1 a (be able, please)",√dakkh + iṇā,ā fem,7
 daṭṭhabba 1,ptp,should be seen; should be regarded as; should be understood,√dis 1 a (see),dassa + tabba,a ptp,14
 daṇḍa 1,masc,stick; truncheon; nightstick; club,,,a masc,2
-dadāti,pr,gives (to); offers (to); donates (to),√dā 1 a (give),dadā + ti,āti pr,3
+dadāti,pr,gives; offers; donates; grants (something to someone),√dā 1 a (give),dadā + ti,āti pr,3
 danta 1.1,masc,tooth,,,a masc,2
 dasa 1.1,card,ten (10),,,a1 card,12
 dasama 1,ordin,tenth (10th),,dasa + ma,aī ordin,12
@@ -706,7 +706,7 @@ dassanāya 2,nt,in order to visit; for the purpose of seeing,√dis 1 a (see),"d
 dassana + āya",a nt,9
 dassī 2,adj,who sees; who knows; who perceives; who understands,√dis 1 a (see),dassa + ī,ī adj,5
 dava 1.1,masc,fun; joke; play; sport; pleasure,"√dū 1 a (go, run)",√dū > dav + *a,a masc,2
-dātar 1,masc,giver; donor; bestower (of),√dā 1 a (give),√dā + tar,ar masc,6
+dātar 1,masc,giver; donor,√dā 1 a (give),√dā + tar,ar masc,6
 dāna 1.1,nt,giving; offering; charity; generosity,√dā 1 a (give),√dā + ana,a nt,9
 dāna 1.2,nt,alms; almsfood,√dā 1 a (give),√dā + ana,a nt,9
 dāni,ind,now; immediately,,ima + dāni,,6
@@ -829,7 +829,7 @@ nirodha,masc,ending (of); cessation (of); termination (of); finishing (of),√ru
 nisajja,ger,sitting down,"√sad 1 a (sink, sit, settle)",ni + √sad + ya,,8
 nisajjā 1,fem,sitting; sitting down,"√sad 1 a (sink, sit, settle)","ni + √sad + ya + ā
 nisajja + ā",ā fem,7
-nisinna 1,pp,seated,"√sad 1 a (sink, sit, settle)",ni + sīda + na,a pp,11
+nisinna 1,pp,seated (in),"√sad 1 a (sink, sit, settle)",ni + sīda + na,a pp,11
 nisīdati,pr,sits (on); sits down (in),"√sad 1 a (sink, sit, settle)",ni + sīda + ti,ati pr,3
 nisīdi,aor,sat (on); sat down (in),"√sad 1 a (sink, sit, settle)",ni + sīda + i,i aor isuṃ,4
 nissaggiya 1,ptp,involving relinquishment; to be given up; to be forfeited,"√sajj 1 a (relinquish, let loose)",nī + √sajj > sagg + iya,a ptp,14
@@ -1007,7 +1007,7 @@ passasissati,fut,will exhale; will breathe out,√sas 1 a (breath),pa + sasissa 
 passāva,masc,urine,√su 1 a (flow),pa + √su > sāv + *a,a masc,2
 passeyya 1,opt,could see; would see,√dis 1 a (see),passa + eyya,ati pr,7
 pavaḍḍhati 1,pr,increases; develops; grows,"√vaḍḍh 1 a (grow, increase)",pa + vaḍḍha + ti,ati pr,3
-pavattar 1,masc,proclaimer (of); who tells about; who points out,"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
+pavattar 1,masc,proclaimer; propagator; disseminator (of),"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
 pavana 1.1,nt,woodland; forest,,pa + vana,a nt,9
 pavāraṇā 2,fem,(vinaya) invitation ceremony at the end of the rains retreat,"√var 8 *e (wish, choose)",pa + vāre + anā,ā fem,7
 pavicaranta,prp,examining; investigating; considering carefully,"√car 1 a (move, walk)",pa + vi + cara + nta,anta prp,10
@@ -1068,7 +1068,7 @@ pecca,ind,after death,"√i 1 a (come, go)",pa + √i > e + *tya,,13
 petī,fem,female ghost; female spirit,"√i 1 a (come, go)","pa + e + ta + ī
 peta + ī",ī fem,8
 pesala,adj,well-behaved; good; honest,,,a adj,11
-pessaka,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
+pessaka 1,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
 pessa + ka",a masc,2
 pharitvā 1,abs,having suffused; having pervaded; having filled,"√phar 1 a (suffuse, pervade)",√phar + itvā,,8
 phassa 1,masc,contact; sense impingement; raw experience; touch,√phus 1 a (touch),√phus > phass + a,a masc,2
@@ -1227,7 +1227,7 @@ yāgu,fem,rice gruel; congee,,,u fem,8
 yācati 1,pr,asks; requests; begs (someone for something),√yāc 1 a (beg),yāca + ti,ati pr,3
 yāpetuṃ,inf,to sustain oneself (with); to support oneself (by); to keep oneself going,√yā 1 *āpe (go),yāpe + tuṃ,,14
 yāma 1,masc,watch (of the night); one eighth of the day; about three hours,"√yam 1 a (control, strive, end)",√yam > yām + *a,a masc,2
-yāva tāva,idiom,as long as … then,,,,9
+yāva tāva,idiom,as long as … then; as far as ... that much; until ... to that extent,,,,9
 yāva 1,ind,as long as; as far as; so much so; up to; until; from … to,,,,9
 yāvataka,adj,as much as; as long as; as big as; as far as,,"yāva + tā + ka
 yāvatā + ka",a adj,11
@@ -1256,7 +1256,7 @@ rūpa 3,nt,(object of the eye) form; material form; shape; sight,"√rūp 8 *e (
 rogato,ind,as disease; as illness,"√ruj 1 a (hurt, be painful)","√ruj > rog + *a + to
 roga + to",,11
 laddha 1,pp,obtained; gained; won; received,√labh 1 a (get),√labh > ladh + ta,a pp,11
-labhati 1,pr,gets; receives; obtains,√labh 1 a (get),labha + ti,ati pr,3
+labhati 1,pr,gets; receives; obtains (something for someone),√labh 1 a (get),labha + ti,ati pr,3
 loka 1,masc,world; universe; cosmos,√lok 8 *e (look),√lok + a,a masc,2
 loka 2,masc,world; plane of existence,√lok 8 *e (look),√lok + a,a masc,2
 lokavidū,masc,who knows the world; who understands the universe; epithet of the Buddha,,loka + vidū,ū masc,6
@@ -1339,8 +1339,8 @@ samanugāhiyamāna,prp,being closely questioned (by); being interrogated (by); b
 samanupassati 2,pr,regards; considers; recognises (as); sees (as),√dis 1 a (see),saṃ + anu + passa + ti,ati pr,3
 samanupassanta,prp,seeing; perceiving,√dis 1 a (see),saṃ + anu + passa + nta,anta prp,10
 samanupassituṃ,inf,to see (as); to regard (as); to consider (as),√dis 1 a (see),saṃ + anu + passa + ituṃ,,9
-samanubhāsiyamāna,prp,being admonished (by); being sternly advised (by),√bhās 1 iya (speak),saṃ + anu + bhāsiya + māna,māna prp,13
-samanuyuñjiyamāna,prp,being cross-questioned (by); being cross-examined (by),"√yuj 2 ṃa + iya (yoke, join)",saṃ + anu + yuñjiya + māna,māna prp,13
+samanubhāsiyamāna,prp,being admonished; being sternly advised (by someone about something),√bhās 1 iya (speak),saṃ + anu + bhāsiya + māna,māna prp,13
+samanuyuñjiyamāna,prp,being cross-questioned; being cross-examined (by someone about something),"√yuj 2 ṃa + iya (yoke, join)",saṃ + anu + yuñjiya + māna,māna prp,13
 samannāgata,pp,possessing; endowed (with); having,√gam 1 a (go),saṃ + anu > ann + ā + √gam + ta,a pp,11
 samaya 1.1,masc,time; occasion,"√i 1 a (come, go)",saṃ + √i > ay + *a,a masc,2
 samaṃ 2,ind,in a similar manner; similarly likewise,,sama + aṃ,,13

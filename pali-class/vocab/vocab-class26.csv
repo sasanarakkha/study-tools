@@ -263,6 +263,7 @@ anivesana,adj,without attaching; not clinging; without resting,√vis 1 a (enter
 anīgha 1,adj,untroubled; undisturbed; calm,,na > an + īgha,a adj,11
 anukampī,adj,compassionate; sympathetic; concerned (for),"√kamp 1 a (shake, tremble)",anu + √kamp + ī,ī adj,5
 anuggaha 2.1,masc,support; help; assistance,√gah 6 ṇhā (grasp),anu + √gah + a,a masc,2
+sāsanārakkha,masc,guardian of the Buddha's teaching; protector of the message,,sāsana + ārakkha,a masc,19
 anuṭṭhita 1.1,pp,practised; established; (comm) repeatedly practised,√ṭhā 1 a (stand),anu + √ṭhā + ita,a pp,11
 anuttara,adj,highest (of); unsurpassed (by); incomparable (to); superior (to),,na > an + ud + tara,a adj,11
 anudhāvati 1,pr,runs along; sprints along,"√dhāv 1 a (run, flow)",anu + dhāva + ti,ati pr,3
@@ -362,7 +363,7 @@ aparipūra,adj,incomplete (in); deficient (in); lacking (in); unfulfilled (in),"
 aparimāṇa,adj,measureless; boundless,√mā 5 nā (measure),na > a + pari + √mā + aṇa,a adj,11
 aparimita,pp,immeasurable; limitless,√mā 5 nā (measure),na > a + pari + √mā > mi + ta,a pp,11
 apariyādinna 1,pp,not used up; not exhausted; not consumed; not run out,"√ādā 3 ya (take, seize)",na > a + pari + [y] + √ādā > ādī + na,a pp,11
-aparihāna,nt,not deteriorating; not decreasing; non-declining; non-regressing,√hā 3 ya (decrease),na > a + pari + √hā + ana,a nt,9
+aparihāna,nt,not deteriorating; not decreasing; non-declining; non-regressing (of),√hā 3 ya (decrease),na > a + pari + √hā + ana,a nt,9
 apasādeti,pr,disparages; belittles; puts down,"√sad 1 *e (sink, sit, settle)",apa + sāde + ti,eti pr,14
 apassanta,prp,not seeing; not noticing; not aware,√dis 1 a (see),na > a + passa + nta,anta prp,10
 apāya 1,masc,state of loss; state of misery,"√i 1 a (come, go)",apa + √i > ay + *a,a masc,2
@@ -867,7 +868,7 @@ upanāhī,adj,resentful; who bears a grudge; who harbours enmity; who is vengefu
 upapajjati 1,pr,is reborn (in); re-arises (in),"√pad 3 ya (go, step)",upa + pajja + ti,ati pr,3
 upapajjamāna,prp,being reborn; re-arising,"√pad 3 ya (go, step)",upa + pajja + māna,māna prp,10
 upapajjeyya,opt,would be reborn (in); would re-arise (in),"√pad 3 ya (go, step)",upa + pajja + eyya,ati pr,7
-upapanna 3,pp,because (of); possessed (of); having,"√pad 3 ya (go, step)",upa + √pad + na,a pp,11
+upapanna 3,pp,possessed (of); having; with a,"√pad 3 ya (go, step)",upa + √pad + na,a pp,11
 upama 1,adj,similar to; like,√mā 5 nā (measure),upa + √mā + a,a adj,11
 upaya 1,masc,approach; engagement,"√i 1 a (come, go)",upa + √i > ay + *a,a masc,2
 upayupādāna,nt,engaging and grasping; approaching and clinging; going near and grabbing hold,,upaya + upādāna,a nt,19
@@ -1142,7 +1143,7 @@ kāsa 1.1,masc,grass growing along river banks; Saccharum spontaneum,,,a masc,2
 kāsāya 1,adj,organic brown; colour of Buddhist monks' robes,,kasāya > kāsāya + *a,a adj,11
 kāḷaka 2,nt,stain; dirt; dirty mark,,kāḷa + ka,a nt,9
 kāḷī 3,fem,name of Mahāmoggallāna's sister in a previous incarnation,,kāḷa + ī,ī fem,8
-kicca 1,nt,obligation (for); duty (for); work (for),"√kar 7 o (do, make)",√kar > kir + tya,a nt,14
+kicca 2,nt,obligation (for); duty (for); work (for),"√kar 7 o (do, make)",√kar > kir + tya,a nt,14
 kiccakārī 2,masc,who has done one's duty (towards); who has done the job,,kicca + kārī,ī masc,19
 kiñca 1,sandhi,and what?,,kiṃ + ca,,17
 kiñcarahi,sandhi,what then?; how then?; what exactly?; how is it?; what just?; why?,,kiṃ + carahi,,17
@@ -1250,7 +1251,7 @@ khīṇa 1,pp,consumed; spent; finished; exhausted; slowly destroyed,"√khī 1 
 khīṇāsava,adj,who has destroyed the effluents; awakened; epithet of an arahant,,khīṇa + āsava,a adj,20
 khīrapaka,adj,suckling; nursing,,khīra + paka,a adj,19
 khudda,adj,small; minute; tiny,,,a adj,11
-khuddā 1,fem,hunger,√khud 1 a (be hungry),√khud + yā,ā fem,7
+khuddā 1.1,fem,hunger,√khud 1 a (be hungry),√khud + yā,ā fem,7
 khetta 1,nt,field; plot of land,"√khi 1 a (live, abide peacefully)",√khi > khe + *tta,a nt,9
 khema 1,adj,well; safe; secure; at peace; at rest,"√khi 1 a (live, abide peacefully)",√khi > khe + *ma,a adj,11
 khemī,adj,at peace; safe; secure,"√khi 1 a (live, abide peacefully)","√khi > khe + *ma + ī
@@ -1624,7 +1625,7 @@ daṇḍa 2,masc,walking stick; staff,,,a masc,2
 daṇḍaka 1,masc,handle,,daṇḍa + ka,a masc,2
 daṇḍaparāyaṇa,adj,leaning on a stick; supported by a staff,,daṇḍa + parāyaṇa,a adj,19
 datvā 1,abs,having given; having offered; having donated,√dā 1 a (give),√dā + tvā,,8
-dadāti,pr,gives (to); offers (to); donates (to),√dā 1 a (give),dadā + ti,āti pr,3
+dadāti,pr,gives; offers; donates; grants (something to someone),√dā 1 a (give),dadā + ti,āti pr,3
 danta 1.1,masc,tooth,,,a masc,2
 dabbī,fem,spoon; wooden spoon; ladle,"√dar 1 a (break, split apart)",√dar + vī,ī fem,8
 dameti,pr,makes tame; masters; control,√dam 3 *e (be tame),dame + ti,eti pr,14
@@ -1641,7 +1642,7 @@ daḷha 1,pp,strong; firm; steady,√dah 1 a (be strong),√dah + ta > daḍha >
 daḷhamenaṃ,sandhi,"firmly this, strongly this, vigorously this",,daḷhaṃ + enaṃ,,17
 daḷhaṃ,ind,firmly; strongly; vigorously; perseveringly; unwaveringly,√dah 1 a (be strong),"√dah + ta > daḍha > daḷha + aṃ
 daḷha + aṃ",,13
-dātar 1,masc,giver; donor; bestower (of),√dā 1 a (give),√dā + tar,ar masc,6
+dātar 1,masc,giver; donor,√dā 1 a (give),√dā + tar,ar masc,6
 dāna 1.1,nt,giving; offering; charity; generosity,√dā 1 a (give),√dā + ana,a nt,9
 dāna 1.2,nt,alms; almsfood,√dā 1 a (give),√dā + ana,a nt,9
 dānasaṃvibhāgarata,adj,loving to give and share; who delights in sharing gifts; who enjoys distributing charity,,dāna + saṃvibhāga + rata,a adj,19
@@ -1926,7 +1927,7 @@ nirodha,masc,ending (of); cessation (of); termination (of); finishing (of),√ru
 nisajja,ger,sitting down,"√sad 1 a (sink, sit, settle)",ni + √sad + ya,,8
 nisajjā 1,fem,sitting; sitting down,"√sad 1 a (sink, sit, settle)","ni + √sad + ya + ā
 nisajja + ā",ā fem,7
-nisinna 1,pp,seated,"√sad 1 a (sink, sit, settle)",ni + sīda + na,a pp,11
+nisinna 1,pp,seated (in),"√sad 1 a (sink, sit, settle)",ni + sīda + na,a pp,11
 nisinnapubba,adj,seated before; previously attended,,nisinna + pubba,a adj,19
 nisīdati,pr,sits (on); sits down (in),"√sad 1 a (sink, sit, settle)",ni + sīda + ti,ati pr,3
 nisīdi,aor,sat (on); sat down (in),"√sad 1 a (sink, sit, settle)",ni + sīda + i,i aor isuṃ,4
@@ -2255,7 +2256,7 @@ passāva,masc,urine,√su 1 a (flow),pa + √su > sāv + *a,a masc,2
 passeyya 1,opt,could see; would see,√dis 1 a (see),passa + eyya,ati pr,7
 pavaḍḍhati 1,pr,increases; develops; grows,"√vaḍḍh 1 a (grow, increase)",pa + vaḍḍha + ti,ati pr,3
 pavattamāna 1,prp,rolling forward; rolling down; flowing,"√vatt 1 a (be, proceed)",pa + vatta + māna,māna prp,10
-pavattar 1,masc,proclaimer (of); who tells about; who points out,"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
+pavattar 1,masc,proclaimer; propagator; disseminator (of),"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
 pavana 1.1,nt,woodland; forest,,pa + vana,a nt,9
 pavara 1,adj,excellent; eminent; high-quality; distinguished,"√var 8 *e (wish, choose)",pa + √var + a,a adj,11
 pavāraṇā 2,fem,(vinaya) invitation ceremony at the end of the rains retreat,"√var 8 *e (wish, choose)",pa + vāre + anā,ā fem,7
@@ -2407,7 +2408,7 @@ pesala,adj,well-behaved; good; honest,,,a adj,11
 pesuṇeyya,nt,divisive speech; slander; defamation; denigration; back-biting,√pis 8 *e (speak ill),"√pis > pes + *uṇa + eyya
 pesuṇa + eyya",a nt,9
 pessa 2,masc,name of a layman,√pis 8 *e (send),√pis > pes + *ya,a masc,14
-pessaka,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
+pessaka 1,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
 pessa + ka",a masc,2
 poṇa 1,adj,sloping (to); inclining down (to); leading (to),√nam 1 a (bend),pa + ava + √nam + a,a adj,11
 potaliya,masc,name of a householder,,,a masc,2
@@ -2805,11 +2806,11 @@ yathābhūta + aṃ",,20
 yathāmūḷhaṃ,ind,so misguidedly; so stupidly; so foolishly,,"yathā + mūḷha + aṃ
 yathāmūḷha + aṃ",,20
 yathāyaṃ,sandhi,like this; so that this,,yathā + ayaṃ,,16
-yadapi,sandhi,whatever itself; whatever even; which just,,yad + api,,16
+yadapi,sandhi,whatever itself; whatever even; which just,,yad + api,,17
 yadā,ind,when; whenever,,ya + dā,,6
 yadi 2,ind,whether … or,,ya + di,,13
-yadidaṃ,sandhi,namely; that is,,yad + idaṃ,,16
-yadeva,sandhi,any; whichever,,yad + eva,,16
+yadidaṃ,sandhi,namely; that is,,yad + idaṃ,,17
+yadeva,sandhi,any; whichever,,yad + eva,,17
 yannūnāhaṃ,sandhi,what if I were to; let me; I shall; perhaps I,,yaṃ + nūna + ahaṃ,,17
 yamaka 1,adj,pair; twin,"√yam 1 a (support, stretch)","√yam + a + ka
 yama + ka",a adj,11
@@ -2841,12 +2842,12 @@ yāpanāya,nt,for sustenance (of); for preservation (of); for continuance,√yā
 yāpana + āya",a nt,9
 yāpetuṃ,inf,to sustain oneself (with); to support oneself (by); to keep oneself going,√yā 1 *āpe (go),yāpe + tuṃ,,14
 yāma 1,masc,watch (of the night); one eighth of the day; about three hours,"√yam 1 a (control, strive, end)",√yam > yām + *a,a masc,2
-yāva tāva,idiom,as long as … then,,,,9
+yāva tāva,idiom,as long as … then; as far as ... that much; until ... to that extent,,,,9
 yāva 1,ind,as long as; as far as; so much so; up to; until; from … to,,,,9
 yāvakīvañca,sandhi,and as long as,,yāva + kīvaṃ + ca,,17
 yāvajīvaṃ,ind,for one's entire life; as long as one lives,,"yāva + jīva + aṃ
 yāvajīva + aṃ",,20
-yāvañcidaṃ,sandhi,and in this case; and in this regard; and as far as this; to such an extent,,yāva + [m] + ca + idaṃ,,16
+yāvañcidaṃ,sandhi,and in this case; and in this regard; and as far as this; to such an extent,,yāva + [ṃ] + ca + idaṃ,,16
 yāvataka,adj,as much as; as long as; as big as; as far as,,"yāva + tā + ka
 yāvatā + ka",a adj,11
 yāvatatiyañce,sandhi,if up to the third time,,yāva + tatiyaṃ + ce,,17
@@ -2854,7 +2855,6 @@ yāvatatiyaṃ,ind,as many as three times; after the third time; up to the third
 yāvatatiya + aṃ",,20
 yāvatā 1,ind,as long as; as far as; of all; to the extent that,,yāva + tā,,13
 yāvadeva,sandhi,as much as; only as much as; only as far as,,yāva + [d] + eva,,16
-yāvant,adj,as many as; however many,,yāva + vant,ant adj,6
 yiṭṭha 1,pp,given (as a gift); offered,"√yaj 1 a (honour, sacrifice)",√yaj > yij + ta,a pp,11
 yuñjantāyasmanto,sandhi,the venerable must try (to) (get back); the venerable must strive (for),,yuñjantu + āyasmanto,,16
 yuta,pp,engaged (in); devoted (to),"√yu 1 a (unite, fasten)",√yu + ta,a pp,11
@@ -2863,6 +2863,8 @@ yena tena,idiom,where … there,,,,9
 yena 2,ind,because of; because of which,,ya + ena,,9
 yena 3,ind,where; wherever; in which direction; to; towards,,ya + ena,,9
 yenaññataro,sandhi,where a certain; to another,,yena + aññataro,,16
+yebhuyyena,ind,mostly; almost all; more or less; generally; largely; by and large; for the most part,,"yad + bhūya + ena
+yebhuyya + ena",,17
 yesīdha,sandhi,among those here,,yesu + idha,,16
 yeva,sandhi,only; just; merely; exclusively,,[y] + eva,,16
 yogakkhema,masc,(spiritual) safety; security; sanctuary,,yoga + khema,a masc,19
@@ -2925,7 +2927,7 @@ lajjī,adj,who has conscience; sensitive,√lajj 1 a (be ashamed),√lajj + ī,�
 laddha 1,pp,obtained; gained; won; received,√labh 1 a (get),√labh > ladh + ta,a pp,11
 laddhāna,abs,having got; having obtained,√labh 1 a (get),√labh > ladh + tvāna,,8
 labbhati 3,pr,is possible to get (to),√labh 1 ya (get),labbha + ti,ati pr,13
-labhati 1,pr,gets; receives; obtains,√labh 1 a (get),labha + ti,ati pr,3
+labhati 1,pr,gets; receives; obtains (something for someone),√labh 1 a (get),labha + ti,ati pr,3
 lahu 1,adj,quick; fast; swift,,,u adj,11
 lahuṭṭhāna,nt,agility; nimbleness; lightness,,lahu + uṭṭhāna,a nt,19
 lābha 1,masc,gain; acquisition; benefit; profit,√labh 1 a (get),√labh > lābh + *a,a masc,2
@@ -3121,8 +3123,8 @@ samanugāhiyamāna,prp,being closely questioned (by); being interrogated (by); b
 samanupassati 2,pr,regards; considers; recognises (as); sees (as),√dis 1 a (see),saṃ + anu + passa + ti,ati pr,3
 samanupassanta,prp,seeing; perceiving,√dis 1 a (see),saṃ + anu + passa + nta,anta prp,10
 samanupassituṃ,inf,to see (as); to regard (as); to consider (as),√dis 1 a (see),saṃ + anu + passa + ituṃ,,9
-samanubhāsiyamāna,prp,being admonished (by); being sternly advised (by),√bhās 1 iya (speak),saṃ + anu + bhāsiya + māna,māna prp,13
-samanuyuñjiyamāna,prp,being cross-questioned (by); being cross-examined (by),"√yuj 2 ṃa + iya (yoke, join)",saṃ + anu + yuñjiya + māna,māna prp,13
+samanubhāsiyamāna,prp,being admonished; being sternly advised (by someone about something),√bhās 1 iya (speak),saṃ + anu + bhāsiya + māna,māna prp,13
+samanuyuñjiyamāna,prp,being cross-questioned; being cross-examined (by someone about something),"√yuj 2 ṃa + iya (yoke, join)",saṃ + anu + yuñjiya + māna,māna prp,13
 samantapāsādika,adj,who inspires confidence in every way; totally awe-inspiring,,samanta + pāsādika,a adj,19
 samannāgata,pp,possessing; endowed (with); having,√gam 1 a (go),saṃ + anu > ann + ā + √gam + ta,a pp,11
 samannāharitvā,abs,having focused; having concentrated,√har 1 a (carry),saṃ + anu > ann + ā + √har + itvā,,8
@@ -3753,10 +3755,11 @@ vitakka 3,nt,thought; reflection; pondering,√takk 8 *e (think),vi + √takk + 
 tathārūpāssa,sandhi,"of such kind, for him",,tathārūpā + assa,,16
 gāvo 2,masc,cattle (object),,go + āvo,go masc,18
 samādhimānantarikaññamāhu,sandhi,they say that stability of mind with immediate results,,samādhiṃ + ānantarikaṃ + yaṃ + āhu,,17
-yadajjhagā,sandhi,which he attained; which he experienced,,yad + ajjhagā,,16
+yadajjhagā,sandhi,which he attained; which he experienced,,yad + ajjhagā,,17
 jīvitamāhu,sandhi,they say life,,jīvitaṃ + āhu,,17
 appevanāmimassa,sandhi,of this it would be good if; his perhaps; of this hopefully,,api + eva + nāma + imassa,,16
 nagarūpama,adj,like a town; similar to a city,,nagara + upama,a adj,19
+ñāṇūpapanna,adj,possessed of knowledge; having understanding; endowed with wisdom,,ñāṇa + upapanna,a adj,19
 yuñjati 3,pr,gets back; regains,"√yuj 2 ṃa (yoke, join)",yuñja + ti,ati pr,3
 nevassa 2,sandhi,would not even be,,na + eva + assa,,16
 idaṃ 3,ind,here; in this case,,ima > ida + aṃ,,13

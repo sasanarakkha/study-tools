@@ -145,7 +145,7 @@ khandha 3,masc,aggregate; combination; conglomeration,"√khandh 8 *e (collect, 
 khaya,masc,wearing away (of); exhaustion (of); erosion (of); depletion (of); destruction (of),"√khī 1 a (exhaust, destroy)",√khī > khay + *a,a masc,2
 khādati,pr,chews; devours; eats,√khād 1 a (chew),khāda + ti,ati pr,3
 khipi 1.1,aor,threw; tossed; hurled,√khip 1 a (throw),√khip + i,i aor,4
-khuddā 1,fem,hunger,√khud 1 a (be hungry),√khud + yā,ā fem,7
+khuddā 1.1,fem,hunger,√khud 1 a (be hungry),√khud + yā,ā fem,7
 khemī,adj,at peace; safe; secure,"√khi 1 a (live, abide peacefully)","√khi > khe + *ma + ī
 khema + ī",ī adj,5
 gaccha 1,imp,go!; begone!; away with you!,√gam 1 a (go),gaccha + a,ati pr,4
@@ -198,11 +198,11 @@ tiṭṭhati 3,pr,remains; persists; lasts,√ṭhā 1 a (stand),tiṭṭha + ti
 tvaṃ 1,pron,you (subject),,tumha + aṃ > tuvaṃ > tvaṃ,tvaṃ pron,5
 thera 1.2,masc,(vinaya) elder; senior monk; monastic of ten or more years standing,√ṭhā 1 a (stand),√ṭhā > thā + ira > thera,a masc,2
 daṇḍa 1,masc,stick; truncheon; nightstick; club,,,a masc,2
-dadāti,pr,gives (to); offers (to); donates (to),√dā 1 a (give),dadā + ti,āti pr,3
+dadāti,pr,gives; offers; donates; grants (something to someone),√dā 1 a (give),dadā + ti,āti pr,3
 danta 1.1,masc,tooth,,,a masc,2
 dassī 2,adj,who sees; who knows; who perceives; who understands,√dis 1 a (see),dassa + ī,ī adj,5
 dava 1.1,masc,fun; joke; play; sport; pleasure,"√dū 1 a (go, run)",√dū > dav + *a,a masc,2
-dātar 1,masc,giver; donor; bestower (of),√dā 1 a (give),√dā + tar,ar masc,6
+dātar 1,masc,giver; donor,√dā 1 a (give),√dā + tar,ar masc,6
 dāra,masc,wife,,,a masc,2
 dārikā,fem,girl; daughter,,dāra + ikā,ā fem,7
 diṭṭhi 1,fem,view; belief; opinion; concept; theory; attitude,√dis 1 a (see),√dis + ti,i fem,8
@@ -311,7 +311,7 @@ passaddhi,fem,calm; tranquillity; tranquillization; peace; stillness; serenity,"
 passasissati,fut,will exhale; will breathe out,√sas 1 a (breath),pa + sasissa + ti,ati pr,5
 passeyya 1,opt,could see; would see,√dis 1 a (see),passa + eyya,ati pr,7
 pavaḍḍhati 1,pr,increases; develops; grows,"√vaḍḍh 1 a (grow, increase)",pa + vaḍḍha + ti,ati pr,3
-pavattar 1,masc,proclaimer (of); who tells about; who points out,"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
+pavattar 1,masc,proclaimer; propagator; disseminator (of),"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
 pavāraṇā 2,fem,(vinaya) invitation ceremony at the end of the rains retreat,"√var 8 *e (wish, choose)",pa + vāre + anā,ā fem,7
 pavisati,pr,enters; goes (into),√vis 1 a (enter),pa + visa + ti,ati pr,3
 pātimokkha 2,masc,(vinaya) precepts for Buddhist monastics,√mokkh 1 a (be freed),pa + ati + √mokkh + a,a masc,2
@@ -331,7 +331,7 @@ pure 2,ind,formerly; previously; in the past,,,,6
 pūjeti 1,pr,worships; honours; respects,"√pūj 8 *e (honour, venerate)",pūje + ti,eti pr,3
 petī,fem,female ghost; female spirit,"√i 1 a (come, go)","pa + e + ta + ī
 peta + ī",ī fem,8
-pessaka,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
+pessaka 1,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
 pessa + ka",a masc,2
 phassa 1,masc,contact; sense impingement; raw experience; touch,√phus 1 a (touch),√phus > phass + a,a masc,2
 phāsu 2,masc,ease (for); comfort (for),√phus 1 a (touch),√phus > phās + *u,u masc,6
@@ -405,7 +405,7 @@ rāga 1.1,masc,desire (for); passion (for); infatuation (with); lust (for),√ra
 rāhula,masc,name of an arahant monk; Buddha's son,,,a masc,2
 rukkha 1,masc,tree,,,a masc,2
 ruci,fem,liking; preference; choice; inclination; approval,"√ruc 1 *a (shine, like)",√ruc + i,i fem,8
-labhati 1,pr,gets; receives; obtains,√labh 1 a (get),labha + ti,ati pr,3
+labhati 1,pr,gets; receives; obtains (something for someone),√labh 1 a (get),labha + ti,ati pr,3
 loka 1,masc,world; universe; cosmos,√lok 8 *e (look),√lok + a,a masc,2
 lokavidū,masc,who knows the world; who understands the universe; epithet of the Buddha,,loka + vidū,ū masc,6
 loma 1,masc,body hair,,,a masc,2

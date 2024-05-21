@@ -39,7 +39,7 @@ anusāsanī,fem,advice; instruction; teaching,"√sās 1 a (order, instruct)","a
 anusāsana + ī",ī fem,8
 anussarati 1.1,pr,remembers; recollects; bears in mind,√sar 1 a (remember),anu + sara + ti,ati pr,3
 anuviloketi,pr,looks around; surveys,√lok 8 *e (look),anu + vi + loke + ti,eti pr,3
-aparihāna,nt,not deteriorating; not decreasing; non-declining; non-regressing,√hā 3 ya (decrease),na > a + pari + √hā + ana,a nt,9
+aparihāna,nt,not deteriorating; not decreasing; non-declining; non-regressing (of),√hā 3 ya (decrease),na > a + pari + √hā + ana,a nt,9
 apucchi,aor,asked; enquired (somebody about something),"√pucch 1 a (ask, question)",a + √pucch + i,i aor isuṃ,4
 appaccakkhāya,ger,not giving up; not disavowing; not renouncing; not rejecting,"√khā 1 a (tell, announce)","na > a + pati > paty > pacc + ā + √khā + ya
 na + paccakkhāya",,8
@@ -201,7 +201,7 @@ khandha 3,masc,aggregate; combination; conglomeration,"√khandh 8 *e (collect, 
 khaya,masc,wearing away (of); exhaustion (of); erosion (of); depletion (of); destruction (of),"√khī 1 a (exhaust, destroy)",√khī > khay + *a,a masc,2
 khādati,pr,chews; devours; eats,√khād 1 a (chew),khāda + ti,ati pr,3
 khipi 1.1,aor,threw; tossed; hurled,√khip 1 a (throw),√khip + i,i aor,4
-khuddā 1,fem,hunger,√khud 1 a (be hungry),√khud + yā,ā fem,7
+khuddā 1.1,fem,hunger,√khud 1 a (be hungry),√khud + yā,ā fem,7
 khemī,adj,at peace; safe; secure,"√khi 1 a (live, abide peacefully)","√khi > khe + *ma + ī
 khema + ī",ī adj,5
 gaccha 1,imp,go!; begone!; away with you!,√gam 1 a (go),gaccha + a,ati pr,4
@@ -280,13 +280,13 @@ tena 3,ind,there,,ta + ena,,9
 tvaṃ 1,pron,you (subject),,tumha + aṃ > tuvaṃ > tvaṃ,tvaṃ pron,5
 thera 1.2,masc,(vinaya) elder; senior monk; monastic of ten or more years standing,√ṭhā 1 a (stand),√ṭhā > thā + ira > thera,a masc,2
 daṇḍa 1,masc,stick; truncheon; nightstick; club,,,a masc,2
-dadāti,pr,gives (to); offers (to); donates (to),√dā 1 a (give),dadā + ti,āti pr,3
+dadāti,pr,gives; offers; donates; grants (something to someone),√dā 1 a (give),dadā + ti,āti pr,3
 danta 1.1,masc,tooth,,,a masc,2
 dassanāya 2,nt,in order to visit; for the purpose of seeing,√dis 1 a (see),"dassa + ana + āya
 dassana + āya",a nt,9
 dassī 2,adj,who sees; who knows; who perceives; who understands,√dis 1 a (see),dassa + ī,ī adj,5
 dava 1.1,masc,fun; joke; play; sport; pleasure,"√dū 1 a (go, run)",√dū > dav + *a,a masc,2
-dātar 1,masc,giver; donor; bestower (of),√dā 1 a (give),√dā + tar,ar masc,6
+dātar 1,masc,giver; donor,√dā 1 a (give),√dā + tar,ar masc,6
 dāna 1.1,nt,giving; offering; charity; generosity,√dā 1 a (give),√dā + ana,a nt,9
 dāna 1.2,nt,alms; almsfood,√dā 1 a (give),√dā + ana,a nt,9
 dāra,masc,wife,,,a masc,2
@@ -423,7 +423,7 @@ passasissati,fut,will exhale; will breathe out,√sas 1 a (breath),pa + sasissa 
 passāva,masc,urine,√su 1 a (flow),pa + √su > sāv + *a,a masc,2
 passeyya 1,opt,could see; would see,√dis 1 a (see),passa + eyya,ati pr,7
 pavaḍḍhati 1,pr,increases; develops; grows,"√vaḍḍh 1 a (grow, increase)",pa + vaḍḍha + ti,ati pr,3
-pavattar 1,masc,proclaimer (of); who tells about; who points out,"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
+pavattar 1,masc,proclaimer; propagator; disseminator (of),"√vac 1 a (say, speak)",pa + √vac + tar,ar masc,6
 pavāraṇā 2,fem,(vinaya) invitation ceremony at the end of the rains retreat,"√var 8 *e (wish, choose)",pa + vāre + anā,ā fem,7
 pavisati,pr,enters; goes (into),√vis 1 a (enter),pa + visa + ti,ati pr,3
 pahoti 2,pr,is able (to); is capable (of); is qualified (to),√hū 1 a (be),pa + ho + ti,hoti pr,4
@@ -454,7 +454,7 @@ pure 2,ind,formerly; previously; in the past,,,,6
 pūjeti 1,pr,worships; honours; respects,"√pūj 8 *e (honour, venerate)",pūje + ti,eti pr,3
 petī,fem,female ghost; female spirit,"√i 1 a (come, go)","pa + e + ta + ī
 peta + ī",ī fem,8
-pessaka,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
+pessaka 1,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
 pessa + ka",a masc,2
 phassa 1,masc,contact; sense impingement; raw experience; touch,√phus 1 a (touch),√phus > phass + a,a masc,2
 phāsu 2,masc,ease (for); comfort (for),√phus 1 a (touch),√phus > phās + *u,u masc,6
@@ -539,7 +539,7 @@ yasassī 1,adj,famous; renowned; illustrious; celebrated,,yasas + sī,ī adj,5
 yāgu,fem,rice gruel; congee,,,u fem,8
 yācati 1,pr,asks; requests; begs (someone for something),√yāc 1 a (beg),yāca + ti,ati pr,3
 yāma 1,masc,watch (of the night); one eighth of the day; about three hours,"√yam 1 a (control, strive, end)",√yam > yām + *a,a masc,2
-yāva tāva,idiom,as long as … then,,,,9
+yāva tāva,idiom,as long as … then; as far as ... that much; until ... to that extent,,,,9
 yāva 1,ind,as long as; as far as; so much so; up to; until; from … to,,,,9
 yena tena,idiom,where … there,,,,9
 yena 3,ind,where; wherever; in which direction; to; towards,,ya + ena,,9
@@ -552,7 +552,7 @@ rukkha 1,masc,tree,,,a masc,2
 ruci,fem,liking; preference; choice; inclination; approval,"√ruc 1 *a (shine, like)",√ruc + i,i fem,8
 rūpa 1,nt,matter; material thing; materiality; experience of material world; physical objects of consciousness; first of the five aggregates,"√rūp 8 *e (form, produce)",√rūp + a,a nt,9
 rūpa 3,nt,(object of the eye) form; material form; shape; sight,"√rūp 8 *e (form, produce)",√rūp + a,a nt,9
-labhati 1,pr,gets; receives; obtains,√labh 1 a (get),labha + ti,ati pr,3
+labhati 1,pr,gets; receives; obtains (something for someone),√labh 1 a (get),labha + ti,ati pr,3
 loka 1,masc,world; universe; cosmos,√lok 8 *e (look),√lok + a,a masc,2
 loka 2,masc,world; plane of existence,√lok 8 *e (look),√lok + a,a masc,2
 lokavidū,masc,who knows the world; who understands the universe; epithet of the Buddha,,loka + vidū,ū masc,6
