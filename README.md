@@ -18,7 +18,7 @@ These materials are provided for the benefit, welfare, and happiness of many peo
 
 - [SBS Pāḷi-English Recitations](https://sasanarakkha.org/2019/09/08/sbs-pali-english-recitations/)
 
-Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.pdf) / [epub](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.pdf) / [azw3](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.azw3) / [mobi](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.mobi)
+Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.pdf) / [epub](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.epub) / [azw3](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.azw3) / [mobi](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.mobi)
 
 - [Analysis of SBS Pāḷi-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html)
 
