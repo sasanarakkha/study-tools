@@ -9,7 +9,7 @@ Different editions of Pāṭimokkha are made in a format comfortable for recitat
 The edition of the Pāṭimokkha is based on the comparative study done by Ven Ñāṇatusita in his book ["The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita."](https://www.bps.lk/olib/bp/bp626s_Nyanatusita_Analysis-of-Bhikkhu-Patimokkha.pdf)
 
 
-It is available for downloading in [pdf](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.pdf) / [epub](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.pdf) / [azw3](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.azw3) / [mobi](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.mobi) formats.
+It is available for downloading in [pdf](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.pdf) / [epub](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.epub) / [azw3](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.azw3) / [mobi](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.mobi) formats.
 
 ### Thai Dhammayut Pāṭimokkha
 
