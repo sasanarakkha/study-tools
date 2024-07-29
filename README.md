@@ -70,7 +70,7 @@ If you have any questions or comments related to these study tools, please [emai
 
 -----------
 
-Also, explore [chat with AI](https://norbu-ai.org/ebt/) that is limited by Early Buddhist texts, Dhamma, and Vinaya.
+Besides the above mentioned tools, developed in SBS, feel invited as well to explore [chatbot NORBU](https://norbu-ai.org/ebt/). NORBU is a chatbot who can answer questions about Dhamma or Vinaya that you might have. The chatbot bases itself on the early Buddhist texts.
 
 ---
 
