@@ -13,7 +13,7 @@ abhāsi 1,aor,spoke; said,"√bhā 1 a (shine, speak)",a + √bhā + si,i aor is
 abhinandi 1,aor,delighted (in); was pleased (with); approved (of); was happy (with); relished,"√nand 1 a (delight, enjoy)",abhi + √nand + i,i aor,4
 abhisaṅkharoti 2,pr,does; performs,"√kar 7 o (do, make)",abhi + saṃ + kharo + ti,oti pr,3
 abhivaḍḍhati,pr,increases more and more; surpasses; outgrows,"√vaḍḍh 1 a (grow, increase)",abhi + vaḍḍha + ti,ati pr,3
-ākāsa 2,masc,sky; air,"√kās 1 a (shine, be visible)",ā + √kās + a,a masc,2
+ākāsa 1.2,masc,sky; air,"√kās 1 a (shine, be visible)",ā + √kās + a,a masc,2
 ācariya 1,masc,teacher; religious leader,"√car 1 a (act, behave)",ā + √car + iya,a masc,2
 ājānāti 1,pr,knows; understands,√ñā 5 nā (know),ā + jānā + ti,āti pr,3
 ānanda 2,masc,"name of an arahant monk; attendant of the Buddha; great disciple of the Buddha; foremost disciple in great learning, remembrance, conduct, resoluteness and service","√nand 1 a (delight, enjoy)",ā + √nand + a,a masc,2
@@ -36,7 +36,7 @@ upāyāsa 1,masc,affliction; difficulty; trouble; despair,"√yas 3 ya (strive, 
 upāsaka,masc,lay disciple; lay devotee,√ās 1 a (sit),upa + √ās + aka,a masc,2
 uposatha 1,masc,full moon or new moon observance day,√vas 1 a (live),"upa + √vas + a + tha
 up<b>ava</b>sa > up<b>o</b>sa + tha",a masc,2
-uppajjati 1,pr,appears; arises; occurs; takes place,"√pad 3 ya (go, step)",ud + pajja + ti,ati pr,3
+uppajjati 1,pr,appears; arises; occurs; takes place (for),"√pad 3 ya (go, step)",ud + pajja + ti,ati pr,3
 uppāda 1.1,masc,arising (of); appearance (of); coming into being (of),"√pad 3 ya (go, step)",ud + √pad > pād + *a,a masc,2
 ehi,imp,come!,"√i 1 a (come, go)",e + hi,eti pr 2,4
 kappati,pr,it is suitable (for); it is proper (for); it is fitting (for); it is allowable,"√kapp 1 a (be fit, be suitable)",kappa + ti,ati pr,3
@@ -93,7 +93,7 @@ paccassosi,aor,replied (to); agreed (with),√su 4 ṇā (hear),pati > paty > pa
 pajahati,pr,gives up; abandons; lets go (of),√hā 1 a (abandon),pa + jaha + ti,ati pr,3
 paṭiggaṇhāti 1,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gaṇhā + ti,āti pr,3
 paṭiggaheti,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gahe + ti,eti pr,3
-paṭijānāti 3,pr,makes the claim (of); claims (to be),√ñā 5 nā (know),pati + jānā + ti,āti pr,3
+paṭijānāti 4,pr,makes the claim (of); claims (to be),√ñā 5 nā (know),pati + jānā + ti,āti pr,3
 paṭinissagga,masc,giving up (of); relinquishing (of); dropping (of); abandoning (of),"√sajj 1 a (relinquish, let loose)",pati + nī + √sajj > sagg + a,a masc,2
 paṭipajjati 2,pr,practices; follows a course of action; follows a method,"√pad 3 ya (go, step)",pati + pajja + ti,ati pr,3
 paṭibhāti,pr,comes to mind; occurs (to); inspires (someone to),"√bhā 1 a (shine, speak)",pati + bhā + ti,āti pr,3
@@ -130,7 +130,7 @@ bhaṇati 1,pr,speaks; says; tells,"√bhaṇ 1 a (talk, speak)",bhaṇa + ti,at
 bhava 2,masc,being; becoming; existence,"√bhū 1 a (be, become)",√bhū > bhav + *a,a masc,2
 bhāsati 1.1,pr,speaks (about); talks (about); says,√bhās 1 a (speak),bhāsa + ti,ati pr,3
 bhuñjati 1,pr,eats; consumes,"√bhuj 2 ṃa (use, eat, enjoy)",bhuñja + ti,ati pr,3
-bheda 1,masc,death,"√bhid 2 ṃa (break, split)",√bhid > bhed + *a,a masc,2
+bheda 2,masc,death,"√bhid 2 ṃa (break, split)",√bhid > bhed + *a,a masc,2
 magga 2,masc,way; means; method,"√magg 8 *e (seek, search)",√magg + a,a masc,2
 manussa,masc,human being; man; person,,manu + ssa,a masc,2
 māṇava 1,masc,young man; young gentleman; young Brahman,,manu > māṇav + *a,a masc,2

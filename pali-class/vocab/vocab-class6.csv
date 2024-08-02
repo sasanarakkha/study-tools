@@ -33,7 +33,7 @@ assutavant,adj,unlearned; untaught; uninitiated; untrained,√su 4 ṇā (hear),
 na + suta + vant",ant adj,6
 ahaṃ,pron,I,,,ahaṃ pron,5
 ahosi,aor,was; existed; became,√hū 1 a (be),a + ho + si,hosi aor,4
-ākāsa 2,masc,sky; air,"√kās 1 a (shine, be visible)",ā + √kās + a,a masc,2
+ākāsa 1.2,masc,sky; air,"√kās 1 a (shine, be visible)",ā + √kās + a,a masc,2
 āgantar 2,masc,returner (to); who comes back (to),√gam 1 a (go),ā + √gam + tar,ar masc,6
 āgāmī 1,adj,who returns; who comes back,√gam 1 a (go),ā + √gam > gām + *ī,ī adj,5
 ācariya 1,masc,teacher; religious leader,"√car 1 a (act, behave)",ā + √car + iya,a masc,2
@@ -65,7 +65,7 @@ upāyāsa 1,masc,affliction; difficulty; trouble; despair,"√yas 3 ya (strive, 
 upāsaka,masc,lay disciple; lay devotee,√ās 1 a (sit),upa + √ās + aka,a masc,2
 uposatha 1,masc,full moon or new moon observance day,√vas 1 a (live),"upa + √vas + a + tha
 up<b>ava</b>sa > up<b>o</b>sa + tha",a masc,2
-uppajjati 1,pr,appears; arises; occurs; takes place,"√pad 3 ya (go, step)",ud + pajja + ti,ati pr,3
+uppajjati 1,pr,appears; arises; occurs; takes place (for),"√pad 3 ya (go, step)",ud + pajja + ti,ati pr,3
 uppāda 1.1,masc,arising (of); appearance (of); coming into being (of),"√pad 3 ya (go, step)",ud + √pad > pād + *a,a masc,2
 ehi,imp,come!,"√i 1 a (come, go)",e + hi,eti pr 2,4
 okirati,pr,sprinkles; scatters down (onto),"√kir 1 a (scatter, sprinkle)",ava + kira + ti,ati pr,3
@@ -127,7 +127,7 @@ dadāti,pr,gives; offers; donates; grants (something to someone),√dā 1 a (giv
 danta 1.1,masc,tooth,,,a masc,2
 dassī 2,adj,who sees; who knows; who perceives; who understands,√dis 1 a (see),dassa + ī,ī adj,5
 dava 1.1,masc,fun; joke; play; sport; pleasure,"√dū 1 a (go, run)",√dū > dav + *a,a masc,2
-dātar 1,masc,giver; donor,√dā 1 a (give),√dā + tar,ar masc,6
+dātar 1,masc,giver; donor (of),√dā 1 a (give),√dā + tar,ar masc,6
 dāra,masc,wife,,,a masc,2
 deti 1,pr,gives (to); donates (to); offers (to); hands (to),√dā 1 a (give),de + ti,eti pr,3
 deva 1,masc,deity; god,√div 3 ya (shine),√div > dev + *a,a masc,2
@@ -169,7 +169,7 @@ paññā + vant",ant adj,6
 pañha 2,masc,question; enquiry,"√pañh 1 a (ask, question)",√pañh + a,a masc,2
 paṭiggaṇhāti 1,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gaṇhā + ti,āti pr,3
 paṭiggaheti,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gahe + ti,eti pr,3
-paṭijānāti 3,pr,makes the claim (of); claims (to be),√ñā 5 nā (know),pati + jānā + ti,āti pr,3
+paṭijānāti 4,pr,makes the claim (of); claims (to be),√ñā 5 nā (know),pati + jānā + ti,āti pr,3
 paṭinissagga,masc,giving up (of); relinquishing (of); dropping (of); abandoning (of),"√sajj 1 a (relinquish, let loose)",pati + nī + √sajj > sagg + a,a masc,2
 paṭipajjati 2,pr,practices; follows a course of action; follows a method,"√pad 3 ya (go, step)",pati + pajja + ti,ati pr,3
 paṭibhāti,pr,comes to mind; occurs (to); inspires (someone to),"√bhā 1 a (shine, speak)",pati + bhā + ti,āti pr,3
@@ -182,7 +182,7 @@ patta 1.1,masc,bowl; alms bowl; begging bowl,√pā 1 a (drink),√pā + ta,a ma
 patha 2,masc,range; mode; way,"√path 1 a (go, move)",√path + a,a masc,2
 panūdati,pr,dispels; drives out; rejects; pushes away,"√nud 1 a (drive out, reject)",pa + nūda + ti,ati pr,3
 papañca,masc,various opinions; proliferation; endless conceptualization,"√pañc 8 *e (expand, spread)",pa + √pañc + a,a masc,2
-pamāda,masc,carelessness; negligence; heedlessness,"√mad 3 ya (be mad, be intoxicated)",pa + √mad > mād + *a,a masc,2
+pamāda 1,masc,carelessness; negligence; heedlessness,"√mad 3 ya (be mad, be intoxicated)",pa + √mad > mād + *a,a masc,2
 parikkhāra 1,masc,requisite; requirement; necessity,"√kar 7 o (do, make)",pari + √kar > khār + *a,a masc,2
 paricarati 3,pr,enjoys; indulges; has sex with,"√car 1 a (move, walk)",pari + cara + ti,ati pr,3
 pariṇāyaka 2,masc,leader; who shows the way,"√nī 1 a (lead, carry)",pari + √nī > ṇāy + *aka,a masc,2
@@ -205,9 +205,9 @@ pucchati,pr,asks; enquires; questions (somebody about something),"√pucch 1 a (
 pucchi,aor,asked; enquired; questioned (somebody about something),"√pucch 1 a (ask, question)",√pucch + i,i aor,4
 putta 1,masc,son; child,,,a masc,2
 pubbe 1,ind,before; previously; formerly; in the past,,pubba + e,,6
-purisa 1,masc,man; person,,,a masc,2
+purisa 1,masc,man; male; person,,,a masc,2
 pure 2,ind,formerly; previously; in the past,,,,6
-pūjeti 1,pr,worships; honours; respects,"√pūj 8 *e (honour, venerate)",pūje + ti,eti pr,3
+pūjeti 1,pr,reveres; honours; respects,"√pūj 8 *e (honour, venerate)",pūje + ti,eti pr,3
 pessaka 1,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
 pessa + ka",a masc,2
 phassa 1,masc,contact; sense impingement; raw experience; touch,√phus 1 a (touch),√phus > phass + a,a masc,2
@@ -234,7 +234,7 @@ bhātar,masc,brother,,,ar2 masc,6
 bhāsati 1.1,pr,speaks (about); talks (about); says,√bhās 1 a (speak),bhāsa + ti,ati pr,3
 bhikkhu,masc,monk; monastic; mendicant; fully ordained monk,√bhikkh 1 a (beg),√bhikkh + u,u masc,6
 bhuñjati 1,pr,eats; consumes,"√bhuj 2 ṃa (use, eat, enjoy)",bhuñja + ti,ati pr,3
-bheda 1,masc,death,"√bhid 2 ṃa (break, split)",√bhid > bhed + *a,a masc,2
+bheda 2,masc,death,"√bhid 2 ṃa (break, split)",√bhid > bhed + *a,a masc,2
 bhogī 1.1,adj,enjoying; using; experiencing; partaking in,"√bhuj 2 ṃa (use, eat, enjoy)","√bhuj > bhoj > bhog + *a + ī
 bhoga + ī",ī adj,5
 magga 2,masc,way; means; method,"√magg 8 *e (seek, search)",√magg + a,a masc,2
