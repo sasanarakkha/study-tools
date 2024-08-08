@@ -1,10 +1,9 @@
 id
 abbrev
 meaning
-pali
+pāli
 example
 explanation
 pattern
 feedback
 test
-marks
