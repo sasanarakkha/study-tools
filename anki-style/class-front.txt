@@ -1,11 +1,11 @@
 {{#sbs_chapter_1}}
 
-<div style='font-size: 60%; line-height: 95%;'><i>{{sbs_chapter_1}}{{#sbs_chant_pali_1}}; {{sbs_chant_pali_1}}{{/sbs_chant_pali_1}}{{#sbs_chant_eng_1}}; {{sbs_chant_eng_1}}{{/sbs_chant_eng_1}} </i>
+<div style='font-size: 60%; line-height: 95%;'><i>{{sbs_chapter_1}}{{#sbs_chant_pali}}; {{sbs_chant_pali}}{{/sbs_chant_pali}}{{#sbs_chant_eng_1}}; {{sbs_chant_eng_1}}{{/sbs_chant_eng_1}} </i>
 </div>
 
 {{/sbs_chapter_1}}
 
-<div style='font-size: 80%;'><I>{{sbs_sutta_1}}</I></div>
+<div style='font-size: 80%;'><i>{{sbs_sutta_1}}</i></div>
 
 <div style='font-size: 65%;'><i>{{sbs_source_1}}</i></div>
 
@@ -25,7 +25,7 @@
 
 {{/sbs_chapter_2}}
 
-<div style='font-size: 80%;'><I>{{sbs_sutta_2}}</I></div>
+<div style='font-size: 80%;'><i>{{sbs_sutta_2}}</i></div>
 
 <div style='font-size: 65%;'><i>{{sbs_source_2}}</i></div>
 
@@ -45,9 +45,9 @@
 
 {{/sbs_chapter_3}}
 
-<div style='font-size: 80%;'><I>{{sbs_sutta_3}}</I></div>
+<div style='font-size: 80%;'><i>{{sbs_sutta_3}}</i></div>
 
-<div style='font-size: 65%; '><i>{{sbs_source_3}}</i></div>
+<div style='font-size: 65%;'><i>{{sbs_source_3}}</i></div>
 
 <div>{{sbs_example_3}}</div>
 
@@ -64,18 +64,18 @@
 
 {{/sbs_chapter_4}}
 
-<div style='font-size: 80%;'><I>{{sbs_sutta_4}}</I></div>
+<div style='font-size: 80%;'><i>{{sbs_sutta_4}}</i></div>
 
-<div style='font-size: 65%; '><i>{{sbs_source_4}}</i></div>
+<div style='font-size: 65%;'><i>{{sbs_source_4}}</i></div>
 
 <div>{{sbs_example_4}}</div>
 
 <hr>
 
-<div style='font-size: 60%;'><I> {{#sbs_class_anki}} class {{sbs_class_anki}} {{/sbs_class_anki}}</I></div>
+<div style='font-size: 60%;'><i> {{#sbs_class_anki}} class {{sbs_class_anki}} {{/sbs_class_anki}}</i></div>
 
 <hr>
 
-<div>{{sbs_audio}}</div>
+<div>{{audio}}</div>
 
-<div><b>{{pali_1}}</b></div>
+<div><b>{{pali}}</b></div>

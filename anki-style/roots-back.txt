@@ -37,11 +37,11 @@
 
 <div class=brclass><br></div>
 
-<div> <b> {{meaning_1}}</b>{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}} </div>
+<div> <b> {{meaning}}</b>{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}} </div>
 <div class=brclass><br></div>
 
 
-<div> {{ru_meaning}}</div>
+<div> {{native}}</div>
 
 <div class=brclass><br></div>
 {{#compound_type}}
@@ -53,7 +53,7 @@
 <div style='font-size: 90%;'> <i>Sk:</i> {{sanskrit}} </div>
 {{/sanskrit}}
 
-<div style='font-size: 90%;'> {{#sanskrit_root}} <i>Sk:</I>  {{sanskrit_root}} {{sanskrit_root_class}} ({{sanskrit_root_meaning}}){{/sanskrit_root}}
+<div style='font-size: 90%;'> {{#sanskrit_root}} <i>Sk:</i>  {{sanskrit_root}} {{sanskrit_root_class}} ({{sanskrit_root_meaning}}){{/sanskrit_root}}
  </div>
 
 {{#commentary}}
@@ -88,7 +88,7 @@
  {{/synonym}}
 
 
-<div>{{sbs_audio}}</div>
+<div>{{audio}}</div>
 <div class=brclass><br></div>
 
 <div style='font-size: 70%;'>{{link}}</div>

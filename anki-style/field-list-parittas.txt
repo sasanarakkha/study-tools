@@ -1,7 +1,7 @@
 id
-pali_1
+pali
 grammar
-meaning_1
+meaning
 meaning_lit
 root
 root_group
@@ -9,10 +9,10 @@ root_sign
 root_meaning
 root_base
 construction
-sbs_source_1
-sbs_sutta_1
-sbs_example_1
-sbs_audio
+source
+sutta
+example
+audio
 test
 feedback
 marks

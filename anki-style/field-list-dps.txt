@@ -1,14 +1,15 @@
 id
-pali_1
+pali
 sbs_class_anki
 sbs_category
 sbs_class
+sbs_patimokkha
 grammar
 neg
 verb
 trans
 plus_case
-meaning_1
+meaning
 meaning_lit
 ru_meaning
 ru_meaning_lit
@@ -62,7 +63,7 @@ sbs_notes
 ru_notes
 link
 sbs_index
-sbs_audio
+audio
 test
 feedback
 marks

@@ -36,7 +36,7 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 - [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html)
 
-<!-- - [Vinaya Vibhaṅga](https://sasanarakkha.github.io/study-tools/anki-decks/vibhanga.html) -->
+- [Bhikkhu Vibhaṅga](https://sasanarakkha.github.io/study-tools/anki-decks/vibhanga.html)
 
 - [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-learning.html)
 

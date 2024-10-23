@@ -11,7 +11,7 @@
 
 {{#root}}
 
-<div class=myclass><div style='font-size: 110%;'>  {{root}}{{root_has_verb}}{{root_group}} {{root_sign}} ({{root_meaning}})</div>
+<div class=myclass><div style='font-size: 110%;'>  {{root}}{{root_has_verb}}{{root_group}} {{root_sign}} ({{root_meaning}} - {{root_ru_meaning}})</div>
 <div class=brclass><br></div></div>
 {{/root}}
 
@@ -37,7 +37,7 @@
 
 <div class=brclass><br></div>
 
-<div> <b> {{meaning_1}}</b>{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}} </div>
+<div> <b> {{meaning}}</b>{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}} </div>
 <div class=brclass><br></div>
 
 {{#sbs_meaning}} 
@@ -58,7 +58,7 @@
 <div style='font-size: 90%;'> <i>Sk:</i> {{sanskrit}} </div>
 {{/sanskrit}}
 
-<div style='font-size: 90%;'> {{#sanskrit_root}} <i>Sk:</I>  {{sanskrit_root}} {{sanskrit_root_class}} ({{sanskrit_root_meaning}}){{/sanskrit_root}}
+<div class=myclass> {{#sanskrit_root}} <i>Sk:</i>  {{sanskrit_root}} {{sanskrit_root_class}} ({{sanskrit_root_meaning}} - {{sanskrit_root_ru_meaning}}){{/sanskrit_root}}
  </div>
 
 {{#commentary}}
@@ -99,10 +99,11 @@
  {{/synonym}}
 
 
-<div>{{sbs_audio}}</div>
+<div>{{audio}}</div>
 <div class=brclass><br></div>
 
-<div style='font-size: 70%;'>{{link}}</div>
+<div style='font-size: 70%; text-align: right;'>{{link}}</div>
+<hr>
 <div style='font-size: 70%; text-align: left;'>{{feedback}}</div>
 <br>
 

@@ -1,8 +1,8 @@
-# Vinaya Vibhaṅga
+# Bhikkhu Vibhaṅga Pali
 
 UNDER DEVELOPMENT
 
-Made for memorization of Pāli words from definitions of Pātimokkha words in Vinaya Vibhaṅga. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&amp;entry.1433863141=Vibhaṅga). Be sure to regularly download the latest content here.
+Made for memorization of Pāli words from definitions of Pātimokkha words in Bhikkhu Vibhaṅga. It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FAIpQLScNC5v2gQbBCM3giXfYIib9zrp-WMzwJuf_iVXEMX2re4BFFw/viewform?usp=pp_url&amp;entry.1433863141=Vibhaṅga). Be sure to regularly download the latest content here.
 
 It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb), The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita and Pātimokkha Word By Word [Anki deck](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html) and [analysis](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/).
 
@@ -31,7 +31,7 @@ If you have a problem with updating, you can use the following method:
 
 - download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/vibhanga.csv) 
 
-- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/sutta-pitaka-fields.png). You can check it in menu: **Tools > Manage Note Types**
+- make sure that your filed list exectly the same as current [filed list](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-vibhanga.txt). You can check it in menu: **Tools > Manage Note Types**
 
 ![image](https://user-images.githubusercontent.com/39419221/205493835-f778130b-d941-47ee-896a-7d66432891ae.png)
 
@@ -40,8 +40,8 @@ If you have a problem with updating, you can use the following method:
 ![image](https://user-images.githubusercontent.com/39419221/205493858-dc25632e-7167-4c1f-8da5-9c8dbf4dad72.png)
 
 - note that there are 3 different fields for card settings: 
-1. [FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/anki-card-dhp-vocab-front.txt)
-2. [BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/anki-card-dhp-vocab-back.txt)
+1. [FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/vibhanga-front.txt)
+2. [BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/vibhanga-back.txt)
 3. [STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 Check that each of them matches current card settings.

@@ -65,15 +65,11 @@
 <div class=smallclass> <i>{{notes}}</i></div>
  {{/notes}}
 
-{{#sbs_notes}}
-<div class=brclass><br></div>
-<div class=smallclass> <i>{{sbs_notes}}</i></div>
- {{/sbs_notes}}
-
 {{#variant}}
 <div class=brclass><br></div>
 <div class=smallclass> <i>Var:</i> {{variant}}</div>
  {{/variant}}
+
 
 {{#antonym}}
 <div class=brclass><br></div>
@@ -84,7 +80,6 @@
 <div class=brclass><br></div>
 <div class=smallclass> <i>Syn:</i> {{synonym}}</div>
  {{/synonym}}
-
 
 <div>{{audio}}</div>
 <div class=brclass><br></div>

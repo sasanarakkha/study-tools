@@ -1,14 +1,14 @@
 id
-pali_1
+pali
 sbs_class_anki
 grammar
 neg
 verb
 trans
 plus_case
-meaning_1
+meaning
 meaning_lit
-ru_meaning
+native
 sanskrit
 sanskrit_root
 sanskrit_root_meaning
@@ -44,7 +44,7 @@ commentary
 notes
 sbs_notes
 link
-sbs_audio
+audio
 test
 feedback
 marks

@@ -1,13 +1,13 @@
 id
-pali_1
+pali
 grammar
 neg
 verb
 trans
 plus_case
-meaning_1
+meaning
 meaning_lit
-ru_meaning
+native
 sbs_meaning
 sanskrit
 sanskrit_root
@@ -57,7 +57,7 @@ notes
 sbs_notes
 link
 sbs_index
-sbs_audio
+audio
 test
 feedback
 marks

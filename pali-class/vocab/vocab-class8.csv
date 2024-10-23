@@ -45,7 +45,7 @@ asammosa 1,masc,not forgetting; non-confusion,"√mus 3 ya (lie, forget)",na > a
 asura,masc,titan; anti-god; enemy of the devas,"√sur 1 a (shine, be supreme)",na > a + √sur + a,a masc,5
 assa 3.1,opt,may be; could be; should be; would be,√as 1 a (be),√as + a,ssa opt,7
 assatha,opt,you all could be; you might be,√as 1 a (be),assa + tha,ssa opt,7
-assasissati,fut,will breathe in; will inhale,√sas 1 a (breath),ā + sasissa + ti,ati pr,5
+assasissati,fut,will breathe in; will inhale,√sas 1 a (breath),ā + sasissa + ti,issati fut,5
 assavanatā,fem,fact of not hearing (of),√su 4 ṇā (hear),"na > a + √su > sav + *ana + tā
 assavana + tā",ā fem,7
 assaṃ,opt,I could be; I might be; may I be; I could become,√as 1 a (be),√as + aṃ,ssa opt,7
@@ -149,8 +149,8 @@ khuddā 1.1,fem,hunger,√khud 1 a (be hungry),√khud + yā,ā fem,7
 khemī,adj,at peace; safe; secure,"√khi 1 a (live, abide peacefully)","√khi > khe + *ma + ī
 khema + ī",ī adj,5
 gaccha 1,imp,go!; begone!; away with you!,√gam 1 a (go),gaccha + a,ati pr,4
-gacchati 1,pr,goes; walks; moves; wanders around,√gam 1 a (go),gaccha + ti,ati pr,3
-gaṇhati 1,pr,grabs hold (of); seizes; takes,√gah 6 ṇhā (grasp),gaṇhā + ti,ati pr,3
+gacchati 1,pr,goes; walks; moves; wanders around; travels,√gam 1 a (go),gaccha + ti,ati pr,3
+gaṇhati 1,pr,grabs hold (of); seizes; takes,√gah 6 ṇhā (grasp),gaṇha + ti,ati pr,3
 gabbha 3,masc,room; inside room; inner chamber,,,a masc,2
 gamissati 1,fut,will go,√gam 1 a (go),√gam + issa + ti,issati fut,5
 gayā 1,fem,name of a village,,,ā fem,7
@@ -236,7 +236,7 @@ nahāru,masc,tendon; sinew,"√nah 3 ya (bind, arm)",√nah + āru,u masc,6
 nābhijānāti 1,pr,does not know; does not understand,√ñā 5 nā (know),"na + abhi + jānā + ti
 na + abhijānāti",āti pr,5
 nārī,fem,woman,,nara > nāra + *ī,ī fem,8
-nikkhipati 3,pr,keeps; stores; saves; sets aside; lays aside,√khip 1 a (throw),ni + khipa + ti,ati pr,3
+nikkhipati 3,pr,keeps; stores; saves; sets aside; lays aside (something in something),√khip 1 a (throw),ni + khipa + ti,ati pr,3
 niddisi 1,aor,indicated; pointed out; designated; appointed,"√dis 1 a (point out, explain)",nī + √dis + i,i aor,4
 nidhi 1,masc,treasure; trove; hoard,"√dhā 1 a (place, support)",ni + √dhā + i,i masc,4
 nibbidā,fem,dis-enchantment (towards); de-illusionment (with); disinterest (in); dispassion (towards),"√vid 2 ṃa (feel, like)",nī + √vid > bid + ā,ā fem,7
@@ -301,7 +301,7 @@ pariṇāyaka 2,masc,leader; who shows the way,"√nī 1 a (lead, carry)",pari +
 parideva,masc,lamentation; wailing; crying,√dev 1 a (lament),pari + √dev + a,a masc,2
 paridevi,aor,mourned; lamented; wailed,√dev 1 a (lament),pari + √dev + i,i aor,4
 paribbājaka,masc,homeless spiritual seeker; wandering ascetic,√vaj 1 a (go on),pari + √vaj > baj > bāj + *aka,a masc,2
-pariyāya 4,masc,way; nature; habit; property; quality,"√i 1 a (come, go)",pari + [y] + √i > āy + *a,a masc,2
+pariyāya 5,masc,way; nature; habit; property; quality,"√i 1 a (come, go)",pari + [y] + √i > āy + *a,a masc,2
 pallaṅka 2,masc,cross-legged sitting position; meditation posture,√añc 1 a (bend),"pari > pali > paly > pall + √añc > aṅk + a
 pari + aṅka",a masc,2
 passa 2.1,imp,see!; look (at)!,√dis 1 a (see),passa + a,ati pr,4
@@ -398,7 +398,7 @@ yasassī 1,adj,famous; renowned; illustrious; celebrated,,yasas + sī,ī adj,5
 yāgu,fem,rice gruel; congee,,,u fem,8
 yācati 1,pr,asks; requests; begs (someone for something),√yāc 1 a (beg),yāca + ti,ati pr,3
 yāma 1,masc,watch (of the night); one eighth of the day; about three hours,"√yam 1 a (control, strive, end)",√yam > yām + *a,a masc,2
-rakkhati 1,pr,protects; guards; watches over,√rakkh 1 a (protect),rakkha + ti,ati pr,3
+rakkhati 1,pr,protects; watches over; guards (something against something),√rakkh 1 a (protect),rakkha + ti,ati pr,3
 rattaññū,adj,old; experienced; of long standing,,ratta + ñū,ū adj,6
 rasa 1,masc,taste; flavour,√ras 1 a (taste),√ras + a,a masc,2
 rāga 1.1,masc,desire (for); passion (for); infatuation (with); lust (for),√raj 3 ya (desire),√raj > rag > rāg + *a,a masc,2
@@ -483,7 +483,6 @@ vadati 1,pr,says (to); speaks (to); tells (to),"√vad 1 a (say, speak)",vada + 
 vanatha 2.1,masc,desire; craving,"√van 7 o (like, desire)","√van + a + tha
 vana + tha",a masc,2
 vasa 1.2,masc,control (over); authority (over); power (over); mastery (over),"√vas 1 a (want, control)",√vas + a,a masc,2
-vassa 2,masc,rainy season; monsoon,√vass 1 a (rain),√vass + a,a masc,2
 vā 1,ind,or; either or,,,,6
 vāṇija,masc,trader; dealer,,vaṇija > vāṇija + *a,a masc,2
 vādī 1,adj,speaking; saying; telling,"√vad 1 a (say, speak)",√vad > vād + *ī,ī adj,5
