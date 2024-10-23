@@ -28,8 +28,6 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 ### Anki decks:
 
-- [Parittas](https://sasanarakkha.github.io/study-tools/anki-decks/parittas.html)
-
 - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html)
 
 - [DHP Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/dhp-vocab.html)
@@ -38,11 +36,16 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 - [Bhikkhu Vibhaṅga](https://sasanarakkha.github.io/study-tools/anki-decks/vibhanga.html)
 
+- [Parittas](https://sasanarakkha.github.io/study-tools/anki-decks/parittas.html)
+
+- [Decks for Pāli Classes](https://sasanarakkha.github.io/study-tools/pali-class/update-anki-class.html)
+
 - [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-learning.html)
 
 - [SBS Daily Chanting](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-daily-chanting.html)
 
 - [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/anki-decks/ru-pali-vocab.html)
+
 
 <!-- - [Sutta Piṭaka Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sutta-pitaka-vocab.html) -->
 
