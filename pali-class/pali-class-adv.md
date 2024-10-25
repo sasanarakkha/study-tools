@@ -1,4 +1,4 @@
-# **Advanced Pāli Education at SBS**
+## **Advanced Pāli Education at SBS**
 
 **UNDER DEVELOPMENT**
 
@@ -6,7 +6,7 @@ How to proceed with individual Pāli study once you're finished with the [Beginn
 
 The first recommendation is to review the class materials again, paying attention to the details. Now that you're familiar with the basics of grammar, you'll be able to pick up on details that might not have been obvious to you when you first learned this material. Usually, teachers say that these courses contain information that cannot be absorbed at one time. Redo class exercises as needed, and it's always a good idea to maintain your reviews in Anki.
 
-### **SBS Pāḷi-English Recitations**
+# **SBS Pāḷi-English Recitations**
 
 It is recommended to do analysis of the SBS Pāḷi-English Recitations book together with the Anki deck.
 
@@ -24,7 +24,7 @@ Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-too
 
 ---
 
-### **Suttas and passages**
+# **Suttas and passages**
 
 ---
 
@@ -58,7 +58,7 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 ---
 
-### **Advanced Pāli Course**
+# **Advanced Pāli Course**
 
 ---
 

@@ -8,7 +8,7 @@ These materials are provided for the benefit, welfare, and happiness of many peo
 
 - [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/)
 
-<!-- - [SBS Pāḷi-English Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html) -->
+- [SBS Pāḷi-English Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html)
 
 - [Pāḷi-Russian Dictionary](https://digitalpalidictionary.github.io/rus/)
 
@@ -46,6 +46,7 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 - [Russian Anki Deck](https://sasanarakkha.github.io/study-tools/anki-decks/ru-pali-vocab.html)
 
+- [Native language add-ons](https://sasanarakkha.github.io/study-tools/anki-decks/native.html) for most of SBS decks.
 
 <!-- - [Sutta Piṭaka Vocab](https://sasanarakkha.github.io/study-tools/anki-decks/sutta-pitaka-vocab.html) -->
 

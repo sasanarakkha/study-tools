@@ -49,9 +49,11 @@ Now all cards are inactive for study.
 
 Now all cards from the selected chant will appear in your Anki daily routine. After you finish them, you may repeat the process with another chant and so on.
 
-- If English is not your first language, it is always recommended to translate words to your native language. For this, there is an empty field called "native".,that you can fill. And even with next update, this field still will keep all your info.
+- If English is not your first language, it is always recommended to translate words to your native language. For this, there is an empty field called "native", that you can fill. And even with next update, this field still will keep all your info. Unless you are using one of the [available language add-ons](https://sasanarakkha.github.io/study-tools/anki-decks/native.html) for SBS decks.
 
 # Updating existing deck without losing your statistics
+
+Important! Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
@@ -85,19 +87,21 @@ Check that each of them matches current card settings.
 ![image](https://user-images.githubusercontent.com/39419221/193513245-d7d4277b-45d4-4615-a9bc-6c477f6e7cb6.png)
 
 
-- in the Anki click on **File - Import**
+- in the Anki click on **File > Import**
 
 ![image](https://user-images.githubusercontent.com/39419221/187018280-c295e071-c130-4f42-8518-a3a5e0326124.png)
 
 - choose downloaded sbs-pd.csv
 
-- choose Type - SBS Vocab ; Deck - SBS Pāli-English Vocab ; Update existing notes when the first field matches ; Allow HTML in fields ; and in the last Field (42) you need to change it to **Tags**
+- choose Notetype - SBS Vocab ; Deck - SBS Pāli-English Vocab ;  Existing notes - Update ; Match scope - Notetype
+
+- then scrol down to the end of the *Field mapping* section and switch the possition of *marks* and *Tags*, so that marks will map to the last column in the CSV file, while tags will be left unmapped *(Nothing)*.
 
 - double check everything with this picture, and click **import**
-
-![image](https://user-images.githubusercontent.com/39419221/187018321-7e157b8f-57f0-4216-a5f2-a0008f21295e.png)
 
 - now you are up-to-date.
 
 - also make sure to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
+
+- and click *Clear Unused Tags*, you can find it in the **Browse > Notes**
 
