@@ -1,6 +1,5 @@
 
-[![sbs](https://github.com/sasanarakkha/study-tools/assets/39419221/9dbb14c8-a207-4456-8be5-00646cac0d6b)](http://sasanarakkha.org/)
-
+![compressed](https://github.com/user-attachments/assets/bd7c052d-a869-4acd-88ac-4fea4555ed16)
 
 These materials are provided for the benefit, welfare, and happiness of many people. We would greatly appreciate your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform?) to assist us in improving them.
 
