@@ -61,6 +61,8 @@ Check that each of them matches current card settings.
 
 - choose Notetype - Vibhanga ; Deck - Pali Bhikkhu Vibhanga ;  Existing notes - Update ; Match scope - Notetype
 
+![2024-10-25_17-41](https://github.com/user-attachments/assets/bed6016b-b7ef-4082-b14e-acd2f411c6b4)
+
 - double check everything, and click **import**
 
 - now you are up-to-date.
