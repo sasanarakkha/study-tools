@@ -53,7 +53,9 @@ Now all cards from the selected chant will appear in your Anki daily routine. Af
 
 # Updating existing deck without losing your statistics
 
-Important! Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
+!Important! Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
+
+![2024-10-25_15-27](https://github.com/user-attachments/assets/585a6c1d-6353-4b2f-a95f-7f18f29cfe5e)
 
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
@@ -83,9 +85,8 @@ If you have a problem with updating, you can use the following method:
 3. [STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 Check that each of them matches current card settings.
-- 
-![image](https://user-images.githubusercontent.com/39419221/193513245-d7d4277b-45d4-4615-a9bc-6c477f6e7cb6.png)
 
+![image](https://user-images.githubusercontent.com/39419221/193513245-d7d4277b-45d4-4615-a9bc-6c477f6e7cb6.png)
 
 - in the Anki click on **File > Import**
 
@@ -95,7 +96,11 @@ Check that each of them matches current card settings.
 
 - choose Notetype - SBS Vocab ; Deck - SBS Pāli-English Vocab ;  Existing notes - Update ; Match scope - Notetype
 
+![2024-10-25_15-34](https://github.com/user-attachments/assets/e7d778be-d836-47f2-939d-ed54a704a4fd)
+
 - then scrol down to the end of the *Field mapping* section and switch the possition of *marks* and *Tags*, so that marks will map to the last column in the CSV file, while tags will be left unmapped *(Nothing)*.
+
+![2024-10-25_15-34_1](https://github.com/user-attachments/assets/a527ec19-e0d5-4ad9-90e6-d3cfa2046c1d)
 
 - double check everything with this picture, and click **import**
 
