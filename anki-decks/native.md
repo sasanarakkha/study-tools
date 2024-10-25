@@ -21,12 +21,18 @@ The update process is a bit different since these CSV files contain all words re
 - Choose the Notetype and Deck you wish to update.
 
 - Scroll down to the beginning of the **Field Mapping** section and switch the positions of *pali* and *native*, so that *native* maps to the second column in the CSV file, while *pali* remains unmapped (Nothing).
+  
+![2024-10-25_16-36](https://github.com/user-attachments/assets/5c813ea8-0596-42e7-af26-fff725b8aa20)
 
 - Double-check everything with the image above, then click  **import**
 
 - In the window **Overview**, you’ll see that along with updated existing cards, many new notes have been imported. We need to remove these. Click on **Show** to display the new notes.
+  
+![2024-10-25_16-38](https://github.com/user-attachments/assets/3949078d-2ebe-4e2d-b5cc-8eb202ccf3cc)
 
 - In the window **Browse**, you’ll see all these new notes. Select them all (**Ctrl + A**) and delete (**Ctrl + del**).
+  
+![2024-10-25_16-40](https://github.com/user-attachments/assets/b957699f-b0a7-478a-9eeb-fbe61fbde6cf)
 
 - Now you have the latest native meaning.
 
