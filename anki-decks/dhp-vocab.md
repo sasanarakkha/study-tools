@@ -83,7 +83,7 @@ Check that each of them matches current card settings.
 
 - choose Notetype - DHP Vocab ; Deck - DHP Vocab ;  Existing notes - Update ; Match scope - Notetype
 
-
+![2024-10-25_17-16](https://github.com/user-attachments/assets/af88e0ae-a046-492e-a293-3589a3a21ed3)
 
 - double check everything, and click **import**
 
