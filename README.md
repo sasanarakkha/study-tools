@@ -1,5 +1,4 @@
-
-![compressed](https://github.com/user-attachments/assets/bd7c052d-a869-4acd-88ac-4fea4555ed16)
+![compressed_more](https://github.com/user-attachments/assets/24d4cae6-66b4-48de-a7d0-de1ce5969a77)
 
 These materials are provided for the benefit, welfare, and happiness of many people. We would greatly appreciate your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform?) to assist us in improving them.
 
