@@ -1,4 +1,4 @@
-<div style=" word-wrap:break-word;"><b>{{pali_1}}</b></div>
+<div style=" word-wrap:break-word;"><b>{{pali}}</b></div>
 <br>
 <div>{{sentence}}</div>
 <div class=myclass>{{abbrev}} {{source}}</div>
@@ -20,15 +20,13 @@
 <td><div class=myclass></td>
 <td><div style=" word-wrap:break-word;">{{#meaning_lit}}lit. {{meaning_lit}}{{/meaning_lit}}</b></td>
 
-{{#native}}
 <tr valign='top'>
-<td><div class=myclass>Native:</td>
-<td><div>{{native}}</b></td>
-{{/native}}
+<td><div class=myclass>{{#native}}Native:{{/native}}</td>
+<td>{{native}}</td>
 
 <tr valign='top'>
 <td><div class=myclass>{{#root}}Root:{{/root}}</td>
-<td>{{#root}}{{root}}{{/root}} {{root_gr}}{{#root_sign}} {{root_sign}}{{/root_sign}}
+<td>{{#root}}{{root}}{{/root}} {{root_gp}}{{#root_sign}} {{root_sign}}{{/root_sign}}
 
 <tr valign='top'>
 <td><div class=myclass>{{#base}}Base:{{/base}}</td>
@@ -41,7 +39,6 @@
 <tr valign='top'>
 <td><div class=myclass>{{#compound_type}}Compound:{{/compound_type}}</td>
 <td></div style>{{compound_type}}{{#compound_construction}} ({{compound_construction}}){{/compound_construction}}</td>
-
 <tr valign='top'>
 <td><div class=myclass>{{#variant}}Variant:{{/variant}}</td>
 <td></div style>{{variant}}</td>
@@ -54,6 +51,6 @@
 <tr valign='top'>
 <td><div style='color: red'>{{notez}}</td>
 <tr valign='top'>
-<td><div style='font-size: 60%; text-align: right;'>{{feedback}}</td>
-
+<td>
+<div style="font-size:60%; text-align: right">{{feedback}}</div
 
