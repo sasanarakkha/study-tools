@@ -75,7 +75,7 @@ Check that each of them matches current card settings.
 
 - choose Type - Patimokkha Word be Word ; Deck - Patimokkha Word be Word ; Update existing notes when the first field matches ; Allow HTML in fields
 
-
+![2024-10-25_17-34](https://github.com/user-attachments/assets/d1bec5c7-afe0-439c-9bd8-4bcfe4106c87)
 
 - double check everything and click **import**
 
