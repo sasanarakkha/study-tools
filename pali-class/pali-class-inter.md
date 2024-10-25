@@ -71,9 +71,7 @@ Feel free to [contact us](mailto:studytools@sasanarakkha.org) if you need any as
 
 ----
 
-It is recommended to use the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html). All exercises and words used in the course are specifically labelled in the dictionary as such, making it clear which particular meaning of words (if there are multiple) is intended in specific examples in the course.
-
-It is also very useful to have an updated version of DPD, [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/).
+It is recommended to use the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html). All exercises and words used in the course are specifically labelled in the dictionary as such, making it clear which particular meaning of words (if there are multiple) is intended in specific examples in the course. And there are many useful links leading directly to grammatical analysis.
 
 ----
 

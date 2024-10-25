@@ -17,6 +17,10 @@ Download the latest update of the decks:
 
 # Updating existing deck without losing your statistics
 
+!Important! Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
+
+![2024-10-25_15-27](https://github.com/user-attachments/assets/585a6c1d-6353-4b2f-a95f-7f18f29cfe5e)
+
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
 Usually it is enough just to double-click on the downloaded apkg file, and it will update in your Anki. 
@@ -91,18 +95,17 @@ Check that each of them matches current card settings.
 - 
 ![image](https://user-images.githubusercontent.com/39419221/205493920-854a4da9-1e37-4a17-8a11-12dcceea3754.png)
 
-
 - in the Anki click on **File - Import**
 
 ![image](https://user-images.githubusercontent.com/39419221/187018280-c295e071-c130-4f42-8518-a3a5e0326124.png)
 
 - choose downloaded *.csv
 
-- choose Type - "desired deck"; Update existing notes when the first field matches ; Allow HTML in fields
+- choose the Notetype and Deck you wish to update; Existing notes - Update; Match scope - Notetype
 
-![dhp](https://user-images.githubusercontent.com/39419221/174243032-22bf1919-c1c8-475c-90b6-d7f2dd1a3624.png)
+![2024-10-25_15-34](https://github.com/user-attachments/assets/e7d778be-d836-47f2-939d-ed54a704a4fd)
 
-- double check everything with this picture, and click **import**
+- double check everything, and click **import**
 
 - now you are up-to-date.
 

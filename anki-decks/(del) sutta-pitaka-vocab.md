@@ -83,7 +83,7 @@ Check that each of them matches current card settings.
 
 ![image](https://user-images.githubusercontent.com/39419221/205493976-56dd78d5-70b6-4e33-b96f-f9c2736bb16a.png)
 
-- double check everything with this picture, and click **import**
+- double check everything, and click **import**
 
 - now you are up-to-date.
 

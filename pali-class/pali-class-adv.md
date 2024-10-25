@@ -80,6 +80,10 @@ Draft of the [class material](https://docs.google.com/document/d/1QMX_yuH9uJeTEf
 
 ---
 
+It is recommended to use the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html). All exercises and words used in the course are specifically labelled in the dictionary as such, making it clear which particular meaning of words (if there are multiple) is intended in specific examples in the course. And there are many useful links leading directly to grammatical analysis.
+
+----
+
 Feel free to [contact us](mailto:studytools@sasanarakkha.org) if you need any assistance.
 
 

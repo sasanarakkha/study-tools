@@ -60,7 +60,7 @@ Check that each of them matches current card settings.
 - choose Type - Roots ; Deck - Roots ; Update existing notes when the first field matches ; Allow HTML in fields
 
 
-- double check everything with this picture, and click **import**
+- double check everything, and click **import**
 
 - now you are up-to-date.
 

@@ -46,6 +46,6 @@ If you have a problem with updating, you can use the following method:
 
 - choose Type - Reading Common Pali Phrases ; Deck - Reading Common Pali Phrases ; Update existing notes when the first field matches ; Allow HTML in fields
 
-- double check everything with this picture, and click **import**
+- double check everything, and click **import**
 
 - now you are up-to-date.

@@ -15,6 +15,10 @@ It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](http
 
 # Updating existing deck without losing your statistics
 
+!Important! Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
+
+![2024-10-25_15-27](https://github.com/user-attachments/assets/585a6c1d-6353-4b2f-a95f-7f18f29cfe5e)
+
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
 
 Please see a small [video](https://user-images.githubusercontent.com/39419221/187018792-3afe402c-e77b-46e6-ba5d-4efa0846de93.mp4) how to update.
@@ -55,10 +59,9 @@ Check that each of them matches current card settings.
 
 - choose downloaded vibhanga.csv
 
-- choose Type - Roots ; Deck - Roots ; Update existing notes when the first field matches ; Allow HTML in fields
+- choose Notetype - Vibhanga ; Deck - Pali Bhikkhu Vibhanga ;  Existing notes - Update ; Match scope - Notetype
 
-
-- double check everything with this picture, and click **import**
+- double check everything, and click **import**
 
 - now you are up-to-date.
 

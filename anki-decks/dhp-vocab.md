@@ -37,6 +37,10 @@ This tool is recommended to be used together with the [Dhammapada grammatical an
 
 # Updating existing deck without losing your statistics
 
+!Important! Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
+
+![2024-10-25_15-27](https://github.com/user-attachments/assets/585a6c1d-6353-4b2f-a95f-7f18f29cfe5e)
+
 It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
 
 Please see a small [video](https://user-images.githubusercontent.com/39419221/187018792-3afe402c-e77b-46e6-ba5d-4efa0846de93.mp4) how to update.
@@ -77,11 +81,11 @@ Check that each of them matches current card settings.
 
 - choose downloaded dhp-vocab.csv
 
-- choose Type - DHP Vocab ; Deck - DHP Vocab ; Update existing notes when the first field matches ; Allow HTML in fields
+- choose Notetype - DHP Vocab ; Deck - DHP Vocab ;  Existing notes - Update ; Match scope - Notetype
 
-![dhp](https://user-images.githubusercontent.com/39419221/174243032-22bf1919-c1c8-475c-90b6-d7f2dd1a3624.png)
 
-- double check everything with this picture, and click **import**
+
+- double check everything, and click **import**
 
 - now you are up-to-date.
 

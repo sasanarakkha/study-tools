@@ -24,15 +24,23 @@ It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FA
 
 - Double-click on the downloaded file patimokkha-word-by-word.apkg, and it will appear in your Anki.
 
-It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
+# Updating existing deck without losing your statistics
 
-- also make sure to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
+!Important! Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
 
-for update information see small [video](https://user-images.githubusercontent.com/39419221/184583735-fa65dec0-cf6a-4198-91e2-b214662a51c5.mp4)
+![2024-10-25_15-27](https://github.com/user-attachments/assets/585a6c1d-6353-4b2f-a95f-7f18f29cfe5e)
 
-- For updating the existing pack while keeping our past statistics, while your Anki is open, just double-click on the downloaded file patimokkha-word-by-word.apkg, and it will update. Your past statistics will not be lost.
+It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
 
-- If English is not your first language, it is recommended to translate words on your native language. For this, a field called "native" has been added that you can fill. And even with next update, this field still will keep all your info.
+Please see a small [video](https://user-images.githubusercontent.com/39419221/187018792-3afe402c-e77b-46e6-ba5d-4efa0846de93.mp4) how to update.
+
+Or just follow the description:
+
+Usually it is enough just to double-click on the downloaded apkg file, and it will update in your Anki. 
+
+Only you need to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
+
+If English is not your first language, it is recommended to translate words on your native language. For this, a field called "native" has been added that you can fill. And even with next update, this field still will keep all your info.
 
 # Another method of updating
 
@@ -67,7 +75,9 @@ Check that each of them matches current card settings.
 
 - choose Type - Patimokkha Word be Word ; Deck - Patimokkha Word be Word ; Update existing notes when the first field matches ; Allow HTML in fields
 
-- double check everything with this picture, and click **import**
+
+
+- double check everything and click **import**
 
 - also make sure to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 

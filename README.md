@@ -8,7 +8,7 @@ These materials are provided for the benefit, welfare, and happiness of many peo
 
 - [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/)
 
-- [SBS Pāḷi-English Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html)
+- [DPD + SBS Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html)
 
 - [Pāḷi-Russian Dictionary](https://digitalpalidictionary.github.io/rus/)
 

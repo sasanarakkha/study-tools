@@ -102,7 +102,7 @@ Check that each of them matches current card settings.
 
 ![2024-10-25_15-34_1](https://github.com/user-attachments/assets/a527ec19-e0d5-4ad9-90e6-d3cfa2046c1d)
 
-- double check everything with this picture, and click **import**
+- double check everything and click **import**
 
 - now you are up-to-date.
 
