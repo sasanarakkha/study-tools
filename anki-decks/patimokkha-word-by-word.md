@@ -44,7 +44,7 @@ This will filter all words from the current deck that are from Nidāna
 
 After finishing your study, don't forget to "Empty" this deck. This will return all cards to the original deck and keep the statistics.
 
-Or watch [small video](https://github.com/user-attachments/assets/acff310b-463e-4c24-854d-d7006994d239) how to do that
+Watch this [short video](https://github.com/user-attachments/assets/acff310b-463e-4c24-854d-d7006994d239) to learn how to do it.
 
 # Updating existing deck without losing your statistics
 
