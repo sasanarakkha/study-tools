@@ -22,7 +22,7 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 ### Pātimokkha
 
-The edition of the Pāṭimokkha is based on the comparative study ["The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita."](https://www.bps.lk/olib/bp/bp626s_Nyanatusita_Analysis-of-Bhikkhu-Patimokkha.pdf)
+The edition of the Pātimokkha is based on the comparative study ["The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita."](https://www.bps.lk/olib/bp/bp626s_Nyanatusita_Analysis-of-Bhikkhu-Patimokkha.pdf)
 
 Download: [pdf](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.pdf) / [epub](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.epub) / [azw3](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.azw3) / [mobi](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/latest/download/Nanatusita_Bhikkhupatimokkha.mobi)
 
