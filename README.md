@@ -20,7 +20,7 @@ Download: [pdf](https://github.com/sasanarakkha/pali-english-recitations/release
 
 - [Analysis of SBS Pāḷi-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html)
 
-### Ñāṇatusita Pāṭimokkha
+### Pātimokkha
 
 The edition of the Pāṭimokkha is based on the comparative study ["The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita."](https://www.bps.lk/olib/bp/bp626s_Nyanatusita_Analysis-of-Bhikkhu-Patimokkha.pdf)
 
