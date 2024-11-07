@@ -68,6 +68,8 @@ You can check the date of the latest update for all decks  [here](https://github
 
 - [Advanced Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-adv.html)
 
+- [Pātikokkha Word By Word class](https://sasanarakkha.github.io/study-tools/pali-class/patimokkha-class.html)
+
 ----------
 
 If you have any questions or comments related to these study tools, please [email us.](mailto:studytools@sasanarakkha.org)
