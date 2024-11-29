@@ -56,15 +56,15 @@ For those who need some basic Pali knowledge to benefit more from this class, th
 
 - A list of abbreviations used in DPD and all SBS Pali study tools.
 
-`/filesrv1/share1/Sharing between users/13 For Pāli class/Anki Decks/abbreviations.xlsx`
+`\\FILESRV1\share1\Sharing between users\13 For Pāli class\Anki Decks\abbreviations.xlsx`
 
 - Video guides on how to install Anki and set up GoldenDict on your Windows Server account.
 
-`/filesrv1/share1/Sharing between users/13 For Pāli class/video/how-to`
+`\\FILESRV1\share1\Sharing between users\13 For Pāli class\video\how-to`
 
 - Compact grammar tables on the server for those who need to refresh basic English grammar knowledge.
 
-`/filesrv1/share1/Sharing between users/13 For Pāli class/Extra Reading/English Grammatical Terms`
+`\\FILESRV1\share1\Sharing between users\13 For Pāli class\Extra Reading\English Grammatical Terms`
 
 - An introduction to the basic parts of speech in Pali and their translation. Please read through the [Beginner Pali Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html), and, if desired, the [Intermediate Pali Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html). You don’t have to complete all exercises—just review the main headings to get an overview.
 
