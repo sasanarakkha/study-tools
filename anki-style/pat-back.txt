@@ -46,11 +46,14 @@
 <tr valign='top'>
 <td><div class=myclass>{{#commentary}}Commentary:{{/commentary}}</td>
 <td></div style>{{commentary}}</td>
+</table>
 
+<hr>
+{{#notez}}
+<div style='color: red'>{{notez}}</div>
 <br>
-<tr valign='top'>
-<td><div style='color: red'>{{notez}}</td>
-<tr valign='top'>
-<td>
-<div style="font-size:60%; text-align: right">{{feedback}}</div
+{{/notez}}
+<div style="font-size:80%; text-align: left">{{web_link}}</div>
+<br>
+<div style="font-size:80%; text-align: right">{{feedback}}</div>
 
