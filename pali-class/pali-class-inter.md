@@ -46,8 +46,6 @@ to download any of these documents, select the needed format:
 
 It is a continuation of the Vocab Anki Deck from the [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html).
 
-It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html)
-
 [How to update Anki Decks for Pāli Class](https://sasanarakkha.github.io/study-tools/pali-class/update-anki-class.html)
 
 [How to removing outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
@@ -60,6 +58,7 @@ It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/
 
 - [vocabulary related to each class](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) 
 
+You can find most of those decks on AnkiWeb by [searching for "pali."](https://ankiweb.net/shared/decks?search=pali) Unfortunately, AnkiWeb keeps removing decks that are not popular.
 
 ----
 

@@ -1,6 +1,6 @@
 <h1>Add-on special fields</h1>
 
-This add-on make things easier when you update Anki decks
+This add-on makes updating Anki decks smoother. Please use it only if you have a very old version of the deck and are experiencing difficulties with updating it. By default it is easier without this add-on.
 
 Open **Anki > Tools > Add-ons**
 

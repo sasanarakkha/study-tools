@@ -41,8 +41,6 @@ This tool is recommended to be used together with the [Dhammapada grammatical an
 
 ![2024-10-25_15-27](https://github.com/user-attachments/assets/585a6c1d-6353-4b2f-a95f-7f18f29cfe5e)
 
-It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
-
 Please see a small [video](https://user-images.githubusercontent.com/39419221/187018792-3afe402c-e77b-46e6-ba5d-4efa0846de93.mp4) how to update.
 
 Or just follow the description:
@@ -51,9 +49,14 @@ Usually it is enough just to double-click on the downloaded apkg file, and it wi
 
 Only you need to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
+# Special fields add-on
+
+If you're having trouble updating your deck, consider trying the [Special Fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html). Only install it if you've exhausted all other options.
+
 # Another method of updating
 
-If you have a problem with updating, you can use the following method:
+For those who have trouble updating Anki deck by simply clicking on the .apkg file, there is a reliable but somewhat complicated method for updating. This is especially useful for users with very old versions of the deck.
+
 
 - download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/dhp-vocab.csv) 
 

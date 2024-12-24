@@ -52,6 +52,8 @@ Download: [pdf](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/l
 
 <!-- - [Roots](https://sasanarakkha.github.io/study-tools/anki-decks/roots.html) -->
 
+You can find most of those decks on AnkiWeb by [searching for "pali."](https://ankiweb.net/shared/decks?search=pali) Unfortunately, AnkiWeb keeps removing decks that are not popular.
+
 
 You can check the date of the latest update for all decks  [here](https://github.com/sasanarakkha/study-tools/releases/latest).
 

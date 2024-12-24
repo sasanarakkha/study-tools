@@ -52,8 +52,6 @@ Watch this [short video](https://github.com/user-attachments/assets/acff310b-463
 
 ![2024-10-25_15-27](https://github.com/user-attachments/assets/585a6c1d-6353-4b2f-a95f-7f18f29cfe5e)
 
-It is recommended to use [Special fields Add-on](https://sasanarakkha.github.io/study-tools/special-fields.html)
-
 Please see a small [video](https://user-images.githubusercontent.com/39419221/187018792-3afe402c-e77b-46e6-ba5d-4efa0846de93.mp4) how to update.
 
 Or just follow the description:
@@ -64,9 +62,13 @@ Only you need to [remove outdated words](https://sasanarakkha.github.io/study-to
 
 If English is not your first language, it is recommended to translate words on your native language. For this, a field called "native" has been added that you can fill. And even with next update, this field still will keep all your info.
 
+# Special fields add-on
+
+If you're having trouble updating your deck, consider trying the [Special Fields Add-on](https://sasanarakkha.github.io/study-tools/anki-decks/special-fields.html). Only install it if you've exhausted all other options.
+
 # Another method of updating
 
-If you have a problem with updating, you can use the following method:
+For those who have trouble updating Anki deck by simply clicking on the .apkg file, there is a reliable but somewhat complicated method for updating. This is especially useful for users with very old versions of the deck.
 
 - download the latest csv file [here.](https://github.com/sasanarakkha/study-tools/releases/latest/download/patimokkha-word-by-word.csv)
 
