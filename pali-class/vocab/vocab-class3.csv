@@ -26,7 +26,7 @@ kassapa 1,masc,name of the 1st previous Buddha,,,a masc,2
 kāma 3,masc,sense desire (of); sensual pleasure (of),√kam 8 *e (desire),√kam > kām + *a,a masc,2
 kāya 1.1,masc,body; physical body; physical process,"√ci 5 nā (gather, accumulate)",√ci > ki > kay + *a,a masc,2
 kesa 1,masc,(head) hair,,,a masc,2
-khandha 3,masc,aggregate; combination; conglomeration,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
+khandha 3,masc,aggregate; combination; conglomeration; bundle,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
 khaya,masc,wearing away (of); exhaustion (of); erosion (of); depletion (of); destruction (of),"√khī 1 a (exhaust, destroy)",√khī > khay + *a,a masc,2
 khādati,pr,chews; devours; eats,√khād 1 a (chew),khāda + ti,ati pr,3
 gacchati 1,pr,goes; walks; moves; wanders around; travels,√gam 1 a (go),gaccha + ti,ati pr,3
@@ -79,7 +79,7 @@ pāpuṇāti 1,pr,reaches; arrives (at); comes (to),"√ap 4 uṇā (reach, atta
 puggala,masc,person; individual,,,a masc,2
 pucchati,pr,asks; enquires; questions (somebody about something),"√pucch 1 a (ask, question)",puccha + ti,ati pr,3
 putta 1,masc,son; child,,,a masc,2
-phassa 1,masc,contact; sense impingement; raw experience; touch,√phus 1 a (touch),√phus > phass + a,a masc,2
+phassa 1,masc,sense contact; sense impingement; sense impression; sense experience,√phus 1 a (touch),√phus > phass + a,a masc,2
 bāla 2,masc,fool; idiot; immature person,,,a masc east,2
 brāhmaṇa 1,masc,Brahman; priest; man of the Brahman caste,√brah 1 a (increase),"√brah > brāh + ma + *aṇa
 brahma + *aṇa",a masc,2
@@ -92,7 +92,7 @@ bheda 2,masc,death,"√bhid 2 ṃa (break, split)",√bhid > bhed + *a,a masc,2
 manussa,masc,human being; man; person,,manu + ssa,a masc,2
 māṇava 1,masc,young man; young gentleman; young Brahman,,manu > māṇav + *a,a masc,2
 māra,masc,death; Death; death personified,√mar 1 a (die),√mar > mār + *a,a masc,2
-moha 1,masc,illusion; delusion; hallucination,"√muh 3 ya (be deluded, be confused)",√muh > moh + *a,a masc,2
+moha 1,masc,illusion; delusion; misapprehension,"√muh 3 ya (be deluded, be confused)",√muh > moh + *a,a masc,2
 rasa 1,masc,taste; flavour,√ras 1 a (taste),√ras + a,a masc,2
 rukkha 1,masc,tree,,,a masc,2
 labhati 1,pr,gets; receives; obtains (something for someone),√labh 1 a (get),labha + ti,ati pr,3
@@ -127,5 +127,5 @@ viveka 1,masc,seclusion; solitude; detachment; disengagement; independence,√vi
 viharati 1,pr,lives (in); dwells (in); stays (in),√har 1 a (live),vi + hara + ti,ati pr,3
 vūpasama 1,masc,peace (of); calming (of); subsiding (of); settling (of),"√sam 3 ya (be calm, be tired)",vi + upa + √sam + a,a masc,2
 hattha 1,masc,hand,,,a masc,2
-adhigama 2,masc,attainment (of); achievement (of),√gam 1 a (go),adhi + √gam + a,a masc,2
+adhigama 2,masc,attainment; achievement; realization (of),√gam 1 a (go),adhi + √gam + a,a masc,2
 ābādha 2,masc,affliction; oppression; suffering,"√bādh 1 a (press, oppress)",ā + √bādh + a,a masc,2

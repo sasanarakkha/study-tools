@@ -1,6 +1,6 @@
 pali,pos,meaning,root,construction,pattern,cl.
 akkosa,masc,verbal abuse; insult; name calling,"√kus 1 *a (call, insult)",ā + √kus > kos + *a,a masc,2
-agacchi,aor,went; travelled,√gam 1 a (go),a + gaccha + i,i aor issaṃ,4
+agacchi,aor,went; travelled (to),√gam 1 a (go),a + gaccha + i,i aor issaṃ,4
 aggi,masc,fire,√agg 1 a (move crookedly),√agg + i,i masc,4
 ajesi,aor,conquered; defeated,√ji 1 a (conquer),a + je + si,esi aor,4
 aṭṭhāsi 1,aor,stood; stayed; remained,√ṭhā 1 a (stand),a + √ṭhā + si,āsi aor,4
@@ -10,7 +10,7 @@ attha 4.2,imp,you (all) must be; may you (all) be,√as 1 a (be),√as + tha > a
 atthi 1.1,pr,there is; there exists,√as 1 a (be),√as + ti > atthi,atthi pr,4
 adhamma 2,masc,false teaching; something opposed to the teaching,"√dhar 1 a (hold, carry, endure)",na > a + √dhar + ma,a masc,5
 anāgāmī,adj,who does not return; non-returning,√gam 1 a (go),na > an + ā + √gam > gām + *ī,ī adj,5
-anālaya 1,masc,non-clinging; non-attachment; non-reliance; unstuck,"√lī 3 ya (stick, hide)",na > an + ā + √lī > lay + *a,a masc,5
+anālaya 1,masc,non-clinging; non-attachment; non-reliance; unstuck; epithet of Nibbāna,"√lī 3 ya (stick, hide)",na > an + ā + √lī > lay + *a,a masc,5
 anupassī 1,adj,looking (at); observing; following; noticing; witnessing; watching,√dis 1 a (see),anu + passa + ī,ī adj,5
 anuyuñjati 2,pr,indulges (in); is addicted (to),"√yuj 2 ṃa (yoke, join)",anu + yuñja + ti,ati pr,3
 anusaya,masc,underlying tendency (to); inherent inclination (to); dormant disposition (towards); propensity (to),"√sī 1 a (lie, sleep)",anu + √sī > say + *a,a masc,2
@@ -70,7 +70,7 @@ kesa 1,masc,(head) hair,,,a masc,2
 khaṇati,pr,digs; digs up; uproots,√khaṇ 1 a (dig),khaṇa + ti,ati pr,3
 khattiya 2,masc,man of the ruling caste; high caste man; nobleman,,,a masc,2
 khandha 1,masc,mass; heap; pile; volume; aggregation,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
-khandha 3,masc,aggregate; combination; conglomeration,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
+khandha 3,masc,aggregate; combination; conglomeration; bundle,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
 khaya,masc,wearing away (of); exhaustion (of); erosion (of); depletion (of); destruction (of),"√khī 1 a (exhaust, destroy)",√khī > khay + *a,a masc,2
 khādati,pr,chews; devours; eats,√khād 1 a (chew),khāda + ti,ati pr,3
 gaccha 1,imp,go!; begone!; away with you!,√gam 1 a (go),gaccha + a,ati pr,4
@@ -127,13 +127,13 @@ neva 1,sandhi,neither; not,,na + eva,,5
 no 1.1,ind,no; not,,na + u > no,,5
 pakkamati 1,pr,goes (from); goes away (from); leaves (from),√kam 1 a (go),pa + kama + ti,ati pr,3
 pakkhī,masc,bird,,pakkha + ī,ī masc,5
-paggaṇhāti 2,pr,holds up; raises up,√gah 6 ṇhā (grasp),pa + gaṇhā + ti,āti pr,3
+paggaṇhāti 2,pr,holds out; raises up,√gah 6 ṇhā (grasp),pa + gaṇhā + ti,āti pr,3
 paccassosi,aor,replied (to); agreed (with),√su 4 ṇā (hear),pati > paty > pacc + a + so + si,i aor,4
 pajahati,pr,gives up; abandons; lets go (of),√hā 1 a (abandon),pa + jaha + ti,ati pr,3
 pañha 2,masc,question; enquiry,"√pañh 1 a (ask, question)",√pañh + a,a masc,2
 paṭiggaṇhāti 1,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gaṇhā + ti,āti pr,3
 paṭiggaheti,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gahe + ti,eti pr,3
-paṭijānāti 4,pr,makes the claim (of); claims (to be),√ñā 5 nā (know),pati + jānā + ti,āti pr,3
+paṭijānāti 4,pr,makes the claim (of); claims (to be); supposes ones is,√ñā 5 nā (know),pati + jānā + ti,āti pr,3
 paṭinissagga,masc,giving up (of); relinquishing (of); dropping (of); abandoning (of),"√sajj 1 a (relinquish, let loose)",pati + nī + √sajj > sagg + a,a masc,2
 paṭipajjati 2,pr,practices; follows a course of action; follows a method,"√pad 3 ya (go, step)",pati + pajja + ti,ati pr,3
 paṭibhāti,pr,comes to mind; occurs (to); inspires (someone to),"√bhā 1 a (shine, speak)",pati + bhā + ti,āti pr,3
@@ -163,7 +163,7 @@ pucchi,aor,asked; enquired; questioned (somebody about something),"√pucch 1 a 
 putta 1,masc,son; child,,,a masc,2
 pessaka 1,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
 pessa + ka",a masc,2
-phassa 1,masc,contact; sense impingement; raw experience; touch,√phus 1 a (touch),√phus > phass + a,a masc,2
+phassa 1,masc,sense contact; sense impingement; sense impression; sense experience,√phus 1 a (touch),√phus > phass + a,a masc,2
 bāla 2,masc,fool; idiot; immature person,,,a masc east,2
 byākarissati,fut,will explain; will define; will describe,"√kar 7 o (do, make)",vi > vy > by + ā + karissa + ti,oti pr,5
 byākāsi 1,aor,answered; replied,"√kar 7 o (do, make)",vi > vy > by + ā + √kar > kā + si,āsi aor,4
@@ -189,7 +189,7 @@ māra,masc,death; Death; death personified,√mar 1 a (die),√mar > mār + *a,a
 māsa 2.1,masc,bean,,,a masc,2
 mugga,masc,mung beans,"√mud 1 a (be soft, be happy)",√mud > mug + ga,a masc,2
 muni 1,masc,monk; sage; seer; hermit; silent sage,"√mun 5 nā (think, know)",√mun + i,i masc,4
-moha 1,masc,illusion; delusion; hallucination,"√muh 3 ya (be deluded, be confused)",√muh > moh + *a,a masc,2
+moha 1,masc,illusion; delusion; misapprehension,"√muh 3 ya (be deluded, be confused)",√muh > moh + *a,a masc,2
 yasassī 1,adj,famous; renowned; illustrious; celebrated,,yasas + sī,ī adj,5
 yācati 1,pr,asks; requests; begs (someone for something),√yāc 1 a (beg),yāca + ti,ati pr,3
 rakkhati 1,pr,protects; watches over; guards (something against something),√rakkh 1 a (protect),rakkha + ti,ati pr,3
@@ -199,6 +199,7 @@ rāhula,masc,name of an arahant monk; Buddha's son,,,a masc,2
 rukkha 1,masc,tree,,,a masc,2
 labhati 1,pr,gets; receives; obtains (something for someone),√labh 1 a (get),labha + ti,ati pr,3
 loka 1,masc,world; universe; cosmos,√lok 8 *e (look),√lok + a,a masc,2
+loka 2,masc,world; plane of existence,√lok 8 *e (look),√lok + a,a masc,2
 loma 1,masc,body hair,,,a masc,2
 sakuṇa,masc,bird,,,a masc,2
 saṅkhāra 1,masc,intention; volitional formation; choice; karmic activity,"√kar 7 o (do, make)",saṃ + √kar > khār + *a,a masc,2
@@ -234,7 +235,7 @@ sota 1.1,masc,stream; river; current,√su 1 a (flow),√su > so + *ta,a masc,2
 sobhati 2,pr,looks beautiful (in),"√subh 1 *a (shine, adorn)",sobha + ti,ati pr,3
 vadati 1,pr,says (to); speaks (to); tells (to),"√vad 1 a (say, speak)",vada + ti,ati pr,3
 vasa 1.2,masc,control (over); authority (over); power (over); mastery (over),"√vas 1 a (want, control)",√vas + a,a masc,2
-vāṇija,masc,trader; dealer,,vaṇija > vāṇija + *a,a masc,2
+vāṇija,masc,trader; dealer; merchant,,vaṇija > vāṇija + *a,a masc,2
 vādī 1,adj,speaking; saying; telling,"√vad 1 a (say, speak)",√vad > vād + *ī,ī adj,5
 vitakka 1,masc,thought; reflection; pondering,√takk 8 *e (think),vi + √takk + a,a masc,2
 vinaya 1,masc,discipline; training,"√nī 1 a (lead, carry)",vi + √nī > nay + *a,a masc,2
@@ -253,8 +254,8 @@ vedeti 1,pr,feels; experiences; senses,"√vid 8 *e (know, sense, feel)",vede + 
 hattha 1,masc,hand,,,a masc,2
 hoti 1,pr,is; becomes,√hū 1 a (be),ho + ti,hoti pr,4
 hotu 1,imp,may it be (for)!,√hū 1 a (be),ho + tu,hoti pr,4
-hotha,imp,may you all be!; I pray you all may be!,√hū 1 a (be),ho + tha,hoti pr,4
+hotha,imp,may you all be!; you all must be!; I pray you all may be!,√hū 1 a (be),ho + tha,hoti pr,4
 hontu,imp,may they be!; they must be!,√hū 1 a (be),ho + ntu,hoti pr,4
-adhigama 2,masc,attainment (of); achievement (of),√gam 1 a (go),adhi + √gam + a,a masc,2
+adhigama 2,masc,attainment; achievement; realization (of),√gam 1 a (go),adhi + √gam + a,a masc,2
 ābādha 2,masc,affliction; oppression; suffering,"√bādh 1 a (press, oppress)",ā + √bādh + a,a masc,2
 chindati 5,pr,cuts across; breasts; fords,"√chid 2 ṃa (cut, steal)",chinda + ti,ati pr,3

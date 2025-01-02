@@ -1,6 +1,6 @@
 pali,pos,meaning,root,construction,pattern,cl.
 akkosa,masc,verbal abuse; insult; name calling,"√kus 1 *a (call, insult)",ā + √kus > kos + *a,a masc,2
-agacchi,aor,went; travelled,√gam 1 a (go),a + gaccha + i,i aor issaṃ,4
+agacchi,aor,went; travelled (to),√gam 1 a (go),a + gaccha + i,i aor issaṃ,4
 aggi,masc,fire,√agg 1 a (move crookedly),√agg + i,i masc,4
 accādhāya,ger,overlapping; placing one on top of another,"√dhā 1 a (place, support)",ati > aty > acc + ā + √dhā + ya,,8
 acchādeti 1.1,pr,dresses; clothes; give clothes (to),"√chad 8 *e (cover, conceal)",ā + chāde + ti,eti pr,3
@@ -17,7 +17,7 @@ atthi 1.1,pr,there is; there exists,√as 1 a (be),√as + ti > atthi,atthi pr,4
 adhamma 2,masc,false teaching; something opposed to the teaching,"√dhar 1 a (hold, carry, endure)",na > a + √dhar + ma,a masc,5
 adhigacchati 1,pr,gets to; attains; finds; acquires; obtains,√gam 1 a (go),adhi + gaccha + ti,ati pr,3
 anāgāmī,adj,who does not return; non-returning,√gam 1 a (go),na > an + ā + √gam > gām + *ī,ī adj,5
-anālaya 1,masc,non-clinging; non-attachment; non-reliance; unstuck,"√lī 3 ya (stick, hide)",na > an + ā + √lī > lay + *a,a masc,5
+anālaya 1,masc,non-clinging; non-attachment; non-reliance; unstuck; epithet of Nibbāna,"√lī 3 ya (stick, hide)",na > an + ā + √lī > lay + *a,a masc,5
 anupassī 1,adj,looking (at); observing; following; noticing; witnessing; watching,√dis 1 a (see),anu + passa + ī,ī adj,5
 anuyuñjati 2,pr,indulges (in); is addicted (to),"√yuj 2 ṃa (yoke, join)",anu + yuñja + ti,ati pr,3
 anulometi 2,pr,regulates; settles; balances,,"anu + loma + e + ti
@@ -74,7 +74,7 @@ ahosi,aor,was; existed; became,√hū 1 a (be),a + ho + si,hosi aor,4
 ābhujitvā,abs,having bent; having folded,√bhuj 1 a (bend),ā + √bhuj + itvā,,8
 āmantayati 1,pr,tells; informs; advises,"√mant 8 *aya (counsel, invite)",ā + mantaya + ti,ati pr,3
 āmantesi,aor,addressed; said (to); advised,"√mant 8 *e (counsel, invite)",ā + mante + si,esi aor,4
-āyasmant 1,masc,venerable; reverend,"√i 1 a (come, go)","ā + √i > ay + *as + mant
+āyasmant 1,masc,sir; venerable; reverend,"√i 1 a (come, go)","ā + √i > ay + *as + mant
 āyas + mant",ant masc,6
 ārabhati 1.1,pr,begins; starts; undertakes; arouses oneself (to); makes an effort (to),√rabh 1 a (begin),ā + rabha + ti,ati pr,3
 āloka,masc,light; brightness; clarity,√lok 8 *e (look),ā + √lok + a,a masc,2
@@ -100,7 +100,7 @@ upasama 1,masc,calmness (of); tranquillisation (of); stillness (of); peace (of),
 upasampajja 1,ger,reaching; attaining; arriving at,"√pad 3 ya (go, step)",upa + saṃ + √pad + ya,,8
 upasampadā 2,fem,(vinaya) higher ordination as monastic,"√pad 3 ya (go, step)",upa + saṃ + √pad + ā,ā fem,7
 upasussati,pr,dries up; withers; shrivels,"√sus 3 ya (dry, wither)",upa + sussa + ti,ati pr,3
-upassaya 1,masc,dwelling; shelter; home,"√si 1 a (depend on, associate with)",upa + √si > say + *a,a masc,2
+upassaya 1,masc,dwelling; shelter; home; residence,"√si 1 a (depend on, associate with)",upa + √si > say + *a,a masc,2
 upāyāsa 1,masc,affliction; difficulty; trouble; despair,"√yas 3 ya (strive, struggle)",upa + ā + √yas > yās + *a,a masc,2
 upāsaka,masc,lay disciple; lay devotee,√ās 1 a (sit),upa + √ās + aka,a masc,2
 upāsikā,fem,female disciple; laywomen; female devotee,√ās 1 a (sit),upa + √ās + ikā,ā fem,7
@@ -118,7 +118,7 @@ oka 1.1,masc,home; abode,√uc 3 ya (comfort),√uc > ok + *a,a masc,2
 okirati,pr,sprinkles; scatters down (onto),"√kir 1 a (scatter, sprinkle)",ava + kira + ti,ati pr,3
 ottappī,adj,afraid of wrong; conscientious,√tapp 1 a (regret),ud > od + √tapp + *ī,ī adj,5
 obhāsati 1.1,pr,speaks coarsely (to); speaks suggestively (to); talks rudely (to); talks dirty (to),√bhās 1 a (speak),ava + bhāsa + ti,ati pr,3
-ovāda,masc,advice; instruction encouragement; exhortation,"√vad 1 a (say, speak)",ava + √vad > vād + *a,a masc,2
+ovāda 1,masc,advice; instruction; encouragement; exhortation,"√vad 1 a (say, speak)",ava + √vad > vād + *a,a masc,2
 katvāna 1,abs,having done,"√kar 7 o (do, make)",√kar + tvāna,,8
 kathā 1,fem,talk; speech; conversation; discussion,"√kath 8 *e (speak, narrate)",√kath + ā,ā fem,7
 kappati,pr,it is suitable (for); it is proper (for); it is fitting (for); it is allowable,"√kapp 1 a (be fit, be suitable)",kappa + ti,ati pr,3
@@ -141,7 +141,7 @@ khaṇati,pr,digs; digs up; uproots,√khaṇ 1 a (dig),khaṇa + ti,ati pr,3
 khattiya 2,masc,man of the ruling caste; high caste man; nobleman,,,a masc,2
 khanti 1,fem,patience; endurance; tolerance,"√kham 1 a (tolerate, endure)",√kham + ti,i fem,8
 khandha 1,masc,mass; heap; pile; volume; aggregation,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
-khandha 3,masc,aggregate; combination; conglomeration,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
+khandha 3,masc,aggregate; combination; conglomeration; bundle,"√khandh 8 *e (collect, accumulate)",√khandh + a,a masc,2
 khaya,masc,wearing away (of); exhaustion (of); erosion (of); depletion (of); destruction (of),"√khī 1 a (exhaust, destroy)",√khī > khay + *a,a masc,2
 khādati,pr,chews; devours; eats,√khād 1 a (chew),khāda + ti,ati pr,3
 khipi 1.1,aor,threw; tossed; hurled,√khip 1 a (throw),√khip + i,i aor,4
@@ -236,7 +236,7 @@ nahāru,masc,tendon; sinew,"√nah 3 ya (bind, arm)",√nah + āru,u masc,6
 nābhijānāti 1,pr,does not know; does not understand,√ñā 5 nā (know),"na + abhi + jānā + ti
 na + abhijānāti",āti pr,5
 nārī,fem,woman,,nara > nāra + *ī,ī fem,8
-nikkhipati 3,pr,keeps; stores; saves; sets aside; lays aside (something in something),√khip 1 a (throw),ni + khipa + ti,ati pr,3
+nikkhipati 3,pr,sets aside; lays aside; keeps; saves; stores (something in something),√khip 1 a (throw),ni + khipa + ti,ati pr,3
 niddisi 1,aor,indicated; pointed out; designated; appointed,"√dis 1 a (point out, explain)",nī + √dis + i,i aor,4
 nidhi 1,masc,treasure; trove; hoard,"√dhā 1 a (place, support)",ni + √dhā + i,i masc,4
 nibbidā,fem,dis-enchantment (towards); de-illusionment (with); disinterest (in); dispassion (towards),"√vid 2 ṃa (feel, like)",nī + √vid > bid + ā,ā fem,7
@@ -256,7 +256,7 @@ no 1.1,ind,no; not,,na + u > no,,5
 pakkamati 1,pr,goes (from); goes away (from); leaves (from),√kam 1 a (go),pa + kama + ti,ati pr,3
 pakkāmi 1,aor,left; set off (from); went away (from),√kam 1 a (go),pa + a + √kam > kām + i,i aor isuṃ,4
 pakkhī,masc,bird,,pakkha + ī,ī masc,5
-paggaṇhāti 2,pr,holds up; raises up,√gah 6 ṇhā (grasp),pa + gaṇhā + ti,āti pr,3
+paggaṇhāti 2,pr,holds out; raises up,√gah 6 ṇhā (grasp),pa + gaṇhā + ti,āti pr,3
 paggaṇhāti 3,pr,applies effort; strives on; goes for it; endeavours,√gah 6 ṇhā (grasp),pa + gaṇhā + ti,āti pr,3
 paggahetvā 2,abs,having raised up; having lifted up,√gah 6 ṇhā (grasp),pa + gahe + tvā,,8
 paccaya 2,masc,cause (for); reason (for); supporting condition (for); requirement (for),"√i 1 a (come, go)",pati > paty > pacc + √i > ay + *a,a masc,2
@@ -272,7 +272,7 @@ paṭiggaṇhāti 1,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + g
 paṭiggaheti,pr,takes; accepts; receives,√gah 6 ṇhā (grasp),pati + gahe + ti,eti pr,3
 paṭighāta 1,masc,warding off; repelling; driving off; keeping at bay,"√ghaṭ 8 *e (strike, kill)","pati + √ghaṭ > ghāṭ + *a
 pati + ghāta",a masc,2
-paṭijānāti 4,pr,makes the claim (of); claims (to be),√ñā 5 nā (know),pati + jānā + ti,āti pr,3
+paṭijānāti 4,pr,makes the claim (of); claims (to be); supposes ones is,√ñā 5 nā (know),pati + jānā + ti,āti pr,3
 paṭinissagga,masc,giving up (of); relinquishing (of); dropping (of); abandoning (of),"√sajj 1 a (relinquish, let loose)",pati + nī + √sajj > sagg + a,a masc,2
 paṭinivattitvā,abs,having turned around and come back (from),"√vatt 1 a (be, proceed)",pati + ni + √vatt + itvā,,8
 paṭipajjati 2,pr,practices; follows a course of action; follows a method,"√pad 3 ya (go, step)",pati + pajja + ti,ati pr,3
@@ -333,7 +333,7 @@ petī,fem,female ghost; female spirit,"√i 1 a (come, go)","pa + e + ta + ī
 peta + ī",ī fem,8
 pessaka 1,masc,messenger,√pis 8 ya (send),"√pis > pes + *ya + ka
 pessa + ka",a masc,2
-phassa 1,masc,contact; sense impingement; raw experience; touch,√phus 1 a (touch),√phus > phass + a,a masc,2
+phassa 1,masc,sense contact; sense impingement; sense impression; sense experience,√phus 1 a (touch),√phus > phass + a,a masc,2
 phāsu 2,masc,ease (for); comfort (for),√phus 1 a (touch),√phus > phās + *u,u masc,6
 bandhati 1,pr,binds; ties up; imprisons; confines,"√bandh 1 a (bind, tie)",bandha + ti,ati pr,3
 balavant 1,adj,strong; powerful,"√bal 1 a (be strong, live)","√bal + a + vant
@@ -389,7 +389,7 @@ mettā,fem,goodwill (towards); friendliness (to); benevolence (for),√mitt 1 a 
 medhāvī,masc,intelligent man; wise man; who has good judgment,√medh 1 a (be wise),"√medh + ā + vī
 medhā + vī",ī masc,5
 moggallāna 1,masc,name of a monk; chief disciple; great disciple of the Buddha; foremost disciple in psychic power,,muggala > moggala + *yāna,a masc,2
-moha 1,masc,illusion; delusion; hallucination,"√muh 3 ya (be deluded, be confused)",√muh > moh + *a,a masc,2
+moha 1,masc,illusion; delusion; misapprehension,"√muh 3 ya (be deluded, be confused)",√muh > moh + *a,a masc,2
 yakkhī,fem,female supernatural being; female spirit; daemoness,√yakkh 8 *e (worship),"√yakkh + a + ī
 yakkha + ī",ī fem,8
 yattha,ind,wherever; where; when; in which,,ya + ttha,,8
@@ -404,9 +404,10 @@ rasa 1,masc,taste; flavour,√ras 1 a (taste),√ras + a,a masc,2
 rāga 1.1,masc,desire (for); passion (for); infatuation (with); lust (for),√raj 3 ya (desire),√raj > rag > rāg + *a,a masc,2
 rāhula,masc,name of an arahant monk; Buddha's son,,,a masc,2
 rukkha 1,masc,tree,,,a masc,2
-ruci,fem,liking; preference; choice; inclination; approval,"√ruc 1 *a (shine, like)",√ruc + i,i fem,8
+ruci,fem,preference; choice; liking; approval,"√ruc 1 *a (shine, like)",√ruc + i,i fem,8
 labhati 1,pr,gets; receives; obtains (something for someone),√labh 1 a (get),labha + ti,ati pr,3
 loka 1,masc,world; universe; cosmos,√lok 8 *e (look),√lok + a,a masc,2
+loka 2,masc,world; plane of existence,√lok 8 *e (look),√lok + a,a masc,2
 lokavidū,masc,who knows the world; who understands the universe; epithet of the Buddha,,loka + vidū,ū masc,6
 loma 1,masc,body hair,,,a masc,2
 sakuṇa,masc,bird,,,a masc,2
@@ -464,6 +465,7 @@ sīla + vant",ant adj,6
 sīha 1,masc,lion,,,a masc,2
 sukhī 2,masc,happy one; who is at ease; who is happy; who is comfortable,"√sukh 1 a (please, be comfortable)",√sukh + ī,ī masc,5
 sugata 2,masc,Accomplished One; Fortunate One; epithet of the Buddha,√gam 1 a (go),su + √gam + ta,a masc,2
+sugati,fem,good destination; happy fate,√gam 1 a (go),su + √gam + ti,i fem,8
 suggati,fem,state of happiness; good destination; heaven,√gam 1 a (go),su + √gam + ti,i fem,8
 suṇāti 1,pr,hears,√su 4 ṇā (hear),suṇā + ti,āti pr,3
 suṇātu,imp,one must listen!; it must hear!,√su 4 ṇā (hear),suṇā + tu,āti pr,4
@@ -484,7 +486,7 @@ vanatha 2.1,masc,desire; craving,"√van 7 o (like, desire)","√van + a + tha
 vana + tha",a masc,2
 vasa 1.2,masc,control (over); authority (over); power (over); mastery (over),"√vas 1 a (want, control)",√vas + a,a masc,2
 vā 1,ind,or; either or,,,,6
-vāṇija,masc,trader; dealer,,vaṇija > vāṇija + *a,a masc,2
+vāṇija,masc,trader; dealer; merchant,,vaṇija > vāṇija + *a,a masc,2
 vādī 1,adj,speaking; saying; telling,"√vad 1 a (say, speak)",√vad > vād + *ī,ī adj,5
 vāyamati,pr,tries (to); makes an effort (to); strives (for); exerts oneself (to),"√yam 1 a (control, strive, end)",vi + ā + yama + ti,ati pr,3
 vikappa 1.1,masc,alteration (to); improvement (to); distinction (regarding),"√kapp 1 a (be fit, be suitable)",vi + √kapp + a,a masc,2
@@ -511,22 +513,22 @@ viharati 1,pr,lives (in); dwells (in); stays (in),√har 1 a (live),vi + hara + 
 vihārī,adj,(of a state of being) living in; who has; being,√har 1 a (live),vi + √har > hār + *ī,ī adj,5
 vīhi,masc,rice paddy; Oryza sativa,,,i masc,4
 vūpasama 1,masc,peace (of); calming (of); subsiding (of); settling (of),"√sam 3 ya (be calm, be tired)",vi + upa + √sam + a,a masc,2
-vedanā 1,fem,"(pleasant, unpleasant or neutral) felt experience; feeling; sensation; second of the five aggregates","√vid 8 *e (know, sense, feel)",√vid > ved + *anā,ā fem,7
+vedanā 1,fem,"(pleasant, unpleasant or neutral) felt experience; feeling; feeling tone; sensation; second of the five aggregates","√vid 8 *e (know, sense, feel)",√vid > ved + *anā,ā fem,7
 vedeti 1,pr,feels; experiences; senses,"√vid 8 *e (know, sense, feel)",vede + ti,eti pr,3
 vesālī,fem,name of a city; capital of the Licchavis,,,ī fem,8
 voharati 1,pr,speaks; communicates; gives expression; uses language,√har 1 a (carry),vi + ava + hara + ti,ati pr,3
 hattha 1,masc,hand,,,a masc,2
 harati 2,pr,takes; steals; robs,√har 1 a (carry),hara + ti,ati pr,3
 hitvā,abs,having left; having left behind; having abandoned,√hā 1 a (abandon),√hā + itvā,,8
-hiri,fem,sense of shame; modesty; conscience; sense of right and wrong; scruples; (comm) originating from inside,√hir 3 ya (be ashamed),√hir + i,i fem,8
+hiri,fem,conscience; sense of right and wrong; scruples; (comm) originating from inside,√hir 3 ya (be ashamed),√hir + i,i fem,8
 hirimant,adj,having a conscience; with scruples; with an internal sense of right and wrong,√hir 3 ya (be ashamed),"√hir + i + mant
 hiri + mant",ant adj,6
 hoti 1,pr,is; becomes,√hū 1 a (be),ho + ti,hoti pr,4
 hotu 1,imp,may it be (for)!,√hū 1 a (be),ho + tu,hoti pr,4
-hotha,imp,may you all be!; I pray you all may be!,√hū 1 a (be),ho + tha,hoti pr,4
+hotha,imp,may you all be!; you all must be!; I pray you all may be!,√hū 1 a (be),ho + tha,hoti pr,4
 hontu,imp,may they be!; they must be!,√hū 1 a (be),ho + ntu,hoti pr,4
-adhigama 2,masc,attainment (of); achievement (of),√gam 1 a (go),adhi + √gam + a,a masc,2
-pūjā 1,fem,veneration (of); homage (to); honour (for),"√pūj 8 *e (honour, venerate)",√pūj + ā,ā fem,7
+adhigama 2,masc,attainment; achievement; realization (of),√gam 1 a (go),adhi + √gam + a,a masc,2
+pūjā 1,fem,veneration (of); homage (to); honouring,"√pūj 8 *e (honour, venerate)",√pūj + ā,ā fem,7
 adhigaccheyya 2,opt,would experience; would feel,√gam 1 a (go),adhi + gaccha + eyya,ati pr,7
 ābādha 2,masc,affliction; oppression; suffering,"√bādh 1 a (press, oppress)",ā + √bādh + a,a masc,2
 chindati 5,pr,cuts across; breasts; fords,"√chid 2 ṃa (cut, steal)",chinda + ti,ati pr,3
