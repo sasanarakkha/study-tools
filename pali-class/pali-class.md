@@ -63,7 +63,7 @@ You can find most of those decks on AnkiWeb by [searching for "pali."](https://a
 
 - [Root lists](https://docs.google.com/spreadsheets/d/11CGPhDJ1-mPLfuumdz_CxgYtFpjY28jfBUA4sMkCINU/) Saddanīti, Dhātupātha, Dhātumañjūsa.
 
-- [List of friquent words and roots](https://docs.google.com/spreadsheets/d/1XwwVMnoYwNqJxj-pbYnQJfqZOD44sdr7EXRco2Ate_g/) in Vinaya + Sutta piṭaka.
+- [List of friquent words and roots](https://docs.google.com/spreadsheets/d/1KB_g--0MEPbgS6Vrbz2y6nR2YLgh2mnfsPHxg64T_YQ/) in Vinaya + Sutta piṭaka.
 
 - [vocabulary related to each class](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) 
 
