@@ -56,7 +56,7 @@ It is a continuation of the Vocab Anki Deck from the [Beginner Pāli Course](htt
 
 - Anki Deck [Phonetic Changes](https://github.com/sasanarakkha/study-tools/releases/latest/download/phonetic-pali-class.apkg).
 
-- [List of friquent words, roots, sandhi and samāsa](https://docs.google.com/spreadsheets/d/1KB_g--0MEPbgS6Vrbz2y6nR2YLgh2mnfsPHxg64T_YQ/) in Vinaya + Sutta piṭaka.
+- [List of frequent words, roots, sandhi and samāsa](https://docs.google.com/spreadsheets/d/1KB_g--0MEPbgS6Vrbz2y6nR2YLgh2mnfsPHxg64T_YQ/) in Vinaya + Sutta piṭaka.
 
 - [vocabulary related to each class](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) 
 
