@@ -3,14 +3,17 @@
 
 Please note that the data provided here is constantly being updated, so please make sure to use the most recent information. Please feel free to use the [feedback form](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/) to report any errors or make suggestions.
 
-# Vocabulary for each course:
+# Vocabulary for Pāli Courses:
 
-- for [Beginner Pāli Course](./vocab_bpc.html)
+Please note that the lists of words do not overlap.
 
-- for [Intermediate Pāli Course](./vocab_ipc.html)
+- All words for [Beginner Pāli Course](./vocab_bpc.html)
 
+- All words for [Intermediate Pāli Course](./vocab_ipc.html)
 
 # Vocabulary for each class separately:
+
+Please note that each subsequent class will include vocabulary from all previous classes.
 
 ## [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html)
 
@@ -46,7 +49,5 @@ Please note that the data provided here is constantly being updated, so please m
 - [vocab-class28](./vocab-class28.html)
 - [vocab-class29](./vocab-class29.html)
 
-Also can be found in the class folder on the server:
-
-`\\FILESRV1\share1\Sharing between users\13 For Pāli class\vocab-for-classes.xlsx`
+Unified XLSX file can be found [here](https://github.com/sasanarakkha/study-tools/blob/main/pali-class/vocab/vocab-for-classes.xlsx)
 
