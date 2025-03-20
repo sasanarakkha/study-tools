@@ -18,27 +18,8 @@ It includes the following sources:
 
 For upcoming classes, you may practice analyzing the pātikokkha rules using the second sheet in the Google Sheet mentioned above. Please make a copy of this document rather than editing the original.
 
-To begin, follow these steps:
+Here is the [folder with exercises.](https://drive.google.com/drive/folders/1MXKNzFuTZ45VRiOtKhOyv3kpPE7q3Dje?usp=drive_link)
 
-- Copy the relevant rows from the second sheet.
-
-![image](https://github.com/user-attachments/assets/76de6b3a-1056-4532-b808-b294b009af80)
-
-- Open a new spreadsheet (it will be saved to your Google Drive automatically if you’re logged into your Google Account).
-- 
-![image](https://github.com/user-attachments/assets/279a055b-5484-4d14-a573-3537bed84494)
-
-- Paste the copied text as unformatted (**Ctrl + Shift + V**), as copying directly from a list with formulas may result in errors.
-
-![image](https://github.com/user-attachments/assets/ab93dcdf-3429-4cf0-bbd8-ef306fdb4c96)
-
-- Make sure to remove the English translation of the sentences, as it may sometimes be present.
-
-- Once you have pasted the text, you can complete the exercises here, or you may choose to print or save it as a PDF as preferred.
-
-- Repeat this process for each week’s exercises. Consider pasting each week's content into a new tab within your document so it stays organized in one file.
-
-Please avoid copying everything at once, as the materials are undergoing detailed, gradual revisions and may change significantly.
 
 # Anki decks
 
