@@ -11,8 +11,8 @@ An extended version of the [Digital Pāḷi Dictionary](https://digitalpalidicti
 - Integrated Links: Direct access to SBS resources, such as grammatical analyses, recitations, and sutta studies, tied to relevant dictionary entries.
 
 Download the latest update in various formats:
-- for [GoldenDict](https://github.com/digitalpalidictionary/rus-release/releases/latest/download/dpd+sbs-goldendict.zip)
-- for [MDict](https://github.com/digitalpalidictionary/rus-release/releases/latest/download/dpd+sbs-mdict.zip)
+- for [GoldenDict](https://github.com/sasanarakkha/dpd-db-sbs/releases/latest/download/dpd+sbs-goldendict.zip)
+- for [MDict](https://github.com/sasanarakkha/dpd-db-sbs/releases/latest/download/dpd+sbs-mdict.zip)
 
 ### Additions:
 

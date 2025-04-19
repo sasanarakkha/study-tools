@@ -2,7 +2,7 @@
 
 ПРОЕКТ В РАЗРАБОТКЕ
 
-Удобрый интрумент для запоминания слов на пали. Анки версия [Пали словаря](https://digitalpalidictionary.github.io/rus/). Колода доступна для тестирования и [отзывов](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=ПалиСловарь)
+Удобрый интрумент для запоминания слов на пали. Анки версия [Пали словаря](https://devamitta.github.io/dpd.rus/). Колода доступна для тестирования и [отзывов](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=ПалиСловарь)
 Не забывайте регулярно загружать свежую версию.
 
 - **[Загрузить последнее обновление](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-vocab.apkg)**
