@@ -18,15 +18,15 @@ Download the latest update in various formats:
 
 In addition to all the [features of DPD](https://digitalpalidictionary.github.io/features.html), this extended version dictionary provides targeted information related to SBS projects. These enhancements are available only for words that occur in SBS Pāli materials, including: 
 
-- [SBS Pāli Classes](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html): Grammatical analyses of all words found in SBS Pāli classes (e.g., click on [*(cl. 9)*](https://docs.google.com/document/d/11qnZ0ZmhmCCMv8A8cypJbBEtTkJogwHapQevFFknukA/#heading=h.1t3h5sf)).
+- [SBS Pāli Classes](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html): Grammatical analyses of all words found in SBS Pāli classes (e.g., click on [*(cl. 10)*](https://docs.google.com/document/d/11qnZ0ZmhmCCMv8A8cypJbBEtTkJogwHapQevFFknukA/#heading=h.t1bc1uitkobu)).
 
-- [Pāli-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html): Detailed studies of words from SBS Pāli-English Recitations (e.g., click on [*Anatta-lakkhaṇa-sutta*](https://docs.google.com/document/d/1KUqsOrCtCGxZm9gvaBuQutMhv6N9ak0aJ-USkaGBjPc/)).
+- [Pāli-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html): Detailed studies of words from SBS Pāli-English Recitations (e.g., click on [*Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā*](https://docs.google.com/document/d/1-6yapQqB0s7WdX7GijzXCeni5QmPhp4Xd7lVqovaNcA/)).
 
-- [Vinaya Studies](https://sasanarakkha.github.io/study-tools/pali-class/patimokkha-class.html): Analysis of terms from Bhikkhu Pātimokkha and Bhikkhu Vibhaṅga (e.g., click on [*(pat)*](https://devamitta.github.io/patimokkha_dict/Bhikkhu_Patimokkha/main.html).
+- [Vinaya Studies](https://sasanarakkha.github.io/study-tools/pali-class/patimokkha-class.html): Analysis of terms from Bhikkhu Pātimokkha and Bhikkhu Vibhaṅga (e.g., click on [*(pat)*](https://devamitta.github.io/patimokkha_dict/Bhikkhu_Patimokkha/main.html) or *(vib)*).
 
 - [Advanced Pāli Education](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-adv.html): Additional insights into suttas and passages featured in SBS Advanced Pāli education materials (e.g., click on [*(sn22)*](https://docs.google.com/document/d/1kt-OP0fUHEjR4pmc72ZljK8XD9oirssI1fMvfTvOhKw/)).
-
-![image](https://github.com/user-attachments/assets/2a3a0e46-445f-40be-91e7-7d6ae7844985)
+- 
+![dpd_sbs_light](https://github.com/user-attachments/assets/de459781-395c-4cac-8746-ce5ad6e41c66)
 
 This work is based on the [DPD by Ven. Bodhirasa](https://digitalpalidictionary.github.io/), which is a work in progress and regularly updated. For clearer and more accurate information, please install updates regularly.
 
