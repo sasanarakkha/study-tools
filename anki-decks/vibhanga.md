@@ -6,8 +6,6 @@ Made for memorization of Pāli words from definitions of Pātimokkha words in Bh
 
 It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb), The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita and Pātimokkha Word By Word [Anki deck](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html) and [analysis](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/).
 
-If you want to understand the Pātimokkha rules more deeply, you can use the [Anki deck of Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html), which contains all pāli words from the Pātimokkha with same level detailed grammatical analisys.
-
 If you want to gain a deeper understanding of the Pātimokkha rules, you can use the Anki deck called ["Pātimokkha Word by Word"](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html), which provides detailed grammatical analysis for all Pāli words from the Pātimokkha.
 
 - **[Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/vibhanga.apkg)**

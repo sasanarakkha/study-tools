@@ -1,4 +1,6 @@
 
+#!TODO make it according to latest file locations 
+
 ## instruction how to do monthly update of [sbs study tools](https://sasanarakkha.github.io/study-tools/):
 
 - generate latest dps-full using [dpd-db/dps/scripts/dps_csv.py](https://github.com/sasanarakkha/dpd-db-sbs/blob/main/dps/scripts/dps_csv.py)
