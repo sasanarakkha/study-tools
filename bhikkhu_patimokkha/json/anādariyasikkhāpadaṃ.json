@@ -1,0 +1,34 @@
+[
+  {
+    "abbrev":"PC 54",
+    "source":"anādariyasikkhāpadaṃ",
+    "sentence":"anādariye pācittiyaṃ.",
+    "pali_1":"anādariye",
+    "pos":"noun",
+    "grammar":"nt loc sg of anādariya",
+    "case":"",
+    "meaning":"in disrespect, in rudeness",
+    "meaning_lit":"",
+    "root":"√dar (respect, have affection)",
+    "base":"",
+    "construction":"na + ā + √dar + iya",
+    "compound_type":"",
+    "compound_construction":""
+  },
+  {
+    "abbrev":"PC 54",
+    "source":"anādariyasikkhāpadaṃ",
+    "sentence":"anādariye pācittiyaṃ.",
+    "pali_1":"pācittiyaṃ",
+    "pos":"noun",
+    "grammar":"nt nom sg of pācittiya",
+    "case":"+loc",
+    "meaning":"offence requiring confession, offence involving expiation",
+    "meaning_lit":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound_type":"",
+    "compound_construction":""
+  }
+]

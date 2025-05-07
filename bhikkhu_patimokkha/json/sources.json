@@ -1,0 +1,930 @@
+[
+  {
+    "source":null,
+    "abbrev":null
+  },
+  {
+    "source":"nidānuddeso",
+    "abbrev":"NI"
+  },
+  {
+    "source":"pārājikuddeso",
+    "abbrev":"PA "
+  },
+  {
+    "source":"methunadhamma sikkhāpadaṃ",
+    "abbrev":"PA 1"
+  },
+  {
+    "source":"adinnādānasikkhāpadaṃ",
+    "abbrev":"PA 2"
+  },
+  {
+    "source":"manussaviggahasikkhāpadaṃ",
+    "abbrev":"PA 3"
+  },
+  {
+    "source":"uttarimanussadhammasikkhāpadaṃ",
+    "abbrev":"PA 4"
+  },
+  {
+    "source":"saṅghādisesuddeso",
+    "abbrev":"SA "
+  },
+  {
+    "source":"sukkavissaṭṭhisikkhāpadaṃ",
+    "abbrev":"SA 1"
+  },
+  {
+    "source":"kāyasaṃsaggasikkhāpadaṃ",
+    "abbrev":"SA 2"
+  },
+  {
+    "source":"duṭṭhullavācāsikkhāpadaṃ",
+    "abbrev":"SA 3"
+  },
+  {
+    "source":"attakāmapāricariyasikkhāpadaṃ",
+    "abbrev":"SA 4"
+  },
+  {
+    "source":"sañcarittasikkhāpadaṃ",
+    "abbrev":"SA 5"
+  },
+  {
+    "source":"kuṭikārasikkhāpadaṃ",
+    "abbrev":"SA 6"
+  },
+  {
+    "source":"vihārakārasikkhāpadaṃ",
+    "abbrev":"SA 7"
+  },
+  {
+    "source":"duṭṭhadosasikkhāpadaṃ",
+    "abbrev":"SA 8"
+  },
+  {
+    "source":"aññabhāgiyasikkhāpadaṃ",
+    "abbrev":"SA 9"
+  },
+  {
+    "source":"saṅghabhedasikkhāpadaṃ",
+    "abbrev":"SA 10"
+  },
+  {
+    "source":"bhedānuvattakasikkhāpadaṃ",
+    "abbrev":"SA 11"
+  },
+  {
+    "source":"dubbacasikkhāpadaṃ",
+    "abbrev":"SA 12"
+  },
+  {
+    "source":"kuladūsakasikkhāpadaṃ",
+    "abbrev":"SA 13"
+  },
+  {
+    "source":"saṅghādisesuddeso",
+    "abbrev":"SA"
+  },
+  {
+    "source":"aniyatuddeso",
+    "abbrev":"AN"
+  },
+  {
+    "source":"paṭhamaaniyatasikkhāpadaṃ",
+    "abbrev":"AN 1"
+  },
+  {
+    "source":"dutiyāniyatasikkhāpada",
+    "abbrev":"AN 2"
+  },
+  {
+    "source":"nissaggiyapācittiyā",
+    "abbrev":"NP"
+  },
+  {
+    "source":"kathinasikkhāpadaṃ",
+    "abbrev":"NP 1"
+  },
+  {
+    "source":"udositasikkhāpadaṃ",
+    "abbrev":"NP 2"
+  },
+  {
+    "source":"akālacīvarasikkhāpadaṃ",
+    "abbrev":"NP 3"
+  },
+  {
+    "source":"purāṇacīvarasikkhāpadaṃ",
+    "abbrev":"NP 4"
+  },
+  {
+    "source":"cīvarapaṭiggahaṇasikkhāpadaṃ",
+    "abbrev":"NP 5"
+  },
+  {
+    "source":"aññātakaviññattisikkhāpadaṃ",
+    "abbrev":"NP 6"
+  },
+  {
+    "source":"tatuttarisikkhāpadaṃ",
+    "abbrev":"NP 7"
+  },
+  {
+    "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
+    "abbrev":"NP 8"
+  },
+  {
+    "source":"dutiyaupakkhaṭasikkhāpadaṃ",
+    "abbrev":"NP 9"
+  },
+  {
+    "source":"rājasikkhāpadaṃ",
+    "abbrev":"NP 10"
+  },
+  {
+    "source":"kosiyasikkhāpadaṃ",
+    "abbrev":"NP 11"
+  },
+  {
+    "source":"suddhakāḷakasikkhāpadaṃ",
+    "abbrev":"NP 12"
+  },
+  {
+    "source":"dvebhāgasikkhāpadaṃ",
+    "abbrev":"NP 13"
+  },
+  {
+    "source":"chabbassasikkhāpadaṃ",
+    "abbrev":"NP 14"
+  },
+  {
+    "source":"nisīdanasanthatasikkhāpadaṃ",
+    "abbrev":"NP 15"
+  },
+  {
+    "source":"eḷakalomasikkhāpadaṃ",
+    "abbrev":"NP 16"
+  },
+  {
+    "source":"eḷakalomadhovāpanasikkhāpadaṃ",
+    "abbrev":"NP 17"
+  },
+  {
+    "source":"rūpiyasikkhāpadaṃ",
+    "abbrev":"NP 18"
+  },
+  {
+    "source":"rūpiyasaṃvohārasikkhāpadaṃ",
+    "abbrev":"NP 19"
+  },
+  {
+    "source":"kayavikkayasikkhāpadaṃ",
+    "abbrev":"NP 20"
+  },
+  {
+    "source":"pattasikkhāpadaṃ",
+    "abbrev":"NP 21"
+  },
+  {
+    "source":"ūnapañcabandhanasikkhāpadaṃ",
+    "abbrev":"NP 22"
+  },
+  {
+    "source":"bhesajjasikkhāpadaṃ",
+    "abbrev":"NP 23"
+  },
+  {
+    "source":"vassikasāṭikasikkhāpadaṃ",
+    "abbrev":"NP 24"
+  },
+  {
+    "source":"cīvaraacchindanasikkhāpadaṃ",
+    "abbrev":"NP 25"
+  },
+  {
+    "source":"suttaviññattisikkhāpadaṃ",
+    "abbrev":"NP 26"
+  },
+  {
+    "source":"mahāpesakārasikkhāpadaṃ",
+    "abbrev":"NP 27"
+  },
+  {
+    "source":"accekacīvarasikkhāpadaṃ",
+    "abbrev":"NP 28"
+  },
+  {
+    "source":"sāsaṅkasikkhāpadaṃ",
+    "abbrev":"NP 29"
+  },
+  {
+    "source":"pariṇatasikkhāpadaṃ",
+    "abbrev":"NP 30"
+  },
+  {
+    "source":"pācittiyā",
+    "abbrev":"PC "
+  },
+  {
+    "source":"musāvādasikkhāpadaṃ",
+    "abbrev":"PC 01"
+  },
+  {
+    "source":"omasavādasikkhāpadaṃ",
+    "abbrev":"PC 02"
+  },
+  {
+    "source":"pesuññasikkhāpadaṃ",
+    "abbrev":"PC 03"
+  },
+  {
+    "source":"padasodhammasikkhāpadaṃ",
+    "abbrev":"PC 04"
+  },
+  {
+    "source":"paṭhamasahaseyyasikkhāpadaṃ",
+    "abbrev":"PC 05"
+  },
+  {
+    "source":"dutiyasahaseyyasikkhāpada",
+    "abbrev":"PC 06"
+  },
+  {
+    "source":"dhammadesanāsikkhāpadaṃ",
+    "abbrev":"PC 07"
+  },
+  {
+    "source":"bhūtārocanasikkhāpadaṃ",
+    "abbrev":"PC 08"
+  },
+  {
+    "source":"duṭṭhullārocanasikkhāpadaṃ",
+    "abbrev":"PC 09"
+  },
+  {
+    "source":"pathavīkhaṇanasikkhāpadaṃ",
+    "abbrev":"PC 10"
+  },
+  {
+    "source":"bhūtagāmasikkhāpadaṃ",
+    "abbrev":"PC 11"
+  },
+  {
+    "source":"aññavādakasikkhāpadaṃ",
+    "abbrev":"PC 12"
+  },
+  {
+    "source":"ujjhāpanakasikkhāpadaṃ",
+    "abbrev":"PC 13"
+  },
+  {
+    "source":"paṭhamasenāsanasikkhāpadaṃ",
+    "abbrev":"PC 14"
+  },
+  {
+    "source":"dutiyasenāsanasikkhāpadaṃ\n",
+    "abbrev":"PC 15"
+  },
+  {
+    "source":"anupakhajjasikkhāpadaṃ",
+    "abbrev":"PC 16"
+  },
+  {
+    "source":"nikkaḍḍhanasikkhāpadaṃ",
+    "abbrev":"PC 17"
+  },
+  {
+    "source":"vehāsakuṭisikkhāpadaṃ",
+    "abbrev":"PC 18"
+  },
+  {
+    "source":"mahallakavihārasikkhāpadaṃ",
+    "abbrev":"PC 19"
+  },
+  {
+    "source":"sappāṇakasikkhāpadaṃ",
+    "abbrev":"PC 20"
+  },
+  {
+    "source":"ovādasikkhāpadaṃ",
+    "abbrev":"PC 21"
+  },
+  {
+    "source":"atthaṅgatasikkhāpadaṃ",
+    "abbrev":"PC 22"
+  },
+  {
+    "source":"bhikkhunupassayasikkhāpadaṃ",
+    "abbrev":"PC 23"
+  },
+  {
+    "source":"āmisasikkhāpadaṃ",
+    "abbrev":"PC 24"
+  },
+  {
+    "source":"cīvaradānasikkhāpadaṃ",
+    "abbrev":"PC 25"
+  },
+  {
+    "source":"cīvarasibbanasikkhāpadaṃ",
+    "abbrev":"PC 26"
+  },
+  {
+    "source":"saṃvidhānasikkhāpadaṃ",
+    "abbrev":"PC 27"
+  },
+  {
+    "source":"nāvābhiruhanasikkhāpadaṃ",
+    "abbrev":"PC 28"
+  },
+  {
+    "source":"paripācitasikkhāpadaṃ",
+    "abbrev":"PC 29"
+  },
+  {
+    "source":"rahonisajjasikkhāpadaṃ",
+    "abbrev":"PC 30"
+  },
+  {
+    "source":"āvasathapiṇḍasikkhāpadaṃ",
+    "abbrev":"PC 31"
+  },
+  {
+    "source":"gaṇabhojanasikkhāpadaṃ",
+    "abbrev":"PC 32"
+  },
+  {
+    "source":"paramparabhojanasikkhāpadaṃ",
+    "abbrev":"PC 33"
+  },
+  {
+    "source":"kāṇamātusikkhāpadaṃ",
+    "abbrev":"PC 34"
+  },
+  {
+    "source":"paṭhamapavāraṇāsikkhāpadaṃ",
+    "abbrev":"PC 35"
+  },
+  {
+    "source":"dutiyapavāraṇāsikkhāpadaṃ",
+    "abbrev":"PC 36"
+  },
+  {
+    "source":"vikālabhojanasikkhāpadaṃ",
+    "abbrev":"PC 37"
+  },
+  {
+    "source":"sannidhikārakasikkhāpadaṃ",
+    "abbrev":"PC 38"
+  },
+  {
+    "source":"paṇītabhojanasikkhāpadaṃ",
+    "abbrev":"PC 39"
+  },
+  {
+    "source":"dantaponasikkhāpadaṃ",
+    "abbrev":"PC 40"
+  },
+  {
+    "source":"acelakasikkhāpadaṃ",
+    "abbrev":"PC 41"
+  },
+  {
+    "source":"uyyojanasikkhāpadaṃ",
+    "abbrev":"PC 42"
+  },
+  {
+    "source":"sabhojanasikkhāpadaṃ",
+    "abbrev":"PC 43"
+  },
+  {
+    "source":"rahopaṭicchannasikkhāpadaṃ",
+    "abbrev":"PC 44"
+  },
+  {
+    "source":"rahonisajjasikkhāpadaṃ 2",
+    "abbrev":"PC 45"
+  },
+  {
+    "source":"cārittasikkhāpadaṃ",
+    "abbrev":"PC 46"
+  },
+  {
+    "source":"mahānāmasikkhāpadaṃ",
+    "abbrev":"PC 47"
+  },
+  {
+    "source":"uyyuttasenāsikkhāpadaṃ",
+    "abbrev":"PC 48"
+  },
+  {
+    "source":"senāvāsasikkhāpadaṃ",
+    "abbrev":"PC 49"
+  },
+  {
+    "source":"uyyodhikasikkhāpadaṃ",
+    "abbrev":"PC 50"
+  },
+  {
+    "source":"surāpānasikkhāpadaṃ",
+    "abbrev":"PC 51"
+  },
+  {
+    "source":"aṅgulipatodakasikkhāpadaṃ",
+    "abbrev":"PC 52"
+  },
+  {
+    "source":"hasadhammasikkhāpadaṃ",
+    "abbrev":"PC 53"
+  },
+  {
+    "source":"anādariyasikkhāpadaṃ",
+    "abbrev":"PC 54"
+  },
+  {
+    "source":"bhiṃsāpanasikkhāpadaṃ",
+    "abbrev":"PC 55"
+  },
+  {
+    "source":"jotisikkhāpadaṃ",
+    "abbrev":"PC 56"
+  },
+  {
+    "source":"nahānasikkhāpadaṃ",
+    "abbrev":"PC 57"
+  },
+  {
+    "source":"dubbaṇṇakaraṇasikkhāpadaṃ",
+    "abbrev":"PC 58"
+  },
+  {
+    "source":"vikappanasikkhāpadaṃ",
+    "abbrev":"PC 59"
+  },
+  {
+    "source":"apanidhānasikkhāpadaṃ",
+    "abbrev":"PC 60"
+  },
+  {
+    "source":"sañciccasikkhāpadaṃ",
+    "abbrev":"PC 61"
+  },
+  {
+    "source":"sappāṇakasikkhāpadaṃ 2",
+    "abbrev":"PC 62"
+  },
+  {
+    "source":"ukkoṭanasikkhāpadaṃ",
+    "abbrev":"PC 63"
+  },
+  {
+    "source":"duṭṭhullasikkhāpadaṃ",
+    "abbrev":"PC 64"
+  },
+  {
+    "source":"ūnavīsativassasikkhāpadaṃ",
+    "abbrev":"PC 65"
+  },
+  {
+    "source":"theyyasatthasikkhāpadaṃ",
+    "abbrev":"PC 66"
+  },
+  {
+    "source":"saṃvidhānasikkhāpadaṃ 2",
+    "abbrev":"PC 67"
+  },
+  {
+    "source":"ariṭṭhasikkhāpadaṃ",
+    "abbrev":"PC 68"
+  },
+  {
+    "source":"ukkhittasambhogasikkhāpadaṃ",
+    "abbrev":"PC 69"
+  },
+  {
+    "source":"kaṇṭakasikkhāpadaṃ",
+    "abbrev":"PC 70"
+  },
+  {
+    "source":"sahadhammikasikkhāpadaṃ",
+    "abbrev":"PC 71"
+  },
+  {
+    "source":"vilekhanasikkhāpadaṃ",
+    "abbrev":"PC 72"
+  },
+  {
+    "source":"mohanasikkhāpadaṃ",
+    "abbrev":"PC 73"
+  },
+  {
+    "source":"pahārasikkhāpadaṃ",
+    "abbrev":"PC 74"
+  },
+  {
+    "source":"talasattikasikkhāpadaṃ",
+    "abbrev":"PC 75"
+  },
+  {
+    "source":"amūlakasikkhāpadaṃ",
+    "abbrev":"PC 76"
+  },
+  {
+    "source":"sañciccasikkhāpadaṃ 2",
+    "abbrev":"PC 77"
+  },
+  {
+    "source":"upassutisikkhāpadaṃ",
+    "abbrev":"PC 78"
+  },
+  {
+    "source":"kammappaṭibāhanasikkhāpadaṃ",
+    "abbrev":"PC 79"
+  },
+  {
+    "source":"chandaṃadatvāgamanasikkhāpadaṃ",
+    "abbrev":"PC 80"
+  },
+  {
+    "source":"dubbalasikkhāpadaṃ",
+    "abbrev":"PC 81"
+  },
+  {
+    "source":"pariṇāmanasikkhāpadaṃ",
+    "abbrev":"PC 82"
+  },
+  {
+    "source":"antepurasikkhāpadaṃ",
+    "abbrev":"PC 83"
+  },
+  {
+    "source":"ratanasikkhāpadaṃ",
+    "abbrev":"PC 84"
+  },
+  {
+    "source":"vikālagāmappavesanasikkhāpadaṃ",
+    "abbrev":"PC 85"
+  },
+  {
+    "source":"sūcigharasikkhāpadaṃ",
+    "abbrev":"PC 86"
+  },
+  {
+    "source":"mañcapīṭhasikkhāpadaṃ",
+    "abbrev":"PC 87"
+  },
+  {
+    "source":"tūlonaddhasikkhāpadaṃ",
+    "abbrev":"PC 88"
+  },
+  {
+    "source":"nisīdanasikkhāpadaṃ",
+    "abbrev":"PC 89"
+  },
+  {
+    "source":"kaṇḍuppaṭicchādisikkhāpadaṃ",
+    "abbrev":"PC 90"
+  },
+  {
+    "source":"vassikasāṭikāsikkhāpadaṃ",
+    "abbrev":"PC 91"
+  },
+  {
+    "source":"nandasikkhāpadaṃ",
+    "abbrev":"PC 92"
+  },
+  {
+    "source":"pācittiyā",
+    "abbrev":"PC"
+  },
+  {
+    "source":"pāṭidesanīyā",
+    "abbrev":"PD"
+  },
+  {
+    "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
+    "abbrev":"PD 1"
+  },
+  {
+    "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
+    "abbrev":"PD 2"
+  },
+  {
+    "source":"tatiyapāṭidesanīyasikkhāpadaṃ",
+    "abbrev":"PD 3"
+  },
+  {
+    "source":"catutthapāṭidesanīyasikkhāpadaṃ",
+    "abbrev":"PD 4"
+  },
+  {
+    "source":"sekhiyā",
+    "abbrev":"SE"
+  },
+  {
+    "source":"parimaṇḍalasikkhāpadaṃ",
+    "abbrev":"SE 1"
+  },
+  {
+    "source":"parimaṇḍalasikkhāpadaṃ",
+    "abbrev":"SE 2"
+  },
+  {
+    "source":"suppaṭicchannasikkhāpadaṃ",
+    "abbrev":"SE 3"
+  },
+  {
+    "source":"suppaṭicchannasikkhāpadaṃ",
+    "abbrev":"SE 4"
+  },
+  {
+    "source":"susaṃvutasikkhāpadaṃ",
+    "abbrev":"SE 5"
+  },
+  {
+    "source":"susaṃvutasikkhāpadaṃ",
+    "abbrev":"SE 6"
+  },
+  {
+    "source":"okkhittacakkhusikkhāpadaṃ",
+    "abbrev":"SE 7"
+  },
+  {
+    "source":"okkhittacakkhusikkhāpadaṃ",
+    "abbrev":"SE 8"
+  },
+  {
+    "source":"ukkhittakasikkhāpadaṃ",
+    "abbrev":"SE 9"
+  },
+  {
+    "source":"ukkhittakasikkhāpadaṃ",
+    "abbrev":"SE 10"
+  },
+  {
+    "source":"ujjagghikasikkhāpadaṃ",
+    "abbrev":"SE 11"
+  },
+  {
+    "source":"ujjagghikasikkhāpadaṃ",
+    "abbrev":"SE 12"
+  },
+  {
+    "source":"uccasaddasikkhāpadaṃ",
+    "abbrev":"SE 13"
+  },
+  {
+    "source":"uccasaddasikkhāpadaṃ",
+    "abbrev":"SE 14"
+  },
+  {
+    "source":"kāyappacālakasikkhāpadaṃ",
+    "abbrev":"SE 15"
+  },
+  {
+    "source":"kāyappacālakasikkhāpadaṃ",
+    "abbrev":"SE 16"
+  },
+  {
+    "source":"bāhuppacālakasikkhāpadaṃ",
+    "abbrev":"SE 17"
+  },
+  {
+    "source":"bāhuppacālakasikkhāpadaṃ",
+    "abbrev":"SE 18"
+  },
+  {
+    "source":"sīsappacālakasikkhāpadaṃ",
+    "abbrev":"SE 19"
+  },
+  {
+    "source":"sīsappacālakasikkhāpadaṃ",
+    "abbrev":"SE 20"
+  },
+  {
+    "source":"khambhakatasikkhāpadaṃ",
+    "abbrev":"SE 21"
+  },
+  {
+    "source":"khambhakatasikkhāpadaṃ",
+    "abbrev":"SE 22"
+  },
+  {
+    "source":"oguṇṭhitasikkhāpadaṃ",
+    "abbrev":"SE 23"
+  },
+  {
+    "source":"oguṇṭhitasikkhāpadaṃ",
+    "abbrev":"SE 24"
+  },
+  {
+    "source":"ukkuṭikasikkhāpadaṃ",
+    "abbrev":"SE 25"
+  },
+  {
+    "source":"pallatthikasikkhāpadaṃ",
+    "abbrev":"SE 26"
+  },
+  {
+    "source":"sakkaccapaṭiggahaṇasikkhāpadaṃ",
+    "abbrev":"SE 27"
+  },
+  {
+    "source":"pattasaññīpaṭiggahaṇasikkhāpadaṃ",
+    "abbrev":"SE 28"
+  },
+  {
+    "source":"samasūpakapaṭiggahaṇasikkhāpadaṃ",
+    "abbrev":"SE 29"
+  },
+  {
+    "source":"samatittikasikkhāpadaṃ",
+    "abbrev":"SE 30"
+  },
+  {
+    "source":"sakkaccabhuñjanasikkhāpadaṃ",
+    "abbrev":"SE 31"
+  },
+  {
+    "source":"pattasaññībhuñjanasikkhāpadaṃ",
+    "abbrev":"SE 32"
+  },
+  {
+    "source":"sapadānasikkhāpadaṃ",
+    "abbrev":"SE 33"
+  },
+  {
+    "source":"samasūpakasikkhāpadaṃ",
+    "abbrev":"SE 34"
+  },
+  {
+    "source":"nathūpakatasikkhāpadaṃ",
+    "abbrev":"SE 35"
+  },
+  {
+    "source":"odanappaṭicchādanasikkhāpadaṃ",
+    "abbrev":"SE 36"
+  },
+  {
+    "source":"sūpodanaviññattisikkhāpadaṃ",
+    "abbrev":"SE 37"
+  },
+  {
+    "source":"ujjhānasaññīsikkhāpadaṃ",
+    "abbrev":"SE 38"
+  },
+  {
+    "source":"kabaḷasikkhāpadaṃ",
+    "abbrev":"SE 39"
+  },
+  {
+    "source":"ālopasikkhāpadaṃ",
+    "abbrev":"SE 40"
+  },
+  {
+    "source":"anāhaṭasikkhāpadaṃ",
+    "abbrev":"SE 41"
+  },
+  {
+    "source":"bhuñjamānasikkhāpadaṃ",
+    "abbrev":"SE 42"
+  },
+  {
+    "source":"sakabaḷasikkhāpadaṃ",
+    "abbrev":"SE 43"
+  },
+  {
+    "source":"piṇḍukkhepakasikkhāpadaṃ",
+    "abbrev":"SE 44"
+  },
+  {
+    "source":"kabaḷāvacchedakasikkhāpadaṃ",
+    "abbrev":"SE 45"
+  },
+  {
+    "source":"avagaṇḍakārakasikkhāpadaṃ",
+    "abbrev":"SE 46"
+  },
+  {
+    "source":"hatthaniddhunakasikkhāpadaṃ",
+    "abbrev":"SE 47"
+  },
+  {
+    "source":"sitthāvakārakasikkhāpadaṃ",
+    "abbrev":"SE 48"
+  },
+  {
+    "source":"jivhānicchārakasikkhāpadaṃ",
+    "abbrev":"SE 49"
+  },
+  {
+    "source":"capucapukārakasikkhāpadaṃ",
+    "abbrev":"SE 50"
+  },
+  {
+    "source":"surusurukārakasikkhāpadaṃ",
+    "abbrev":"SE 51"
+  },
+  {
+    "source":"hatthanillehakasikkhāpadaṃ",
+    "abbrev":"SE 52"
+  },
+  {
+    "source":"pattanillehakasikkhāpadaṃ",
+    "abbrev":"SE 53"
+  },
+  {
+    "source":"oṭṭhanillehakasikkhāpadaṃ",
+    "abbrev":"SE 54"
+  },
+  {
+    "source":"sāmisasikkhāpadaṃ",
+    "abbrev":"SE 55"
+  },
+  {
+    "source":"sasitthakasikkhāpadaṃ",
+    "abbrev":"SE 56"
+  },
+  {
+    "source":"chattapāṇisikkhāpadaṃ",
+    "abbrev":"SE 57"
+  },
+  {
+    "source":"daṇḍapāṇisikkhāpadaṃ",
+    "abbrev":"SE 58"
+  },
+  {
+    "source":"satthapāṇisikkhāpadaṃ",
+    "abbrev":"SE 59"
+  },
+  {
+    "source":"āvudhapāṇisikkhāpadaṃ",
+    "abbrev":"SE 60"
+  },
+  {
+    "source":"pādukasikkhāpadaṃ",
+    "abbrev":"SE 61"
+  },
+  {
+    "source":"upāhanasikkhāpadaṃ",
+    "abbrev":"SE 62"
+  },
+  {
+    "source":"yānasikkhāpadaṃ",
+    "abbrev":"SE 63"
+  },
+  {
+    "source":"sayanasikkhāpadaṃ",
+    "abbrev":"SE 64"
+  },
+  {
+    "source":"pallatthikasikkhāpadaṃ 2",
+    "abbrev":"SE 65"
+  },
+  {
+    "source":"veṭhitasikkhāpadaṃ",
+    "abbrev":"SE 66"
+  },
+  {
+    "source":"oguṇṭhitasikkhāpadaṃ 2",
+    "abbrev":"SE 67"
+  },
+  {
+    "source":"chamāsikkhāpadaṃ",
+    "abbrev":"SE 68"
+  },
+  {
+    "source":"nīcāsanasikkhāpadaṃ",
+    "abbrev":"SE 69"
+  },
+  {
+    "source":"ṭhitasikkhāpadaṃ",
+    "abbrev":"SE 70"
+  },
+  {
+    "source":"pacchatogamanasikkhāpadaṃ",
+    "abbrev":"SE 71"
+  },
+  {
+    "source":"uppathenagamanasikkhāpadaṃ",
+    "abbrev":"SE 72"
+  },
+  {
+    "source":"ṭhitouccārasikkhāpadaṃ",
+    "abbrev":"SE 73"
+  },
+  {
+    "source":"hariteuccārasikkhāpadaṃ",
+    "abbrev":"SE 74"
+  },
+  {
+    "source":"udakeuccārasikkhāpadaṃ",
+    "abbrev":"SE 75"
+  },
+  {
+    "source":"adhikaraṇasamathā",
+    "abbrev":"AS"
+  }
+]
