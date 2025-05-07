@@ -8,7 +8,7 @@
 - generate anki-csvs using [dpd-db/dps/scripts/anki_csvs.py](https://github.com/sasanarakkha/dpd-db-sbs/blob/main/dps/scripts/anki_csvs.py)
 - make patimokkha and grammar using [utilities/all_in_one.sh](https://github.com/Devamitta/utilities/blob/main/all_in_one.sh)
 - in Anki update all decks from importing csvs (dpd-db/dps/csvs/anki-csvs/)
-- push [patimokkha_dict](https://github.com/Devamitta/patimokkha_dict) to github, updating [html version of word-by-word.](https://devamitta.github.io/patimokkha_dict/Bhikkhu_Patimokkha/main.html)
+- push [patimokkha_dict](https://github.com/Devamitta/patimokkha_dict) to github, updating [html version of word-by-word.](https://sasanarakkha.github.io/study-tools/bhikkhu_patimokkha/main.html)
 - in https://ankiweb.net/ share all decks `studytools` account
 
 
@@ -32,6 +32,6 @@
 **patimokkha word by word**
 
 - slowly in the class making translation of sentences in [xlsx]([Pātimokkha Word by Word - Google Sheets](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/edit#gid=1426532622))
-- gradually make updates in [html version of word-by-word.](https://devamitta.github.io/patimokkha_dict/Bhikkhu_Patimokkha/main.html) by using [patimokkha_dict/make_pat.sh](https://github.com/Devamitta/patimokkha_dict/blob/main/make_pat.sh)
+- gradually make updates in [html version of word-by-word.](https://sasanarakkha.github.io/study-tools/bhikkhu_patimokkha/main.html) by using [patimokkha_dict/make_pat.sh](https://github.com/Devamitta/patimokkha_dict/blob/main/make_pat.sh)
 - make additional vibhanga Anki deck by adding words from vibhanga using in [GUI](https://github.com/sasanarakkha/dpd-db-sbs/blob/main/gui/gui.py) tab Words To Add section "from source" by adding source (like VIN 1.1.1) and adding words in [GUI](https://github.com/sasanarakkha/dpd-db-sbs/blob/main/gui/gui.py) in "Edit DPS" tab
 - then checking words which do not have source in sbs_source, using button "no source" in  [GUI](https://github.com/sasanarakkha/dpd-db-sbs/blob/main/gui/gui.py)in tab Words To Add. 

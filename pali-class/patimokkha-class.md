@@ -12,7 +12,7 @@ It includes the following sources:
 
 - Analysis of the Bhikkhupātimokkha available in the [Google Sheet](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/).
 
-- If you are using a mobile device, there is an [HTML version](https://devamitta.github.io/patimokkha_dict/Bhikkhu_Patimokkha/main.html) of the same analysis available.
+- If you are using a mobile device, there is an [HTML version](https://sasanarakkha.github.io/study-tools/bhikkhu_patimokkha/main.html) of the same analysis available.
 
 # Exercises
 
