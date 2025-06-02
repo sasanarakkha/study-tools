@@ -14,31 +14,19 @@ Please download the latest version of all documents and dictionaries every week,
 
 ----
 
-- [Beginner Pāli Course](https://docs.google.com/document/d/1mXn2uQyPoFjpqKj5xKAPEFdb25pLwQ2yOxTiLeAh4_c/)
+- [Beginner Pāli Course](https://docs.google.com/document/d/1FOKjmABrz6reeFDBWwpjDq1_J3m83-bd1TMXPcgEHmY/)
 
 ----
 
-- [Exercises 1 - 7](https://docs.google.com/document/d/13BVDI3SSNqfd2gmv-cnUZynJ63es7-0TNkqXP95Wqb0/)
-
-- [Exercises 8 - 11](https://docs.google.com/document/d/19u1_BuP1ovgjqGf8GWkCE2zlS977jnHE6MXHv5EPBXU/)
-
-- [Exercises 12 - 15](https://docs.google.com/document/d/11QMWMTxnxkz5YeHnlxm1YJap2VxAeXTK9_j2F-6o5OI/)
+- [Exercises](https://docs.google.com/document/d/1jqKL8Nlghi1T2m9y0BAN17yk2Na-34fFan1tMI4mrGw/)
 
 ---
 
-- [Key to Exercises 1 - 7](https://docs.google.com/document/d/14ZtcfunRroZl5yvxQdUojMXOj83IAqhIWFUjw5hC2pY/)
-
-- [Key to Exercises 8 - 11](https://docs.google.com/document/d/11qnZ0ZmhmCCMv8A8cypJbBEtTkJogwHapQevFFknukA/)
-
-- [Key to Exercises 12 - 15](https://docs.google.com/document/d/1UfbHEn3KJxSWB1xQteULZmUOTvFONrgXoJ1tmm7Ma-Q/)
+- [Key to Exercises](https://docs.google.com/document/d/1AX4wqoVokRfTfr89EKxHPC1Yb80HKa2sqxX4q-nofso/)
 
 ----
 
-to download any of these documents, select the needed format:  
-**File > Download > DOCX (or) PDF**
-
-![image](https://user-images.githubusercontent.com/39419221/201474798-8fe9178b-4637-47e1-a82f-76403c88752b.png)
-
+Or download all materials in ZIP file from [this page on GitHub](https://github.com/digitalpalidictionary/dpd-pali-courses/releases/latest).
 
 ----
 
