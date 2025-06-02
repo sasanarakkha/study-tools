@@ -3,6 +3,7 @@ pali
 gram
 of
 transl
+related
 decl-con
 pattern
 feedback
