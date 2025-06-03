@@ -11,6 +11,13 @@
     color: #996c29;
 }
 
+.toggle-translation {
+    cursor: pointer;
+    color: #996c29;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+
 .brclass {
  line-height: 0.3;
    font-weight: normal;
@@ -41,14 +48,21 @@ b {
  font-weight: normal;
 }
 
+.nightMode .toggle-translation {
+    cursor: pointer;
+    color: #F1C40F;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+
 .notesclass {
-    color: #FF0BDA;
+    color:#f15e0f;
  		font-weight: normal;
 		font-size: 70%;
 }
 
 .nightMode .notesclass {
-    color: #FF0BDA;
+    color:#f15e0f;
  		font-weight: normal;
 		font-size: 70%;
 }

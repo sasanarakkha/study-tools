@@ -279,8 +279,8 @@
     "pos":"ptp",
     "grammar":"nt nom sg of nivāsetabba",
     "case":"",
-    "meaning":"to be worn",
-    "meaning_lit":"",
+    "meaning":"should be worn; can be put on",
+    "meaning_lit":"to be worn",
     "root":"√vas (wear)",
     "base":"√vas + *e > vāse",
     "construction":"ni + vāse + tabba",
@@ -306,11 +306,11 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"orena",
     "pos":"ind",
     "grammar":"adv, instr sg of ora",
-    "case":"",
+    "case":"+gen",
     "meaning":"before; sooner than",
     "meaning_lit":"",
     "root":"",
@@ -322,7 +322,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -338,7 +338,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"māso",
     "pos":"noun",
     "grammar":"masc nom sg of māsa",
@@ -354,7 +354,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"seso",
     "pos":"adj",
     "grammar":"masc nom sg of sesa",
@@ -370,7 +370,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"gimhānanti",
     "pos":"comp",
     "grammar":"sandhi, masc + ind",
@@ -386,7 +386,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"vassikasāṭikacīvaraṃ",
     "pos":"noun",
     "grammar":"nt nom sg of vassikasāṭikacīvara, comp",
@@ -402,7 +402,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"pariyeseyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of pariyesati",
@@ -418,7 +418,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"orenaddhamāso",
     "pos":"noun",
     "grammar":"masc nom sg of orenaddhamāsa",
@@ -434,7 +434,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- orena",
     "pos":"ind",
     "grammar":"adv, instr sg of ora",
@@ -450,7 +450,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- addhamāso",
     "pos":"noun",
     "grammar":"masc nom sg of addhamāsa, comp",
@@ -466,7 +466,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"seso",
     "pos":"adj",
     "grammar":"masc nom sg of sesa",
@@ -482,7 +482,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"gimhānanti",
     "pos":"comp",
     "grammar":"sandhi, masc + ind",
@@ -498,7 +498,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"katvā",
     "pos":"verb",
     "grammar":"abs of karoti",
@@ -514,7 +514,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"nivāseyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of nivāseti",
@@ -530,7 +530,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"nissaggiyaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nissaggiya",
@@ -546,7 +546,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -562,7 +562,7 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
-    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'addhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"If earlier than [what is reckoned as] \"One month is what remains of the hot season,\" he should seek robe-cloth for the rain's bathing-cloth, [and] [if] earlier than [what is reckoned as] \"A half month is what remains of the hot season,\" he should wear [it], this is an offence requiring relinquishment and confession.",
     "pos":"",
     "grammar":"",
