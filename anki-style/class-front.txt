@@ -1,26 +1,21 @@
 
 
 
-<div style='font-size: 80%;'><i>{{sutta}}</i></div>
-
-<div style='font-size: 65%;'><i>{{source}}</i></div>
+<div class="small indent"><i>{{source}} {{sutta}}</i></div>
 
 <div>{{example}}</div>
-<div class=brclass><br></div>
+<span class="spacer"></span>
 
 {{#example_translation}}
 <details>
-  <summary class="toggle-translation"><i>show translation</i></summary>
+  <summary><i>show translation</i></summary>
   <div>{{example_translation}}</div>
 </details>
 {{/example_translation}}
 
-<div class=brclass><br></div>
+<span class="spacer"></span>
 
-
-<hr>
-
-<div style='font-size: 60%;'><I> {{#sbs_class_anki}} class {{sbs_class_anki}} {{/sbs_class_anki}}</I></div>
+<div class="small indent"><i> {{#sbs_class_anki}} class {{sbs_class_anki}} {{/sbs_class_anki}}</i></div>
 
 <hr>
 

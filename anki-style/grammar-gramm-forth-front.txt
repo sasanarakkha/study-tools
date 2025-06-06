@@ -1,0 +1,10 @@
+<table>
+    <tr valign="top">
+        <td class="another_color">Type:</td>
+        <td><i>{{decl-con}}</i></td>
+    </tr>
+    <tr valign="top">
+        <td class="another_color">Pāli:</td>
+        <td><b>{{pali}}</b></td>
+    </tr>
+</table>

@@ -75,20 +75,36 @@ You can check it in menu: **Tools > Manage Note Types**
 
 ### for Vocab deck:
 
-- note that there are 3 different fields for card settings: 
+- Please note that there are 3 different fields for card settings: 
 1. [Vocab FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/class-front.txt)
 2. [Vocab BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/class-back.txt)
 3. [Vocab STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
+### for Grammar deck:
+
+#### note:pali class Grammar
+
+Please note that there are 2 types of card:
+- Forth:
+1. [Grammar-Forth FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-gramm-forth-front.txt)
+2. [Grammar-Forth BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-gramm-forth-back.txt)
+- Back (Reverse):
+1. [Grammar-Reverse FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-gramm-back-front.txt)
+2. [Grammar-Reverse BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-gramm-back-back.txt)
+- And style is the same for all:
+1. [Grammar STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
+
+
+
 
 ### for Root and Phonetic Changes decks:
-- note that there are 3 different fields for card settings: 
+- Please note that there are 3 different fields for card settings: 
 1. [Root FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/roots-front.txt)
 2. [Root BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/roots-back.txt)
 3. [Root STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 ### for Suttas Advanced deck:
-- note that there are 3 different fields for card settings: 
+- Please note that there are 3 different fields for card settings: 
 1. [Root FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/suttas-front.txt)
 2. [Root BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/suttas-back.txt)
 3. [Root STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt)

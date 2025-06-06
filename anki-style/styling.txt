@@ -1,79 +1,122 @@
+/* === Base Card Styling === */
 .card {
-    font-family: sans serif;
-    font-size: 20px;
-    text-align: center;
-    vertical-align: top;
-    word-wrap: break-word;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  vertical-align: top;
+  word-wrap: break-word;
 }
 
-.myclass {
-    font-weight: normal;
-    color: #996c29;
+/* === Table Styling === */
+table {
+  width: 100%;
+  font-size: 100%;
+  border-spacing: 4px;
 }
 
-.toggle-translation {
-    cursor: pointer;
-    color: #996c29;
-    text-decoration: underline;
-    margin-top: 10px;
+td {
+  vertical-align: top;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
-.brclass {
- line-height: 0.3;
-   font-weight: normal;
+td:first-child {
+  width: 90px;
+  white-space: nowrap;
 }
 
-.smallclass {
-   font-size: 75%;
-   line-height: 110%;
-    font-weight: normal;
+/* === Text Classes === */
+.another_color {
+  font-size: 85%;
+  font-weight: normal;
+  color: #996c29;
+  position: relative;
+}
+
+.small {
+  font-size: 80%;
+  line-height: 110%;
+  font-weight: normal;
+}
+
+.indent {
+  text-indent: 1.2em;
 }
 
 b {
-    color: #493414;
- font-size: 105%;
+  color: #493414;
+  font-size: 110%;
+  font-weight: bold;
 }
 
+i {
+  font-style: italic;
+}
 
+/* === Misc Utility Classes === */
+.spacer {
+  height: 10px;
+  display: block;
+}
+
+/* === Link Styling === */
+.card a.link {
+  color: #fc922f;
+  text-decoration: none;
+}
+
+.card a.link:hover {
+  text-decoration: underline;
+}
+
+/* === Sound Button Tweak === */
+.soundLink {
+  font-size: 80% !important;
+  transform: scale(0.7);
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* === Night Mode === */
 .nightMode.card {
-    font-family: sans serif;
-    font-size: 20px;
-    text-align: center;
-    vertical-align: top;
-    word-wrap: break-word;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  vertical-align: top;
+  word-wrap: break-word;
 }
 
-.nightMode .myclass {
-    color: #F1C40F;
- font-weight: normal;
+.nightMode .another_color {
+  font-size: 85%;
+  color: #F1C40F;
+  font-weight: normal;
+  position: relative;
 }
 
-.nightMode .toggle-translation {
-    cursor: pointer;
-    color: #F1C40F;
-    text-decoration: underline;
-    margin-top: 10px;
+.nightMode .small {
+  font-size: 80%;
+  line-height: 110%;
+  font-weight: normal;
 }
-
-.notesclass {
-    color:#f15e0f;
- 		font-weight: normal;
-		font-size: 70%;
-}
-
-.nightMode .notesclass {
-    color:#f15e0f;
- 		font-weight: normal;
-		font-size: 70%;
-}
-
 
 .nightMode b {
-    color: #F9E79F;
-font-size: 105%;
-
-.link {
-   color: black;
+  color: #F9E79F;
+  font-size: 110%;
+  font-weight: bold;
 }
 
-img {width: auto;height: auto; max-width: 400px; max-height: 400px;}
+.nightMode a.link {
+  color: #6fcd7b5;
+}
+
+.nightMode a.link:hover {
+  text-decoration: underline;
+}
+
+/* === Image Styling === */
+img {
+  width: auto;
+  height: auto;
+  max-width: 400px;
+  max-height: 400px;
+}

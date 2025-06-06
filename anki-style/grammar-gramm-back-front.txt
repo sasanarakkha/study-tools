@@ -1,0 +1,18 @@
+<table>
+    <tr valign="top">
+        <td class="another_color">Grammar:</td>
+        <td><b>{{gramma}}</b></td>
+    </tr>
+    <tr valign="top">
+        <td class="another_color">Type:</td>
+        <td><i>{{decl-con}}</i></td>
+    </tr>
+    <tr valign="top">
+        <td class="another_color">Headword:</td>
+        <td>{{of}}</td>
+    </tr>
+    <tr valign="top">
+        <td class="another_color">Meaning:</td>
+        <td><i>{{eng}}</i></td>
+    </tr>
+</table>
