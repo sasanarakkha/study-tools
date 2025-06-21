@@ -1,0 +1,48 @@
+<table>
+    {{#pattern}}
+    <tr valign="top">
+        <td class="another_color">Pattern:</td>
+        <td><i>{{pattern}}</i></td>
+    </tr>
+    {{/pattern}}
+
+    {{#meeting}}
+    <tr valign="top">
+        <td class="another_color">Meeting Point:</td>
+        <td class="myclass">{{meeting}}</td>
+    </tr>
+    {{/meeting}}
+
+    {{#example}}
+    <tr valign="top">
+        <td class="another_color">Example:</td>
+        <td><b>{{example}}</b></td>
+    </tr>
+    {{/example}}
+</table>
+
+----
+
+
+here also let's find the best names:
+
+Meeting Point - it is 2 lettrs which meet each other (eg. u + u)
+Example: 2 parts of comp or sandhi (eg. bahu upakāra)
+Result:	result on the letter level eg. ū
+Example (Sandhi): result on the word level	eg. bahūpakāra
+
+
+need to find something more general, considering that this type also used for :
+
+Base of the verb:
+Meeting Point:	which root this base referring to eg. √kar
+Example:	construction of the example eg. √kar + iya + ti
+Result:	actual base as a result of that construcion eg. kayira
+Example (Sandhi): example of the verb eg. kayirati
+
+and also of suffixes:
+
+Meeting Point: actual suffix ; eg. ila
+Example:	example on pali with this suffix; eg. kumbhīla
+
+Result:	having, possessing

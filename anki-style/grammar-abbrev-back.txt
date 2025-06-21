@@ -1,0 +1,39 @@
+{{FrontSide}}
+
+<hr id=answer>
+
+<table>
+
+    {{#meaning}}
+    <tr valign="top">
+        <td class="another_color">Meaning:</td>
+        <td class="myclass">{{meaning}}</td>
+    </tr>
+    {{/meaning}}
+
+    {{#pali}}
+    <tr valign="top">
+        <td class="another_color">Gloss:</td>
+        <td>{{pali}}</td>
+    </tr>
+    {{/pali}}
+
+    {{#explanation}}
+    <tr valign="top">
+        <td class="another_color">Details:</td>
+        <td>{{explanation}}</td>
+    </tr>
+    {{/explanation}}
+
+    {{#marks}}
+    <tr valign="top">
+        <td class="another_color">My Notes:</td>
+        <td><i>{{marks}}</i></td>
+    </tr>
+    {{/marks}}
+</table>
+
+<span class="spacer"></span>
+<span class="spacer"></span>
+
+<div class="small">{{feedback}}</div>

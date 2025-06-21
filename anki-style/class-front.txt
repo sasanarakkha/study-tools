@@ -1,5 +1,7 @@
 
-
+{{#extra}}
+<div class="another_color">(<i>{{extra}}</i>)</div>
+{{/extra}}
 
 <div class="small indent"><i>{{source}} {{sutta}}</i></div>
 

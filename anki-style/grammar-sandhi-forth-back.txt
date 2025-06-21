@@ -1,0 +1,36 @@
+{{FrontSide}}
+
+<hr id=answer>
+
+
+<table>
+    <tr valign="top">
+        <td class="another_color">Result:</td>
+        <td class="myclass">{{result}}</td>
+    </tr>
+
+    {{#sandhi}}
+    <tr valign="top">
+        <td class="another_color">Example (Sandhi):</td>
+        <td><b>{{sandhi}}</b></td>
+    </tr>
+    {{/sandhi}}
+
+    {{#details}}
+    <tr valign="top">
+        <td class="another_color">Details:</td>
+        <td><i>{{details}}</i></td>
+    </tr>
+    {{/details}}
+
+    {{#marks}}
+    <tr valign="top">
+        <td class="another_color">My Notes:</td>
+        <td class="notesclass"><div style="font-size: 80%;">{{marks}}</div></td>
+    </tr>
+    {{/marks}}
+</table>
+
+<span class="spacer"></span>
+
+<div class="small">{{feedback}}</div>

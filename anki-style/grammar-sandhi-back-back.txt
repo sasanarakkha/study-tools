@@ -1,0 +1,37 @@
+{{FrontSide}}
+
+<hr id=answer>
+
+<table>
+    {{#meeting}}
+    <tr valign="top">
+        <td class="another_color">From:</td>
+        <td class="myclass">{{meeting}}</td>
+    </tr>
+    {{/meeting}}
+
+    {{#example}}
+    <tr valign="top">
+        <td class="another_color">Example:</td>
+        <td><b>{{example}}</b></td>
+    </tr>
+    {{/example}}
+
+    {{#details}}
+    <tr valign="top">
+        <td class="another_color">Details:</td>
+        <td><i>{{details}}</i></td>
+    </tr>
+    {{/details}}
+
+    {{#marks}}
+    <tr valign="top">
+        <td class="another_color">My Notes:</td>
+        <td><div style="font-size: 80%;">{{marks}}</div></td>
+    </tr>
+    {{/marks}}
+</table>
+
+<span class="spacer"></span>
+
+<div class="small">{{feedback}}</div>

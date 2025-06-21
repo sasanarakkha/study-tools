@@ -1,0 +1,22 @@
+<table>
+    {{#type}}
+    <tr valign="top">
+        <td class="another_color">Type:</td>
+        <td><i>{{type}}</i></td>
+    </tr>
+    {{/type}}
+
+    {{#abbrev}}
+    <tr valign="top">
+        <td class="another_color">Term:</td>
+        <td><b>{{abbrev}}</b></td>
+    </tr>
+    {{/abbrev}}
+
+    {{#example}}
+    <tr valign="top">
+        <td class="another_color">Example(s):</td>
+        <td><i>{{example}}</i></td>
+    </tr>
+    {{/example}}
+</table>
