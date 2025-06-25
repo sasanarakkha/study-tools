@@ -94,16 +94,9 @@
     {{#notes}}
     <tr valign="top">
         <td class="another_color">Notes:</td>
-        <td class="small">{{notes}}</td>
+        <td class="small">{{notes}}{{sbs_notes}}</td>
     </tr>
     {{/notes}}
-
-    {{#sbs_notes}}
-    <tr valign="top">
-        <td class="another_color">SBS Notes:</td>
-        <td class="small">{{sbs_notes}}</td>
-    </tr>
-    {{/sbs_notes}}
 
     {{#ru_notes}}
     <tr valign="top">
@@ -111,13 +104,6 @@
         <td class="small">{{ru_notes}}</td>
     </tr>
     {{/ru_notes}}
-
-    {{#ru_cognate}}
-    <tr valign="top">
-        <td class="another_color">Родств.:</div</td>
-        <td class="small">{{ru_cognate}}</td>
-    </tr>
-    {{/ru_cognate}}
 
     {{#variant}}
     <tr valign="top">

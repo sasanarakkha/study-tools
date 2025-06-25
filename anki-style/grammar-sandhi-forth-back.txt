@@ -11,7 +11,7 @@
 
     {{#sandhi}}
     <tr valign="top">
-        <td class="another_color">Example (Sandhi):</td>
+        <td class="another_color">Example:</td>
         <td><b>{{sandhi}}</b></td>
     </tr>
     {{/sandhi}}
@@ -31,6 +31,7 @@
     {{/marks}}
 </table>
 
+<span class="spacer"></span>
 <span class="spacer"></span>
 
 <div class="small">{{feedback}}</div>

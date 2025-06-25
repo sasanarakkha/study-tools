@@ -1,32 +1,15 @@
-{{#sbs_chapter_1}}
-<div class=myclass>
-<div style='font-size: 60%; line-height: 95%;'><i>{{sbs_chapter_1}}{{#sbs_chant_pali_1}}; {{sbs_chant_pali_1}}{{/sbs_chant_pali_1}}{{#sbs_chant_eng_1}}; {{sbs_chant_eng_1}}{{/sbs_chant_eng_1}} </i>
-</div>
-</div>
-{{/sbs_chapter_1}}
 
-<div style='font-size: 80%;'><i>{{sbs_sutta_1}}</i></div>
 
-<div style='font-size: 65%;'><i>{{sbs_source_1}}</i></div>
+<div class="another_color"><i>{{sbs_chapter_1}}{{#sbs_chant_pali_1}}; {{sbs_chant_pali_1}}{{/sbs_chant_pali_1}}{{#sbs_chant_eng_1}}; {{sbs_chant_eng_1}}{{/sbs_chant_eng_1}} </i></div>
+<div class="small indent"><i>{{sbs_source_1}} {{sbs_sutta_1}}</i></div>
 
 <div>{{sbs_example_1}}</div>
+<span class="spacer"></span>
 
-{{#sbs_source_2}} 
-
-<div class=brclass><br></div>
-<div class=brclass><br></div>
-
-<div class=myclass>
-<div style='font-size: 60%; line-height: 95%;'><i>{{sbs_chapter_2}}{{#sbs_chant_pali_2}}; {{sbs_chant_pali_2}}{{/sbs_chant_pali_2}}{{#sbs_chant_eng_2}}; {{sbs_chant_eng_2}}{{/sbs_chant_eng_2}} </i></div>
-</div>
-
-<div style='font-size: 80%;'><i>{{sbs_sutta_2}}</i></div>
-
-<div style='font-size: 65%;'><i>{{sbs_source_2}}</i></div>
+<div class="another_color"><i>{{sbs_chapter_2}}{{#sbs_chant_pali_2}}; {{sbs_chant_pali_2}}{{/sbs_chant_pali_2}}{{#sbs_chant_eng_2}}; {{sbs_chant_eng_2}}{{/sbs_chant_eng_2}} </i></div>
+<div class="small indent"><i>{{sbs_source_2}} {{sbs_sutta_2}}</i></div>
 
 <div>{{sbs_example_2}}</div>
-
-{{/sbs_source_2}}
 
 <hr>
 

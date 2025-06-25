@@ -89,6 +89,13 @@
     {{#notes}}
     <tr valign="top">
         <td class="another_color">Notes:</td>
+        <td class="small">{{notes}}{{sbs_notes}}</td>
+    </tr>
+    {{/notes}}
+
+    {{#notes}}
+    <tr valign="top">
+        <td class="another_color">Notes:</td>
         <td class="small">{{notes}}</td>
     </tr>
     {{/notes}}

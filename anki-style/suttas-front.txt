@@ -1,52 +1,8 @@
+<div class="small indent"><i>{{source}} {{sutta}}</i></div>
 
-<div style='font-size: 80%;'><i>{{sbs_sutta_1}}</i></div>
+<div>{{example}}</div>
 
-<div style='font-size: 65%;'><i>{{sbs_source_1}}</i></div>
-
-<div>{{sbs_example_1}}</div>
-
-{{#sbs_source_2}} 
-
-<div class=brclass><br></div>
-<div class=brclass><br></div>
-
-{{/sbs_source_2}}
-
-<div style='font-size: 80%;'><i>{{sbs_sutta_2}}</i></div>
-
-<div style='font-size: 65%;'><i>{{sbs_source_2}}</i></div>
-
-<div>{{sbs_example_2}}</div>
-
-{{#sbs_source_3}} 
-
-<div class=brclass><br></div>
-<div class=brclass><br></div>
-
-{{/sbs_source_3}}
-
-<div style='font-size: 80%;'><i>{{sbs_sutta_3}}</i></div>
-
-<div style='font-size: 65%;'><i>{{sbs_source_3}}</i></div>
-
-<div>{{sbs_example_3}}</div>
-
-{{#sbs_source_4}} 
-
-<div class=brclass><br></div>
-<div class=brclass><br></div>
-
-{{/sbs_source_4}}
-
-<div style='font-size: 80%;'><i>{{sbs_sutta_4}}</i></div>
-
-<div style='font-size: 65%;'><i>{{sbs_source_4}}</i></div>
-
-<div>{{sbs_example_4}}</div>
-
-<hr>
-
-<div style='font-size: 60%;'><i> {{#sbs_category}} sutta: {{sbs_category}} {{/sbs_category}}</i></div>
+<span class="spacer"></span>
 
 <hr>
 

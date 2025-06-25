@@ -1,11 +1,10 @@
 {{FrontSide}}
 
 <hr id=answer>
-
 <table>
     {{#meeting}}
     <tr valign="top">
-        <td class="another_color">From:</td>
+        <td class="another_color">Element(s):</td>
         <td class="myclass">{{meeting}}</td>
     </tr>
     {{/meeting}}
@@ -32,6 +31,7 @@
     {{/marks}}
 </table>
 
+<span class="spacer"></span>
 <span class="spacer"></span>
 
 <div class="small">{{feedback}}</div>

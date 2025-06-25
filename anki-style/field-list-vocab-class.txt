@@ -28,6 +28,8 @@ compound_construction
 source
 sutta
 example
+translation
+extra
 antonym
 synonym
 variant

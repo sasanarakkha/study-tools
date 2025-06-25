@@ -91,6 +91,23 @@ Please note that there are 2 types of card:
 - Back (Reverse):
 1. [Grammar-Reverse FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-gramm-back-front.txt)
 2. [Grammar-Reverse BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-gramm-back-back.txt)
+
+#### note:pali class Sandhi
+
+Please note that there are 2 types of card:
+- Forth:
+1. [Sandhi-Forth FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-sandhi-forth-front.txt)
+2. [Sandhi-Forth BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-sandhi-forth-back.txt)
+- Back (Reverse):
+1. [Sandhi-Reverse FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-sandhi-back-front.txt)
+2. [Sandhi-Reverse BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-sandhi-back-back.txt)
+
+#### note:pali class Abbrev
+
+1. [Abbrev FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-abbrev-front.txt)
+2. [Abbrev BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-abbrev-back.txt)
+
+
 - And style is the same for all:
 1. [Grammar STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
