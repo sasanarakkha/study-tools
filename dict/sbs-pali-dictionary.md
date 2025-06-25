@@ -18,9 +18,9 @@ Download the latest update in various formats:
 
 In addition to all the [features of DPD](https://digitalpalidictionary.github.io/features.html), this extended version dictionary provides targeted information related to SBS projects. These enhancements are available only for words that occur in SBS Pāli materials, including: 
 
-- [SBS Pāli Classes](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html): Grammatical analyses of all words found in SBS Pāli classes (e.g., click on [*(cl. 10)*](https://docs.google.com/document/d/11qnZ0ZmhmCCMv8A8cypJbBEtTkJogwHapQevFFknukA/#heading=h.t1bc1uitkobu)).
+- [SBS Pāli Classes](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html): Grammatical analyses of all words found in SBS Pāli classes (e.g., click on [*(cl. 4)*](https://docs.google.com/document/d/1AX4wqoVokRfTfr89EKxHPC1Yb80HKa2sqxX4q-nofso/edit#heading=h.3znysh7)). If you encounter the symbol `*` (e.g. cl. 4*), it indicates that the word is from the Extra part of the exercises for the class.
 
-- [Pāli-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html): Detailed studies of words from SBS Pāli-English Recitations (e.g., click on [*Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā*](https://docs.google.com/document/d/1-6yapQqB0s7WdX7GijzXCeni5QmPhp4Xd7lVqovaNcA/)).
+- [Pāli-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html): Detailed studies of words from SBS Pāli-English Recitations (e.g., click on [*Āditta-pariyāya-sutta*](https://docs.google.com/document/d/1noiUsphrtvNqz21Oqu7EcVFMOaQ93fcEYErqWbWdipk/)).
 
 - [Vinaya Studies](https://sasanarakkha.github.io/study-tools/pali-class/patimokkha-class.html): Analysis of terms from Bhikkhu Pātimokkha and Bhikkhu Vibhaṅga (e.g., click on [*(pat)*](https://sasanarakkha.github.io/study-tools/bhikkhu_patimokkha/main.html) or *(vib)*).
 
