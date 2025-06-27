@@ -38,7 +38,7 @@ Or download all materials in ZIP file from [this page on GitHub](https://github.
 
 - Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class.apkg)
 
-- Anki Deck most common [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots-pali-class.apkg)
+- Anki Deck most common [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots.apkg)
 
 - Anki Deck for recognition of [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/roots-pali-class.apkg) in words from Vocab Pāli Class.
 

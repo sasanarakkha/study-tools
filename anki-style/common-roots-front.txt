@@ -1,0 +1,24 @@
+
+<table>
+
+    <tr valign="top">
+        <td class="another_color">Root:</td>
+        <td><b>{{root}}</b></td>
+    </tr>
+
+    {{#main_verb}}
+    <tr valign="top">
+        <td class="another_color">Main verb:</td>
+        <td>{{main_verb}}</td>
+    </tr>
+    {{/main_verb}}
+
+    {{#examples}}
+    <tr valign="top">
+        <td class="another_color">Examples:</td>
+        <td>{{examples}}</td>
+    </tr>
+    {{/examples}}
+
+</table>
+

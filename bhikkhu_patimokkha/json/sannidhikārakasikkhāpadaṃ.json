@@ -53,15 +53,15 @@
     "sentence":"yo pana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.",
     "pali_1":"sannidhikārakaṃ",
     "pos":"ind",
-    "grammar":"adv, acc sg of sannidhikāraka",
+    "grammar":"adv, acc sg of sannidhikāraka, comp",
     "case":"",
     "meaning":"storing up, making a store",
     "meaning_lit":"",
     "root":"",
     "base":"",
     "construction":"sannidhi + kāraka + aṃ",
-    "compound_type":"",
-    "compound_construction":""
+    "compound_type":"accusative tappurisa",
+    "compound_construction":"sannidhiṃ + kāraka"
   },
   {
     "abbrev":"PC 38",

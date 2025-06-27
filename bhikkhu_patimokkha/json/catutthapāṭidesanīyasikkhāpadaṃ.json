@@ -2,7 +2,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"yāni",
     "pos":"pron",
     "grammar":"nt nom pl of ya",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"kho",
     "pos":"ind",
     "grammar":"emph",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -50,7 +50,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"tāni",
     "pos":"pron",
     "grammar":"nt nom pl of ta",
@@ -66,7 +66,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"āraññakāni",
     "pos":"adj",
     "grammar":"nt nom pl of āraññaka",
@@ -82,13 +82,13 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"senāsanāni",
     "pos":"noun",
     "grammar":"nt nom pl of senāsana, comp",
     "case":"",
     "meaning":"dwellings, kuṭis",
-    "meaning_lit":"beds and seats",
+    "meaning_lit":"lying down and sitting",
     "root":"",
     "base":"",
     "construction":"sena + āsana",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"sāsaṅkasammatāni",
     "pos":"adj",
     "grammar":"nt nom pl of sāsaṅkasammata, comp",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"- sāsaṅka",
     "pos":"adj",
     "grammar":"",
@@ -130,7 +130,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"- sammatāni",
     "pos":"adj",
     "grammar":"nt nom pl of sammata",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "sentence":"yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"sappaṭibhayāni",
     "pos":"adj",
     "grammar":"nt nom pl of sappaṭibhaya",
@@ -232,7 +232,7 @@
     "grammar":"nt loc pl of senāsana, comp",
     "case":"",
     "meaning":"in dwellings, in kuṭis",
-    "meaning_lit":"in bed and seat",
+    "meaning_lit":"lying down and sitting",
     "root":"",
     "base":"",
     "construction":"sena + āsana",

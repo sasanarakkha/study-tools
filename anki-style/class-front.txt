@@ -1,23 +1,9 @@
-
-{{#extra}}
-<div class="another_color">(<i>{{extra}}</i>)</div>
-{{/extra}}
-
+<div class="another_color indent"><i> {{#sbs_class_anki}} class {{sbs_class_anki}} {{extra}} {{/sbs_class_anki}}</i></div>
+<span class="spacer"></span>
 <div class="small indent"><i>{{source}} {{sutta}}</i></div>
 
 <div>{{example}}</div>
 <span class="spacer"></span>
-
-{{#example_translation}}
-<details>
-  <summary><i>show translation</i></summary>
-  <div>{{example_translation}}</div>
-</details>
-{{/example_translation}}
-
-<span class="spacer"></span>
-
-<div class="small indent"><i> {{#sbs_class_anki}} class {{sbs_class_anki}} {{/sbs_class_anki}}</i></div>
 
 <hr>
 

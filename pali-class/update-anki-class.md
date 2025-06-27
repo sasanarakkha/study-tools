@@ -6,7 +6,7 @@ Download the latest update of the decks:
 
 - [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class.apkg)
 
-- [Most Common Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots-pali-class.apkg)
+- [Common Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots.apkg)
 
 - [Phonetic Changes](https://github.com/sasanarakkha/study-tools/releases/latest/download/phonetic-pali-class.apkg)
 
@@ -51,6 +51,8 @@ For those who have trouble updating Anki decks by simply clicking on the .apkg f
 
 - [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.csv)
 
+- [Common Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots.csv)
+
 - make sure that your filed list exectly the same as current:
 
 - - [filed list for Vocab deck](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-vocab-class.txt). 
@@ -64,6 +66,8 @@ For those who have trouble updating Anki decks by simply clicking on the .apkg f
 - - [filed list for Grammar note:pali class Sandhi](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-grammar-sandhi.txt).
 
 - - [filed list for Suttas Advanced deck](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-suttas-class.txt). 
+
+- - [filed list for Common Roots deck](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-common-roots.txt). 
 
 You can check it in menu: **Tools > Manage Note Types**
 
@@ -107,11 +111,8 @@ Please note that there are 2 types of card:
 1. [Abbrev FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-abbrev-front.txt)
 2. [Abbrev BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/grammar-abbrev-back.txt)
 
-
 - And style is the same for all:
 1. [Grammar STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
-
-
 
 
 ### for Root and Phonetic Changes decks:
@@ -125,6 +126,12 @@ Please note that there are 2 types of card:
 1. [Root FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/suttas-front.txt)
 2. [Root BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/suttas-back.txt)
 3. [Root STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt)
+
+### for Common Roots deck:
+- Please note that there are 3 different fields for card settings: 
+1. [Root FRONT TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/common-roots-front.txt)
+2. [Root BACK TEMPLATE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/common-roots-back.txt)
+3. [Root STYLE](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/styling.txt) 
 
 Check that each of them matches current card settings.
 - 
