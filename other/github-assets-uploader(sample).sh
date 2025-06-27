@@ -23,8 +23,16 @@
 
 set -e
 
-# Create at https://github.com/settings/tokens with access to repository
-declare -r token='[here your token]'
+# Create at https://github.com/settings/tokens with access to repository and place it in .env
+# Load GitHub token from .env file in the current directory
+if [ -f .env ]; then
+  source .env
+else
+  echo ".env file not found! Please create one with: token='your_token_here'"
+  exit 1
+fi
+
+declare -r token="$token"
 
 # Username or "organization"
 declare -r owner='sasanarakkha'
@@ -35,7 +43,37 @@ declare -r repo='study-tools'
 # Array of filenames
 # Must be filenames without path, so script may be in any location, but
 # current working directory must contains enumerated files.
-declare -a assets=('analysis-of-sbs-pāli-english-recitations.pdf' 'dhp-vocab.apkg' 'dhp-vocab.csv' 'patimokkha-word-by-word.apkg' 'patimokkha-word-by-word.csv' 'roots.apkg' 'roots.csv' 'ru-pali-dict.zip' 'ru-pali-vocab.apkg' 'ru-pali-vocab.csv' 'sbs-pali-english-vocab.apkg' 'sbs-pd.csv' 'sbs-pd.zip' 'sutta-pitaka-vocab.apkg' 'sutta-pitaka-vocab.csv' 'dhp-learning.apkg' 'patimokkha-learning.apkg' 'sbs-daily-chanting.apkg')
+declare -a assets=(
+    'common-roots.apkg'
+    'common-roots.csv'
+    'dhp-vocab.apkg'
+    'dhp-vocab.csv'
+    'grammar-pali-class-abbr.csv'
+    'grammar-pali-class-gramm.csv'
+    'grammar-pali-class-sandhi.csv'
+    'grammar-pali-class.apkg'
+    'parittas.apkg'
+    'parittas.csv'
+    'patimokkha-learning.apkg'
+    'patimokkha-word-by-word.apkg'
+    'patimokkha-word-by-word.csv'
+    'phonetic-pali-class.apkg'
+    'phonetic-pali-class.csv'
+    'roots-pali-class.apkg'
+    'roots-pali-class.csv'
+    'ru-pali-vocab.apkg'
+    'ru-pali-vocab.csv'
+    'sbs-daily-chanting.apkg'
+    'sbs-pali-english-vocab.apkg'
+    'sbs-pd.csv'
+    'sbs-rus.csv'
+    'suttas-advanced-pali-class.apkg'
+    'suttas-advanced-pali-class.csv'
+    'vibhanga.apkg'
+    'vibhanga.csv'
+    'vocab-pali-class.apkg'
+    'vocab-pali-class.csv'
+)
 
 # Title of the release will be prepended with this through a space
 declare -r release_base_name='Build'
@@ -47,9 +85,9 @@ declare -r tag_base_name='artifacts'
 release_body="$(cat head.md)"
 
 
-# Must be bool i.e. 'false' of 'true'
+# Must be bool i.e. 'false' or 'true'
 # Draft will not be public and will be placed on top of the list of releases
-declare -r draft='false'
+declare -r draft='true'
 
 # <=== END OF CONFIG ===>
 
@@ -61,9 +99,9 @@ declare -r authorization_header="Authorization: token ${token}"
 declare -r accept_header='Accept: application/vnd.github+json'
 declare -r api_base_url="https://api.github.com/repos/${owner}/${repo}/releases"
 declare -r upload_base_url="https://uploads.github.com/repos/${owner}/${repo}/releases"
-tag_name="${tag_base_name}-$(date +'%d.%m.%Y_%H-%M-%S' --utc)"
+tag_name="${tag_base_name}-$(date -u +'%d.%m.%Y_%H-%M-%S')"
 declare -r tag_name
-release_name="${release_base_name} $(date +'%d.%m.%Y %H:%M' --utc) UTC"
+release_name="${release_base_name} $(date -u +'%d.%m.%Y %H:%M') UTC"
 declare -r release_name
 
 release_json=$(jq --null-input \
