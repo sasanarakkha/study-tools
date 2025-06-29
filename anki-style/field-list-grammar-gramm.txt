@@ -8,4 +8,3 @@ decl-con
 pattern
 feedback
 test
-vīsati
