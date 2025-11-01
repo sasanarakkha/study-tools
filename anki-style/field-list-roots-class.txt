@@ -1,6 +1,6 @@
 id
 pali
-sbs_class_anki
+class_anki
 grammar
 neg
 verb
