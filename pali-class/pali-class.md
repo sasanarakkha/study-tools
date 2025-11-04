@@ -34,7 +34,7 @@ Or download all materials in ZIP file from [this page on GitHub](https://github.
 
 [How to update Anki Decks for Pāli Class](https://sasanarakkha.github.io/study-tools/pali-class/update-anki-class.html)
 
-[How to removing outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
+[How to remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 - Anki Deck [Grammar Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class.apkg)
 
