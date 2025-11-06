@@ -74,6 +74,10 @@ You can check the date of the latest update for all decks  [here](https://github
 
 ----------
 
+### Other:
+
+- [Notebook LM](https://sasanarakkha.github.io/study-tools/notebook_lm.html)
+
 If you have any questions or comments related to these study tools, please [email us.](mailto:studytools@sasanarakkha.org)
 
 -----------
