@@ -1,4 +1,4 @@
-# **Pātikokkha Word By Word class at SBS**
+# **Pātimokkha Word By Word class at SBS**
 
 **UNDER DEVELOPMENT**
 
