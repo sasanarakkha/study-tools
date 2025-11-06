@@ -2,7 +2,7 @@
 
 # [Notebook LM](https://notebooklm.google)
 
-Great AI tool which is limited only by selected resources, great for finding needed reference. Few useful collections:
+It is a great AI tool that is limited only by the selected resources. It’s good for finding needed references. There are a few useful collections available:
 
 - [Early Suttas](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2Fa2f2e4ac-bc6c-4c5d-b390-48d6a20a01a4%3Fpli%3D1&followup=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2Fa2f2e4ac-bc6c-4c5d-b390-48d6a20a01a4%3Fpli%3D1&ifkv=AdBytiODg5QcXXAkLJ4impff1vHjF1WVl10ltFfBAUmL7RD4ZLfUpk7vOnq7dQ2scF4KfFDJZpwd6Q&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2043914335%3A1755755304953218) - DN, MN, SN, AN + early part of KN (Dhammapadapāḷi, Udānapāḷi, Itivuttakapāḷi, Suttanipātapāḷi, Theragāthāpāḷi, Therīgāthāpāḷi)
 
