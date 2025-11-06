@@ -1,6 +1,5 @@
 id
 pali
-sbs_category
 grammar
 neg
 verb
