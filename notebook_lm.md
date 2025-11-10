@@ -25,10 +25,10 @@ It is a great AI tool that is limited only by the selected resources. It’s goo
 
 ---
 
-mūla - primary text, root text
+__mūla__ - primary text, root text
 
-atthakathā - commentaries
+__atthakathā__ - commentaries
 
-ṭīkā - sub-commentaries
+__ṭīkā__ - sub-commentaries
 
-aññā - this section contains many other Pāli materials
+__aññā__ - this section contains many other Pāli materials
