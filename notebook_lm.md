@@ -4,7 +4,7 @@
 
 It is a great AI tool that is limited only by the selected resources. It’s good for finding needed references. There are a few useful collections available:
 
-- [Early Suttas](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2Fa2f2e4ac-bc6c-4c5d-b390-48d6a20a01a4%3Fpli%3D1&followup=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2Fa2f2e4ac-bc6c-4c5d-b390-48d6a20a01a4%3Fpli%3D1&ifkv=AdBytiODg5QcXXAkLJ4impff1vHjF1WVl10ltFfBAUmL7RD4ZLfUpk7vOnq7dQ2scF4KfFDJZpwd6Q&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2043914335%3A1755755304953218) - mūla of EBT: DN, MN, SN, AN + early part of KN (Dhammapadapāḷi, Udānapāḷi, Itivuttakapāḷi, Suttanipātapāḷi, Theragāthāpāḷi, Therīgāthāpāḷi)
+- [Early Suttas](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2Fa2f2e4ac-bc6c-4c5d-b390-48d6a20a01a4%3Fpli%3D1&followup=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2Fa2f2e4ac-bc6c-4c5d-b390-48d6a20a01a4%3Fpli%3D1&ifkv=AdBytiODg5QcXXAkLJ4impff1vHjF1WVl10ltFfBAUmL7RD4ZLfUpk7vOnq7dQ2scF4KfFDJZpwd6Q&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2043914335%3A1755755304953218) - mūla of EBT*: 
 
 - [Sutta Piṭaka + Commentaries](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F68815e7f-c5b6-4b12-a66e-9f80729b9015%3Fauthuser%3D2&dsh=S1208029055%3A1762242304279507&followup=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F68815e7f-c5b6-4b12-a66e-9f80729b9015%3Fauthuser%3D2&ifkv=ARESoU1HjhW8jL8Na0jKbLu4jj8nsvUVCMykdy3TTpS4YZpinuIN3zf41yhFh3PKLnn3dndpCgpoHQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin) - Second basket of the Tipiṭaka, mūla + atthakathā
 
@@ -12,6 +12,13 @@ It is a great AI tool that is limited only by the selected resources. It’s goo
 
 - [Vinaya + Commentaries](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F118e3516-95d1-4f8d-9f8b-371ee078f621&followup=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F118e3516-95d1-4f8d-9f8b-371ee078f621&ifkv=AdBytiM7t9CXXCvsmIsRY3UlRv7SbQwjFNBifVPDD_98IdtA_jZlhP_k1YfjIcC80TmlR7M8GT12&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-335129485%3A1755755200171141) - everything from the Tipiṭaka related to Vinaya - mūla + atthakathā + ṭīkā + añña
 
-- [Early Suttas + Vinaya](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F5f0e1b33-7b6e-4753-a1c1-1595b91ca06d&dsh=S1813368892%3A1762235783266629&followup=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F5f0e1b33-7b6e-4753-a1c1-1595b91ca06d&ifkv=ARESoU0iTBS2ZOGZQucP9uaeKINwKbDUhwqVf3HDDbDZOZS7xctRh3uTQdanhVjIvXkZcYKUpBuOBw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin) mūla: EBT and Vinaya
+- [Early Suttas + Vinaya](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F5f0e1b33-7b6e-4753-a1c1-1595b91ca06d&dsh=S1813368892%3A1762235783266629&followup=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F5f0e1b33-7b6e-4753-a1c1-1595b91ca06d&ifkv=ARESoU0iTBS2ZOGZQucP9uaeKINwKbDUhwqVf3HDDbDZOZS7xctRh3uTQdanhVjIvXkZcYKUpBuOBw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin) - mūla: EBT* and Vinaya
 
+---
 
+*__EBT - Early Buddhist Texts__, it includes:
+- Dīgha Nikāya, 
+- Majjhimā Nikāya, 
+- Saṃyutta Nikāya, 
+- Aṅguttara Nikāya,
+- early part of Khuddaka Nikāya: (Dhammapadapāḷi, Udānapāḷi, Itivuttakapāḷi, Suttanipātapāḷi, Theragāthāpāḷi, Therīgāthāpāḷi)
