@@ -17,6 +17,13 @@
     </tr>
     {{/eng}}
 
+    {{#native}}
+    <tr valign="top">
+        <td class="another_color">Native:</td>
+        <td><i>{{native}}</i></td>
+    </tr>
+    {{/native}}
+
     {{#gramma}}
     <tr valign="top">
         <td class="another_color">Grammar:</td>

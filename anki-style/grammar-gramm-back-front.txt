@@ -15,4 +15,10 @@
         <td class="another_color">Meaning:</td>
         <td><i>{{eng}}</i></td>
     </tr>
+    {{#native}}
+    <tr valign="top">
+        <td class="another_color">Native:</td>
+        <td><i>{{native}}</i></td>
+    </tr>
+    {{/native}}
 </table>
