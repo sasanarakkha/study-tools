@@ -17,7 +17,7 @@ Download the latest update of the decks:
 
 # Updating existing deck without losing your statistics
 
-!Important! Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
+__! Important !__ Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
 
 ![2024-10-25_15-27](https://github.com/user-attachments/assets/585a6c1d-6353-4b2f-a95f-7f18f29cfe5e)
 

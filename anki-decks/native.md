@@ -10,6 +10,8 @@ We are happy to provide additional data for Russian and Chinese languages. Downl
 
 - Let us know if you need another language. These days, GPT can automatically translate many languages with quite good quality.
 
+__! Important !__ Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
+
 The update process is a bit different since these CSV files contain all words related to all SBS decks in a single file.
 
 - in Anki, click on **File > Import**
