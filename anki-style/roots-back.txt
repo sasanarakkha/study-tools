@@ -29,7 +29,7 @@
     {{#native}}
     <tr valign="top">
         <td class="another_color">Native:</td>
-        <td>{{native}}</td>
+        <td><b>{{native}}</b></td>
     </tr>
     {{/native}}
 

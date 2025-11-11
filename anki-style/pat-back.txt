@@ -22,7 +22,7 @@
 
 <tr valign='top'>
 <td><div class=myclass>{{#native}}Native:{{/native}}</td>
-<td>{{native}}</td>
+<td><b>{{native}}</b></td>
 
 <tr valign='top'>
 <td><div class=myclass>{{#root}}Root:{{/root}}</td>
