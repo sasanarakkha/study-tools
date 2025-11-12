@@ -18,7 +18,7 @@ Download the latest update in various formats:
 
 In addition to all the [features of DPD](https://digitalpalidictionary.github.io/features.html), this extended version dictionary provides targeted information related to SBS projects. These enhancements are available only for words that occur in SBS Pāli materials, including: 
 
-- [SBS Pāli Classes](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html): Grammatical analyses of all words found in SBS Pāli classes (e.g., click on [*(cl. 4)*](https://docs.google.com/document/d/1AX4wqoVokRfTfr89EKxHPC1Yb80HKa2sqxX4q-nofso/edit#heading=h.3znysh7)). If you encounter the symbol `*` (e.g. cl. 4*), it indicates that the word is from the Extra part of the exercises for the class.
+- [SBS Pāli Classes](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html): Grammatical analyses of all words found in SBS Pāli classes (e.g., click on [*(cl. 10)*](https://docs.google.com/document/d/1AX4wqoVokRfTfr89EKxHPC1Yb80HKa2sqxX4q-nofso/edit#heading=h.17dp8vu)). If you encounter the symbol `*` (e.g. cl. 10*), it indicates that the word is from the Extra part of the exercises for the class. Also it includes English translation as it in the Key to Exercises.
 
 - [Pāli-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html): Detailed studies of words from SBS Pāli-English Recitations (e.g., click on [*Āditta-pariyāya-sutta*](https://docs.google.com/document/d/1noiUsphrtvNqz21Oqu7EcVFMOaQ93fcEYErqWbWdipk/)).
 
