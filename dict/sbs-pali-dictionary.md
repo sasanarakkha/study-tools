@@ -22,11 +22,7 @@ In addition to all the [features of DPD](https://digitalpalidictionary.github.io
 
 - [Pāli-English Recitations](https://sasanarakkha.github.io/study-tools/sbs-per-analysis.html): Detailed studies of words from SBS Pāli-English Recitations (e.g., click on [*Āditta-pariyāya-sutta*](https://docs.google.com/document/d/1noiUsphrtvNqz21Oqu7EcVFMOaQ93fcEYErqWbWdipk/)).
 
-- [Vinaya Studies](https://sasanarakkha.github.io/study-tools/pali-class/patimokkha-class.html): Analysis of terms from Bhikkhu Pātimokkha and Bhikkhu Vibhaṅga (e.g., click on [*(pat)*](https://sasanarakkha.github.io/study-tools/bhikkhu_patimokkha/main.html) or *(vib)*).
-
-- [Advanced Pāli Education](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-adv.html): Additional insights into suttas and passages featured in SBS Advanced Pāli education materials (e.g., click on [*(sn22)*](https://docs.google.com/document/d/1kt-OP0fUHEjR4pmc72ZljK8XD9oirssI1fMvfTvOhKw/)).
-- 
-
+ 
 <img width="1036" alt="Screenshot 2025-06-25 at 15 40 16" src="https://github.com/user-attachments/assets/25060c06-d631-4fd1-a83a-d06522cfaa5a" />
 
 
