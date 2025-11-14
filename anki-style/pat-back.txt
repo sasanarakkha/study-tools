@@ -39,9 +39,6 @@
 <tr valign='top'>
 <td><div class=myclass>{{#compound_type}}Compound:{{/compound_type}}</td>
 <td></div style>{{compound_type}}{{#compound_construction}} ({{compound_construction}}){{/compound_construction}}</td>
-<tr valign='top'>
-<td><div class=myclass>{{#variant}}Variant:{{/variant}}</td>
-<td></div style>{{variant}}</td>
 
 <tr valign='top'>
 <td><div class=myclass>{{#commentary}}Commentary:{{/commentary}}</td>
