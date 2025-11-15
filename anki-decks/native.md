@@ -5,6 +5,8 @@ If English is not your first language, it’s recommended to translate words int
 We are happy to provide additional data for Russian and Chinese languages. Download the CSV files below and import them into most SBS decks. Note that the deck must have a "native" field:
 
 - [sbs_russian.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-rus.csv)
+- [ru_common_roots.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-common-roots.csv)
+- [ru_grammar_pali_class_gramm.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-grammar-pali-class-gramm.csv)
 
 <!-- - [sbs_chinese.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-chi.csv) -->
 
@@ -12,7 +14,7 @@ We are happy to provide additional data for Russian and Chinese languages. Downl
 
 __! Important !__ Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
 
-The update process is a bit different since these CSV files contain all words related to all SBS decks in a single file.
+The update process is slightly different since these CSV files contain all words related to all SBS decks in a single file. Let’s describe the process for sbs_russian.csv in detail. (The process for other CSV files related to the Pāli class is similar, except for the last part of removing irrelevant cards.)
 
 - in Anki, click on **File > Import**
 

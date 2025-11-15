@@ -13,7 +13,7 @@
 
     <tr valign="top">
         <td class="another_color">Root info:</td>
-        <td><b>{{root}}{{root_group}} {{root_sign}} ({{root_meaning}})</b></td>
+        <td><b>{{root}}{{root_group}} {{root_sign}} ({{root_meaning}} {{native}})</b></td>
     </tr>
 
 </table>
