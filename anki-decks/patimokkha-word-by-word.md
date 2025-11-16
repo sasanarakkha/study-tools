@@ -2,7 +2,7 @@
 
 UNDER DEVELOPMENT
 
-This is the word by word analysis of the Dvemātikāpāḷi Bhikkhupātimokkha, the Chaṭṭha Saṅgāyana edition: [DPR](https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.6.0.x.x.x.x.t) or [Suttacentral](https://suttacentral.net/pli-tv-bu-pm/pli/ms?layout=plain&reference=cck/pts/vri&notes=asterisk&highlight=true&script=latin)
+This is the word by word analysis of the version of the Bhikkhu Pāṭimokkha is based on the comparative study done by Ñāṇatusita in his book ["The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita."](https://www.bps.lk/olib/bp/bp626s_Nyanatusita_Analysis-of-Bhikkhu-Patimokkha.pdf)
 
 It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](https://suttacentral.net/pitaka/vinaya/pli-tv-vi/pli-tv-bu-vb) and The Bhikkhu Patimokkha - Word by Word Translation by Bhikkhu Ñāṇatusita.
 
