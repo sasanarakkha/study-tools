@@ -2,15 +2,18 @@
 
 If English is not your first language, it’s recommended to translate words into your native language. For this, in almost all SBS Anki decks there is an empty field called "native" that you can fill in.
 
-We are happy to provide additional data for Russian and Chinese languages. Download the CSV files below and import them into most SBS decks. Note that the deck must have a "native" field:
+We are delighted to provide additional data for Russian at the moment, and we may potentially expand our language support to include other languages in the future. Artificial intelligence has made significant strides in automatic language translation, achieving quite good quality. For more information on language support, please [contact us](mailto:studytools@sasanarakkha.org). 
+
+
+Download the CSV files below and import them into most SBS decks. Note that the deck must have a "native" field:
 
 - [sbs_russian.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-rus.csv)
-- [ru_common_roots.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-common-roots.csv)
-- [ru_grammar_pali_class_gramm.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-grammar-pali-class-gramm.csv)
 
-<!-- - [sbs_chinese.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-chi.csv) -->
+For Pāli Class decks:
+- [ru_common_roots.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-common-roots.csv) (Grammar Deck; Grammar Note Type)
+- [ru_grammar_pali_class_gramm.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-grammar-pali-class-gramm.csv) (Common Roots Deck)
 
-- Let us know if you need another language. These days, GPT can automatically translate many languages with quite good quality.
+--- 
 
 __! Important !__ Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
 
