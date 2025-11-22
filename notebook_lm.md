@@ -14,6 +14,8 @@ It is a great AI tool that is limited only by the selected resources. It’s goo
 
 - [Early Suttas + Vinaya](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F5f0e1b33-7b6e-4753-a1c1-1595b91ca06d&dsh=S1813368892%3A1762235783266629&followup=https%3A%2F%2Fnotebooklm.google.com%2Fnotebook%2F5f0e1b33-7b6e-4753-a1c1-1595b91ca06d&ifkv=ARESoU0iTBS2ZOGZQucP9uaeKINwKbDUhwqVf3HDDbDZOZS7xctRh3uTQdanhVjIvXkZcYKUpBuOBw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin) - mūla: EBT* and Vinaya
 
+- [Pātimokkha Pali Study](https://notebooklm.google.com/notebook/36c7a255-1b16-455c-bcde-14574d8f0dd2?authuser=2&pageId=none&original_referer=https%3A%2F%2Faccounts.google.com%23&pli=1) - sources includ: Bhikkhu Vibhaṅga Pāli–English (Ven. Brahmali); Pātimokkha Analysis — normal and extended versions (Ven. Ñāṇatusita); Buddhist Monastic Code I and II (Ven. Ṭhānissaro); SBS Pātimokkha Analysis
+
 ---
 
 *__EBT - Early Buddhist Texts__, it includes:
