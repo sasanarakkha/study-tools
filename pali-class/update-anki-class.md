@@ -153,7 +153,14 @@ Check that each of them matches current card settings.
 
 - also make sure to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
+### Suspend "extra" cards from Vocab deck
 
+Approximately one-quarter of the words in the vocabulary are derived from "Extra" part of the exercises. If you don’t want to study them, you can suspend them in your Anki.
+Here’s how you can suspend all extra cards in your “Vocab” Anki deck: open the Browse tab, select the Anki deck you want from the right-hand side, and add it to the search field.
+
+"deck:Vocab Pali Class" extra:_*
+
+Next, select all the cards and click “Toggle suspend”.
 
 
 
