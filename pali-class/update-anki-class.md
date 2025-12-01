@@ -15,6 +15,16 @@ Download the latest update of the decks:
 - [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.apkg)
 
 
+# Suspend "extra" cards from Vocab deck
+
+Approximately one-quarter of the words in the vocabulary are derived from "Extra" part of the exercises. If you don’t want to study them, you can suspend them in your Anki.
+Here’s how you can suspend all extra cards in your “Vocab” Anki deck: open the Browse tab, select the Anki deck you want from the right-hand side, and add it to the search field.
+
+"deck:Vocab Pali Class" extra:_*
+
+Next, select all the cards and click “Toggle suspend”.
+
+
 # Updating existing deck without losing your statistics
 
 __! Important !__ Before doing anything, synchronize your collection across all your Anki devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This will provide a secure backup on the Anki cloud in case of any issues.
@@ -153,14 +163,6 @@ Check that each of them matches current card settings.
 
 - also make sure to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
-### Suspend "extra" cards from Vocab deck
-
-Approximately one-quarter of the words in the vocabulary are derived from "Extra" part of the exercises. If you don’t want to study them, you can suspend them in your Anki.
-Here’s how you can suspend all extra cards in your “Vocab” Anki deck: open the Browse tab, select the Anki deck you want from the right-hand side, and add it to the search field.
-
-"deck:Vocab Pali Class" extra:_*
-
-Next, select all the cards and click “Toggle suspend”.
 
 
 
