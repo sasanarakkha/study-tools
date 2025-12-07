@@ -38,13 +38,6 @@
     </tr>
     {{/of}}
 
-    {{#pattern}}
-    <tr valign="top">
-        <td class="another_color">Pattern:</td>
-        <td><i>{{pattern}}</i></td>
-    </tr>
-    {{/pattern}}
-
     {{#marks}}
     <tr valign="top">
         <td class="another_color">My notes:</td>

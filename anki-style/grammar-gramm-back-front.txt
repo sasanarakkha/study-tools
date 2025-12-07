@@ -7,6 +7,12 @@
         <td class="another_color">Type:</td>
         <td><i>{{decl-con}}</i></td>
     </tr>
+    {{#pattern}}
+    <tr valign="top">
+        <td class="another_color">Pattern:</td>
+        <td><i>{{pattern}}</i></td>
+    </tr>
+    {{/pattern}}
     <tr valign="top">
         <td class="another_color">Headword:</td>
         <td>{{of}}</td>
