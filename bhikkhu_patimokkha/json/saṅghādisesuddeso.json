@@ -482,7 +482,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"yesaṃ",
     "pos":"pron",
     "grammar":"gen pl of ya",
@@ -498,7 +498,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -514,7 +514,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"aññataraṃ",
     "pos":"adj",
     "grammar":"masc acc sg of aññatara",
@@ -530,7 +530,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -546,7 +546,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"aññataraṃ",
     "pos":"adj",
     "grammar":"masc acc sg of aññatara",
@@ -562,7 +562,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -578,7 +578,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"āpajjitvā",
     "pos":"verb",
     "grammar":"abs of āpajjati",
@@ -594,8 +594,8 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
-    "pali_1":"yāvatīhaṃ",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "pali_1":"yāvatihaṃ",
     "pos":"ind",
     "grammar":"adv, comp",
     "case":"",
@@ -610,7 +610,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"- yāvati",
     "pos":"ind",
     "grammar":"adv, from yāva",
@@ -626,7 +626,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"- ahaṃ 2",
     "pos":"noun",
     "grammar":"nt acc sg of aha",
@@ -642,7 +642,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"jānaṃ",
     "pos":"ind",
     "grammar":"adv, from jānanta",
@@ -658,7 +658,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"paṭicchādeti",
     "pos":"verb",
     "grammar":"pr 3rd sg",
@@ -674,8 +674,8 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
-    "pali_1":"tāvatīhaṃ",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "pali_1":"tāvatihaṃ",
     "pos":"ind",
     "grammar":"adv, comp",
     "case":"",
@@ -690,7 +690,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"- tāvati",
     "pos":"ind",
     "grammar":"adv, from tāva",
@@ -706,7 +706,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"- ahaṃ 2",
     "pos":"noun",
     "grammar":"acc sg of aha",
@@ -722,7 +722,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"tena",
     "pos":"pron",
     "grammar":"masc instr sg of ta",
@@ -738,7 +738,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
@@ -754,7 +754,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"akāmā",
     "pos":"ind",
     "grammar":"adv, instr or abl of akāma",
@@ -770,7 +770,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
     "pali_1":"parivatthabbaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of parivatthabba",
@@ -786,8 +786,8 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
-    "pali_1":"A monk having committed any one of those (offenses), for as many days he knowingly conceals, for that many days by that monk, with no choice, the probation should be served.",
+    "sentence":"yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.",
+    "pali_1":"A monk having committed any one of those (offences), for as many days he knowingly conceals, for that many days by that monk, with no choice, the probation should be served.",
     "pos":"",
     "grammar":"",
     "case":"",
@@ -802,7 +802,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"parivutthaparivāsena",
     "pos":"adj",
     "grammar":"masc instr sg of parivutthaparivāsa, comp",
@@ -818,7 +818,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"- parivuttha",
     "pos":"pp",
     "grammar":"pp of parivasati",
@@ -834,7 +834,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"- parivāsena",
     "pos":"noun",
     "grammar":"masc instr sg of parivāsa, from parivasati",
@@ -850,7 +850,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
@@ -866,23 +866,23 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
-    "pali_1":"uttari",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "pali_1":"uttariṃ",
     "pos":"ind",
-    "grammar":"adv, acc sg of uttara",
+    "grammar":"adv, acc sg of uttari",
     "case":"",
     "meaning":"more, moreover, furthermore",
     "meaning_lit":"higher",
     "root":"√tar (cross)",
     "base":"",
-    "construction":"ud + √tar + a + i",
+    "construction":"ud + √tar + i + iṃ",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"chārattaṃ",
     "pos":"ind",
     "grammar":"adv, acc sg of chāratta",
@@ -898,7 +898,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"- chā",
     "pos":"card",
     "grammar":"x pl",
@@ -914,7 +914,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"- rattaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of ratta, from ratti",
@@ -930,7 +930,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"bhikkhumānattāya",
     "pos":"noun",
     "grammar":"nt dat sg of bhikkhumānatta, comp",
@@ -946,7 +946,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"- bhikkhu",
     "pos":"noun",
     "grammar":"masc, from bhikkhati",
@@ -962,7 +962,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"- mānattāya",
     "pos":"noun",
     "grammar":"nt dat sg of mānatta, from māna",
@@ -978,7 +978,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"paṭipajjitabbaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of paṭipajjitabba, from paṭipajjati",
@@ -994,7 +994,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
+    "sentence":"parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ",
     "pali_1":"by a monk who has stayed on the probation, furthermore, for six-night the deference to the monastics has to be practised.",
     "pos":"",
     "grammar":"",
@@ -1842,7 +1842,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"parisuddhetthāyasmanto",
     "pos":"comp",
     "grammar":"sandhi, pp + adv + masc",
@@ -1858,7 +1858,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"tasmā",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
@@ -1874,7 +1874,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"tuṇhī",
     "pos":"ind",
     "grammar":"adv",
@@ -1890,7 +1890,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"evametaṃ",
     "pos":"comp",
     "grammar":"sandhi, adv + pron",
@@ -1906,13 +1906,13 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"dhārayāmi",
     "pos":"verb",
     "grammar":"pr 1st sg of dhārayati",
     "case":"+acc",
     "meaning":"I take, I believe, I keep in mind",
-    "meaning_lit":"bear, carry",
+    "meaning_lit":"I bear, carry",
     "root":"√dhar (wear, hold, carry)",
     "base":"√dhar + *aya > dhāraya",
     "construction":"dhāraya + ti",
@@ -1922,7 +1922,7 @@
   {
     "abbrev":"SA",
     "source":"saṅghādisesuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"In this case the venerables are pure, therefore (there is) silence, so I keep this (in mind).",
     "pos":"",
     "grammar":"",

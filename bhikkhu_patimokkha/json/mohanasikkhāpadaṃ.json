@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -50,23 +50,23 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
-    "pali_1":"anvaddhamāsaṃ",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "pali_1":"anvaḍḍhamāsaṃ",
     "pos":"ind",
-    "grammar":"adv, acc sg of anvaddhamāsa, comp",
+    "grammar":"adv, acc sg of anvaḍḍhamāsa, comp",
     "case":"",
     "meaning":"every fortnight",
     "meaning_lit":"following half month",
     "root":"",
     "base":"",
-    "construction":"anu  + addha + māsa",
+    "construction":"anu  + aḍḍha + māsa",
     "compound_type":"abyayībhāva",
     "compound_construction":""
   },
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"pātimokkhe",
     "pos":"noun",
     "grammar":"masc loc sg of pātimokkha, loc abs",
@@ -82,7 +82,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"uddissamāne",
     "pos":"prp",
     "grammar":"masc loc sg of uddissamāna",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"evaṃ",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"vadeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of vadati",
@@ -130,7 +130,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"idāneva",
     "pos":"comp",
     "grammar":"sandhi, adv + ind",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"- idāni",
     "pos":"ind",
     "grammar":"adv",
@@ -162,7 +162,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"- eva",
     "pos":"ind",
     "grammar":"emph",
@@ -178,7 +178,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"kho",
     "pos":"ind",
     "grammar":"emph",
@@ -194,7 +194,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"ahaṃ",
     "pos":"pron",
     "grammar":"1st nom sg",
@@ -210,7 +210,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"ājānāmi",
     "pos":"verb",
     "grammar":"pr 1st sg of ājānāti",
@@ -226,7 +226,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"ayampi",
     "pos":"comp",
     "grammar":"sandhi, pron + ind",
@@ -242,7 +242,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"kira",
     "pos":"ind",
     "grammar":"adv",
@@ -258,7 +258,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"dhammo 2",
     "pos":"noun",
     "grammar":"masc nom sg of dhamma",
@@ -274,7 +274,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"suttāgato",
     "pos":"adj",
     "grammar":"masc nom sg of suttāgata, comp",
@@ -290,7 +290,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"- sutta",
     "pos":"noun",
     "grammar":"nt",
@@ -306,7 +306,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"- āgato",
     "pos":"pp",
     "grammar":"masc nom sg of āgata",
@@ -322,7 +322,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"suttapariyāpanno",
     "pos":"adj",
     "grammar":"masc nom sg of suttapariyāpanna, comp",
@@ -338,7 +338,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"- sutta",
     "pos":"noun",
     "grammar":"nt",
@@ -354,7 +354,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"- pariyāpanno",
     "pos":"pp",
     "grammar":"masc nom sg of pariyāpanna",
@@ -370,23 +370,23 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
-    "pali_1":"anvaddhamāsaṃ",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "pali_1":"anvaḍḍhamāsaṃ",
     "pos":"ind",
-    "grammar":"adv, acc sg of anvaddhamāsa, comp",
+    "grammar":"adv, acc sg of anvaḍḍhamāsa, comp",
     "case":"",
     "meaning":"every fortnight",
     "meaning_lit":"following half month",
     "root":"",
     "base":"",
-    "construction":"anu  + addha + māsa",
+    "construction":"anu  + aḍḍha + māsa",
     "compound_type":"abyayībhāva",
     "compound_construction":""
   },
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"uddesaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of uddesa, from uddisati",
@@ -402,7 +402,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"āgacchatīti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -418,7 +418,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"- āgacchati",
     "pos":"verb",
     "grammar":"pr 3rd sg",
@@ -434,7 +434,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī'ti.",
+    "sentence":"yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":"",
@@ -754,7 +754,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
@@ -770,7 +770,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"ca",
     "pos":"ind",
     "grammar":"conj",
@@ -786,7 +786,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"tassa",
     "pos":"pron",
     "grammar":"masc dat sg of ta",
@@ -802,7 +802,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"bhikkhuno",
     "pos":"noun",
     "grammar":"masc dat sg of bhikkhu, from bhikkhati",
@@ -818,7 +818,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"aññāṇakena",
     "pos":"noun",
     "grammar":"nt instr sg of aññāṇaka",
@@ -834,7 +834,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"mutti",
     "pos":"noun",
     "grammar":"fem nom sg",
@@ -850,7 +850,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"atthi",
     "pos":"verb",
     "grammar":"pr 3rd sg of √as",
@@ -866,7 +866,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"yañca",
     "pos":"comp",
     "grammar":"sandhi, pron + ind",
@@ -882,7 +882,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"- yaṃ",
     "pos":"pron",
     "grammar":"fem acc sg of ya",
@@ -898,7 +898,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"- ca",
     "pos":"ind",
     "grammar":"conj",
@@ -914,7 +914,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"tattha",
     "pos":"ind",
     "grammar":"adv, from ta",
@@ -930,7 +930,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"āpattiṃ",
     "pos":"noun",
     "grammar":"fem acc sg of āpatti, from āpajjati",
@@ -946,7 +946,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"āpanno",
     "pos":"pp",
     "grammar":"masc nom sg of āpanna, from āpajjati",
@@ -962,7 +962,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"tañca",
     "pos":"comp",
     "grammar":"sandhi, pron + ind",
@@ -978,7 +978,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"- taṃ",
     "pos":"pron",
     "grammar":"masc acc sg of ta",
@@ -994,7 +994,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"- ca",
     "pos":"ind",
     "grammar":"conj",
@@ -1010,7 +1010,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"yathādhammo",
     "pos":"adj",
     "grammar":"masc nom sg of yathādhamma, comp",
@@ -1026,7 +1026,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"kāretabbo",
     "pos":"ptp",
     "grammar":"masc nom sg of kāretabba",
@@ -1042,24 +1042,40 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
-    "pali_1":"uttari",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
+    "pali_1":"uttariñcassa",
     "pos":"ind",
-    "grammar":"adv, acc sg of uttara",
+    "grammar":"sandhi, ind + ind + opt",
     "case":"",
-    "meaning":"more, moreover, furthermore",
-    "meaning_lit":"higher",
-    "root":"√tar (cross)",
+    "meaning":"if it would be beyond",
+    "meaning_lit":"",
+    "root":"",
     "base":"",
-    "construction":"ud + √tar + a + i",
+    "construction":"uttariṃ + ca + assa",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
-    "pali_1":"cassa",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
+    "pali_1":"- uttariṃ",
+    "pos":"ind",
+    "grammar":"ind, adv, comp form of uttara",
+    "case":"",
+    "meaning":"beyond, further",
+    "meaning_lit":"higher",
+    "root":"",
+    "base":"",
+    "construction":"ud + tara + i",
+    "compound_type":"",
+    "compound_construction":""
+  },
+  {
+    "abbrev":"PC 73",
+    "source":"mohanasikkhāpadaṃ",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
+    "pali_1":"- cassa",
     "pos":"comp",
     "grammar":"sandhi, ind + opt",
     "case":"",
@@ -1074,7 +1090,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"moho",
     "pos":"noun",
     "grammar":"masc nom sg",
@@ -1090,7 +1106,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttari c'assa moho āropetabbo",
+    "sentence":"na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo",
     "pali_1":"āropetabbo",
     "pos":"ptp",
     "grammar":"masc nom sg of āropetabba",
@@ -1106,7 +1122,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"tassa 3",
     "pos":"ind",
     "grammar":"adv, masc & nt gen sg ",
@@ -1122,7 +1138,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"te 3",
     "pos":"pron",
     "grammar":"2nd dat sg of tvaṃ",
@@ -1138,7 +1154,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"āvuso",
     "pos":"noun",
     "grammar":"masc voc sg or pl of āyasmant",
@@ -1154,7 +1170,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"alābhā",
     "pos":"ind",
     "grammar":"",
@@ -1170,7 +1186,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"tassa 3",
     "pos":"ind",
     "grammar":"adv, masc & nt gen sg ",
@@ -1186,7 +1202,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"te 3",
     "pos":"pron",
     "grammar":"2nd dat sg of tvaṃ",
@@ -1202,10 +1218,10 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
-    "pali_1":"dulladdhaṃ",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "pali_1":"dullaḍḍhaṃ",
     "pos":"ind",
-    "grammar":"nt nom sg of dulladdha",
+    "grammar":"nt nom sg of dullaḍḍha",
     "case":"",
     "meaning":"it is unfortunate (for)!; it is unlucky (for)",
     "meaning_lit":"",
@@ -1218,7 +1234,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"yaṃ",
     "pos":"pron",
     "grammar":"masc acc sg of ya",
@@ -1234,7 +1250,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"tvaṃ",
     "pos":"pron",
     "grammar":"2nd nom sg",
@@ -1250,7 +1266,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"pātimokkhe",
     "pos":"noun",
     "grammar":"masc loc sg of pātimokkha, loc abs",
@@ -1266,7 +1282,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"uddissamāne",
     "pos":"prp",
     "grammar":"masc loc sg of uddissamāna",
@@ -1282,7 +1298,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
@@ -1298,7 +1314,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"sādhukaṃ",
     "pos":"ind",
     "grammar":"adv",
@@ -1314,26 +1330,26 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
-    "pali_1":"aṭṭhiṃ katvā",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "pali_1":"aṭṭhikatvā",
     "pos":"verb",
-    "grammar":"abs of aṭṭhiṃ karoti",
+    "grammar":"abs of aṭṭhiṃ karoti, comp vb",
     "case":"",
-    "meaning":"having given importance",
+    "meaning":"having given importance; having focused",
     "meaning_lit":"purpose having made",
     "root":"",
     "base":"",
-    "construction":"atthaṃ > aṭṭhaṃ > aṭṭhiṃ + katvā",
+    "construction":"aṭṭhaṃ > aṭṭhiṃ + katvā",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
-    "pali_1":"aṭṭhiṃ",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "pali_1":"- aṭṭhi",
     "pos":"noun",
-    "grammar":"masc acc sg of aṭṭhi",
+    "grammar":"masc",
     "case":"",
     "meaning":"purpose, goal",
     "meaning_lit":"",
@@ -1346,8 +1362,8 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
-    "pali_1":"katvā",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "pali_1":"- katvā",
     "pos":"verb",
     "grammar":"abs of karoti",
     "case":"",
@@ -1362,7 +1378,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"manasi",
     "pos":"noun",
     "grammar":"masc loc sg of manas",
@@ -1378,7 +1394,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"karosīti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -1394,7 +1410,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"karosi",
     "pos":"verb",
     "grammar":"pr 2nd sg of karoti",
@@ -1410,7 +1426,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":"",
@@ -1426,7 +1442,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"idaṃ",
     "pos":"pron",
     "grammar":"nt nom sg of ima",
@@ -1442,7 +1458,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"tasmiṃ",
     "pos":"pron",
     "grammar":"masc loc sg of ta",
@@ -1458,7 +1474,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"mohanake",
     "pos":"noun",
     "grammar":"masc loc sg of mahanka",
@@ -1474,7 +1490,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+    "sentence":"tassa te, āvuso, alābhā, tassa te dullaḍḍhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",

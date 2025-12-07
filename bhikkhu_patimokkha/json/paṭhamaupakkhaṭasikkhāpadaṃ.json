@@ -2,7 +2,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"bhikkhuṃ",
     "pos":"noun",
     "grammar":"masc acc sg, from bhikkhati",
@@ -18,7 +18,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"paneva",
     "pos":"comp",
     "grammar":"sandhi, ind + ind",
@@ -34,7 +34,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"uddissa",
     "pos":"verb",
     "grammar":"ger of uddisati",
@@ -50,7 +50,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"aññātakassa",
     "pos":"adj",
     "grammar":"masc gen sg aññātaka",
@@ -66,7 +66,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"gahapatissa",
     "pos":"noun",
     "grammar":"masc gen sg of gahapati, comp",
@@ -82,7 +82,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -98,7 +98,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"gahapatāniyā",
     "pos":"noun",
     "grammar":"fem gen sg of gahapatānī, comp",
@@ -114,7 +114,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -130,23 +130,23 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
-    "pali_1":"cīvaracetāpannaṃ",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
+    "pali_1":"cīvaracetāpanaṃ",
     "pos":"noun",
-    "grammar":"nt nom sg of cīvaracetāpanna, comp",
+    "grammar":"nt nom sg of cīvaracetāpana, comp",
     "case":"",
     "meaning":"robe fund, robe account",
     "meaning_lit":"fund for robe",
     "root":"",
     "base":"",
-    "construction":"cīvara + cetāpanna",
+    "construction":"cīvara + cetāpana",
     "compound_type":"dative tappurisa",
-    "compound_construction":"cīvarassa + cetāpanna"
+    "compound_construction":"cīvarassa + cetāpana"
   },
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"- cīvara",
     "pos":"noun",
     "grammar":"nt",
@@ -162,10 +162,10 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
-    "pali_1":"- cetāpannaṃ",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
+    "pali_1":"- cetāpanaṃ",
     "pos":"noun",
-    "grammar":"nt nom sg of cetāpanna",
+    "grammar":"nt nom sg of cetāpana",
     "case":"",
     "meaning":"fund, account",
     "meaning_lit":"exchanging; bartering",
@@ -178,7 +178,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"upakkhaṭaṃ",
     "pos":"pp",
     "grammar":"nt nom sg of upakkhaṭa",
@@ -194,7 +194,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"hoti",
     "pos":"verb",
     "grammar":"pr 3rd sg",
@@ -210,7 +210,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti",
     "pali_1":"Now, the robe-fund of an unrelated male householder or female householder has been set up for the sake of a monk\n",
     "pos":"",
     "grammar":"",
@@ -226,7 +226,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"iminā",
     "pos":"pron",
     "grammar":"nt instr sg ima",
@@ -242,23 +242,23 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
-    "pali_1":"cīvaracetāpannena",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "pali_1":"cīvaracetāpanena",
     "pos":"noun",
-    "grammar":"nt instr sg of cīvaracetāpanna, comp",
+    "grammar":"nt instr sg of cīvaracetāpana, comp",
     "case":"",
     "meaning":"with robe fund, robe account",
     "meaning_lit":"fund for robe",
     "root":"",
     "base":"",
-    "construction":"cīvara + cetāpanna",
+    "construction":"cīvara + cetāpana",
     "compound_type":"dative tappurisa",
-    "compound_construction":"cīvarassa + cetāpanna"
+    "compound_construction":"cīvarassa + cetāpana"
   },
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"cīvaraṃ",
     "pos":"noun",
     "grammar":"nt nom sg of cīvara",
@@ -274,7 +274,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"cetāpetvā",
     "pos":"verb",
     "grammar":"abs of cetāpeti",
@@ -290,7 +290,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"itthannāmaṃ",
     "pos":"adj",
     "grammar":"masc acc sg of itthannāma",
@@ -306,7 +306,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"- itthaṃ",
     "pos":"ind",
     "grammar":"adv",
@@ -322,7 +322,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"- nāmaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of nāma",
@@ -338,7 +338,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"bhikkhuṃ",
     "pos":"noun",
     "grammar":"masc acc sg, from bhikkhati",
@@ -354,7 +354,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"cīvarena",
     "pos":"noun",
     "grammar":"nt instr sg of cīvara",
@@ -370,7 +370,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"acchādessāmīti",
     "pos":"comp",
     "grammar":"sandhi, fut + ind",
@@ -386,7 +386,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"- acchādessāmi",
     "pos":"verb",
     "grammar":"fut 1st sg of acchādeti",
@@ -402,7 +402,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":"",
@@ -418,7 +418,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "sentence":"iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali_1":" \"Having bought a robe with this robe-fund, I shall clothe the monk named so and so with a robe,\"",
     "pos":"",
     "grammar":"",
@@ -610,7 +610,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"sādhu",
     "pos":"ind",
     "grammar":"excl",
@@ -626,7 +626,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"vata",
     "pos":"ind",
     "grammar":"emph",
@@ -642,7 +642,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"maṃ",
     "pos":"pron",
     "grammar":"1st acc sg of ahaṃ",
@@ -658,7 +658,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"āyasmā",
     "pos":"noun",
     "grammar":"masc nom sg of āyasmant",
@@ -674,7 +674,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"iminā",
     "pos":"pron",
     "grammar":"nt instr sg ima",
@@ -690,23 +690,23 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
-    "pali_1":"cīvaracetāpannena",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "pali_1":"cīvaracetāpanena",
     "pos":"noun",
-    "grammar":"nt instr sg of cīvaracetāpanna, comp",
+    "grammar":"nt instr sg of cīvaracetāpana, comp",
     "case":"",
     "meaning":"with robe fund, robe account",
     "meaning_lit":"fund for robe",
     "root":"",
     "base":"",
-    "construction":"cīvara + cetāpanna",
+    "construction":"cīvara + cetāpana",
     "compound_type":"dative tappurisa",
-    "compound_construction":"cīvarassa + cetāpanna"
+    "compound_construction":"cīvarassa + cetāpana"
   },
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"evarūpaṃ",
     "pos":"adj",
     "grammar":"nt acc sg of evarūpa",
@@ -722,7 +722,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"- eva",
     "pos":"ind",
     "grammar":"emph",
@@ -738,7 +738,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"- rūpaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of rūpa",
@@ -754,7 +754,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -770,7 +770,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"evarūpaṃ",
     "pos":"adj",
     "grammar":"nt acc sg of evarūpa",
@@ -786,7 +786,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -802,7 +802,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"cīvaraṃ",
     "pos":"noun",
     "grammar":"nt nom sg of cīvara",
@@ -818,7 +818,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"cetāpetvā",
     "pos":"verb",
     "grammar":"abs of cetāpeti",
@@ -834,7 +834,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"acchādehīti",
     "pos":"comp",
     "grammar":"sandhi, imp + ind",
@@ -850,7 +850,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"- acchādehi",
     "pos":"verb",
     "grammar":"imp 2nd sg of acchādeti",
@@ -866,7 +866,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":"",
@@ -882,7 +882,7 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
-    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
     "pali_1":"“It would be good indeed, Sir, having bought a such-and-such robe with this robe-fund, please clothe me.”",
     "pos":"",
     "grammar":"",

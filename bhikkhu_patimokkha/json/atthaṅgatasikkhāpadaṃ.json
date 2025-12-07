@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"sammatopi",
     "pos":"comp",
     "grammar":"sandhi, pp + ind",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"- sammato",
     "pos":"pp",
     "grammar":"masc nom sg of sammata",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"- api",
     "pos":"ind",
     "grammar":"conj",
@@ -50,7 +50,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -66,7 +66,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -82,7 +82,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"atthaṅgate",
     "pos":"adj",
     "grammar":"masc loc sg of atthaṇgata, comp",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"- atthaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of attha",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"- gate",
     "pos":"pp",
     "grammar":"masc loc sg of gata, loc abs",
@@ -130,8 +130,8 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
-    "pali_1":"sūriye",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "pali_1":"suriye",
     "pos":"noun",
     "grammar":"masc loc sg of suriya, loc abs",
     "case":"",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"bhikkhuniyo",
     "pos":"noun",
     "grammar":"fem acc pl of bhikkhunī",
@@ -162,7 +162,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"ovadeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of ovadati",
@@ -178,7 +178,7 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -194,8 +194,8 @@
   {
     "abbrev":"PC 22",
     "source":"atthaṅgatasikkhāpadaṃ",
-    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
-    "pali_1":"",
+    "sentence":"sammato'pi ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "pali_1":"Even if a bhikkhu who has been authorised should exhort the bhikkhunīs after the sun has set, there is an offence requiring confession.",
     "pos":"",
     "grammar":"",
     "case":"",

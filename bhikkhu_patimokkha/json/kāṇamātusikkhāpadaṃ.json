@@ -291,7 +291,7 @@
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
     "sentence":"bhikkhuṃ pan'eva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā.",
-    "pali_1":"",
+    "pali_1":"Now, should a family invite a bhikkhu who has approached to take as many cakes and parched cakes [as he likes], by a bhikkhu who is wishing [so] two or three bowls full [of cakes] can be accepted;",
     "pos":"",
     "grammar":"",
     "case":"",
@@ -306,7 +306,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"tato 2",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
@@ -322,7 +322,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -338,23 +338,23 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
-    "pali_1":"uttari",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "pali_1":"uttariṃ",
     "pos":"ind",
-    "grammar":"adv, acc sg of uttara",
+    "grammar":"adv, acc sg of uttari",
     "case":"",
     "meaning":"more, moreover, furthermore",
     "meaning_lit":"higher",
     "root":"√tar (cross)",
     "base":"",
-    "construction":"ud + √tar + a + i",
+    "construction":"ud + √tar + i + iṃ",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"patigaṇheyya",
     "pos":"verb",
     "grammar":"opt 3rd sg, from paṭiggaṇhāti",
@@ -370,7 +370,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -386,7 +386,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"dvattipattapūre",
     "pos":"noun",
     "grammar":"masc acc pl of dvattipattapūra, comp",
@@ -402,7 +402,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"paṭiggahetvā",
     "pos":"abs",
     "grammar":"abs of paṭiggaṇhāti",
@@ -418,7 +418,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"tato 3",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
@@ -428,13 +428,13 @@
     "root":"",
     "base":"",
     "construction":"ta + to",
-    "compound_type":"#REF!",
-    "compound_construction":"#REF!"
+    "compound_type":"",
+    "compound_construction":""
   },
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"nīharitvā",
     "pos":"verb",
     "grammar":"abs of nīharati",
@@ -450,7 +450,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"bhikkhūhi",
     "pos":"noun",
     "grammar":"masc instr pl of bhikkhu",
@@ -466,7 +466,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"saddhiṃ",
     "pos":"ind",
     "grammar":"prep",
@@ -482,7 +482,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"saṃvibhajitabbaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of saṃvibhajitabba",
@@ -498,7 +498,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"ayaṃ",
     "pos":"pron",
     "grammar":"masc\/fem nom sg of ima",
@@ -514,7 +514,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"tattha",
     "pos":"ind",
     "grammar":"adv, from ta",
@@ -530,7 +530,7 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali_1":"sāmīci",
     "pos":"noun",
     "grammar":"fem nom sg",
@@ -546,8 +546,8 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
-    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
-    "pali_1":"This is the proper procedure there.",
+    "sentence":"tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "pali_1":"if he should accept more than that, there is an offence requiring confession. Having accepted two or three bowls full, having taken [it] away from there, [it] is to be shared together with [other] bhikkhus. This is the proper procedure there.",
     "pos":"",
     "grammar":"",
     "case":"",

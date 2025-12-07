@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -50,7 +50,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
     "pali_1":"samaggena",
     "pos":"adj",
     "grammar":"masc instr sg of samagga",
@@ -66,7 +66,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
     "pali_1":"saṅghena",
     "pos":"noun",
     "grammar":"masc instr sg of saṅgha",
@@ -82,7 +82,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
     "pali_1":"cīvaraṃ",
     "pos":"noun",
     "grammar":"nt nom sg of cīvara",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
     "pali_1":"datvā",
     "pos":"verb",
     "grammar":"abs of dadāti, deti",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
     "pali_1":"pacchā",
     "pos":"ind",
     "grammar":"adv, abl sg of paccha",
@@ -130,23 +130,23 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
-    "pali_1":"khīyanadhammaṃ",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
+    "pali_1":"khiyyanadhammaṃ",
     "pos":"noun",
-    "grammar":"masc acc sg of khīyanadhamma, comp",
+    "grammar":"masc acc sg of khiyyanadhamma, comp",
     "case":"",
     "meaning":"act of complaining",
     "meaning_lit":"complaining matter",
     "root":"",
     "base":"",
-    "construction":"khīyana + dhamma",
+    "construction":"khiyyana + dhamma",
     "compound_type":"kammadhāraya",
-    "compound_construction":"khīyana + dhamma"
+    "compound_construction":"khiyyana + dhamma"
   },
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya",
+    "sentence":"yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya",
     "pali_1":"āpajjeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of āpajjati",

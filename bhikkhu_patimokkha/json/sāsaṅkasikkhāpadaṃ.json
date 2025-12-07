@@ -882,7 +882,7 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
-    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"tato 2",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
@@ -898,7 +898,7 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
-    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -914,23 +914,23 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
-    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
-    "pali_1":"uttari",
+    "sentence":"tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "pali_1":"uttariṃ",
     "pos":"ind",
-    "grammar":"adv, acc sg of uttara",
+    "grammar":"adv, acc sg of uttari",
     "case":"",
     "meaning":"more, moreover, furthermore",
     "meaning_lit":"higher",
     "root":"√tar (cross)",
     "base":"",
-    "construction":"ud + √tar + a + i",
+    "construction":"ud + √tar + i + iṃ",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
-    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"vippavaseyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of vippavasati",
@@ -946,7 +946,7 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
-    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"aññatra",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -962,7 +962,7 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
-    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"bhikkhusammutiyā",
     "pos":"noun",
     "grammar":"fem abl sg of bhikkhusammuti, comp",
@@ -978,7 +978,7 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
-    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"nissaggiyaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nissaggiya, comp",
@@ -994,7 +994,7 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
-    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -1010,7 +1010,7 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
-    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"if he should dwell apart for more than that, apart from permission from the monks, this is an offence requiring relinquishment and confession.",
     "pos":"",
     "grammar":"",

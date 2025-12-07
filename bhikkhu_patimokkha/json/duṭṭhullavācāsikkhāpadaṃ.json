@@ -178,7 +178,7 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
-    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.",
     "pali_1":"yathā",
     "pos":"ind",
     "grammar":"adv",
@@ -194,7 +194,7 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
-    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.",
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc\/fem\/nt acc sg of ta",
@@ -210,7 +210,7 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
-    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.",
     "pali_1":"yuvā",
     "pos":"noun",
     "grammar":"masc nom sg of yuva",
@@ -226,7 +226,7 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
-    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.",
     "pali_1":"yuvatiṃ",
     "pos":"noun",
     "grammar":"fem acc sg of yuvatī",
@@ -242,10 +242,10 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
-    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
-    "pali_1":"methunupasaṃhitāhi",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.",
+    "pali_1":"methunūpasaṃhitāhi",
     "pos":"adj",
-    "grammar":"fem instr pl of methunupasaṃhita, comp",
+    "grammar":"fem instr pl of methunūpasaṃhita, comp",
     "case":"",
     "meaning":"with related to sexual intercourse, concerned with sexual activity",
     "meaning_lit":"",
@@ -258,7 +258,7 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
-    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.",
     "pali_1":"- methuna",
     "pos":"noun",
     "grammar":"nt",
@@ -274,7 +274,7 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
-    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.",
     "pali_1":"- upasaṃhitāhi",
     "pos":"pp",
     "grammar":"fem instr pl of upasaṃhita, pp of upasaṃdahati",
@@ -290,7 +290,7 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
-    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.",
     "pali_1":"saṅghādiseso",
     "pos":"noun",
     "grammar":"masc nom sg of saṅghādisesa, comp",
@@ -306,7 +306,7 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
-    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.",
     "pali_1":"like that of a young man to a young woman, concerned with sexual intercourse, is a saṅghādisesa (offence)",
     "pos":"",
     "grammar":"",

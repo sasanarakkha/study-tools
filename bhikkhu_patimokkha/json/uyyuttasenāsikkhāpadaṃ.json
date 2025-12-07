@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -50,7 +50,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"uyyuttaṃ",
     "pos":"pp",
     "grammar":"fem acc sg of uyyutta",
@@ -66,7 +66,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"senaṃ",
     "pos":"noun",
     "grammar":"fem acc sg of senā",
@@ -82,7 +82,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"dassanāya",
     "pos":"noun",
     "grammar":"nt dat sg of dassana",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"gaccheyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of gacchati",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"aññatra",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -130,10 +130,10 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
-    "pali_1":"tathārūpappaccayā",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
+    "pali_1":"tathārūpapaccayā",
     "pos":"noun",
-    "grammar":"masc abl sg of tathārūpappaccaya, comp",
+    "grammar":"masc abl sg of tathārūpapaccaya, comp",
     "case":"",
     "meaning":"suitable reason, appropriate cause",
     "meaning_lit":"such form condition",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"- tathārūpa",
     "pos":"adj",
     "grammar":"",
@@ -162,7 +162,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"- - tathā",
     "pos":"ind",
     "grammar":"adv",
@@ -178,7 +178,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"- - rūpa",
     "pos":"noun",
     "grammar":"nt",
@@ -194,7 +194,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"- paccayā",
     "pos":"noun",
     "grammar":"masc abl sg of paccaya",
@@ -210,7 +210,7 @@
   {
     "abbrev":"PC 48",
     "source":"uyyuttasenāsikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",

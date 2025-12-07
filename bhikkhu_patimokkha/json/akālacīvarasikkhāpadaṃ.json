@@ -2,7 +2,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"niṭṭhitacīvarasmiṃ",
     "pos":"noun",
     "grammar":"nt loc sg of niṭṭhitacīvara, comp",
@@ -18,7 +18,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
@@ -34,7 +34,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"ubbhatasmiṃ",
     "pos":"pp",
     "grammar":"nt loc sg of ubbhata",
@@ -50,12 +50,12 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
-    "pali_1":"kathine",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "pali_1":"kaṭhine",
     "pos":"noun",
-    "grammar":"nt loc sg of kathina",
+    "grammar":"nt loc sg of kaṭhina",
     "case":"",
-    "meaning":"when the Kathina privileges",
+    "meaning":"when the kaṭhina privileges",
     "meaning_lit":"in wooden frame",
     "root":"",
     "base":"",
@@ -66,7 +66,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"bhikkhuno",
     "pos":"noun",
     "grammar":"masc dat sg of bhikkhu, from bhikkhati",
@@ -82,7 +82,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"paneva",
     "pos":"comp",
     "grammar":"sandhi, ind + ind",
@@ -98,7 +98,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"akālacīvaraṃ",
     "pos":"noun",
     "grammar":"nt nom sg of akālacīvara",
@@ -114,7 +114,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"- akāla",
     "pos":"adj",
     "grammar":"",
@@ -130,7 +130,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"- cīvaraṃ",
     "pos":"noun",
     "grammar":"nt nom sg of cīvara",
@@ -146,7 +146,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"uppajjeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of uppajjati",
@@ -162,7 +162,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
     "pali_1":"When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, should out of season robe-cloth become available to a monk,",
     "pos":"",
     "grammar":"",
@@ -610,7 +610,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"tato 2",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
@@ -626,7 +626,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -642,23 +642,23 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
-    "pali_1":"uttari",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "pali_1":"uttariṃ",
     "pos":"ind",
-    "grammar":"ind, adv, comp form of uttara",
+    "grammar":"adv, acc sg of uttari",
     "case":"",
-    "meaning":"beyond, further, more than",
+    "meaning":"more, moreover, furthermore",
     "meaning_lit":"higher",
-    "root":"",
+    "root":"√tar (cross)",
     "base":"",
-    "construction":"ud + tara + i",
+    "construction":"ud + √tar + i + iṃ",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"nikkhipeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg, from nikkhipati",
@@ -674,7 +674,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"satiyāpi",
     "pos":"comp",
     "grammar":"sandhi, prp + ind",
@@ -690,7 +690,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- satiyā",
     "pos":"prp",
     "grammar":"fem loc sg of santa",
@@ -706,7 +706,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- api",
     "pos":"ind",
     "grammar":"conj",
@@ -722,7 +722,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"paccāsāya",
     "pos":"noun",
     "grammar":"fem loc sg of paccāsā, from paccāsiṃsati",
@@ -738,7 +738,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"nissaggiyaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nissaggiya",
@@ -754,7 +754,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -770,7 +770,7 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
-    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"if he should store more than that, even when there is an expectation, this is an offence requiring relinquishment and confession",
     "pos":"",
     "grammar":"",

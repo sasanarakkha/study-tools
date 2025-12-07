@@ -370,7 +370,7 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"tato 2",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
@@ -386,7 +386,7 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -402,23 +402,23 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
-    "pali_1":"uttari",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "pali_1":"uttariṃ",
     "pos":"ind",
-    "grammar":"adv, acc sg of uttara",
+    "grammar":"adv, acc sg of uttari",
     "case":"",
     "meaning":"more, moreover, furthermore",
     "meaning_lit":"higher",
     "root":"√tar (cross)",
     "base":"",
-    "construction":"ud + √tar + a + i",
+    "construction":"ud + √tar + i + iṃ",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"hareyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of harati",
@@ -434,7 +434,7 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"asantepi",
     "pos":"comp",
     "grammar":"sandhi, prp + ind",
@@ -450,7 +450,7 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- asante",
     "pos":"prp",
     "grammar":"masc loc sg of asanta, loc abs",
@@ -466,7 +466,7 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- api",
     "pos":"ind",
     "grammar":"conj",
@@ -482,7 +482,7 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"hārake",
     "pos":"noun",
     "grammar":"in not being",
@@ -498,7 +498,7 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"nissaggiyaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nissaggiya",
@@ -514,7 +514,7 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -530,7 +530,7 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
-    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"if he should carry it more than that, even when there is no carrier, this is an offence requiring relinquishment and confession.",
     "pos":"",
     "grammar":"",

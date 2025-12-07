@@ -2,7 +2,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"niṭṭhitacīvarasmiṃ",
     "pos":"noun",
     "grammar":"nt loc sg of niṭṭhitacīvara, comp",
@@ -18,7 +18,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
@@ -34,7 +34,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"ubbhatasmiṃ",
     "pos":"pp",
     "grammar":"nt loc sg of ubbhata",
@@ -50,12 +50,12 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
-    "pali_1":"kathine",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "pali_1":"kaṭhine",
     "pos":"noun",
-    "grammar":"nt loc sg of kathina",
+    "grammar":"nt loc sg of kaṭhina",
     "case":"",
-    "meaning":"when the Kathina privileges",
+    "meaning":"when the kaṭhina privileges",
     "meaning_lit":"in wooden frame",
     "root":"",
     "base":"",
@@ -66,7 +66,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"ekarattampi",
     "pos":"comp",
     "grammar":"sandhi, adv + ind",
@@ -82,7 +82,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- ekarattaṃ",
     "pos":"ind",
     "grammar":"adv, comp, acc sg of akeratta",
@@ -98,7 +98,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- - eka",
     "pos":"card",
     "grammar":"masc",
@@ -114,7 +114,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- - rattaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of ratta, from ratti",
@@ -130,7 +130,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- api",
     "pos":"ind",
     "grammar":"conj",
@@ -146,7 +146,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -162,7 +162,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -178,7 +178,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"ticīvarena",
     "pos":"noun",
     "grammar":"nt instr sg of ticīvara, comp",
@@ -194,7 +194,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- ti",
     "pos":"card",
     "grammar":"",
@@ -210,7 +210,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- cīvarena",
     "pos":"noun",
     "grammar":"nt instr sg of cīvara",
@@ -226,7 +226,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"vippavaseyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of vippavasati",
@@ -242,7 +242,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"aññatra",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -258,7 +258,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"bhikkhusammutiyā",
     "pos":"noun",
     "grammar":"fem abl sg of bhikkhusammuti, comp",
@@ -274,7 +274,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- bhikkhu",
     "pos":"noun",
     "grammar":"masc, from bhikkhati",
@@ -290,7 +290,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- sammutiyā",
     "pos":"noun",
     "grammar":"fem abl sg of sammuti",
@@ -306,7 +306,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"nissaggiyaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nissaggiya",
@@ -322,7 +322,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -338,7 +338,7 @@
   {
     "abbrev":"NP 2",
     "source":"udositasikkhāpadaṃ",
-    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, even for one night if a monk should stay apart from the three robes, apart from permission from the monks, this is an offence requiring relinquishment and confession",
     "pos":"",
     "grammar":"",

@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -50,7 +50,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"jānaṃ",
     "pos":"ind",
     "grammar":"adv, from jānanta",
@@ -66,10 +66,10 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
-    "pali_1":"bhikkhuniparipācitaṃ",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "pali_1":"bhikkhunīparipācitaṃ",
     "pos":"adj",
-    "grammar":"masc acc sg of bhikkhuniparipācita, comp",
+    "grammar":"masc acc sg of bhikkhunīparipācita, comp",
     "case":"",
     "meaning":"arranged by a nun",
     "meaning_lit":"",
@@ -82,7 +82,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"- bhikkhunī",
     "pos":"noun",
     "grammar":"fem nom sg of bhikkhunī",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"- paripācitaṃ",
     "pos":"pp",
     "grammar":"masc acc sg of paripācita",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"piṇḍapātaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of piṇḍapāta, comp",
@@ -130,7 +130,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"bhuñjeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of bhuñjati",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"aññatra",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -162,7 +162,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"pubbe",
     "pos":"ind",
     "grammar":"adv, loc sg of pubba",
@@ -178,7 +178,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"gihīsamārambhā",
     "pos":"noun",
     "grammar":"masc abl sg of gihīsamārambha, comp",
@@ -194,7 +194,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"- gihī",
     "pos":"noun",
     "grammar":"masc",
@@ -210,7 +210,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"- samārambhā",
     "pos":"noun",
     "grammar":"masc abl sg of samārambha",
@@ -226,7 +226,7 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -242,8 +242,8 @@
   {
     "abbrev":"PC 29",
     "source":"paripācitasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
-    "pali_1":"",
+    "sentence":"yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+    "pali_1":"If any monk should knowingly eat alms-food which a bhikkhunī has caused to be prepared, except through previous arrangement of householders, there is an offence requiring confession.\n",
     "pos":"",
     "grammar":"",
     "case":"",

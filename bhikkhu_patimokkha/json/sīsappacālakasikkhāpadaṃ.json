@@ -276,14 +276,14 @@
     "source":"sīsappacālakasikkhāpadaṃ",
     "sentence":"ujjagghikavaggo dutiyo.",
     "pali_1":"dutiyo",
-    "pos":"ordin",
+    "pos":"card",
     "grammar":"masc nom sg of dutiya",
     "case":"",
     "meaning":"second",
     "meaning_lit":"",
     "root":"",
     "base":"",
-    "construction":"dvi + tiya",
+    "construction":"dvi > du + tiya",
     "compound_type":"",
     "compound_construction":""
   }

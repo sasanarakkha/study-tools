@@ -418,7 +418,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"ambho",
     "pos":"ind",
     "grammar":"excl",
@@ -434,7 +434,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"purisa",
     "pos":"noun",
     "grammar":"masc voc sg",
@@ -450,7 +450,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"kiṃ",
     "pos":"pron",
     "grammar":"nt nom sg of ka",
@@ -466,7 +466,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"tuyhiminā",
     "pos":"comp",
     "grammar":"sandhi, pron + pron",
@@ -482,7 +482,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"- tuyhaṃ",
     "pos":"pron",
     "grammar":"2nd dat sg of tvaṃ",
@@ -498,7 +498,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"- iminā",
     "pos":"pron",
     "grammar":"nt instr sg of ima",
@@ -514,7 +514,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"pāpakena",
     "pos":"adj",
     "grammar":"nt instr sg of pāpaka",
@@ -530,7 +530,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"dujjīvitena",
     "pos":"noun",
     "grammar":"nt instr sg of dur + jīvita",
@@ -546,8 +546,24 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
-    "pali_1":"mataṃ",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
+    "pali_1":"matante",
+    "pos":"ind",
+    "grammar":"sandhi, noun + pron",
+    "case":"",
+    "meaning":"death for you",
+    "meaning_lit":"",
+    "root":"",
+    "base":"",
+    "construction":"mataṃ + te",
+    "compound_type":"",
+    "compound_construction":""
+  },
+  {
+    "abbrev":"PA 3",
+    "source":"manussaviggahasikkhāpadaṃ",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
+    "pali_1":"- mataṃ",
     "pos":"noun",
     "grammar":"nt nom sg of mata, pp of marati",
     "case":"",
@@ -562,8 +578,8 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
-    "pali_1":"te 3",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
+    "pali_1":"- te 3",
     "pos":"pron",
     "grammar":"2nd dat sg of tvaṃ",
     "case":"",
@@ -578,7 +594,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"jīvitā 2",
     "pos":"noun",
     "grammar":"nt abl sg of jīvita",
@@ -594,7 +610,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"seyyoti",
     "pos":"comp",
     "grammar":"sandhi, ind + ind",
@@ -610,7 +626,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"- seyyo",
     "pos":"ind",
     "grammar":"compar of sirī",
@@ -626,7 +642,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":"",
@@ -642,7 +658,7 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
-    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matante jīvitā seyyo'ti",
     "pali_1":"“Dear man, what is (it) with this bad, miserable life for you? Death for you is better than life!”",
     "pos":"",
     "grammar":"",

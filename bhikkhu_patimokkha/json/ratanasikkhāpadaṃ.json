@@ -546,7 +546,7 @@
   {
     "abbrev":"PC 84",
     "source":"ratanasikkhāpadaṃ",
-    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci, ayaṃ tattha sāmīci.",
+    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.",
     "pali_1":"yassa",
     "pos":"pron",
     "grammar":"masc gen sg of ya",
@@ -562,7 +562,7 @@
   {
     "abbrev":"PC 84",
     "source":"ratanasikkhāpadaṃ",
-    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci, ayaṃ tattha sāmīci.",
+    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.",
     "pali_1":"bhavissati",
     "pos":"verb",
     "grammar":"fut 3rd sg of bhavati",
@@ -578,7 +578,7 @@
   {
     "abbrev":"PC 84",
     "source":"ratanasikkhāpadaṃ",
-    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci, ayaṃ tattha sāmīci.",
+    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.",
     "pali_1":"so",
     "pos":"pron",
     "grammar":"masc nom sg of ta",
@@ -594,7 +594,7 @@
   {
     "abbrev":"PC 84",
     "source":"ratanasikkhāpadaṃ",
-    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci, ayaṃ tattha sāmīci.",
+    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.",
     "pali_1":"harissatīti",
     "pos":"comp",
     "grammar":"sandhi, fut + ind",
@@ -610,7 +610,7 @@
   {
     "abbrev":"PC 84",
     "source":"ratanasikkhāpadaṃ",
-    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci, ayaṃ tattha sāmīci.",
+    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.",
     "pali_1":"- harissati",
     "pos":"verb",
     "grammar":"fut 3rd sg of harati",
@@ -626,7 +626,7 @@
   {
     "abbrev":"PC 84",
     "source":"ratanasikkhāpadaṃ",
-    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci, ayaṃ tattha sāmīci.",
+    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":"",
@@ -642,7 +642,7 @@
   {
     "abbrev":"PC 84",
     "source":"ratanasikkhāpadaṃ",
-    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci, ayaṃ tattha sāmīci.",
+    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.",
     "pali_1":"ayaṃ",
     "pos":"pron",
     "grammar":"masc\/fem nom sg of ima",
@@ -658,7 +658,7 @@
   {
     "abbrev":"PC 84",
     "source":"ratanasikkhāpadaṃ",
-    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci, ayaṃ tattha sāmīci.",
+    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.",
     "pali_1":"tattha",
     "pos":"ind",
     "grammar":"adv, from ta",
@@ -674,7 +674,7 @@
   {
     "abbrev":"PC 84",
     "source":"ratanasikkhāpadaṃ",
-    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci, ayaṃ tattha sāmīci.",
+    "sentence":"yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.",
     "pali_1":"sāmīci",
     "pos":"noun",
     "grammar":"fem nom sg",

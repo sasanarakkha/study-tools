@@ -1954,12 +1954,12 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"mā",
     "pos":"ind",
     "grammar":"neg",
     "case":"",
-    "meaning":"don't!",
+    "meaning":"don't! may not!",
     "meaning_lit":"",
     "root":"",
     "base":"",
@@ -1970,7 +1970,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"āyasmā",
     "pos":"noun",
     "grammar":"masc nom sg of āyasmant",
@@ -1986,7 +1986,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"evaṃ",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -2002,7 +2002,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"avaca",
     "pos":"verb",
     "grammar":"imperf 3rd sg of vacati",
@@ -2018,7 +2018,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
@@ -2034,7 +2034,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"ca",
     "pos":"ind",
     "grammar":"conj",
@@ -2050,7 +2050,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"bhikkhū",
     "pos":"noun",
     "grammar":"masc nom pl, from bhikkhati",
@@ -2066,7 +2066,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"chandagāmino",
     "pos":"adj",
     "grammar":"masc nom pl of chandagāmī, comp",
@@ -2082,7 +2082,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
@@ -2098,7 +2098,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"ca",
     "pos":"ind",
     "grammar":"conj",
@@ -2114,7 +2114,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"bhikkhū",
     "pos":"noun",
     "grammar":"masc nom pl, from bhikkhati",
@@ -2130,7 +2130,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"dosagāmino",
     "pos":"adj",
     "grammar":"masc nom pl of dosagāmī, comp",
@@ -2146,7 +2146,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
@@ -2162,7 +2162,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"ca",
     "pos":"ind",
     "grammar":"conj",
@@ -2178,7 +2178,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"bhikkhū",
     "pos":"noun",
     "grammar":"masc nom pl, from bhikkhati",
@@ -2194,7 +2194,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"mohagāmino",
     "pos":"adj",
     "grammar":"masc nom pl of mohagāmī, comp",
@@ -2210,7 +2210,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
@@ -2226,7 +2226,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"ca",
     "pos":"ind",
     "grammar":"conj",
@@ -2242,7 +2242,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"bhikkhū",
     "pos":"noun",
     "grammar":"masc nom pl, from bhikkhati",
@@ -2258,7 +2258,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"bhayagāmino",
     "pos":"adj",
     "grammar":"masc nom pl of bhayagāmī, comp",
@@ -2274,7 +2274,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
+    "sentence":"mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino",
     "pali_1":"“Let the venerable one not speak thus! “The monks are not driven by desire; the monks are not driven by anger; the monks are not driven by delusion; the monks are not driven by fear.",
     "pos":"",
     "grammar":"",
@@ -2962,7 +2962,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"yāvatatiyañce",
     "pos":"comp",
     "grammar":"sandhi, adv + ind",
@@ -2978,7 +2978,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"samanubhāsiyamāno",
     "pos":"prp",
     "grammar":"masc nom sg of samanubhāsiyamāna, prp of samanubhāsiyati",
@@ -2994,7 +2994,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc\/fem\/nt acc sg of ta",
@@ -3010,23 +3010,23 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
-    "pali_1":"paṭinissajjeyya",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
+    "pali_1":"paṭinissajeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of paṭinissajjati",
     "case":"+acc",
     "meaning":"he would give up, relinquish",
     "meaning_lit":"",
-    "root":"√sajj (relinquish, let loose)",
-    "base":"√sajj + a > sajja",
-    "construction":"pati + nī + sajja + ti",
+    "root":"√saj (relinquish, let loose)",
+    "base":"√saj + a > saja",
+    "construction":"pati + nī + saja + ti",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"iccetaṃ",
     "pos":"comp",
     "grammar":"sandhi, ind + pron",
@@ -3042,7 +3042,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"kusalaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of kusala",
@@ -3058,7 +3058,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"no",
     "pos":"ind",
     "grammar":"neg",
@@ -3074,7 +3074,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -3090,23 +3090,23 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
-    "pali_1":"paṭinissajjeyya",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
+    "pali_1":"paṭinissajeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of paṭinissajjati",
     "case":"+acc",
     "meaning":"he would give up, relinquish",
     "meaning_lit":"",
-    "root":"√sajj (relinquish, let loose)",
-    "base":"√sajj + a > sajja",
-    "construction":"pati + nī + sajja + ti",
+    "root":"√saj (relinquish, let loose)",
+    "base":"√saj + a > saja",
+    "construction":"pati + nī + saja + ti",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"saṅghādiseso",
     "pos":"noun",
     "grammar":"masc nom sg of saṅghādisesa, comp",
@@ -3122,7 +3122,7 @@
   {
     "abbrev":"SA 13",
     "source":"kuladūsakasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"(if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence).",
     "pos":"",
     "grammar":"",

@@ -226,7 +226,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"ajj'uposatho pannaraso",
+    "sentence":"ajj'uposatho paṇṇaraso",
     "pali_1":"ajjuposatho",
     "pos":"comp",
     "grammar":"sandhi, adv + masc",
@@ -242,7 +242,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"ajj'uposatho pannaraso",
+    "sentence":"ajj'uposatho paṇṇaraso",
     "pali_1":"- ajja",
     "pos":"ind",
     "grammar":"adv",
@@ -258,7 +258,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"ajj'uposatho pannaraso",
+    "sentence":"ajj'uposatho paṇṇaraso",
     "pali_1":"- uposatho",
     "pos":"noun",
     "grammar":"masc nom sg of uposatha",
@@ -274,10 +274,10 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"ajj'uposatho pannaraso",
-    "pali_1":"pannaraso",
+    "sentence":"ajj'uposatho paṇṇaraso",
+    "pali_1":"paṇṇaraso",
     "pos":"noun",
-    "grammar":"masc nom sg of pannarasa, comp",
+    "grammar":"masc nom sg of paṇṇarasa, comp",
     "case":"",
     "meaning":"fifteenth day of the lunar fortnight",
     "meaning_lit":"",
@@ -290,8 +290,8 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"ajj'uposatho pannaraso",
-    "pali_1":"- panna",
+    "sentence":"ajj'uposatho paṇṇaraso",
+    "pali_1":"- paṇṇa",
     "pos":"card",
     "grammar":"in comps, from pañca",
     "case":"",
@@ -299,14 +299,14 @@
     "meaning_lit":"",
     "root":"",
     "base":"",
-    "construction":"pañca > panna",
+    "construction":"pañca > paṇṇa",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"ajj'uposatho pannaraso",
+    "sentence":"ajj'uposatho paṇṇaraso",
     "pali_1":"- rasa",
     "pos":"card",
     "grammar":"in comps, from dasa",
@@ -370,7 +370,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"ajj'uposatho pannaraso",
+    "sentence":"ajj'uposatho paṇṇaraso",
     "pali_1":"Today is the Observance day, fifteenth day of the lunar fortnight",
     "pos":"",
     "grammar":"",
@@ -1378,7 +1378,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"yathā",
     "pos":"ind",
     "grammar":"adv",
@@ -1394,7 +1394,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"kho",
     "pos":"ind",
     "grammar":"emph",
@@ -1410,7 +1410,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -1426,7 +1426,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"paccekapuṭṭhassa",
     "pos":"noun",
     "grammar":"masc dat sg of paccekapuṭṭha, comp",
@@ -1442,7 +1442,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"- paccekaṃ",
     "pos":"ind",
     "grammar":"adv",
@@ -1458,7 +1458,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"- puṭṭhassa",
     "pos":"pp",
     "grammar":"masc dat sg of puṭṭha, pp of pucchati",
@@ -1474,7 +1474,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"veyyākaraṇaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of veyyākaraṇa",
@@ -1490,7 +1490,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"hoti",
     "pos":"verb",
     "grammar":"pr 3rd sg",
@@ -1506,7 +1506,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"evamevaṃ",
     "pos":"comp",
     "grammar":"sandhi, adv + adv",
@@ -1522,7 +1522,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"- evaṃ",
     "pos":"ind",
     "grammar":"adv",
@@ -1538,7 +1538,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"- evaṃ",
     "pos":"ind",
     "grammar":"adv",
@@ -1554,7 +1554,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"evarūpāya",
     "pos":"adj",
     "grammar":"fem loc sg of evarūpa, comp",
@@ -1570,7 +1570,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"- evaṃ",
     "pos":"ind",
     "grammar":"adv",
@@ -1586,7 +1586,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"- rūpāya",
     "pos":"adj",
     "grammar":"fem loc sg of rūpa",
@@ -1602,7 +1602,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"parisāya",
     "pos":"noun",
     "grammar":"fem loc sg of parisā",
@@ -1618,7 +1618,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"yāvatatiyaṃ",
     "pos":"ind",
     "grammar":"adv, comp",
@@ -1634,7 +1634,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"- yāva",
     "pos":"ind",
     "grammar":"prep",
@@ -1650,7 +1650,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"- tatiyaṃ",
     "pos":"ind",
     "grammar":"adv",
@@ -1666,8 +1666,8 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
-    "pali_1":"anusāvitaṃ",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
+    "pali_1":"anussāvitaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of anusāvita, pp of anusāveti",
     "case":"",
@@ -1682,7 +1682,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"hoti",
     "pos":"verb",
     "grammar":"pr 3rd sg",
@@ -1698,7 +1698,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti",
+    "sentence":"yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam'evaṃ evarūpāya parisāya yāvatatiyaṃ anussāvitaṃ hoti",
     "pali_1":"Just as for one individually questioned there is an answer, in the same way in such a kind of assembly, until the third time, there is an announcement.",
     "pos":"",
     "grammar":"",
@@ -1714,7 +1714,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
@@ -1730,7 +1730,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -1746,7 +1746,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati",
@@ -1762,7 +1762,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"yāvatatiyaṃ",
     "pos":"ind",
     "grammar":"adv, comp",
@@ -1778,8 +1778,8 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
-    "pali_1":"anusāviyamāne",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "pali_1":"anussāviyamāne",
     "pos":"prp",
     "grammar":"masc loc sg of anusāviyamāna, prp of anusāviyati",
     "case":"",
@@ -1794,7 +1794,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"saramāno",
     "pos":"prp",
     "grammar":"masc nom sg of saramāna, prp of sarati",
@@ -1810,7 +1810,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"santiṃ",
     "pos":"prp",
     "grammar":"fem acc sg of santa, prp of atthi",
@@ -1826,7 +1826,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"āpattiṃ",
     "pos":"noun",
     "grammar":"fem acc sg of āpatti, from āpajjati",
@@ -1842,7 +1842,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"nāvikareyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of na + āvikaroti, comp verb, neg",
@@ -1858,7 +1858,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"- na",
     "pos":"ind",
     "grammar":"neg",
@@ -1874,7 +1874,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"- āvikareyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of āvikaroti, comp verb",
@@ -1890,7 +1890,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"sampajānamusāvādassa",
     "pos":"comp",
     "grammar":"sandhi, masc + pron",
@@ -1906,7 +1906,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"- sampajānamusāvādo",
     "pos":"masc",
     "grammar":"nom sg of sampajānamusāvāda, comp",
@@ -1922,7 +1922,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"- - sampajāna",
     "pos":"adj",
     "grammar":"from sampajānāti",
@@ -1938,7 +1938,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"- - musāvāda",
     "pos":"noun",
     "grammar":"comp",
@@ -1954,7 +1954,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"- - - musā",
     "pos":"ind",
     "grammar":"adv, instr sg",
@@ -1970,7 +1970,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"- - - vāda",
     "pos":"noun",
     "grammar":"masc, from vadati",
@@ -1986,7 +1986,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"- assa",
     "pos":"pron",
     "grammar":"masc dat sg of ta",
@@ -2002,7 +2002,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"hoti",
     "pos":"verb",
     "grammar":"pr 3rd sg",
@@ -2018,7 +2018,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
+    "sentence":"yo pana bhikkhu yāvatatiyaṃ anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvād'assa hoti.",
     "pali_1":"But whatever monk, when up to the third time the (announcement) is being stated, remembering the existing offence,  should he not make (it) open, there is deliberate false speech for him.",
     "pos":"",
     "grammar":"",
@@ -3042,7 +3042,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"parisuddhetthāyasmanto",
     "pos":"comp",
     "grammar":"sandhi, pp + adv + masc",
@@ -3058,7 +3058,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"- parisuddhā",
     "pos":"pp",
     "grammar":"masc nom pl of parisuddha, pp of parisujjhati",
@@ -3074,7 +3074,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"- ettha",
     "pos":"ind",
     "grammar":"adv",
@@ -3090,7 +3090,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"- āyasmanto 2",
     "pos":"noun",
     "grammar":"masc nom pl of āyasmant",
@@ -3106,7 +3106,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"tasmā",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
@@ -3122,7 +3122,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"tuṇhī",
     "pos":"ind",
     "grammar":"adv",
@@ -3138,7 +3138,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"evametaṃ",
     "pos":"comp",
     "grammar":"sandhi, adv + pron",
@@ -3154,7 +3154,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"- evaṃ",
     "pos":"ind",
     "grammar":"adv",
@@ -3170,7 +3170,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"- etaṃ",
     "pos":"pron",
     "grammar":"nt acc sg of eta",
@@ -3186,24 +3186,8 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
-    "pali_1":"dhārayāmī'ti",
-    "pos":"comp",
-    "grammar":"sandhi, pr + ind",
-    "case":"",
-    "meaning":"",
-    "meaning_lit":"",
-    "root":"",
-    "base":"",
-    "construction":"dhārayāmi + iti",
-    "compound_type":"",
-    "compound_construction":""
-  },
-  {
-    "abbrev":"NI",
-    "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
-    "pali_1":"- dhārayāmi",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
+    "pali_1":"dhārayāmi",
     "pos":"verb",
     "grammar":"pr 1st sg of dhārayati",
     "case":"+acc",
@@ -3218,23 +3202,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
-    "pali_1":"- iti",
-    "pos":"ind",
-    "grammar":"",
-    "case":"",
-    "meaning":"“”",
-    "meaning_lit":"thus",
-    "root":"",
-    "base":"",
-    "construction":"",
-    "compound_type":"",
-    "compound_construction":""
-  },
-  {
-    "abbrev":"NI",
-    "source":"nidānuddeso",
-    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "sentence":"parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.",
     "pali_1":"In this case the venerables are pure, therefore (there is) silence, so I keep this (in mind).",
     "pos":"",
     "grammar":"",
@@ -3250,26 +3218,10 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"nidān'uddeso paṭhamo",
-    "pali_1":"nidānuddeso",
+    "sentence":"nidānaṃ niṭṭhitaṃ",
+    "pali_1":"nidānaṃ",
     "pos":"noun",
-    "grammar":"masc nom sg, comp",
-    "case":"",
-    "meaning":"recitation of the introduction",
-    "meaning_lit":"",
-    "root":"",
-    "base":"",
-    "construction":"nidāna + uddeso",
-    "compound_type":"genitive tappurisa",
-    "compound_construction":"nidānassa + uddeso"
-  },
-  {
-    "abbrev":"NI",
-    "source":"nidānuddeso",
-    "sentence":"nidān'uddeso paṭhamo",
-    "pali_1":"- nidāna",
-    "pos":"noun",
-    "grammar":"nt",
+    "grammar":"nt nom sg of nidāna",
     "case":"",
     "meaning":"introduction",
     "meaning_lit":"tying down",
@@ -3282,40 +3234,24 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"nidān'uddeso paṭhamo",
-    "pali_1":"- uddeso",
-    "pos":"noun",
-    "grammar":"masc nom sg of uddesa, from uddisati",
+    "sentence":"nidānaṃ niṭṭhitaṃ",
+    "pali_1":"niṭṭhitaṃ",
+    "pos":"pp",
+    "grammar":"nt nom sg of niṭṭhita",
     "case":"",
-    "meaning":"recitation, chanting",
-    "meaning_lit":"pointing up",
-    "root":"√dis (point out, explain)",
-    "base":"",
-    "construction":"ud + √dis + *a",
-    "compound_type":"",
-    "compound_construction":""
-  },
-  {
-    "abbrev":"NI",
-    "source":"nidānuddeso",
-    "sentence":"nidān'uddeso paṭhamo",
-    "pali_1":"paṭhamo",
-    "pos":"ordin",
-    "grammar":"masc nom sg of paṭhama",
-    "case":"",
-    "meaning":"first",
-    "meaning_lit":"most forward",
+    "meaning":"finished; completed; accomplished; lit. stood down ",
+    "meaning_lit":"",
     "root":"",
     "base":"",
-    "construction":"pa + tama",
+    "construction":"ni + √ṭhā + ita",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"nidān'uddeso paṭhamo",
-    "pali_1":"The recitation of the introduction is first. (or) The introduction is finished.",
+    "sentence":"nidānaṃ niṭṭhitaṃ",
+    "pali_1":" The introduction is finished.",
     "pos":"",
     "grammar":"",
     "case":"",

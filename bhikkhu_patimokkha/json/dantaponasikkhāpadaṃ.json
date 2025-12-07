@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -50,7 +50,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"adinnaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of adinna, pp of na + dadāti, neg",
@@ -66,7 +66,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"mukhadvāraṃ",
     "pos":"noun",
     "grammar":"nt acc sg of mukhadvāra, comp",
@@ -82,7 +82,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"- mukha",
     "pos":"noun",
     "grammar":"nt",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"- dvāraṃ",
     "pos":"noun",
     "grammar":"nt acc sg  of dvāra",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"āhāraṃ",
     "pos":"noun",
     "grammar":"masc acc sg of āhāra",
@@ -130,7 +130,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"āhareyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of āharati",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"aññatra",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -162,23 +162,23 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
-    "pali_1":"udakadantaponā",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
+    "pali_1":"udakadantapoṇā",
     "pos":"noun",
-    "grammar":"nt abl sg of udakadantapona, comp",
+    "grammar":"nt abl sg of udakadantapoṇa, comp",
     "case":"",
     "meaning":"water and tooth stick",
     "meaning_lit":"",
     "root":"",
     "base":"",
-    "construction":"udaka + dantapona",
+    "construction":"udaka + dantapoṇa",
     "compound_type":"dvanda",
-    "compound_construction":"udaka ca dantapona ca"
+    "compound_construction":"udaka ca dantapoṇa ca"
   },
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"- udaka",
     "pos":"noun",
     "grammar":"nt",
@@ -194,23 +194,23 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
-    "pali_1":"- dantaponā",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
+    "pali_1":"- dantapoṇā",
     "pos":"noun",
-    "grammar":"nt abl sg of dantapona, comp",
+    "grammar":"nt abl sg of dantapoṇa, comp",
     "case":"",
     "meaning":"tooth stick",
     "meaning_lit":"",
     "root":"",
     "base":"",
-    "construction":"danta + pona",
+    "construction":"danta + poṇa",
     "compound_type":"dative tappurisa",
-    "compound_construction":"dantāya + pona"
+    "compound_construction":"dantāya + poṇa"
   },
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"- - danta",
     "pos":"noun",
     "grammar":"masc",
@@ -226,10 +226,10 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
-    "pali_1":"- - ponā",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
+    "pali_1":"- - poṇā",
     "pos":"noun",
-    "grammar":"nt abl sg of pona",
+    "grammar":"nt abl sg of poṇa",
     "case":"",
     "meaning":"stick",
     "meaning_lit":"bent down",
@@ -242,7 +242,7 @@
   {
     "abbrev":"PC 40",
     "source":"dantaponasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantapoṇā, pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",

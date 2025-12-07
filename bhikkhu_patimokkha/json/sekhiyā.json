@@ -402,7 +402,7 @@
   {
     "abbrev":"SE",
     "source":"sekhiyā",
-    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.",
+    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmi.",
     "pali_1":"parisuddhetthāyasmanto",
     "pos":"comp",
     "grammar":"sandhi, pp + adv + masc",
@@ -418,7 +418,7 @@
   {
     "abbrev":"SE",
     "source":"sekhiyā",
-    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.",
+    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmi.",
     "pali_1":"tasmā",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
@@ -434,7 +434,7 @@
   {
     "abbrev":"SE",
     "source":"sekhiyā",
-    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.",
+    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmi.",
     "pali_1":"tuṇhī",
     "pos":"ind",
     "grammar":"adv",
@@ -450,7 +450,7 @@
   {
     "abbrev":"SE",
     "source":"sekhiyā",
-    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.",
+    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmi.",
     "pali_1":"evametaṃ",
     "pos":"comp",
     "grammar":"sandhi, adv + pron",
@@ -466,13 +466,13 @@
   {
     "abbrev":"SE",
     "source":"sekhiyā",
-    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.",
+    "sentence":"parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmi.",
     "pali_1":"dhārayāmi",
     "pos":"verb",
     "grammar":"pr 1st sg of dhārayati",
     "case":"+acc",
     "meaning":"I take, I believe, I keep in mind",
-    "meaning_lit":"bear, carry",
+    "meaning_lit":"I bear, carry",
     "root":"√dhar (wear, hold, carry)",
     "base":"√dhar + *aya > dhāraya",
     "construction":"dhāraya + ti",

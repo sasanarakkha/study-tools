@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -50,7 +50,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"anupasampannena",
     "pos":"noun",
     "grammar":"masc instr sg of anupasampannaṃ",
@@ -66,23 +66,23 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
-    "pali_1":"uttari",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "pali_1":"uttariṃ",
     "pos":"ind",
-    "grammar":"adv, acc sg of uttara",
+    "grammar":"adv, acc sg of uttari",
     "case":"",
     "meaning":"more, moreover, furthermore",
     "meaning_lit":"higher",
     "root":"√tar (cross)",
     "base":"",
-    "construction":"ud + √tar + a + i",
+    "construction":"ud + √tar + i + iṃ",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"dirattatirattaṃ",
     "pos":"ind",
     "grammar":"adv, acc sg of dirattatiratta",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"- diratta",
     "pos":"noun",
     "grammar":"nt, comp",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"- - di",
     "pos":"card",
     "grammar":"",
@@ -130,7 +130,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"- - ratta",
     "pos":"noun",
     "grammar":"nt",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"- tirattaṃ",
     "pos":"noun",
     "grammar":"nt, comp",
@@ -162,7 +162,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"- - ti",
     "pos":"card",
     "grammar":"masc fem nt pl",
@@ -178,7 +178,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"- - rattaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of ratta",
@@ -194,7 +194,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"sahaseyyaṃ",
     "pos":"noun",
     "grammar":"fem acc sg of sahaseyyā",
@@ -210,7 +210,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"- saha",
     "pos":"ind",
     "grammar":"",
@@ -226,7 +226,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"- seyyaṃ",
     "pos":"noun",
     "grammar":"fem acc sg of seyyā",
@@ -242,7 +242,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"kappeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of kappeti",
@@ -258,7 +258,7 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -274,8 +274,8 @@
   {
     "abbrev":"PC 05",
     "source":"paṭhamasahaseyyasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
-    "pali_1":"",
+    "sentence":"yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "pali_1":"If any monk should make use of a sleeping place for more than two nights or three nights together with an unordained person, there is an offence requiring confession.",
     "pos":"",
     "grammar":"",
     "case":"",

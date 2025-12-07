@@ -242,7 +242,7 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
-    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajitabbo",
     "pali_1":"tena",
     "pos":"pron",
     "grammar":"masc instr sg of ta",
@@ -258,7 +258,7 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
-    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajitabbo",
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
@@ -274,7 +274,7 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
-    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajitabbo",
     "pali_1":"so",
     "pos":"pron",
     "grammar":"masc nom sg of ta",
@@ -290,7 +290,7 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
-    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajitabbo",
     "pali_1":"patto",
     "pos":"masc",
     "grammar":"masc nom sg of patta",
@@ -306,7 +306,7 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
-    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajitabbo",
     "pali_1":"bhikkhuparisāya",
     "pos":"noun",
     "grammar":"fem dat sg of bhikkhuparisā, comp",
@@ -322,7 +322,7 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
-    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajitabbo",
     "pali_1":"- bhikkhu",
     "pos":"noun",
     "grammar":"masc, from bhikkhati",
@@ -338,7 +338,7 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
-    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajitabbo",
     "pali_1":"- parisāya",
     "pos":"noun",
     "grammar":"fem dat sg of parisā",
@@ -354,8 +354,8 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
-    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
-    "pali_1":"nissajjitabbo",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajitabbo",
+    "pali_1":"nissajitabbo",
     "pos":"ptp",
     "grammar":"masc nom sg of nissajjitabba",
     "case":"",
@@ -370,7 +370,7 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
-    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajitabbo",
     "pali_1":" That bowl is to be relinquished by that monk to the assembly of monks",
     "pos":"",
     "grammar":"",

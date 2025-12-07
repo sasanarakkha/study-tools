@@ -386,24 +386,8 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
-    "pali_1":"māyasmā",
-    "pos":"comp",
-    "grammar":"sandhi, ind + masc",
-    "case":"",
-    "meaning":"venerable don't!",
-    "meaning_lit":"",
-    "root":"",
-    "base":"",
-    "construction":"mā + āyasmā",
-    "compound_type":"",
-    "compound_construction":""
-  },
-  {
-    "abbrev":"SA 10",
-    "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
-    "pali_1":"- mā",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "pali_1":"mā",
     "pos":"ind",
     "grammar":"neg",
     "case":"",
@@ -418,8 +402,8 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
-    "pali_1":"- āyasmā",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "pali_1":"āyasmā",
     "pos":"noun",
     "grammar":"masc nom sg of āyasmant",
     "case":"",
@@ -434,7 +418,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"samaggassa",
     "pos":"adj",
     "grammar":"masc gen sg of samagga",
@@ -450,7 +434,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"saṅghassa",
     "pos":"noun",
     "grammar":"masc gen sg of saṅgha",
@@ -466,7 +450,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"bhedāya",
     "pos":"noun",
     "grammar":"masc dat sg of bheda",
@@ -482,7 +466,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"parakkami",
     "pos":"verb",
     "grammar":"aor 3rd sg of parakkamati",
@@ -498,7 +482,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"bhedanasaṃvattanikaṃ",
     "pos":"adj",
     "grammar":"nt acc sg of bhedanasaṃvattanika, comp",
@@ -514,7 +498,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -530,7 +514,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"adhikaraṇaṃ",
     "pos":"noun",
     "grammar":"nt nom of adhikaraṇa",
@@ -546,7 +530,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"samādāya",
     "pos":"verb",
     "grammar":"ger of samādāti",
@@ -562,7 +546,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"paggayha",
     "pos":"verb",
     "grammar":"ger of paggaṇhāti",
@@ -578,7 +562,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"aṭṭhāsi",
     "pos":"verb",
     "grammar":"aor 3rd sg of tiṭṭhati",
@@ -594,7 +578,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
+    "sentence":"mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi",
     "pali_1":"“Let the venerable one not strive for the schism of a united community, or undertaking, persist in upholding a legal issue conducive to schism",
     "pos":"",
     "grammar":"",
@@ -791,8 +775,8 @@
     "pos":"noun",
     "grammar":"masc nom sg of uddesa, from uddisati",
     "case":"",
-    "meaning":"recitation, chanting",
-    "meaning_lit":"pointing up",
+    "meaning":"designated, appearing to be",
+    "meaning_lit":"pointed up",
     "root":"√dis (point out, explain)",
     "base":"",
     "construction":"ud + √dis + *a",
@@ -1202,7 +1186,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"yāvatatiyañce",
     "pos":"comp",
     "grammar":"sandhi, adv + ind",
@@ -1218,7 +1202,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"- yāvatatiyaṃ",
     "pos":"ind",
     "grammar":"adv, comp",
@@ -1234,7 +1218,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"- ce",
     "pos":"ind",
     "grammar":"cond",
@@ -1250,7 +1234,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"samanubhāsiyamāno",
     "pos":"prp",
     "grammar":"masc nom sg of samanubhāsiyamāna, prp of samanubhāsiyati",
@@ -1266,7 +1250,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc\/fem\/nt acc sg of ta",
@@ -1282,23 +1266,23 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
-    "pali_1":"paṭinissajjeyya",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
+    "pali_1":"paṭinissajeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of paṭinissajjati",
     "case":"+acc",
     "meaning":"he would give up, relinquish",
     "meaning_lit":"",
-    "root":"√sajj (relinquish, let loose)",
-    "base":"√sajj + a > sajja",
-    "construction":"pati + nī + sajja + ti",
+    "root":"√saj (relinquish, let loose)",
+    "base":"√saj + a > saja",
+    "construction":"pati + nī + saja + ti",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"iccetaṃ",
     "pos":"comp",
     "grammar":"sandhi, ind + pron",
@@ -1314,7 +1298,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":"",
@@ -1330,7 +1314,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"- etaṃ 2",
     "pos":"pron",
     "grammar":"nt nom sg of eta",
@@ -1346,7 +1330,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"kusalaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of kusala",
@@ -1362,7 +1346,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"no",
     "pos":"ind",
     "grammar":"neg",
@@ -1378,7 +1362,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -1394,8 +1378,8 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
-    "pali_1":"paṭinissajjeyya",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
+    "pali_1":"paṭinissajeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of paṭinissajjati",
     "case":"+acc",
@@ -1410,7 +1394,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"saṅghādiseso",
     "pos":"noun",
     "grammar":"masc nom sg of saṅghādisesa, comp",
@@ -1426,7 +1410,7 @@
   {
     "abbrev":"SA 10",
     "source":"saṅghabhedasikkhāpadaṃ",
-    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+    "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.",
     "pali_1":"(if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence).",
     "pos":"",
     "grammar":"",
