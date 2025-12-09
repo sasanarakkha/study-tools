@@ -1,8 +1,8 @@
 id
 pali
-gram
+gramma
 of
-transl
+eng
 related
 decl-con
 pattern

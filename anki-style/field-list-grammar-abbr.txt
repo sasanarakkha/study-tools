@@ -1,9 +1,9 @@
 id
 abbrev
 meaning
-pāli
+pali
 example
 explanation
-pattern
+type
 feedback
 test
