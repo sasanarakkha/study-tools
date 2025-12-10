@@ -61,7 +61,11 @@ Please see a small [video](https://user-images.githubusercontent.com/39419221/18
 
 Or just follow the description:
 
-Usually it is enough just to double-click on the downloaded file SBS Pāli-English Vocab.apkg, and it will update in your Anki. Only you need to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
+Usually, it’s sufficient to double-click on the downloaded APKG file, and it will update in your Anki. Please ensure that your import settings are as follows.
+
+<img width="895" height="382" alt="image" src="https://github.com/user-attachments/assets/500a4232-e8dc-4c4d-9651-a7306a43ac04" />
+
+Only you need to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
 # Special fields add-on
 

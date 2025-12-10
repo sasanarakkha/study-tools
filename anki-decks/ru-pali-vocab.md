@@ -15,6 +15,8 @@
 
 Обычно достаточно просто дважды щелкнуть по загруженному файлу ru-pali-vocab.apkg, и он обновится в Анки.
 
+<img width="895" height="382" alt="image" src="https://github.com/user-attachments/assets/500a4232-e8dc-4c4d-9651-a7306a43ac04" />
+
 - также нужно [удалить повторяющиеся слова](https://sasanarakkha.github.io/study-tools/anki-decks/ru-test.html)
 
 # Дополнение Special Fields
