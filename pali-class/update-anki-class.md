@@ -31,7 +31,9 @@ __! Important !__ Before doing anything, synchronize your collection across all 
 
 ![2024-10-25_15-27](https://github.com/user-attachments/assets/585a6c1d-6353-4b2f-a95f-7f18f29cfe5e)
 
-Usually it is enough just to double-click on the downloaded apkg file, and it will update in your Anki. 
+Usually, it’s sufficient to double-click on the downloaded APKG file, and it will update in your Anki. Please ensure that your import settings are as follows.
+
+<img width="895" height="382" alt="image" src="https://github.com/user-attachments/assets/500a4232-e8dc-4c4d-9651-a7306a43ac04" />
 
 Only you need to [remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
