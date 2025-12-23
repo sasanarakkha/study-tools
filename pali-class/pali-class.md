@@ -55,7 +55,7 @@ You can find most of those decks on AnkiWeb by [searching for "pali."](https://a
 
 - [vocabulary related to each class](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) 
 
-- [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class
+<!-- - [Folder](https://github.com/sasanarakkha/study-tools/tree/main/pali-class/wordtree) with pictures of Words Tree where you can see most frequent related words to vocab related to each class -->
 
 ----
 
