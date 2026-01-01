@@ -16,6 +16,8 @@ It is a great AI tool that is limited only by the selected resources. It’s goo
 
 - [Pātimokkha Pali Study](https://notebooklm.google.com/notebook/36c7a255-1b16-455c-bcde-14574d8f0dd2?authuser=2&pageId=none&original_referer=https%3A%2F%2Faccounts.google.com%23&pli=1) - sources include: Bhikkhu Vibhaṅga Pāli–English (Ven. Brahmali); Pātimokkha Analysis — normal and extended versions (Ven. Ñāṇatusita); Buddhist Monastic Code I and II (Ven. Ṭhānissaro); SBS Pātimokkha Analysis
 
+- [Anupubbasikkhā Gradual Illumination](https://notebooklm.google.com/notebook/317a21a5-267c-4153-9543-b5bcfdcc6625?artifactId=3dcc3a5a-9b0b-488b-aa00-aa60764f6340) - everything related to Gradual Training from Tipiṭaka (mūla, atthakathā, ṭīkā), compiled by Ā Virāga. 
+
 ---
 
 *__EBT - Early Buddhist Texts__, it includes:
