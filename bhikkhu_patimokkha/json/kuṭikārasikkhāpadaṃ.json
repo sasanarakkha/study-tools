@@ -834,7 +834,7 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
-    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkameyya, saṅghādiseso.",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
     "pali_1":"bhikkhū 2",
     "pos":"noun",
     "grammar":"masc acc pl, from bhikkhati",
@@ -850,7 +850,7 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
-    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkameyya, saṅghādiseso.",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -866,7 +866,7 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
-    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkameyya, saṅghādiseso.",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
     "pali_1":"anabhineyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of abhineti, neg",
@@ -882,7 +882,7 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
-    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkameyya, saṅghādiseso.",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
     "pali_1":"vatthudesanāya",
     "pos":"noun",
     "grammar":"fem dat sg, comp",
@@ -898,7 +898,7 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
-    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkameyya, saṅghādiseso.",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
     "pali_1":"pamāṇaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pamāṇa, from pamiṇāti",
@@ -914,7 +914,7 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
-    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkameyya, saṅghādiseso.",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -930,23 +930,23 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
-    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkameyya, saṅghādiseso.",
-    "pali_1":"atikkameyya",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
+    "pali_1":"atikkāmeyya",
     "pos":"verb",
-    "grammar":"opt 3rd sg of atikkamati",
+    "grammar":"opt 3rd sg of atikkāmeti",
     "case":"",
     "meaning":"he would exceed, go beyond",
-    "meaning_lit":"goes too far",
+    "meaning_lit":"cause to go too far",
     "root":"√kam (go)",
-    "base":"√kam + a > kama",
-    "construction":"ati + kama + ti",
+    "base":"√kam + e > kāme",
+    "construction":"ati + kāme + ti",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
-    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkameyya, saṅghādiseso.",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
     "pali_1":"saṅghādiseso",
     "pos":"noun",
     "grammar":"masc nom sg of saṅghādisesa, comp",
@@ -962,7 +962,7 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
-    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkameyya, saṅghādiseso.",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
     "pali_1":"or (if) he would not bring monks for appointing the site, or (if) he would exceed the measurement, it is a saṅghādisesa (offence).",
     "pos":"",
     "grammar":"",
