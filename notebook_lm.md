@@ -4,7 +4,7 @@
 
 It is a great AI tool that is limited only by the selected resources. It’s good for finding needed references. There are a few useful collections available:
 
-- [Early Suttas + DPD](https://notebooklm.google.com/notebook/bccbe537-c493-4bfb-a0fc-6f3033ac79b8) - mūla of EBT* + simplified Digital Pāli Dictionary 
+- [Early Suttas](https://notebooklm.google.com/notebook/bccbe537-c493-4bfb-a0fc-6f3033ac79b8) - mūla of EBT*
 
 - [Sutta Piṭaka + Commentaries](https://notebooklm.google.com/notebook/68815e7f-c5b6-4b12-a66e-9f80729b9015) - Second basket of the Tipiṭaka, mūla + atthakathā
 
@@ -18,7 +18,9 @@ It is a great AI tool that is limited only by the selected resources. It’s goo
 
 - [Anupubbasikkhā Gradual Illumination](https://notebooklm.google.com/notebook/317a21a5-267c-4153-9543-b5bcfdcc6625?artifactId=3dcc3a5a-9b0b-488b-aa00-aa60764f6340) - everything from Tipiṭaka (mūla, atthakathā, ṭīkā) related to the Gradual Training, compiled by Ā Virāga. 
 
-- [Pāli Tipiṭaka + DPD](https://notebooklm.google.com/notebook/bccbe537-c493-4bfb-a0fc-6f3033ac79b8) - Tipiṭaka mūla + simplified Digital Pāli Dictionary
+- [Pāli Tipiṭaka](https://notebooklm.google.com/notebook/bccbe537-c493-4bfb-a0fc-6f3033ac79b8) - Tipiṭaka mūla
+
+- [Visuddhimagga](https://notebooklm.google.com/notebook/13187f85-d540-42c1-8ea8-5f723c5afab3)
 
 ---
 
