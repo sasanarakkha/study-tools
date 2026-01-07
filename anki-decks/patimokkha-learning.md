@@ -6,6 +6,8 @@ Made for aiding the memorization of the Pātimokkha, based on the book The Bhikk
 
 - **[Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/patimokkha-learning.apkg)**
 
+- Or download this deck from [the sharing page on the anki.web](https://ankiweb.net/shared/info/782910208)
+
 - Install [Anki](https://apps.ankiweb.net/)
 
 - Double-click on the downloaded file patimokkha-learning.apkg, and it will appear in your Anki.
