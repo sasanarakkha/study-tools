@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":"",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
@@ -50,7 +50,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"bhikkhunūpassayaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of bhikkhunūpassaya, comp",
@@ -66,7 +66,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"- bhikkhunī",
     "pos":"noun",
     "grammar":"fem nom sg of bhikkhunī",
@@ -88,7 +88,7 @@
     "grammar":"masc acc sg of upassaya",
     "case":"",
     "meaning":"home, dwelling, residence",
-    "meaning_lit":"support",
+    "meaning_lit":"dependence",
     "root":"√si (depend on, associate with)",
     "base":"",
     "construction":"upa + √si + *a",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"upasaṅkamitvā",
     "pos":"verb",
     "grammar":"abs of upasaṅkamati",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"bhikkhuniyo",
     "pos":"noun",
     "grammar":"fem acc pl of bhikkhunī",
@@ -130,7 +130,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"ovadeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of ovadati",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"aññatra",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -162,7 +162,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"samayā",
     "pos":"noun",
     "grammar":"masc abl sg of samaya",
@@ -178,7 +178,7 @@
   {
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
-    "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
+    "sentence":"yo pana bhikkhu bhikkhun'ūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
@@ -195,7 +195,7 @@
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
     "sentence":"yo pana bhikkhu bhikkhun'upassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ.",
-    "pali_1":"If any monk, having approached the bhikkhunī-quarters, should exhort the bhikkhunīs, except at the [right] occasion, there is an offence requiring confession. \n",
+    "pali_1":"If any monk, having approached the nun-quarters, should instruct the nuns, except at the right occasion, there is an offence requiring confession. ",
     "pos":"",
     "grammar":"",
     "case":"",
@@ -339,7 +339,7 @@
     "abbrev":"PC 23",
     "source":"bhikkhunūpassayasikkhāpadaṃ",
     "sentence":"tatth'āyaṃ samayo, gilānā hoti bhikkhunī, ayaṃ tattha samayo.",
-    "pali_1":"Here the occasion is this: a bhikkhunī is sick; this is the occasion here.",
+    "pali_1":"Here the right occasion is this: a nun is sick; this is the right occasion in that case.",
     "pos":"",
     "grammar":"",
     "case":"",

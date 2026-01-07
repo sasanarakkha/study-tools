@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"agilānena",
     "pos":"adj",
     "grammar":"masc instr sg of agilāna",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"cātumāsapaccayapavāraṇā",
     "pos":"noun",
     "grammar":"fem nom sg, comp",
@@ -43,15 +43,15 @@
     "meaning_lit":"",
     "root":"",
     "base":"",
-    "construction":"catu + māsa + paccaya + pavāraṇā",
+    "construction":"catu > cātu + māsa + paccaya + pavāraṇā",
     "compound_type":"dative tappurisa",
     "compound_construction":"cātumāsapaccayassa +  pavāraṇā"
   },
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
-    "pali_1":"- catumāsa",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "pali_1":"- cātumāsa",
     "pos":"noun",
     "grammar":"nt, comp",
     "case":"",
@@ -59,15 +59,15 @@
     "meaning_lit":"",
     "root":"",
     "base":"",
-    "construction":"catu + māsa",
+    "construction":"catu > cātu + māsa + *a",
     "compound_type":"digu",
     "compound_construction":"cattāro + māsā"
   },
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
-    "pali_1":"- - catu",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "pali_1":"- - cātu",
     "pos":"card",
     "grammar":"",
     "case":"",
@@ -75,14 +75,14 @@
     "meaning_lit":"",
     "root":"",
     "base":"",
-    "construction":"",
+    "construction":"catu > cātu",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"- - māsa",
     "pos":"noun",
     "grammar":"nt",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"- paccayapavāraṇā",
     "pos":"noun",
     "grammar":"fem nom sg, comp",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"- - paccaya",
     "pos":"noun",
     "grammar":"masc",
@@ -130,7 +130,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"- - pavāraṇā",
     "pos":"noun",
     "grammar":"fem nom sg",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"sāditabbā",
     "pos":"ptp",
     "grammar":"fem nom sg of sāditabba",
@@ -162,7 +162,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"aññatra",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -178,7 +178,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"punapavāraṇāya",
     "pos":"noun",
     "grammar":"fem abl sg of punapavāraṇā, comp",
@@ -194,7 +194,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"- puna",
     "pos":"ind",
     "grammar":"adv",
@@ -210,7 +210,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"- pavāraṇāya",
     "pos":"noun",
     "grammar":"fem abl sg",
@@ -226,7 +226,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"aññatra",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -242,7 +242,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"niccapavāraṇāya",
     "pos":"noun",
     "grammar":"fem abl sg of niccapavāraṇā, comp",
@@ -258,7 +258,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"- nicca",
     "pos":"adj",
     "grammar":"",
@@ -274,7 +274,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"- pavāraṇāya",
     "pos":"noun",
     "grammar":"fem abl sg",
@@ -290,7 +290,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"tato 2",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
@@ -306,7 +306,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
@@ -322,7 +322,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"uttariṃ",
     "pos":"ind",
     "grammar":"adv, acc sg of uttari",
@@ -338,7 +338,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"sādiyeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of sādiyati",
@@ -354,7 +354,7 @@
   {
     "abbrev":"PC 47",
     "source":"mahānāmasikkhāpadaṃ",
-    "sentence":"agilānena bhikkhunā catumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
+    "sentence":"agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pācittiya",
