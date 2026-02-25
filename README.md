@@ -2,6 +2,8 @@
 
 These materials are provided for the benefit, welfare, and happiness of many people. We would greatly appreciate your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform?) to assist us in improving them.
 
+Recommendations [before starting study Pāli](https://sasanarakkha.github.io/study-tools/pre-pali-study.html).
+
 ### Dictionaries:
 
 - [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/)
