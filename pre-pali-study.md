@@ -23,7 +23,7 @@ For beginners, compiled collections offer a structured introduction to the core 
 2. Thematic Study
 
 This method involves selecting a specific topic of personal interest—such as Kamma (action), Sīla (virtue), or Mettā (loving-kindness) — and reading all related suttas.
-- [SuttaCentral] (https://suttacentral.net/subjects?lang=en) provides indexes and lists organized by subject matter to facilitate this type of targeted study.
+- [SuttaCentral](https://suttacentral.net/subjects?lang=en) provides indexes and lists organized by subject matter to facilitate this type of targeted study.
 - More comprehensive index [can be found here](https://index.readingfaithfully.org)
 
 3. Sequential Reading
