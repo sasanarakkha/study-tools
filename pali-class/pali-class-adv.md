@@ -62,7 +62,7 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 ---
 
-This material based on the New Pali Course Part 3 - Ven. A.P. Buddhadatta.
+This material based on the New Pāli Course Part 3 - Ven. A.P. Buddhadatta.
 
 Can be found in the class folder on the server:
 
@@ -80,7 +80,7 @@ Draft of the [class material](https://docs.google.com/document/d/1QMX_yuH9uJeTEf
 
 ---
 
-We recommend using the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
+We recommend using the latest [SBS Pāli Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
 
 ----
 

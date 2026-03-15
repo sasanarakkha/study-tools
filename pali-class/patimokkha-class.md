@@ -33,9 +33,9 @@ To support vocabulary improvement, there are two Anki decks available. Please up
 
 # For those who are new
 
-For those who need some basic Pali knowledge to benefit more from this class, the following materials are available:
+For those who need some basic Pāli knowledge to benefit more from this class, the following materials are available:
 
-- A list of abbreviations used in DPD and all SBS Pali study tools.
+- A list of abbreviations used in DPD and all SBS Pāli study tools.
 
 `\\FILESRV1\share1\Sharing between users\13 For Pāli class\Anki Decks\abbreviations.xlsx`
 
@@ -47,7 +47,7 @@ For those who need some basic Pali knowledge to benefit more from this class, th
 
 `\\FILESRV1\share1\Sharing between users\13 For Pāli class\Extra Reading\English Grammatical Terms`
 
-- An introduction to the basic parts of speech in Pali and their translation. Please read through the [Beginner Pali Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html), and, if desired, the [Intermediate Pali Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html). You don’t have to complete all exercises—just review the main headings to get an overview.
+- An introduction to the basic parts of speech in Pāli and their translation. Please read through the [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html), and, if desired, the [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html). You don’t have to complete all exercises—just review the main headings to get an overview.
 
 
 ----
@@ -60,7 +60,7 @@ Feel free to [contact us](mailto:studytools@sasanarakkha.org) if you need any as
 
 ----
 
-We recommend using the latest [SBS Pali Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
+We recommend using the latest [SBS Pāli Dictionary](https://sasanarakkha.github.io/study-tools/dict/sbs-pali-dictionary.html). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
 
 ---
 

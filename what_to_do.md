@@ -27,7 +27,7 @@
 - add commentary examples from [file](https://docs.google.com/document/d/1lK846LWGEpC9VJvQ6GZYUgZDWdjLtZSZ/edit), distribute them in the classes accordingly.
 - check key
 - check words in Anki deck related to classes
-- add full information from "The New Pali Course Part III by A.P. Buddhadatta.pdf" into [class doc](https://docs.google.com/document/d/1QMX_yuH9uJeTEfg3ItetlI5RVsPGlj0Q1XUstHXRLZo/edit)
+- add full information from "The New Pāli Course Part III by A.P. Buddhadatta.pdf" into [class doc](https://docs.google.com/document/d/1QMX_yuH9uJeTEfg3ItetlI5RVsPGlj0Q1XUstHXRLZo/edit)
 
 **patimokkha word by word**
 

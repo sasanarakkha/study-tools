@@ -14,7 +14,7 @@ It is a great AI tool that is limited only by the selected resources. It’s goo
 
 - [Early Suttas + Vinaya](https://notebooklm.google.com/notebook/62ff61c6-b9e1-4524-8447-82b00ca6f6ff) - mūla: EBT* and Vinaya
 
-- [Pātimokkha Pali Study](https://notebooklm.google.com/notebook/36c7a255-1b16-455c-bcde-14574d8f0dd2) - sources include: Bhikkhu Vibhaṅga Pāli–English (Ven. Brahmali); Pātimokkha Analysis — normal and extended versions (Ven. Ñāṇatusita); Buddhist Monastic Code I and II (Ven. Ṭhānissaro); SBS Pātimokkha Analysis
+- [Pātimokkha Pāli Study](https://notebooklm.google.com/notebook/36c7a255-1b16-455c-bcde-14574d8f0dd2) - sources include: Bhikkhu Vibhaṅga Pāli–English (Ven. Brahmali); Pātimokkha Analysis — normal and extended versions (Ven. Ñāṇatusita); Buddhist Monastic Code I and II (Ven. Ṭhānissaro); SBS Pātimokkha Analysis
 
 - [Anupubbasikkhā Gradual Illumination](https://notebooklm.google.com/notebook/317a21a5-267c-4153-9543-b5bcfdcc6625?artifactId=3dcc3a5a-9b0b-488b-aa00-aa60764f6340) - everything from Tipiṭaka (mūla, atthakathā, ṭīkā) related to the Gradual Training, compiled by Ā Virāga. 
 

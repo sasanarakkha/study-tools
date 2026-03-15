@@ -1,4 +1,4 @@
-# Bhikkhu Vibhaṅga Pali
+# Bhikkhu Vibhaṅga Pāli
 
 UNDER DEVELOPMENT
 
