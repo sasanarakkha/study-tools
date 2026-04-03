@@ -32,9 +32,9 @@ Or download all materials in ZIP file from [this page on GitHub](https://github.
 
 - Anki Deck [Vocab Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/vocab-pali-class.apkg)
 
-It is a continuation of the Vocab Anki Deck from the [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html).
+It is a continuation of the Vocab Anki Deck from the [Beginner Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/bpc/).
 
-[How to update Anki Decks for Pāli Class](https://sasanarakkha.github.io/study-tools/pali-class/update-anki-class.html)
+[How to update Anki Decks for Pāli Class](https://digitalpalidictionary.github.io/dpd-pali-courses/anki/)
 
 [How to remove outdated words](https://sasanarakkha.github.io/study-tools/anki-decks/test.html)
 
@@ -64,7 +64,7 @@ We recommend using the latest [SBS Pāli Dictionary](https://sasanarakkha.github
 
 ----
 
-[Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html) available for beginner Pāli students.
+[Beginner Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/bpc/) available for beginner Pāli students.
 
 ----
 

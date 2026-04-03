@@ -15,7 +15,7 @@ Please note that the lists of words do not overlap.
 
 Please note that each subsequent class will include vocabulary from all previous classes.
 
-## [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html)
+## [Beginner Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/bpc/)
 
 - [vocab-class2](./vocab-class2.html)
 - [vocab-class3](./vocab-class3.html)
@@ -32,7 +32,7 @@ Please note that each subsequent class will include vocabulary from all previous
 - [vocab-class14](./vocab-class14.html)
 - [vocab-class15](./vocab-class15.html)
 
-## [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html)
+## [Intermediate Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/ipc/)
 
 - [vocab-class16](./vocab-class16.html)
 - [vocab-class17](./vocab-class17.html)

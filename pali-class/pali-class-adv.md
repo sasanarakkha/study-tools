@@ -2,7 +2,7 @@
 
 **UNDER DEVELOPMENT**
 
-How to proceed with individual Pāli study once you're finished with the [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html) and [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html).
+How to proceed with individual Pāli study once you're finished with the [Beginner Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/bpc/) and [Intermediate Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/ipc/).
 
 The first recommendation is to review the class materials again, paying attention to the details. Now that you're familiar with the basics of grammar, you'll be able to pick up on details that might not have been obvious to you when you first learned this material. Usually, teachers say that these courses contain information that cannot be absorbed at one time. Redo class exercises as needed, and it's always a good idea to maintain your reviews in Anki.
 
@@ -32,7 +32,7 @@ Anki Deck - [SBS Pāḷi-English Vocab](https://sasanarakkha.github.io/study-too
 
 - [Exersises on MN 107 gaṇakamoggallānasuttaṁ](https://docs.google.com/document/d/1kG7DPHLKYlzYdzEQboyYlGJed1cx7zm1LaVU6Qp5Jro/edit?usp=sharing)
 
-There is an Anki Deck - [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.apkg) which includes MN 107 and other suttas listed next. Or [update deck from csv](https://sasanarakkha.github.io/study-tools/pali-class/update-anki-class.html) if you already using one.
+There is an Anki Deck - [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.apkg) which includes MN 107 and other suttas listed next. Or [update deck from csv](https://digitalpalidictionary.github.io/dpd-pali-courses/anki/) if you already using one.
 
 ---
 

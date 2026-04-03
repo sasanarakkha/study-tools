@@ -47,7 +47,7 @@ For those who need some basic Pāli knowledge to benefit more from this class, t
 
 `\\FILESRV1\share1\Sharing between users\13 For Pāli class\Extra Reading\English Grammatical Terms`
 
-- An introduction to the basic parts of speech in Pāli and their translation. Please read through the [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html), and, if desired, the [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html). You don’t have to complete all exercises—just review the main headings to get an overview.
+- An introduction to the basic parts of speech in Pāli and their translation. Please read through the [Beginner Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/bpc/), and, if desired, the [Intermediate Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/ipc/). You don’t have to complete all exercises—just review the main headings to get an overview.
 
 
 ----

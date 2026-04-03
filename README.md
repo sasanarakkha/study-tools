@@ -40,7 +40,7 @@ Download: [pdf](https://github.com/sasanarakkha/nanatusita-patimokkha/releases/l
 
 - [Parittas](https://sasanarakkha.github.io/study-tools/anki-decks/parittas.html)
 
-- [Decks for Pāli Classes](https://sasanarakkha.github.io/study-tools/pali-class/update-anki-class.html)
+- [Decks for Pāli Classes](https://digitalpalidictionary.github.io/dpd-pali-courses/anki/)
 
 - [Pātimokkha Learning](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-learning.html)
 
@@ -66,9 +66,9 @@ You can check the date of the latest update for all decks  [here](https://github
 
 ### Pāli class:
 
-- [Beginner Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class.html)
+- [Beginner Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/bpc/)
 
-- [Intermediate Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-inter.html)
+- [Intermediate Pāli Course](https://digitalpalidictionary.github.io/dpd-pali-courses/ipc/)
 
 - [Advanced Pāli Course](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-adv.html)
 
