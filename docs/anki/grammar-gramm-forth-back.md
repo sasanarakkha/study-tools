@@ -1,0 +1,58 @@
+# Grammar Gramm Forth — Back Template
+
+```html
+{{FrontSide}}
+
+<hr id=answer>
+
+<table>
+    {{#related}}
+    <tr valign="top">
+        <td class="another_color">Related:</td>
+        <td><b>{{related}}</b></td>
+    </tr>
+    {{/related}}
+
+    {{#eng}}
+    <tr valign="top">
+        <td class="another_color">Meaning:</td>
+        <td><i>{{eng}}</i></td>
+    </tr>
+    {{/eng}}
+
+    {{#native}}
+    <tr valign="top">
+        <td class="another_color">Native:</td>
+        <td><i>{{native}}</i></td>
+    </tr>
+    {{/native}}
+
+    {{#gramma}}
+    <tr valign="top">
+        <td class="another_color">Grammar:</td>
+        <td><b>{{gramma}}</b></td>
+    </tr>
+    {{/gramma}}
+
+    {{#of}}
+    <tr valign="top">
+        <td class="another_color">Headword:</td>
+        <td>{{of}}</td>
+    </tr>
+    {{/of}}
+
+    {{#marks}}
+    <tr valign="top">
+        <td class="another_color">My notes:</td>
+        <td><i>{{marks}}</i></td>
+    </tr>
+    {{/marks}}
+
+</table>
+
+<span class="spacer"></span>
+<span class="spacer"></span>
+
+<div class="small">{{feedback}}</div>
+
+```

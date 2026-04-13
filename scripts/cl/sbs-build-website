@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Build and serve the SBS Pāḷi Tools website locally with MkDocs.
+
+echo "Starting SBS Pāḷi Tools build process..."
+
+# Define the project root directory relative to the script location
+PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." >/dev/null 2>&1 && pwd)"
+
+# Change to the project root
+cd "$PROJECT_ROOT" || exit 1
+
+echo "Generating dynamic mkdocs.yaml..."
+uv run python scripts/generate_mkdocs_yaml.py
+
+echo "Starting MkDocs development server..."
+echo "Press Ctrl+C to stop."
+echo ""
+
+uv run mkdocs serve

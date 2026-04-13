@@ -1,0 +1,23 @@
+# PC 66 theyyasatthasikkhāpadaṃ
+
+## yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ek'addhānamaggaṃ paṭipajjeyya antamaso gāmantaram'pi, pācittiyaṃ.
+
+| pāḷi            | pos   | grammar                             | case   | meaning                                                   | meaning_lit       | root                  | base              | construction          | compound_type      | compound_construction   |
+|:----------------|:------|:------------------------------------|:-------|:----------------------------------------------------------|:------------------|:----------------------|:------------------|:----------------------|:-------------------|:------------------------|
+| yo              | pron  | masc nom sg of ya                   |        | whichever, whoever                                        |                   |                       |                   |                       |                    |                         |
+| pana            | ind   |                                     |        | then, now, so, but                                        |                   |                       |                   |                       |                    |                         |
+| bhikkhu         | noun  | masc nom sg, from bhikkhati, comp   |        | monk, monastic                                            | beggar, mendicant | √bhikkh (beg)         |                   | √bhikkh + u           |                    |                         |
+| jānaṃ           | ind   | adv, from jānanta                   |        | knowingly, consciously, wittingly                         | knowing           | √ñā (know)            | √ñā + nā > jānā   | jānā + aṃ             |                    |                         |
+| theyyasatthena  | noun  | masc instr sg of theyyasattha, comp |        | with a caravan of thieves, party of thieves               |                   |                       |                   | theyya + sattha       | genitive tappurisa | theyyānaṃ + sattha      |
+| - theyya        | noun  | masc                                |        | thief, robber                                             | stealer           | √then (steal)         |                   | √then + ya            |                    |                         |
+| - satthena      | noun  | masc instr sg of sattha             |        | with a caravan                                            |                   | √ar (move, attain)    |                   | sa + √ar + tha        |                    |                         |
+| saddhiṃ         | ind   | prep                                | +instr | together with                                             |                   |                       |                   |                       |                    |                         |
+| saṃvidhāya      | verb  | ger of saṃvidahati                  |        | arranging, having organized                               |                   | √dhā (place, support) |                   | saṃ + vi  + √dhā + ya |                    |                         |
+| ekaddhānamaggaṃ | noun  | masc acc sg of ekaddhānamagga, comp |        | single road journey                                       | one distance road |                       |                   | eka + addhāna + magga | digu               | eko + addhānamaggo      |
+| paṭipajjeyya    | verb  | opt 3rd sg of paṭipajjati           |        | he would go along, travel                                 |                   | √pad (go, step)       | √pad + ya > pajja | pati + pajja + ti     |                    |                         |
+| antamaso        | ind   | adv, abl sg of antama               |        | even so much as; even with                                | as last           |                       |                   | anta + ma + so        |                    |                         |
+| gāmantarampi    | comp  | sandhi, nt + ind                    |        | even as much as between villages                          |                   |                       |                   | gāma + antaraṃ + api  |                    |                         |
+| pācittiyaṃ      | noun  | nt nom sg of pācittiya              | +loc   | offence requiring confession, offence involving expiation |                   |                       |                   |                       |                    |                         |
+
+
+[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)

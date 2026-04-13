@@ -1,0 +1,22 @@
+# Dps — Front Template
+
+```html
+<div class="small indent"><i>{{source_1}} {{sutta_1}}</i></div>
+
+<div>{{example_1}}</div>
+
+<span class="spacer"></span>
+
+<div class="small indent"><i>{{source_2}} {{sutta_2}}</i></div>
+
+<div>{{example_2}}</div>
+
+<span class="spacer"></span>
+
+<hr>
+
+<div>{{audio}}</div>
+
+<div><b>{{pali}}</b></div>
+
+```

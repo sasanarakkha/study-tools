@@ -1,0 +1,26 @@
+# Grammar Sandhi Forth — Front Template
+
+```html
+<table>
+    {{#pattern}}
+    <tr valign="top">
+        <td class="another_color">Pattern:</td>
+        <td><i>{{pattern}}</i></td>
+    </tr>
+    {{/pattern}}
+
+    {{#meeting}}
+    <tr valign="top">
+        <td class="another_color">Element(s):</td>
+        <td class="myclass">{{meeting}}</td>
+    </tr>
+    {{/meeting}}
+
+    {{#example}}
+    <tr valign="top">
+        <td class="another_color">Pali:</td>
+        <td><b>{{example}}</b></td>
+    </tr>
+    {{/example}}
+</table>
+```

@@ -1,0 +1,23 @@
+# Sbs — Front Template
+
+```html
+
+
+<div class="another_color"><i>{{sbs_chapter_1}}{{#sbs_chant_pali_1}}; {{sbs_chant_pali_1}}{{/sbs_chant_pali_1}}{{#sbs_chant_eng_1}}; {{sbs_chant_eng_1}}{{/sbs_chant_eng_1}} </i></div>
+<div class="small indent"><i>{{sbs_source_1}} {{sbs_sutta_1}}</i></div>
+
+<div>{{sbs_example_1}}</div>
+<span class="spacer"></span>
+
+<div class="another_color"><i>{{sbs_chapter_2}}{{#sbs_chant_pali_2}}; {{sbs_chant_pali_2}}{{/sbs_chant_pali_2}}{{#sbs_chant_eng_2}}; {{sbs_chant_eng_2}}{{/sbs_chant_eng_2}} </i></div>
+<div class="small indent"><i>{{sbs_source_2}} {{sbs_sutta_2}}</i></div>
+
+<div>{{sbs_example_2}}</div>
+
+<hr>
+
+<div>{{audio}}</div>
+
+<div><b>{{pali}}</b></div>
+
+```

@@ -1,0 +1,12 @@
+# Field List: Common Roots
+
+```
+root
+root_group
+root_sign
+root_meaning
+main_verb
+examples_or_words
+native
+feedback
+```

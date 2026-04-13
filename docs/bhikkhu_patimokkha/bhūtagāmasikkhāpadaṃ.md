@@ -1,0 +1,16 @@
+# PC 11 bhūtagāmasikkhāpadaṃ
+
+## bhūtagāmapātabyatāya pācittiyaṃ.
+
+| pāḷi                                                                        | pos   | grammar                                  | case   | meaning                                                   | meaning_lit                 | root        | base             | construction          | compound_type        | compound_construction   |
+|:----------------------------------------------------------------------------|:------|:-----------------------------------------|:-------|:----------------------------------------------------------|:----------------------------|:------------|:-----------------|:----------------------|:---------------------|:------------------------|
+| bhūtagāmapātabyatāya                                                        | noun  | fem loc sg of bhūtagāmapātabyatāya, comp |        | in destruction of plants                                  |                             |             |                  | bhūtagāma + pātabyatā | accusative tappurisa | bhūtagāmaṃ + pātabyatā  |
+| - bhūtagāma                                                                 | noun  | masc, comp                               |        | plants, vegetation                                        | become group; being group   |             |                  | bhūta + gāma          | genitive tappurisa   | bhūtānaṃ + gāma         |
+| - - bhūta                                                                   | noun  | masc                                     |        | plant                                                     | became, being               | √bhū (be)   |                  | √bhū + ta             |                      |                         |
+| - - gāma                                                                    | noun  | masc                                     |        | group, village                                            |                             |             |                  |                       |                      |                         |
+| - pātabyatāya                                                               | noun  | fem loc sg of pātabyatā                  |        | in destruction                                            | in state of causing to fall | √pat (fall) | √pat + *e > pāte | pāte + vya + tā       |                      |                         |
+| pācittiyaṃ                                                                  | noun  | nt nom sg of pācittiya                   | +loc   | offence requiring confession, offence involving expiation |                             |             |                  |                       |                      |                         |
+| In the destruction of vegetation, there is an offence requiring confession. |       |                                          |        |                                                           |                             |             |                  |                       |                      |                         |
+
+
+[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)

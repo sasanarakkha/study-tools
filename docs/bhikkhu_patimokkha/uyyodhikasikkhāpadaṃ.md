@@ -1,0 +1,37 @@
+# PC 50 uyyodhikasikkhāpadaṃ
+
+## dirattatirattaṃ ce bhikkhu senāya vasamāno uyyodhikaṃ vā bal'aggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ.
+
+| pāḷi            | pos   | grammar                           | case   | meaning                                                   | meaning_lit       | root                | base                      | construction           | compound_type        | compound_construction   |
+|:----------------|:------|:----------------------------------|:-------|:----------------------------------------------------------|:------------------|:--------------------|:--------------------------|:-----------------------|:---------------------|:------------------------|
+| dirattatirattaṃ | ind   | adv, acc sg of dirattatiratta     |        | for two or three nights                                   |                   |                     |                           | diratta + tiratta + aṃ |                      |                         |
+| ce              | ind   | cond                              |        | if                                                        |                   |                     |                           |                        |                      |                         |
+| bhikkhu         | noun  | masc nom sg, from bhikkhati, comp |        | monk, monastic                                            | beggar, mendicant | √bhikkh (beg)       |                           | √bhikkh + u            |                      |                         |
+| senāya          | noun  | fem instr sg of senā              |        | with the army                                             |                   |                     |                           |                        |                      |                         |
+| vasamāno        | prp   | masc nom sg of vasamāna           |        | living, staying                                           |                   | √vas (live)         | √vas + a > vasa           | vasa + māna            |                      |                         |
+| uyyodhikaṃ      | noun  | nt acc sg of uyyodhika            |        | battlefield                                               |                   | √yudh (fight)       |                           | ud + √yudh + a + *ika  |                      |                         |
+| vā              | ind   | conj                              |        | or, either or                                             |                   |                     |                           |                        |                      |                         |
+| balaggaṃ        | noun  | nt acc sg of balagga, comp        |        | review; roll-call                                         | force place       |                     |                           | bala + agga            | kammadhāraya         | bala + agga             |
+| vā              | ind   | conj                              |        | or, either or                                             |                   |                     |                           |                        |                      |                         |
+| senābyūhaṃ      | noun  | masc acc sg of senābyūha, comp    |        | military manoeuvres, army exercises                       | army formation    |                     |                           | senā + byūha           | dative tappurisa     | senāya + byūha          |
+| - senā          | noun  | fem                               |        | army; military                                            |                   |                     |                           |                        |                      |                         |
+| - byūhaṃ        | noun  | masc acc sg of byūha              |        | formation                                                 | carry specially   | √yūh (carry, bring) |                           | vi + √yūh + a          |                      |                         |
+| vā              | ind   | conj                              |        | or, either or                                             |                   |                     |                           |                        |                      |                         |
+| anīkadassanaṃ   | noun  | nt acc sg of anīkadassana, comp   |        | army inspection; military review                          | seeing forces     |                     |                           | anīka + dassana        | accusative tappurisa | anīka + dassana         |
+| - anīka         | noun  | nt                                |        | military unit, troop                                      |                   |                     |                           |                        |                      |                         |
+| - dassanaṃ      | noun  | nt acc sg                         |        | seeing; watching                                          |                   | √dis (see)          | √dis + a > disa > dassa   | dassa + ana            |                      |                         |
+| vā              | ind   | conj                              |        | or, either or                                             |                   |                     |                           |                        |                      |                         |
+| gaccheyya       | verb  | opt 3rd sg of gacchati            |        | he would go                                               |                   | √gam (go)           | √gam + a > gaccha (irreg) | gaccha + ti            |                      |                         |
+| pācittiyaṃ      | noun  | nt nom sg of pācittiya            | +loc   | offence requiring confession, offence involving expiation |                   |                     |                           |                        |                      |                         |
+
+## acelakavaggo pañcamo.
+
+| pāḷi         | pos   | grammar                           | case   | meaning                      | meaning_lit   | root         | base   | construction     | compound_type   | compound_construction   |
+|:-------------|:------|:----------------------------------|:-------|:-----------------------------|:--------------|:-------------|:-------|:-----------------|:----------------|:------------------------|
+| acelakavaggo | noun  | comp, masc nom sg of acelakavagga |        | chapter about naked ascetics |               |              |        | acelaka + vagga  | kammadhāraya    | acelaka + vagga         |
+| - acelaka    | noun  | masc                              |        | naked ascetic                | no clothes    | √cil (cloth) |        | na + √cil + *aka |                 |                         |
+| - vaggo      | noun  | masc nom sg of vagga              |        | chapter; section             | division      |              |        | vi + agga        |                 |                         |
+| pañcamo      | ordin | masc nom sg of pañcama            |        | fifth (5th)                  |               |              |        | pañca + ma       |                 |                         |
+
+
+[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)

@@ -1,0 +1,22 @@
+# Field List: Parittas
+
+```
+id
+pali
+grammar
+meaning
+meaning_lit
+root
+root_group
+root_sign
+root_meaning
+root_base
+construction
+source
+sutta
+example
+audio
+test
+feedback
+marks
+```

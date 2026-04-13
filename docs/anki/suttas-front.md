@@ -1,0 +1,16 @@
+# Suttas — Front Template
+
+```html
+<div class="small indent"><i>{{source}} {{sutta}}</i></div>
+
+<div>{{example}}</div>
+
+<span class="spacer"></span>
+
+<hr>
+
+<div>{{audio}}</div>
+
+<div><b>{{pali}}</b></div>
+
+```

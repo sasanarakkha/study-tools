@@ -1,0 +1,16 @@
+# PC 01 musāvādasikkhāpadaṃ
+
+## sampajānamusāvāde pācittiyaṃ.
+
+| pāḷi                                                                  | pos   | grammar                                | case   | meaning                                                   | meaning_lit                                   | root               | base            | construction         | compound_type   | compound_construction   |
+|:----------------------------------------------------------------------|:------|:---------------------------------------|:-------|:----------------------------------------------------------|:----------------------------------------------|:-------------------|:----------------|:---------------------|:----------------|:------------------------|
+| sampajānamusāvāde                                                     | noun  | masc loc sg of sampajānamusāvāda, comp |        | in deliberate lying, intentional false speech             |                                               |                    |                 | sampajāna + musāvāda | kammadhāraya    |                         |
+| - sampajāna                                                           | adj   | from sampajānāti                       |        | deliberate, intentional                                   | knowing, being aware, with full understanding | √ñā (know)         | √ñā + nā > jānā | saṃ + pa + jānā + a  |                 |                         |
+| - musāvāde                                                            | noun  | masc loc sg of musāvāda, comp          |        | in false speech, lying                                    |                                               |                    |                 | musā + vāda          | kammadhāraya    |                         |
+| - - musā                                                              | ind   | adv, instr sg                          |        | false, falsely, wrongly                                   |                                               | √mus (lie, forget) |                 | √mus + ā             |                 |                         |
+| - - vāde                                                              | noun  | masc loc sg of vāda                    |        | in speech, speaking                                       |                                               | √vad (speak)       |                 | √vad + *a            |                 |                         |
+| pācittiyaṃ                                                            | noun  | nt nom sg of pācittiya                 | +loc   | offence requiring confession, offence involving expiation |                                               |                    |                 |                      |                 |                         |
+| In deliberate false speech, there is an offence requiring confession. |       |                                        |        |                                                           |                                               |                    |                 |                      |                 |                         |
+
+
+[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)

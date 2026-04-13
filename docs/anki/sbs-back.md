@@ -1,0 +1,148 @@
+# Sbs — Back Template
+
+```html
+{{FrontSide}}
+
+<hr id=answer>
+
+<table>
+
+    {{#marks}}
+    <tr valign="top">
+        <td class="another_color">My notes:</td>
+        <td class="another_color"><i>{{marks}}</i></td>
+    </tr>
+    {{/marks}}
+
+    <tr valign="top">
+        <td class="another_color">Grammar:</td>
+        <td>{{grammar}}{{#neg}}, {{neg}}{{/neg}}{{#verb}}, {{verb}}{{/verb}}{{#trans}}, {{trans}}{{/trans}}{{#plus_case}} ({{plus_case}}){{/plus_case}}</td>
+    </tr>
+
+    <tr valign="top">
+        <td class="another_color">Meaning:</td>
+        <td><b>{{meaning}}</b>{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}}</td>
+    </tr>
+
+    {{#sbs_meaning}}
+    <tr valign="top">
+        <td class="another_color">SBS:</td>
+        <td><b>{{sbs_meaning}}</b></td>
+    </tr>
+    {{/sbs_meaning}}
+
+    {{#native}}
+    <tr valign="top">
+        <td class="another_color">Native:</td>
+        <td><b>{{native}}</b></td>
+    </tr>
+    {{/native}}
+
+
+    {{#root}}
+    <tr valign="top">
+        <td class="another_color">Root:</td>
+        <td>{{root}}{{root_has_verb}}{{root_group}} {{root_sign}} ({{root_meaning}})</td>
+    </tr>
+    {{/root}}
+
+    {{#root_base}}
+    <tr valign="top">
+        <td class="another_color">Base:</td>
+        <td>{{root_base}}</td>
+    </tr>
+    {{/root_base}}
+
+    {{#construction}}
+    <tr valign="top">
+        <td class="another_color">Constr.:</td>
+        <td>{{construction}}</td>
+    </tr>
+    {{/construction}}
+
+    {{#phonetic}}
+    <tr valign="top">
+        <td class="another_color">Phonetic:</td>
+        <td><i>{{phonetic}}</i></td>
+    </tr>
+    {{/phonetic}}
+
+    {{#derivative}}
+    <tr valign="top">
+        <td class="another_color">Deriv.:</td>
+        <td class="small">{{derivative}} ({{suffix}})</td>
+    </tr>
+    {{/derivative}}
+
+    {{#compound_type}}
+    <tr valign="top">
+        <td class="another_color">Compound:</td>
+        <td>{{compound_type}} ({{compound_construction}})</td>
+    </tr>
+    {{/compound_type}}
+
+    {{#sanskrit}}
+    <tr valign="top">
+        <td class="another_color">Sanskrit:</td>
+        <td class="small">{{sanskrit}} {{#sanskrit_root}} {{sanskrit_root}} {{sanskrit_root_class}} ({{sanskrit_root_meaning}}){{/sanskrit_root}} </td>
+    </tr>
+    {{/sanskrit}}
+
+
+    {{#commentary}}
+    <tr valign="top">
+        <td class="another_color">Comm.:</td>
+        <td class="small">{{commentary}}</td>
+    </tr>
+    {{/commentary}}
+
+    {{#notes}}
+    <tr valign="top">
+        <td class="another_color">Notes:</td>
+        <td class="small">{{notes}}{{sbs_notes}}</td>
+    </tr>
+    {{/notes}}
+
+    {{#notes}}
+    <tr valign="top">
+        <td class="another_color">Notes:</td>
+        <td class="small">{{notes}}</td>
+    </tr>
+    {{/notes}}
+
+    {{#variant}}
+    <tr valign="top">
+        <td class="another_color">Variant:</td>
+        <td class="small">{{variant}}</td>
+    </tr>
+    {{/variant}}
+
+        {{#antonym}}
+    <tr valign="top">
+        <td class="another_color">Antonym:</td>
+        <td class="small">{{antonym}}</td>
+    </tr>
+    {{/antonym}}
+
+    {{#synonym}}
+    <tr valign="top">
+        <td class="another_color">Synonym:</td>
+        <td class="small">{{synonym}}</td>
+    </tr>
+    {{/synonym}}
+
+    {{#link}}
+    <tr valign="top">
+        <td class="another_color">Wiki:</td>
+        <td class="small">{{link}}</td>
+    </tr>
+    {{/link}}
+
+</table>
+
+<hr>
+<div class="small">{{feedback}}</div>
+
+<span class="spacer"></span>
+
+```

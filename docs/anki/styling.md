@@ -1,0 +1,127 @@
+# Styling
+
+```css
+/* === Base Card Styling === */
+.card {
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  vertical-align: top;
+  word-wrap: break-word;
+}
+
+/* === Table Styling === */
+table {
+  width: 100%;
+  font-size: 100%;
+  border-spacing: 4px;
+}
+
+td {
+  vertical-align: top;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+td:first-child {
+  width: 90px;
+  white-space: nowrap;
+}
+
+/* === Text Classes === */
+.another_color {
+  font-size: 85%;
+  font-weight: normal;
+  color: #996c29;
+  position: relative;
+}
+
+.small {
+  font-size: 80%;
+  line-height: 110%;
+  font-weight: normal;
+}
+
+.indent {
+  text-indent: 1.2em;
+}
+
+b {
+  color: #493414;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+i {
+  font-style: italic;
+}
+
+/* === Misc Utility Classes === */
+.spacer {
+  height: 10px;
+  display: block;
+}
+
+/* === Link Styling === */
+.card a.link {
+  color: #fc922f;
+  text-decoration: none;
+}
+
+.card a.link:hover {
+  text-decoration: underline;
+}
+
+/* === Sound Button Tweak === */
+.soundLink {
+  font-size: 80% !important;
+  transform: scale(0.7);
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* === Night Mode === */
+.nightMode.card {
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  vertical-align: top;
+  word-wrap: break-word;
+}
+
+.nightMode .another_color {
+  font-size: 85%;
+  color: #F1C40F;
+  font-weight: normal;
+  position: relative;
+}
+
+.nightMode .small {
+  font-size: 80%;
+  line-height: 110%;
+  font-weight: normal;
+}
+
+.nightMode b {
+  color: #F9E79F;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+.nightMode a.link {
+  color: #6fcd7b5;
+}
+
+.nightMode a.link:hover {
+  text-decoration: underline;
+}
+
+/* === Image Styling === */
+img {
+  width: auto;
+  height: auto;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+```

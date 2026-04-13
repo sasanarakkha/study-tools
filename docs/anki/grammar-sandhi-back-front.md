@@ -1,0 +1,24 @@
+# Grammar Sandhi — Front Template
+
+```html
+<table>
+    {{#pattern}}
+    <tr valign="top">
+        <td class="another_color">Pattern:</td>
+        <td><i>{{pattern}}</i></td>
+    </tr>
+    {{/pattern}}
+
+    <tr valign="top">
+        <td class="another_color">Result:</td>
+        <td class="myclass">{{result}}</td>
+    </tr>
+
+    {{#sandhi}}
+    <tr valign="top">
+        <td class="another_color">Example:</td>
+        <td><b>{{sandhi}}</b></td>
+    </tr>
+    {{/sandhi}}
+</table>
+```

@@ -1,0 +1,16 @@
+# Vibhanga — Front Template
+
+```html
+
+<div style='font-size: 80%;'><i>{{sutta}}</i></div>
+
+<div style='font-size: 65%;'><i>{{source}}</i></div>
+
+<div>{{example}}</div>
+
+<hr>
+
+<div>{{audio}}</div>
+
+<div><b>{{pali}}</b></div>
+```

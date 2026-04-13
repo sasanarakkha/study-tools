@@ -1,0 +1,24 @@
+# SE 36 odanapaṭicchādanasikkhāpadaṃ
+
+## na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyā'ti sikkhā karaṇīyā.
+
+| pāḷi            | pos   | grammar                                    | case   | meaning                                          | meaning_lit      | root                   | base               | construction            | compound_type   | compound_construction   |
+|:----------------|:------|:-------------------------------------------|:-------|:-------------------------------------------------|:-----------------|:-----------------------|:-------------------|:------------------------|:----------------|:------------------------|
+| na              | ind   | neg                                        |        | not                                              |                  |                        |                    |                         |                 |                         |
+| sūpaṃ           | noun  | masc acc sg of sūpa                        |        | dahl; lentil curry                               |                  |                        |                    |                         |                 |                         |
+| vā              | ind   | conj                                       |        | or, either or                                    |                  |                        |                    |                         |                 |                         |
+| byañjanaṃ       | noun  | nt acc sg of byañjana                      |        | curry                                            | making distinct  | √añj (distinguish)     |                    | vi + √añj + ana         |                 |                         |
+| vā              | ind   | conj                                       |        | or, either or                                    |                  |                        |                    |                         |                 |                         |
+| odanena         | noun  | nt instr sg of odana                       |        | with rice                                        | with wet, boiled | √ud (be wet)           |                    | √ud > od + *ana         |                 |                         |
+| paṭicchādessāmi | verb  | fut 1st sg of paṭicchādeti                 |        | I will cover, conceal, hide                      |                  | √chad (cover, conceal) | √chad + *e > chāde | pati + chāde + ssa + ti |                 |                         |
+| bhiyyokamyataṃ  | noun  | fem acc sg of bhiyyokamyatā                |        | wanting more; desiring more                      |                  |                        |                    | bhiyyo + kamyatā        |                 |                         |
+| - bhiyyo        | ind   | ind, adv                                   |        | more (than)                                      |                  |                        |                    |                         |                 |                         |
+| - kamyataṃ      | noun  | fem acc sg of kamyatā                      |        | wish, desire                                     |                  | √kam (desire)          |                    | √kam + ya + tā          |                 |                         |
+| upādāyāti       | comp  | sandhi, ger + ind                          |        |                                                  |                  |                        |                    | upādāya + iti           |                 |                         |
+| - upādāya       | ind   | ger of upādiyati                           |        | on account (of); because (of)                    | taking near      | √ādā (take, steal)     |                    | upa + √ādā + ya         |                 |                         |
+| - iti           | ind   |                                            |        | “”                                               | thus             |                        |                    |                         |                 |                         |
+| sikkhā          | noun  | fem nom sg, comp                           |        | training, precept, training precept              |                  | √sikkh (train)         |                    | √sikkh + ā              |                 |                         |
+| karaṇīyā        | noun  | nt abl sg of karaṇīya, ptp of karoti, comp |        | duty; obligation; business; something to be done | to be done       | √kar (do, make)        |                    | √kar + aṇīya            |                 |                         |
+
+
+[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)

@@ -1,0 +1,20 @@
+# PC 44 rahopaṭicchannasikkhāpadaṃ
+
+## yo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ.
+
+| pāḷi        | pos   | grammar                           | case   | meaning                                                   | meaning_lit       | root                        | base                      | construction       | compound_type      | compound_construction   |
+|:------------|:------|:----------------------------------|:-------|:----------------------------------------------------------|:------------------|:----------------------------|:--------------------------|:-------------------|:-------------------|:------------------------|
+| yo          | pron  | masc nom sg of ya                 |        | whichever, whoever                                        |                   |                             |                           |                    |                    |                         |
+| pana        | ind   |                                   |        | then, now, so, but                                        |                   |                             |                           |                    |                    |                         |
+| bhikkhu     | noun  | masc nom sg, from bhikkhati, comp |        | monk, monastic                                            | beggar, mendicant | √bhikkh (beg)               |                           | √bhikkh + u        |                    |                         |
+| mātugāmena  | noun  | masc instr sg of mātugāma, comp   |        | with a woman                                              | group of mothers  |                             |                           | mātu + gāma        | genitive tappurisa | mātūnaṃ + gāma          |
+| saddhiṃ     | ind   | prep                              | +instr | together with                                             |                   |                             |                           |                    |                    |                         |
+| raho        | ind   | adv, masc nom sg of rahas         |        | secretly, privately                                       |                   | √rah (leave)                |                           | √rah + as          |                    |                         |
+| paṭicchanne | pp    | nt loc sg of paṭicchanna          |        | on covered, concealed                                     |                   | √chad (cover, conceal)      |                           | paṭi + √chad + na  |                    |                         |
+| āsane       | noun  | nt loc sg of āsana                |        | on a seat                                                 |                   | √ās (sit)                   |                           | √ās + ana          |                    |                         |
+| nisajjaṃ    | noun  | fem acc sg of nisajjā             |        | seat (or) sitting down                                    | seating           | √sad (sink, sit, settle)    |                           | ni + √sad + ya + ā |                    |                         |
+| kappeyya    | verb  | opt 3rd sg of kappeti             | +acc   | should take, use                                          | make suitable     | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | kappe + ti         |                    |                         |
+| pācittiyaṃ  | noun  | nt nom sg of pācittiya            | +loc   | offence requiring confession, offence involving expiation |                   |                             |                           |                    |                    |                         |
+
+
+[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)

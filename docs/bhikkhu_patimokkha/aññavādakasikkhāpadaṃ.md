@@ -1,0 +1,15 @@
+# PC 12 aññavādakasikkhāpadaṃ
+
+## aññavādake, vihesake pācittiyaṃ.
+
+| pāḷi                                                                                       | pos   | grammar                         | case   | meaning                                                   | meaning_lit                | root         | base   | construction     | compound_type        | compound_construction   |
+|:-------------------------------------------------------------------------------------------|:------|:--------------------------------|:-------|:----------------------------------------------------------|:---------------------------|:-------------|:-------|:-----------------|:---------------------|:------------------------|
+| aññavādake                                                                                 | adj   | masc loc sg of aññavādaka, comp |        | in evading; changing topic                                | in speaking something else |              |        | añña + vādaka    | accusative tappurisa | aññaṃ + vādaka          |
+| - añña                                                                                     | pron  |                                 |        | another, another kind                                     |                            |              |        |                  |                      |                         |
+| - vādake                                                                                   | adj   | masc loc sg of vādaka           |        | in speaking, saying                                       |                            | √vad (speak) |        | √vad + *aka      |                      |                         |
+| vihesake                                                                                   | adj   | masc loc sg of vihesaka         |        | in vexing by not answering                                | in annoying; hurting       | √his (hurt)  |        | vi + √his + *aka |                      |                         |
+| pācittiyaṃ                                                                                 | noun  | nt nom sg of pācittiya          | +loc   | offence requiring confession, offence involving expiation |                            |              |        |                  |                      |                         |
+| In changing topic, in vexing (by not answering), there is an offence requiring confession. |       |                                 |        |                                                           |                            |              |        |                  |                      |                         |
+
+
+[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)

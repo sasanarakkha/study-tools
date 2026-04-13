@@ -1,0 +1,302 @@
+site_name: SBS DhammaVinaya Learning Tools
+site_url: https://sasanarakkha.github.io/study-tools/
+docs_dir: docs
+site_dir: site
+theme:
+  name: material
+  language: en
+  custom_dir: identity
+  font:
+    text: false
+    code: false
+  palette:
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
+    primary: custom
+    accent: custom
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
+    primary: custom
+    accent: custom
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.top
+  - navigation.indexes
+  - content.code.copy
+  - hide.generator
+markdown_extensions:
+- attr_list
+- toc:
+    permalink: true
+- tables
+- md_in_html
+- nl2br
+plugins:
+- search
+extra_css:
+- identity/sbs.css
+nav:
+- Pre-Pāli Study: pre-pali-study.md
+- Dictionaries:
+  - '[Devamitta Pāḷi Study](https://devamitta.github.io/pali/)': dict/dps.md
+  - Пали Словарь: dict/ru-pali-dictionary.md
+  - Digital Pāḷi Dictionary with SBS examples: dict/sbs-pali-dictionary.md
+- Pātimokkha: patimokkha.md
+- Bhikkhu Pātimokkha:
+  - Index: bhikkhu_patimokkha/index.md
+  - NP 28 accekacīvarasikkhāpadaṃ: bhikkhu_patimokkha/accekacīvarasikkhāpadaṃ.md
+  - PC 41 acelakasikkhāpadaṃ: bhikkhu_patimokkha/acelakasikkhāpadaṃ.md
+  - AS adhikaraṇasamathā: bhikkhu_patimokkha/adhikaraṇasamathā.md
+  - PA 2 adinnādānasikkhāpadaṃ: bhikkhu_patimokkha/adinnādānasikkhāpadaṃ.md
+  - NP 3 akālacīvarasikkhāpadaṃ: bhikkhu_patimokkha/akālacīvarasikkhāpadaṃ.md
+  - PC 76 amūlakasikkhāpadaṃ: bhikkhu_patimokkha/amūlakasikkhāpadaṃ.md
+  - AN aniyatuddeso: bhikkhu_patimokkha/aniyatuddeso.md
+  - PC 83 antepurasikkhāpadaṃ: bhikkhu_patimokkha/antepurasikkhāpadaṃ.md
+  - PC 16 anupakhajjasikkhāpadaṃ: bhikkhu_patimokkha/anupakhajjasikkhāpadaṃ.md
+  - PC 54 anādariyasikkhāpadaṃ: bhikkhu_patimokkha/anādariyasikkhāpadaṃ.md
+  - SE 41 anāhaṭasikkhāpadaṃ: bhikkhu_patimokkha/anāhaṭasikkhāpadaṃ.md
+  - PC 60 apanidhānasikkhāpadaṃ: bhikkhu_patimokkha/apanidhānasikkhāpadaṃ.md
+  - PC 68 ariṭṭhasikkhāpadaṃ: bhikkhu_patimokkha/ariṭṭhasikkhāpadaṃ.md
+  - SA 4 attakāmapāricariyasikkhāpadaṃ: bhikkhu_patimokkha/attakāmapāricariyasikkhāpadaṃ.md
+  - PC 22 atthaṅgatasikkhāpadaṃ: bhikkhu_patimokkha/atthaṅgatasikkhāpadaṃ.md
+  - SE 46 avagaṇḍakārakasikkhāpadaṃ: bhikkhu_patimokkha/avagaṇḍakārakasikkhāpadaṃ.md
+  - SA 9 aññabhāgiyasikkhāpadaṃ: bhikkhu_patimokkha/aññabhāgiyasikkhāpadaṃ.md
+  - PC 12 aññavādakasikkhāpadaṃ: bhikkhu_patimokkha/aññavādakasikkhāpadaṃ.md
+  - NP 6 aññātakaviññattisikkhāpadaṃ: bhikkhu_patimokkha/aññātakaviññattisikkhāpadaṃ.md
+  - PC 52 aṅgulipatodakasikkhāpadaṃ: bhikkhu_patimokkha/aṅgulipatodakasikkhāpadaṃ.md
+  - SA 11 bhedānuvattakasikkhāpadaṃ: bhikkhu_patimokkha/bhedānuvattakasikkhāpadaṃ.md
+  - NP 23 bhesajjasikkhāpadaṃ: bhikkhu_patimokkha/bhesajjasikkhāpadaṃ.md
+  - PC 23 bhikkhunūpassayasikkhāpadaṃ: bhikkhu_patimokkha/bhikkhunūpassayasikkhāpadaṃ.md
+  - PC 55 bhiṃsāpanasikkhāpadaṃ: bhikkhu_patimokkha/bhiṃsāpanasikkhāpadaṃ.md
+  - SE 42 bhuñjamānasikkhāpadaṃ: bhikkhu_patimokkha/bhuñjamānasikkhāpadaṃ.md
+  - PC 11 bhūtagāmasikkhāpadaṃ: bhikkhu_patimokkha/bhūtagāmasikkhāpadaṃ.md
+  - PC 08 bhūtārocanasikkhāpadaṃ: bhikkhu_patimokkha/bhūtārocanasikkhāpadaṃ.md
+  - SE 17 bāhuppacālakasikkhāpadaṃ: bhikkhu_patimokkha/bāhuppacālakasikkhāpadaṃ.md
+  - SE 50 capucapukārakasikkhāpadaṃ: bhikkhu_patimokkha/capucapukārakasikkhāpadaṃ.md
+  - PD 4 catutthapāṭidesanīyasikkhāpadaṃ: bhikkhu_patimokkha/catutthapāṭidesanīyasikkhāpadaṃ.md
+  - NP 14 chabbassasikkhāpadaṃ: bhikkhu_patimokkha/chabbassasikkhāpadaṃ.md
+  - SE 68 chamāsikkhāpadaṃ: bhikkhu_patimokkha/chamāsikkhāpadaṃ.md
+  - PC 80 chandaṃadatvāgamanasikkhāpadaṃ: bhikkhu_patimokkha/chandaṃadatvāgamanasikkhāpadaṃ.md
+  - SE 57 chattapāṇisikkhāpadaṃ: bhikkhu_patimokkha/chattapāṇisikkhāpadaṃ.md
+  - PC 46 cārittasikkhāpadaṃ: bhikkhu_patimokkha/cārittasikkhāpadaṃ.md
+  - NP 25 cīvaraacchindanasikkhāpadaṃ: bhikkhu_patimokkha/cīvaraacchindanasikkhāpadaṃ.md
+  - PC 25 cīvaradānasikkhāpadaṃ: bhikkhu_patimokkha/cīvaradānasikkhāpadaṃ.md
+  - NP 5 cīvarapaṭiggahaṇasikkhāpadaṃ: bhikkhu_patimokkha/cīvarapaṭiggahaṇasikkhāpadaṃ.md
+  - PC 26 cīvarasibbanasikkhāpadaṃ: bhikkhu_patimokkha/cīvarasibbanasikkhāpadaṃ.md
+  - PC 40 dantaponasikkhāpadaṃ: bhikkhu_patimokkha/dantaponasikkhāpadaṃ.md
+  - SE 58 daṇḍapāṇisikkhāpadaṃ: bhikkhu_patimokkha/daṇḍapāṇisikkhāpadaṃ.md
+  - PC 07 dhammadesanāsikkhāpadaṃ: bhikkhu_patimokkha/dhammadesanāsikkhāpadaṃ.md
+  - SA 12 dubbacasikkhāpadaṃ: bhikkhu_patimokkha/dubbacasikkhāpadaṃ.md
+  - PC 81 dubbalasikkhāpadaṃ: bhikkhu_patimokkha/dubbalasikkhāpadaṃ.md
+  - PC 58 dubbaṇṇakaraṇasikkhāpadaṃ: bhikkhu_patimokkha/dubbaṇṇakaraṇasikkhāpadaṃ.md
+  - PC 36 dutiyapavāraṇāsikkhāpadaṃ: bhikkhu_patimokkha/dutiyapavāraṇāsikkhāpadaṃ.md
+  - PD 2 dutiyapāṭidesanīyasikkhāpadaṃ: bhikkhu_patimokkha/dutiyapāṭidesanīyasikkhāpadaṃ.md
+  - PC 06 dutiyasahaseyyasikkhāpada: bhikkhu_patimokkha/dutiyasahaseyyasikkhāpada.md
+  - PC 15 dutiyasenāsanasikkhāpadaṃ: 'bhikkhu_patimokkha/dutiyasenāsanasikkhāpadaṃ
+
+      .md'
+  - PC 15 dutiyasenāsanasikkhāpadaṃ: bhikkhu_patimokkha/dutiyasenāsanasikkhāpadaṃ.md
+  - NP 9 dutiyaupakkhaṭasikkhāpadaṃ: bhikkhu_patimokkha/dutiyaupakkhaṭasikkhāpadaṃ.md
+  - AN 2 dutiyāniyatasikkhāpada: bhikkhu_patimokkha/dutiyāniyatasikkhāpada.md
+  - SA 8 duṭṭhadosasikkhāpadaṃ: bhikkhu_patimokkha/duṭṭhadosasikkhāpadaṃ.md
+  - PC 64 duṭṭhullasikkhāpadaṃ: bhikkhu_patimokkha/duṭṭhullasikkhāpadaṃ.md
+  - SA 3 duṭṭhullavācāsikkhāpadaṃ: bhikkhu_patimokkha/duṭṭhullavācāsikkhāpadaṃ.md
+  - PC 09 duṭṭhullārocanasikkhāpadaṃ: bhikkhu_patimokkha/duṭṭhullārocanasikkhāpadaṃ.md
+  - NP 13 dvebhāgasikkhāpadaṃ: bhikkhu_patimokkha/dvebhāgasikkhāpadaṃ.md
+  - NP 17 eḷakalomadhovāpanasikkhāpadaṃ: bhikkhu_patimokkha/eḷakalomadhovāpanasikkhāpadaṃ.md
+  - NP 16 eḷakalomasikkhāpadaṃ: bhikkhu_patimokkha/eḷakalomasikkhāpadaṃ.md
+  - PC 32 gaṇabhojanasikkhāpadaṃ: bhikkhu_patimokkha/gaṇabhojanasikkhāpadaṃ.md
+  - SE 74 hariteuccārasikkhāpadaṃ: bhikkhu_patimokkha/hariteuccārasikkhāpadaṃ.md
+  - PC 53 hassadhammasikkhāpadaṃ: bhikkhu_patimokkha/hassadhammasikkhāpadaṃ.md
+  - SE 47 hatthaniddhunakasikkhāpadaṃ: bhikkhu_patimokkha/hatthaniddhunakasikkhāpadaṃ.md
+  - SE 52 hatthanillehakasikkhāpadaṃ: bhikkhu_patimokkha/hatthanillehakasikkhāpadaṃ.md
+  - SE 49 jivhānicchārakasikkhāpadaṃ: bhikkhu_patimokkha/jivhānicchārakasikkhāpadaṃ.md
+  - PC 56 jotisikkhāpadaṃ: bhikkhu_patimokkha/jotisikkhāpadaṃ.md
+  - SE 39 kabaḷasikkhāpadaṃ: bhikkhu_patimokkha/kabaḷasikkhāpadaṃ.md
+  - SE 45 kabaḷāvacchedakasikkhāpadaṃ: bhikkhu_patimokkha/kabaḷāvacchedakasikkhāpadaṃ.md
+  - PC 79 kammappaṭibāhanasikkhāpadaṃ: bhikkhu_patimokkha/kammappaṭibāhanasikkhāpadaṃ.md
+  - NP 20 kayavikkayasikkhāpadaṃ: bhikkhu_patimokkha/kayavikkayasikkhāpadaṃ.md
+  - PC 90 kaṇḍupaṭicchādisikkhāpadaṃ: bhikkhu_patimokkha/kaṇḍupaṭicchādisikkhāpadaṃ.md
+  - PC 70 kaṇṭakasikkhāpadaṃ: bhikkhu_patimokkha/kaṇṭakasikkhāpadaṃ.md
+  - NP 1 kaṭhinasikkhāpadaṃ: bhikkhu_patimokkha/kaṭhinasikkhāpadaṃ.md
+  - SE 21 khambhakatasikkhāpadaṃ: bhikkhu_patimokkha/khambhakatasikkhāpadaṃ.md
+  - NP 11 kosiyasikkhāpadaṃ: bhikkhu_patimokkha/kosiyasikkhāpadaṃ.md
+  - SA 13 kuladūsakasikkhāpadaṃ: bhikkhu_patimokkha/kuladūsakasikkhāpadaṃ.md
+  - SA 6 kuṭikārasikkhāpadaṃ: bhikkhu_patimokkha/kuṭikārasikkhāpadaṃ.md
+  - SE 15 kāyappacālakasikkhāpadaṃ: bhikkhu_patimokkha/kāyappacālakasikkhāpadaṃ.md
+  - SA 2 kāyasaṃsaggasikkhāpadaṃ: bhikkhu_patimokkha/kāyasaṃsaggasikkhāpadaṃ.md
+  - PC 34 kāṇamātusikkhāpadaṃ: bhikkhu_patimokkha/kāṇamātusikkhāpadaṃ.md
+  - PC 19 mahallakavihārasikkhāpadaṃ: bhikkhu_patimokkha/mahallakavihārasikkhāpadaṃ.md
+  - PC 47 mahānāmasikkhāpadaṃ: bhikkhu_patimokkha/mahānāmasikkhāpadaṃ.md
+  - NP 27 mahāpesakārasikkhāpadaṃ: bhikkhu_patimokkha/mahāpesakārasikkhāpadaṃ.md
+  - PA 3 manussaviggahasikkhāpadaṃ: bhikkhu_patimokkha/manussaviggahasikkhāpadaṃ.md
+  - PC 87 mañcapīṭhasikkhāpadaṃ: bhikkhu_patimokkha/mañcapīṭhasikkhāpadaṃ.md
+  - PA 1 methunadhamma sikkhāpadaṃ: bhikkhu_patimokkha/methunadhamma sikkhāpadaṃ.md
+  - PC 73 mohanasikkhāpadaṃ: bhikkhu_patimokkha/mohanasikkhāpadaṃ.md
+  - PC 01 musāvādasikkhāpadaṃ: bhikkhu_patimokkha/musāvādasikkhāpadaṃ.md
+  - PC 57 nahānasikkhāpadaṃ: bhikkhu_patimokkha/nahānasikkhāpadaṃ.md
+  - PC 92 nandasikkhāpadaṃ: bhikkhu_patimokkha/nandasikkhāpadaṃ.md
+  - SE 35 nathūpakatasikkhāpadaṃ: bhikkhu_patimokkha/nathūpakatasikkhāpadaṃ.md
+  - NI nidānuddeso: bhikkhu_patimokkha/nidānuddeso.md
+  - PC 17 nikkaḍḍhanasikkhāpadaṃ: bhikkhu_patimokkha/nikkaḍḍhanasikkhāpadaṃ.md
+  - NP nissaggiyapācittiyā: bhikkhu_patimokkha/nissaggiyapācittiyā.md
+  - NP 15 nisīdanasanthatasikkhāpadaṃ: bhikkhu_patimokkha/nisīdanasanthatasikkhāpadaṃ.md
+  - PC 89 nisīdanasikkhāpadaṃ: bhikkhu_patimokkha/nisīdanasikkhāpadaṃ.md
+  - PC 28 nāvābhirūhanasikkhāpadaṃ: bhikkhu_patimokkha/nāvābhirūhanasikkhāpadaṃ.md
+  - SE 69 nīcāsanasikkhāpadaṃ: bhikkhu_patimokkha/nīcāsanasikkhāpadaṃ.md
+  - SE 36 odanapaṭicchādanasikkhāpadaṃ: bhikkhu_patimokkha/odanapaṭicchādanasikkhāpadaṃ.md
+  - SE 67 oguṇṭhitasikkhāpadaṃ 2: bhikkhu_patimokkha/oguṇṭhitasikkhāpadaṃ 2.md
+  - SE 23 oguṇṭhitasikkhāpadaṃ: bhikkhu_patimokkha/oguṇṭhitasikkhāpadaṃ.md
+  - SE 7 okkhittacakkhusikkhāpadaṃ: bhikkhu_patimokkha/okkhittacakkhusikkhāpadaṃ.md
+  - PC 02 omasavādasikkhāpadaṃ: bhikkhu_patimokkha/omasavādasikkhāpadaṃ.md
+  - PC 21 ovādasikkhāpadaṃ: bhikkhu_patimokkha/ovādasikkhāpadaṃ.md
+  - SE 54 oṭṭhanillehakasikkhāpadaṃ: bhikkhu_patimokkha/oṭṭhanillehakasikkhāpadaṃ.md
+  - SE 71 pacchatogamanasikkhāpadaṃ: bhikkhu_patimokkha/pacchatogamanasikkhāpadaṃ.md
+  - PC 04 padasodhammasikkhāpadaṃ: bhikkhu_patimokkha/padasodhammasikkhāpadaṃ.md
+  - PC 74 pahārasikkhāpadaṃ: bhikkhu_patimokkha/pahārasikkhāpadaṃ.md
+  - SE 65 pallatthikasikkhāpadaṃ 2: bhikkhu_patimokkha/pallatthikasikkhāpadaṃ 2.md
+  - SE 26 pallatthikasikkhāpadaṃ: bhikkhu_patimokkha/pallatthikasikkhāpadaṃ.md
+  - PC 33 paramparabhojanasikkhāpadaṃ: bhikkhu_patimokkha/paramparabhojanasikkhāpadaṃ.md
+  - SE 1 parimaṇḍalasikkhāpadaṃ: bhikkhu_patimokkha/parimaṇḍalasikkhāpadaṃ.md
+  - PC 29 paripācitasikkhāpadaṃ: bhikkhu_patimokkha/paripācitasikkhāpadaṃ.md
+  - NP 30 pariṇatasikkhāpadaṃ: bhikkhu_patimokkha/pariṇatasikkhāpadaṃ.md
+  - PC 82 pariṇāmanasikkhāpadaṃ: bhikkhu_patimokkha/pariṇāmanasikkhāpadaṃ.md
+  - PC 10 pathavīkhaṇanasikkhāpadaṃ: bhikkhu_patimokkha/pathavīkhaṇanasikkhāpadaṃ.md
+  - SE 53 pattanillehakasikkhāpadaṃ: bhikkhu_patimokkha/pattanillehakasikkhāpadaṃ.md
+  - SE 32 pattasaññībhuñjanasikkhāpadaṃ: bhikkhu_patimokkha/pattasaññībhuñjanasikkhāpadaṃ.md
+  - SE 28 pattasaññīpaṭiggahaṇasikkhāpadaṃ: bhikkhu_patimokkha/pattasaññīpaṭiggahaṇasikkhāpadaṃ.md
+  - NP 21 pattasikkhāpadaṃ: bhikkhu_patimokkha/pattasikkhāpadaṃ.md
+  - PC 39 paṇītabhojanasikkhāpadaṃ: bhikkhu_patimokkha/paṇītabhojanasikkhāpadaṃ.md
+  - AN 1 paṭhamaaniyatasikkhāpadaṃ: bhikkhu_patimokkha/paṭhamaaniyatasikkhāpadaṃ.md
+  - PC 35 paṭhamapavāraṇāsikkhāpadaṃ: bhikkhu_patimokkha/paṭhamapavāraṇāsikkhāpadaṃ.md
+  - PD 1 paṭhamapāṭidesanīyasikkhāpadaṃ: bhikkhu_patimokkha/paṭhamapāṭidesanīyasikkhāpadaṃ.md
+  - PC 05 paṭhamasahaseyyasikkhāpadaṃ: bhikkhu_patimokkha/paṭhamasahaseyyasikkhāpadaṃ.md
+  - PC 14 paṭhamasenāsanasikkhāpadaṃ: bhikkhu_patimokkha/paṭhamasenāsanasikkhāpadaṃ.md
+  - NP 8 paṭhamaupakkhaṭasikkhāpadaṃ: bhikkhu_patimokkha/paṭhamaupakkhaṭasikkhāpadaṃ.md
+  - PC 03 pesuññasikkhāpadaṃ: bhikkhu_patimokkha/pesuññasikkhāpadaṃ.md
+  - SE 44 piṇḍukkhepakasikkhāpadaṃ: bhikkhu_patimokkha/piṇḍukkhepakasikkhāpadaṃ.md
+  - NP 4 purāṇacīvarasikkhāpadaṃ: bhikkhu_patimokkha/purāṇacīvarasikkhāpadaṃ.md
+  - PC pācittiyā: bhikkhu_patimokkha/pācittiyā.md
+  - SE 61 pādukasikkhāpadaṃ: bhikkhu_patimokkha/pādukasikkhāpadaṃ.md
+  - PA pārājikuddeso: bhikkhu_patimokkha/pārājikuddeso.md
+  - PD pāṭidesanīyā: bhikkhu_patimokkha/pāṭidesanīyā.md
+  - PC 45 rahonisajjasikkhāpadaṃ 2: bhikkhu_patimokkha/rahonisajjasikkhāpadaṃ 2.md
+  - PC 30 rahonisajjasikkhāpadaṃ: bhikkhu_patimokkha/rahonisajjasikkhāpadaṃ.md
+  - PC 44 rahopaṭicchannasikkhāpadaṃ: bhikkhu_patimokkha/rahopaṭicchannasikkhāpadaṃ.md
+  - PC 84 ratanasikkhāpadaṃ: bhikkhu_patimokkha/ratanasikkhāpadaṃ.md
+  - NP 10 rājasikkhāpadaṃ: bhikkhu_patimokkha/rājasikkhāpadaṃ.md
+  - NP 19 rūpiyasaṃvohārasikkhāpadaṃ: bhikkhu_patimokkha/rūpiyasaṃvohārasikkhāpadaṃ.md
+  - NP 18 rūpiyasikkhāpadaṃ: bhikkhu_patimokkha/rūpiyasikkhāpadaṃ.md
+  - PC 43 sabhojanasikkhāpadaṃ: bhikkhu_patimokkha/sabhojanasikkhāpadaṃ.md
+  - PC 71 sahadhammikasikkhāpadaṃ: bhikkhu_patimokkha/sahadhammikasikkhāpadaṃ.md
+  - SE 43 sakabaḷasikkhāpadaṃ: bhikkhu_patimokkha/sakabaḷasikkhāpadaṃ.md
+  - SE 31 sakkaccabhuñjanasikkhāpadaṃ: bhikkhu_patimokkha/sakkaccabhuñjanasikkhāpadaṃ.md
+  - SE 27 sakkaccapaṭiggahaṇasikkhāpadaṃ: bhikkhu_patimokkha/sakkaccapaṭiggahaṇasikkhāpadaṃ.md
+  - SE 29 samasūpakapaṭiggahaṇasikkhāpadaṃ: bhikkhu_patimokkha/samasūpakapaṭiggahaṇasikkhāpadaṃ.md
+  - SE 34 samasūpakasikkhāpadaṃ: bhikkhu_patimokkha/samasūpakasikkhāpadaṃ.md
+  - SE 30 samatitthikasikkhāpadaṃ: bhikkhu_patimokkha/samatitthikasikkhāpadaṃ.md
+  - PC 38 sannidhikārakasikkhāpadaṃ: bhikkhu_patimokkha/sannidhikārakasikkhāpadaṃ.md
+  - SE 33 sapadānasikkhāpadaṃ: bhikkhu_patimokkha/sapadānasikkhāpadaṃ.md
+  - PC 62 sappāṇakasikkhāpadaṃ 2: bhikkhu_patimokkha/sappāṇakasikkhāpadaṃ 2.md
+  - PC 20 sappāṇakasikkhāpadaṃ: bhikkhu_patimokkha/sappāṇakasikkhāpadaṃ.md
+  - SE 56 sasitthakasikkhāpadaṃ: bhikkhu_patimokkha/sasitthakasikkhāpadaṃ.md
+  - SE 59 satthapāṇisikkhāpadaṃ: bhikkhu_patimokkha/satthapāṇisikkhāpadaṃ.md
+  - SE 64 sayanasikkhāpadaṃ: bhikkhu_patimokkha/sayanasikkhāpadaṃ.md
+  - SA 5 sañcarittasikkhāpadaṃ: bhikkhu_patimokkha/sañcarittasikkhāpadaṃ.md
+  - PC 77 sañciccasikkhāpadaṃ 2: bhikkhu_patimokkha/sañciccasikkhāpadaṃ 2.md
+  - PC 61 sañciccasikkhāpadaṃ: bhikkhu_patimokkha/sañciccasikkhāpadaṃ.md
+  - PC 67 saṃvidhānasikkhāpadaṃ 2: bhikkhu_patimokkha/saṃvidhānasikkhāpadaṃ 2.md
+  - PC 27 saṃvidhānasikkhāpadaṃ: bhikkhu_patimokkha/saṃvidhānasikkhāpadaṃ.md
+  - SA 10 saṅghabhedasikkhāpadaṃ: bhikkhu_patimokkha/saṅghabhedasikkhāpadaṃ.md
+  - SA saṅghādisesuddeso: bhikkhu_patimokkha/saṅghādisesuddeso.md
+  - SE sekhiyā: bhikkhu_patimokkha/sekhiyā.md
+  - PC 49 senāvāsasikkhāpadaṃ: bhikkhu_patimokkha/senāvāsasikkhāpadaṃ.md
+  - SE 48 sitthāvakārakasikkhāpadaṃ: bhikkhu_patimokkha/sitthāvakārakasikkhāpadaṃ.md
+  - NP 12 suddhakāḷakasikkhāpadaṃ: bhikkhu_patimokkha/suddhakāḷakasikkhāpadaṃ.md
+  - SA 1 sukkavisaṭṭhisikkhāpadaṃ: bhikkhu_patimokkha/sukkavisaṭṭhisikkhāpadaṃ.md
+  - SE 3 supaṭicchannasikkhāpadaṃ: bhikkhu_patimokkha/supaṭicchannasikkhāpadaṃ.md
+  - SE 51 surusurukārakasikkhāpadaṃ: bhikkhu_patimokkha/surusurukārakasikkhāpadaṃ.md
+  - PC 51 surāpānasikkhāpadaṃ: bhikkhu_patimokkha/surāpānasikkhāpadaṃ.md
+  - SE 5 susaṃvutasikkhāpadaṃ: bhikkhu_patimokkha/susaṃvutasikkhāpadaṃ.md
+  - NP 26 suttaviññattisikkhāpadaṃ: bhikkhu_patimokkha/suttaviññattisikkhāpadaṃ.md
+  - SE 55 sāmisasikkhāpadaṃ: bhikkhu_patimokkha/sāmisasikkhāpadaṃ.md
+  - NP 29 sāsaṅkasikkhāpadaṃ: bhikkhu_patimokkha/sāsaṅkasikkhāpadaṃ.md
+  - SE 19 sīsappacālakasikkhāpadaṃ: bhikkhu_patimokkha/sīsappacālakasikkhāpadaṃ.md
+  - PC 86 sūcigharasikkhāpadaṃ: bhikkhu_patimokkha/sūcigharasikkhāpadaṃ.md
+  - SE 37 sūpodanaviññattisikkhāpadaṃ: bhikkhu_patimokkha/sūpodanaviññattisikkhāpadaṃ.md
+  - PC 75 talasattikasikkhāpadaṃ: bhikkhu_patimokkha/talasattikasikkhāpadaṃ.md
+  - PD 3 tatiyapāṭidesanīyasikkhāpadaṃ: bhikkhu_patimokkha/tatiyapāṭidesanīyasikkhāpadaṃ.md
+  - NP 7 tatuttarisikkhāpadaṃ: bhikkhu_patimokkha/tatuttarisikkhāpadaṃ.md
+  - PC 66 theyyasatthasikkhāpadaṃ: bhikkhu_patimokkha/theyyasatthasikkhāpadaṃ.md
+  - PC 88 tūlonaddhasikkhāpadaṃ: bhikkhu_patimokkha/tūlonaddhasikkhāpadaṃ.md
+  - SE 13 uccasaddasikkhāpadaṃ: bhikkhu_patimokkha/uccasaddasikkhāpadaṃ.md
+  - SE 75 udakeuccārasikkhāpadaṃ: bhikkhu_patimokkha/udakeuccārasikkhāpadaṃ.md
+  - NP 2 udositasikkhāpadaṃ: bhikkhu_patimokkha/udositasikkhāpadaṃ.md
+  - SE 11 ujjagghikasikkhāpadaṃ: bhikkhu_patimokkha/ujjagghikasikkhāpadaṃ.md
+  - SE 38 ujjhānasaññīsikkhāpadaṃ: bhikkhu_patimokkha/ujjhānasaññīsikkhāpadaṃ.md
+  - PC 13 ujjhāpanakasikkhāpadaṃ: bhikkhu_patimokkha/ujjhāpanakasikkhāpadaṃ.md
+  - SE 9 ukkhittakasikkhāpadaṃ: bhikkhu_patimokkha/ukkhittakasikkhāpadaṃ.md
+  - PC 69 ukkhittasambhogasikkhāpadaṃ: bhikkhu_patimokkha/ukkhittasambhogasikkhāpadaṃ.md
+  - PC 63 ukkoṭanasikkhāpadaṃ: bhikkhu_patimokkha/ukkoṭanasikkhāpadaṃ.md
+  - SE 25 ukkuṭikasikkhāpadaṃ: bhikkhu_patimokkha/ukkuṭikasikkhāpadaṃ.md
+  - PC 78 upassutisikkhāpadaṃ: bhikkhu_patimokkha/upassutisikkhāpadaṃ.md
+  - SE 72 uppathenagamanasikkhāpadaṃ: bhikkhu_patimokkha/uppathenagamanasikkhāpadaṃ.md
+  - SE 62 upāhanasikkhāpadaṃ: bhikkhu_patimokkha/upāhanasikkhāpadaṃ.md
+  - PA 4 uttarimanussadhammasikkhāpadaṃ: bhikkhu_patimokkha/uttarimanussadhammasikkhāpadaṃ.md
+  - PC 50 uyyodhikasikkhāpadaṃ: bhikkhu_patimokkha/uyyodhikasikkhāpadaṃ.md
+  - PC 42 uyyojanasikkhāpadaṃ: bhikkhu_patimokkha/uyyojanasikkhāpadaṃ.md
+  - PC 48 uyyuttasenāsikkhāpadaṃ: bhikkhu_patimokkha/uyyuttasenāsikkhāpadaṃ.md
+  - NP 24 vassikasāṭikasikkhāpadaṃ: bhikkhu_patimokkha/vassikasāṭikasikkhāpadaṃ.md
+  - PC 91 vassikasāṭikāsikkhāpadaṃ: bhikkhu_patimokkha/vassikasāṭikāsikkhāpadaṃ.md
+  - PC 18 vehāsakuṭisikkhāpadaṃ: bhikkhu_patimokkha/vehāsakuṭisikkhāpadaṃ.md
+  - SE 66 veṭhitasikkhāpadaṃ: bhikkhu_patimokkha/veṭhitasikkhāpadaṃ.md
+  - SA 7 vihārakārasikkhāpadaṃ: bhikkhu_patimokkha/vihārakārasikkhāpadaṃ.md
+  - PC 59 vikappanasikkhāpadaṃ: bhikkhu_patimokkha/vikappanasikkhāpadaṃ.md
+  - PC 37 vikālabhojanasikkhāpadaṃ: bhikkhu_patimokkha/vikālabhojanasikkhāpadaṃ.md
+  - PC 85 vikālagāmappavesanasikkhāpadaṃ: bhikkhu_patimokkha/vikālagāmappavesanasikkhāpadaṃ.md
+  - PC 72 vilekhanasikkhāpadaṃ: bhikkhu_patimokkha/vilekhanasikkhāpadaṃ.md
+  - SE 63 yānasikkhāpadaṃ: bhikkhu_patimokkha/yānasikkhāpadaṃ.md
+  - SE 40 ālopasikkhāpadaṃ: bhikkhu_patimokkha/ālopasikkhāpadaṃ.md
+  - PC 24 āmisasikkhāpadaṃ: bhikkhu_patimokkha/āmisasikkhāpadaṃ.md
+  - PC 31 āvasathapiṇḍasikkhāpadaṃ: bhikkhu_patimokkha/āvasathapiṇḍasikkhāpadaṃ.md
+  - SE 60 āvudhapāṇisikkhāpadaṃ: bhikkhu_patimokkha/āvudhapāṇisikkhāpadaṃ.md
+  - NP 22 ūnapañcabandhanasikkhāpadaṃ: bhikkhu_patimokkha/ūnapañcabandhanasikkhāpadaṃ.md
+  - PC 65 ūnavīsativassasikkhāpadaṃ: bhikkhu_patimokkha/ūnavīsativassasikkhāpadaṃ.md
+  - SE 70 ṭhitasikkhāpadaṃ: bhikkhu_patimokkha/ṭhitasikkhāpadaṃ.md
+  - SE 73 ṭhitouccārasikkhāpadaṃ: bhikkhu_patimokkha/ṭhitouccārasikkhāpadaṃ.md
+- Anki Decks:
+  - Index: anki-decks/index.md
+  - Advanced CSV Update: anki-decks/csv-update.md
+  - DHP Vocab: anki-decks/dhp-vocab.md
+  - Native: anki-decks/native.md
+  - Parittas - Anki Deck: anki-decks/parittas.md
+  - Pātimokkha - Anki deck: anki-decks/patimokkha-learning.md
+  - Pātimokkha Word By Word - Anki deck: anki-decks/patimokkha-word-by-word.md
+  - Reading Common Pāli Phrases - Anki deck: anki-decks/reading-common-pali-phrases.md
+  - Пали Словарь для Анки: anki-decks/ru-pali-vocab.md
+  - Ru-Test: anki-decks/ru-test.md
+  - SBS Anumodana - Anki Deck: anki-decks/sbs-anumodana.md
+  - SBS Anumodana: anki-decks/sbs-daily-chanting-text.md
+  - SBS Daily Chanting - Anki Deck: anki-decks/sbs-daily-chanting.md
+  - SBS Pāḷi-English Vocab - Anki Deck: anki-decks/sbs-pali-english-vocab.md
+  - Special-Fields: anki-decks/special-fields.md
+  - Suspending Extra Vocabulary: anki-decks/suspend-extra.md
+  - Test: anki-decks/test.md
+  - How to Update Your Decks: anki-decks/updating.md
+  - Bhikkhu Vibhaṅga Pāli: anki-decks/vibhanga.md
+- Pāli Class:
+  - '**SBS Pāḷi-English Recitations**': pali-class/pali-class-adv.md
+  - '**Intermediate Pāli Course at SBS**': pali-class/pali-class-inter.md
+  - '**Beginner Pāli Course at SBS**': pali-class/pali-class.md
+  - '**Pātimokkha Word By Word class at SBS**': pali-class/patimokkha-class.md
+  - '**Exersises of sentences from SBS Pāḷi-English Recitations**': pali-class/sbs-per-ex.md
+  - Anki decks for Pāli Class: pali-class/update-anki-class.md
+- SBS-PER Analysis: sbs-per-analysis.md
+- Notebook LM: notebook_lm.md

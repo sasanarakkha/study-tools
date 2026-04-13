@@ -1,0 +1,18 @@
+# Class — Front Template
+
+```html
+<div class="another_color indent"><i> {{#sbs_class_anki}} class {{sbs_class_anki}} {{extra}} {{/sbs_class_anki}}</i></div>
+<span class="spacer"></span>
+<div class="small indent"><i>{{source}} {{sutta}}</i></div>
+
+<div>{{example}}</div>
+<span class="spacer"></span>
+
+<hr>
+
+<div>{{audio}}</div>
+
+<div><b>{{pali}}</b></div>
+
+
+```
