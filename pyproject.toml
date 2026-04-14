@@ -1,0 +1,20 @@
+[project]
+name = "study-tools"
+version = "0.1.0"
+description = "SBS DhammaVinaya Learning Tools website"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.0",
+    "requests>=2.31",
+    "pandas>=2.0",
+    "openpyxl>=3.1",
+    "tabulate>=0.9",
+]
+
+[tool.uv]
+package = false
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

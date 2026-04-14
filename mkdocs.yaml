@@ -12,15 +12,15 @@ theme:
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
-    primary: custom
-    accent: custom
+    primary: brown
+    accent: orange
     toggle:
       icon: material/brightness-7
       name: Switch to dark mode
   - media: '(prefers-color-scheme: dark)'
     scheme: slate
-    primary: custom
-    accent: custom
+    primary: brown
+    accent: orange
     toggle:
       icon: material/brightness-4
       name: Switch to light mode
@@ -41,8 +41,9 @@ markdown_extensions:
 plugins:
 - search
 extra_css:
-- identity/sbs.css
+- sbs.css
 nav:
+- Home: index.md
 - Pre-Pāli Study: pre-pali-study.md
 - Dictionaries:
   - '[Devamitta Pāḷi Study](https://devamitta.github.io/pali/)': dict/dps.md

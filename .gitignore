@@ -1,2 +1,10 @@
 .DS_Store
 temp-push
+.claude
+GEMINI.md
+ClAUDE.md
+
+site/
+.venv/
+__pycache__/
+temp/

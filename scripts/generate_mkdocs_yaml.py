@@ -38,8 +38,8 @@ config = {
         'custom_dir': 'identity',
         'font': {'text': False, 'code': False},
         'palette': [
-            {'media': '(prefers-color-scheme: light)', 'scheme': 'default', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/brightness-7', 'name': 'Switch to dark mode'}},
-            {'media': '(prefers-color-scheme: dark)', 'scheme': 'slate', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/brightness-4', 'name': 'Switch to light mode'}}
+            {'media': '(prefers-color-scheme: light)', 'scheme': 'default', 'primary': 'brown', 'accent': 'orange', 'toggle': {'icon': 'material/brightness-7', 'name': 'Switch to dark mode'}},
+            {'media': '(prefers-color-scheme: dark)', 'scheme': 'slate', 'primary': 'brown', 'accent': 'orange', 'toggle': {'icon': 'material/brightness-4', 'name': 'Switch to light mode'}}
         ],
         'features': [
             'navigation.tabs',
@@ -52,8 +52,9 @@ config = {
     },
     'markdown_extensions': ['attr_list', {'toc': {'permalink': True}}, 'tables', 'md_in_html', 'nl2br'],
     'plugins': ['search'],
-    'extra_css': ['identity/sbs.css'],
+    'extra_css': ['sbs.css'],
     'nav': [
+        {'Home': 'index.md'},
         {'Pre-Pāli Study': 'pre-pali-study.md'},
         {'Dictionaries': build_nav_section('docs/dict')},
         {'Pātimokkha': 'patimokkha.md'},
