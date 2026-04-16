@@ -1,6 +1,6 @@
 # PD 1 paṭhamapāṭidesanīyasikkhāpadaṃ
 
-## yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā
+## yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā 
 
 | pāḷi           | pos   | grammar                                        | case   | meaning                             | meaning_lit               | root                  | base                | construction          | compound_type   | compound_construction   |
 |:---------------|:------|:-----------------------------------------------|:-------|:------------------------------------|:--------------------------|:----------------------|:--------------------|:----------------------|:----------------|:------------------------|

@@ -8,3 +8,5 @@ site/
 .venv/
 __pycache__/
 temp/
+archive/
+dpd_operations.log

@@ -1,4 +1,4 @@
-## **Advanced Pāli Education**
+# **Advanced Pāli Education**
 
 **UNDER DEVELOPMENT**
 
@@ -6,15 +6,15 @@ How to proceed with individual Pāli study once you're finished with the [Beginn
 
 The first recommendation is to review the class materials again, paying attention to the details. Now that you're familiar with the basics of grammar, you'll be able to pick up on details that might not have been obvious to you when you first learned this material. Usually, teachers say that these courses contain information that cannot be absorbed at one time. Redo class exercises as needed, and it's always a good idea to maintain your reviews in Anki.
 
-# **SBS Pāḷi-English Recitations**
+## **SBS Pāḷi-English Recitations**
 
 It is recommended to do analysis of the SBS Pāḷi-English Recitations book together with the Anki deck.
 
 [Exercises divided by chapters](sbs-per-ex.md)
 
-[Analysis divided by chapters](../sbs-per-analysis.md)
+[Analysis divided by chapters](sbs-per-analysis.md)
 
-Anki Deck - [SBS Pāḷi-English Vocab](../anki/decks/sbs/sbs-pali-english-vocab.md) (incluading words from pubbakicca Dhammayuttika)
+Anki Deck - [SBS Pāḷi-English Vocab](../5-anki/1-sbs/1-sbs-vocab.md) (incluading words from pubbakicca Dhammayuttika)
 
 ---
 
@@ -24,7 +24,7 @@ Anki Deck - [SBS Pāḷi-English Vocab](../anki/decks/sbs/sbs-pali-english-vocab
 
 ---
 
-# **Suttas and passages**
+## **Suttas and passages**
 
 ---
 
@@ -58,7 +58,7 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 ---
 
-# **Advanced Pāli Course**
+## **Advanced Pāli Course**
 
 ---
 
@@ -80,11 +80,8 @@ Draft of the [class material](https://docs.google.com/document/d/1QMX_yuH9uJeTEf
 
 ---
 
-We recommend using the latest [SBS Pāli Dictionary](../dict/sbs-pali-dictionary.md). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
+We recommend using the latest [SBS Pāli Dictionary](../4-dictionaries/sbs-pali-dictionary.md). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
 
 ----
 
 Feel free to [contact us](mailto:studytools@sasanarakkha.org) if you need any assistance.
-
-
-

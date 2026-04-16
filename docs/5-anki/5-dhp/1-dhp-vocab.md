@@ -11,6 +11,6 @@ This tool is recommended to be used together with the [Dhammapada grammatical an
 - Double-click on the downloaded file, and it will appear in your Anki.
 
 - [Recommended ways of studying this deck](study-ways.md)
-- [How to Update Your Decks](updating.md)
-- [Advanced: Updating with CSV](csv-update.md)
-- [Special Fields Add-on](special-fields.md)
+- [How to Update Your Decks](../general/updating.md)
+- [Advanced: Updating with CSV](../general/csv-update.md)
+- [Special Fields Add-on](../general/special-fields.md)

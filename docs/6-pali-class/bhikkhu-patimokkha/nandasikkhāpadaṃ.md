@@ -1,6 +1,6 @@
 # PC 92 nandasikkhāpadaṃ
 
-## yo pana bhikkhu sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ
+## yo pana bhikkhu sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ 
 
 | pāḷi                 | pos   | grammar                                | case   | meaning                                                   | meaning_lit       | root               | base                 | construction             | compound_type      | compound_construction    |
 |:---------------------|:------|:---------------------------------------|:-------|:----------------------------------------------------------|:------------------|:-------------------|:---------------------|:-------------------------|:-------------------|:-------------------------|

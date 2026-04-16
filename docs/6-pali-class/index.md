@@ -1,8 +1,10 @@
-# Pali Class
+# Pali Classes
 
-- [Advanced Pāli Education at SBS](pali-class-adv.md)
-- [Intermediate Pāli Course at SBS](pali-class-inter.md)
-- [Beginner Pāli Course at SBS](pali-class.md)
-- [Pātimokkha Word By Word class at SBS](patimokkha-class.md)
-- [Exersises of sentences from SBS Pāḷi-English Recitations](sbs-per-ex.md)
-- [Anki decks for Pāli Class](update-anki-class.md)
+To provide a more systematic approach to your Pali education, we offer various levels of Pali courses.
+
+- [Beginner Pāḷi Course](https://digitalpalidictionary.github.io/dpd-pali-courses/bpc/)
+
+- [Intermediate Pāḷi Course](https://digitalpalidictionary.github.io/dpd-pali-courses/ipc/)
+
+- [**Advanced Pāli Education**](1-pali-class-adv.md)
+- [**Pātimokkha Word By Word class**](2-patimokkha-class.md)

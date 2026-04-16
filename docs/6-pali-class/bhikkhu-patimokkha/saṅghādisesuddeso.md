@@ -19,7 +19,7 @@
 | āgacchanti                                                            | verb  | pr 3rd pl of āgacchati               | +acc   | they arrive, they are coming up (for)      | arrive                                                                            | √gam (go)                 | √gam + a > gaccha (irreg) | ā + gaccha + ti            |                   |                         |
 | Venerables, these thirteen saṅghādisesā cases come up for recitation. |       |                                      |        |                                            |                                                                                   |                           |                           |                            |                   |                         |
 
-## SA 1 ... 12
+## SA 1 ... 12 
 
 | pāḷi   | pos   | grammar   | case   | meaning   | meaning_lit   | root   | base   | construction   | compound_type   | compound_construction   |
 |:-------|:------|:----------|:-------|:----------|:--------------|:-------|:-------|:---------------|:----------------|:------------------------|

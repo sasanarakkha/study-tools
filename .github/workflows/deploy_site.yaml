@@ -20,6 +20,7 @@ jobs:
           enable-cache: true
           python-version: "3.12"
       - run: uv sync --frozen
+      - run: bash scripts/web_preprocessing.sh
       - run: uv run mkdocs build
       - uses: peaceiris/actions-gh-pages@v4
         with:

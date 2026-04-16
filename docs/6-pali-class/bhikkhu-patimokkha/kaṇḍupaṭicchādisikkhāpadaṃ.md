@@ -1,6 +1,6 @@
 # PC 90 kaṇḍupaṭicchādisikkhāpadaṃ
 
-## kaṇḍupaṭicchādiṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā,
+## kaṇḍupaṭicchādiṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, 
 
 | pāḷi             | pos   | grammar                                        | case   | meaning                                                  | meaning_lit         | root                   | base                        | construction         | compound_type        | compound_construction   |
 |:-----------------|:------|:-----------------------------------------------|:-------|:---------------------------------------------------------|:--------------------|:-----------------------|:----------------------------|:---------------------|:---------------------|:------------------------|

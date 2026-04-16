@@ -25,7 +25,8 @@
 | atikkameyya       | verb  | opt 3rd sg of atikkamati                                 |        | he would exceed, go beyond                                | goes too far        | √kam (go)             | √kam + a > kama | ati + kama + ti              |                    |                         |
 | pācittiyaṃ        | noun  | nt nom sg of pācittiya                                   | +loc   | offence requiring confession, offence involving expiation |                     |                       |                 |                              |                    |                         |
 
-## yo pana bhikkhu rañño khattiyassa muddh'ābhisittassa anikkhantarājake aniggataratanake  pubbe appaṭisaṃvidito indakhīlaṃ atikkameyya, pācittiyaṃ.
+## yo pana bhikkhu rañño khattiyassa muddh'ābhisittassa anikkhantarājake aniggataratanake
+ pubbe appaṭisaṃvidito indakhīlaṃ atikkameyya, pācittiyaṃ.
 
 | pāḷi             | pos   | grammar                                        | case   | meaning                         | meaning_lit       | root   | base   | construction            | compound_type   | compound_construction   |
 |:-----------------|:------|:-----------------------------------------------|:-------|:--------------------------------|:------------------|:-------|:-------|:------------------------|:----------------|:------------------------|

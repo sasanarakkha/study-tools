@@ -41,7 +41,7 @@ If you have a problem with updating, you can use the following method:
 
 - choose downloaded reading-common-pali-phrases.apkg
 
-![reading-common-pali-phrases-screenshot](../../../assets/gh-dbaf0c19f5.png)
+![reading-common-pali-phrases-screenshot](../../assets/images/reading-common-pali-phrases-screenshot.png)
 
 
 - choose Type - Reading Common Pali Phrases ; Deck - Reading Common Pali Phrases ; Update existing notes when the first field matches ; Allow HTML in fields

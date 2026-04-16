@@ -21,13 +21,13 @@ HEADERS = [
 
 def load_data(xlsx_path: Path) -> pd.DataFrame:
     df = pd.read_excel(xlsx_path, engine="openpyxl")
-    df = df.fillna("")
-    # Strip whitespace and remove all newlines/carriage returns from all cells
-    # We cast to str first to ensure replace and strip work consistently
-    df = df.astype(str).replace(r"[\r\n]+", " ", regex=True)
-    return df.apply(lambda x: x.str.strip())
+    # Forward fill source and abbrev to handle sparse columns and preserve order
+    df["source"] = df["source"].ffill().str.strip()
+    df["abbrev"] = df["abbrev"].ffill().str.strip()
+    return df.fillna("")
 
 def get_sources(df: pd.DataFrame) -> list[dict]:
+    # drop_duplicates preserves the order of the first occurrence by default.
     return (
         df[["source", "abbrev"]]
         .drop_duplicates(subset="source")
@@ -36,7 +36,7 @@ def get_sources(df: pd.DataFrame) -> list[dict]:
     )
 
 def generate_index(sources: list[dict], output_dir: Path) -> None:
-    lines = ["# [SBS] Bhikkhu Pātimokkha\n"]
+    lines = ["# Bhikkhu Pātimokkha - Word by Word Analysis\n"]
     for s in sources:
         lines.append(f"- [{s['abbrev']} {s['source']}]({s['source']}.md)")
     (output_dir / "index.md").write_text("\n".join(lines), encoding="utf-8")
@@ -45,14 +45,18 @@ def generate_rule_page(source: dict, df: pd.DataFrame, output_dir: Path) -> None
     rule, abbrev = source["source"], source["abbrev"]
     rule_df = df[df["source"] == rule]
     lines = [f"# {abbrev} {rule}\n"]
-    for sentence in rule_df["sentence"].drop_duplicates():
+    
+    sentences = rule_df["sentence"].drop_duplicates()
+    for sentence in sentences:
         if not sentence:
             continue
         lines.append(f"## {sentence}\n")
         sent_df = rule_df[rule_df["sentence"] == sentence][COLS].copy()
+        sent_df = sent_df.replace(0, "").replace("\n", "<br>", regex=True)
         sent_df.columns = HEADERS
         lines.append(sent_df.to_markdown(index=False))
         lines.append("")
+    
     lines.append(f"\n[← Home](index.md) | [Feedback]({FEEDBACK_URL})")
     (output_dir / f"{rule}.md").write_text("\n".join(lines), encoding="utf-8")
 
@@ -67,7 +71,7 @@ def main() -> None:
     if not xlsx_path.exists():
         raise FileNotFoundError(f"XLSX not found: {xlsx_path}")
 
-    output_dir = Path(__file__).parent.parent / "docs" / "bhikkhu_patimokkha"
+    output_dir = Path(__file__).parent.parent / "docs" / "6-pali-class" / "bhikkhu-patimokkha"
     output_dir.mkdir(parents=True, exist_ok=True)
 
     df = load_data(xlsx_path)
@@ -75,7 +79,7 @@ def main() -> None:
     generate_index(sources, output_dir)
     for source in sources:
         generate_rule_page(source, df, output_dir)
-    print(f"Generated index.md + {len(sources)} rule pages → {output_dir}")
+    print(f"Generated index.md + {len(sources)} rule pages -> {output_dir}")
 
 if __name__ == "__main__":
     main()

@@ -4,7 +4,7 @@ UNDER DEVELOPMENT
 
 An extended version of the [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/) with examples and references specific to SBS Pāli study materials.
 
-### Key Features:
+## Key Features:
 
 - Targeted Examples: Additional information and references are included only for words that appear in SBS Pāli study materials.
 
@@ -20,10 +20,10 @@ In addition to all the [features of DPD](https://digitalpalidictionary.github.io
 
 - [SBS Pāli Classes](https://digitalpalidictionary.github.io/dpd-pali-courses/bpc/): Grammatical analyses of all words found in SBS Pāli classes (e.g. click on [*(cl. 10)*](https://docs.google.com/document/d/1AX4wqoVokRfTfr89EKxHPC1Yb80HKa2sqxX4q-nofso/edit#heading=h.17dp8vu)). If you encounter the symbol `*` (e.g. cl. 10*), it indicates that the word is from the Extra part of the exercises for the class. Also it includes English translation as it in the Key to Exercises.
 
-- [Pāli-English Recitations](../sbs-per-analysis.md): Detailed studies of words from SBS Pāli-English Recitations (e.g. click on [*Tāyana-gāthā*](https://docs.google.com/document/d/14MHZEf2m20r5JaIeGy3wr-tW7y5bFd8097_e1GfGdzQ/)).
+- [Pāli-English Recitations](../6-pali-class/sbs-per-analysis.md): Detailed studies of words from SBS Pāli-English Recitations (e.g. click on [*Tāyana-gāthā*](https://docs.google.com/document/d/14MHZEf2m20r5JaIeGy3wr-tW7y5bFd8097_e1GfGdzQ/)).
 
  
-<img width="1054" height="447" alt="image" src="https://github.com/user-attachments/assets/51062bf5-ca6c-4232-ac18-d9ccd1c29f1e" />
+<img width="1054" height="447" alt="image" src="../assets/images/additions.png" />
 
 
 

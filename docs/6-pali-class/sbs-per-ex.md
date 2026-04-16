@@ -4,9 +4,9 @@ Made for better gramatical understanding of suttas and passages from 'SBS Pāḷ
 
 Files that may be usefull with this analysis:
 
-- [Analysis of SBS Pāḷi-English Recitations](../sbs-per-analysis.md)
+- [Analysis of SBS Pāḷi-English Recitations](sbs-per-analysis.md)
 - [SBS Pāḷi-English Recitations](https://sasanarakkha.org/2019/09/08/sbs-pali-english-recitations/)
-- [SBS Pāḷi Dictionary](../dict/sbs-pali-dictionary.md)
+- [SBS Pāḷi Dictionary](../4-dictionaries/sbs-pali-dictionary.md)
 
 # **SBS Pāḷi-English Recitations**
 

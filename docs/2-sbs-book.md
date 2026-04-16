@@ -6,4 +6,4 @@ Online version can be foiund [here.](https://sasanarakkha.org/2019/09/08/sbs-pal
 
 It is available for downloading in [pdf](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.pdf) / [epub](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.epub) / [azw3](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.azw3) / [mobi](https://github.com/sasanarakkha/pali-english-recitations/releases/latest/download/SBS_Pali-English_Recitations.mobi) formats.
 
-Also availible word by word [Analysis of SBS Pāḷi-English Recitations](sbs-per-analysis.md)
+Also availible word by word [Analysis of SBS Pāḷi-English Recitations](6-pali-class/sbs-per-analysis.md)

@@ -2,7 +2,7 @@
 
 Here the names correspond the names of the Note Type in Anki Decks
 
-![Manage Note Types](../assets/images/anki/manage-note-types-b.png)
+![Manage Note Types](../../assets/images/anki/manage-note-types-b.png)
 
 ## For Pali Class
 

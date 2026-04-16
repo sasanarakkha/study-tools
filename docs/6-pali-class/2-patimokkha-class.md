@@ -12,7 +12,7 @@ It includes the following sources:
 
 - Analysis of the Bhikkhupātimokkha available in the [Google Sheet](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/).
 
-- If you are using a mobile device, there is an [HTML version](https://sasanarakkha.github.io/study-tools/bhikkhu_patimokkha/main.html) of the same analysis available.
+- If you are using a mobile device, there is an [HTML version](bhikkhu-patimokkha/index.md) of the same analysis available.
 
 # Exercises
 
@@ -58,7 +58,7 @@ Feel free to [contact us](mailto:studytools@sasanarakkha.org) if you need any as
 
 ----
 
-We recommend using the latest [SBS Pāli Dictionary](../dict/sbs-pali-dictionary.md). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
+We recommend using the latest [SBS Pāli Dictionary](../4-dictionaries/sbs-pali-dictionary.md). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
 
 ---
 

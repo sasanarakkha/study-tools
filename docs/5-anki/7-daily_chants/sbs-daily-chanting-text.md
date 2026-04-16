@@ -1,4 +1,4 @@
-# Text for Anki deck [SBS Daily Chanting Sentences](sbs-daily-chanting.md).
+# Text for Anki deck [SBS Daily Chanting Sentences](1-sbs-daily-chanting.md).
 
 ## SBS Anumodana
 
@@ -375,6 +375,6 @@ For the maximum freedom from disease
 
 ### Maintenance
 
-- [How to Update Your Decks](updating.md)
-- [Advanced: Updating with CSV](csv-update.md)
-- [Special Fields Add-on](special-fields.md)
+- [How to Update Your Decks](../general/updating.md)
+- [Advanced: Updating with CSV](../general/csv-update.md)
+- [Special Fields Add-on](../general/special-fields.md)

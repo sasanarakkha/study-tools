@@ -1,6 +1,6 @@
 # PC 84 ratanasikkhāpadaṃ
 
-## yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ.
+## yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. 
 
 | pāḷi           | pos   | grammar                           | case   | meaning                                                   | meaning_lit       | root          | base                       | construction      | compound_type   | compound_construction   |
 |:---------------|:------|:----------------------------------|:-------|:----------------------------------------------------------|:------------------|:--------------|:---------------------------|:------------------|:----------------|:------------------------|
@@ -26,8 +26,8 @@
 
 ## ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ
 
-| pāḷi           | pos   | grammar                                        |   case | meaning                        | meaning_lit              | root          | base                       | construction        | compound_type   | compound_construction   |
-|:---------------|:------|:-----------------------------------------------|-------:|:-------------------------------|:-------------------------|:--------------|:---------------------------|:--------------------|:----------------|:------------------------|
+| pāḷi           | pos   | grammar                                        | case   | meaning                        | meaning_lit              | root          | base                       | construction        | compound_type   | compound_construction   |
+|:---------------|:------|:-----------------------------------------------|:-------|:-------------------------------|:-------------------------|:--------------|:---------------------------|:--------------------|:----------------|:------------------------|
 | ratanaṃ        | noun  | nt acc sg of ratana                            |        | jewel                          |                          |               |                            |                     |                 |                         |
 | vā             | ind   | conj                                           |        | or, either or                  |                          |               |                            |                     |                 |                         |
 | pana           | ind   |                                                |        | then, now, so, but             |                          |               |                            |                     |                 |                         |
@@ -38,9 +38,9 @@
 | vā             | ind   | conj                                           |        | or, either or                  |                          |               |                            |                     |                 |                         |
 | ajjhāvasathe   | noun  | masc loc sg of ajjhāvasatha, comp              |        | inside the dwelling            |                          |               |                            | adhi + āvasatha     | kammadhāraya    | adhi + āvasatha         |
 | vā             | ind   | conj                                           |        | or, either or                  |                          |               |                            |                     |                 |                         |
-| uggahetvā      | verb  | abs of uggaṇhāti                               |      0 | having picked up               | having taken up          | √gah (grasp)  | √gah + ṇhā > gaṇhe         | ud + gaṇhe + tvā    |                 |                         |
+| uggahetvā      | verb  | abs of uggaṇhāti                               |        | having picked up               | having taken up          | √gah (grasp)  | √gah + ṇhā > gaṇhe         | ud + gaṇhe + tvā    |                 |                         |
 | vā             | ind   | conj                                           |        | or, either or                  |                          |               |                            |                     |                 |                         |
-| uggahāpetvā    | verb  | abs of uggaṇhāpeti                             |      0 | having made (somebody) pick up | having caused to take up | √gah (grasp)  | √gah + ṇhā + āpe > gaṇhāpe | ud + gaṇhāpe + tvā  |                 |                         |
+| uggahāpetvā    | verb  | abs of uggaṇhāpeti                             |        | having made (somebody) pick up | having caused to take up | √gah (grasp)  | √gah + ṇhā + āpe > gaṇhāpe | ud + gaṇhāpe + tvā  |                 |                         |
 | vā             | ind   | conj                                           |        | or, either or                  |                          |               |                            |                     |                 |                         |
 | nikkhipitabbaṃ | ptp   | nt nom sg of nikkhipitabba                     |        | can be stored, kept            | to be thrown down        | √khip (throw) |                            | ni + √khip + itabba |                 |                         |
 

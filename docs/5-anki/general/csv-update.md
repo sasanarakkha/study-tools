@@ -17,29 +17,29 @@ Download the latest `.csv` file for your deck from the links below:
 
 Before importing, you must ensure your local field names exactly match the current versions. Go to **Tools > Manage Note Types** to verify.
 
-![Manage Note Types](../assets/images/anki/manage-note-types-b.png)
+![Manage Note Types](../../assets/images/anki/manage-note-types-b.png)
 
-Compare your current field list with the [most recent list](5-anki/field-lists/index.md) associated with the deck you’re updating.
+Compare your current field list with the [most recent list](../field-lists/index.md) associated with the deck you’re updating.
 
 ## Step 3: Check Card Settings
 
-Ensure your **Front Template**, **Back Template**, and **Styling** match the [latest versions](5-anki/templates/index.md).
+Ensure your **Front Template**, **Back Template**, and **Styling** match the [latest versions](../templates/index.md).
 
-![Verify Note Type](../assets/images/anki/card-settings-check-b.png)
+![Verify Note Type](../../assets/images/anki/card-settings-check-b.png)
 
 ## Step 4: Perform the Import
 
 1. In Anki, go to **File > Import**.
-   ![File Import Menu](../assets/images/anki/file-import-menu-b.png)
+   ![File Import Menu](../../assets/images/anki/file-import-menu-b.png)
 2. Choose the downloaded `.csv` file.
 3. Configure the import settings:
     - **Existing notes:** Update
     - **Match scope:** Note type
-   ![CSV Import Options](../assets/images/anki/csv-import-options-b.png)
+   ![CSV Import Options](../../assets/images/anki/csv-import-options-b.png)
 4. Double-check your settings and click **Import**.
 
 After importing, don't forget to [remove outdated words](updating.md#removing-outdated-words).
 
 ---
 
-Back to [Anki Decks Overview](index.md).
+Back to [Anki Decks Overview](../templates/index.md).

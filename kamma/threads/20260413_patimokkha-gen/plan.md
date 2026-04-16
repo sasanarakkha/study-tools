@@ -7,7 +7,7 @@
 
 ## Phase 1 — Dependencies & Download Script
 
-- [~] Add pandas, openpyxl, tabulate to `pyproject.toml` dependencies:
+- [x] Add pandas, openpyxl, tabulate to `pyproject.toml` dependencies:
   ```toml
   "pandas>=2.0",
   "openpyxl>=3.1",
@@ -16,7 +16,7 @@
   Then run `uv sync` to update `uv.lock`.
   → verify: `uv run python -c "import pandas, openpyxl, tabulate"` exits 0
 
-- [~] Create `scripts/download_patimokkha.sh`:
+- [x] Create `scripts/download_patimokkha.sh`:
   ```bash
   #!/usr/bin/env bash
   # Download the Pātimokkha Word by Word spreadsheet from Google Sheets.
@@ -54,7 +54,7 @@ the download script.
 
 ## Phase 2 — Generation Script
 
-- [~] Create `scripts/generate_patimokkha.py` — full implementation:
+- [x] Create `scripts/generate_patimokkha.py` — full implementation:
 
   ```python
   """Generate Markdown pages for Bhikkhu Pātimokkha word-by-word analysis."""
@@ -138,13 +138,13 @@ the download script.
   → verify: `uv run python scripts/generate_patimokkha.py` runs without
     error and creates `docs/bhikkhu_patimokkha/index.md` + rule `.md` files
 
-- [ ] Inspect generated output:
+- [x] Inspect generated output:
   - `docs/bhikkhu_patimokkha/index.md` contains list of rules with `.md` links
   - Open one rule `.md` in editor: confirm Markdown table present, footer links correct
   - Count rule files: `ls docs/bhikkhu_patimokkha/*.md | wc -l`
   → verify: index.md exists; rule count ≥ 200; no absolute web URLs in any file
 
-- [~] Add `bhikkhu_patimokkha` section to `mkdocs.yaml` nav:
+- [x] Add `bhikkhu_patimokkha` section to `mkdocs.yaml` nav:
   ```yaml
   - Bhikkhu Pātimokkha:
     - Index: bhikkhu_patimokkha/index.md
@@ -158,7 +158,7 @@ and nav is updated.
 
 ## Phase 3 — Local Rendering Verification
 
-- [~] Run `uv run mkdocs serve` and check in browser:
+- [x] Run `uv run mkdocs serve` and check in browser:
   - Navigate to Bhikkhu Pātimokkha → Index page loads, rule links visible
   - Click one rule link: page loads with Markdown table rendered correctly
   - `[← Home]` link navigates back to index
@@ -166,7 +166,7 @@ and nav is updated.
   - No broken links in browser console
   → verify: all above pass
 
-- [ ] Check URL encoding: open a rule with Pāli diacritics in the filename
+- [x] Check URL encoding: open a rule with Pāli diacritics in the filename
   (e.g. Pārājika) — confirm URL is accessible and page loads
   → verify: page loads at the diacritic URL
 
@@ -176,7 +176,7 @@ and nav is updated.
 
 ## Phase 4 — Weekly GitHub Action
 
-- [~] Create `.github/workflows/regen_patimokkha.yaml`:
+- [x] Create `.github/workflows/regen_patimokkha.yaml`:
   ```yaml
   name: Regenerate Pātimokkha Pages
 
@@ -223,7 +223,7 @@ and nav is updated.
   ```
   → verify: file created at `.github/workflows/regen_patimokkha.yaml`
 
-- [ ] Test via manual dispatch:
+- [x] Test via manual dispatch:
   - Push workflow file to main
   - Trigger `workflow_dispatch` from GitHub Actions tab
   → verify: workflow runs green; commit appears (or "No changes" if XLSX
@@ -255,4 +255,6 @@ and nav is updated.
 
 ## Errors & Issues Log
 
-*(Append new findings here during implementation — never overwrite)*
+- **Dirty Source Data:** Rule names in the XLSX contained trailing newlines and spaces, leading to broken filenames and `mkdocs` link warnings. Fixed by adding `.str.strip()` to the source columns in `scripts/generate_patimokkha.py`.
+- **Navigation Overflow:** Adding 217 individual rules to `mkdocs.yaml` navigation is impractical. Corrected to keep the files in `docs/6-pali-class/bhikkhu-patimokkha/` but exclude them from the sidebar.
+- **Sed Tool Collision:** Updating script paths via `sed` introduced syntax errors in the Python script. Manual `write_file` or `replace` is safer for Python logic updates.

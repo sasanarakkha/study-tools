@@ -63,7 +63,7 @@
 |:-----------------|:------|:----------------------------|:-------|:------------------------------------|:--------------|:-------|:-------|:-------------------------------------|:----------------|:------------------------|
 | tassapāpiyyasikā | noun  | fem nom sg tassapāpiyyasikā |        | fact of his continued bad behaviour | his worseness |        |        | tassa + pāpiya > pāpiyya + [s] + ikā |                 |                         |
 
-## uddiṭṭhā kho āyasmanto satta adhikaraṇasamathā dhammā.
+## uddiṭṭhā kho āyasmanto satta adhikaraṇasamathā dhammā. 
 
 | pāḷi              | pos   | grammar                                 | case   | meaning                         | meaning_lit        | root                      | base   | construction         | compound_type      | compound_construction   |
 |:------------------|:------|:----------------------------------------|:-------|:--------------------------------|:-------------------|:--------------------------|:-------|:---------------------|:-------------------|:------------------------|
@@ -74,7 +74,7 @@
 | adhikaraṇasamathā | adj   | masc nom pl of adhikaraṇasamatha, comp  |        | related to settling legal cases | settling lawsuits  |                           |        | adhikaraṇa + samatha | genitive tappurisa | adhikaraṇassa + samatha |
 | dhammā            | noun  | masc nom pl of dhamma                   |        | cases, laws, rules              | holdings, supports | √dhar (hold)              |        | √dhar + ma           |                    |                         |
 
-## tatthāyasmante, pucchāmi kaccittha parisuddhā,
+## tatthāyasmante, pucchāmi kaccittha parisuddhā, 
 
 | pāḷi           | pos   | grammar                                       | case   | meaning                                        | meaning_lit   | root            | base                | construction                   | compound_type   | compound_construction   |
 |:---------------|:------|:----------------------------------------------|:-------|:-----------------------------------------------|:--------------|:----------------|:--------------------|:-------------------------------|:----------------|:------------------------|
@@ -83,7 +83,7 @@
 | kaccittha      | comp  | sandhi, ind + adv (or) ind + pr               |        | I trust in this case, (or) I trust you all are |               |                 |                     | kacci + ettha or kacci + attha |                 |                         |
 | parisuddhā     | pp    | masc nom pl of parisuddha, pp of parisujjhati |        | pure, innocent                                 | purified      | √sudh (be pure) |                     | pari + √sudh + ta              |                 |                         |
 
-## dutiyampi pucchāmi, kaccittha parisuddhā,
+## dutiyampi pucchāmi, kaccittha parisuddhā, 
 
 | pāḷi       | pos   | grammar                                       | case   | meaning                                        | meaning_lit   | root            | base                | construction                   | compound_type   | compound_construction   |
 |:-----------|:------|:----------------------------------------------|:-------|:-----------------------------------------------|:--------------|:----------------|:--------------------|:-------------------------------|:----------------|:------------------------|
@@ -92,7 +92,7 @@
 | kaccittha  | comp  | sandhi, ind + adv (or) ind + pr               |        | I trust in this case, (or) I trust you all are |               |                 |                     | kacci + ettha or kacci + attha |                 |                         |
 | parisuddhā | pp    | masc nom pl of parisuddha, pp of parisujjhati |        | pure, innocent                                 | purified      | √sudh (be pure) |                     | pari + √sudh + ta              |                 |                         |
 
-## tatiyampi pucchāmi, kaccittha parisuddhā,
+## tatiyampi pucchāmi, kaccittha parisuddhā, 
 
 | pāḷi       | pos   | grammar                                             | case   | meaning                                        | meaning_lit   | root            | base                | construction                   | compound_type   | compound_construction   |
 |:-----------|:------|:----------------------------------------------------|:-------|:-----------------------------------------------|:--------------|:----------------|:--------------------|:-------------------------------|:----------------|:------------------------|

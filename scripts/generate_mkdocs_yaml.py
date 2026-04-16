@@ -1,72 +1,118 @@
-import os
 import yaml
+import os
+import re
+from pathlib import Path
+from typing import List, Dict, Union, Any
+from tools.printer import printer as pr
 
-def get_title(file_path):
+# Configuration
+DOCS_DIR = Path("docs")
+MKDOCS_YAML = Path("mkdocs.yaml")
+
+def get_first_heading(file_path: Path) -> str:
     """Extracts the first # Heading from a markdown file."""
-    if not os.path.exists(file_path):
-        return os.path.basename(file_path).replace('.md', '').title()
-    with open(file_path, 'r', encoding='utf-8') as f:
+    if not file_path or not file_path.exists():
+        return ""
+    with open(file_path, "r", encoding="utf-8") as f:
         for line in f:
-            if line.startswith('# '):
-                return line.replace('# ', '').strip()
-    return os.path.basename(file_path).replace('.md', '').title()
+            match = re.match(r"^#\s+(.+)$", line)
+            if match:
+                heading = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", match.group(1))
+                return heading.strip()
+    return file_path.stem
 
-def build_nav_section(directory):
-    nav = []
-    if not os.path.exists(directory):
-        return nav
-    # Include index.md first if it exists
-    index_path = os.path.join(directory, 'index.md')
-    if os.path.exists(index_path):
-        nav.append({'Index': index_path.replace('docs/', '')})
+def is_digit_prefixed(name: str) -> bool:
+    return bool(re.match(r"^\d+", name))
+
+def get_sort_key(item: Path) -> int:
+    """Extracts leading digit for sorting, or 9999 if no digit."""
+    match = re.match(r"^(\d+)", item.name)
+    if match:
+        return int(match.group(1))
+    return 9999
+
+def get_nav_for_dir(dir_path: Path, is_root: bool = False) -> Union[List[Any], Dict[str, str]]:
+    """Recursively builds navigation list for a directory."""
     
-    files = sorted([f for f in os.listdir(directory) if f.endswith('.md') and f != 'index.md'])
-    for f in files:
-        file_path = os.path.join(directory, f)
-        title = get_title(file_path)
-        nav.append({title: file_path.replace('docs/', '')})
-    return nav
+    # Get all children that start with a digit
+    digit_children = sorted([
+        item for item in dir_path.iterdir() 
+        if is_digit_prefixed(item.name) and not item.name.startswith(".")
+    ], key=get_sort_key)
 
-config = {
-    'site_name': 'SBS DhammaVinaya Learning Tools',
-    'site_url': 'https://sasanarakkha.github.io/study-tools/',
-    'docs_dir': 'docs',
-    'site_dir': 'site',
-    'theme': {
-        'name': 'material',
-        'language': 'en',
-        'custom_dir': 'identity',
-        'font': {'text': False, 'code': False},
-        'palette': [
-            {'media': '(prefers-color-scheme: light)', 'scheme': 'default', 'primary': 'brown', 'accent': 'orange', 'toggle': {'icon': 'material/brightness-7', 'name': 'Switch to dark mode'}},
-            {'media': '(prefers-color-scheme: dark)', 'scheme': 'slate', 'primary': 'brown', 'accent': 'orange', 'toggle': {'icon': 'material/brightness-4', 'name': 'Switch to light mode'}}
-        ],
-        'features': [
-            'navigation.tabs',
-            'navigation.tabs.sticky',
-            'navigation.top',
-            'navigation.indexes',
-            'content.code.copy',
-            'hide.generator'
-        ]
-    },
-    'markdown_extensions': ['attr_list', {'toc': {'permalink': True}}, 'tables', 'md_in_html', 'nl2br'],
-    'plugins': ['search'],
-    'extra_css': ['sbs.css'],
-    'nav': [
-        {'Home': 'index.md'},
-        {'Pre-Pāli Study': 'pre-pali-study.md'},
-        {'Dictionaries': build_nav_section('docs/dict')},
-        {'Pātimokkha': 'patimokkha.md'},
-        {'Bhikkhu Pātimokkha': build_nav_section('docs/bhikkhu_patimokkha')},
-        {'Anki Decks': build_nav_section('docs/anki-decks')},
-        {'Pāli Class': build_nav_section('docs/pali-class')},
-        {'SBS-PER Analysis': 'sbs-per-analysis.md'},
-        {'Notebook LM': 'notebook_lm.md'}
-    ]
-}
+    # Get non-digit markdown files (excluding index.md)
+    non_digit_md = sorted([
+        item for item in dir_path.iterdir()
+        if item.is_file() and item.suffix == ".md" and not is_digit_prefixed(item.name)
+        and item.name != "index.md" and not item.name.startswith(".")
+    ])
 
-print("Generating mkdocs.yaml...")
-with open('mkdocs.yaml', 'w', encoding='utf-8') as f:
-    yaml.dump(config, f, sort_keys=False, allow_unicode=True)
-print("Done.")
+    # Combine for the full list of content
+    all_children = digit_children + non_digit_md
+
+    # Promotion Logic: If NOT root and exactly one child in total
+    if not is_root and len(all_children) == 1:
+        child = all_children[0]
+        if child.is_file() and child.suffix == ".md":
+            title = get_first_heading(child)
+            return {title: str(child.relative_to(DOCS_DIR))}
+        elif child.is_dir():
+            return get_nav_for_dir(child, is_root=False)
+
+    items = []
+    # If root, we handle Home separately, otherwise we might include index.md as first item
+    index_file = dir_path / "index.md"
+    
+    # Use digit children first, then non-digit
+    for child in digit_children:
+        if child.is_file() and child.suffix == ".md":
+            title = get_first_heading(child)
+            items.append({title: str(child.relative_to(DOCS_DIR))})
+        elif child.is_dir():
+            sub_res = get_nav_for_dir(child, is_root=False)
+            if isinstance(sub_res, dict):
+                items.append(sub_res)
+            elif sub_res:
+                child_index = child / "index.md"
+                title = get_first_heading(child_index) if child_index.exists() else child.name.split("-", 1)[-1].replace("-", " ").title()
+                if child_index.exists():
+                    items.append({title: [str(child_index.relative_to(DOCS_DIR))] + sub_res})
+                else:
+                    items.append({title: sub_res})
+            elif (child / "index.md").exists():
+                child_index = child / "index.md"
+                items.append({get_first_heading(child_index): str(child_index.relative_to(DOCS_DIR))})
+
+    for child in non_digit_md:
+        title = get_first_heading(child)
+        items.append({title: str(child.relative_to(DOCS_DIR))})
+
+    return items
+
+def main():
+    pr.green("Updating mkdocs.yaml navigation")
+    
+    with open(MKDOCS_YAML, "r", encoding="utf-8") as f:
+        config = yaml.safe_load(f)
+
+    # Build nav recursively from root
+    new_nav = [{"Home": "index.md"}]
+    root_items = get_nav_for_dir(DOCS_DIR, is_root=True)
+    if isinstance(root_items, list):
+        new_nav.extend(root_items)
+    else:
+        new_nav.append(root_items)
+
+    config["nav"] = new_nav
+
+    class MyDumper(yaml.SafeDumper):
+        def increase_indent(self, flow=False, indentless=False):
+            return super(MyDumper, self).increase_indent(flow, False)
+
+    with open(MKDOCS_YAML, "w", encoding="utf-8") as f:
+        yaml.dump(config, f, Dumper=MyDumper, allow_unicode=True, sort_keys=False, default_flow_style=False)
+    
+    pr.yes("ok")
+
+if __name__ == "__main__":
+    main()

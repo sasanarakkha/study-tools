@@ -46,7 +46,7 @@
 | kaccittha  | comp  | sandhi, ind + adv (or) ind + pr               |        | I trust in this case, (or) I trust you all are |               |                 |                     | kacci + ettha or kacci + attha |                 |                         |
 | parisuddhā | pp    | masc nom pl of parisuddha, pp of parisujjhati |        | pure, innocent                                 | purified      | √sudh (be pure) |                     | pari + √sudh + ta              |                 |                         |
 
-## tatiyampi pucchāmi, kaccittha parisuddhā,
+## tatiyampi pucchāmi, kaccittha parisuddhā, 
 
 | pāḷi       | pos   | grammar                                       | case   | meaning                                        | meaning_lit   | root            | base                | construction                   | compound_type   | compound_construction   |
 |:-----------|:------|:----------------------------------------------|:-------|:-----------------------------------------------|:--------------|:----------------|:--------------------|:-------------------------------|:----------------|:------------------------|

@@ -12,5 +12,5 @@ Made for aiding the memorization of the Pātimokkha, based on the book "The Bhik
 
 ## Maintenance
 
-- [How to Update Your Decks](updating.md)
-- [Special Fields Add-on](special-fields.md)
+- [How to Update Your Decks](general/updating.md)
+- [Special Fields Add-on](general/special-fields.md)

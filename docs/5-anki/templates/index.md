@@ -2,11 +2,11 @@
 
 Here the names correspond the names of the Note Type in Anki Decks
 
-![Manage Note Types](../assets/images/anki/manage-note-types-b.png)
+![Manage Note Types](../../assets/images/anki/manage-note-types-b.png)
 
 [Styling](styling.md) is the same for all Types of Notes, only for [Pātimokkha word by word](pat-styling.md) it is different.
 
-![Verify Note Type](../assets/images/anki/card-settings-check-b.png)
+![Verify Note Type](../../assets/images/anki/card-settings-check-b.png)
 
 ## For Pali Class
 

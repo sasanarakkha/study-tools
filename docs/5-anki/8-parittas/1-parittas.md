@@ -20,5 +20,5 @@ For easier memorization, can be helpful to use audio of those chants.
 
 ## Maintenance
 
-- [How to Update Your Decks](updating.md)
-- [Special Fields Add-on](special-fields.md)
+- [How to Update Your Decks](../general/updating.md)
+- [Special Fields Add-on](../general/special-fields.md)
