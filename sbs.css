@@ -1,0 +1,86 @@
+:root, [data-md-color-scheme="default"], [data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #593E26 !important;
+  --md-primary-fg-color--light: #7A5C43 !important;
+  --md-primary-fg-color--dark: #3D2614 !important;
+  --md-accent-fg-color: #593E26 !important;
+  --md-typeset-a-color: #593E26 !important;
+}
+
+:root {
+  --md-text-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --md-code-font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+.md-header { background-color: #593E26 !important; }
+.md-tabs   { background-color: #4A3018 !important; }
+.md-nav__link--active { color: #593E26 !important; }
+.md-typeset a:hover   { color: #7A5C43 !important; }
+
+/* Compact header height */
+:root {
+    --md-header-height: 26px !important;
+}
+
+.md-header {
+    height: var(--md-header-height) !important;
+}
+
+.md-header__inner {
+    height: var(--md-header-height) !important;
+    padding: 0 0.4rem !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.md-header__title {
+    margin-left: 0.8rem !important;
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.md-header__ellipsis,
+.md-header__topic,
+.md-header__topic a,
+.md-header__topic .md-ellipsis {
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    line-height: normal !important;
+}
+
+.md-header__topic {
+    font-size: 14px !important;
+}
+
+/* Ensure the link inside topic looks like plain text */
+.md-header__topic a {
+    color: inherit !important;
+    text-decoration: none !important;
+    width: 100% !important;
+}
+
+.md-header__button.md-logo img {
+    width: 18px !important;
+    height: auto !important;
+}
+
+/* Larger default reading text */
+.md-typeset {
+    font-size: 1.0rem !important;
+}
+
+.md-typeset td, 
+.md-typeset th {
+    font-size: 1.0rem !important;
+}
+
+/* Typography feel */
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+/* Hide the site logo in the header */
+.md-header__button.md-logo {
+    display: none !important;
+}
