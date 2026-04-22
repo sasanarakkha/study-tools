@@ -1,20 +1,33 @@
-:root, [data-md-color-scheme="default"], [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #593E26 !important;
-  --md-primary-fg-color--light: #7A5C43 !important;
-  --md-primary-fg-color--dark: #3D2614 !important;
-  --md-accent-fg-color: #593E26 !important;
-  --md-typeset-a-color: #593E26 !important;
+:root,
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #593e26 !important;
+    --md-primary-fg-color--light: #7a5c43 !important;
+    --md-primary-fg-color--dark: #3d2614 !important;
+    --md-accent-fg-color: #593e26 !important;
+    --md-typeset-a-color: #593e26 !important;
 }
 
 :root {
-  --md-text-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  --md-code-font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+    --md-text-font-family:
+        -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
+        Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --md-code-font-family:
+        "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
 }
 
-.md-header { background-color: #593E26 !important; }
-.md-tabs   { background-color: #4A3018 !important; }
-.md-nav__link--active { color: #593E26 !important; }
-.md-typeset a:hover   { color: #7A5C43 !important; }
+.md-header {
+    background-color: #593e26 !important;
+}
+.md-tabs {
+    background-color: #4a3018 !important;
+}
+.md-nav__link--active {
+    color: #593e26 !important;
+}
+.md-typeset a:hover {
+    color: #7a5c43 !important;
+}
 
 /* Compact header height */
 :root {
@@ -67,20 +80,77 @@
 
 /* Larger default reading text */
 .md-typeset {
-    font-size: 1.0rem !important;
+    font-size: 1rem !important;
 }
 
-.md-typeset td, 
+.md-typeset td,
 .md-typeset th {
-    font-size: 1.0rem !important;
+    font-size: 1rem !important;
 }
 
 /* Typography feel */
 body {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-family:
+        "Inter",
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Oxygen-Sans,
+        Ubuntu,
+        Cantarell,
+        "Helvetica Neue",
+        sans-serif;
 }
 
 /* Hide the site logo in the header */
 .md-header__button.md-logo {
     display: none !important;
+}
+
+/* Patimokkha tables */
+.patimokkha-table {
+    display: block !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    border-collapse: collapse !important;
+}
+.patimokkha-table th,
+.patimokkha-table td {
+    border: 1px solid var(--md-typeset-table-color, rgba(0, 0, 0, 0.12)) !important;
+    white-space: nowrap !important;
+}
+.patimokkha-table th {
+    font-weight: bold !important;
+    font-style: italic !important;
+}
+/* grammar column: wrappable, slightly narrower than meaning */
+.patimokkha-table th:nth-child(3),
+.patimokkha-table td:nth-child(3) {
+    white-space: normal !important;
+    min-width: 160px !important;
+    text-align: left !important;
+}
+/* meaning column: prose text, wrappable, left-aligned */
+.patimokkha-table th:nth-child(5),
+.patimokkha-table td:nth-child(5) {
+    white-space: normal !important;
+    min-width: 260px !important;
+    text-align: left !important;
+}
+/* meaning_lit column: left-aligned */
+.patimokkha-table th:nth-child(6),
+.patimokkha-table td:nth-child(6) {
+    text-align: left !important;
+}
+/* root column: wrappable, same size as grammar */
+.patimokkha-table th:nth-child(7),
+.patimokkha-table td:nth-child(7) {
+    white-space: normal !important;
+    min-width: 100px !important;
+    text-align: left !important;
+}
+/* translation rows: bold */
+.patimokkha-translation td {
+    font-weight: bold !important;
 }
