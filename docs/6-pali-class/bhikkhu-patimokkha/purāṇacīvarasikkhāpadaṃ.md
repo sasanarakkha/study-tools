@@ -23,4 +23,4 @@
 | If any monk should cause an unrelated nun, to wash or dye or beat used robe, this is an offence requiring relinquishment and confession |       |                                   |        |                                                           |                   |                               |                       |                         |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](akālacīvarasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](cīvarapaṭiggahaṇasikkhāpadaṃ.md)

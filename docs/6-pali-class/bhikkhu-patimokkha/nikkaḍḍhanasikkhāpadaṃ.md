@@ -20,4 +20,4 @@
 | If any monk, being angry and displeased, should drag out or cause to drag out a monk from a dwelling belonging to the community, there is an offence requiring confession.<br> |       |                                   |        |                                                           |                   |                        |                         |                    |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](anupakhajjasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](vehāsakuṭisikkhāpadaṃ.md)

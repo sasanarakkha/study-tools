@@ -13,4 +13,4 @@
 | karaṇīyā     | noun  | nt abl sg of karaṇīya, ptp of karoti, comp |        | duty; obligation; business; something to be done | to be done    | √kar (do, make) |                 | √kar + aṇīya        |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](ujjhānasaññīsikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](ālopasikkhāpadaṃ.md)

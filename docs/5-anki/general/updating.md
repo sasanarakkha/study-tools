@@ -8,7 +8,7 @@ __! Important !__ Before updating, synchronize your collection across all device
 
 ## Steps to Update
 
-1. Download the latest `.apkg` file for the deck from the [Anki Decks index](../templates/index.md).
+1. Download the latest `.apkg` file for the deck from the [Anki Decks index](../../index.md).
 2. Double-click the downloaded file to import it.
 3. Ensure your import settings match the image below to preserve your learning statistics.
 

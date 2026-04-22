@@ -1,0 +1,3 @@
+- 2026-04-22 [POSITIVE] Identified and fixed orphaned folder (bhikkhu-patimokkha) during review.
+- 2026-04-22 [BEHAVIOR] Maintained data integrity by improving generation scripts instead of manual index edits.
+- 2026-04-22 [WORKFLOW] Recursive index generation is now more inclusive of non-digit folders for sub-indices.

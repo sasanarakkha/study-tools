@@ -25,4 +25,4 @@
 | If any monk should teach the Dhamma to a woman with more than five or six sentences, except with a knowledgeable male human being, there is an offence requiring confession. |       |                                      |        |                                                           |                       |                           |                  |                    |                      |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](dutiyasahaseyyasikkhāpada.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](bhūtārocanasikkhāpadaṃ.md)

@@ -41,4 +41,4 @@
 | If a monk, not adding throughout, a sugata-span of an old rug, should have a new sitting felt made, this is an offence requiring relinquishment and confession. |       |                                     |        |                                                           |                   |                               |                      |                         |                      |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](chabbassasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](eḷakalomasikkhāpadaṃ.md)

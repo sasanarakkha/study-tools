@@ -55,4 +55,4 @@
 | In that case this is the right occasion: the occasion of illness; the occasion of robe offering; the occasion of robe-making; the occasion of going on a road journey; the occasion of boarding on a boat; the great occasion; the occasion of an ascetic meal; this is the right occasion in that case. |       |                                          |        |                                          |                    |                            |                  |                        |                      |                           |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](āvasathapiṇḍasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](paramparabhojanasikkhāpadaṃ.md)

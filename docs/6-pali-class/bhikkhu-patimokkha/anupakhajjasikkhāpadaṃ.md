@@ -34,4 +34,4 @@
 | If any monk, encroaching upon a previously arrived monk, should knowingly make a sleeping place in a dwelling belonging to the community [thinking]: "For whom it is cramped, he will leave,'' having done [it] only for this reason, not another; there is an offence requiring confession. |       |                                   |        |                                                           |                         |                             |                           |                        |                     |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](dutiyasenāsanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](nikkaḍḍhanasikkhāpadaṃ.md)

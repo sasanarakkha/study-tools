@@ -78,4 +78,4 @@
 | a monk taking something what has not been given of such a kind, he is also defeated (and) not in communion. |       |                                             |        |                                   |                     |                    |                           |                          |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](methunadhamma sikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](manussaviggahasikkhāpadaṃ.md)

@@ -40,18 +40,11 @@ def get_nav_for_dir(dir_path: Path, is_root: bool = False) -> Union[List[Any], D
         if is_digit_prefixed(item.name) and not item.name.startswith(".")
     ], key=get_sort_key)
 
-    # Get non-digit markdown files (excluding index.md)
-    non_digit_md = sorted([
-        item for item in dir_path.iterdir()
-        if item.is_file() and item.suffix == ".md" and not is_digit_prefixed(item.name)
-        and item.name != "index.md" and not item.name.startswith(".")
-    ])
-
     # Combine for the full list of content
-    all_children = digit_children + non_digit_md
+    all_children = digit_children
 
-    # Promotion Logic: If NOT root and exactly one child in total
-    if not is_root and len(all_children) == 1:
+    # Promotion Logic: If NOT root and exactly one child in total and NO index.md in this dir
+    if not is_root and len(all_children) == 1 and not (dir_path / "index.md").exists():
         child = all_children[0]
         if child.is_file() and child.suffix == ".md":
             title = get_first_heading(child)
@@ -63,7 +56,7 @@ def get_nav_for_dir(dir_path: Path, is_root: bool = False) -> Union[List[Any], D
     # If root, we handle Home separately, otherwise we might include index.md as first item
     index_file = dir_path / "index.md"
     
-    # Use digit children first, then non-digit
+    # Use digit children first
     for child in digit_children:
         if child.is_file() and child.suffix == ".md":
             title = get_first_heading(child)
@@ -82,10 +75,6 @@ def get_nav_for_dir(dir_path: Path, is_root: bool = False) -> Union[List[Any], D
             elif (child / "index.md").exists():
                 child_index = child / "index.md"
                 items.append({get_first_heading(child_index): str(child_index.relative_to(DOCS_DIR))})
-
-    for child in non_digit_md:
-        title = get_first_heading(child)
-        items.append({title: str(child.relative_to(DOCS_DIR))})
 
     return items
 

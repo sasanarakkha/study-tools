@@ -22,10 +22,7 @@ In addition to all the [features of DPD](https://digitalpalidictionary.github.io
 
 - [Pāli-English Recitations](../6-pali-class/sbs-per-analysis.md): Detailed studies of words from SBS Pāli-English Recitations (e.g. click on [*Tāyana-gāthā*](https://docs.google.com/document/d/14MHZEf2m20r5JaIeGy3wr-tW7y5bFd8097_e1GfGdzQ/)).
 
- 
-<img width="1054" height="447" alt="image" src="../assets/images/additions.png" />
-
-
+ ![DPD SBS screen](../assets/images/additions.png)
 
 This work is based on the [DPD by Ven. Bodhirasa](https://digitalpalidictionary.github.io/), which is a work in progress and regularly updated. For clearer and more accurate information, please install updates regularly.
 

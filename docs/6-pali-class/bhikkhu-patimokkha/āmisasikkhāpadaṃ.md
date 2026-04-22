@@ -22,4 +22,4 @@
 | If any monk should say so: "The elder monks instruct nuns for the sake of material gain," there is an offence requiring confession. |       |                                   |        |                                                           |                     |               |                 |                  |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](bhikkhunūpassayasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](cīvaradānasikkhāpadaṃ.md)

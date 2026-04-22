@@ -74,4 +74,4 @@
 | niṭṭhitā | pp    | pp of niṭṭhāti         |        | finished, complete                   |                    | √ṭhā (stand)          |        | ni + √ṭhā + ita |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](catutthapāṭidesanīyasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](parimaṇḍalasikkhāpadaṃ.md)

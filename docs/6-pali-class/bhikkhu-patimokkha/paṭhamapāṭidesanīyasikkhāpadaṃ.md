@@ -41,4 +41,4 @@
 | paṭidesemi    | verb  | pr 1st sg of paṭideseti       |        | I admit; I acknowledge                     |                  | √dis (teach, explain) | √dis + *e > dese  | pati + dese + ti        |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](pāṭidesanīyā.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](dutiyapāṭidesanīyasikkhāpadaṃ.md)

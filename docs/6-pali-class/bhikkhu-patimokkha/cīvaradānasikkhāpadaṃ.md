@@ -17,4 +17,4 @@
 | If any monk should give a robe [-cloth] to an unrelated nun, apart from exchange, there is an offence requiring confession. |       |                                   |        |                                                           |                   |                     |                     |                       |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](āmisasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](cīvarasibbanasikkhāpadaṃ.md)

@@ -16,4 +16,4 @@
 | The intentional emission of semen, except within a dream is a saṅghādisesa (offence) |       |                                   |        |                                     |                                                                     |                               |        |                         |                    |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](saṅghādisesuddeso.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](kāyasaṃsaggasikkhāpadaṃ.md)

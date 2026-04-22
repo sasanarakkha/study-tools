@@ -57,4 +57,4 @@
 | she who would serve a virtuous, good natured celibate person like me with this act,” concerned with sexual intercourse, is a saṅghādisesa (offence) |       |                                         |        |                                                                    |                                                                     |                        |                 |                      |                               |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](duṭṭhullavācāsikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](sañcarittasikkhāpadaṃ.md)

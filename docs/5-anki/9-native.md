@@ -1,4 +1,4 @@
-## Cloumn for Your Native Language
+# Cloumn for Your Native Language
 
 If English is not your first language, it’s recommended to translate words into your native language. For this, in almost all SBS Anki decks there is an empty field called "native" that you can fill in.
 

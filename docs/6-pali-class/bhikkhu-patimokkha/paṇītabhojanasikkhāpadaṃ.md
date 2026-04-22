@@ -33,7 +33,7 @@
 | - evaṃ          | ind   | adv                               |        | thus, like this, as                                       |                       |                        |                     |                  |                 |                         |
 | - rūpāni        | noun  | nt nom pl of rūpa                 |        | types of, kinds of                                        | forms                 | √rūp (produce)         |                     | √rūp + a         |                 |                         |
 | paṇītabhojanāni | noun  | nt acc pl of paṇītabhojana, comp  |        | fine food; excellent food; delicious food                 | brought forward food  |                        |                     | paṇīta + bhojana | kammadhāraya    | paṇīta + bhojana        |
-| agilāno         | adj   | masc nom sg of agilāna            |        | healthy                                                   | not sick              | √gilā (be sick, tired) |                     | na + √gilā + na  |                 |                         |
+| agilāno         | adj   | masc nom sg of agilāna            |        | is not ill                                                | not sick              | √gilā (be sick, tired) |                     | na + √gilā + na  |                 |                         |
 | attano          | noun  | masc gen sg of atta               |        | of oneself                                                |                       |                        |                     |                  |                 |                         |
 | atthāya         | noun  | masc dat sg of attha              | +gen   | for the sake of; for the purpose of                       |                       | √ar (move, attain)     |                     | √ar + tha        |                 |                         |
 | viññāpetvā      | verb  | abs of viññāpeti                  | +acc   | having requested; having asked                            | having caused to know | √ñā (know)             | √ñā + āpe > ñāpe    | vi + ñāpe + tvā  |                 |                         |
@@ -41,4 +41,4 @@
 | pācittiyaṃ      | noun  | nt nom sg of pācittiya            | +loc   | offence requiring confession, offence involving expiation |                       |                        |                     |                  |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](sannidhikārakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](dantaponasikkhāpadaṃ.md)

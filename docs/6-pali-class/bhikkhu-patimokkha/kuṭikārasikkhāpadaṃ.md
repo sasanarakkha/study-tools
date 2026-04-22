@@ -92,4 +92,4 @@
 | or (if) he would not bring monks for appointing the site, or (if) he would exceed the measurement, it is a saṅghādisesa (offence). |       |                                    |        |                                                |                                                                     |               |                 |                     |                    |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](sañcarittasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](vihārakārasikkhāpadaṃ.md)

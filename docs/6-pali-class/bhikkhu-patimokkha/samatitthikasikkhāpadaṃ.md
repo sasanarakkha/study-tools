@@ -22,4 +22,4 @@
 | tatiyo           | ordin | masc nom sg of tatiya                 |        | third                       |               |        |        | ti > ta + tiya      |                      |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](samasūpakapaṭiggahaṇasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](sakkaccabhuñjanasikkhāpadaṃ.md)

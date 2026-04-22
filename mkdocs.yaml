@@ -30,7 +30,6 @@ theme:
     - navigation.top
     - navigation.indexes
     - content.code.copy
-    - hide.generator
 markdown_extensions:
   - attr_list
   - toc:
@@ -40,38 +39,34 @@ markdown_extensions:
   - nl2br
 plugins:
   - search
+hooks:
+  - tools/patimokkha_hook.py
+extra:
+  generator: false
 extra_css:
   - sbs.css
+extra_javascript:
+  - sbs.js
 nav:
   - Home: index.md
   - 'Foundation in Dhamma-Vinaya: Pre-Pāli Study': 1-pre-pali-study.md
   - SBS Pāḷi-English Recitations: 2-sbs-book.md
   - Pāṭimokkha Book: 3-patimokkha.md
-  - Digital Pāḷi Dictionary with SBS examples: 4-dictionaries/sbs-pali-dictionary.md
+  - Dictionaries: 4-dictionaries/index.md
   - Anki Decks:
       - 5-anki/index.md
       - SBS Pāḷi-English Vocab: 5-anki/1-sbs/1-sbs-vocab.md
-      - Patimokkha:
-          - Pātimokkha Word By Word: 5-anki/2-patimokkha/1-patimokkha-word-by-word.md
-          - Review or study words that meet specific criteria: 5-anki/2-patimokkha/custom-study.md
+      - Pātimokkha Word By Word: 5-anki/2-patimokkha/1-patimokkha-word-by-word.md
       - Pātimokkha memorization: 5-anki/3-patimokkha-learning.md
       - Bhikkhu Vibhaṅga Pāli: 5-anki/4-vibhanga/1-vibhanga.md
-      - Dhp:
-          - DHP Vocab: 5-anki/5-dhp/1-dhp-vocab.md
-          - 'Recomended way of studying this deck:': 5-anki/5-dhp/study-ways.md
+      - DHP Vocab: 5-anki/5-dhp/1-dhp-vocab.md
       - Suttas Advanced Pāli Class: 5-anki/6-suttas/1-sutta-advanced.md
-      - Daily_Chants:
-          - SBS Daily Chanting - Anki Deck: 5-anki/7-daily_chants/1-sbs-daily-chanting.md
-          - Text for Anki deck SBS Daily Chanting Sentences.: 5-anki/7-daily_chants/sbs-daily-chanting-text.md
+      - SBS Daily Chanting - Anki Deck: 5-anki/7-daily_chants/1-sbs-daily-chanting.md
       - Parittas: 5-anki/8-parittas/1-parittas.md
-      - 9-native: 5-anki/9-native.md
-      - Dps:
-          - Пали Словарь: 5-anki/10-dps/1-ru-pali-vocab.md
-          - ru-test: 5-anki/10-dps/ru-test.md
+      - Cloumn for Your Native Language: 5-anki/9-native.md
+      - Пали Словарь: 5-anki/10-dps/1-ru-pali-vocab.md
   - Pali Classes:
       - 6-pali-class/index.md
       - '**Advanced Pāli Education**': 6-pali-class/1-pali-class-adv.md
       - '**Pātimokkha Word By Word class**': 6-pali-class/2-patimokkha-class.md
-      - '**Analysis of SBS Pāḷi-English Recitations**': 6-pali-class/sbs-per-analysis.md
-      - '**Exersises of sentences from SBS Pāḷi-English Recitations**': 6-pali-class/sbs-per-ex.md
   - Notebook LM: 7-notebook-lm.md

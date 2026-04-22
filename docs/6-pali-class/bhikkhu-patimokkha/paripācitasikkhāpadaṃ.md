@@ -22,4 +22,4 @@
 | If any monk should knowingly eat alms-food which a nun has caused to be prepared, apart from previous initiative of the householder, there is an offence requiring confession.<br> |       |                                          |        |                                                           |                       |                    |                     |                        |                        |                          |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](nāvābhirūhanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](rahonisajjasikkhāpadaṃ.md)

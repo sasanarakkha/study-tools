@@ -20,4 +20,4 @@
 | If any monk, having himself requested the thread, should make cloth-makers weave a robe-cloth, this is an offence requiring relinquishment and confession. |       |                                        |        |                                                           |                               |                               |                     |                         |                      |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](cīvaraacchindanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](mahāpesakārasikkhāpadaṃ.md)

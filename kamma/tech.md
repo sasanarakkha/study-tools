@@ -3,9 +3,14 @@
 ## Tools & Platforms
 
 - **Static site generator:** MkDocs with Material theme
-- **Python:** 3.12+ with uv, pandas, openpyxl, tabulate
+- **Python:** 3.12+ with uv, pandas, openpyxl, tabulate, beautifulsoup4
 - **Hosting:** GitHub Pages
 - **CI/CD:** GitHub Actions
+
+## Build Workflow
+
+1. Run `bash scripts/web_preprocessing.sh` to generate indices, update navigation, and localize assets.
+2. Run `uv run mkdocs build` to generate the static site.
 
 ## Who This Is For
 

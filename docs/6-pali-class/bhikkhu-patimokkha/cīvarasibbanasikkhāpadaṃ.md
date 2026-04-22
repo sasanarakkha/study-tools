@@ -18,4 +18,4 @@
 | If any monk should sew or cause to sew a robe for an unrelated nun, there is an offence requiring confession. |       |                                   |        |                                                           |                   |               |                           |                       |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](cīvaradānasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](saṃvidhānasikkhāpadaṃ.md)

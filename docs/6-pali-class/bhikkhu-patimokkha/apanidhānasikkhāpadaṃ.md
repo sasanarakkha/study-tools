@@ -46,4 +46,4 @@
 | chaṭṭho       | ordin | masc nom sg of chaṭṭha             |        | sixth (6th)                    |                  |                       |        | cha + ṭṭha       |                      |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](vikappanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](sañciccasikkhāpadaṃ.md)

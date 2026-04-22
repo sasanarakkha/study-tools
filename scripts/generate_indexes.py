@@ -43,11 +43,11 @@ def generate_index_for_dir(dir_path: Path, is_root: bool = False) -> Optional[Tu
         and not item.name.startswith(".")
     ], key=get_sort_key)
 
-    if not digit_children and not is_root:
+    if not digit_children and not is_root and not (dir_path / ".header.md").exists():
         return None
 
-    # Promotion Logic: If NOT root and exactly one digit child
-    if not is_root and len(digit_children) == 1:
+    # Promotion Logic: If NOT root and exactly one digit child and NO .header.md in this dir
+    if not is_root and len(digit_children) == 1 and not (dir_path / ".header.md").exists():
         child = digit_children[0]
         if child.is_file() and child.suffix == ".md":
             return get_first_heading(child), os.path.relpath(child, dir_path.parent)
@@ -89,8 +89,6 @@ def generate_index_for_dir(dir_path: Path, is_root: bool = False) -> Optional[Tu
     with open(index_file, "w", encoding="utf-8") as f:
         f.write("\n".join(content) + "\n")
     
-    print(f"Generated {index_file}")
-    
     # Return info for parent
     dir_title = get_first_heading(index_file)
     return dir_title, os.path.join(dir_path.name, "index.md")
@@ -98,17 +96,10 @@ def generate_index_for_dir(dir_path: Path, is_root: bool = False) -> Optional[Tu
 def main():
     pr.green("Generating index pages")
     
-    # Generate root index first
+    # Generate root index first (which will recursively generate all others)
     generate_index_for_dir(DOCS_DIR, is_root=True)
     
-    # Then recursively for subdirectories
-    count = 1
-    for item in DOCS_DIR.iterdir():
-        if item.is_dir() and is_digit_prefixed(item.name):
-            if generate_index_for_dir(item):
-                count += 1
-    
-    pr.yes(f"{count} files")
+    pr.yes("ok")
 
 if __name__ == "__main__":
     main()

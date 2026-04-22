@@ -9,7 +9,7 @@
 | vā            | ind   | conj                                       |        | or, either or                                    |                       |                        |                  |                   |                 |                         |
 | odanaṃ        | noun  | nt acc sg of odana                         |        | rice                                             | wet, boiled           | √ud (be wet)           |                  | √ud > od + *ana   |                 |                         |
 | vā            | ind   | conj                                       |        | or, either or                                    |                       |                        |                  |                   |                 |                         |
-| agilāno       | adj   | masc nom sg of agilāna                     |        | healthy                                          | not sick              | √gilā (be sick, tired) |                  | na + √gilā + na   |                 |                         |
+| agilāno       | adj   | masc nom sg of agilāna                     |        | is not ill                                       | not sick              | √gilā (be sick, tired) |                  | na + √gilā + na   |                 |                         |
 | attano        | noun  | masc dat sg of atta                        |        | for oneself                                      |                       |                        |                  |                   |                 |                         |
 | atthāya       | noun  | masc dat sg of attha                       | +gen   | for the sake of; for the purpose of              |                       | √ar (move, attain)     |                  | √ar + tha         |                 |                         |
 | viññāpetvā    | verb  | abs of viññāpeti                           | +acc   | having requested; having asked                   | having caused to know | √ñā (know)             | √ñā + āpe > ñāpe | vi + ñāpe + tvā   |                 |                         |
@@ -18,4 +18,4 @@
 | karaṇīyā      | noun  | nt abl sg of karaṇīya, ptp of karoti, comp |        | duty; obligation; business; something to be done | to be done            | √kar (do, make)        |                  | √kar + aṇīya      |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](odanapaṭicchādanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](ujjhānasaññīsikkhāpadaṃ.md)

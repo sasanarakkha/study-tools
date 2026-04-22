@@ -10,23 +10,22 @@ Here the names correspond the names of the Note Type in Anki Decks
 
 ## For Pali Class
 
-- Pali Class Vocab: [Front]()|[Back]()
+- Pali Class Vocab: [Front](class-front.md)|[Back](class-back.md)
 - Pali Class Grammar: 
-- - Forth: [Front]()|[Back]()
-- - Back: [Front]()|[Back]() 
-- Pali Class Abbrev: [Front]()|[Back]()
+- - Forth: [Front](grammar-gramm-forth-front.md)|[Back](grammar-gramm-forth-back.md)
+- - Back: [Front](grammar-gramm-back-front.md)|[Back](grammar-gramm-back-back.md) 
+- Pali Class Abbrev: [Front](grammar-abbrev-front.md)|[Back](grammar-abbrev-back.md)
 - Pali Class Sandhi:
-- - Forth: [Front]()|[Back]()
-- - Back: [Front]()|[Back]() 
-- Common Roots: [Front]()|[Back]()
-- Roots Class: [Front]()|[Back]()
-- Phonetic Class: [Front]()|[Back]()
+- - Forth: [Front](grammar-sandhi-forth-front.md)|[Back](grammar-sandhi-forth-back.md)
+- - Back: [Front](grammar-sandhi-back-front.md)|[Back](grammar-sandhi-back-back.md) 
+- Common Roots: [Front](common-roots-front.md)|[Back](common-roots-back.md)
+- Roots Class: [Front](roots-front.md)|[Back](roots-back.md)
+- Phonetic Class: [Front](phonetic-class-front.md)|[Back](phonetic-class-back.md)
 
 ## Other Decks
 
-- SBS Vocab: [Front]()|[Back]()
-- Pātimokkha word by word: [Front]()|[Back]()
-- DHP Vocab: [Front]()|[Back]()
-- Vibhanga: [Front]()|[Back]()
-- Advanced Suttas: [Front]()|[Back]()
-- Paritta: [Front]()|[Back]()
+- SBS Vocab: [Front](sbs-front.md)|[Back](sbs-back.md)
+- Pātimokkha word by word: [Front](pat-front.md)|[Back](pat-back.md)
+- DHP Vocab: [Front](dhp-front.md)|[Back](dhp-back.md)
+- Vibhanga: [Front](vibhanga-front.md)|[Back](vibhanga-back.md)
+- Advanced Suttas: [Front](suttas-front.md)|[Back](suttas-back.md)

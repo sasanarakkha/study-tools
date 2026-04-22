@@ -104,4 +104,4 @@
 | or whatever that female lay-follower whose words can be trusted would say, with that the monk is to be dealt with. This is too an uncertain case. |       |                                     |        |                                                    |                              |                 |                         |                     |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](paṭhamaaniyatasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](nissaggiyapācittiyā.md)

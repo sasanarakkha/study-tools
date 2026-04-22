@@ -41,7 +41,7 @@ def generate_index(sources: list[dict], output_dir: Path) -> None:
         lines.append(f"- [{s['abbrev']} {s['source']}]({s['source']}.md)")
     (output_dir / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
-def generate_rule_page(source: dict, df: pd.DataFrame, output_dir: Path) -> None:
+def generate_rule_page(source: dict, df: pd.DataFrame, output_dir: Path, sources: list[dict], idx: int) -> None:
     rule, abbrev = source["source"], source["abbrev"]
     rule_df = df[df["source"] == rule]
     lines = [f"# {abbrev} {rule}\n"]
@@ -57,7 +57,12 @@ def generate_rule_page(source: dict, df: pd.DataFrame, output_dir: Path) -> None
         lines.append(sent_df.to_markdown(index=False))
         lines.append("")
     
-    lines.append(f"\n[← Home](index.md) | [Feedback]({FEEDBACK_URL})")
+    prev_link = f"[← previous]({sources[idx - 1]['source']}.md)" if idx > 0 else ""
+    index_link = "[index](index.md)"
+    feedback_link = f"[Feedback]({FEEDBACK_URL})"
+    next_link = f"[next →]({sources[idx + 1]['source']}.md)" if idx < len(sources) - 1 else ""
+    nav_parts = [p for p in [prev_link, index_link, feedback_link, next_link] if p]
+    lines.append(f"\n{' | '.join(nav_parts)}")
     (output_dir / f"{rule}.md").write_text("\n".join(lines), encoding="utf-8")
 
 def main() -> None:
@@ -77,8 +82,8 @@ def main() -> None:
     df = load_data(xlsx_path)
     sources = get_sources(df)
     generate_index(sources, output_dir)
-    for source in sources:
-        generate_rule_page(source, df, output_dir)
+    for idx, source in enumerate(sources):
+        generate_rule_page(source, df, output_dir, sources, idx)
     print(f"Generated index.md + {len(sources)} rule pages -> {output_dir}")
 
 if __name__ == "__main__":

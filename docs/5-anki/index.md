@@ -16,5 +16,5 @@ You can find the date of the latest update for all decks on the [release GitHub 
 - [Suttas Advanced Pāli Class](6-suttas/1-sutta-advanced.md)
 - [SBS Daily Chanting - Anki Deck](7-daily_chants/1-sbs-daily-chanting.md)
 - [Parittas](8-parittas/1-parittas.md)
-- [9-native](9-native.md)
+- [Cloumn for Your Native Language](9-native.md)
 - [Пали Словарь](10-dps/1-ru-pali-vocab.md)

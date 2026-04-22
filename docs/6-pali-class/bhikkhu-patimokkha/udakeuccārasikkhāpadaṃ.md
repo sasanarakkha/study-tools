@@ -6,7 +6,7 @@
 |:------------|:------|:-------------------------------------------|:-------|:-------------------------------------------------|:--------------|:-----------------------|:-------|:---------------------|:----------------|:------------------------|
 | na          | ind   | neg                                        |        | not                                              |               |                        |        |                      |                 |                         |
 | udake       | noun  | nt loc sg of udaka                         |        | in water                                         |               | √ud (be wet)           |        | √ud + aka            |                 |                         |
-| agilāno     | adj   | masc nom sg of agilāna                     |        | healthy                                          | not sick      | √gilā (be sick, tired) |        | na + √gilā + na      |                 |                         |
+| agilāno     | adj   | masc nom sg of agilāna                     |        | is not ill                                       | not sick      | √gilā (be sick, tired) |        | na + √gilā + na      |                 |                         |
 | uccāraṃ     | noun  | masc acc sg of uccāra                      |        | excrement                                        | discharge     | √car (walk, behave)    |        | ud + √car + *a       |                 |                         |
 | vā          | ind   | conj                                       |        | or, either or                                    |               |                        |        |                      |                 |                         |
 | passāvaṃ    | noun  | masc acc sg of passāva                     |        | urine                                            | flowing out   | √su (go, flow)         |        | pa + √su  > sav + *a |                 |                         |
@@ -27,4 +27,4 @@
 | sattamo     | ordin | masc nom sg of sattama             |        | seventh (7th)       |               |                 |        | satta + ma      |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](hariteuccārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](adhikaraṇasamathā.md)

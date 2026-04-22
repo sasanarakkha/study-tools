@@ -19,11 +19,11 @@ Before importing, you must ensure your local field names exactly match the curre
 
 ![Manage Note Types](../../assets/images/anki/manage-note-types-b.png)
 
-Compare your current field list with the [most recent list](../field-lists/index.md) associated with the deck you’re updating.
+Compare your current field list with the [most recent list](../../index.md) associated with the deck you’re updating.
 
 ## Step 3: Check Card Settings
 
-Ensure your **Front Template**, **Back Template**, and **Styling** match the [latest versions](../templates/index.md).
+Ensure your **Front Template**, **Back Template**, and **Styling** match the [latest versions](../../index.md).
 
 ![Verify Note Type](../../assets/images/anki/card-settings-check-b.png)
 
@@ -42,4 +42,4 @@ After importing, don't forget to [remove outdated words](updating.md#removing-ou
 
 ---
 
-Back to [Anki Decks Overview](../templates/index.md).
+Back to [Anki Decks Overview](../../index.md).

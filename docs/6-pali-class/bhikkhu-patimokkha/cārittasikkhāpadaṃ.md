@@ -37,4 +37,4 @@
 | samayo           | noun  | masc nom sg of samaya                 |        | the right time, proper occasion | come together | √i (come, go) |        | saṃ + √i > ay + *a     |                    |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](rahonisajjasikkhāpadaṃ 2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](mahānāmasikkhāpadaṃ.md)

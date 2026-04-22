@@ -28,4 +28,4 @@
 | If any monk should sit down hard or lie down hard on a bed or seat with detachable legs on the upper-floor of a hut belonging to the community, there is an offence requiring confession. |       |                                     |        |                                                           |                         |                          |                   |                        |                 |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](nikkaḍḍhanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](mahallakavihārasikkhāpadaṃ.md)

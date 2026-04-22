@@ -252,4 +252,4 @@
 | (if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence). |       |                                                          |        |                                                   |                                                                     |                              |                              |                            |                   |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](dubbacasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](aniyatuddeso.md)

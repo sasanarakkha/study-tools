@@ -33,4 +33,4 @@
 | aniggataratanake | adj   | masc loc sg of aniggataratanaka, loc abs, comp |        | when the queen has not gone out | in jewel not gone |        |        | na + niggata + ratanaka | kammadhāraya    | aniggata + ratanaka     |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](pariṇāmanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](ratanasikkhāpadaṃ.md)

@@ -15,6 +15,7 @@ These Learning Tools are licensed under a [Creative Commons Attribution-NonComme
 - [Foundation in Dhamma-Vinaya: Pre-Pāli Study](1-pre-pali-study.md)
 - [SBS Pāḷi-English Recitations](2-sbs-book.md)
 - [Pāṭimokkha Book](3-patimokkha.md)
+- [Dictionaries](4-dictionaries/index.md)
 - [Anki Decks](5-anki/index.md)
 - [Pali Classes](6-pali-class/index.md)
 - [Notebook LM](7-notebook-lm.md)

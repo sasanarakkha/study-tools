@@ -28,4 +28,4 @@
 | When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, even for one night if a monk should stay apart from the three robes, apart from permission from the monks, this is an offence requiring relinquishment and confession |       |                                          |        |                                                            |                        |                               |          |                         |                    |                         |
 
 
-[← Home](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url)
+[← previous](kaṭhinasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](akālacīvarasikkhāpadaṃ.md)
