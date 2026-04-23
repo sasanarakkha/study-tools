@@ -1,18 +1,18 @@
 # Maggasaṃyutta Saṃyutta (SN 45)
 
-[SN45.2 upaḍḍhasutta](#sn452-upaḍḍhasutta)
+[SN45.2 upaḍḍhasutta](#sn452-upaddhasutta)
 
 [SN45.5 kimatthiyasutta](#sn455-kimatthiyasutta)
 
-[SN45.8 vibhaṅgasutta](#sn458-vibhaṅgasutta)
+[SN45.8 vibhaṅgasutta](#sn458-vibhangasutta)
 
-[SN45.24 dutiyapaṭipadāsutta](#sn4524-dutiyapaṭipadāsutta)
+[SN45.24 dutiyapaṭipadāsutta](#sn4524-dutiyapatipadasutta)
 
-[SN45.49 kalyāṇamittasutta](#sn4556-kalyāṇamittasutta)
+[SN45.49 kalyāṇamittasutta](#sn4556-kalyanamittasutta)
 
-[SN45.91 paṭhamapācīnaninnasutta](#sn4591-paṭhamapācīnaninnasutta)
+[SN45.91 paṭhamapācīnaninnasutta](#sn4591-pathamapacinaninnasutta)
 
-[SN45.160 nadīsutta](#sn45160-nadīsutta)
+[SN45.160 nadīsutta](#sn45160-nadisutta)
 
 Please make line by line translation. Breaking all sandhi and comp (naming type of comp). And fill the construction of verbs and participles in the last column
 

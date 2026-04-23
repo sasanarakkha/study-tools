@@ -1,34 +1,34 @@
 # Saḷāyatana Saṃyutta (SN 35)
 
-[SN 35.24 Pahānasutta](#sn-3524-pahānasutta)
+[SN 35.24 Pahānasutta](#sn-3524-pahanasutta)
 
-[SN 35.28 Ādittasutta](#sn-3528-ādittasutta)
+[SN 35.28 Ādittasutta](#sn-3528-adittasutta)
 
-[SN 35.53 Avijjāpahānasutta](#sn-3553-avijjāpahānasutta)
+[SN 35.53 Avijjāpahānasutta](#sn-3553-avijjapahanasutta)
 
-[SN 35.60 Sabbupādānapariññāsutta](#sn-3560-sabbupādānapariññāsutta)
+[SN 35.60 Sabbupādānapariññāsutta](#sn-3560-sabbupadanaparinnasutta)
 
-[SN 35.70 upavāṇasandiṭṭhikasutta](#sn-3570-upavāṇasandiṭṭhikasutta)
+[SN 35.70 upavāṇasandiṭṭhikasutta](#sn-3570-upavanasanditthikasutta)
 
-[SN 35.85 suññatalokasutta](#sn-3585-suññatalokasutta)
+[SN 35.85 suññatalokasutta](#sn-3585-sunnatalokasutta)
 
 [SN 35.93 dutiyadvayasutta](#sn-3593-dutiyadvayasutta)
 
-[SN 35.118 Sakkapañhasutta](#sn-35118-sakkapañhasutta)
+[SN 35.118 Sakkapañhasutta](#sn-35118-sakkapanhasutta)
 
-[SN 35.136 paṭhamarūpārāmasutta](#sn-35136-paṭhamarūpārāmasutta)
+[SN 35.136 paṭhamarūpārāmasutta](#sn-35136-pathamaruparamasutta)
 
-[SN 35.228 paṭhamasamuddasutta](#sn-35228-paṭhamasamuddasutta)
+[SN 35.228 paṭhamasamuddasutta](#sn-35228-pathamasamuddasutta)
 
-[SN 35.230 bāḷisikopamasutta](#sn-35230-bāḷisikopamasutta)
+[SN 35.230 bāḷisikopamasutta](#sn-35230-balisikopamasutta)
 
-[SN 35.232 Koṭṭhikasutta](#sn-35232-koṭṭhikasutta)
+[SN 35.232 Koṭṭhikasutta](#sn-35232-kotthikasutta)
 
-[SN 35.241 paṭhamadārukkhandhopamasutta](#sn-35241-paṭhamadārukkhandhopamasutta)
+[SN 35.241 paṭhamadārukkhandhopamasutta](#sn-35241-pathamadarukkhandhopamasutta)
 
-[SN 35.246 Vīṇopamasutta](#sn-35246-vīṇopamasutta)
+[SN 35.246 Vīṇopamasutta](#sn-35246-vinopamasutta)
 
-[SN 35.247 Chappāṇakopamasutta](#sn-35247-chappāṇakopamasutta)
+[SN 35.247 Chappāṇakopamasutta](#sn-35247-chappanakopamasutta)
 
 Please make line by line translation. Breaking all sandhi and comp (naming type of comp). And fill the construction of verbs and participles in the last column
 

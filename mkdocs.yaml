@@ -39,6 +39,9 @@ markdown_extensions:
   - nl2br
 plugins:
   - search
+validation:
+  nav:
+    omitted_files: ignore
 hooks:
   - tools/patimokkha_hook.py
 extra:

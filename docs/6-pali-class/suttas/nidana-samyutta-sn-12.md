@@ -1,24 +1,24 @@
 # Nidāna Saṃyutta (SN 12)
 
-[SN 12.1 Paṭiccasamuppādasutta](#sn-121-paṭiccasamuppādasutta)
+[SN 12.1 Paṭiccasamuppādasutta](#sn-121-paticcasamuppadasutta)
 
 [SN 12.10 Gotamasutta](#sn-1210-gotamasutta)
 
-[SN 12.12 Moḷiyaphaggunasutta](#sn-1212-moḷiyaphaggunasutta)
+[SN 12.12 Moḷiyaphaggunasutta](#sn-1212-moliyaphaggunasutta)
 
-[SN 12.15 Kaccānagottasutta](#sn-1215-kaccānagottasutta)
+[SN 12.15 Kaccānagottasutta](#sn-1215-kaccanagottasutta)
 
 [SN 12.20 Paccayasutta](#sn-1220-paccayasutta)
 
 [SN 12.22 dutiyadasabalasutta](#sn-1222-dutiyadasabalasutta)
 
-[SN 12.41 Pañcaverabhayasutta](#sn-1241-pañcaverabhayasutta)
+[SN 12.41 Pañcaverabhayasutta](#sn-1241-pancaverabhayasutta)
 
-[SN 12.51 Parivīmaṃsanasutta](#sn-1251-parivīmaṃsanasutta)
+[SN 12.51 Parivīmaṃsanasutta](#sn-1251-parivimamsanasutta)
 
-[SN 12.55 Mahārukkhasutta](#sn-1255-mahārukkhasutta)
+[SN 12.55 Mahārukkhasutta](#sn-1255-maharukkhasutta)
 
-[SN 12.61 Assutavāsutta](#sn-1261-assutavāsutta)
+[SN 12.61 Assutavāsutta](#sn-1261-assutavasutta)
 
 [SN 12.65 Nagarasutta](#sn-1265-nagarasutta)
 

@@ -2,15 +2,15 @@
 
 [SN46.1 himavantasutta](#sn461-himavantasutta)
 
-[SN46.2 kāyasutta](#sn462-kāyasutta)
+[SN46.2 kāyasutta](#sn462-kayasutta)
 
-[SN46.3 sīlasutta](#sn463-sīlasutta)
+[SN46.3 sīlasutta](#sn463-silasutta)
 
 [SN46.5 bhikkhusutta](#sn465-bhikkhusutta)
 
-[SN46.6 kuṇḍaliyasutta](#sn466-kuṇḍaliyasutta)
+[SN46.6 kuṇḍaliyasutta](#sn466-kundaliyasutta)
 
-[SN46.14 paṭhamagilānasutta](#sn4614-paṭhamagilānasutta)
+[SN46.14 paṭhamagilānasutta](#sn4614-pathamagilanasutta)
 
 [SN46.53 aggisutta](#sn4653-aggisutta)
 

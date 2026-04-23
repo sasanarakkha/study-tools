@@ -4,33 +4,33 @@
 
 [SN 22.18 Sahetu-aniccasutta](#sn-2218-sahetu-aniccasutta)
 
-[SN 22.23 Pariññasutta](#sn-2223-pariññasutta)
+[SN 22.23 Pariññasutta](#sn-2223-parinnasutta)
 
-[SN 22.24 Abhijānasutta](#sn-2224-abhijānasutta)
+[SN 22.24 Abhijānasutta](#sn-2224-abhijanasutta)
 
-[SN 22.26 Assādasutta](#sn-2226-assādasutta)
+[SN 22.26 Assādasutta](#sn-2226-assadasutta)
 
-[SN 22.28 tatiyāssādasutta](#sn-2228-tatiyāssādasutta)
+[SN 22.28 tatiyāssādasutta](#sn-2228-tatiyassadasutta)
 
-[SN 22.33 Natumhākaṃsutta](#sn-2233-natumhākaṃsutta)
+[SN 22.33 Natumhākaṃsutta](#sn-2233-natumhakamsutta)
 
-[SN 22.58 Sammāsambuddhasutta](#sn-2258-sammāsambuddhasutta)
+[SN 22.58 Sammāsambuddhasutta](#sn-2258-sammasambuddhasutta)
 
-[SN 22.59 Anattalakkhaṇasutta](#sn-2259-anattalakkhaṇasutta)
+[SN 22.59 Anattalakkhaṇasutta](#sn-2259-anattalakkhanasutta)
 
-[SN 22.63 Upādiyamānasutta](#sn-2263-upādiyamānasutta)
+[SN 22.63 Upādiyamānasutta](#sn-2263-upadiyamanasutta)
 
-[SN 22.71 Rādhasutta](#sn-2271-rādhasutta)
+[SN 22.71 Rādhasutta](#sn-2271-radhasutta)
 
-[SN 22.78 Sīhasutta](#sn-2278-sīhasutta)
+[SN 22.78 Sīhasutta](#sn-2278-sihasutta)
 
-[SN 22.82 Puṇṇamasutta](#sn-2282-puṇṇamasutta)
+[SN 22.82 Puṇṇamasutta](#sn-2282-punnamasutta)
 
 [SN 22.94 Pupphasutta](#sn-2294-pupphasutta)
 
-[SN 22.95 Pheṇapiṇḍūpamasutta](#sn-2295-pheṇapiṇḍūpamasutta)
+[SN 22.95 Pheṇapiṇḍūpamasutta](#sn-2295-phenapindupamasutta)
 
-[SN 22.102 Aniccasaññāsutta](#sn-22102-aniccasaññāsutta)
+[SN 22.102 Aniccasaññāsutta](#sn-22102-aniccasannasutta)
 
 Please make line by line translation. Breaking all sandhi and comp (naming type of comp). And fill the construction of verbs and participles in the last column
 

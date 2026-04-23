@@ -1,40 +1,40 @@
 # Sacca Saṃyutta (SN 56)
 
-[SN 56.1 samādhisutta](#sn-561-samādhisutta)
+[SN 56.1 samādhisutta](#sn-561-samadhisutta)
 
-[SN 56.5 paṭhamasamaṇabrāhmaṇasutta](#sn-565-paṭhamasamaṇabrāhmaṇasutta)
+[SN 56.5 paṭhamasamaṇabrāhmaṇasutta](#sn-565-pathamasamanabrahmanasutta)
 
 [SN 56.7 Vitakkasutta](#sn-567-vitakkasutta)
 
 [SN 56.13 Khandhasutta](#sn-5613-khandhasutta)
 
-[SN 56.21 paṭhamakoṭigāmasutta](#sn-5621-paṭhamakoṭigāmasutta)
+[SN 56.21 paṭhamakoṭigāmasutta](#sn-5621-pathamakotigamasutta)
 
-[SN 56.25 Āsavakkhayasutta](#sn-5625-āsavakkhayasutta)
+[SN 56.25 Āsavakkhayasutta](#sn-5625-asavakkhayasutta)
 
 [SN 56.27 Tathasutta](#sn-5627-tathasutta)
 
 [SN 56.28 Lokasutta](#sn-5628-lokasutta)
 
-[SN 56.29 Pariññeyyasutta](#sn-5629-pariññeyyasutta)
+[SN 56.29 Pariññeyyasutta](#sn-5629-parinneyyasutta)
 
-[SN 56.31 sīsapāvanasutta](#sn-5631-sīsapāvanasutta)
+[SN 56.31 sīsapāvanasutta](#sn-5631-sisapavanasutta)
 
-[SN 56.33 Daṇḍasutta](#sn-5633-daṇḍasutta)
+[SN 56.33 Daṇḍasutta](#sn-5633-dandasutta)
 
 [SN 56.34 Celasutta](#sn-5634-celasutta)
 
-[SN 56.37 paṭhamasūriyasutta](#sn-5637-paṭhamasūriyasutta)
+[SN 56.37 paṭhamasūriyasutta](#sn-5637-pathamasuriyasutta)
 
-[SN 56.38 dutiyasūriyasutta](#sn-5638-dutiyasūriyasutta)
+[SN 56.38 dutiyasūriyasutta](#sn-5638-dutiyasuriyasutta)
 
-[SN 56.42 Papātasutta](#sn-5642-papātasutta)
+[SN 56.42 Papātasutta](#sn-5642-papatasutta)
 
-[SN 56.44 Kūṭāgārasutta](#sn-5644-kūṭāgārasutta)
+[SN 56.44 Kūṭāgārasutta](#sn-5644-kutagarasutta)
 
-[SN 56.47 paṭhamachiggaḷayugasutta](#sn-5647-paṭhamachiggaḷayugasutta)
+[SN 56.47 paṭhamachiggaḷayugasutta](#sn-5647-pathamachiggalayugasutta)
 
-[SN 56.49 paṭhamasinerupabbatarājasutta](#sn-5649-paṭhamasinerupabbatarājasutta)
+[SN 56.49 paṭhamasinerupabbatarājasutta](#sn-5649-pathamasinerupabbatarajasutta)
 
 Please make line by line translation. Breaking all sandhi and comp (naming type of comp). And fill construction of verbs and participles on the last column
 

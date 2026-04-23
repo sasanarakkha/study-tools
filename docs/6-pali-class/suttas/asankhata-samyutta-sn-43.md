@@ -1,8 +1,8 @@
 # Asaṅkhata Saṃyutta (SN 43)
 
-[SN 43.1 asaṅkhatasutta](#sn-431-asaṅkhatasutta)
+[SN 43.1 asaṅkhatasutta](#sn-431-asankhatasutta)
 
-[SN 43.3 - 43 anatasutta etc](#sn-4314---43-anatasutta-etc)
+[SN 43.3 - 43 anatasutta etc](#sn-4314-43-anatasutta-etc)
 
 Please make line by line translation. Breaking all sandhi and comp (naming type of comp). And fill the construction of verbs and participles in the last column
 

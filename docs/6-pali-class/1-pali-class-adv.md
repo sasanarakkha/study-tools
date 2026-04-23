@@ -18,9 +18,9 @@ Anki Deck - [SBS Pāḷi-English Vocab](../5-anki/1-sbs/1-sbs-vocab.md) (incluad
 
 ---
 
-- [Exersises on the pubbakicca Dhammayuttika](https://docs.google.com/document/d/1QYOPRLT0jDjBrPS5AuqvFo1gn3FJKkYdbNbcq88ibnA/)
+- [Exersises on the pubbakicca Dhammayuttika](sbs-per-analysis/pubbakicca-analysis.md)
 
-- [Key to pubbakicca Dhammayuttika](https://docs.google.com/document/d/1z4B3TELrZlVemxP_gB0ciampFTIOS5hL/)
+- [Key to pubbakicca Dhammayuttika](sbs-per-analysis/pubbakicca-analysis.md)
 
 ---
 
@@ -28,9 +28,9 @@ Anki Deck - [SBS Pāḷi-English Vocab](../5-anki/1-sbs/1-sbs-vocab.md) (incluad
 
 ---
 
-- [Key to MN 107 gaṇakamoggallānasuttaṁ](https://docs.google.com/document/d/1oW92myGIHzLypzNQGQPa0YeTGDfVq_Aogre8sLTRQuM/)
+- [Key to MN 107 gaṇakamoggallānasuttaṁ](suttas/mn-107-ganakamoggallanasuttam.md)
 
-- [Exersises on MN 107 gaṇakamoggallānasuttaṁ](https://docs.google.com/document/d/1kG7DPHLKYlzYdzEQboyYlGJed1cx7zm1LaVU6Qp5Jro/edit?usp=sharing)
+- [Exersises on MN 107 gaṇakamoggallānasuttaṁ](suttas/mn-107-ganakamoggallanasuttam.md)
 
 There is an Anki Deck - [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.apkg) which includes MN 107 and other suttas listed next. Or [update deck from csv](https://digitalpalidictionary.github.io/dpd-pali-courses/anki/) if you already using one.
 
@@ -38,23 +38,23 @@ There is an Anki Deck - [Suttas Advanced Pāli Class](https://github.com/sasanar
 
 Detailed analysis of those sutta passages can be found in the **Reading the Buddha’s Discourses in Pāli** by Venerable Bhikkhu Bodhi.
 
-1) Compilation from  Sacca Saṁyutta [(SN 56)](https://docs.google.com/document/d/1QvmDByxRI4hMT3C8EqrafaGoXC5HA_8kRn730-VtKjY/)
+1) Compilation from  Sacca Saṁyutta [(SN 56)](suttas/sacca-samyutta-sn-56.md)
 
-2) Compilation from  Khandha Saṁyutta [(SN 22)](https://docs.google.com/document/d/1kt-OP0fUHEjR4pmc72ZljK8XD9oirssI1fMvfTvOhKw/)
+2) Compilation from  Khandha Saṁyutta [(SN 22)](suttas/khandha-samyutta-sn-22.md)
 
-3) Compilation from  Saḷāyatana Saṁyutta [(SN 35)](https://docs.google.com/document/d/1uyOA--pUQlHTzs1GWFQHorXkeVkwBEmJdWmPMBWoBXc/)
+3) Compilation from  Saḷāyatana Saṁyutta [(SN 35)](suttas/salayatana-samyutta-sn-35.md)
 
-4) Compilation from  Nidāna Saṁyutta [(SN 12)](https://docs.google.com/document/d/1rSgxc6Hg8Pt63nU1fdG8j7QpobBRYbeDEE9KoZ9c6UQ/)
+4) Compilation from  Nidāna Saṁyutta [(SN 12)](suttas/nidana-samyutta-sn-12.md)
 
 5) Compilation from:  
 
-* Satipaṭṭhāna Saṁyutta [(SN 47)](https://docs.google.com/document/d/1h-Xhkskz1-gchNBDG08QQJ-AqUs-sIimSBnDizvMibQ/)
+* Satipaṭṭhāna Saṁyutta [(SN 47)](suttas/satipatthana-samyutta-sn-47.md)
 
-* Bojjhaṅgasaṃyutta Saṃyutta [(SN 46)](https://docs.google.com/document/d/11674RA0aMFbJuzdJ8LpVQIb3FRXRuoVRuWZ7IPA70Xc/)
+* Bojjhaṅgasaṃyutta Saṃyutta [(SN 46)](suttas/bojjhangasamyutta-samyutta-sn-46.md)
 
-* Maggasaṃyutta Saṃyutta [(SN 45)](https://docs.google.com/document/d/1Efn0qcwgBoVdtx9GfU9Ia9lQYwMgYAjNvDyUVH9RlnM/)
+* Maggasaṃyutta Saṃyutta [(SN 45)](suttas/maggasamyutta-samyutta-sn-45.md)
 
-6) Compilation from  Asaṅkhata Saṁyutta [(SN 43)](https://docs.google.com/document/d/1yDVS30Mha1T5cQ0-AkDW0_LJ2QhDU-3tdrBq7byKJ5w/)
+6) Compilation from  Asaṅkhata Saṁyutta [(SN 43)](suttas/asankhata-samyutta-sn-43.md)
 
 ---
 
@@ -68,15 +68,15 @@ Can be found in the class folder on the server:
 
 `\\FILESRV1\share1\Sharing between users\13 For Pāli class\Extra Reading\`
 
-Draft of the [class material](https://docs.google.com/document/d/1QMX_yuH9uJeTEfg3ItetlI5RVsPGlj0Q1XUstHXRLZo/).
+Draft of the [class material](draft-advanced-pali-course.md).
 
 ---
 
-- [Key to Exercises 30 - 39](https://docs.google.com/document/d/1VoFPr2jqJbQEQgT_UbuhxpzHM_H_mqX3BCy3vMdqiUc/)
+- [Key to Exercises 30 - 39](advanced/apc-key-to-exercises-30-39.md)
 
-- [Key to Exercises 40 - 50](https://docs.google.com/document/d/1c5E1-xA5OEKOC_myMBqVzdcEkoyiqfurAphMLz7JmnQ/)
+- [Key to Exercises 40 - 50](advanced/apc-key-to-exercises-40-50.md)
 
-- [Key to idioms and difficult passages](https://docs.google.com/document/d/18IBPFP0zs3ngEV-Ps5MmiGwaFtuz_2r3AqsZBlksPIQ/)
+- [Key to idioms and difficult passages](advanced/apc-key-to-idioms.md)
 
 ---
 

@@ -1,20 +1,20 @@
 # Satipaṭṭhāna Saṃyutta (SN 47)
 
-[SN47.1 Ambapālisutta](#sn471-ambapālisutta)
+[SN47.1 Ambapālisutta](#sn471-ambapalisutta)
 
 [SN47.2 Satisutta](#sn472-satisutta)
 
-[SN47.4 Sālasutta](#sn474-sālasutta)
+[SN47.4 Sālasutta](#sn474-salasutta)
 
-[SN47.7 Makkaṭasutta](#sn477-makkaṭasutta)
+[SN47.7 Makkaṭasutta](#sn477-makkatasutta)
 
-[SN47.9 Gilānasutta](#sn479-gilānasutta)
+[SN47.9 Gilānasutta](#sn479-gilanasutta)
 
 [SN47.19 Sedakasutta](#sn4719-sedakasutta)
 
-[SN47.20 Janapadakalyāṇīsutta](#sn4720-janapadakalyāṇīsutta)
+[SN47.20 Janapadakalyāṇīsutta](#sn4720-janapadakalyanisutta)
 
-[SN47.29 Sirivaḍḍhasutta](#sn4729-sirivaḍḍhasutta)
+[SN47.29 Sirivaḍḍhasutta](#sn4729-sirivaddhasutta)
 
 Please make line by line translation. Breaking all sandhi and comp (naming type of comp). And fill the construction of verbs and participles in the last column
 
