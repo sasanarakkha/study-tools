@@ -9,7 +9,7 @@ Please make line by line translation. Breaking all sandhi and comp (naming type 
 example:
 
 | ID | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
-| ---- | -------------- | ---- | ------------- | ------------------- | ---------------------- |
+| --- | --- | --- | --- | --- | --- |
 
 ## SN 43.1 asaṅkhatasutta
 
@@ -18,7 +18,7 @@ asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ. taṃ s
 iti kho, bhikkhave, desitaṃ vo mayā asaṅkhataṃ, desito asaṅkhatagāmimaggo. yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā. etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanīti.
 
 | 9320 | asaṅkhataṃ | | | | |
-| -------- | -------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 9322 | asaṅkhatagāmiṃ | | | | |
 | 9321 | asaṅkhatagāmimaggo | | | | |
 | 21148 | kāyagatāsati | | | | |
@@ -45,7 +45,7 @@ anāsavañca vo, bhikkhave, desessāmi anāsavagāmiñca maggaṃ. taṃ suṇā
 “suddhiñca vo, bhikkhave, desessāmi suddhigāmiñca maggaṃ. taṃ suṇātha. katamā ca, bhikkhave, suddhi ... pe ... muttiñca vo, bhikkhave, desessāmi muttigāmiñca maggaṃ. taṃ suṇātha. katamā ca, bhikkhave, mutti ... pe ... anālayañca vo, bhikkhave, desessāmi anālayagāmiñca maggaṃ. taṃ suṇātha. katamo ca, bhikkhave, anālayo ... pe ... dīpañca vo, bhikkhave, desessāmi dīpagāmiñca maggaṃ. taṃ suṇātha. katamañca, bhikkhave, dīpaṃ ... pe ... leṇañca vo, bhikkhave, desessāmi leṇagāmiñca maggaṃ. taṃ suṇātha. katamañca, bhikkhave, leṇaṃ ... pe ... tāṇañca vo, bhikkhave, desessāmi tāṇagāmiñca maggaṃ. taṃ suṇātha. katamañca, bhikkhave, tāṇaṃ ... pe ... saraṇañca vo, bhikkhave, desessāmi saraṇagāmiñca maggaṃ. taṃ suṇātha. katamañca, bhikkhave, saraṇaṃ ... pe ...anusāsanīti?
 
 | 3518 | anataṃ | | | | |
-| ------- | ---------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 3519 | anatagāmiṃ | | | | |
 | 4053 | anāsavaṃ | | | | |
 | 37406 | nipuṇaṃ | | | | |
@@ -84,7 +84,7 @@ anāsavañca vo, bhikkhave, desessāmi anāsavagāmiñca maggaṃ. taṃ suṇā
 “parāyanañca vo, bhikkhave, desessāmi parāyanagāmiñca maggaṃ. taṃ suṇātha. katamañca, bhikkhave, parāyanaṃ? yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo — idaṃ vuccati, bhikkhave, parāyanaṃ. katamo ca, bhikkhave, parāyanagāmī maggo? kāyagatāsati. ayaṃ vuccati, bhikkhave, parāyanagāmimaggo. iti kho, bhikkhave, desitaṃ vo mayā parāyanaṃ, desito parāyanagāmimaggo. yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā. etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanīti.
 
 | 43138 | parāyanaṃ | | | | |
-| ------- | ------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 43141 | parāyanagāmiṃ | | | | |
 | 43140 | parāyanagāmimaggo | | | | |
 |  |  |  |  |  |  |

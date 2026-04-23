@@ -4,9 +4,10 @@
 
 Dvattiṃs'ākāra-paccavekkhaṇa
 
-| [dn 22.5] | | | |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------- | -------------------------------------------- |
-| ayaṃ kho me kāyo uddhaṃ pādatalā adho kesa-matthakā taca-pariyanto pūro nānappakārassa asucino | | | |
+[dn 22.5]
+ayaṃ kho me kāyo uddhaṃ pādatalā adho kesa-matthakā taca-pariyanto pūro nānappakārassa asucino
+
+| --- | --- | --- | --- |
 | ayaṃ | pron | masc.nom.sg | this |
 | kho | ind |  | indeed |
 | me | pron | 1.gen.sg | my |
@@ -14,15 +15,19 @@ Dvattiṃs'ākāra-paccavekkhaṇa
 | uddhaṃ | ind | prep | upwards (+ abl. ) |
 | pādatalā, | noun | nt.abl.sg | from the sole of the foot |
 | adho | ind | prep | downwards (+ abl. ) |
-| kesa- | noun | | hair on head |
+| kesa- | noun |  | hair on head |
 | matthakā, | noun | masc.abl.sg | from the top, head, crown |
-| taca- | noun | | skin |
+| taca- | noun |  | skin |
 | pariyantaṃ | adj | masc.acc.sg | enclosed with, surrounded by, encircled by |
 | pūro | adj | masc.nom.sg | full; full of |
 | nānappakārassa | adj | masc.gen.sg | of various, many different, manifold |
 | asucino | noun | masc.gen.sg | impurity |
-| **indeed this my body from the soles of the feet upwards, from the crown of the head downwards, enclosed with skin and full of various kinds of impurity:** | | | |
-| atthi imasmiṃ kāye kesā lomā nakhā dantā taco, maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ, hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ, antaṃ antaguṇaṃ udariyaṃ karīsaṃ, pittaṃ semhaṃ pubbo lohitaṃ sedo medo, assu vasā kheḷo siṅghāṇikā lasikā muttaṃ, matthaluṅgan'ti | | | |
+
+**indeed this my body from the soles of the feet upwards, from the crown of the head downwards, enclosed with skin and full of various kinds of impurity:**
+
+atthi imasmiṃ kāye kesā lomā nakhā dantā taco, maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ, hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ, antaṃ antaguṇaṃ udariyaṃ karīsaṃ, pittaṃ semhaṃ pubbo lohitaṃ sedo medo, assu vasā kheḷo siṅghāṇikā lasikā muttaṃ, matthaluṅgan'ti
+
+| --- | --- | --- | --- |
 | atthi | verb | pres.3.pl | there are |
 | imasmiṃ | pron | masc.loc.sg | in this |
 | kāye | noun | masc.loc.sg | in body |
@@ -59,9 +64,13 @@ Dvattiṃs'ākāra-paccavekkhaṇa
 | lasikā | noun | fem.nom.sg | synovic fluid |
 | muttaṃ | noun | nt.nom.sg | the urine |
 | matthaluṅgaṃ | noun | nt.nom.sg | brain |
-| **'in this body there are head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, pleura, spleen, lungs, large intestines, small intestines, undigested food, feces, bile, brain, phlegm, pus, blood, sweat, fat, tears, skin-oil, saliva, mucus, fluid in the joints, urine, brain'** | | | |
-| evam-ayaṃ me kāyo uddhaṃ pādatalā adho kesamatthakā | | | |
-| tacapariyanto pūro nānappakārassa asucino | | | |
-| **like this indeed this my body from the soles of the feet upwards, from the crown of the head downwards, enclosed with skin and full of various kinds of impurity:** | | | |
+
+**'in this body there are head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, pleura, spleen, lungs, large intestines, small intestines, undigested food, feces, bile, brain, phlegm, pus, blood, sweat, fat, tears, skin-oil, saliva, mucus, fluid in the joints, urine, brain'**
+
+evam-ayaṃ me kāyo uddhaṃ pādatalā adho kesamatthakā
+tacapariyanto pūro nānappakārassa asucino
+
+**like this indeed this my body from the soles of the feet upwards, from the crown of the head downwards, enclosed with skin and full of various kinds of impurity:**
+
 
 next chant \> [Recollection of Impermanence](https://docs.google.com/document/d/1d59_2DrZ1axq39iXItJaI17oPnUd-tZ_8Heebu0bo9c/)

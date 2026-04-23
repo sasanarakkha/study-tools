@@ -19,7 +19,7 @@ Please make line by line translation. Breaking all sandhi and comp (naming type 
 example:
 
 | ID | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
-| ---- | -------------- | ---- | ------------- | ------------------- | ---------------------- |
+| --- | --- | --- | --- | --- | --- |
 
 ## SN45.2 upaḍḍhasutta
 
@@ -32,7 +32,7 @@ kathañcānanda, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅk
 tadamināpetaṃ, ānanda, pariyāyena veditabbaṃ yathā sakalamevidaṃ brahmacariyaṃ, yadidaṃ , kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā. mamañhi, ānanda, kalyāṇamittaṃ āgamma jātidhammā sattā jātiyā parimuccanti; jarādhammā sattā jarāya parimuccanti; maraṇadhammā sattā maraṇena parimuccanti; sokaparidevadukkhadomanassupāyāsadhammā sattā sokaparidevadukkhadomanassupāyāsehi parimuccanti. iminā kho etaṃ, ānanda, pariyāyena veditabbaṃ yathā sakalamevidaṃ brahmacariyaṃ, yadidaṃ , kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatāti.
 
 | 56524 | sakyesu | | | | |
-| -------- | ----------------------------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 35407 | nagarakaṃ | | | | |
 | 15590 | upaḍḍhaṃ | | | | |
 | 20667 | kalyāṇamittatā | | | | |
@@ -69,7 +69,7 @@ sace vo, bhikkhave, aññatitthiyā paribbājakā evaṃ puccheyyuṃ, atthi pan
 katamo ca, bhikkhave, maggo, katamā paṭipadā etassa dukkhassa pariññāyāti? ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ , sammādiṭṭhi ... sammāsamādhi. ayaṃ, bhikkhave, maggo, ayaṃ paṭipadā etassa dukkhassa pariññāyāti. evaṃ puṭṭhā tumhe, bhikkhave, tesaṃ aññatitthiyānaṃ paribbājakānaṃ evaṃ byākareyyāthāti.
 
 | 60558 | sambahulā | | | | |
-| -------- | --------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 21756 | kimatthiyaṃ | | | | |
 | 2751 | \#atthiyaṃ | | | | |
 | 70121 | vussati | | | | |
@@ -118,7 +118,7 @@ pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena
 sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati , ayaṃ vuccati, bhikkhave, sammāsamādhīti.
 
 | 38719 | nekkhammasaṅkappo | | | | |
-| -------- | ------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 38708 | \#nekkhamma | | | | |
 | 56595 | \#saṅkappo | | | | |
 | 7434 | abyāpādasaṅkappo | | | | |
@@ -156,7 +156,7 @@ gihino vāhaṃ, bhikkhave, pabbajitassa vā sammāpaṭipadaṃ vaṇṇemi. gi
 katamā ca, bhikkhave, sammāpaṭipadā? seyyathidaṃ , sammādiṭṭhi ... sammāsamādhi. ayaṃ vuccati, bhikkhave, sammāpaṭipadā. gihino vāhaṃ, bhikkhave, pabbajitassa vā sammāpaṭipadaṃ vaṇṇemi. gihi vā, bhikkhave, pabbajito vā sammāpaṭipanno sammāpaṭipattādhikaraṇahetu ārādhako hoti ñāyaṃ dhammaṃ kusalanti.
 
 | 67055 | vāhaṃ | | | | |
-| ----------------- | ------------------------------ | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 42476 | pabbajitassa | | | | |
 | 52614 | micchāpaṭipadaṃ | | | | |
 | 65962 | vaṇṇemi | | | | |
@@ -183,7 +183,7 @@ sūriyassa, bhikkhave, udayato etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, ya
 kathañca, bhikkhave, bhikkhu kalyāṇamitto ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti? idha, bhikkhave, bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ ... sammāsamādhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. evaṃ kho, bhikkhave, bhikkhu kalyāṇamitto ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarotīti.
 
 | 64759 | sūriyassa | | | | |
-| -------- | ----------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 14967 | udayato | | | | |
 | 20675 | kalyāṇamittassetaṃ | | | | |
 | 45303 | pāṭikaṅkhaṃ | | | | |
@@ -209,7 +209,7 @@ SN45.103 paṭhamapācīnaninnasutta
 kathañca, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? idha, bhikkhave, bhikkhu sammādiṭṭhiṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ ... sammāsamādhiṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ. evaṃ kho, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāroti.
 
 | 45261 | pācīnaninnā | | | | |
-| -------- | ---------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 75646 | \#pācīna | | | | |
 | | \#ninna | | | | |
 | 45263 | pācīnapoṇā | | | | |
@@ -234,7 +234,7 @@ so vata, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariy
 kathañca, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti? idha, bhikkhave, bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ ... sammāsamādhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ ... evaṃ kho, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarotīti.
 
 | 39608 | pacchāninnaṃ | | | | |
-| ------- | --------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 39602 | \#pacchā | | | | |
 | 63395 | sukarā | | | | |
 | 21842 | kilamathassa | | | | |

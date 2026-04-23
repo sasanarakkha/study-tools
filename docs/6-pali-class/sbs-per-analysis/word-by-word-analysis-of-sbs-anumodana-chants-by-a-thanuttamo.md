@@ -1,6 +1,6 @@
-Word-by-word analysis of SBS Anumodana Chants by Ā. Thanuttamo
+# Word-by-word analysis of SBS Anumodana Chants by Ā. Thanuttamo
 
-# **Abbreviations**
+## **Abbreviations**
 
 abs. absolute construction
 
@@ -58,9 +58,9 @@ sg. singular number
 
 vb. verb
 
-# **Recitation (1)**
+## **Recitation (1)**
 
-## **Pāḷi Text (1)**
+### **Pāḷi Text (1)**
 
 **(a)** *yathā vārivahā pūrā*
 
@@ -96,7 +96,7 @@ vb. verb
 
 *āyu vaṇṇo sukhaṁ balaṁ.*
 
-## **Translation (1)**
+### **Translation (1)**
 
 **(a)** Just as the rivers full,
 
@@ -132,7 +132,7 @@ Four things [will] increase,
 
 Duration of life, beauty, happiness and strength.
 
-## **Grammatical Analysis (1)**
+### **Grammatical Analysis (1)**
 
 **(a)**
 
@@ -268,9 +268,9 @@ compound used substantively).
 
 *balaṁ*:   (“strength” – neutr. n. nom. sg.)
 
-# **Recitation (2)**
+## **Recitation (2)**
 
-## **Pāḷi Text (2)**
+### **Pāḷi Text (2)**
 
 *[ratanattayānubhāvena]*
 
@@ -296,7 +296,7 @@ compound used substantively).
 
 *jīvasiddhī bhavantu te.*
 
-## **Translation (2)**
+### **Translation (2)**
 
 Through the power and splendor of the Triple Gem,
 
@@ -316,7 +316,7 @@ Lifespans that are hundred years and successes in live –
 
 May they be yours!
 
-## **Grammatical Analysis (2)**
+### **Grammatical Analysis (2)**
 
 *ratanattayānubhāvena*:  (“by the power of the triple gem” [*ratanaṃ* + *taya* + *ānubhāvena*] –
 
@@ -390,9 +390,9 @@ nominal compound).
 
 *te*:    (“for you” – second pers. pers. pron. dative. sg.)
 
-# **Recitation (3)**
+## **Recitation (3)**
 
-## **Pāḷi Text (3)**
+### **Pāḷi Text (3)**
 
 *āyudo balado dhīro,*
 
@@ -410,7 +410,7 @@ nominal compound).
 
 *yattha yatthūpapajjatīti.*
 
-## **Translation (3)**
+### **Translation (3)**
 
 The wise life-giver, strength-giver
 
@@ -428,7 +428,7 @@ He is long-lived and famous
 
 Wherever he is reborn.
 
-## **Grammatical Analysis (3)**
+### **Grammatical Analysis (3)**
 
 *āyudo*:    (“the one who gives life” [*āyu* + *do*, i.e. root *dā*] – m. n. nom. sg.)
 
@@ -480,9 +480,9 @@ Wherever he is reborn.
 
 third pers. act. sg.)
 
-# **Recitation (4)**
+## **Recitation (4)**
 
-## **Pāḷi Text (4)**
+### **Pāḷi Text (4)**
 
 **(a)** *[sabbabuddhānubhāvena] sabbadhammānubhāvena sabbasaṅghānubhāvena*
 
@@ -538,7 +538,7 @@ third pers. act. sg.)
 
 *jīvasiddhī bhavantu te.*
 
-## **Translation (4)**
+### **Translation (4)**
 
 **(a)** Through the power of all the Buddhas, the power of all Dhammas [and] the power of all Saṅghas,
 
@@ -572,7 +572,7 @@ Lifespans that are hundred years and successes in live –
 
 May they be yours!
 
-## **Grammatical Analysis (4)**
+### **Grammatical Analysis (4)**
 
 **(a)**
 
@@ -730,9 +730,9 @@ nominal compound).
 
 *te*:    (“for you” – second pers. pers. pron. dative. sg.)
 
-# **Recitation (5)**
+## **Recitation (5)**
 
-## **Pāḷi Text (5)**
+### **Pāḷi Text (5)**
 
 **(a)** *[aggato ve pasannānaṁ]*
 
@@ -766,7 +766,7 @@ nominal compound).
 
 *aggappatto pamodatīti.* (AN 4, 34)
 
-## **Translation (5)**
+### **Translation (5)**
 
 **(a)** Truly, by those who have confidence in the supreme,
 
@@ -801,7 +801,7 @@ Having become a heavenly being or a human,
 
 Rejoices, having attained the supreme.
 
-## **Grammatical Analysis (5)**
+### **Grammatical Analysis (5)**
 
 **(a)**
 

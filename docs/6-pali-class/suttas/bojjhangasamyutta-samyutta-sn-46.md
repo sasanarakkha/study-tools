@@ -19,7 +19,7 @@ Please make line by line translation. Breaking all sandhi and comp (naming type 
 example:
 
 | ID | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
-| ---- | -------------- | ---- | ------------- | ------------------- | ---------------------- |
+| --- | --- | --- | --- | --- | --- |
 
 ## SN46.1 himavantasutta
 
@@ -32,7 +32,7 @@ kathañca, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya satta bojj
 evaṃ kho, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto mahantattaṃ vepullattaṃ pāpuṇāti dhammesūti.
 
 | 38325 | nissāya | | | | |
-| ---------------- | --------------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 36030<br>36031 | nāgā | | | | |
 | 47973 | balaṃ | | | | |
 | 24874 | gāhenti | | | | |
@@ -111,7 +111,7 @@ seyyathāpi, bhikkhave, ayaṃ kāyo āhāraṭṭhitiko, āhāraṃ paṭicca t
 seyyathāpi, bhikkhave, ayaṃ kāyo āhāraṭṭhitiko, āhāraṃ paṭicca tiṭṭhati, anāhāro no tiṭṭhati; evameva kho, bhikkhave, ime satta bojjhaṅgā āhāraṭṭhitikā, āhāraṃ paṭicca tiṭṭhanti, anāhārā no tiṭṭhantīti.
 
 | 13231 | āhāraṭṭhitiko | | | | |
-| -------- | ------------------------------ | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | | \#āhārena | | | | |
 | 29117 | \#ṭhitiko | | | | |
 | 4099 | anāhāro | | | | |
@@ -189,7 +189,7 @@ taṃ kissa hetu? tathārūpānaṃ, bhikkhave, bhikkhūnaṃ dhammaṃ sutvā d
 7 so tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti. yasmiṃ samaye, bhikkhave, bhikkhu tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti, upekkhāsambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti; upekkhāsambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti; upekkhāsambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanāpāripūriṃ gacchati.
 
 | 63211 | sīlasampannā | | | | |
-| -------- | ---------------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 59668 | samādhisampannā | | | | |
 | 28880 | ñāṇasampannā | | | | |
 | 68744 | vimuttisampannā | | | | |
@@ -231,7 +231,7 @@ bodhāya saṃvattantīti kho, bhikkhu, tasmā ‘bojjhaṅgā’ti vuccanti. id
 tassime satta bojjhaṅge bhāvayato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati. vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti. bodhāya saṃvattantīti, bhikkhu, tasmā ‘bojjhaṅgā’ti vuccantīti.
 
 | 69618 | vivekanissitaṃ | | | | |
-| -------- | ------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 68879 | virāganissitaṃ | | | | |
 | 38108 | nirodhanissitaṃ | | | | |
 | 70644 | vossaggapariṇāmiṃ | | | | |
@@ -290,7 +290,7 @@ kathaṃ bhāvitā ca, kuṇḍaliya, satta bojjhaṅgā kathaṃ bahulīkatā v
 esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatanti.
 
 | 62055 | sākete | | | | |
-| -------- | -------------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1470 | añjanavane | | | | |
 | 1465 | \#añjana | | | | |
 | 22282 | kuṇḍaliyo | | | | |
@@ -361,7 +361,7 @@ taggha, bhagavā, bojjhaṅgā; taggha, sugata, bojjhaṅgāti.
 idamavoca bhagavā. attamano āyasmā mahākassapo bhagavato bhāsitaṃ abhinandi. vuṭṭhahi cāyasmā mahākassapo tamhā ābādhā. tathāpahīno cāyasmato mahākassapassa so ābādho ahosīti.
 
 | 51668 | mahākassapo | | | | |
-| -------- | ---------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 46161 | pippaliguhāyaṃ | | | | |
 | 46160 | \#pippali | | | | |
 | | \#guhāyaṃ | | | | |
@@ -411,7 +411,7 @@ evameva kho, bhikkhave, yasmiṃ samaye uddhataṃ cittaṃ hoti, kālo tasmiṃ
 6 satiñca khvāhaṃ, bhikkhave, sabbatthikaṃ vadāmīti.
 
 | 18200 | evaṃvādino | | | | |
-| -------- | ------------------- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1524 | aññatitthiyā | | | | |
 | | \#añña | | | | |
 | | \#titthiya | | | | |

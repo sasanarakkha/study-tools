@@ -28,111 +28,132 @@
 
 ## Class 30
 
-| 1 DHP 118 | | | |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------- | ----------------------------------------------------------------------- |
-|  |  |  |  |
-| puññañce puriso **kayirā**, **kayirāth**enaṃ punappunaṃ.<br>tamhi chandaṃ **kayirātha**, sukho puññassa uccayo. | | | |
-|  |  |  |  |
+1 DHP 118
+
+puññañce puriso kayirā, kayirāthenaṃ punappunaṃ.
+tamhi chandaṃ kayirātha, sukho puññassa uccayo.
+
+| --- | --- | --- | --- |
 | puññañce | noun | nt.acc.sg | merit; righteousness |
 | puriso | noun | masc.nom.sg | a male; a man |
 | kayirā | verb | opt.3.sg | could do, should make |
-| kayirāthenaṃ | | | |
+| kayirāthenaṃ |  |  |  |
 | \#kayirātha | verb reflx | opt.3.sg | one should make by oneself |
 | \#enaṃ | pron | masc.acc.sg | this |
-| punappunaṃ | ind | | again and again |
-|  |  |  |  |
-| man should make merit, he should make by oneself this again and again | | | |
-|  |  |  |  |
+| punappunaṃ | ind |  | again and again |
+
+**man should make merit, he should make by oneself this again and again**
+
+| --- | --- | --- | --- |
 | tamhi | pron | masc.loc.sg | in that |
 | chandaṃ | noun | nt.acc.sg | impulse; will; wish |
 | kayirātha | verb reflx | opt.3.sg | one should make by oneself |
 | sukho | noun | masc.nom.sg | happiness; ease |
 | puññassa | noun | nt.gen.sg | of merit; righteousness |
 | uccayo | noun | masc.nom.sg | accumulation |
-|  |  |  |  |
-| one should make by oneself wish for that, accumulation of merit is happiness. | | | |
-|  |  |  |  |
-| 2. (KN 6.52) VV 52 | | | |
-|  |  |  |  |
-| sāhaṃ nūna ito gantvā, yoniṃ laddhāna mānusiṃ.<br>vadaññū sīlasampannā, kāhāmi kusalaṃ bahuṃ. | | | |
-|  |  |  |  |
+
+**one should make by oneself wish for that, accumulation of merit is happiness.**
+
+2. (KN 6.52) VV 52
+
+sāhaṃ nūna ito gantvā, yoniṃ laddhāna mānusiṃ.
+vadaññū sīlasampannā, kāhāmi kusalaṃ bahuṃ.
+
+| --- | --- | --- | --- |
 | so | pron | masc.nom.sg | that, he |
-| ahaṃ | pron | 1.nom.sg | I |
-| nūna | ind | | indeed; surely; certainly. |
-| ito | ind | | from here; from now; hence |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
+| nūna | ind |  | indeed; surely; certainly. |
+| ito | ind |  | from here; from now; hence |
 | gantvā | verb | abs | having gone |
 | yoniṃ | noun | fem.acc.sg | conception; birth; womb |
 | laddhāna | verb | abs | having got, received, or attained |
 | mānusiṃ. | adj | fem.acc.sg | human |
-| vadaññū | adj | | lit. "(easily) spoken to," addressable, i. e. liberal bountiful, kind |
-| sīlasampannā | adj | | observing the moral precepts |
+| vadaññū | adj |  | lit. "(easily) spoken to," addressable, i. e. liberal bountiful, kind |
+| sīlasampannā | adj |  | observing the moral precepts |
 | kāhāmi | verb | fut.1.sg | I will do, make |
 | kusalaṃ | noun | nt.acc.sg | good action; merit |
 | bahuṃ. | adj | nt.acc.sg | much; many |
-|  |  |  |  |
-| indeed Im going from here, having got human womb (human existent), liberal and observing the moral precepts, I will make a lot of merit. | | | |
-|  |  |  |  |
-| 3. THI 247. (KN 9.65) | | | |
-|  |  |  |  |
-| mākāsi pāpakaṃ kammaṃ, āvi vā yadi vā raho.<br>sace ca pāpakaṃ kammaṃ, karissasi karosi vā. | | | |
-|  |  |  |  |
+
+**indeed Im going from here, having got human womb (human existent), liberal and observing the moral precepts, I will make a lot of merit.**
+
+3. THI 247. (KN 9.65)
+
+mākāsi pāpakaṃ kammaṃ, āvi vā yadi vā raho.
+sace ca pāpakaṃ kammaṃ, karissasi karosi vā.
+
+| --- | --- | --- | --- |
 | mākāsi | ind+verb | aor.3.sg | do not do |
 | pāpakaṃ | adj | nt.acc.sg | bad, wicked, wretched, sinful |
 | kammaṃ | noun | nt.acc.sg | deed; action; job; work |
-| āvi | ind | | openly; before ones eyes |
-| vā | ind | | or |
-| yadi | ind | | and even |
-| vā | ind | | or |
-| raho. | ind | | secretly; in secret |
-| sace | ind | | if |
+| āvi | ind |  | openly; before ones eyes |
+| vā | ind |  | or |
+| yadi | ind |  | and even |
+| vā | ind |  | or |
+| raho. | ind |  | secretly; in secret |
+| sace | ind |  | if |
 | ca | ind | conj | and |
 | pāpakaṃ | adj | nt.acc.sg | bad, wicked, wretched, sinful |
 | kammaṃ | noun | nt.acc.sg | deed; action; job; work |
 | karissasi | verb | fut.2.sg | you will do, make |
 | karosi | verb | pr.2.sg | you make, do |
-| vā. | ind | | or |
-|  |  |  |  |
-| do not do bad deed, openly or even secretly, but if you do or will do bad deed | | | |
-|  |  |  |  |
-| 4. THI 73 (KN 9.73) | | | |
-|  |  |  |  |
-| kāhinti khu taṃ kāmā, chātā sunakhaṃva caṇḍālā. | | | |
-|  |  |  |  |
+| vā. | ind |  | or |
+
+**do not do bad deed, openly or even secretly, but if you do or will do bad deed**
+
+4. THI 73 (KN 9.73)
+
+kāhinti khu taṃ kāmā, chātā sunakhaṃva caṇḍālā.
+
+| --- | --- | --- | --- |
 | kāhinti | verb | fut.3.pl | (they) will do, make, act |
-| khu = kho | ind | | indeed; really; surely |
-| taṃ | pron | 2.acc.sg | you |
+| khu = kho | ind |  | indeed; really; surely |
+
+taṃ pron 2.acc.sg you
+
+| --- | --- | --- | --- |
 | kāmā | noun | masc.nom.pl | sensual desires |
 | chātā | adj | masc.nom.pl | hungry |
 | sunakhaṃva | noun | masc.acc.sg | as dog |
 | caṇḍālā. | noun | masc.nom.pl | outcastes or untouchables |
-|  |  |  |  |
-| indeed sensual desires will act with you as, hungry outcastes with dog. | | | |
-|  |  |  |  |
-| 5. ITI 76 (KN 4.76) | | | |
-|  |  |  |  |
-| yādisaṃ kurute mittaṃ, yādisaṃ cūpasevati.<br>sa ve tādisako hoti, sahavāso hi tādiso. | | | |
-|  |  |  |  |
+
+**indeed sensual desires will act with you as, hungry outcastes with dog.**
+
+5. ITI 76 (KN 4.76)
+
+yādisaṃ kurute mittaṃ, yādisaṃ cūpasevati.
+sa ve tādisako hoti, sahavāso hi tādiso.
+
+| --- | --- | --- | --- |
 | yādisaṃ | adj | masc.acc.sg | whichever; whatever; which like. |
 | kurute | verb reflx | pr.3.sg | one oneself does |
 | mittaṃ | noun | masc.acc.sg | friend |
 | yādisaṃ | adj | masc.acc.sg | whichever; whatever; which like. |
-| cūpasevati | | | |
-| \#ca | ind | | and |
+| cūpasevati |  |  |  |
+| \#ca | ind |  | and |
 | \#upasevati. | verb | pr.3.sg | practises; frequents; associates |
-| sa | | | |
-| ve | ind | | indeed; truly; surely. |
+| sa |  |  |  |
+| ve | ind |  | indeed; truly; surely. |
 | tādisako | adj | masc.nom.sg | such; of such quality. |
 | hoti | verb | pr.3.sg | there is, he is |
 | sahavāso | noun | masc.nom.sg | living together. |
-| hi | ind | | indeed |
+| hi | ind |  | indeed |
 | tādiso. | adj | masc.nom.sg | such; of such quality, such as |
-|  |  |  |  |
-| whatever (person) he makes a friend with, whatever (person) he associates with, that indeed he is of such quality, indeed such as co-habitant | | | |
-|  |  |  |  |
-| 6. (SN 1.32) | | | |
-|  |  |  |  |
-| duddadaṃ dadamānānaṃ, dukkaraṃ kamma kubbataṃ.<br>asanto nānukubbanti, sataṃ dhammo durannayo | | | |
-|  |  |  |  |
+
+**whatever (person) he makes a friend with, whatever (person) he associates with, that indeed he is of such quality, indeed such as co-habitant**
+
+6. (SN 1.32)
+
+duddadaṃ dadamānānaṃ, dukkaraṃ kamma kubbataṃ.
+asanto nānukubbanti, sataṃ dhammo durannayo
+The bad do not emulate the good
+Who give what is hard to give
+And do deeds hard to do:
+The Dhamma of the good is hard to follow. BB
+
+| --- | --- | --- | --- |
 | duddadaṃ | adj | masc.acc.sg | difficult to give |
 | dadamānānaṃ | prp | masc.gen.pl | when giving; offering; |
 | dukkaraṃ | adj | masc.acc.sg | difficult to do. |
@@ -143,16 +164,15 @@
 | sataṃ | adj | masc.gen.pl | of virtuous, good |
 | dhammo | noun | masc.nom.sg | Teaching |
 | durannayo | adj | masc.nom.sg | difficult to follow |
-|  |  |  |  |
-|  |  |  |  |
-| when giving what is difficult to give, he doing what is difficult to do, bad not do likewise, Teaching of the good is difficult to follow. | | | |
-|  |  |  |  |
-| The bad do not emulate the good<br>Who give what is hard to give<br>And do deeds hard to do:<br>The Dhamma of the good is hard to follow. BB | | | |
-|  |  |  |  |
-| 7. APA 24 (KN 10.24) | | | |
-|  |  |  |  |
-| dhātu āveṇikā natthi, sarīraṃ ekapiṇḍitaṃ.<br>imamhi buddhathūpamhi, kassāma kañcukaṃ mayaṃ. | | | |
-|  |  |  |  |
+
+**when giving what is difficult to give, he doing what is difficult to do, bad not do likewise, Teaching of the good is difficult to follow.**
+
+7. APA 24 (KN 10.24)
+
+dhātu āveṇikā natthi, sarīraṃ ekapiṇḍitaṃ.
+imamhi buddhathūpamhi, kassāma kañcukaṃ mayaṃ.
+
+| --- | --- | --- | --- |
 | dhātu | noun | fem.nom.pl | element |
 | āveṇikā | adj | fem.nom.pl | specific; unique to; different; particular |
 | natthi | verb | pr.3.pl | there are no |
@@ -160,44 +180,47 @@
 | ekapiṇḍitaṃ. | adj | nt.acc.sg | compounded in a single lump |
 | imamhi | pron | masc.loc.sg | in this |
 | buddhathūpamhi | noun | masc.loc.sg | in Buddhas stupas |
-| \#buddha | noun | | the Buddha |
+| \#buddha | noun |  | the Buddha |
 | \#thūpamhi | noun | masc.loc.sg | in stupas, pagodas |
 | kassāma | verb | fut.1.pl | we will do |
 | kañcukaṃ | noun | masc.acc.sg | covering; shell |
-| mayaṃ. | pron | 1.nom.pl | we |
-|  |  |  |  |
-| there are no separate elements, body compounded in a single lump, in this Buddhas stupas, we will make a covering. | | | |
-|  |  |  |  |
-| 8. (SN 22.99) | | | |
-|  |  |  |  |
-| seyyathāpi, bhikkhave, sā gaddulabaddho daḷhe khīle vā thambhe vā upanibaddho tameva khīlaṃ vā thambhaṃ vā anuparidhāvati anuparivattati; | | | |
-|  |  |  |  |
-| seyyathāpi | ind | | just as |
+
+mayaṃ. pron 1.nom.pl we
+
+there are no separate elements, body compounded in a single lump, in this Buddhas stupas, we will make a covering.
+
+8. (SN 22.99)
+
+seyyathāpi, bhikkhave, sā gaddulabaddho daḷhe khīle vā thambhe vā upanibaddho tameva khīlaṃ vā thambhaṃ vā anuparidhāvati anuparivattati;
+
+| --- | --- | --- | --- |
+| seyyathāpi | ind |  | just as |
 | bhikkhave | noun | masc.voc.pl | o monks |
 | sā | pron | masc.nom.sg | dog |
-| gaddulabaddho | | | |
-| \#gaddula | noun | | a leash; leather strap |
+| gaddulabaddho |  |  |  |
+| \#gaddula | noun |  | a leash; leather strap |
 | \#baddho | pp | masc.nom.sg | bound; trapped; fastened; combined |
 | daḷhe | adj | masc.loc.sg | firm; strong; steady. |
 | khīle | noun | masc.loc.sg | in peg; a stake; a post |
-| vā | ind | | or |
+| vā | ind |  | or |
 | thambhe | noun | masc.loc.sg | in pillar; post; a clump of grass; obduracy. |
-| vā | ind | | or |
+| vā | ind |  | or |
 | upanibaddho | pp | masc.nom.sg | tied on to |
 | tameva | pron | masc.acc.sg | that just |
 | khīlaṃ | noun | masc.acc.sg | peg; a stake; a post |
-| vā | ind | | or |
+| vā | ind |  | or |
 | thambhaṃ | noun | masc.acc.sg | in pillar; post; a clump of grass; obduracy. |
-| vā | ind | | or |
+| vā | ind |  | or |
 | anuparidhāvati | verb | pr.3.sg | runs up and down or around |
 | anuparivattati; | verb | pr.3.sg | move round and round; keep on rolling |
-|  |  |  |  |
-| Just as a dog, tied by a leash to a post or stake, keeps running around and circling around that very post or stake | | | |
-|  |  |  |  |
-| 9. (MN 130) | | | |
-|  |  |  |  |
-| dīghassa addhuno accayena tassa mahānirayassa puratthimaṃ dvāraṃ avāpurīyati | | | |
-|  |  |  |  |
+
+**Just as a dog, tied by a leash to a post or stake, keeps running around and circling around that very post or stake**
+
+9. (MN 130)
+
+dīghassa addhuno accayena tassa mahānirayassa puratthimaṃ dvāraṃ avāpurīyati
+
+| --- | --- | --- | --- |
 | dīghassa | adj | masc.gen.sg | of long |
 | addhuno | noun | masc.gen.sg | of time |
 | accayena | ind | adv | by the elapse of |
@@ -206,99 +229,112 @@
 | puratthimaṃ | adj | masc.acc.sg | eastern |
 | dvāraṃ | noun | nt.acc.sg | gate |
 | avāpurīyati | verb | pr.3.sg | is opened |
-|  |  |  |  |
-| by the elapse of a long time, eastern gate of that great hell is opened. | | | |
-|  |  |  |  |
-| 10. (SNP 7) | | | |
-|  |  |  |  |
-| addasā kho so brahmā te brahmāno dūratova āgacchante. | | | |
-|  |  |  |  |
+
+**by the elapse of a long time, eastern gate of that great hell is opened.**
+
+10. (SNP 7)
+
+addasā kho so brahmā te brahmāno dūratova āgacchante.
+
+| --- | --- | --- | --- |
 | addasā | verb | imperf.3.sg | he saw |
-| kho | ind | | indeed |
+| kho | ind |  | indeed |
 | so | noun | masc.nom.sg | that, he |
 | brahmā | noun | masc.nom.sg | the Brahma; the Creator. |
 | te | noun | masc.acc.pl | those |
 | brahmāno | noun | masc.acc.pl | Brahmas |
-| dūratova | ind | | just from afar |
+| dūratova | ind |  | just from afar |
 | āgacchante. | prp | masc.acc.pl | coming; approaching. |
-|  |  |  |  |
-| indeed that Brahma has seen those Brahmas coming just from afar | | | |
-|  |  |  |  |
-| 11. (SN 6.4) | | | |
-|  |  |  |  |
-| sataṃ sahassānaṃ nirabbudānaṃ<br>āyuṃ pajānāmi tavāhaṃ brahmeti. | | | |
-|  |  |  |  |
+
+**indeed that Brahma has seen those Brahmas coming just from afar**
+
+11. (SN 6.4)
+
+sataṃ sahassānaṃ nirabbudānaṃ
+āyuṃ pajānāmi tavāhaṃ brahmeti.
+
+| --- | --- | --- | --- |
 | sataṃ | adj | nt.acc.sg | 100 |
 | sahassānaṃ | noun | masc.gen.pl | of thousand |
 | nirabbudānaṃ | noun | masc.gen.pl | vast number, Nirabbudas |
 | āyuṃ | noun | nt.acc.sg | age |
 | pajānāmi | verb | pr.1.sg | I know clearly. |
-| tavāhaṃ | | | |
-| \#tava | pron | 2.gen.sg | your |
-| \#ahaṃ | pron | 1.nom.sg | I |
+| tavāhaṃ |  |  |  |
+
+\#tava pron 2.gen.sg your
+
+\#ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
 | brahme | noun | masc.voc.sg | o Brahma |
-| ti. | ind | | “ |
-|  |  |  |  |
-| O Brahma, I know clearly your age is a 100 of thousand Nirabbudas. | | | |
-|  |  |  |  |
-| 12. (ITI 38) | | | |
-|  |  |  |  |
-| sele yathā pabbatamuddhaniṭṭhito, yathāpi passe janataṃ samantato. | | | |
-|  |  |  |  |
+| ti. | ind |  | “ |
+
+**O Brahma, I know clearly your age is a 100 of thousand Nirabbudas.**
+
+12. (ITI 38)
+
+sele yathā pabbatamuddhaniṭṭhito, yathāpi passe janataṃ samantato.
+
+| --- | --- | --- | --- |
 | sele | noun | masc.loc.sg | on the rock |
-| yathā | ind | | like, as |
-| pabbatamuddhaniṭṭhito | | | |
-| \#pabbata | noun | | a mountain; rock |
+| yathā | ind |  | like, as |
+| pabbatamuddhaniṭṭhito |  |  |  |
+| \#pabbata | noun |  | a mountain; rock |
 | \#muddhani | adj | masc.loc.sg | on the top of |
 | \#ṭhito | pp | masc.nom.sg | stood; stayed; stationary; immovable |
-| yathāpi | ind | | and as; like |
+| yathāpi | ind |  | and as; like |
 | passe | verb | opt.3.sg | he could see |
 | janataṃ | noun | fem.acc.sg | populace, people |
-| samantato. | ind | | all around; everywhere |
-|  |  |  |  |
-| on the rock, like on the top of the mountain, standing, and just as he could see people everywhere. | | | |
-|  |  |  |  |
-| 13. (DHPa 1.6.5) | | | |
-|  |  |  |  |
-| “atha kasmā idāni puññaṃ na karosi, tvaṃ yuvā balasampanno, kiṃ tayā bhatiṃ katvāpi yathābalaṃ dānaṃ dātuṃ na vaṭṭatī”ti? | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| 14. (SN 3.11) | | | |
-| saṃvāsena kho, mahārāja, sīlaṃ veditabbaṃ. tañca kho dīghena addhunā, na ittaraṃ | | | |
-|  |  |  |  |
+| samantato. | ind |  | all around; everywhere |
+
+**on the rock, like on the top of the mountain, standing, and just as he could see people everywhere.**
+
+13. (DHPa 1.6.5)
+
+“atha kasmā idāni puññaṃ na karosi, tvaṃ yuvā balasampanno, kiṃ tayā bhatiṃ katvāpi yathābalaṃ dānaṃ dātuṃ na vaṭṭatī”ti?
+
+14. (SN 3.11)
+
+saṃvāsena kho, mahārāja, sīlaṃ veditabbaṃ. tañca kho dīghena addhunā, na ittaraṃ
+
+| --- | --- | --- | --- |
 | saṃvāsena | noun | masc.instr.sg | by living with, co-residence |
-| kho | ind | | indeed; really; surely |
+| kho | ind |  | indeed; really; surely |
 | mahārāja | verb | masc.voc.sg | o great king |
 | sīlaṃ | noun | nt.nom.sg | character, habit behaviour |
 | veditabbaṃ. | ptp | nt.nom.sg | can be known |
 | tañca | pron | nt.nom.sg | and that |
-| kho | ind | | indeed; really; surely |
+| kho | ind |  | indeed; really; surely |
 | dīghena | adj | masc.instr.sg | by long |
 | addhunā | noun | masc.instr.sg | by time |
 | na | ind | neg | not |
 | ittaraṃ | adj | masc.acc.sg | short |
-|  |  |  |  |
-| o great king, indeed by living with character can be known. and that indeed by long time, not in short. | | | |
-|  |  |  |  |
-| 14. (MN 35) | | | |
-|  |  |  |  |
-| etthevassa sattadhā muddhā phalatīti | | | |
-|  |  |  |  |
-| etthaeva | ind | | right here |
-| assa | pron | 3.gen.sg | his |
+
+**o great king, indeed by living with character can be known. and that indeed by long time, not in short.**
+
+14. (MN 35)
+
+etthevassa sattadhā muddhā phalatīti
+
+| --- | --- | --- | --- |
+| etthaeva | ind |  | right here |
+
+assa pron 3.gen.sg his
+
+| --- | --- | --- | --- |
 | sattadhā | ind | adv | in seven pieces |
 | muddhā | noun | fem.nom.sg | head |
 | phalati | verb | pr.3.sg | splits |
-|  |  |  |  |
-| right here his head splits in seven pieces. | | | |
-|  |  |  |  |
-| 15. APA 8 (KN 10.8) | | | |
-|  |  |  |  |
-| yathā balākayonimhi, na vijjati pumā sadā.<br>meghesu gajjamānesu, gabbhaṃ gaṇhanti tā sadā. | | | |
-|  |  |  |  |
-| yathā | ind | | just as, like |
+
+**right here his head splits in seven pieces.**
+
+15. APA 8 (KN 10.8)
+
+yathā balākayonimhi, na vijjati pumā sadā.
+meghesu gajjamānesu, gabbhaṃ gaṇhanti tā sadā.
+
+| --- | --- | --- | --- |
+| yathā | ind |  | just as, like |
 | balākayonimhi | noun | fem.loc.sg | in species of crane |
 | na | ind | neg | not |
 | vijjati | verb | pr.3.sg | exists; to be found |
@@ -310,77 +346,91 @@
 | gaṇhanti | verb | pr.3.pl | take; hold of; seize. |
 | tā | pron | fem.nom.pl | they |
 | sadā. | ind | adv | ever; always |
-|  |  |  |  |
-| Just as male birds are not always<br>found mating with the female cranes<br>but only when the clouds do rumble<br>do they take them to their wombs, Jonathan S. Walters translation. | | | |
-|  |  |  |  |
-| 16. (MN 76) | | | |
-|  |  |  |  |
-| tattha natthi hantā vā ghātetā vā, sotā vā sāvetā vā, viññātā vā viññāpetā vā. | | | |
-|  |  |  |  |
+
+**Just as male birds are not always
+found mating with the female cranes
+but only when the clouds do rumble
+do they take them to their wombs, Jonathan S. Walters translation.**
+
+16. (MN 76)
+
+tattha natthi hantā vā ghātetā vā, sotā vā sāvetā vā, viññātā vā viññāpetā vā.
+
+| --- | --- | --- | --- |
 | tattha | ind | adv | there; in that place |
 | natthi | verb | pr.3.sg | there is not |
 | hantā | noun | masc.nom.sg | striker, one who kills |
-| vā | ind | | or |
+| vā | ind |  | or |
 | ghātetā | noun | masc.nom.sg | killer; destroyer |
-| vā | ind | | or |
+| vā | ind |  | or |
 | sotā | noun | masc.nom.sg | hearer |
-| vā | ind | | or |
+| vā | ind |  | or |
 | sāvetā | noun | masc.nom.sg | one who makes others hear, who tells, teller |
-| vā | ind | | or |
+| vā | ind |  | or |
 | viññātā | noun | masc.nom.sg | a perceiver, one who apperceives or takes to heart, a learner |
-| vā | ind | | or |
+| vā | ind |  | or |
 | viññāpetā | noun | masc.nom.sg | an instructor, teacher |
-| vā | ind | | or |
-|  |  |  |  |
-| There is no striker or destroyer, hearer or teller, perceiver or instructor. | | | |
+| vā | ind |  | or |
 
-| 17. Mil 6.4.8 | | | |
-| ------------------------------------------------------------------------------------------------ | ------ | ------------ | ---------------------------- |
-| tadahu pabbajito santo, jātiyā sattavassiko. | | | |
-| so pi maṃ anusāseyya, sampaṭicchāmi muddhanā | | | |
-| tadahu | ind | | in the same day, that day |
+**There is no striker or destroyer, hearer or teller, perceiver or instructor.**
+
+
+17. Mil 6.4.8
+
+tadahu pabbajito santo, jātiyā sattavassiko.
+so pi maṃ anusāseyya, sampaṭicchāmi muddhanā
+
+| --- | --- | --- | --- |
+| tadahu | ind |  | in the same day, that day |
 | pabbajito | pp | masc.nom.sg | ordained, gone forth, monk |
 | santo, | adj | masc.nom.sg | virtuous |
 | jātiyā | noun | fem.abl.sg | from birth |
-| sattavassiko. | adj | masc.nom.sg | 7 years old |
+
+sattavassiko. adj masc.nom.sg 7 years old
+
+| --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he |
-| pi | ind | | just |
+| pi | ind |  | just |
 | maṃ | pron | masc.acc.sg | me |
 | anusāseyya, | verb | opt.3.sg | could advise; admonishe |
 | sampaṭicchāmi | verb | pr.1.sg | I receive; accept |
 | muddhanā | noun | masc.ins.sg | with head |
-| **in the same day virtuous monk, 7 years old from birth, could advise me, I accept with head** | | | |
+
+**in the same day virtuous monk, 7 years old from birth, could advise me, I accept with head**
+
 
 ## Class 31
 
-| 1. (SN 1.32) | | | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ---------------------------------------------------------------------------- |
-|  |  |  |  |
-| tasmā satañca asataṃ, nānā hoti ito gati.<br>asanto nirayaṃ yanti, santo saggaparāyanāti. | | | |
-|  |  |  |  |
-| tasmā | ind | | therefore |
+1. (SN 1.32)
+
+tasmā satañca asataṃ, nānā hoti ito gati.
+asanto nirayaṃ yanti, santo saggaparāyanāti.
+
+| --- | --- | --- | --- |
+| tasmā | ind |  | therefore |
 | satañca | adj | masc.gen.pl | of virtuous |
 | asataṃ | adj | masc.gen.pl | of not virtuous |
-| nānā | ind | | different; differently |
+| nānā | ind |  | different; differently |
 | hoti | verb | pr.3.sg | there is, he is |
-| ito | ind | | from here; from now; hence. |
+| ito | ind |  | from here; from now; hence. |
 | gati. | noun | fem.nom.sg | direction, course |
 | asanto | noun | masc.nom.pl | not virtuous |
 | nirayaṃ | noun | masc.acc.sg | hell, purgatory |
 | yanti | verb | pr.3.pl | they go |
 | santo | adj | masc.nom.pl | virtuous |
-| saggaparāyanāti | | | |
-| \#sagga | noun | | a place of happiness; heaven |
+| saggaparāyanāti |  |  |  |
+| \#sagga | noun |  | a place of happiness; heaven |
 | \#parāyanā | noun | masc.nom.pl | going through to, ending in, aiming at |
-|  |  |  |  |
-| direction of the virtuous and not virtuous is different. Not virtuous go to hell, the virtuous ending in heaven. | | | |
-|  |  |  |  |
-| 2. (AN 3.130) | | | |
-|  |  |  |  |
-| tīhi kho, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. | | | |
-|  |  |  |  |
+
+**direction of the virtuous and not virtuous is different. Not virtuous go to hell, the virtuous ending in heaven.**
+
+2. (AN 3.130)
+
+tīhi kho, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.
+
+| --- | --- | --- | --- |
 | tīhi | adj | masc.instr.pl | with three |
-| kho | ind | | indeed |
+| kho | ind |  | indeed |
 | anuruddha | noun | masc.voc.sg | o Anuruddha |
 | dhammehi | noun | masc.instr.pl | with qualities |
 | samannāgato | adj | masc.nom.sg | endowed with; possessed of |
@@ -394,44 +444,50 @@
 | vinipātaṃ | noun | masc.acc.sg | a place of suffering a bad falling |
 | nirayaṃ | noun | masc.acc.sg | the purgatory; hell |
 | upapajjati. | verb | pr.3.sg | she is reborn in; gets to |
-|  |  |  |  |
-| indeed, o Anuruddha, woman endowed with three qualities after breaking of the body, (after) death is reborn in hell, realm of miserable existence, place of suffering, purgatory. | | | |
-|  |  |  |  |
-| 3. VIN 5.11.3 | | | |
-|  |  |  |  |
-| tena kho pana samayena rājā udeno uyyāne paricāresi saddhiṃ orodhena. assosi kho rañño udenassa orodho — “amhākaṃ kira ācariyo ayyo ānando uyyānassa avidūre aññatarasmiṃ rukkhamūle nisinnoti. | | | |
-|  |  |  |  |
+
+**indeed, o Anuruddha, woman endowed with three qualities after breaking of the body, (after) death is reborn in hell, realm of miserable existence, place of suffering, purgatory.**
+
+3. VIN 5.11.3
+
+tena kho pana samayena rājā udeno uyyāne paricāresi saddhiṃ orodhena. assosi kho rañño udenassa orodho — “amhākaṃ kira ācariyo ayyo ānando uyyānassa avidūre aññatarasmiṃ rukkhamūle nisinnoti.
+
+| --- | --- | --- | --- |
 | tena | pron | masc.instr.sg | by that |
-| kho pana | ind | | and than |
+| kho pana | ind |  | and than |
 | samayena | noun | masc.instr.sg | by occasion, time |
 | rājā | noun | masc.nom.sg | king |
 | udeno | noun | masc.nom.sg | Udena |
 | uyyāne | noun | nt.loc.sg | in a park; pleasure grove |
 | paricāresi | verb | aor.3.sg | caused to amuse oneself |
-| saddhiṃ | ind | | together with |
+| saddhiṃ | ind |  | together with |
 | orodhena. | noun | masc.instr.sg | with harem |
 | assosi | verb | aor.3.sg | heard |
-| kho | ind | | indeed |
+| kho | ind |  | indeed |
 | rañño | noun | masc.gen.sg | of king |
 | udenassa | noun | masc.gen.sg | of Udena |
 | orodho — | noun | masc.nom.sg | harem |
-| amhākaṃ | pron | 1.gen.pl | our |
-| kira | ind | | really; truly |
+
+amhākaṃ pron 1.gen.pl our
+
+| --- | --- | --- | --- |
+| kira | ind |  | really; truly |
 | ācariyo | noun | masc.nom.sg | teacher |
 | ayyo | adj | masc.nom.sg | gentleman, sire, lord master |
 | ānando | noun | masc.nom.sg | Ananda |
 | uyyānassa | noun | masc.gen.sg | of a park; pleasure grove |
-| avidūre | ind | | near; not far |
+| avidūre | ind |  | near; not far |
 | aññatarasmiṃ | adj | masc.loc.sg | in a certain; not well-known |
 | rukkhamūle | noun | nt.loc.sg | in the foot of a tree |
 | nisinno | pp | masc.nom.sg | sat down, seated |
-|  |  |  |  |
-| and than at that time, king Udena caused to amuse oneself with harem in a pleasure grove. The harem heard from king Udena: truly our teacher, sire Ananda, seated in a certain foot of a tree near the park. | | | |
-|  |  |  |  |
-| 4. (SNP 6) | | | |
-|  |  |  |  |
-| sehi dārehi asantuṭṭho, vesiyāsu padussati (padissati).<br>dussati (dissati) paradāresu, taṃ parābhavato mukhaṃ. | | | |
-|  |  |  |  |
+
+**and than at that time, king Udena caused to amuse oneself with harem in a pleasure grove. The harem heard from king Udena: truly our teacher, sire Ananda, seated in a certain foot of a tree near the park.**
+
+4. (SNP 6)
+
+sehi dārehi asantuṭṭho, vesiyāsu padussati (padissati).
+dussati (dissati) paradāresu, taṃ parābhavato mukhaṃ.
+
+| --- | --- | --- | --- |
 | sehi | adj | masc.instr.pl | with ones owns |
 | dārehi | noun | masc.instr.pl | with wifes |
 | asantuṭṭho | pp | masc.nom.sg | not contented with, unhappy |
@@ -442,16 +498,21 @@
 | taṃ | pron | nt.nom.sg | that, he |
 | parābhavato | prp | masc.dat.sg | for declining; going to ruin. |
 | mukhaṃ. | noun | nt.nom.sg | cause, ways, reason |
-|  |  |  |  |
-| One not contented with his own wifes is seen among prostitutes<br>seen among the wifes of others: that is a cause for declining. | | | |
-|  |  |  |  |
-| 5. (SN 7.11) | | | |
-|  |  |  |  |
-| na kho mayaṃ passāma bhoto gotamassa yugaṃ vā naṅgalaṃ vā phālaṃ vā pācanaṃ (pājanaṃ) vā ... atha ca pana bhavaṃ gotamo evamāha | | | |
-|  |  |  |  |
+
+**One not contented with his own wifes is seen among prostitutes
+seen among the wifes of others: that is a cause for declining.**
+
+5. (SN 7.11)
+
+na kho mayaṃ passāma bhoto gotamassa yugaṃ vā naṅgalaṃ vā phālaṃ vā pācanaṃ (pājanaṃ) vā ... atha ca pana bhavaṃ gotamo evamāha
+
+| --- | --- | --- | --- |
 | na | ind | neg | no, not |
-| kho | ind | | indeed |
-| mayaṃ | pron | 1.nom.pl | we |
+| kho | ind |  | indeed |
+
+mayaṃ pron 1.nom.pl we
+
+| --- | --- | --- | --- |
 | passāma | verb | pr.1.pl | see; find; understand |
 | bhoto | adj | masc.gen.sg | of Sir, Lord, venerable |
 | gotamassa | noun | masc.gen.sg | of Gotama |
@@ -459,86 +520,94 @@
 | naṅgalaṃ vā | noun | nt.acc.sg | plough or |
 | phālaṃ vā | noun | nt.acc.sg | ploughshare or |
 | pācanaṃ | noun | nt.acc.sg | goad, stick |
-| atha | ind | | then; and also. |
+| atha | ind |  | then; and also. |
 | ca | ind | conj | and |
-| pana | ind | | and; yet; but; and now; moreover |
+| pana | ind |  | and; yet; but; and now; moreover |
 | bhavaṃ | adj | masc.nom.sg | Sir, Lord, venerable |
 | gotamo | noun | masc.nom.sg | Gotama |
-| evamāha | | | |
-| \#evaṃ | ind | | thus; in this way |
+| evamāha |  |  |  |
+| \#evaṃ | ind |  | thus; in this way |
 | \#āha | verb | perfem.3.sg | he has said |
-|  |  |  |  |
-| indeed we not see Sir Gotamas yoke or plough or ploughshare or goad, and moreover Sir Gotama has said in this way | | | |
-|  |  |  |  |
-| 6. (DN 3.15) | | | |
-|  |  |  |  |
-| seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya, cakkhumanto rūpāni dakkhantīti; evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito. | | | |
-|  |  |  |  |
-| seyyathāpi | ind | | just as |
+
+**indeed we not see Sir Gotamas yoke or plough or ploughshare or goad, and moreover Sir Gotama has said in this way**
+
+6. (DN 3.15)
+
+seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya, cakkhumanto rūpāni dakkhantīti; evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito.
+
+| --- | --- | --- | --- |
+| seyyathāpi | ind |  | just as |
 | bho gotama | noun | masc.voc.sg | O Sir Gotama |
 | nikkujjitaṃ | adj | masc.acc.sg | lying face downward, overturned, upset fallen over, stumbled |
-| vā | ind | | or |
+| vā | ind |  | or |
 | ukkujjeyya | verb | opt.3.sg | may raise up, could set upright |
 | paṭicchannaṃ | pp | masc.acc.sg | covered, concealed, hidden |
-| vā | ind | | or |
+| vā | ind |  | or |
 | vivareyya | verb | opt.3.sg | could open; may uncover; can make clear |
 | mūḷhassa | adj | masc.gen.sg | gone astray, erring, having lost ones way |
-| vā | ind | | or |
+| vā | ind |  | or |
 | maggaṃ | noun | masc.acc.sg | path; road; way |
 | ācikkheyya | verb | opt.3.sg | could tell, may show, can explain |
 | andhakāre | noun | masc.loc.sg | in darkness; bewilderment. |
-| vā | ind | | or |
+| vā | ind |  | or |
 | telapajjotaṃ | noun | masc.acc.sg | an oil lamp |
 | dhāreyya | verb | opt.3.sg | could carry, may hold |
 | cakkhumanto | adj | masc.nom.pl | endowed with eyes. |
 | rūpāni | noun | nt.acc.pl | forms |
 | dakkhanti | verb | pr.3.pl | they see |
-| evamevaṃ | ind | | in the same way |
+| evamevaṃ | ind |  | in the same way |
 | bhotā gotamena | noun | masc.instr.sg | by Sir Gotama |
 | anekapariyāyena | noun | masc.instr.sg | by various ways |
 | dhammo | noun | masc.nom.sg | Teaching |
 | pakāsito. | pp | masc.nom.sg | explained, manifested, made known |
-|  |  |  |  |
-| O Sir Gotama, just as if one may set up what had been overturned, or could show the way to one who had got lost, or could bring an oil-lamp into a darkness, so that those with eyes could see forms. In the same way the Dhamma has expounded by Sir Gotama in various ways. | | | |
-|  |  |  |  |
-| 7. (DN 20.2) | | | |
-|  |  |  |  |
-| ye nāgarāje sahasā haranti, dibbā dijā pakkhi visuddhacakkhū. | | | |
-|  |  |  |  |
+
+**O Sir Gotama, just as if one may set up what had been overturned, or could show the way to one who had got lost, or could bring an oil-lamp into a darkness, so that those with eyes could see forms. In the same way the Dhamma has expounded by Sir Gotama in various ways.**
+
+7. (DN 20.2)
+
+ye nāgarāje sahasā haranti, dibbā dijā pakkhi visuddhacakkhū.
+
+| --- | --- | --- | --- |
 | ye | pron | masc.acc.pl | those |
 | nāgarāje | noun | masc.acc.pl | kings of the Nāgas. |
-| sahasā | ind | | suddenly; forcibly |
+| sahasā | ind |  | suddenly; forcibly |
 | haranti | verb | pr.3.pl | they carry; take away; plunder |
 | dibbā | adj | masc.nom.pl | divine; celestial |
 | dijā | noun | masc.nom.pl | a twice born; |
 | pakkhi | adj | masc.nom.sg | the winged one |
-| visuddhacakkhū | | | |
-| \#visuddha | adj | | clean; pure; bright; stainless; sanctified |
+| visuddhacakkhū |  |  |  |
+| \#visuddha | adj |  | clean; pure; bright; stainless; sanctified |
 | \#cakkhū. | adj | masc.nom.pl | having eye, vision |
-|  |  |  |  |
-| they carry away those kings of the Nāgas, a twice born divine winged one beings with pure vision. | | | |
-|  |  |  |  |
-| 8. (DN 20.2) | | | |
-|  |  |  |  |
-| cattāro te mahārājā, samantā caturo disā.<br>daddallamānā aṭṭhaṃsu, vane kāpilavatthave. | | | |
-|  |  |  |  |
+
+**they carry away those kings of the Nāgas, a twice born divine winged one beings with pure vision.**
+
+8. (DN 20.2)
+
+cattāro te mahārājā, samantā caturo disā.
+daddallamānā aṭṭhaṃsu, vane kāpilavatthave.
+
+| --- | --- | --- | --- |
 | cattāro | adj | masc.nom.pl | four |
 | te | pron | masc.nom.pl | those |
 | mahārājā | noun | masc.nom.pl | great kings |
-| samantā | ind | | all around; everywhere |
+| samantā | ind |  | all around; everywhere |
 | caturo | adj | masc.nom.pl | four |
 | disā. | noun | fem.nom.pl | direction |
 | daddallamānā | prp | masc.nom.pl | resplendent, blazing forth |
 | aṭṭhaṃsu | verb | aor.3.pl | they stood |
 | vane | noun | nt.loc.sg | in wood; forest |
 | kāpilavatthave. | adj | nt.loc.sg | in belonging to Kapilavatthu |
-|  |  |  |  |
-| Those four great kings stood in the forest belonging to Kapilavatthu, blazing forth in four direction all around | | | |
-|  |  |  |  |
-| 9. (TH 262) | | | |
-|  |  |  |  |
-| vuṭṭhamhi deve caturaṅgule tiṇe<br>saṃpupphite meghanibhamhi kānane.<br>nagantare viṭapisamo sayissaṃ<br>taṃ me mudū hehiti tūlasannibhaṃ. | | | |
-|  |  |  |  |
+
+**Those four great kings stood in the forest belonging to Kapilavatthu, blazing forth in four direction all around**
+
+9. (TH 262)
+
+vuṭṭhamhi deve caturaṅgule tiṇe
+saṃpupphite meghanibhamhi kānane.
+nagantare viṭapisamo sayissaṃ
+taṃ me mudū hehiti tūlasannibhaṃ.
+
+| --- | --- | --- | --- |
 | vuṭṭhamhi | pp | masc.loc.sg | when rained |
 | deve | noun | masc.loc.sg | when sky |
 | caturaṅgule | adj | masc.loc.sg | when measuring four inches |
@@ -550,129 +619,159 @@
 | viṭapisamo | adj | masc.nom.sg | like a tree |
 | sayissaṃ | verb reflx | fut.1.sg | I will lie down |
 | taṃ | pron | nt.nom.sg | that |
-| me | pron | 1.dat.sg | for me |
+
+me pron 1.dat.sg for me
+
+| --- | --- | --- | --- |
 | mudū | adj | fem.nom.sg | soft |
 | hehiti | verb | fut.3.sg | it will be |
 | tūlasannibhaṃ. | adj | nt.nom.sg | resembling to cotton |
-|  |  |  |  |
-| when the sky is raining, when grass is measuring four inches, when cloud-like grove fully blown, I will lie down like a tree between mountains, it will be for me soft resembling to cotton. | | | |
-|  |  |  |  |
-| 10. (TH 262) | | | |
-|  |  |  |  |
-| kadā nuhaṃ dubbacanena vutto<br>tatonimittaṃ vimano na hessaṃ. | | | |
-|  |  |  |  |
+
+**when the sky is raining, when grass is measuring four inches, when cloud-like grove fully blown, I will lie down like a tree between mountains, it will be for me soft resembling to cotton.**
+
+10. (TH 262)
+
+kadā nuhaṃ dubbacanena vutto
+tatonimittaṃ vimano na hessaṃ.
+
+| --- | --- | --- | --- |
 | kadā | ind | adv | when |
 | nu ahaṃ | pron | masc.nom.sg | I indeed |
 | dubbacanena | noun | nt.instr.sg | with harsh word |
 | vutto | pp | masc.nom.sg | said, spoken |
-| tatonimittaṃ | ind | | because of that, on that account |
+| tatonimittaṃ | ind |  | because of that, on that account |
 | vimano | adj | masc.nom.sg | displeased; distracted |
-| na | ind | | not |
+| na | ind |  | not |
 | hessaṃ. | verb reflx | fut.1.sg | I will be |
-|  |  |  |  |
-| Indeed when I would be spoken with harsh word, I will be not displeased on that account. | | | |
-|  |  |  |  |
-| 11. (TH 262) | | | |
-|  |  |  |  |
-| disvā samudayaṃ vibhavañca sambhavaṃ<br>dāyādako hehisi aggavādino. | | | |
-|  |  |  |  |
+
+**Indeed when I would be spoken with harsh word, I will be not displeased on that account.**
+
+11. (TH 262)
+
+disvā samudayaṃ vibhavañca sambhavaṃ
+dāyādako hehisi aggavādino.
+
+| --- | --- | --- | --- |
 | disvā | verb | abs | having seen; having found; having understood. |
 | samudayaṃ | noun | masc.acc.sg | rise, origination |
-| vibhavañca | | | |
+| vibhavañca |  |  |  |
 | \#vibhavaṃ | noun | masc.acc.sg | non -- existence cessation of life, annihilation |
-| \#ca | ind | | and |
+| \#ca | ind |  | and |
 | sambhavaṃ | noun | masc.acc.sg | origin, birth, production, source |
 | dāyādako | adj | masc.nom.sg | one who inherits |
 | hehisi | verb | fut.2.sg | you will be |
 | aggavādino. | noun | masc.gen.sg | of the greastest teacher |
-|  |  |  |  |
-| having seen origination, annihilation and source (of both), you will be one who inherits of the greastest teacher | | | |
-|  |  |  |  |
-| 12. (DN 16.36) | | | |
-|  |  |  |  |
-| pucchatha, bhikkhave, mā pacchā vippaṭisārino ahuvattha … na mayaṃ sakkhimhā bhagavantaṃ sammukhā paṭipucchitunti | | | |
-|  |  |  |  |
+
+**having seen origination, annihilation and source (of both), you will be one who inherits of the greastest teacher**
+
+12. (DN 16.36)
+
+pucchatha, bhikkhave, mā pacchā vippaṭisārino ahuvattha … na mayaṃ sakkhimhā bhagavantaṃ sammukhā paṭipucchitunti
+
+| --- | --- | --- | --- |
 | pucchatha | verb | imp.2.pl | you shold ask, may you ask |
 | bhikkhave | noun | masc.voc.pl | o monks! |
-| mā | ind | | do not |
-| pacchā | ind | | afterwards |
+| mā | ind |  | do not |
+| pacchā | ind |  | afterwards |
 | vippaṭisārino | adj | masc.gen.sg | when remorseful; repentant |
 | ahuvattha | verb | aor.2.pl | you were |
-| na | ind | | not |
-| mayaṃ | pron | 1.nom.sg | we |
+| na | ind |  | not |
+
+mayaṃ pron 1.nom.sg we
+
+| --- | --- | --- | --- |
 | sakkhimhā | verb | aor.1.pl | we were able |
 | bhagavantaṃ | noun | masc.acc.sg | the Blessed One |
-| sammukhā | ind | | in front; face to face. |
+| sammukhā | ind |  | in front; face to face. |
 | paṭipucchituṃ | verb | inf | to ask |
-|  |  |  |  |
-| You should ask o monks! do not be remorseful afterwards… We were not able to ask face to face the Blessed One. | | | |
-|  |  |  |  |
-| 13. (SN 1.50) | | | |
-|  |  |  |  |
-| ahuvā te sagāmeyyo<br>ahuvā te pure sakhā | | | |
-|  |  |  |  |
+
+**You should ask o monks! do not be remorseful afterwards… We were not able to ask face to face the Blessed One.**
+
+13. (SN 1.50)
+
+ahuvā te sagāmeyyo
+ahuvā te pure sakhā
+
+| --- | --- | --- | --- |
 | ahuvā | verb reflx | aor.3.sg | he was |
-| te | pron | 1.instr.sg | with you |
+
+te pron 1.instr.sg with you
+
+| --- | --- | --- | --- |
 | sagāmeyyo | adj | masc.nom.sg | of the same village |
 | ahuvā | verb reflx | aor.3.sg | he was |
-| te | pron | 1.instr.sg | with you |
-| pure | ind | | before; formerly; earlier. |
+
+te pron 1.instr.sg with you
+
+| --- | --- | --- | --- |
+| pure | ind |  | before; formerly; earlier. |
 | sakhā | noun | masc.nom.sg | friend |
-|  |  |  |  |
-| he was with you of the same village, formerly he was friend with you. | | | |
-|  |  |  |  |
-| 14. (KN 6.82) | | | |
-|  |  |  |  |
-| ahaṃ bhadante ahuvāsiṃ pubbe<br>sumedhanāmassa jinassa sāvako. | | | |
-|  |  |  |  |
+
+**he was with you of the same village, formerly he was friend with you.**
+
+14. (KN 6.82)
+
+ahaṃ bhadante ahuvāsiṃ pubbe
+sumedhanāmassa jinassa sāvako.
+
+| --- | --- | --- | --- |
 | ahaṃ | pron | masc.nom.sg | I |
 | bhadante | noun | masc.voc.sg | o venerable, reverend |
 | ahuvāsiṃ | verb | aor.1.sg | I was |
-| pubbe | ind | | formerly; in the past |
-| sumedhanāmassa | | | |
-| \#sumedha | noun | | Sumedha |
+| pubbe | ind |  | formerly; in the past |
+| sumedhanāmassa |  |  |  |
+| \#sumedha | noun |  | Sumedha |
 | \#nāmassa | noun | masc.gen.sg | of the name |
 | jinassa | noun | masc.gen.sg | of the conqueror; the victor; the Buddha |
 | sāvako. | noun | masc.nom.sg | student, disciple |
-|  |  |  |  |
-| o venerable, formerly I was student of the Buddha, with name Sumedha. | | | |
-|  |  |  |  |
-| 15. (THI 73) | | | |
-|  |  |  |  |
-| pabbajjā vā hohiti, maraṇaṃ vā me na ceva vāreyyaṃ. | | | |
-|  |  |  |  |
+
+**o venerable, formerly I was student of the Buddha, with name Sumedha.**
+
+15. (THI 73)
+
+pabbajjā vā hohiti, maraṇaṃ vā me na ceva vāreyyaṃ.
+
+| --- | --- | --- | --- |
 | pabbajjā | noun | fem.nom.sg | becoming a monk |
-| vā | ind | | or |
+| vā | ind |  | or |
 | hohiti | verb | fut.3.sg | is will be |
 | maraṇaṃ | noun | nt.nom.sg | death |
-| vā | ind | | or |
-| me | pron | 1.gen.sg | my |
-| na | ind | | not |
-| ca eva | ind | | and only |
+| vā | ind |  | or |
+
+me pron 1.gen.sg my
+
+| --- | --- | --- | --- |
+| na | ind |  | not |
+| ca eva | ind |  | and only |
 | vāreyyaṃ. | noun | nt.nom.sg | betrothal, marriage, wedding |
-|  |  |  |  |
-| is will be my death or becoming a monk, and only not a marriage. | | | |
-|  |  |  |  |
-| 16. (DN 16.32) | | | |
-|  |  |  |  |
-| katapuññosi tvaṃ, ānanda, padhānamanuyuñja, khippaṃ hohisi anāsavoti. | | | |
-|  |  |  |  |
-| katapuññosi | adj | | one who has performed meritorious actions |
-| tvaṃ | pron | 2.nom.sg | you |
+
+**is will be my death or becoming a monk, and only not a marriage.**
+
+16. (DN 16.32)
+
+katapuññosi tvaṃ, ānanda, padhānamanuyuñja, khippaṃ hohisi anāsavoti.
+
+| --- | --- | --- | --- |
+| katapuññosi | adj |  | one who has performed meritorious actions |
+
+tvaṃ pron 2.nom.sg you
+
+| --- | --- | --- | --- |
 | ānanda | noun | masc.voc.sg | Ananda |
-| padhānamanuyuñja | | | |
-| \#padhānaṃ | noun | | exertion, energetic effort, striving |
+| padhānamanuyuñja |  |  |  |
+| \#padhānaṃ | noun |  | exertion, energetic effort, striving |
 | \#anuyuñja | verb | imp.2.sg | you should practice, engage (in) |
-| khippaṃ | ind | | quickly |
+| khippaṃ | ind |  | quickly |
 | hohisi | verb | fut.2.sg | you will be |
 | anāsavo | adj | masc.nom.sg | free from intoxicants; passionless, effluents |
-|  |  |  |  |
-| Ananda, you one who has performed meritorious actions, you should engage in energetic effort, quickly you will be free from effluents. | | | |
-|  |  |  |  |
-| 17. (MN 26) | | | |
-|  |  |  |  |
-| upako ājīvako hupeyyapāvusoti vatvā sīsaṃ okampetvā ummaggaṃ gahetvā pakkāmi. | | | |
-|  |  |  |  |
+
+**Ananda, you one who has performed meritorious actions, you should engage in energetic effort, quickly you will be free from effluents.**
+
+17. (MN 26)
+
+upako ājīvako hupeyyapāvusoti vatvā sīsaṃ okampetvā ummaggaṃ gahetvā pakkāmi.
+
+| --- | --- | --- | --- |
 | upako | noun | masc.nom.sg | Upaka |
 | ājīvako | noun | masc.nom.sg | a kind of non-Buddhist ascetics. |
 | hupeyya | verb | opt.3.sg | it may be |
@@ -683,119 +782,147 @@
 | ummaggaṃ | noun | masc.acc.sg | a side track, devious way |
 | gahetvā | verb | abs | having taken; having held of; having seized. |
 | pakkāmi. | verb | aor.3.sg | he went forth |
-|  |  |  |  |
-| ascetic Upaka having told: it may be, friend. having shaken head, having taken a devious way, he went forth. | | | |
-|  |  |  |  |
-| 18. (MN 54.2) | | | |
-|  |  |  |  |
-| sāmikā yattha yattheva sāni passeyyuṃ tattha tattheva sāni hareyyuṃ | | | |
-|  |  |  |  |
+
+**ascetic Upaka having told: it may be, friend. having shaken head, having taken a devious way, he went forth.**
+
+18. (MN 54.2)
+
+sāmikā yattha yattheva sāni passeyyuṃ tattha tattheva sāni hareyyuṃ
+
+| --- | --- | --- | --- |
 | sāmikā | noun | masc.nom.pl | husbands; the owners |
-| yattha | ind | | wherever; where |
-| yattheva | | | |
-| \#yattha | ind | | wherever; where |
-| \#eva | ind | | just, only, even |
+| yattha | ind |  | wherever; where |
+| yattheva |  |  |  |
+| \#yattha | ind |  | wherever; where |
+| \#eva | ind |  | just, only, even |
 | sāni | noun | nt.acc.pl | ones own things |
 | passeyyuṃ | verb | opt.3.pl | they could see |
-| tattha | ind | | there; in that place |
-| tattheva | | | |
-| \#tattha- | ind | | there; in that place |
-| \#eva | ind | | just, only, even |
+| tattha | ind |  | there; in that place |
+| tattheva |  |  |  |
+| \#tattha- | ind |  | there; in that place |
+| \#eva | ind |  | just, only, even |
 | sāni | noun | nt.acc.pl | ones own things |
 | hareyyuṃ | verb | opt.3.pl | they could take |
-|  |  |  |  |
-| the owners when they could see their own things, they could take them. | | | |
-|  |  |  |  |
-| 19. DHP 136 | | | |
-|  |  |  |  |
-| atha pāpāni kammāni, karaṃ bālo na bujjhati.<br>sehi kammehi dummedho, aggidaḍḍhova tappati. | | | |
-|  |  |  |  |
-| atha | ind | | then; and also, even |
+
+**the owners when they could see their own things, they could take them.**
+
+19. DHP 136
+
+atha pāpāni kammāni, karaṃ bālo na bujjhati.
+sehi kammehi dummedho, aggidaḍḍhova tappati.
+
+| --- | --- | --- | --- |
+| atha | ind |  | then; and also, even |
 | pāpāni | adj | nt.acc.pl | evil |
 | kammāni | noun | nt.acc.pl | deeds; actions √kar + ma + ani |
 | karaṃ (karanta) | prp | masc.nom.sg | doing √kar 7 o (to do, make) + aṃ |
 | bālo | noun | masc.nom.sg | fool, ignorent |
-| na | ind | | not |
+| na | ind |  | not |
 | bujjhati. | verb | pr.3.sg | knows; understands; perceives; is awake √budh 3 ya (to know)\> bujjha + ti |
 | sehi | pron | nt.instr.pl | by ones own |
 | kammehi | noun | nt.instr.pl | by deeds; actions |
 | dummedho | noun | masc.nom.sg | foolish, unwise du + √medh 1 a (to be wise) + a |
 | aggi daḍḍhova | pp | masc.nom.sg | like burnt by a fire |
 | tappati | verb | pr.3.sg | is burnt, tormented √tap 1 ya (to burn)\>tappa(pb) |
-|  |  |  |  |
-| even when doing evil deeds, the fool is not aware. The unwise is tormented by his own deeds, as if burned by a fire. | | | |
 
-| 20. KN-a Dhp 2.7 | | | |
-| ----------------------------------------------------------------------------------------------------------------------- | --------- | ------------- | ------------------------------------------ |
-| mātugāmesu pana vigatacchandatāya tassā sālāya mātugāmānaṃ pattiṃ nādaṃsu. | | | |
+**even when doing evil deeds, the fool is not aware. The unwise is tormented by his own deeds, as if burned by a fire.**
+
+
+20. KN-a Dhp 2.7
+
+mātugāmesu pana vigatacchandatāya tassā sālāya mātugāmānaṃ pattiṃ nādaṃsu.
+
+| --- | --- | --- | --- |
 | mātugāmesu | noun | masc.loc.pl | in womans |
-| pana | ind | | and; yet; but; and now; more over |
-| vigatacchandatāya | f.dat.s | | to the fact of having no desire. |
-| \>vigata- | pp | | being without. |
+| pana | ind |  | and; yet; but; and now; more over |
+| vigatacchandatāya | f.dat.s |  | to the fact of having no desire. |
+| \>vigata- | pp |  | being without. |
 | \>chandatāya | noun | fem. | impulse; desire for |
 | tassā | pron | fem.gen.sg | of that |
 | sālāya | noun | fem.gen.sg | large hall, large room, house; shed |
 | mātugāmānaṃ | noun | masc.dat.pl | to womans |
 | pattiṃ | noun | fem.acc.sg | attainment; merit; profit; share |
 | na-adaṃsu. | verb | aor.3.pl | they did not give |
-| **moreover to the fact of having no liking to the womans, they did not give share of that large hall to the womans.** | | | |
-| 21. KN-a Dhp 3.4 | | | |
-| “saṅgharakkhita, mātugāmassa pahāraṃ dātuṃ nāsakkhi, ko ettha mahallakattherassa doso”ti | | | |
+
+**moreover to the fact of having no liking to the womans, they did not give share of that large hall to the womans.**
+
+21. KN-a Dhp 3.4
+
+“saṅgharakkhita, mātugāmassa pahāraṃ dātuṃ nāsakkhi, ko ettha mahallakattherassa doso”ti
+
+| --- | --- | --- | --- |
 | saṅgharakkhita, | noun | masc.voc.sg | Sangharakkhita Thera |
 | mātugāmassa | noun | masc.dat.sg | to woman |
 | pahāraṃ | noun | masc.acc.sg | a blow; a stroke |
 | dātuṃ | verb | inf | to give |
 | na-asakkhi, | verb | aor.2.sg | you were not able (to) |
 | ko | pron | masc.nom.sg | who? what? which? |
-| ettha | ind | | here, in this place |
-| mahallaka- | adj | | old, venerable, of great age, an old man |
+| ettha | ind |  | here, in this place |
+| mahallaka- | adj |  | old, venerable, of great age, an old man |
 | therassa | noun | masc.gen.sg | of an elder; a senior |
 | doso”ti | noun | masc.nom.sg | anger |
-| **Sangharakkhita Thera you were not able to give a blow to a woman, what here an anger to a venerable elder ?** | | | |
-| 22. KN-a Dhp, 1.2 | | | |
-| bhoti sace vejjaṃ ānessāmi, bhattavetanaṃ dātabbaṃ bhavissati | | | |
+
+**Sangharakkhita Thera you were not able to give a blow to a woman, what here an anger to a venerable elder ?**
+
+22. KN-a Dhp, 1.2
+
+bhoti sace vejjaṃ ānessāmi, bhattavetanaṃ dātabbaṃ bhavissati
+
+| --- | --- | --- | --- |
 | bhoti | noun | fem.voc.sg | Dear Madam |
-| sace | ind | | if |
+| sace | ind |  | if |
 | vejjaṃ | noun | masc.acc.sg | physician; doctor |
 | ānessāmi, | verb | fut.1.sg | I will bring; fetch |
 | bhattavetanaṃ | noun | nt.nom.sg | food and fees |
 | dātabbaṃ | ptp | nt.nom.sg | fit to be given. |
 | bhavissati | verb | fut.3.sg | will be |
-| **Dear Madam, if I will fetch a doctor, the food and fees will be fit to be given.** | | | |
+
+**Dear Madam, if I will fetch a doctor, the food and fees will be fit to be given.**
+
 
 ## Class 32
 
-| 1. VIN 4.1.6 | | | |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | --------------------------------------------------------------------- |
-|  |  |  |  |
-| ahañhi arahā loke, ahaṃ satthā anuttaro.<br>ekomhi sammāsambuddho, sītibhūtosmi nibbuto. | | | |
-|  |  |  |  |
-| ahañhi | | | |
-| \#ahaṃ | pron | 1.nom.sg | I |
-| \#hi | ind | | indeed |
+1. VIN 4.1.6
+
+ahañhi arahā loke, ahaṃ satthā anuttaro.
+ekomhi sammāsambuddho, sītibhūtosmi nibbuto.
+
+| --- | --- | --- | --- |
+| ahañhi |  |  |  |
+
+\#ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
+| \#hi | ind |  | indeed |
 | arahā | adj | masc.nom.pl | worthy of; deserving |
 | loke | noun | masc.loc.sg | in world |
-| ahaṃ | pron | 1.nom.sg | I |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
 | satthā | noun | masc.nom.sg | teacher |
 | anuttaro. | adj | masc.nom.sg | incomparable; unsurpassed, "nothing higher" |
-| ekomhi | | | |
-| \#eko | adj | | one, alone |
+| ekomhi |  |  |  |
+| \#eko | adj |  | one, alone |
 | \#amhi | pr | pr.1.sg | I am |
 | sammāsambuddho | noun | masc.nom.sg | the perfectly Enlightened One |
-| sītibhūtosmi | | | |
-| \#sītibhūto | pp | | calmed; tranquillised |
+| sītibhūtosmi |  |  |  |
+| \#sītibhūto | pp |  | calmed; tranquillised |
 | \#asmi | verb | pr.1.sg | I am |
 | nibbuto. | pp | masc.nom.sg | extinguished (of fire), cooled |
-|  |  |  |  |
-| I am indeed worthy the alone unsurpassed teacher in world. I am the perfectly Enlightened One calmed and extinguished. | | | |
-|  |  |  |  |
-| 2. JA 528 | | | |
-|  |  |  |  |
-| tatheva isayo hiṃsaṃ, saññame brahmacārayo.<br>adhammacārī khattiyo, so saggena virujjhati. | | | |
-|  |  |  |  |
-| tatheva | | | |
-| \#tatha | ind | | thus; so; in that way; likewise |
-| \#eva | ind | | just |
+
+**I am indeed worthy the alone unsurpassed teacher in world. I am the perfectly Enlightened One calmed and extinguished.**
+
+2. JA 528
+
+tatheva isayo hiṃsaṃ, saññame brahmacārayo.
+adhammacārī khattiyo, so saggena virujjhati.
+JAa 1.1.8.7
+
+| --- | --- | --- | --- |
+| tatheva |  |  |  |
+| \#tatha | ind |  | thus; so; in that way; likewise |
+| \#eva | ind |  | just |
 | isayo | noun | masc.acc.pl | sages; seer |
 | hiṃsaṃ | prp | masc.nom.sg | teasing; injuring; hurting |
 | saññame | adj | masc.acc.pl | restraint; self-control |
@@ -805,46 +932,37 @@
 | so | pron | masc.nom.sg | he |
 | saggena | noun | masc.instr.sg | with a place of happiness; heaven |
 | virujjhati. | verb | pr.3.sg | opposes; is hostile, is obstructed |
-|  |  |  |  |
-| just likewise injuring sages, self-controled, leading a chaste life, unrighteous man of the warrior caste opposes with a heaven. | | | |
-|  |  |  |  |
-| JAa 1.1.8.7 | | | |
-| 3. pubbe dīpino eḷake khādanti, ahaṃ pana eḷake dīpino anubandhitvā murumurūti khādante addasaṃ. | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| Formerly the leopards ate the sheep, but I saw the sheep following the leopards and eating them, crying: “Mumuru!” | | | |
-|  |  |  |  |
-| 4. AN 5.23 | | | |
-|  |  |  |  |
-| so parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti | | | |
-| so sace ākaṅkhati, parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajāneyyaṃ | | | |
-|  |  |  |  |
+
+**just likewise injuring sages, self-controled, leading a chaste life, unrighteous man of the warrior caste opposes with a heaven.**
+
+3. pubbe dīpino eḷake khādanti, ahaṃ pana eḷake dīpino anubandhitvā murumurūti khādante addasaṃ.
+
+Formerly the leopards ate the sheep, but I saw the sheep following the leopards and eating them, crying: “Mumuru!”
+
+4. AN 5.23
+
+so parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti
+so sace ākaṅkhati, parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajāneyyaṃ
+
+| --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he |
-| sace | | | |
-| ākaṅkhati | | | |
+| sace |  |  |  |
+| ākaṅkhati |  |  |  |
 | para sattānaṃ | noun | masc.gen.pl | of living beings |
 | para puggalānaṃ | noun | masc.gen.pl | of another persons |
 | cetasā | noun | masc.instr.sg | with mind |
 | ceto | noun | masc.acc.sg | mind |
 | paricca | verb | abs | encompassing; encircling; lit. going around |
 | pajāneyyaṃ | verb reflx | opt 1st sg | could know clearly |
-|  |  |  |  |
-| if he wishes, encompassing mind of another people, other living beings, with (his) mind, could know clearly. | | | |
-|  |  |  |  |
-| 4. (SN 4.25) | | | |
-|  |  |  |  |
-| bālā kumudanāḷehi, pabbataṃ abhimatthatha<br>giriṃ nakhena khanatha, ayo dantehi khādatha. | | | |
-|  |  |  |  |
+
+**if he wishes, encompassing mind of another people, other living beings, with (his) mind, could know clearly.**
+
+4. (SN 4.25)
+
+bālā kumudanāḷehi, pabbataṃ abhimatthatha
+giriṃ nakhena khanatha, ayo dantehi khādatha.
+
+| --- | --- | --- | --- |
 | bālā | noun | masc.nom.pl | fools |
 | kumudanāḷehi | noun | masc.instr.sg | with the stalk of white water-lily |
 | pabbataṃ | noun | masc.acc.sg | mountain |
@@ -855,141 +973,163 @@
 | ayo | noun | masc.acc.sg | iron |
 | dantehi | noun | masc.instr.pl | with teeth |
 | khādatha. | verb | imp.2.pl | you should eat; chew; bite |
-|  |  |  |  |
-| fools with the stalk of white water-lily mountain you should crushe, mountain with nail you should harm, iron with teeth you should eat. | | | |
-|  |  |  |  |
-| 5. (MN 92) | | | |
-|  |  |  |  |
-| pasannanetto sumukho, brahā uju patāpavā.<br>majjhe samaṇasaṅghassa, ādiccova virocasi. | | | |
-|  |  |  |  |
+
+**fools with the stalk of white water-lily mountain you should crushe, mountain with nail you should harm, iron with teeth you should eat.**
+
+5. (MN 92)
+
+pasannanetto sumukho, brahā uju patāpavā.
+majjhe samaṇasaṅghassa, ādiccova virocasi.
+
+| --- | --- | --- | --- |
 | pasannanetto | adj | masc.nom.sg | with bright eyes |
 | sumukho | adj | masc.nom.sg | of good features |
 | brahā | adj | masc.nom.sg | vast; lofty; gigantic; immense |
 | uju | adj | masc.nom.sg | straight; up-right. |
 | patāpavā. | adj | masc.nom.sg | majestic; splendid |
-| majjhe | ind | | in the middle |
+| majjhe | ind |  | in the middle |
 | samaṇasaṅghassa | noun | masc.gen.sg | of community of monks |
 | ādiccova | noun | masc.nom.sg | as sun |
 | virocasi. | verb | aor.3.sg | shined; was brilliant |
-|  |  |  |  |
-| one who with bright eyes, of good features, lofty, up-right, majestic, in the middle of community of monks, he is like a sun was brilliant. | | | |
-|  |  |  |  |
-| 6. (DN 1.1) | | | |
-|  |  |  |  |
-| tatra ce tumhe assatha kupitā vā anattamanā vā, tumhaṃ yevassa tena antarāyo. | | | |
-|  |  |  |  |
-| tatra | ind | | there; in that place |
-| ce | ind | | if |
-| tumhe | pron | 2.nom.pl | you |
+
+**one who with bright eyes, of good features, lofty, up-right, majestic, in the middle of community of monks, he is like a sun was brilliant.**
+
+6. (DN 1.1)
+
+tatra ce tumhe assatha kupitā vā anattamanā vā, tumhaṃ yevassa tena antarāyo.
+
+| --- | --- | --- | --- |
+| tatra | ind |  | there; in that place |
+| ce | ind |  | if |
+
+tumhe pron 2.nom.pl you
+
+| --- | --- | --- | --- |
 | assatha | verb | opt.2.pl | may be |
 | kupitā | pp | masc.nom.pl | was angry; annoyed; offended |
-| vā | ind | | or |
+| vā | ind |  | or |
 | anattamanā | pp | masc.nom.pl | displeased; irritated |
-| vā | ind | | or |
-| tumhaṃ | pron | 2.dat.pl | your |
-| yevassa | | | |
-| \#yeva | ind | | even; just; also |
+| vā | ind |  | or |
+
+tumhaṃ pron 2.dat.pl your
+
+| --- | --- | --- | --- |
+| yevassa |  |  |  |
+| \#yeva | ind |  | even; just; also |
 | \#assa | verb | opt.3.sg | it would be |
-| tena | ind | | on account of it; because of it |
+| tena | ind |  | on account of it; because of it |
 | antarāyo. | noun | masc.nom.sg | obstacle; danger |
-|  |  |  |  |
-| if you there may be angry or irritated, just on account of that it would be obstacle for you. | | | |
-|  |  |  |  |
-| 7. (THI 71) | | | |
-|  |  |  |  |
-| passiya varapuññalakkhaṇaṃ, cakkhu āsi yathā purāṇakanti. | | | |
-|  |  |  |  |
+
+**if you there may be angry or irritated, just on account of that it would be obstacle for you.**
+
+7. (THI 71)
+
+passiya varapuññalakkhaṇaṃ, cakkhu āsi yathā purāṇakanti.
+
+| --- | --- | --- | --- |
 | passiya | verb | ger | having seen |
-| varapuññalakkhaṇaṃ | | | |
-| \#vara | adj | | excellent; noble |
-| \#puñña | noun | | merit; righteousness |
+| varapuññalakkhaṇaṃ |  |  |  |
+| \#vara | adj |  | excellent; noble |
+| \#puñña | noun |  | merit; righteousness |
 | \#lakkhaṇaṃ | noun | nt.acc.sg | a quality, characteristic |
 | cakkhu | noun | nt.nom.sg | the eye |
 | āsi | verb | aor.3.sg | it was |
-| yathā | ind | | as; like; |
+| yathā | ind |  | as; like; |
 | purāṇakaṃ iti | adj | nt.nom.sg | ancient; old; worn out; used; former. |
-|  |  |  |  |
-| having seen the one who posses a quality of noble merit, the eye was as former | | | |
-|  |  |  |  |
-| 8. (SN 4.5) | | | |
-|  |  |  |  |
-| mahābandhanamuttomhi, nihato tvamasi antakāti. | | | |
-|  |  |  |  |
-| mahābandhanamuttomhi | | | |
-| \#mahābandhana | noun | | strong bondage |
+
+**having seen the one who posses a quality of noble merit, the eye was as former**
+
+8. (SN 4.5)
+
+mahābandhanamuttomhi, nihato tvamasi antakāti.
+
+| --- | --- | --- | --- |
+| mahābandhanamuttomhi |  |  |  |
+| \#mahābandhana | noun |  | strong bondage |
 | \#mutto | pp | masc.nom.sg | released, set free, freed |
 | \#amhi | verb | pr.3.sg | I am |
 | nihato | adj | masc.nom.sg | "slain"; put down, settled; destroyed; dejected, humiliated; humble |
-| tvamasi | | | |
-| \#tvaṃ | pron | 2.nom.sg | you |
+| tvamasi |  |  |  |
+
+\#tvaṃ pron 2.nom.sg you
+
+| --- | --- | --- | --- |
 | \#asi | verb | pr.2.sg | you are |
 | antaka | noun | masc.voc.sg | being at the end, or making an end, Ep. of Death or Māra |
-|  |  |  |  |
-| I am released from strong bondage, you are destroyed Māra! | | | |
-|  |  |  |  |
-| 9. (TH 255) | | | |
-|  |  |  |  |
-| brahmajacco pure āsiṃ, udicco ubhato ahu. | | | |
-|  |  |  |  |
+
+**I am released from strong bondage, you are destroyed Māra!**
+
+9. (TH 255)
+
+brahmajacco pure āsiṃ, udicco ubhato ahu.
+
+| --- | --- | --- | --- |
 | brahmajacco | adj | masc.nom.sg | belonging to the brahman caste. |
-| pure | ind | | before; formerly; earlier |
+| pure | ind |  | before; formerly; earlier |
 | āsiṃ | verb | aor.1.sg | I was |
 | udicco | adj | masc.nom.sg | noble; of the northern origin |
 | ubhato | adj | masc.nom.sg | both, twofold, in both (or two) ways, on both sides |
 | ahuṃ | verb reflx | aor.1.sg | I was |
-|  |  |  |  |
-| belonging to the brahman caste formerly I was, noble on both sides I was. | | | |
-|  |  |  |  |
-| 10. (THI 71) | | | |
-|  |  |  |  |
-| ahaṃ tava vasānugo siyaṃ, yadi viharāmase kānanantare. | | | |
-|  |  |  |  |
-| ahaṃ | pron | 1.nom.sg | I |
-| tava | pron | 2.dat.sg | to you |
+
+**belonging to the brahman caste formerly I was, noble on both sides I was.**
+
+10. (THI 71)
+
+ahaṃ tava vasānugo siyaṃ, yadi viharāmase kānanantare.
+
+ahaṃ pron 1.nom.sg I
+
+tava pron 2.dat.sg to you
+
+| --- | --- | --- | --- |
 | vasānugo | adj | masc.nom.sg | obedient; dependent; subjected |
 | siyaṃ | verb | opt.1.sg | I may be |
-| yadi | ind | | if; however |
+| yadi | ind |  | if; however |
 | viharāmase | verb reflx | imp.1.pl | we may live |
 | kānanantare. | noun | nt.loc.sg | in inside of a forest. |
-|  |  |  |  |
-| I can be dependent of you, if we may live inside of a forest. | | | |
-|  |  |  |  |
-| 11. (DN 16.36) | | | |
-|  |  |  |  |
-| siyā kho pana, bhikkhave, ekabhikkhussāpi kaṅkhā vā vimati vā … magge vā paṭipadāya vā | | | |
-|  |  |  |  |
+
+**I can be dependent of you, if we may live inside of a forest.**
+
+11. (DN 16.36)
+
+siyā kho pana, bhikkhave, ekabhikkhussāpi kaṅkhā vā vimati vā … magge vā paṭipadāya vā
+
+| --- | --- | --- | --- |
 | siyā | verb | opt.3.sg | could be |
-| kho pana | ind | | and then |
+| kho pana | ind |  | and then |
 | bhikkhave | noun | masc.voc.pl | o monks! |
 | eka bhikkhussa api | noun | masc.dat.sg | for just one monk |
 | kaṅkhā | noun | fem.nom.sg | doubt; uncertainty |
-| vā | ind | | or |
+| vā | ind |  | or |
 | vimati | noun | fem.nom.sg | doubt, perplexity |
-| vā | ind | | or |
+| vā | ind |  | or |
 | magge | noun | masc.loc.sg | in path, way |
-| vā | ind | | or |
+| vā | ind |  | or |
 | paṭipadāya | noun | fem.loc.sg | in means, method, mode of progress |
-| vā | ind | | or |
-|  |  |  |  |
-| and then, o monks, for just one monk could be doubt or perplexity in path or in mode of progress. | | | |
-|  |  |  |  |
-| 12. (THI 63) | | | |
-|  |  |  |  |
-| kalyāṇamitte bhajamāno, api bālo paṇḍito assa. | | | |
-|  |  |  |  |
+| vā | ind |  | or |
+
+**and then, o monks, for just one monk could be doubt or perplexity in path or in mode of progress.**
+
+12. (THI 63)
+
+kalyāṇamitte bhajamāno, api bālo paṇḍito assa.
+
+| --- | --- | --- | --- |
 | kalyāṇamitte | noun | masc.acc.pl | good companions; honest friends |
 | bhajamāno | prp | masc.nom.sg | associating with; keeping company |
-| api | ind | | even |
+| api | ind |  | even |
 | bālo | noun | masc.nom.sg | fool |
 | paṇḍito | noun | masc.nom.sg | wise man |
 | assa. | verb | opt.3.sg | could be |
-|  |  |  |  |
-| associating with good companions, even fool could become a wise man | | | |
-|  |  |  |  |
-| 13. (APA 69) | | | |
-|  |  |  |  |
-| aruṇakā satta janā, cakkavattī mahabbalā.<br>chattiṃsatimhi āsiṃsu, kappamhi manujādhipā. | | | |
-|  |  |  |  |
+
+**associating with good companions, even fool could become a wise man**
+
+13. (APA 69)
+
+aruṇakā satta janā, cakkavattī mahabbalā.
+chattiṃsatimhi āsiṃsu, kappamhi manujādhipā.
+
+| --- | --- | --- | --- |
 | aruṇakā | noun | masc.nom.pl | kings Arunaka |
 | satta | adj | masc.nom.pl | seven |
 | janā | noun | masc.nom.pl | persons; men; the people |
@@ -999,19 +1139,23 @@
 | āsiṃsu | verb | aor.3.pl | they were |
 | kappamhi | adj | masc.loc.sg | in aeon |
 | manujādhipā. | noun | masc.nom.pl | lords of men, a kings |
-|  |  |  |  |
-| there were seven people - kings Arunaka, in thirty-six aeon ago, they were universal monarchs, lords of men. | | | |
-|  |  |  |  |
-| 14. (SNP 39) | | | |
-|  |  |  |  |
-| "yo kāme parivajjeti,<br>sappasseva padā siro,<br>so imaṃ visattikaṃ loke,<br>sato samativattati." | | | |
-|  |  |  |  |
+
+**there were seven people - kings Arunaka, in thirty-six aeon ago, they were universal monarchs, lords of men.**
+
+14. (SNP 39)
+
+"yo kāme parivajjeti,
+sappasseva padā siro,
+so imaṃ visattikaṃ loke,
+sato samativattati."
+
+| --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | that who, whoever |
 | kāme | noun | masc.acc.pl | sensual pleasures |
 | parivajjeti | verb | pr.3.sg | shuns; avoids; keeps away from |
-| sappasseva | | | |
+| sappasseva |  |  |  |
 | \#sappassa | noun | masc.gen.sg | of snake |
-| \#iva | ind | | as, like |
+| \#iva | ind |  | as, like |
 | padā | noun | masc.abl.sg | from foot |
 | siro. | noun | masc.acc.sg | head (object) |
 | so | noun | masc.nom.sg | he |
@@ -1020,207 +1164,237 @@
 | loke | noun | masc.loc.sg | in world |
 | sato | adj | masc.nom.sg | mindful |
 | samativattati. | verb | pr.3.sg | overcomes; transcends |
-|  |  |  |  |
-| whoever avoids sensual pleasures, as head of snake (away) from foot, mindful he this craving for the world overcomes. | | | |
-|  |  |  |  |
-| 15. (MN 39) | | | |
-|  |  |  |  |
-| seyyathāpi, mahārāja, puriso ābādhiko assa dukkhito bāḷhagilāno; bhattañcassa nacchādeyya, na cassa kāye balamattā. | | | |
-|  |  |  |  |
-| seyyathāpi | ind | | just as |
+
+**whoever avoids sensual pleasures, as head of snake (away) from foot, mindful he this craving for the world overcomes.**
+
+15. (MN 39)
+
+seyyathāpi, mahārāja, puriso ābādhiko assa dukkhito bāḷhagilāno; bhattañcassa nacchādeyya, na cassa kāye balamattā.
+so aparena samayena tamhā ābādhā mucceyya; bhattaṃ cassa chādeyya, siyā cassa kāye balamattā.
+tassa evamassa — ahaṃ kho pubbe ābādhiko ahosiṃ ... na ca me āsi kāye balamattā.
+somhi etarahi tamhā ābādhā mutto.
+
+| --- | --- | --- | --- |
+| seyyathāpi | ind |  | just as |
 | mahārāja | noun | masc.voc.sg | o great king! |
 | puriso | noun | masc.nom.sg | man |
 | ābādhiko | adj | masc.nom.sg | sick; affected with illness |
 | assa | verb | opt.3.sg | could be |
 | dukkhito | adj | masc.nom.sg | afflicted; grieved; unhappy; suffering; ailing |
 | bāḷhagilāno | adj | masc.nom.sg | strongly sick |
-| bhattañcassa | | | |
+| bhattañcassa |  |  |  |
 | \#bhattaṃ | noun | nt.nom.sg | food |
 | \#ca assa | pron | masc.dat.sg | and to him |
 | na chādeyya | verb | opt.3.sg | not pleases, to give pleasure |
-| na | ind | | not |
+| na | ind |  | not |
 | cassa | pron | masc.gen.sg | and his |
 | kāye | noun | masc.loc.sg | in body |
 | balamattā. | noun | fem.nom.sg | right measure of strength |
-|  |  |  |  |
-| o great king, suppose a person could be sick, suffering, and strongly sick. Food could not give pleasure to him, there is no right measure of strength in his body. | | | |
-|  |  |  |  |
-| so aparena samayena tamhā ābādhā mucceyya; bhattaṃ cassa chādeyya, siyā cassa kāye balamattā. | | | |
-|  |  |  |  |
+
+**o great king, suppose a person could be sick, suffering, and strongly sick. Food could not give pleasure to him, there is no right measure of strength in his body.**
+
+| --- | --- | --- | --- |
 | so | noun | masc.nom.sg | he |
 | aparena | adj | masc.instr.sg | by another |
 | samayena | noun | masc.instr.sg | by time |
 | tamhā | noun | masc.abl.sg | from that |
 | ābādhā | noun | masc.abl.sg | from disease; affliction |
 | mucceyya | verb | opt.3.sg | could become free |
-| bhattaṃ + ca + assa | | | and food for him |
+| bhattaṃ + ca + assa |  |  | and food for him |
 | chādeyya | verb | opt.3.sg | could give pleasure; enjoy |
 | siyā | verb | opt.3.sg | could be |
 | cassa | pron | masc.gen.sg | and his |
 | kāye | noun | masc.loc.sg | in body |
 | balamattā | noun | fem.nom.sg | right measure of strength |
-|  |  |  |  |
-| by another time he could become free from that disease, and food could give pleasure to him, and there is right measure of strength in his body. | | | |
-|  |  |  |  |
-| tassa evamassa — ahaṃ kho pubbe ābādhiko ahosiṃ ... na ca me āsi kāye balamattā. | | | |
-|  |  |  |  |
+
+**by another time he could become free from that disease, and food could give pleasure to him, and there is right measure of strength in his body.**
+
+| --- | --- | --- | --- |
 | tassa | pron | masc.dat.sg | to him |
-| evamassa | | | |
-| \#evaṃ | ind | | thus |
+| evamassa |  |  |  |
+| \#evaṃ | ind |  | thus |
 | \#assa | verb | opt.3.sg | it could be |
 | ahaṃ | pron | masc.nom.sg | I |
-| kho | ind | | indeed |
-| pubbe | ind | | formerly |
+| kho | ind |  | indeed |
+| pubbe | ind |  | formerly |
 | ābādhiko | adj | masc.nom.sg | sick; affected with illness |
 | ahosiṃ | verb | aor.1.sg | I was |
-| ... | | | |
-| na | ind | | not |
-| ca | ind | | and |
+| ... |  |  |  |
+| na | ind |  | not |
+| ca | ind |  | and |
 | me | pron | masc.gen.sg | my |
 | āsi | verb | aor.3.sg | it was, there was |
 | kāye | noun | masc.loc.sg | in body |
 | balamattā | noun | fem.nom.sg | right measure of strength |
-|  |  |  |  |
-| thus could be for him - “I indeed formerly was sick … and there was not right measure of strength in my body | | | |
-|  |  |  |  |
-| somhi etarahi tamhā ābādhā mutto. | | | |
-|  |  |  |  |
-| somhi | | | |
-| \#so | ind | | and, so, therefore |
+
+**thus could be for him - “I indeed formerly was sick … and there was not right measure of strength in my body**
+
+| --- | --- | --- | --- |
+| somhi |  |  |  |
+| \#so | ind |  | and, so, therefore |
 | \#amhi | verb | pr.1.sg | I am |
-| etarahi | ind | | now; at present |
+| etarahi | ind |  | now; at present |
 | tamhā | noun | masc.abl.sg | from that |
 | ābādhā | noun | masc.abl.sg | from disease; affliction |
 | mutto. | pp | masc.nom.sg | freed, released |
-|  |  |  |  |
-| and now I am freed from that disease | | | |
-|  |  |  |  |
-| 16. (SN 7.15) | | | |
-|  |  |  |  |
-| tesu assa sagāravo, te cassu sādhu supūjitā. | | | |
-|  |  |  |  |
+
+**and now I am freed from that disease**
+
+16. (SN 7.15)
+
+tesu assa sagāravo, te cassu sādhu supūjitā.
+
+| --- | --- | --- | --- |
 | tesu | pron | masc.loc.pl | in them |
 | assa | verb | opt.2.sg | you could be, should be |
 | sagāravo | adj | masc.nom.sg | respectful |
 | te | pron | masc.nom.pl | they |
-| ca | ind | | and |
+| ca | ind |  | and |
 | assu | verb | opt.3.pl | could be, should be |
-| sādhu | ind | | well; thoroughly. |
+| sādhu | ind |  | well; thoroughly. |
 | supūjitā. | pp | masc.nom.pl | well worshipped, highly honoured, deeply venerated |
-|  |  |  |  |
-| you should be respectful to them, they should be well respected. | | | |
-|  |  |  |  |
-| 17. (SN 2.9) | | | |
-|  |  |  |  |
-| namo te buddha vīratthu, vippamuttosi sabbadhi. | | | |
-|  |  |  |  |
-| namo | ind | | homage, veneration |
-| te | pron | 2.dat.sg | to you |
+
+**you should be respectful to them, they should be well respected.**
+
+17. (SN 2.9)
+
+namo te buddha vīratthu, vippamuttosi sabbadhi.
+
+| --- | --- | --- | --- |
+| namo | ind |  | homage, veneration |
+
+te pron 2.dat.sg to you
+
+| --- | --- | --- | --- |
 | buddha | noun | masc.voc.sg | the Buddha |
-| vīratthu | | | |
-| \#vīra | adj | | brave; heroic |
+| vīratthu |  |  |  |
+| \#vīra | adj |  | brave; heroic |
 | \#atthu | verb | imp.3.sg | be it so, may it be |
-| vippamuttosi | | | |
-| \#vippamutto | pp | | released, set free, saved |
+| vippamuttosi |  |  |  |
+| \#vippamutto | pp |  | released, set free, saved |
 | \#asi | verb | pr.2.sg | you are |
-| sabbadhi. | ind | | everywhere |
-|  |  |  |  |
-| may there be homage to you, the heroic Buddha, everywhere you are released | | | |
-|  |  |  |  |
-| 18. JA 545 (KN 15.545) | | | |
-|  |  |  |  |
-| kassapassa vaco sutvā, alāto etadabravi.<br>yathā bhadanto bhaṇati, mayhampetaṃva ruccati. | | | |
-|  |  |  |  |
+| sabbadhi. | ind |  | everywhere |
+
+**may there be homage to you, the heroic Buddha, everywhere you are released**
+
+18. JA 545 (KN 15.545)
+
+kassapassa vaco sutvā, alāto etadabravi.
+yathā bhadanto bhaṇati, mayhampetaṃva ruccati.
+
+| --- | --- | --- | --- |
 | kassapassa | noun | masc.gen.sg | of the Kassapa Buddha |
 | vaco | noun | masc.acc.sg | speech |
 | sutvā | verb | abs | having heard |
 | alāto | noun | masc.nom.sg | Alāta , firebrand |
-| etadabravi | | | |
+| etadabravi |  |  |  |
 | \#etad | pron | nt.nom.sg | this |
 | \#abravi | verb | aor.3.sg | sayed; spoke |
-| yathā | ind | | like, as |
+| yathā | ind |  | like, as |
 | bhadanto | adj | masc.nom.sg | venerable; reverend |
 | bhaṇati | verb | pr.3.sg | speaks; tells; preaches |
-| mayhampetaṃva | | | |
-| \#mayhaṃ | pron | 1.dat.sg | for me |
-| \#api | ind | | only |
+| mayhampetaṃva |  |  |  |
+
+\#mayhaṃ pron 1.dat.sg for me
+
+| --- | --- | --- | --- |
+| \#api | ind |  | only |
 | \#etaṃ | noun | nt.nom.sg | this |
-| \#eva | ind | | just |
+| \#eva | ind |  | just |
 | ruccati. | verb | pr.3.sg | finds delight in; likes |
-|  |  |  |  |
-| Alāta having heard speech of the Kassapa Buddha spoke this: “as venerable speaks, just only this finds delight for me | | | |
-|  |  |  |  |
-| 19. (SN 15.10) | | | |
-|  |  |  |  |
-| so kho panāyaṃ akkhāto, vepullo pabbato mahā. | | | |
-|  |  |  |  |
+
+**Alāta having heard speech of the Kassapa Buddha spoke this: “as venerable speaks, just only this finds delight for me**
+
+19. (SN 15.10)
+
+so kho panāyaṃ akkhāto, vepullo pabbato mahā.
+
+| --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he |
-| kho pana | ind | | and than |
+| kho pana | ind |  | and than |
 | ayaṃ | pron | masc.acc.sg | this |
 | akkhāto | pp | masc.nom.sg | announced; told; declared |
 | vepullo | noun | masc.nom.sg | Vepulla, full development |
 | pabbato | noun | masc.nom.sg | mountain |
 | mahā. | adj | masc.nom.sg | great |
-|  |  |  |  |
-| mountain Vepulla is said to be the great | | | |
-|  |  |  |  |
-| 20. (SN 21.6) | | | |
-|  |  |  |  |
-| evameva manussesu, daharo cepi paññavā.<br>so hi tattha mahā hoti, neva bālo sarīravā | | | |
-|  |  |  |  |
-| evameva | ind | | similarly, in the same way, so too, just so |
+
+**mountain Vepulla is said to be the great**
+
+20. (SN 21.6)
+
+evameva manussesu, daharo cepi paññavā.
+so hi tattha mahā hoti, neva bālo sarīravā
+
+| --- | --- | --- | --- |
+| evameva | ind |  | similarly, in the same way, so too, just so |
 | manussesu | noun | masc.loc.pl | in human beings, men |
 | daharo | noun | masc.nom.sg | small one |
-| cepi | ind | | just if |
+| cepi | ind |  | just if |
 | paññavā. | adj | masc.nom.sg | wise, intelligent, insightful, percipient |
 | so | pron | masc.nom.sg | he |
-| hi | ind | | indeed |
-| tattha | ind | | there; in that place |
+| hi | ind |  | indeed |
+| tattha | ind |  | there; in that place |
 | mahā | adj | masc.nom.sg | great |
 | hoti | verb | pr.3.sg | he is |
-| na eva | ind | | not even |
+| na eva | ind |  | not even |
 | bālo | noun | masc.nom.sg | fool |
 | sarīravā | adj | masc.nom.sg | having a bulky body, having a large body |
-|  |  |  |  |
-| in the same way among humans, just if small one wise, in that regard indeed he is the great, not the not fool, even having a large body. | | | |
 
-| 21. KN-a Dhp, 9.3 | | | |
-| ------------------------------------------------------------------------------------------------------------------------ | ------ | ------------ | ------------------------------------------------------------------------ |
-| sā … tumhehi diṭṭhadhammassa bhāginī assan”ti patthanaṃ akāsi. | | | |
+**in the same way among humans, just if small one wise, in that regard indeed he is the great, not the not fool, even having a large body.**
+
+
+21. KN-a Dhp, 9.3
+
+sā … tumhehi diṭṭhadhammassa bhāginī assan”ti patthanaṃ akāsi.
+
+| --- | --- | --- | --- |
 | sā | pron | fem.nom.sg | she |
-| tumhehi | pron | 2.ins.pl | with you, by you |
+
+tumhehi pron 2.ins.pl with you, by you
+
+| --- | --- | --- | --- |
 | diṭṭhadhammassa | noun | masc.gen.sg | this world. (adj.) one who has realised the final truth. |
 | bhāginī | adj | masc.nom.sg | sharing in, partaking of (with gen.), endowed with; getting, receiving |
 | assan”ti | verb | opt.1.sg | I would be |
 | patthanaṃ | noun | fem.acc.sg | aiming at; aspiration; desire |
 | akāsi. | verb | aor.3.sg | did, made, or performed |
-| **she made aspiration : “I should be a one who sharing that state of realisation the final truth (attained) by you.”** | | | |
+
+**she made aspiration : “I should be a one who sharing that state of realisation the final truth (attained) by you.”**
+
 
 
 
 ## Class 33
 
-| 1. (TH 263) | | | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------------- | -------------------------------------------------------------- |
-|  |  |  |  |
-| sohaṃ ajja kathaṃ vajjaṃ, ahaṃ niccomhi sassato. | | | |
-|  |  |  |  |
-| so | ind | | and, so, therefore |
-| ahaṃ | pron | 1.nom.sg | I |
-| ajja | ind | | today, now |
-| kathaṃ | ind | | how? why for what reason? |
+1. (TH 263)
+
+sohaṃ ajja kathaṃ vajjaṃ, ahaṃ niccomhi sassato.
+
+| --- | --- | --- | --- |
+| so | ind |  | and, so, therefore |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
+| ajja | ind |  | today, now |
+| kathaṃ | ind |  | how? why for what reason? |
 | vajjaṃ | verb | opt.1.sg | I would say, may say |
-| ahaṃ | pron | 1.nom.sg | I |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
 | nicco | adj | masc.nom.sg | constant; continuous; permanent. |
 | amhi | verb | pr.1.sg | I am |
 | sassato. | adj | masc.nom.sg | eternal, perpetual |
-|  |  |  |  |
-| therefore how I woiuld say now : “I am permanent, eternal. ? | | | |
-|  |  |  |  |
-| 2. (THI 69) | | | |
-|  |  |  |  |
-| ehi sārathi gacchāhi, rathaṃ niyyādayāhimaṃ.<br>ārogyaṃ brāhmaṇiṃ vajjā, pabbajitodāni brāhmaṇo. | | | |
-|  |  |  |  |
+
+**therefore how I woiuld say now : “I am permanent, eternal. ?**
+
+2. (THI 69)
+
+ehi sārathi gacchāhi, rathaṃ niyyādayāhimaṃ.
+ārogyaṃ brāhmaṇiṃ vajjā, pabbajitodāni brāhmaṇo.
+
+| --- | --- | --- | --- |
 | ehi | verb | imp.2.sg | you come, come here |
 | sārathi | noun | masc.voc.sg | a charioteer; a coachman; a driver |
 | gacchāhi | verb | imp.2.sg | you go |
@@ -1231,81 +1405,69 @@
 | brāhmaṇiṃ | noun | fem.acc.sg | brahmans woman |
 | vajja | verb | opt.2.sg | you should say |
 | pabbajito | noun | masc.nom.sg | monk |
-| dāni | ind | | now |
+| dāni | ind |  | now |
 | brāhmaṇo. | noun | masc.nom.sg | a man of the Brahman caste |
-|  |  |  |  |
-| Come here charioteer, go and hand over this carriage, and you should say to Brahmans woman about health, and that Brahman is now a monk. | | | |
-|  |  |  |  |
-| 3. THI 68 | | | |
-|  |  |  |  |
-| (a) vandanaṃ dāni vajjāsi, lokanāthaṃ anuttaraṃ | | | |
-|  |  |  |  |
+
+**Come here charioteer, go and hand over this carriage, and you should say to Brahmans woman about health, and that Brahman is now a monk.**
+
+3. THI 68
+
+(a) vandanaṃ dāni vajjāsi, lokanāthaṃ anuttaraṃ
+(b) vandanaṃ dāni te vajjaṃ, lokanāthaṃ anuttaraṃ.
+
+| --- | --- | --- | --- |
 | vandanaṃ | noun | nt.acc.sg | salutation; homage |
-| dāni | ind | | now |
+| dāni | ind |  | now |
 | vajjāsi | verb | opt.2.sg | you would say |
 | lokanāthaṃ | noun | masc.acc.sg | the lord of the world |
 | anuttaraṃ | adj | masc.acc.sg | incomparable; unsurpassed |
-|  |  |  |  |
-| now you should say salutation to the incomparable lord of the world | | | |
-|  |  |  |  |
-| (b) vandanaṃ dāni te vajjaṃ, lokanāthaṃ anuttaraṃ. | | | |
-|  |  |  |  |
+
+**now you should say salutation to the incomparable lord of the world**
+
+| --- | --- | --- | --- |
 | te | pron | masc.acc.sg | those (resp pl) |
 | vajjaṃ | verb | opt.1.sg | I would say |
-|  |  |  |  |
-| now I should say salutation to that incomparable lord of the world | | | |
-|  |  |  |  |
-| 4. Vin 4.1.14 | | | |
-|  |  |  |  |
-| na tāhaṃ sakkomi vitthārena dhammaṃ desetuṃ, api ca te saṃkhittena atthaṃ vakkhāmīti. | | | |
-|  |  |  |  |
-| na | ind | | not |
+
+**now I should say salutation to that incomparable lord of the world**
+
+4. Vin 4.1.14
+
+na tāhaṃ sakkomi vitthārena dhammaṃ desetuṃ, api ca te saṃkhittena atthaṃ vakkhāmīti.
+
+| --- | --- | --- | --- |
+| na | ind |  | not |
 | te | pron | masc.dat.sg | to you |
-| ahaṃ | pron | 1.nom.sg | I |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
 | sakkomi | verb | pr.1.sg | I am able |
 | vitthārena | noun | masc.instr.sg | with explanation; by detail |
 | dhammaṃ | noun | masc.acc.sg | Teaching |
 | desetuṃ | verb | inf | to preach |
-| api | ind | | and; even; and then. |
-| ca | ind | | and, if |
+| api | ind |  | and; even; and then. |
+| ca | ind |  | and, if |
 | te | pron | masc.dat.sg | to you |
-| saṃkhittena | ind | | in brief |
+| saṃkhittena | ind |  | in brief |
 | atthaṃ | noun | masc.acc.sg | meaning |
 | vakkhāmi | verb | fut.1.sg | I will say |
-|  |  |  |  |
-| I am not able to preach Teaching in detail to you, but I will tall meaning in brief to you | | | |
-|  |  |  |  |
-| 5.a Mil 1.3 | | | |
-| “tumhe hiyyo amhākaṃ gehe kiñci alabhitvāva “labhimhā”ti avocuttha | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| “Yesterday, without getting anything at our house, you said: “We got it,” | | | |
-| 5.b VINa 1.1.3 | | | |
-| athetaṃ paṭisanthāraṃ upādāya evamavocumhā”ti. | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| 5. Vin 4.1.1 | | | |
-|  |  |  |  |
-| tena samayena buddho bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre bodhirukkhamūle | | | |
-|  |  |  |  |
+
+**I am not able to preach Teaching in detail to you, but I will tall meaning in brief to you**
+
+5.a Mil 1.3
+
+“tumhe hiyyo amhākaṃ gehe kiñci alabhitvāva “labhimhā”ti avocuttha
+“Yesterday, without getting anything at our house, you said: “We got it,”
+
+5.b VINa 1.1.3
+
+athetaṃ paṭisanthāraṃ upādāya evamavocumhā”ti.
+
+5. Vin 4.1.1
+
+tena samayena buddho bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre bodhirukkhamūle
+
+| --- | --- | --- | --- |
 | tena | pron | masc.instr.sg | by that |
 | samayena | noun | masc.instr.sg | by time, occasion |
 | buddho | noun | masc.nom.sg | The Buddha |
@@ -1315,205 +1477,228 @@
 | najjā | noun | fem.gen.sg | of river |
 | nerañjarāya | noun | fem.gen.sg | of Nerañjarā: name of a river. |
 | tīre | noun | nt.loc.sg | in the shore; riverbank |
-| bodhirukkhamūle | | | |
-| \#bodhi | noun | | the tree of wisdom, the sacred Bo tree, the fig tree |
+| bodhirukkhamūle |  |  |  |
+| \#bodhi | noun |  | the tree of wisdom, the sacred Bo tree, the fig tree |
 | \#rukkhamūle | noun | nt.loc.sg | in the foot of a tree. |
-|  |  |  |  |
-| on that time the Buddha, The Fortunate One, stays in Uruvela, in the riverbank of the river Nerañjarā, in the foot of the Bodhi tree. | | | |
-|  |  |  |  |
-| 6. (SN 55.41) | | | |
-|  |  |  |  |
-| najjo yathā nara-gaṇa-saṅgha-sevitā<br>puthū savantī upayanti sāgaraṃ. | | | |
-|  |  |  |  |
+
+**on that time the Buddha, The Fortunate One, stays in Uruvela, in the riverbank of the river Nerañjarā, in the foot of the Bodhi tree.**
+
+6. (SN 55.41)
+
+najjo yathā nara-gaṇa-saṅgha-sevitā
+puthū savantī upayanti sāgaraṃ.
+
+| --- | --- | --- | --- |
 | najjo | noun | fem.nom.pl | rivers |
-| yathā | ind | | just as. |
-| naragaṇasaṅghasevitā | | | |
-| \#nara | noun | | man; a human being. |
-| \#gaṇa | noun | | crowd |
-| \#saṅgha | noun | | multitude, assemblage |
+| yathā | ind |  | just as. |
+| naragaṇasaṅghasevitā |  |  |  |
+| \#nara | noun |  | man; a human being. |
+| \#gaṇa | noun |  | crowd |
+| \#saṅgha | noun |  | multitude, assemblage |
 | \#sevitā | pp | fem.nom.pl | served; associated with; made use of; practised, frequented |
-| puthu | ind | | separately, individually |
+| puthu | ind |  | separately, individually |
 | savantī | noun | fem.nom.pl | rivers |
 | upayanti | verb | pr.3.pl | approache |
 | sāgaraṃ. | noun | masc.acc.sg | the sea; ocean |
-|  |  |  |  |
-| just as rivers served to multitude crowd of people, rivers separately approache to the ocean. | | | |
-|  |  |  |  |
-| 7. (SN 11.15) | | | |
-|  |  |  |  |
-| ārāmacetyā vanacetyā, pokkharañño sunimmitā.<br>manussarāmaṇeyyassa, kalaṃ nāgghanti soḷasiṃ. | | | |
-|  |  |  |  |
+
+**just as rivers served to multitude crowd of people, rivers separately approache to the ocean.**
+
+7. (SN 11.15)
+
+ārāmacetyā vanacetyā, pokkharañño sunimmitā.
+manussarāmaṇeyyassa, kalaṃ nāgghanti soḷasiṃ.
+
+| --- | --- | --- | --- |
 | ārāmacetyā | noun | masc.nom.pl | sacred gardens; parks |
 | vanacetyā | noun | masc.nom.pl | sacred forests |
 | pokkharañño | noun | fem.nom.pl | ponds |
 | sunimmitā. | pp | fem.nom.pl | well created; fashioned; built; produced. |
-| manussarāmaṇeyyassa | | | |
-| \#manussa | | | man, human |
+| manussarāmaṇeyyassa |  |  |  |
+| \#manussa |  |  | man, human |
 | \#rāmaṇeyyassa | adj | masc.gen.sg | of agreeable, good natured |
-| kalaṃ | noun | | a small fraction of a whole, generally the 16th part; 1/16 |
+| kalaṃ | noun |  | a small fraction of a whole, generally the 16th part; 1/16 |
 | nāgghanti | verb | pr.3.pl | are not worth; deserves |
 | soḷasiṃ. | noun | fem. | sixteenth |
-|  |  |  |  |
-| sacred parks, sacred forests, well created ponds, they are not worth 1/16 of delightful human. | | | |
-|  |  |  |  |
-| 8. DHP 98 | | | |
-|  |  |  |  |
-| gāme vā yadi vāraññe, ninne vā yadi vā thale.<br>yattha arahanto viharanti, taṃ bhūmirāmaṇeyyakanti. | | | |
-|  |  |  |  |
+
+**sacred parks, sacred forests, well created ponds, they are not worth 1/16 of delightful human.**
+
+8. DHP 98
+
+gāme vā yadi vāraññe, ninne vā yadi vā thale.
+yattha arahanto viharanti, taṃ bhūmirāmaṇeyyakanti.
+
+| --- | --- | --- | --- |
 | gāme | noun | masc.loc.sg | in village, hamlet, collection of houses |
-| vā | ind | | or |
-| yadi | ind | | if, even, even if, perhaps |
-| vā | ind | | or |
+| vā | ind |  | or |
+| yadi | ind |  | if, even, even if, perhaps |
+| vā | ind |  | or |
 | araññe | noun | nt.loc.sg | in forest, wood, wilds |
 | ninne | noun | nt.loc.sg | in lowlands, vale |
-| vā | ind | | or |
-| yadi | ind | | if, even, even if, perhaps |
-| vā | ind | | or |
+| vā | ind |  | or |
+| yadi | ind |  | if, even, even if, perhaps |
+| vā | ind |  | or |
 | thale. | noun | nt.loc.sg | in highlands, high ground, plateau |
-| yattha | ind | | wherever, where |
+| yattha | ind |  | wherever, where |
 | arahanto | noun | masc.nom.pl | enlightened beings, lit. worthy ones |
 | viharanti | verb | pr.3.pl | they live, stay, remain, continue |
 | taṃ | pron | fem.acc.sg | that |
-| bhūmirāmaṇeyyakaṃ | | | |
-| \#bhūmi | noun | | land, region, area |
+| bhūmirāmaṇeyyakaṃ |  |  |  |
+| \#bhūmi | noun |  | land, region, area |
 | \#rāmaṇeyyakaṃ | adj | fem.acc.sg | delightful, pleasing |
-|  |  |  |  |
-| in village or even in forest, in lowlands or even in highlands, wherever enlightened beings stay, that area is delightful. | | | |
-|  |  |  |  |
-| 9. JA 149 | | | |
-|  |  |  |  |
-| ekapaṇṇo ayaṃ rukkho, na bhūmyā caturaṅgulo; | | | |
-|  |  |  |  |
+
+**in village or even in forest, in lowlands or even in highlands, wherever enlightened beings stay, that area is delightful.**
+
+9. JA 149
+
+ekapaṇṇo ayaṃ rukkho, na bhūmyā caturaṅgulo;
+
+| --- | --- | --- | --- |
 | ekapaṇṇo | adj | masc.nom.sg | having only a single leaf. |
 | ayaṃ | pron | masc.nom.sg | this |
 | rukkho | noun | masc.nom.sg | a tree |
-| na | ind | | not |
+| na | ind |  | not |
 | bhūmyā | noun | fem.abl.sg | from earth |
 | caturaṅgulo; | adj | masc.nom.sg | measuring four inches |
-|  |  |  |  |
-| this tree having only a single leaf do not have four inches from the earth. | | | |
-|  |  |  |  |
-| 10. (TH 242) | | | |
-|  |  |  |  |
-| tato ratyā vivasāne, sūriyassuggamanaṃ pati.<br>indo brahmā ca āgantvā, maṃ namassiṃsu pañjalī. | | | |
-|  |  |  |  |
-| tato | ind | | from there; from that; thence; therefore |
+
+**this tree having only a single leaf do not have four inches from the earth.**
+
+10. (TH 242)
+
+tato ratyā vivasāne, sūriyassuggamanaṃ pati.
+indo brahmā ca āgantvā, maṃ namassiṃsu pañjalī.
+
+| --- | --- | --- | --- |
+| tato | ind |  | from there; from that; thence; therefore |
 | ratyā | noun | fem.loc.sg | in night |
 | vivasāne | noun | nt.loc.sg | in the the end |
 | sūriyassuggamanaṃ | noun | nt.acc.sg | rising; rise of the sun |
-| \#sūriyassa | | | |
-| \#uggamanaṃ | | | |
-| pati. | ind | | |
+| \#sūriyassa |  |  |  |
+| \#uggamanaṃ |  |  |  |
+| pati. | ind |  |  |
 | indo | noun | masc.nom.sg | Indra |
 | brahmā | noun | masc.nom.sg | Brahma |
-| ca | ind | | and |
+| ca | ind |  | and |
 | āgantvā | verb | abs | having came. |
-| maṃ | pron | 1.acc.sg | me |
+
+maṃ pron 1.acc.sg me
+
+| --- | --- | --- | --- |
 | namassiṃsu | verb | aor.3.pl | payed honour; venerated. |
-| pañjalī. | adj | | making token of reverence |
-|  |  |  |  |
-| therefore in the the end of night , in the rise of the sun, Indra and Brahma having came, payed honour to me making token of reverence . | | | |
-|  |  |  |  |
-| 11. (DN 16.38) | | | |
-|  |  |  |  |
-| atha kho kosinārakā mallā āyasmantaṃ anuruddhaṃ etadavocuṃ | | | |
-|  |  |  |  |
-| atha kho | ind | | and then |
+| pañjalī. | adj |  | making token of reverence |
+
+**therefore in the the end of night , in the rise of the sun, Indra and Brahma having came, payed honour to me making token of reverence .**
+
+11. (DN 16.38)
+
+atha kho kosinārakā mallā āyasmantaṃ anuruddhaṃ etadavocuṃ
+
+| --- | --- | --- | --- |
+| atha kho | ind |  | and then |
 | kosinārakā | adj | masc.nom.pl | belonging to Kusinārā |
 | mallā | noun | masc.nom.pl | men of the Malla clan. |
 | āyasmantaṃ | noun | masc.acc.sg | venerable |
 | anuruddhaṃ | noun | masc.acc.sg | Anutuddha |
 | etad | pron | nt.nom.sg | this |
 | avocuṃ | verb | aor.3.pl | they said |
-|  |  |  |  |
-| and then men of the Malla clan, belonging to Kusinārā, said this to the venerable Anuruddha. | | | |
-|  |  |  |  |
-| 12. (TH 14) | | | |
-|  |  |  |  |
-| upajjhāyo maṃ avacāsi, ito gacchāma sīvaka. | | | |
-|  |  |  |  |
+
+**and then men of the Malla clan, belonging to Kusinārā, said this to the venerable Anuruddha.**
+
+12. (TH 14)
+
+upajjhāyo maṃ avacāsi, ito gacchāma sīvaka.
+
+| --- | --- | --- | --- |
 | upajjhāyo | noun | masc.nom.sg | spiritual teacher or preceptor |
-| maṃ | pron | 1.acc.sg | me |
+
+maṃ pron 1.acc.sg me
+
+| --- | --- | --- | --- |
 | avacāsi | verb | aor.3.sg | he said |
-| ito | ind | | from here; from now; hence |
+| ito | ind |  | from here; from now; hence |
 | gacchāma | verb | pr.1.pl | we go; move; walk |
 | sīvaka. | noun | masc.voc.sg | o Sīvaka |
-|  |  |  |  |
-| preceptor said to me : “Sīvaka, we go from here. | | | |
-|  |  |  |  |
-| 13. (SN 1.47) | | | |
-|  |  |  |  |
-| papañca udapānañca, ye dadanti upassayaṃ.<br>tesaṃ divā ca ratto ca, sadā puññaṃ pavaḍḍhati. | | | |
-|  |  |  |  |
+
+**preceptor said to me : “Sīvaka, we go from here.**
+
+13. (SN 1.47)
+
+papañca udapānañca, ye dadanti upassayaṃ.
+tesaṃ divā ca ratto ca, sadā puññaṃ pavaḍḍhati.
+dhammaṭṭhā sīlasampannā, te janā saggagāminoti.
+
+| --- | --- | --- | --- |
 | papañca | noun | fem.acc.sg | a watering hole and |
 | udapānañca | noun | masc.acc.sg | a well, a cistern and |
 | ye | pron | masc.nom.pl | they who, those who |
 | dadanti | verb | pr.3.pl | they give; offer |
 | upassayaṃ. | noun | masc.acc.sg | abode; home |
 | tesaṃ | pron | masc.dat.pl | to them |
-| divā | ind | | by day |
-| ca | ind | | and |
-| ratto | ind | | by night |
-| ca | ind | | and |
-| sadā | ind | | ever; always |
+| divā | ind |  | by day |
+| ca | ind |  | and |
+| ratto | ind |  | by night |
+| ca | ind |  | and |
+| sadā | ind |  | ever; always |
 | puññaṃ | noun | nt.nom.sg | merit; righteousness |
 | pavaḍḍhati. | verb | pr.3.sg | grows; increases |
-|  |  |  |  |
-| place to drink and a well, those who offer a abode, for them by day and by night, always merit increases. | | | |
-|  |  |  |  |
-| dhammaṭṭhā sīlasampannā, te janā saggagāminoti. | | | |
-|  |  |  |  |
+
+**place to drink and a well, those who offer a abode, for them by day and by night, always merit increases.**
+
+| --- | --- | --- | --- |
 | dhammaṭṭhā | adj | masc.nom.pl | righteous, just, moral, virtuous, lit. standing on Dhamma |
 | sīlasampannā | adj | masc.nom.pl | accomplished in virtue, of excellent morality |
 | te | pron | masc.nom.pl | they, those |
 | janā | noun | masc.nom.pl | men, people |
 | saggagāmino | adj | masc.nom.pl | going to heaven |
-|  |  |  |  |
-| righteous, accomplished in virtue, those people are going to heaven. | | | |
-|  |  |  |  |
-| 14. (JA 546) | | | |
-|  |  |  |  |
-| najjāyo supatitthāyo, soṇṇavālukasanthatā.<br>acchā savanti ambūni, macchagumbanisevitā. | | | |
-|  |  |  |  |
+
+**righteous, accomplished in virtue, those people are going to heaven.**
+
+14. (JA 546)
+
+najjāyo supatitthāyo, soṇṇavālukasanthatā.
+acchā savanti ambūni, macchagumbanisevitā.
+
+| --- | --- | --- | --- |
 | najjāyo | noun | fem.nom.pl | rivers |
 | supatitthāyo | adj | fem.nom.pl | with beautiful banks, having safe landing or bathing places |
-| soṇṇavālukasanthatā | | | |
+| soṇṇavālukasanthatā |  |  |  |
 | \#soṇṇavāluka | noun | fem. | golden sand. |
 | \#santhatā. | pp | fem.nom.pl | covered with; spread, strewn |
 | acchā | adj | fem.nom.sg | clear; pure |
 | savanti | verb | pr.3.pl | they flow |
 | ambūni | noun | nt.nom.pl | water |
-| macchagumbanisevitā | | | |
+| macchagumbanisevitā |  |  |  |
 | \#macchagumba | noun | masc. | shawl of fish |
 | \#nisevitā. | pp | fem.nom.sg | frequented, practised, enjoyed, indulged in |
-|  |  |  |  |
-| rivers with beautiful banks covered with pure golden sand, water flow, shawl of fish enjoyed. | | | |
-|  |  |  |  |
-| 15. (DN 10.1) | | | |
-|  |  |  |  |
-| evañca vadehi — sādhu kira bhavaṃ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṃ tenupasaṅkamatu | | | |
-|  |  |  |  |
-| evañca | ind | | thus; in this way and |
+
+**rivers with beautiful banks covered with pure golden sand, water flow, shawl of fish enjoyed.**
+
+15. (DN 10.1)
+
+evañca vadehi — sādhu kira bhavaṃ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṃ tenupasaṅkamatu
+
+| --- | --- | --- | --- |
+| evañca | ind |  | thus; in this way and |
 | vadehi | verb | imp.2.sg | you say, speak |
-| sādhu | ind | | it is good |
-| kira | ind | | really, truly, surely. |
+| sādhu | ind |  | it is good |
+| kira | ind |  | really, truly, surely. |
 | bhavaṃ | noun | masc.nom.sg | Sir, Lord, venerable |
 | ānando | noun | masc.nom.sg | Ānanda |
-| yena | ind | | where |
+| yena | ind |  | where |
 | subhassa | adj | masc.gen.sg | of Subha, shining, bright, beautiful |
 | māṇavassa | noun | masc.gen.sg | of young man, young brahman |
 | todeyyaputtassa | noun | masc.gen.sg | of sun of Todeyya |
 | nivesanaṃ | noun | nt.acc.sg | abode; house |
-| tena | ind | | there |
+| tena | ind |  | there |
 | upasaṅkamatu | verb | imp.3.sg | should aproach, may come to |
-|  |  |  |  |
-| in this way you shall speak: “It is really good that Venerable Ānanda may aproache to the house of young brahman Subha sun of Todeyya. | | | |
-|  |  |  |  |
-| 16. (DN 10.1) | | | |
-|  |  |  |  |
-| atha kho so māṇavako … upasaṅkamitvā subhaṃ māṇavaṃ todeyyaputtaṃ etadavoca, “avocumhā kho mayaṃ bhoto vacanena taṃ bhavantaṃ ānandaṃ | | | |
-|  |  |  |  |
-| atha kho | ind | | and then |
+
+**in this way you shall speak: “It is really good that Venerable Ānanda may aproache to the house of young brahman Subha sun of Todeyya.**
+
+16. (DN 10.1)
+
+atha kho so māṇavako … upasaṅkamitvā subhaṃ māṇavaṃ todeyyaputtaṃ etadavoca, “avocumhā kho mayaṃ bhoto vacanena taṃ bhavantaṃ ānandaṃ
+
+| --- | --- | --- | --- |
+| atha kho | ind |  | and then |
 | so | pron | masc.nom.sg | he, that |
 | māṇavako | noun | masc.nom.sg | young man, young brahman |
 | upasaṅkamitvā | verb | abs | having approached; drawing near |
@@ -1522,322 +1707,366 @@
 | todeyyaputtaṃ | noun | masc.acc.sg | sun of Todeyya |
 | etadavoca | verb | aor.3.sg | said this |
 | avocumhā | verb | aor.1.pl | we said |
-| kho | ind | | indeed |
-| mayaṃ | pron | 1.nom.pl | we |
+| kho | ind |  | indeed |
+
+mayaṃ pron 1.nom.pl we
+
+| --- | --- | --- | --- |
 | bhoto | noun | masc.dat.sg | to Sir, Lord, venerable |
 | vacanena | noun | nt.instr.sg | with utterance; word; saying |
 | taṃ | pron | masc.acc.sg | that, he |
 | bhavantaṃ | noun | masc.acc.sg | Sir, Lord, venerable |
 | ānandaṃ | noun | masc.acc.sg | Ānanda |
-|  |  |  |  |
-| and then that young brahman … having approached young brahman Subha, sun of Todeyya, said this: indeed we said to Sir with utterance of venerable Ānanda | | | |
-|  |  |  |  |
-| 17. (TH 172) | | | |
-|  |  |  |  |
-| yañhi kayirā tañhi vade, yaṃ na kayirā na taṃ vade. | | | |
-|  |  |  |  |
+
+**and then that young brahman … having approached young brahman Subha, sun of Todeyya, said this: indeed we said to Sir with utterance of venerable Ānanda**
+
+17. (TH 172)
+
+yañhi kayirā tañhi vade, yaṃ na kayirā na taṃ vade.
+
+| --- | --- | --- | --- |
 | yaṃ | pron | masc.acc.sg | whatever |
-| hi | ind | | indeed |
+| hi | ind |  | indeed |
 | kayirā | verb | opt.3.sg | would do , can make |
 | taṃ | pron | masc.acc.sg | that |
-| hi | ind | | indeed |
+| hi | ind |  | indeed |
 | vade | verb | opt.3.sg | could speak, should say |
 | yaṃ | pron | masc.acc.sg | whatever |
-| na | ind | | not |
+| na | ind |  | not |
 | kayirā | verb | opt.3.sg | would do , can make |
-| na | ind | | not |
+| na | ind |  | not |
 | taṃ | pron | masc.acc.sg | that |
 | vade. | verb | opt.3.sg | could speak, shoul say |
-|  |  |  |  |
-| indeed whatever he can do, that indeed he shoul speak, whatever he cant do , that he should not speak. | | | |
-|  |  |  |  |
-| 18. VIN PAT SA 12 | | | |
-|  |  |  |  |
-| mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahaṃpāyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā | | | |
-|  |  |  |  |
-| mā | ind | | do not |
-| maṃ | pron | 1.acc.sg | me |
+
+**indeed whatever he can do, that indeed he shoul speak, whatever he cant do , that he should not speak.**
+
+18. VIN PAT SA 12
+
+mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahaṃpāyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā
+
+| --- | --- | --- | --- |
+| mā | ind |  | do not |
+
+maṃ pron 1.acc.sg me
+
+| --- | --- | --- | --- |
 | āyasmanto | noun | masc.nom.sg | venerable |
-| kiñci | ind | | something |
+| kiñci | ind |  | something |
 | avacuttha | verb reflx | imperf.3.sg | was saying |
 | kalyāṇaṃ | adj | masc.acc.sg | good, beneficial |
-| vā | ind | | or |
+| vā | ind |  | or |
 | pāpakaṃ | adj | masc.acc.sg | bad, harmful |
-| vā | ind | | or |
-| ahaṃ | pron | 1.nom.sg | I |
+| vā | ind |  | or |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
 | āyasmante | noun | masc.acc.pl | venerables |
-| na | ind | | not |
-| kiñci | ind | | something |
+| na | ind |  | not |
+| kiñci | ind |  | something |
 | vakkhāmi | verb | fut.1.sg | I will say |
 | kalyāṇaṃ | adj | masc.acc.sg | good, beneficial |
-| vā | ind | | or |
+| vā | ind |  | or |
 | pāpakaṃ | adj | masc.acc.sg | bad, harmful |
-| vā | ind | | or |
-|  |  |  |  |
-| do not say to me venerable anything good or bad, I will not say to venerables anything good or bad. | | | |
-|  |  |  |  |
-| 19. VIN PAT SA 12 | | | |
-|  |  |  |  |
-| māyasmā attānaṃ avacanīyaṃ akāsi, … , āyasmāpi bhikkhū vadetu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena. | | | |
-|  |  |  |  |
-| mā | ind | | do not |
+| vā | ind |  | or |
+
+**do not say to me venerable anything good or bad, I will not say to venerables anything good or bad.**
+
+19. VIN PAT SA 12
+
+māyasmā attānaṃ avacanīyaṃ akāsi, … , āyasmāpi bhikkhū vadetu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena.
+
+| --- | --- | --- | --- |
+| mā | ind |  | do not |
 | āyasmā | noun | masc.voc.sg | venerable |
 | attānaṃ | noun | masc.acc.sg | oneself |
 | avacanīyaṃ | adj (ptp) | masc.acc.sg | not to be admonished |
 | akāsi | verb | aor.3.sg | did, made, or performed. |
 | āyasmā | noun | masc.nom.sg | venerable |
-| api | ind | | just |
+| api | ind |  | just |
 | bhikkhū | noun | masc.acc.pl | monks |
 | vadetu | verb | imp.3.sg | may say |
-| sahadhammena | ind | | rightly, justly, reasonably, lit. with reason |
+| sahadhammena | ind |  | rightly, justly, reasonably, lit. with reason |
 | bhikkhū | noun | masc.nom.pl | monks |
-| api | ind | | just |
+| api | ind |  | just |
 | āyasmantaṃ | noun | masc.acc.sg | venerable |
 | vakkhanti | verb | fut.3.pl | they will say |
 | sahadhammena. | noun | masc.instr.sg | with reason, in accordance with Dhamma |
-|  |  |  |  |
-| venerable, do not make oneself not to be admonished, … , and venerable may speak to monks in accordance with Dhamma, and monks will speak with venerable in accordance with Dhamma | | | |
+
+**venerable, do not make oneself not to be admonished, … , and venerable may speak to monks in accordance with Dhamma, and monks will speak with venerable in accordance with Dhamma**
+
 
 ## Class 34
 
-| JA 78 | | | |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------- | ----------------------------------------------------------------------------------------------------- |
-|  |  |  |  |
-| ubho khañjā ubho kuṇī, ubho visamacakkhukā.<br>ubhinnaṃ piḷakā jātā, nāhaṃ passāmi illisaṃ | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| 1. (TH 264) | | | |
-|  |  |  |  |
-| vāriṃ yathā ghammani ghammatatto<br>vācābhikaṅkhāmi sutaṃ pavassa | | | |
-|  |  |  |  |
+JA 78
+ubho khañjā ubho kuṇī, ubho visamacakkhukā.
+ubhinnaṃ piḷakā jātā, nāhaṃ passāmi illisaṃ
+
+1. (TH 264)
+
+vāriṃ yathā ghammani ghammatatto
+vācābhikaṅkhāmi sutaṃ pavassa
+
+| --- | --- | --- | --- |
 | vāriṃ | noun | nt.acc.sg | water |
-| yathā | ind | | as, like |
+| yathā | ind |  | as, like |
 | ghammani | noun | masc.loc.sg | in heat; in the hot season |
-| ghammatatto | | | |
-| \#ghamma | noun | | heat; hot season |
+| ghammatatto |  |  |  |
+| \#ghamma | noun |  | heat; hot season |
 | \#tatto | pp | masc.nom.sg | heated, burned |
-| vācābhikaṅkhāmi | | | |
-| \#vāca | noun | | word; speech; saying |
+| vācābhikaṅkhāmi |  |  |  |
+| \#vāca | noun |  | word; speech; saying |
 | \#abhikaṅkhāmi | verb | pr.1.sg | I long or wish for |
 | sutaṃ | noun | nt.acc.sg | what is heard, sound |
 | pavassa | verb | imp.2.sg | you should rain |
-|  |  |  |  |
-| like water in the hot season by somebody who burned by heat, I wish the word: you should rain the sound. | | | |
-|  |  |  |  |
-| 2. Vin 4, 1.13 | | | |
-|  |  |  |  |
-| etāhaṃ, bhante, veḷuvanaṃ uyyānaṃ buddhappamukhassa bhikkhusaṅghassa dammīti. | | | |
-|  |  |  |  |
-| eta | pron | | this |
-| ahaṃ | pron | 1.nom.sg | I |
+
+**like water in the hot season by somebody who burned by heat, I wish the word: you should rain the sound.**
+
+2. Vin 4, 1.13
+
+etāhaṃ, bhante, veḷuvanaṃ uyyānaṃ buddhappamukhassa bhikkhusaṅghassa dammīti.
+
+| --- | --- | --- | --- |
+| eta | pron |  | this |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
 | bhante | noun | masc.voc.sg | Venerable, Reverend Sir; O lord |
 | veḷuvanaṃ | noun | masc.acc.sg | Veluvana |
 | uyyānaṃ | noun | nt.acc.sg | park; pleasure grove |
-| buddhappamukhassa | | | |
-| \#buddha | noun | | the Buddha |
+| buddhappamukhassa |  |  |  |
+| \#buddha | noun |  | the Buddha |
 | \#pamukhassa | noun | masc.dat.sg | to forest; chief |
 | bhikkhusaṅghassa | noun | masc.dat.sg | to congregation of monks |
 | dammi | verb | pr.1.sg | I give |
-|  |  |  |  |
-| Venerable, I give pleasure grove Veluvana to congregation of monks, with Buddha as chief. | | | |
-|  |  |  |  |
-| 3. Vin 4, 6.117 | | | |
-|  |  |  |  |
-| dehi, je ambapāli, amhākaṃ etaṃ bhattaṃ satasahassenāti. “sacepi me, ayyaputtā, vesāliṃ sāhāraṃ dajjeyyātha, neva dajjāhaṃ taṃ bhattanti. | | | |
-|  |  |  |  |
+
+**Venerable, I give pleasure grove Veluvana to congregation of monks, with Buddha as chief.**
+
+3. Vin 4, 6.117
+
+dehi, je ambapāli, amhākaṃ etaṃ bhattaṃ satasahassenāti. “sacepi me, ayyaputtā, vesāliṃ sāhāraṃ dajjeyyātha, neva dajjāhaṃ taṃ bhattanti.
+
+| --- | --- | --- | --- |
 | dehi | verb | imp.2.sg | give |
 | je | ind | excl | oh! ah! now then! |
 | ambapāli | noun | fem.voc.sg | Ambapālī |
-| amhākaṃ | pron | 1.dat.pl | to us |
+
+amhākaṃ pron 1.dat.pl to us
+
+| --- | --- | --- | --- |
 | etaṃ | pron | nt.acc.sg | this |
 | bhattaṃ | noun | nt.acc.sg | meal |
 | satasahassena | noun | nt.instr.sg | with hundred thousand. |
-| sacepi | ind | | even if |
-| me | pron | 1.dat.sg | to me |
+| sacepi | ind |  | even if |
+
+me pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
 | ayyaputtā | noun | masc.voc.pl | masters sons |
 | vesāliṃ | noun | masc.acc.sg | Vesāli |
 | sāhāraṃ | adj | masc.acc.sg | with the revenues |
 | dajjeyyātha | verb | opt.2.pl | you could give |
-| na eva | ind | | not even |
+| na eva | ind |  | not even |
 | dajjāmi | verb | opt.1.sg | I could give |
-| ahaṃ | pron | 1.nom.sg | I |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
 | taṃ | pron | nt.acc.sg | that |
 | bhattaṃ | noun | nt.acc.sg | meal |
-|  |  |  |  |
-| ah! Ambapālī! give this meal to us by hundred thousand! o masters sons, even if you could give Vesāli with the revenues, even I could not give this meal. | | | |
-|  |  |  |  |
-| 4. (APA 523) | | | |
-|  |  |  |  |
-| disvāna taṃ devadevaṃ, tiṇamuṭṭhimadāsahaṃ. | | | |
-|  |  |  |  |
+
+**ah! Ambapālī! give this meal to us by hundred thousand! o masters sons, even if you could give Vesāli with the revenues, even I could not give this meal.**
+
+4. (APA 523)
+
+disvāna taṃ devadevaṃ, tiṇamuṭṭhimadāsahaṃ.
+
+| --- | --- | --- | --- |
 | disvāna | verb | abs | having seen; having found; having understood. |
 | taṃ | pron | masc.acc.sg | that |
 | devadevaṃ | noun | masc.acc.sg | the god of gods |
-| tiṇamuṭṭhimadāsahaṃ | | | |
-| \#tiṇamuṭṭhiṃ | noun | | handful |
+| tiṇamuṭṭhimadāsahaṃ |  |  |  |
+| \#tiṇamuṭṭhiṃ | noun |  | handful |
 | \#adāsiṃ | verb | aor.3.sg | I gave |
-| \#ahaṃ. | pron | 1.nom.sg | I |
-|  |  |  |  |
-| having seen him, the god of gods, I gave handful. | | | |
-|  |  |  |  |
-| 5. (APA 307) | | | |
-|  |  |  |  |
-| ekanavutito kappe, yaṃ phalaṃ adadiṃ tadā.<br>duggatiṃ nābhijānāmi, phaladānassidaṃ phalaṃ. | | | |
-|  |  |  |  |
+
+\#ahaṃ. pron 1.nom.sg I
+
+having seen him, the god of gods, I gave handful.
+
+5. (APA 307)
+
+ekanavutito kappe, yaṃ phalaṃ adadiṃ tadā.
+duggatiṃ nābhijānāmi, phaladānassidaṃ phalaṃ.
+
+| --- | --- | --- | --- |
 | ekanavutito | adj | masc.abl.sg | from ninety one |
 | kappe | noun | masc.loc.sg | in the aeon |
 | yaṃ | pron | masc.acc.sg | whatever |
 | phalaṃ | noun | nt.acc.sg | fruit |
 | adadiṃ | verb | aor.1.sg | I gave |
-| tadā. | ind | | then, at that time, therefore |
+| tadā. | ind |  | then, at that time, therefore |
 | duggatiṃ | noun | fem.acc.sg | a realm of miserable existence |
 | nābhijānāmi | verb | pr.1.sg | I do not experience |
-| phaladānassidaṃ | | | |
-| \#phala | noun | | fruit |
+| phaladānassidaṃ |  |  |  |
+| \#phala | noun |  | fruit |
 | \#dānassa | noun | nt.gen.sg | of giving, charity |
 | \#idaṃ | pron | nt.nom.sg | this |
 | phalaṃ. | noun | nt.nom.sg | result |
-|  |  |  |  |
-| ninety one aeon (ago), that which fruit I gave at that time, therefore I not experience a realm of miserable existence, this is result of giving fruit. | | | |
-|  |  |  |  |
-| 6. (THI 54) | | | |
-|  |  |  |  |
-| yattakaṃ tulitā esā, tuyhaṃ dhītā anopamā.<br>tato aṭṭhaguṇaṃ dassaṃ, hiraññaṃ ratanāni ca. | | | |
-|  |  |  |  |
+
+**ninety one aeon (ago), that which fruit I gave at that time, therefore I not experience a realm of miserable existence, this is result of giving fruit.**
+
+6. (THI 54)
+
+yattakaṃ tulitā esā, tuyhaṃ dhītā anopamā.
+tato aṭṭhaguṇaṃ dassaṃ, hiraññaṃ ratanāni ca.
+
+| --- | --- | --- | --- |
 | yattakaṃ | adj | masc.acc.sg | however much |
 | tulitā | pp | fem.nom.sg | weighed; examined; compared |
 | esā | pron | fem.nom.sg | this, she |
-| tuyhaṃ | pron | 2.gen.sg | your |
+
+tuyhaṃ pron 2.gen.sg your
+
+| --- | --- | --- | --- |
 | dhītā | noun | fem.nom.sg | daughter |
 | anopamā. | noun | fem.nom.sg | Peerless |
-| tato | ind | | from there; from that; thence; therefore; thereupon. |
+| tato | ind |  | from there; from that; thence; therefore; thereupon. |
 | aṭṭhaguṇaṃ | noun | masc.acc.sg | eight times; eight times as much |
 | dassaṃ | verb | fut.1.sg | I will give |
 | hiraññaṃ | noun | nt.acc.sg | unwrought gold. |
 | ratanāni | noun | nt.acc.pl | gems, jewels |
-| ca. | ind | | and |
-|  |  |  |  |
-| however much she weighed, your daughter Peerless, eight times like this I will give, unwrought gold and gems. | | | |
-|  |  |  |  |
-| 7. (APA 52) | | | |
-|  |  |  |  |
-| dibbagandhaṃ pavāyantaṃ, yo me pupphagghiyaṃ adā. | | | |
-|  |  |  |  |
-| dibbagandhaṃ | | | |
-| \#dibba | adj | | divine; celestial |
+| ca. | ind |  | and |
+
+**however much she weighed, your daughter Peerless, eight times like this I will give, unwrought gold and gems.**
+
+7. (APA 52)
+
+dibbagandhaṃ pavāyantaṃ, yo me pupphagghiyaṃ adā.
+
+| --- | --- | --- | --- |
+| dibbagandhaṃ |  |  |  |
+| \#dibba | adj |  | divine; celestial |
 | \#gandhaṃ | noun | masc.acc.sg | odour; smell; scent |
 | pavāyantaṃ | prp | masc.acc.sg | blowing forth; diffusing |
 | yo | pron | masc.nom.sg | whatever, that |
-| me | pron | 1.dat.sg | to me |
-| pupphagghiyaṃ | | | |
-| \#puppha | noun | | flower |
-| \#agghiyaṃ | adj | | valuable, precious, worth |
+
+me pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
+| pupphagghiyaṃ |  |  |  |
+| \#puppha | noun |  | flower |
+| \#agghiyaṃ | adj |  | valuable, precious, worth |
 | adā. | verb | imperf.3.sg | he gave |
-|  |  |  |  |
-| valuable flower, diffusing divine odour, he gave to me | | | |
-|  |  |  |  |
-| 8. (SNP 7) | | | |
-|  |  |  |  |
-| na jaccā vasalo hoti, na jaccā hoti brāhmaṇo. | | | |
-|  |  |  |  |
-| na | ind | | not |
+
+**valuable flower, diffusing divine odour, he gave to me**
+
+8. (SNP 7)
+
+na jaccā vasalo hoti, na jaccā hoti brāhmaṇo.
+kammunā vasalo hoti, kammunā hoti brāhmaṇo.
+
+| --- | --- | --- | --- |
+| na | ind |  | not |
 | jaccā | noun | fem.instr.sg | by birth |
 | vasalo | noun | masc.nom.sg | outcast |
 | hoti | verb | pr.3.sg | he is |
-| na | ind | | not |
+| na | ind |  | not |
 | jaccā | noun | fem.instr.sg | by birth |
 | hoti | verb | pr.3.sg | he is |
 | brāhmaṇo. | noun | masc.nom.sg | brahman |
-|  |  |  |  |
-| not by birth he is a outcast, not by birth he is a brahman. | | | |
-|  |  |  |  |
-| kammunā vasalo hoti, kammunā hoti brāhmaṇo. | | | |
-|  |  |  |  |
+
+**not by birth he is a outcast, not by birth he is a brahman.**
+
+| --- | --- | --- | --- |
 | kammunā | noun | masc.instr.sg | by deed, action |
 | vasalo | noun | masc.nom.sg | outcast |
 | hoti | verb | pr.3.sg | he is |
 | kammunā | noun | masc.instr.sg | by deed, action |
 | hoti | verb | pr.3.sg | he is |
 | brāhmaṇo. | noun | masc.nom.sg | brahman |
-|  |  |  |  |
-| by action he is a outcast, by action he is a brahman. | | | |
-|  |  |  |  |
-| 9. Vin 4, 8.203 | | | |
-|  |  |  |  |
-| vejjo evamāha — mā kira, ayye, pure kiñci adāsi. yadā arogā ahosi tadā yaṃ iccheyyāsi taṃ dajjeyyāsīti. | | | |
-|  |  |  |  |
+
+**by action he is a outcast, by action he is a brahman.**
+
+9. Vin 4, 8.203
+
+vejjo evamāha — mā kira, ayye, pure kiñci adāsi. yadā arogā ahosi tadā yaṃ iccheyyāsi taṃ dajjeyyāsīti.
+
+| --- | --- | --- | --- |
 | vejjo | noun | masc.nom.sg | doctor |
 | evaṃ | pron | masc.acc.sg | this |
 | āha | verb | perfem.3.sg | said |
-| mā | ind | | do not |
-| kira | ind | | really; truly |
-| ayye | noun | | gentleman; lord; master. |
-| pure | ind | | before; formerly; earlier. |
-| kiñci | ind | | something |
+| mā | ind |  | do not |
+| kira | ind |  | really; truly |
+| ayye | noun |  | gentleman; lord; master. |
+| pure | ind |  | before; formerly; earlier. |
+| kiñci | ind |  | something |
 | adāsi. | verb | aor.2.sg | you gave |
-| yadā | ind | | whenever; when. |
-| arogā | adj | | healthy; void of sickness |
+| yadā | ind |  | whenever; when. |
+| arogā | adj |  | healthy; void of sickness |
 | ahosi | verb | aor.3.sg | he was |
-| tadā | ind | | then, as that time |
+| tadā | ind |  | then, as that time |
 | yaṃ | pron | masc.acc.sg | whatever |
 | iccheyyāsi | verb | opt.2.sg | you could wish, desire |
 | taṃ | pron | masc.acc.sg | that |
 | dajjeyyāsi | verb | opt.2.sg | you could give |
-|  |  |  |  |
-| doctor said this: “o master, really do not give something earlier. when he was healthy, then whatever you could wish, that you could give | | | |
-|  |  |  |  |
-| 10. (JA 293) | | | |
-|  |  |  |  |
-| parisussati khippamidaṃ kaḷevaraṃ, pupphaṃ yathā paṃsuni ātape kataṃ. | | | |
-|  |  |  |  |
+
+**doctor said this: “o master, really do not give something earlier. when he was healthy, then whatever you could wish, that you could give**
+
+10. (JA 293)
+
+parisussati khippamidaṃ kaḷevaraṃ, pupphaṃ yathā paṃsuni ātape kataṃ.
+
+| --- | --- | --- | --- |
 | parisussati | verb | pr.3.sg | dries up; washes away |
-| khippaṃ | ind | | quickly |
+| khippaṃ | ind |  | quickly |
 | idaṃ | pron | nt.nom.sg | this |
 | kaḷevaraṃ | noun | nt.nom.sg | body |
 | pupphaṃ | noun | nt.nom.sg | flower |
-| yathā | ind | | as; like |
+| yathā | ind |  | as; like |
 | paṃsuni | noun | masc.loc.sg | in soil; dust. |
 | ātape | noun | masc.loc.sg | in heat of the sun |
 | kataṃ. | pp | nt.nom.sg | done, made |
-|  |  |  |  |
-| this body dries up quickly, like flower made in dust and heat of the sun. | | | |
-|  |  |  |  |
-| 11. (TH 225) | | | |
-|  |  |  |  |
-| buddho ce me varaṃ dajjā, so ca labbhetha me varo. | | | |
-|  |  |  |  |
+
+**this body dries up quickly, like flower made in dust and heat of the sun.**
+
+11. (TH 225)
+
+buddho ce me varaṃ dajjā, so ca labbhetha me varo.
+
+| --- | --- | --- | --- |
 | buddho | noun | masc.nom.sg | the Buddha |
-| ce | ind | | and, but |
-| me | pron | 1.dat.sg | to me |
+| ce | ind |  | and, but |
+
+me pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
 | varaṃ | noun | masc.acc.sg | boon; favour |
 | dajjā | verb | opt.3.sg | could give |
 | so | pron | masc.nom.sg | he, that |
-| ca | ind | | and |
+| ca | ind |  | and |
 | labbhetha | verb reflx | opt.3.sg | it could be obtained |
-| me | pron | 1.dat.sg | to me |
+
+me pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
 | varo. | noun | masc.nom.sg | boon; favour |
-|  |  |  |  |
-| and the Buddha could give boon to me, if that boon could be obtained by me. | | | |
-|  |  |  |  |
-| 12. (SN 6.4) | | | |
-|  |  |  |  |
-| yaṃ tvaṃ apāyesi bahū manusse<br>pipāsite ghammani samparete.<br>taṃ te purāṇaṃ vatasīlavattaṃ<br>suttappabuddhova anussarāmi. | | | |
-|  |  |  |  |
+
+**and the Buddha could give boon to me, if that boon could be obtained by me.**
+
+12. (SN 6.4)
+
+yaṃ tvaṃ apāyesi bahū manusse
+pipāsite ghammani samparete.
+taṃ te purāṇaṃ vatasīlavattaṃ
+suttappabuddhova anussarāmi.
+
+| --- | --- | --- | --- |
 | yaṃ | pron | masc.acc.sg | whatever |
-| tvaṃ | pron | 2.nom.sg | you |
+
+tvaṃ pron 2.nom.sg you
+
+| --- | --- | --- | --- |
 | apāyesi | verb | aor.2.sg | you made drunk |
 | bahū | adj | masc.acc.pl | many |
 | manusse | noun | masc.acc.pl | people |
@@ -1845,60 +2074,73 @@
 | ghammani | noun | masc.loc.sg | in the hot season |
 | samparete. | pp | masc.acc.pl | surrounded, beset with, tormented by |
 | taṃ | pron | nt.nom.sg | that |
-| te | pron | 1.gen.sg | your |
+
+te pron 1.gen.sg your
+
+| --- | --- | --- | --- |
 | purāṇaṃ | adj | nt.nom.sg | ancient; old; worn out; used; former. |
-| vatasīlavattaṃ | | | |
-| \#vata | noun | | religious duty or observance |
+| vatasīlavattaṃ |  |  |  |
+| \#vata | noun |  | religious duty or observance |
 | \#sīlavattaṃ | noun | nt.nom.sg | virtue and good action |
 | suttappabuddhova | adj | masc.nom.sg | as awaken from sleep. |
 | anussarāmi. | verb | pr.1.sg | I remember |
-|  |  |  |  |
-| You gave drink to many people<br>Who were thirsty, afflicted by heat:<br>That was your ancient practice of vow and virtue<br>Which I recollect as if just waking up. (BB) | | | |
-|  |  |  |  |
-|  |  |  |  |
-| 13. (SN 3.17) | | | |
-|  |  |  |  |
-| appamādaṃ pasaṃsanti, puññakiriyāsu paṇḍitā. | | | |
-|  |  |  |  |
+
+**You gave drink to many people
+Who were thirsty, afflicted by heat:
+That was your ancient practice of vow and virtue
+Which I recollect as if just waking up. (BB)**
+
+13. (SN 3.17)
+
+appamādaṃ pasaṃsanti, puññakiriyāsu paṇḍitā.
+appamatto ubho atthe, adhiggaṇhāti paṇḍito.
+
+| --- | --- | --- | --- |
 | appamādaṃ | noun | masc.acc.sg | care, carefulness, caution, vigilance, diligence, conscientiousness, heedfulness, lit. not heedless |
 | pasaṃsanti | verb | pr.3.pl | praise, approve (of), commend |
 | puññakiriyāsu | noun | fem.loc.pl | in making merit, meritorious deeds |
 | paṇḍitā. | noun | masc.nom.pl | sages, intelligent people, wise men |
-|  |  |  |  |
-| the wise people praise heedfulness in meritorious deeds | | | |
-|  |  |  |  |
-| appamatto ubho atthe, adhiggaṇhāti paṇḍito. | | | |
-|  |  |  |  |
+
+**the wise people praise heedfulness in meritorious deeds**
+
+| --- | --- | --- | --- |
 | appamatto | pp | masc.nom.sg | vigilant; careful; alert |
 | ubho | pron | masc.acc.pl | both |
 | atthe | noun | masc.acc.pl | good, blessings, benefits |
 | adhiggaṇhāti | verb | pr.3.sg | receives, owns, possess |
 | paṇḍito. | noun | masc.nom.sg | wise man, sage |
-|  |  |  |  |
-| vigilant wise man receives both benefits | | | |
-|  |  |  |  |
-| 14. (SN 7.9) | | | |
-|  |  |  |  |
-| māno hi te brāhmaṇa khāribhāro<br>kodho dhumo bhasmani mosavajjaṃ. | | | |
-|  |  |  |  |
+
+**vigilant wise man receives both benefits**
+
+14. (SN 7.9)
+
+māno hi te brāhmaṇa khāribhāro
+kodho dhumo bhasmani mosavajjaṃ.
+
+| --- | --- | --- | --- |
 | māno | noun | masc.nom.sg | pride; conceit |
-| hi | ind | | indeed |
-| te | pron | 2.gen.sg | your |
+| hi | ind |  | indeed |
+
+te pron 2.gen.sg your
+
+Conceit, O brahmin, is your shoulder-load
+Anger the smoke, false speech the ashes; BB
+jivhā sujā hadayaṃ jotiṭhānaṃ
+attā sudanto purisassa joti.
+
+| --- | --- | --- | --- |
 | brāhmaṇa | noun | masc.voc.sg | Brahman |
-| khāribhāro | | | |
-| \#khāri | noun | | a basket |
+| khāribhāro |  |  |  |
+| \#khāri | noun |  | a basket |
 | \#bhāro | noun | masc.nom.sg | weight, burden |
 | kodho | noun | masc.nom.sg | anger |
 | dhūmo | noun | masc.nom.sg | smoke |
 | bhasmani | noun | nt.loc.sg | in ashes |
 | mosavajjaṃ. | noun | nt.nom.sg | untruth |
-|  |  |  |  |
-| o Brahman, indeed your pride is a burden basket, anger is a smoke , untruth is an ashes | | | |
-|  |  |  |  |
-| Conceit, O brahmin, is your shoulder-load<br>Anger the smoke, false speech the ashes; BB | | | |
-|  |  |  |  |
-| jivhā sujā hadayaṃ jotiṭhānaṃ<br>attā sudanto purisassa joti. | | | |
-|  |  |  |  |
+
+**o Brahman, indeed your pride is a burden basket, anger is a smoke , untruth is an ashes**
+
+| --- | --- | --- | --- |
 | jivhā | noun | fem.nom.sg | tongue |
 | sujā | noun | fem.nom.sg | the sacrificial ladle. |
 | hadayaṃ | noun | nt.nom.sg | heart |
@@ -1909,15 +2151,19 @@
 | sudanto | adj | masc.nom.sg | well tamed, well trained, well controlled |
 | purisassa | noun | masc.gen.sg | of man |
 | joti. | noun | fem. | light, fire |
-|  |  |  |  |
-| The tongue is the ladle, the heart the altar<br>A well-tamed self is the light of a man. | | | |
 
-| 15. Vin-a 1 | | | |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------- | ------------------------------------- |
-| atha brāhmaṇo “yaṃnūnāhaṃ yaṃ me tīhi māsehi dātabbaṃ siyā, taṃ sabbaṃ ekadivaseneva dadeyyan”ti cintetvā adhivāsetu me bhavaṃ gotamotiādimāha. | | | |
-| atha | ind | | then; and also. |
+**The tongue is the ladle, the heart the altar
+A well-tamed self is the light of a man.**
+
+
+15. Vin-a 1
+
+atha brāhmaṇo “yaṃnūnāhaṃ yaṃ me tīhi māsehi dātabbaṃ siyā, taṃ sabbaṃ ekadivaseneva dadeyyan”ti cintetvā adhivāsetu me bhavaṃ gotamotiādimāha.
+
+| --- | --- | --- | --- |
+| atha | ind |  | then; and also. |
 | brāhmaṇo | noun | masc.nom.sg | brahman |
-| yaṃnūnāhaṃ | ind | | what if I |
+| yaṃnūnāhaṃ | ind |  | what if I |
 | yaṃ | pron | masc.acc.sg | whatever, that what |
 | me | pron | masc.gen.sg | my |
 | tīhi | adj | masc.ins.pl | by three |
@@ -1927,35 +2173,48 @@
 | taṃ | pron | masc.acc.sg | that |
 | sabbaṃ | adj | masc.acc.sg | all |
 | eka-divasena- | noun | masc.ins.sg | with one day |
-| eva | ind | | just, even, only |
+| eva | ind |  | just, even, only |
 | dadeyyaṃ | verb | opt.refl.1.sg | I could give |
 | cintetvā | verb | abs | having thought |
 | adhivāsetu | verb | imp.3.sg | he should endure; wait for, agree |
-| me | pron | 1.dat.sg | to me |
-| bhavaṃ | adj | | Venerable, Sir |
-| gotamo- | noun | | Gotama |
-| ti- | ind | | “” |
+
+me pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
+| bhavaṃ | adj |  | Venerable, Sir |
+| gotamo- | noun |  | Gotama |
+| ti- | ind |  | “” |
 | ādim- | noun | masc.acc.sg | first; beginning with |
 | āha. | verb | perf.3.sg | he has said |
-| **then brahman having thought: “what if I whatever by three months can be given, all that I should give ” “Sir Gotama should agree” first he said.** | | | |
-| 16. Vin-a 1 | | | |
-| so gehaṃ gantvā pucchi — “tassa pabbajitassa kiñci adatthā”ti? “na kiñci adamhā”ti. | | | |
+
+**then brahman having thought: “what if I whatever by three months can be given, all that I should give ” “Sir Gotama should agree” first he said.**
+
+16. Vin-a 1
+
+so gehaṃ gantvā pucchi — “tassa pabbajitassa kiñci adatthā”ti? “na kiñci adamhā”ti.
+
+| --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he, that |
 | gehaṃ | noun | masc.acc.sg | house; dwelling place |
 | gantvā | verb | abs | having gone |
 | pucchi | verb | aor.3.sg | asked; questioned |
 | tassa | noun | masc.dat.sg | to that |
 | pabbajitassa | noun | masc.dat.sg | to monk |
-| kiñci | ind | | something |
+| kiñci | ind |  | something |
 | adatthā”ti | verb | aor.2.pl | you gave |
-| na | ind | | not |
-| kiñci | ind | | something, anything |
+| na | ind |  | not |
+| kiñci | ind |  | something, anything |
 | adamhā”ti. | verb | aor.1.pl | we gave |
-| **having gone to the house, he asked: “Did you gave something to that monk?”; “We did not gave anything.”** | | | |
-| 17. KN-a Dhp, 5.11 | | | |
-| sopi tesaṃ gatabhāvaṃ ñatvā vaccakuṭiyā padaraṃ vivaritvā oruyha ubhohi hatthehi ālopaṃ ālopaṃ katvā gūthaṃ khādi; | | | |
+
+**having gone to the house, he asked: “Did you gave something to that monk?”; “We did not gave anything.”**
+
+17. KN-a Dhp, 5.11
+
+sopi tesaṃ gatabhāvaṃ ñatvā vaccakuṭiyā padaraṃ vivaritvā oruyha ubhohi hatthehi ālopaṃ ālopaṃ katvā gūthaṃ khādi;
+
+| --- | --- | --- | --- |
 | so- | pron | masc.nom.sg | that, he |
-| api | ind | | also, but |
+| api | ind |  | also, but |
 | tesaṃ | pron | gen.pl | of those |
 | gatabhāvaṃ | noun | masc.acc.sg | the fact of having gone |
 | ñatvā | verb | abs | having known; having found out. |
@@ -1970,24 +2229,32 @@
 | katvā | verb | abs | having done or made. |
 | gūthaṃ | noun | nt.acc.sg | faeces; dung; excrement. |
 | khādi; | verb | aor.3.sg | ate; chewed |
-| **also he having known the fact of having gone of those, having opened board of lavatory, having come down, with both hands lump by lump having made he chewed excrement** | | | |
-| 18. KN-a Ja 1, [515] 5. | | | |
-| tamaddasa mahābrahmā, nisinnaṃ samhi vesmani. | | | |
+
+**also he having known the fact of having gone of those, having opened board of lavatory, having come down, with both hands lump by lump having made he chewed excrement**
+
+18. KN-a Ja 1, [515] 5.
+
+tamaddasa mahābrahmā, nisinnaṃ samhi vesmani.
+
+| --- | --- | --- | --- |
 | taṃ- | pron | masc.acc.sg | that, him |
 | addasa | verb | aor.3.sg | he saw |
 | mahābrahmā, | noun | masc.nom.sg | Great Brahma |
 | nisinnaṃ | pp | masc.acc.sg | sitting down, seated |
 | samhi | adj | masc.loc.sg | in ones own |
 | vesmani. | noun | loc.sg | in mansion |
-| **the Great Brahma saw him, seated in his own mansion** | | | |
+
+**the Great Brahma saw him, seated in his own mansion**
+
 
 ## Class 35
 
-| 1. (KN 9.46) | | | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------- | ------------------------------------------------------------------------- |
-|  |  |  |  |
-| divāvihārā nikkhamma, gijjhakūṭamhi pabbate.<br>addasaṃ virajaṃ buddhaṃ, bhikkhusaṅghapurakkhataṃ. | | | |
-|  |  |  |  |
+1. (KN 9.46)
+
+divāvihārā nikkhamma, gijjhakūṭamhi pabbate.
+addasaṃ virajaṃ buddhaṃ, bhikkhusaṅghapurakkhataṃ.
+
+| --- | --- | --- | --- |
 | divāvihārā | noun | masc.abl.sg | from rest during the heat. |
 | nikkhamma | verb | abs | having gone out; having gone forth from; having left the household life |
 | gijjhakūṭamhi | noun | masc.loc.sg | in the Gijjhakūṭa: the Vultures peak near Rājagaha. |
@@ -1995,53 +2262,61 @@
 | addasaṃ | verb | aor.1.sg | I saw |
 | virajaṃ | adj | masc.acc.sg | stainless; free from defilement |
 | buddhaṃ | noun | masc.acc.sg | the Enlightened One |
-| bhikkhusaṅghapurakkhataṃ | | | |
+| bhikkhusaṅghapurakkhataṃ |  |  |  |
 | \#bhikkhusaṅgha | noun | masc. | congregation of monks |
 | \#purakkhataṃ. | pp | masc.acc.sg | put in front; honoured; esteemed. |
-|  |  |  |  |
-| having gone out from rest during the heat in the mountain Gijjhakūṭa, I saw the stainless Enlightened One, honoured by congregation of monks. | | | |
-|  |  |  |  |
-| 2. (THI 69) | | | |
-|  |  |  |  |
-| addasa brāhmaṇo buddhaṃ, vippamuttaṃ nirūpadhiṃ. | | | |
-|  |  |  |  |
+
+**having gone out from rest during the heat in the mountain Gijjhakūṭa, I saw the stainless Enlightened One, honoured by congregation of monks.**
+
+2. (THI 69)
+
+addasa brāhmaṇo buddhaṃ, vippamuttaṃ nirūpadhiṃ.
+
+| --- | --- | --- | --- |
 | addasa | verb | aor.3.sg | he saw |
 | brāhmaṇo | noun | masc.nom.sg | a man of the Brahman caste |
 | buddhaṃ | noun | masc.acc.sg | the Enlightened One |
 | vippamuttaṃ | pp | masc.acc.sg | released, set free, saved |
 | nirūpadhiṃ. | adj | masc.acc.sg | free from attachment, free from grasping |
-|  |  |  |  |
-| Brahman saw the Enlightened One, released, free from attachment. | | | |
-|  |  |  |  |
-| 3. (THI 68) | | | |
-|  |  |  |  |
-| tato ca kāḷo pakkāmi, nadiṃ nerañjaraṃ pati.<br>so addasāsi sambuddhaṃ, desentaṃ amataṃ padaṃ. | | | |
-|  |  |  |  |
-| tato | ind | | from there; from that; thence; therefore |
-| ca | ind | | and |
+
+**Brahman saw the Enlightened One, released, free from attachment.**
+
+3. (THI 68)
+
+tato ca kāḷo pakkāmi, nadiṃ nerañjaraṃ pati.
+so addasāsi sambuddhaṃ, desentaṃ amataṃ padaṃ.
+
+| --- | --- | --- | --- |
+| tato | ind |  | from there; from that; thence; therefore |
+| ca | ind |  | and |
 | kāḷo | adj | masc.nom.sg | black; dark |
 | pakkāmi | verb | aor.3.sg | he went forth |
 | nadiṃ | noun | fem.acc.sg | river |
 | nerañjaraṃ | noun | fem.acc.sg | Nerañjarā: name of a river. |
-| pati. | ind | | against, opposite, in opposition (to) |
+| pati. | ind |  | against, opposite, in opposition (to) |
 | so | pron | masc.nom.sg | he, that |
 | addasāsi | verb | aor.3.sg | he saw |
 | sambuddhaṃ | noun | masc.acc.sg | the Enlightened One |
 | desentaṃ | prp | masc.acc.sg | pointing out; preaching; expounding |
 | amataṃ | adj | masc.acc.sg | deathless |
 | padaṃ. | noun | masc.acc.sg | way, path |
-|  |  |  |  |
-| and from there the black went forth opposite of the river Nerañjarā, he saw the Enlightened One preaching the path to the deathless | | | |
-|  |  |  |  |
-| 4. (API 17) | | | |
-|  |  |  |  |
-| nadato parisāyaṃ te, vāditabbapahārino.<br>ye te dakkhanti vadanaṃ, dhaññā te narapuṅgava. | | | |
-|  |  |  |  |
+
+**and from there the black went forth opposite of the river Nerañjarā, he saw the Enlightened One preaching the path to the deathless**
+
+4. (API 17)
+
+nadato parisāyaṃ te, vāditabbapahārino.
+ye te dakkhanti vadanaṃ, dhaññā te narapuṅgava.
+
+| --- | --- | --- | --- |
 | nadato | prp | masc.gen.sg | when roaring, crying, making a noise |
 | parisāyaṃ | noun | fem.loc.sg | among the company; assembly |
-| te | pron | 2.gen.sg | when you |
-| vāditabbapahārino | | | |
-| \#vādī | noun | | one who disputes or preaches some doctrine; speaking of |
+
+te pron 2.gen.sg when you
+
+| --- | --- | --- | --- |
+| vāditabbapahārino |  |  |  |
+| \#vādī | noun |  | one who disputes or preaches some doctrine; speaking of |
 | \#dappa | noun | masc. | arrogance; wantonness |
 | \#pahārino. | adj | masc.gen.sg | when striking, assaulting, destroying |
 | ye | pron | masc.nom.pl | whoever, those who |
@@ -2050,62 +2325,67 @@
 | vadanaṃ | noun | nt.acc.sg | the face; speech; utterance |
 | dhaññā | adj | masc.nom.pl | fortunate; lucky |
 | te | pron | masc.nom.pl | those, they |
-| narapuṅgava | | | |
+| narapuṅgava |  |  |  |
 | \#nara | noun | masc. | man; a human being. |
 | \#puṅgava. | noun | masc.voc.sg | o bull; o noble person |
-|  |  |  |  |
-| when you roaring among the assembly, destroying those who hold the arrogance doctrine, they, who see (your) face, they lucky, o the Bull of Men! | | | |
-|  |  |  |  |
-| 5. (TH 259) | | | |
-|  |  |  |  |
-| na vissase ekatiyesu evaṃ, agārisu pabbajitesu cāpi. | | | |
-|  |  |  |  |
-| na | ind | | not |
+
+**when you roaring among the assembly, destroying those who hold the arrogance doctrine, they, who see (your) face, they lucky, o the Bull of Men!**
+
+5. (TH 259)
+
+na vissase ekatiyesu evaṃ, agārisu pabbajitesu cāpi.
+
+| --- | --- | --- | --- |
+| na | ind |  | not |
 | vissase | verb | opt.3.sg | could trust (in), whould confide (in) |
 | ekatiyesu | adj | masc.loc.sg | in some |
-| evaṃ | ind | | thus; in this way |
+| evaṃ | ind |  | thus; in this way |
 | agārisu | noun | masc.loc.pl | in householders |
 | pabbajitesu | noun | masc.loc.pl | in monks (among) |
-| ca | ind | | and |
-| api. | ind | | and; even; and then. |
-|  |  |  |  |
-| thus could not trust in someone, among the householders and even monks. | | | |
-|  |  |  |  |
-| 6. (JA 73) | | | |
-|  |  |  |  |
-| saccaṃ kirevamāhaṃsu, narā ekacciyā idha.<br>kaṭṭhaṃ uplāvitaṃ seyyo, na tvevekacciyo naroti. | | | |
-|  |  |  |  |
+| ca | ind |  | and |
+| api. | ind |  | and; even; and then. |
+
+**thus could not trust in someone, among the householders and even monks.**
+
+6. (JA 73)
+
+saccaṃ kirevamāhaṃsu, narā ekacciyā idha.
+kaṭṭhaṃ uplāvitaṃ seyyo, na tvevekacciyo naroti.
+
+| --- | --- | --- | --- |
 | saccaṃ | noun | masc.acc.sg | truth |
-| kira | ind | | really; truly |
-| evaṃ | ind | | thus; in this way |
+| kira | ind |  | really; truly |
+| evaṃ | ind |  | thus; in this way |
 | āhaṃsu | verb | perfem.3.pl | they has said |
 | narā | noun | masc.nom.pl | men; a human beings |
 | ekacciyā | adj | masc.nom.pl | some; certain; a few |
-| idha. | ind | | here; in this world or existence |
-|  |  |  |  |
-| really here some men has said the truth | | | |
-|  |  |  |  |
+| idha. | ind |  | here; in this world or existence |
+
+**really here some men has said the truth**
+
+| --- | --- | --- | --- |
 | kaṭṭhaṃ | noun | nt.acc.sg | timber; a piece of wood |
 | uplāvitaṃ | pp | nt.acc.sg | floated |
-| seyyo | ind | | it is better. |
-| na | ind | | not |
-| tveva | ind | | however, but, rather, rather than |
+| seyyo | ind |  | it is better. |
+| na | ind |  | not |
+| tveva | ind |  | however, but, rather, rather than |
 | ekacciyo | adj | masc.nom.sg | some; certain; a few |
 | naro | noun | masc.nom.sg | man; a human being |
-|  |  |  |  |
-| a certain man is not better rather than floated piece of wood. | | | |
-|  |  |  |  |
-| 7. (DN 18.1) | | | |
-|  |  |  |  |
-| tena kho pana samayena bhagavā parito parito janapadesu paricārake abbhatīte kālaṅkate upapattīsu byākaroti … - “asu amutra upapanno, asu amutra upapanno | | | |
-|  |  |  |  |
+
+**a certain man is not better rather than floated piece of wood.**
+
+7. (DN 18.1)
+
+tena kho pana samayena bhagavā parito parito janapadesu paricārake abbhatīte kālaṅkate upapattīsu byākaroti … - “asu amutra upapanno, asu amutra upapanno
+
+| --- | --- | --- | --- |
 | tena | pron | masc.instr.sg | by that |
-| kho | ind | | indeed; really; surely |
-| pana | ind | | and; yet; but; and now; moreover. |
+| kho | ind |  | indeed; really; surely |
+| pana | ind |  | and; yet; but; and now; moreover. |
 | samayena | noun | masc.instr.sg | time; season; occasion |
 | bhagavā | noun | masc.nom.sg | The Fortunate One, the Buddha |
-| parito | ind | | round about; on every side; everywhere |
-| parito | ind | | round about; on every side; everywhere |
+| parito | ind |  | round about; on every side; everywhere |
+| parito | ind |  | round about; on every side; everywhere |
 | janapadesu | noun | masc.loc.pl | in provinces; countries; country-sides. |
 | paricārake | noun | masc.acc.pl | attendants, worshippers, followers |
 | abbhatīte | adj | masc.acc.pl | passed on, passed away |
@@ -2113,19 +2393,23 @@
 | upapattīsu | noun | fem.loc.pl | in rebirths, re-arisings |
 | byākaroti | verb | pr.3.sg | explain, defines |
 | asu | pron | masc.nom.sg | such and such |
-| amutra | ind | | in such and such a place, there |
+| amutra | ind |  | in such and such a place, there |
 | upapanno | pp | masc.nom.sg | possessed of; come to existence in; reborn. |
-|  |  |  |  |
-| at that time, the Blessed one explained about followers, who passed away everywhere in provinces, and rebirths in such and such a places, … “such and such was reborn in such and such a place, and such and such was reborn in such and such a place | | | |
-|  |  |  |  |
-| 8. (AN 3.36) | | | |
-|  |  |  |  |
-| ambho purisa, na tvaṃ addasa manussesu tatiyaṃ devadūtaṃ pātubhūtanti? so evamāha — nāddasaṃ, bhanteti. | | | |
-|  |  |  |  |
+
+**at that time, the Blessed one explained about followers, who passed away everywhere in provinces, and rebirths in such and such a places, … “such and such was reborn in such and such a place, and such and such was reborn in such and such a place**
+
+8. (AN 3.36)
+
+ambho purisa, na tvaṃ addasa manussesu tatiyaṃ devadūtaṃ pātubhūtanti? so evamāha — nāddasaṃ, bhanteti.
+
+| --- | --- | --- | --- |
 | ambho | ind | excl | hollo! hey! |
 | purisa | noun | masc.voc.sg | male; man |
-| na | ind | | not |
-| tvaṃ | pron | 2.nom.sg | you |
+| na | ind |  | not |
+
+tvaṃ pron 2.nom.sg you
+
+| --- | --- | --- | --- |
 | addasa | verb | aor.2.sg | you saw |
 | manussesu | noun | masc.loc.pl | in people |
 | tatiyaṃ | adj | masc.acc.sg | the third. |
@@ -2135,22 +2419,25 @@
 | evamāha | verb | perfem.3.sg | he has said |
 | na addasaṃ | verb | aor.1.sg | I not saw |
 | bhante | noun | masc.voc.sg | Venerable Sir |
-|  |  |  |  |
-| hey man! Did you not see the third gods messenger appeared among people? he has said: “I did not see, Venerable Sir. | | | |
-|  |  |  |  |
-| 9. (DN 20.2) | | | |
-|  |  |  |  |
-| sataṃ eke sahassānaṃ, amanussānamaddasuṃ.<br>appekenantamaddakkhuṃ, disā sabbā phuṭā ahu(ṃ). | | | |
-|  |  |  |  |
+
+**hey man! Did you not see the third gods messenger appeared among people? he has said: “I did not see, Venerable Sir.**
+
+9. (DN 20.2)
+
+sataṃ eke sahassānaṃ, amanussānamaddasuṃ.
+appekenantamaddakkhuṃ, disā sabbā phuṭā ahu(ṃ).
+
+| --- | --- | --- | --- |
 | sataṃ | noun | masc.acc.sg | hundred |
 | eke | adj | masc.nom.pl | some |
 | sahassānaṃ | noun | nt.gen.pl | of thousand |
 | amanussānaṃ | noun | masc.gen.pl | of not human beings |
 | addasuṃ. | verb | imp.3.pl | they saw |
-|  |  |  |  |
-| some saw hundred of thousand not human beings | | | |
-|  |  |  |  |
-| api | ind | | moreover, further, and then, even |
+
+**some saw hundred of thousand not human beings**
+
+| --- | --- | --- | --- |
+| api | ind |  | moreover, further, and then, even |
 | eke | adj | masc.nom.pl | some |
 | anantaṃ | adj | masc.acc.sg | endless; limitless; infinite |
 | addakkhuṃ | verb | imp.3.pl | they saw |
@@ -2158,52 +2445,49 @@
 | sabbā | adj | fem.nom.pl | all |
 | phuṭā | pp | fem.nom.pl | permeated (with), pervaded (with), suffused (with), filled (with) |
 | ahuṃ | verb | aor.3.pl | they were |
-|  |  |  |  |
-| and some saw infinite, all direction were pervaded | | | |
-|  |  |  |  |
-| 10. (BV 2) | | | |
-|  |  |  |  |
-| adaṃsu te mamokāsaṃ, sodhetuṃ añjasaṃ tadā. | | | |
-|  |  |  |  |
+
+**and some saw infinite, all direction were pervaded**
+
+10. (BV 2)
+
+adaṃsu te mamokāsaṃ, sodhetuṃ añjasaṃ tadā.
+
+| --- | --- | --- | --- |
 | adaṃsu | verb | aor.3.pl | they gave |
 | te | pron | masc.nom.pl | they |
-| maṃ | pron | 1.acc.sg | me |
+
+maṃ pron 1.acc.sg me
+
+vicinanto tadā dakkhiṃ, dutiyaṃ sīlapāramiṃ.
+
+| --- | --- | --- | --- |
 | okāsaṃ | noun | masc.acc.sg | room; open space; chance; permission |
 | sodhetuṃ | verb | inf | to make clean, to purify |
 | añjasaṃ | noun | nt.acc.sg | path; road |
-| tadā. | ind | | then, as that time |
-|  |  |  |  |
-| then they gave me permission to make clean the road | | | |
-|  |  |  |  |
-| vicinanto tadā dakkhiṃ, dutiyaṃ sīlapāramiṃ. | | | |
-|  |  |  |  |
+| tadā. | ind |  | then, as that time |
+
+**then they gave me permission to make clean the road**
+
+| --- | --- | --- | --- |
 | vicinanto | prp | masc.nom.sg | considering; discriminating; selecting. |
-| tadā | ind | | then, as that time |
+| tadā | ind |  | then, as that time |
 | dakkhiṃ | verb | aor.1.sg | I saw |
 | dutiyaṃ | adj | fem.acc.sg | the second |
-| sīlapāramiṃ | | | |
+| sīlapāramiṃ |  |  |  |
 | \#sīla | noun | nt | nature; habit; moral practice; code of morality. |
 | \#pāramiṃ. | noun | fem.acc.sg | completeness; perfection |
-|  |  |  |  |
-| then discriminating I saw the second perfection of morality. | | | |
-|  |  |  |  |
-| 11. AN 4.6 | | | |
-|  |  |  |  |
-| idha, bhikkhave, ekaccassa puggalassa appakaṃ sutaṃ hoti | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| 11. (TH 259) | | | |
-|  |  |  |  |
-| yo sukhaṃ dukkhato adda, dukkhamaddakkhi sallato. | | | |
-|  |  |  |  |
+
+**then discriminating I saw the second perfection of morality.**
+
+11. AN 4.6
+
+idha, bhikkhave, ekaccassa puggalassa appakaṃ sutaṃ hoti
+
+11. (TH 259)
+
+yo sukhaṃ dukkhato adda, dukkhamaddakkhi sallato.
+
+| --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | whoever, that who |
 | sukhaṃ | noun | nt.acc.sg | easily; comfortably |
 | dukkhato | noun | nt.abl.sg | as suffering |
@@ -2211,19 +2495,20 @@
 | dukkhaṃ | noun | nt.acc.sg | suffering |
 | addakkhi | verb | aor.3.sg | he saw |
 | sallato. | noun | nt.abl.sg | as an arrow, dart |
-|  |  |  |  |
-| whoever saw the happyness as suffering, he saw suffering as a dart. | | | |
-|  |  |  |  |
-| 12. (SN 12.66) | | | |
-|  |  |  |  |
-| yepi hi keci, bhikkhave, anāgatamaddhānaṃ ... taṃ aniccato dakkhissanti dukkhato dakkhissanti ... te taṇhaṃ pajahissanti. | | | |
-|  |  |  |  |
-| ye | pron | | whatever, those which |
-| api | ind | | also: and also; even so; but; however |
-| hi | ind | | indeed, surely |
+
+**whoever saw the happyness as suffering, he saw suffering as a dart.**
+
+12. (SN 12.66)
+
+yepi hi keci, bhikkhave, anāgatamaddhānaṃ ... taṃ aniccato dakkhissanti dukkhato dakkhissanti ... te taṇhaṃ pajahissanti.
+
+| --- | --- | --- | --- |
+| ye | pron |  | whatever, those which |
+| api | ind |  | also: and also; even so; but; however |
+| hi | ind |  | indeed, surely |
 | keci | pron | masc.nom.pl | some |
 | bhikkhave | noun | masc.voc.pl | o monks! |
-| anāgatamaddhānaṃ | ind | | in the future, lit. future time |
+| anāgatamaddhānaṃ | ind |  | in the future, lit. future time |
 | taṃ | pron | masc.acc.sg | that |
 | aniccato | noun | masc.abl.sg | as impermanent |
 | dakkhissanti | verb | fut.3.pl | they will see |
@@ -2232,79 +2517,90 @@
 | te | pron | masc.nom.pl | they |
 | taṇhaṃ | noun | fem.acc.sg | craving; thirst; lust |
 | pajahissanti. | verb | fut.3.pl | they will give up; renounce; forsake; abandon |
-|  |  |  |  |
-| o monks! indeed whoever in the future will see that as impermanent, they will see as suffering, they will give up craving. | | | |
-|  |  |  |  |
-| 13. (SN 9.3) | | | |
-|  |  |  |  |
-| suṇāti na vijānāti, āloketi na passati.<br>dhammasmiṃ bhaññamānasmiṃ, atthaṃ bālo na bujjhati.<br>sacepi dasa pajjote, dhārayissasi kassapa.<br>neva dakkhati rūpāni, cakkhu hissa na vijjatīti. | | | |
-|  |  |  |  |
+
+**o monks! indeed whoever in the future will see that as impermanent, they will see as suffering, they will give up craving.**
+
+13. (SN 9.3)
+
+suṇāti na vijānāti, āloketi na passati.
+dhammasmiṃ bhaññamānasmiṃ, atthaṃ bālo na bujjhati.
+sacepi dasa pajjote, dhārayissasi kassapa.
+neva dakkhati rūpāni, cakkhu hissa na vijjatīti.
+
+| --- | --- | --- | --- |
 | suṇāti | verb | pr.3.sg | hears |
-| na | ind | | not |
+| na | ind |  | not |
 | vijānāti | verb | pr.3.sg | knows; understands; perceives; recognizes |
 | āloketi | verb | pr.3.sg | looks at or before |
-| na | ind | | not |
+| na | ind |  | not |
 | passati | verb | pr.3.sg | sees; finds; understands |
 | dhammasmiṃ | noun | masc.loc.sg | in Dhamma |
 | bhaññamānasmiṃ | prp | masc.loc.sg | in what is preaching, is speaking |
 | atthaṃ | noun | masc.acc.sg | meaning |
 | bālo | noun | masc.nom.sg | fool |
-| na | ind | | not |
+| na | ind |  | not |
 | bujjhati | verb | pr.3.sg | knows; understands |
-|  |  |  |  |
-| He listens but does not understand, he looks but does not see; Though the Dhamma is being spoken, The fool does not grasp the meaning | | | |
-|  |  |  |  |
-| sace | ind | | if |
-| api | ind | | also: and also; even so; but |
+
+**He listens but does not understand, he looks but does not see; Though the Dhamma is being spoken, The fool does not grasp the meaning**
+
+| --- | --- | --- | --- |
+| sace | ind |  | if |
+| api | ind |  | also: and also; even so; but |
 | dasa | adj | masc.nom.sg | ten |
 | pajjote | noun | masc.acc.pl | a lamps |
 | dhārayissasi | verb | fut.2.sg | you will hold, keep, carrie |
 | kassapa. | noun | masc.voc.sg | o Kassapa! |
-|  |  |  |  |
-| Kassapa, even if you will bring ten lamps. | | | |
-|  |  |  |  |
-| na | ind | | not |
-| eva | ind | | only, just |
+
+**Kassapa, even if you will bring ten lamps.**
+
+| --- | --- | --- | --- |
+| na | ind |  | not |
+| eva | ind |  | only, just |
 | dakkhati | verb | pr.3.sg | he sees |
 | rūpāni | noun | nt.acc.pl | forms, material objects |
 | cakkhu | noun | nt.nom.sg | the eye |
-| hi | ind | | indeed |
+| hi | ind |  | indeed |
 | assa | pron | masc.dat.sg | for this, for him |
-| na | ind | | not |
+| na | ind |  | not |
 | vijjati | verb | pr.3.sg | exists; to be found |
-| ti | ind | | |
-| he just not see a forms, for him eye not exists. | | | |
-|  |  |  |  |
-| 14. (SN 3.16) | | | |
-|  |  |  |  |
-| itthīpi hi ekacciyā, seyyo posā janādhipa.<br>medhāvinī sīlavatī, sassudevā patibbatā. | | | |
-|  |  |  |  |
+| ti | ind |  |  |
+
+**he just not see a forms, for him eye not exists.**
+
+14. (SN 3.16)
+
+itthīpi hi ekacciyā, seyyo posā janādhipa.
+medhāvinī sīlavatī, sassudevā patibbatā.
+
+| --- | --- | --- | --- |
 | itthī | noun | fem.nom.sg | woman; female |
-| api | ind | | also: and also; even so; but |
-| hi | ind | | indeed |
+| api | ind |  | also: and also; even so; but |
+| hi | ind |  | indeed |
 | ekacciyā | adj | masc.abl.sg | some; certain; a few |
-| seyyo | ind | | it is better, superior |
+| seyyo | ind |  | it is better, superior |
 | posā | noun | masc.abl.sg | from man |
 | janādhipa. | noun | masc.voc.sg | o king |
-|  |  |  |  |
-| o king, indeed even a woman is better than some man. | | | |
-|  |  |  |  |
+
+**o king, indeed even a woman is better than some man.**
+
+| --- | --- | --- | --- |
 | medhāvinī | noun | fem.nom.sg | a wise woman |
 | sīlavatī | noun | fem.nom.sg | Sīlavati |
 | sassudevā | noun | fem.nom.sg | mother-in-law of a king |
 | patibbatā. | noun | fem.nom.sg | a devoted wife |
-|  |  |  |  |
-| a wise woman Sīlavati, a devoted wife, a mother-in-law of a king | | | |
+
+**a wise woman Sīlavati, a devoted wife, a mother-in-law of a king**
+
 
 ## Class 36
 
-| 1. SN 22.96 | | | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------ |
-|  |  |  |  |
-| atthi nu kho, bhante, kiñci rūpaṃ … kāci vedanā … kāci saññā … keci saṅkhārā … kiñci viññāṇaṃ niccaṃ dhuvaṃ sassataṃ | | | |
-|  |  |  |  |
+1. SN 22.96
+
+atthi nu kho, bhante, kiñci rūpaṃ … kāci vedanā … kāci saññā … keci saṅkhārā … kiñci viññāṇaṃ niccaṃ dhuvaṃ sassataṃ
+
+| --- | --- | --- | --- |
 | atthi | verb | pr.3.sg | there is |
-| nu kho | ind | | does? is? would? |
+| nu kho | ind |  | does? is? would? |
 | bhante | noun | masc.voc.sg | o Venerable |
 | kiñci | pron | nt.nom.sg | some |
 | rūpaṃ | noun | nt.nom.sg | form, material form |
@@ -2319,190 +2615,220 @@
 | niccaṃ | adj | nt.nom.sg | constant; continuous; permanent |
 | dhuvaṃ | adj | nt.nom.sg | stable, permanent; certain, regular |
 | sassataṃ | adj | nt.nom.sg | eternal, perpetual |
-|  |  |  |  |
-| o Venerable, is there some form … some feeling … some perception … some intentions … some consciousness - constant, permanent, eternal ? | | | |
-|  |  |  |  |
-| 2. (SN 1.71) | | | |
-|  |  |  |  |
-| kiṃsu chetvā sukhaṃ seti, kiṃsu chetvā na socati.<br>kissassu ekadhammassa, vadhaṃ rocesi gotamāti. | | | |
-|  |  |  |  |
+
+**o Venerable, is there some form … some feeling … some perception … some intentions … some consciousness - constant, permanent, eternal ?**
+
+2. (SN 1.71)
+
+kiṃsu chetvā sukhaṃ seti, kiṃsu chetvā na socati.
+kissassu ekadhammassa, vadhaṃ rocesi gotamāti.
+
+| --- | --- | --- | --- |
 | kiṃsu | pron | masc.acc.sg | what? who? which? |
 | chetvā | verb | abs | having cut off or severed |
-| sukhaṃ | ind | | easily; comfortably |
+| sukhaṃ | ind |  | easily; comfortably |
 | seti | verb | pr.3.sg | sleeps |
 | kiṃsu | pron | masc.acc.sg | what? who? which? |
 | chetvā | verb | abs | having cut off or severed |
-| na | ind | | not |
+| na | ind |  | not |
 | socati. | verb | pr.3.sg | mourns; grieves |
-|  |  |  |  |
-| having cut off what he sleeps comfortably? having cut off what he does not grieve? | | | |
-|  |  |  |  |
+
+**having cut off what he sleeps comfortably? having cut off what he does not grieve?**
+
+| --- | --- | --- | --- |
 | kissassu | pron | masc.gen.sg | of what? who? which? |
-| ekadhammassa | | | |
-| \#eka | adj | | one, single |
+| ekadhammassa |  |  |  |
+| \#eka | adj |  | one, single |
 | \#dhammassa | noun | masc.gen.sg | of thing |
 | vadhaṃ | noun | masc.acc.sg | striking, killing; slaughter, destruction, execution |
 | rocesi | verb | aor.3.sg | gave ones consent; liked |
 | gotama | noun | masc.voc.sg | Gotama |
-|  |  |  |  |
-| destruction of what a single thing, Gotama gave ones consent ? | | | |
-|  |  |  |  |
-| 3. SN 12.10 | | | |
-|  |  |  |  |
-| tassa mayhaṃ, bhikkhave, etadahosi — kimhi nu kho sati jarāmaraṇaṃ hoti, kiṃpaccayā jarāmaraṇanti ? | | | |
-|  |  |  |  |
+
+**destruction of what a single thing, Gotama gave ones consent ?**
+
+3. SN 12.10
+
+tassa mayhaṃ, bhikkhave, etadahosi — kimhi nu kho sati jarāmaraṇaṃ hoti, kiṃpaccayā jarāmaraṇanti ?
+
+| --- | --- | --- | --- |
 | tassa | pron | masc.dat.sg | to that, with reference to that |
-| mayhaṃ | pron | 1.dat.sg | to me |
+
+mayhaṃ pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
 | bhikkhave | noun | masc.voc.pl | o monks |
 | etadahosi | verb | aor.3.sg | this was |
 | kimhi | pron | masc.loc.sg | when what? who? which? |
-| nu kho | ind | | does? is? would? |
+| nu kho | ind |  | does? is? would? |
 | sati | adj | masc.loc.sg | in (when) existing |
 | jarāmaraṇaṃ | noun | nt.nom.sg | old age and death |
 | hoti | verb | pr.3.sg | is, there is |
 | kiṃ | pron | nt.nom.sg | what? who? which? |
 | paccayā | noun | masc.abl.sg | from cause; votive; requisite; means; support |
 | jarāmaraṇaṃ | noun | nt.nom.sg | old age and death |
-|  |  |  |  |
-| o monks, this was (occur) to me : when what existing there is an old age and death? from what cause is old age and death? | | | |
-|  |  |  |  |
-| 4. (API 17) | | | |
-|  |  |  |  |
-| evaṃ vilāpamānaṃ taṃ, ānandaṃ āha gotamī. | | | |
-|  |  |  |  |
-| evaṃ | ind | | thus; in this way |
+
+**o monks, this was (occur) to me : when what existing there is an old age and death? from what cause is old age and death?**
+
+4. (API 17)
+
+evaṃ vilāpamānaṃ taṃ, ānandaṃ āha gotamī.
+na yuttaṃ socituṃ putta, hāsakāle upaṭṭhite.
+
+| --- | --- | --- | --- |
+| evaṃ | ind |  | thus; in this way |
 | vilāpamānaṃ | prp | masc.acc.sg | wailing, talking nonsense, babbling incoherently |
 | taṃ | pron | masc.acc.sg | that, she |
 | ānandaṃ | noun | masc.acc.sg | Ānanda |
 | āha | verb | perfem.3.sg | she has said |
 | gotamī. | noun | fem.nom.sg | a woman of the Gotama clan, Gotamī |
-|  |  |  |  |
-| thus Gotamī has said to wailing Ānanda. | | | |
-|  |  |  |  |
-| na yuttaṃ socituṃ putta, hāsakāle upaṭṭhite. | | | |
-|  |  |  |  |
-| na | ind | | not |
-| yuttaṃ | ind | | proper, suitable, right, appropriate |
+
+**thus Gotamī has said to wailing Ānanda.**
+
+| --- | --- | --- | --- |
+| na | ind |  | not |
+| yuttaṃ | ind |  | proper, suitable, right, appropriate |
 | socituṃ | verb | inf | to mourn; to grieve |
 | putta | noun | masc.voc.sg | a son; a child. |
 | hāsakāle | noun | masc.loc.sg | in (when) time to be joyful. |
 | upaṭṭhite. | pp | masc.loc.sg | in (when) got ready; arrived; presented; served by. |
-|  |  |  |  |
-| not suitable to grieve, son, when time to be joyful presented. | | | |
-|  |  |  |  |
-| 5. (APA 8) | | | |
-|  |  |  |  |
-| allavatthā allasirā, sabbeva pañjalīkatā.<br>buddhassa pāde nipatitvā, idaṃ vacanamabravuṃ | | | |
-|  |  |  |  |
+
+**not suitable to grieve, son, when time to be joyful presented.**
+
+5. (APA 8)
+
+allavatthā allasirā, sabbeva pañjalīkatā.
+buddhassa pāde nipatitvā, idaṃ vacanamabravuṃ
+
+| --- | --- | --- | --- |
 | allavatthā | adj | masc.nom.pl | with wet clothes |
 | allasirā | adj | masc.nom.pl | with a wet head |
 | sabba | adj | masc.nom.pl | all; every; whole; entire |
-| eva | ind | | only, even, just |
-| pañjalīkatā | | | |
-| \#pañjali | adj | | holding up hands palms together |
+| eva | ind |  | only, even, just |
+| pañjalīkatā |  |  |  |
+| \#pañjali | adj |  | holding up hands palms together |
 | \#katā. | pp | masc.nom.pl | done, made |
 | buddhassa | noun | masc.gen.sg | of the Enlightened One, the Buddha |
 | pāde | noun | masc.loc.sg | in the foot; leg |
 | nipatitvā | verb | abs | having fallen down |
-| idaṃ | pron | | this |
+| idaṃ | pron |  | this |
 | vacanam | noun | nt.acc.sg | utterance; word; saying; a term; an expression |
 | abravuṃ | verb | aor.3.pl | they said |
-|  |  |  |  |
-| with wet clothes, with a wet head, just holding up hands palms together, having fallen down to the foot of the Buddha, they said this utterance | | | |
-|  |  |  |  |
-| 6. (VV 53) | | | |
-|  |  |  |  |
-| tava ratanavarassa dhammaṃ sutvā, karissāmīti ca bravittha chatto. | | | |
-|  |  |  |  |
-| tava | pron | 2.dat/gen.sg | your |
+
+**with wet clothes, with a wet head, just holding up hands palms together, having fallen down to the foot of the Buddha, they said this utterance**
+
+6. (VV 53)
+
+tava ratanavarassa dhammaṃ sutvā, karissāmīti ca bravittha chatto.
+
+tava pron 2.dat/gen.sg your
+
+| --- | --- | --- | --- |
 | ratanavarassa | noun | nt.dat/gen | of the best of gems. |
 | dhammaṃ | noun | masc.acc.sg | the Teaching |
 | sutvā | verb | abs | having heard |
 | karissāmi | verb | fut.1.sg | I will do; act; make |
-| ca | ind | | and |
+| ca | ind |  | and |
 | bravittha | verb | aor.3.pl | said |
 | chatto. | noun | masc.nom.sg | pupil, a student |
-|  |  |  |  |
-| having heard the Teaching of your the best of gems, I will act said the student. | | | |
-|  |  |  |  |
-| 7. (TH 263) | | | |
-|  |  |  |  |
-| evañce taṃ jano jaññā, yathā jānāmi taṃ ahaṃ.<br>ārakā parivajjeyya, gūthaṭṭhānaṃva pāvuse | | | |
-|  |  |  |  |
-| evaṃ | ind | | thus; in this way |
-| ce | ind | | if |
+
+**having heard the Teaching of your the best of gems, I will act said the student.**
+
+7. (TH 263)
+
+evañce taṃ jano jaññā, yathā jānāmi taṃ ahaṃ.
+ārakā parivajjeyya, gūthaṭṭhānaṃva pāvuse
+
+| --- | --- | --- | --- |
+| evaṃ | ind |  | thus; in this way |
+| ce | ind |  | if |
 | taṃ | pron | masc.acc.sg | him |
 | jano | noun | masc.nom.sg | a person; a man; the people |
 | jaññā | verb | opt.3.sg | could know |
-| yathā | ind | | as; like; just as. |
+| yathā | ind |  | as; like; just as. |
 | jānāmi | verb | pr.1.sg | I know |
 | taṃ | pron | masc.acc.sg | him |
-| ahaṃ. | pron | 1.nom.sg | I |
-| ārakā | ind | | far off, far from, away from |
+
+ahaṃ. pron 1.nom.sg I
+
+| --- | --- | --- | --- |
+| ārakā | ind |  | far off, far from, away from |
 | parivajjeyya | verb | opt.3.sg | could shun; avoid; keep away from |
-| gūthaṭṭhānaṃva | | | |
-| \#gūtha | noun | | faeces; dung; excrement |
+| gūthaṭṭhānaṃva |  |  |  |
+| \#gūtha | noun |  | faeces; dung; excrement |
 | \#ṭhānaṃ | noun | nt.acc.sg | a place; a locality; a spot |
-| \#va | ind | | like |
+| \#va | ind |  | like |
 | pāvuse | noun | masc.loc.sg | in rainy-season |
-|  |  |  |  |
-| if the people could know him, as I know him, (they) would keep away from, as a place of excrement in rainy-season | | | |
-|  |  |  |  |
-| 8. (API 19) | | | |
-|  |  |  |  |
-| yaṃ tvaṃ kāmaratiṃ brūsi, aratī dāni sā mama. | | | |
-|  |  |  |  |
+
+**if the people could know him, as I know him, (they) would keep away from, as a place of excrement in rainy-season**
+
+8. (API 19)
+
+yaṃ tvaṃ kāmaratiṃ brūsi, aratī dāni sā mama.
+
+| --- | --- | --- | --- |
 | yaṃ | pron | fem.acc.sg | whatever |
-| tvaṃ | pron | 2.nom.sg | you |
+
+tvaṃ pron 2.nom.sg you
+
+| --- | --- | --- | --- |
 | kāmaratiṃ | noun | fem.acc.sg | enjoyment of sensual pleasures |
 | brūsi | verb | pr.2.sg | you say; speak |
 | aratī | noun | fem.nom.sg | non-attachment; aversion |
-| dāni | ind | | now |
+| dāni | ind |  | now |
 | sā | pron | fem.nom.sg | that |
-| mama. | pron | 1.dat.sg | to me |
-|  |  |  |  |
-| whatever you speak as enjoyment of sensual pleasures, now that is non-attachment for me | | | |
-|  |  |  |  |
-| 9. (APA 23) | | | |
-|  |  |  |  |
-| vuṭṭhahitvā samādhimhā, satthā loke anuttaro.<br>mama kammaṃ pakittento, idaṃ vacanamabravi. | | | |
-|  |  |  |  |
+
+mama. pron 1.dat.sg to me
+
+whatever you speak as enjoyment of sensual pleasures, now that is non-attachment for me
+
+9. (APA 23)
+
+vuṭṭhahitvā samādhimhā, satthā loke anuttaro.
+mama kammaṃ pakittento, idaṃ vacanamabravi.
+
+| --- | --- | --- | --- |
 | vuṭṭhahitvā | verb | abs | having risen; having arisen; having emerged from |
 | samādhimhā | noun | masc.abl.sg | from perfect peace of mind, stability of mind, stillness of mind |
 | satthā | noun | masc.nom.sg | teacher |
 | loke | noun | masc.loc.sg | in world |
 | anuttaro. | adj | masc.nom.sg | "nothing higher", without a superior, incomparable |
-| mama | pron | 1.gen.sg | my |
+
+mama pron 1.gen.sg my
+
+| --- | --- | --- | --- |
 | kammaṃ | noun | nt.acc.sg | deed; action; job; work |
 | pakittento | prp | masc.nom.sg | speaking highly; praising; explaining. |
-| idaṃ | pron | | this |
+| idaṃ | pron |  | this |
 | vacanaṃ | noun | nt | utterance; word; saying; a term; an expression |
 | abravi. | verb | aor.3.sg | sayed; spoke |
-|  |  |  |  |
-| having emerged from perfect peace of mind, incomparable teacher in the world, praising my action, he spoke this utterance | | | |
-|  |  |  |  |
-| 10. (DN 3.7) | | | |
-|  |  |  |  |
-| kimetaṃ bhavaṃ gotamo āha? punabhavaṃ gotamo bravitūti | | | |
-|  |  |  |  |
+
+**having emerged from perfect peace of mind, incomparable teacher in the world, praising my action, he spoke this utterance**
+
+10. (DN 3.7)
+
+kimetaṃ bhavaṃ gotamo āha? punabhavaṃ gotamo bravitūti
+
+| --- | --- | --- | --- |
 | kiṃ | pron | masc.acc.sg | who? which? |
 | etaṃ | pron | masc.acc.sg | this |
 | bhavaṃ | noun | masc.nom.sg | Sir, Lord, Venerable |
 | gotamo | noun | masc.nom.sg | Gotama |
 | āha | verb | perfem.3.sg | he has said |
-| puna | ind | | again |
+| puna | ind |  | again |
 | bhavaṃ | noun | masc.nom.sg | Sir, Lord, Venerable |
 | gotamo | noun | masc.nom.sg | Gotama |
 | bravitu | verb | imp.3.sg | let him say |
-|  |  |  |  |
-| what has said Sir Gotama ? let Sir Gotama say again! | | | |
-|  |  |  |  |
-| 11. (APA 23) | | | |
-|  |  |  |  |
-| pupphāsanaṃ paññapetvā, sādhucittaṃ manoramaṃ.<br>narasārathinaṃ aggaṃ, idaṃ vacanamabraviṃ. | | | |
-|  |  |  |  |
-| pupphāsanaṃ | | | |
-| \#puppha | noun | | flower |
+
+**what has said Sir Gotama ? let Sir Gotama say again!**
+
+11. (APA 23)
+
+pupphāsanaṃ paññapetvā, sādhucittaṃ manoramaṃ.
+narasārathinaṃ aggaṃ, idaṃ vacanamabraviṃ.
+
+| --- | --- | --- | --- |
+| pupphāsanaṃ |  |  |  |
+| \#puppha | noun |  | flower |
 | \#āsanaṃ | noun | nt.acc.sg | seat |
 | paññapetvā | verb | abs | having regulated, made a rule; made known; declared; prepared |
 | sādhucittaṃ | adj | nt.acc.sg | well-decked. |
@@ -2512,16 +2838,17 @@
 | idaṃ | pron | masc.acc.sg | this |
 | vacanaṃ | noun | nt | utterance; word; saying; a term; an expression |
 | abravi. | verb | aor.3.sg | sayed; spoke |
-|  |  |  |  |
-| having prepared a flower seat, well-decked and delightful, (for) the highest trainer of men, he sayed this utterance | | | |
-|  |  |  |  |
-| 12. (SN 3.4) | | | |
-|  |  |  |  |
-| ye ca kho keci kāyena duccaritaṃ caranti, … tesaṃ appiyo attā. kiñcāpi te evaṃ vadeyyuṃ — piyo me attāti, atha kho tesaṃ appiyo attā. taṃ kissa hetu? | | | |
-|  |  |  |  |
+
+**having prepared a flower seat, well-decked and delightful, (for) the highest trainer of men, he sayed this utterance**
+
+12. (SN 3.4)
+
+ye ca kho keci kāyena duccaritaṃ caranti, … tesaṃ appiyo attā. kiñcāpi te evaṃ vadeyyuṃ — piyo me attāti, atha kho tesaṃ appiyo attā. taṃ kissa hetu?
+
+| --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whoever |
-| ca | ind | | and |
-| kho | ind | | indeed |
+| ca | ind |  | and |
+| kho | ind |  | indeed |
 | keci | pron | masc.nom.pl | some |
 | kāyena | noun | masc.instr.sg | by body |
 | duccaritaṃ | noun | nt.acc.sg | bad conduct; wrong action. |
@@ -2529,110 +2856,124 @@
 | tesaṃ | pron | masc.dat.pl | to them |
 | appiyo | adj | masc.nom.sg | unpleasant; disagreeable, not loving |
 | attā. | noun | masc.nom.sg | soul; oneself |
-| kiñcāpi | ind | | however much, even if, even though |
+| kiñcāpi | ind |  | however much, even if, even though |
 | te | pron | masc.nom.pl | they |
-| evaṃ | ind | | thus |
+| evaṃ | ind |  | thus |
 | vadeyyuṃ | verb | opt.3.pl | they may say |
 | piyo | adj | masc.nom.sg | pleasant; agreeable, dear |
-| me | pron | 1.dat.sg | to me |
+
+me pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
 | attā | noun | masc.nom.sg | soul; oneself |
-| atha kho | ind | | and then |
+| atha kho | ind |  | and then |
 | tesaṃ | pron | masc.dat.pl | to them |
 | appiyo | adj | masc.nom.sg | unpleasant; disagreeable |
 | attā. | noun | masc.nom.sg | soul; oneself |
 | taṃ | pron | nt.nom.sg | that |
 | kissa | pron | masc.gen.sg | of what? which? |
 | hetu? | noun | masc.nom.sg | cause; reason; condition |
-|  |  |  |  |
-| indeed some performs bad conduct by body, for them the self is disagreeable, even if they may say thus : “or me the self is dear , and then for them the self is disagreeable. what is the reason for that? | | | |
-|  |  |  |  |
-| 13. Vin 4, 1.6 | | | |
-|  |  |  |  |
-| atha kho bhagavā imaṃ udānaṃ udānesi — “aññāsi vata, bho koṇḍañño, aññāsi vata bho koṇḍaññoti. | | | |
-|  |  |  |  |
-| atha kho | ind | | and than |
+
+**indeed some performs bad conduct by body, for them the self is disagreeable, even if they may say thus : “or me the self is dear , and then for them the self is disagreeable. what is the reason for that?**
+
+13. Vin 4, 1.6
+
+atha kho bhagavā imaṃ udānaṃ udānesi — “aññāsi vata, bho koṇḍañño, aññāsi vata bho koṇḍaññoti.
+
+| --- | --- | --- | --- |
+| atha kho | ind |  | and than |
 | bhagavā | noun | masc.nom.sg | the Fortunate One, the Buddha. |
-| imaṃ | pron | | this |
+| imaṃ | pron |  | this |
 | udānaṃ | noun | nt.acc.sg | an emotional utterance. |
 | udānesi | verb | aor.3.sg | has utter something with intense emotion |
 | aññāsi | verb | aor.3.sg | knew |
-| vata | ind | | indeed |
-| bho | ind | | my dear; friend |
+| vata | ind |  | indeed |
+| bho | ind |  | my dear; friend |
 | koṇḍañño | noun | masc.nom.sg | Kondañña |
 | aññāsi | verb | aor.3.sg | knew |
-| vata | ind | | indeed |
-| bho | ind | | my dear; friend |
+| vata | ind |  | indeed |
+| bho | ind |  | my dear; friend |
 | koṇḍañño | noun | masc.nom.sg | Kondañña |
-|  |  |  |  |
-| and than the Buddha has utter an emotional utterance with intense emotion: “Indeed, my dear Kondañña, he knew. indeed my dear Kondañña, he knew | | | |
-|  |  |  |  |
-| 14. (SN 22.35) | | | |
-|  |  |  |  |
-| yathā kathaṃ pana tvaṃ, bhikkhu, mayā saṃkhittena bhāsitassa vitthārena atthaṃ ājānāsīti? | | | |
-|  |  |  |  |
-| yathā | ind | | as; like; just as |
-| kathaṃ | ind | | how? |
-| pana | ind | | and; yet; but; and now; moreover |
-| tvaṃ | pron | 2.nom.sg | you |
+
+**and than the Buddha has utter an emotional utterance with intense emotion: “Indeed, my dear Kondañña, he knew. indeed my dear Kondañña, he knew**
+
+14. (SN 22.35)
+
+yathā kathaṃ pana tvaṃ, bhikkhu, mayā saṃkhittena bhāsitassa vitthārena atthaṃ ājānāsīti?
+
+| --- | --- | --- | --- |
+| yathā | ind |  | as; like; just as |
+| kathaṃ | ind |  | how? |
+| pana | ind |  | and; yet; but; and now; moreover |
+
+tvaṃ pron 2.nom.sg you
+
+| --- | --- | --- | --- |
 | bhikkhu | noun | masc.voc.sg | o monk! |
-| mayā | pron | 1.instr.sg | by me |
+
+mayā pron 1.instr.sg by me
+
+| --- | --- | --- | --- |
 | saṃkhittena | pp | masc.instr.sg | with contracted; abridged; shortened; folded |
 | bhāsitassa | pp | masc.gen.sg | of said; spoken; shone |
 | vitthārena | noun | masc.instr.sg | with explanation; detail; the breadth |
 | atthaṃ | noun | masc.acc.sg | meaning |
 | ājānāsi | verb | aor.2.sg | you knew; understood. |
-|  |  |  |  |
-| and just how, o monk, you understood meaning with explanation of my utterance in brief ? | | | |
-|  |  |  |  |
-| 15. (SN 22.80) | | | |
-|  |  |  |  |
-| atha kho bhagavā kismiñcideva pakaraṇe bhikkhusaṅghaṃ paṇāmetvā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya kapilavatthuṃ piṇḍāya pāvisi. | | | |
-|  |  |  |  |
-| atha kho | ind | | and than |
+
+**and just how, o monk, you understood meaning with explanation of my utterance in brief ?**
+
+15. (SN 22.80)
+
+atha kho bhagavā kismiñcideva pakaraṇe bhikkhusaṅghaṃ paṇāmetvā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya kapilavatthuṃ piṇḍāya pāvisi.
+
+| --- | --- | --- | --- |
+| atha kho | ind |  | and than |
 | bhagavā | noun | masc.nom.sg | the Fortunate One, the Buddha |
 | kismiñci | pron | masc.loc.sg | in some |
-| eva | ind | | only, even, just |
+| eva | ind |  | only, even, just |
 | pakaraṇe | noun | masc.loc.sg | in performance, undertaking paragraph, occasion, exposition, arrangement, literary work, composition |
 | bhikkhusaṅghaṃ | noun | masc.acc.sg | congregation of monks |
 | paṇāmetvā | verb | abs | having dismissed; having ejected; having shut; having stretched out. |
-| pubbaṇhasamayaṃ | | | |
+| pubbaṇhasamayaṃ |  |  |  |
 | \#pubbaṇha | noun | masc. | forenoon |
 | \#samayaṃ | noun | masc.acc.sg | time; occasion |
 | nivāsetvā | verb | abs | having dressed oneself; having got clothed or dressed. |
-| pattacīvaramādāya | | | |
-| \#patta | noun | | a bowl |
-| \#cīvaraṃ | noun | | the (upper) robe of a Buddhist |
+| pattacīvaramādāya |  |  |  |
+| \#patta | noun |  | a bowl |
+| \#cīvaraṃ | noun |  | the (upper) robe of a Buddhist |
 | \#ādāya | verb | abs | having taken |
 | kapilavatthuṃ | noun | nt.acc.sg | Kapilavatthu |
 | piṇḍāya | noun | masc.dat.sg | for alms. |
 | pāvisi. | verb | aor.3.sg | gone in; entered |
-|  |  |  |  |
-| and than the Buddha just in some occasion having dismissed congregation of monks, at forenoon time having dressed oneself, bowl and robe having taken, he entered Kapilavatthu for alms. | | | |
-|  |  |  |  |
-| 16. (SN 22.81) | | | |
-|  |  |  |  |
-| ekova bhagavā tasmiṃ samaye viharitukāmo hoti; na bhagavā tasmiṃ samaye kenaci anubandhitabbo | | | |
-|  |  |  |  |
+
+**and than the Buddha just in some occasion having dismissed congregation of monks, at forenoon time having dressed oneself, bowl and robe having taken, he entered Kapilavatthu for alms.**
+
+16. (SN 22.81)
+
+ekova bhagavā tasmiṃ samaye viharitukāmo hoti; na bhagavā tasmiṃ samaye kenaci anubandhitabbo
+
+| --- | --- | --- | --- |
 | eko | adj | masc.nom.sg | one, along |
-| eva | ind | | only, even, just |
+| eva | ind |  | only, even, just |
 | bhagavā | noun | masc.nom.sg | the Fortunate One, the Buddha |
 | tasmiṃ | pron | masc.loc.sg | in that |
 | samaye | noun | masc.loc.sg | time; occasion |
 | viharitukāmo | adj | masc.nom.sg | wishing to live |
 | hoti; | verb | pr.3.sg | is |
-| na | ind | | not |
+| na | ind |  | not |
 | bhagavā | noun | masc.nom.sg | the Fortunate One, the Buddha |
 | tasmiṃ | pron | masc.loc.sg | in that |
 | samaye | noun | masc.loc.sg | time; occasion |
 | kenaci | pron | masc.instr.sg | by someone |
 | anubandhitabbo | ptp | masc.nom.sg | should be followed; pursued |
-|  |  |  |  |
-| at that time the Buddha wishing to live along, he should not be followed by someone at that time | | | |
-|  |  |  |  |
-| 17. (DN 16.14) | | | |
-|  |  |  |  |
-| yassa kassaci, ānanda, cattāro iddhipādā bhāvitā bahulīkatā ,..., so ākaṅkhamāno kappaṃ vā tiṭṭheyya kappāvasesaṃ vā. | | | |
-|  |  |  |  |
+
+**at that time the Buddha wishing to live along, he should not be followed by someone at that time**
+
+17. (DN 16.14)
+
+yassa kassaci, ānanda, cattāro iddhipādā bhāvitā bahulīkatā ,..., so ākaṅkhamāno kappaṃ vā tiṭṭheyya kappāvasesaṃ vā.
+
+| --- | --- | --- | --- |
 | yassa | pron | masc.dat.sg | of whoever |
 | kassaci | pron | masc.dat.sg | of some |
 | ānanda | noun | masc.voc.sg | Ānanda |
@@ -2643,37 +2984,39 @@
 | so | pron | masc.nom.sg | he, that |
 | ākaṅkhamāno | prp | masc.nom.sg | wishing for; desiring |
 | kappaṃ | noun | masc.acc.sg | an aeon |
-| vā | ind | | or |
+| vā | ind |  | or |
 | tiṭṭheyya | verb | opt.3.sg | could stand; stay; abide; last; remain, determine |
 | kappāvasesaṃ | noun | masc.acc.sg | remainder of an aeon |
-| vā. | ind | | or |
-|  |  |  |  |
-| Ānanda, for somone the four psychic power increased and practised frequently, he wishing for an aeon or could determine for remainder of an aeon. | | | |
-|  |  |  |  |
-| 18. (SN 22.2) | | | |
-|  |  |  |  |
-| paṇḍitā hāvuso, manussā vīmaṃsakā — kismiṃ panāyasmantānaṃ chandarāgavinayakkhāyī satthāti? | | | |
-|  |  |  |  |
+| vā. | ind |  | or |
+
+**Ānanda, for somone the four psychic power increased and practised frequently, he wishing for an aeon or could determine for remainder of an aeon.**
+
+18. (SN 22.2)
+
+paṇḍitā hāvuso, manussā vīmaṃsakā — kismiṃ panāyasmantānaṃ chandarāgavinayakkhāyī satthāti?
+
+| --- | --- | --- | --- |
 | paṇḍitā | adj | masc.nom.pl | wise |
-| hi | ind | | indeed; certainly; truly; definitely |
+| hi | ind |  | indeed; certainly; truly; definitely |
 | āvuso | noun | masc. | friend; brother |
 | manussā | noun | masc.nom.pl | a human beinga, men |
 | vīmaṃsakā | adj | masc.nom.pl | testing, investigating, examining |
 | kismiṃ | pron | masc.loc.sg | in who? which? what? |
-| pana | ind | | and; yet; but; and now; moreover. |
+| pana | ind |  | and; yet; but; and now; moreover. |
 | āyasmantānaṃ | noun | masc.gen.pl | of Venerables |
-| chandarāgavinayakkhāyī | | | |
-| \#chandarāga | noun | | desire and craving |
-| \#vinaya | noun | | removal. |
+| chandarāgavinayakkhāyī |  |  |  |
+| \#chandarāga | noun |  | desire and craving |
+| \#vinaya | noun |  | removal. |
 | \#akkhāyī | adj | masc.nom.sg | telling, relating, announcing |
 | satthā | noun | masc.nom.sg | teacher |
-|  |  |  |  |
-| hey friend, wise men are examining . “In what way the teacher of the Venerables announcing removal of desire and craving? | | | |
-|  |  |  |  |
-| 19. (MN 107) | | | |
-|  |  |  |  |
-| ye keci pupphagandhā, vassikaṃ tesaṃ aggam-akkhāyati | | | |
-|  |  |  |  |
+
+**hey friend, wise men are examining . “In what way the teacher of the Venerables announcing removal of desire and craving?**
+
+19. (MN 107)
+
+ye keci pupphagandhā, vassikaṃ tesaṃ aggam-akkhāyati
+
+| --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whoever |
 | keci | pron | masc.nom.pl | some |
 | pupphagandhā | adj | masc.nom.pl | odouring of flowers |
@@ -2681,47 +3024,53 @@
 | tesaṃ | pron | masc.gen.pl | among those, of them |
 | aggaṃ | adj | masc.acc.sg | the highest; the top-most |
 | akkhāyati | verb | pr.3.sg | is declared; is called, is stated to be; is named, is seem to be |
-|  |  |  |  |
-| someone odouring of flowers, jasmin is seem to be the highest among them | | | |
 
-| 20. KN-a Dhp, 6,4 | | | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------- | -------------------------------------------------------------- |
-| jeṭṭhakapesakārassa bhariyā kenacideva karaṇīyena bārāṇasiṃ gacchantī te paccekabuddhe disvā vanditvā kiṃ, bhante, avelāya āgatatthāti pucchi | | | |
-| jeṭṭhaka- | noun | | chief; fore-most |
+**someone odouring of flowers, jasmin is seem to be the highest among them**
+
+
+20. KN-a Dhp, 6,4
+
+jeṭṭhakapesakārassa bhariyā kenacideva karaṇīyena bārāṇasiṃ gacchantī te paccekabuddhe disvā vanditvā kiṃ, bhante, avelāya āgatatthāti pucchi
+
+| --- | --- | --- | --- |
+| jeṭṭhaka- | noun |  | chief; fore-most |
 | pesakārassa | noun | gen | of weaver |
 | bhariyā | noun | fem | the wife |
 | kenaci | pron | masc.ins.sg | with some |
-| eva | ind | | only, even, just |
+| eva | ind |  | only, even, just |
 | karaṇīyena | ptp | masc.ins.sg | with ought to be done, duty, business. |
 | bārāṇasiṃ | noun | fem.acc.sg | the city of Benares |
 | gacchantī | verb | pr.3.pl | go; move; walk |
-| te | pron | | m.ac.pl those, them |
+| te | pron |  | m.ac.pl those, them |
 | pacceka- | noun | each one, single, by oneself, separate, | various several |
 | buddhe | noun | masc.acc.pl | the Enlightened One. |
 | disvā | verb | abs | having seen; having found; having understood |
 | vanditvā | verb | abs | having saluted; paid homage; having honoured; having adored. |
-| kiṃ, | ind | | who? which? |
+| kiṃ, | ind |  | who? which? |
 | bhante, | noun | masc.voc.sg | Venerable, Sir |
 | avelāya | noun | fem.ins.sg | with improper time |
-| āgata- | pp | | come, arrived |
+| āgata- | pp |  | come, arrived |
 | atthāti | noun | masc.nom.sg | purpose |
 | pucchi | verb | aor.3.sg | asked; questioned |
-| **the wife of foremost weaver move to the city of Benares with some business, those Paccekabuddhas having seen, having paid homage. “Venerable, what is a purpose of coming by improper time?” she asked.** | | | |
+
+**the wife of foremost weaver move to the city of Benares with some business, those Paccekabuddhas having seen, having paid homage. “Venerable, what is a purpose of coming by improper time?” she asked.**
+
 
 ## Class 37
 
-| 1. (BV 18) | | | |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------- | ---------------------------------------------------- |
-|  |  |  |  |
-| koṭisatānaṃ navutīnaṃ, asītiyāpi ca koṭinaṃ.<br>ete āsuṃ tayo ṭhānā, vimalānaṃ samāgame. | | | |
-|  |  |  |  |
-| koṭisatānaṃ | | | |
+1. (BV 18)
+
+koṭisatānaṃ navutīnaṃ, asītiyāpi ca koṭinaṃ.
+ete āsuṃ tayo ṭhānā, vimalānaṃ samāgame.
+
+| --- | --- | --- | --- |
+| koṭisatānaṃ |  |  |  |
 | \#koṭi | adj | fem. | ten million |
 | \#satānaṃ | adj | nt.gen.pl | of hundred |
 | navutīnaṃ | adj | fem.gen.pl | of ninety |
 | asītiyā | adj | fem.gen.sg | eighty |
-| api | ind | | also: and also; even so; but; however |
-| ca | ind | | and |
+| api | ind |  | also: and also; even so; but; however |
+| ca | ind |  | and |
 | koṭīnaṃ. | adj | fem.gen.pl | ten million |
 | ete | pron | masc.nom.pl | these |
 | āsuṃ | verb | aor.3.pl | they were. |
@@ -2729,37 +3078,41 @@
 | ṭhānā | noun | masc.nom.pl | groups, divisions |
 | vimalānaṃ | adj | masc.gen.pl | of clean; spotless; unstained |
 | samāgame. | noun | masc.acc.pl | assemblies |
-|  |  |  |  |
-| of hundred ten millions, of ninety (ten millions) and of eighty ten millions, there were three groups, assemblies of spotless (people). | | | |
-|  |  |  |  |
-|  |  |  |  |
-| 2. (APA 365) | | | |
-|  |  |  |  |
-| dvenavute ito kappe, yaṃ bhisamadadiṃ tadā.<br>duggatiṃ nābhijānāmi, bhisadānassidaṃ phalaṃ. | | | |
-|  |  |  |  |
+
+**of hundred ten millions, of ninety (ten millions) and of eighty ten millions, there were three groups, assemblies of spotless (people).**
+
+2. (APA 365)
+
+dvenavute ito kappe, yaṃ bhisamadadiṃ tadā.
+duggatiṃ nābhijānāmi, bhisadānassidaṃ phalaṃ.
+
+| --- | --- | --- | --- |
 | dvenavute | adj | masc.acc.pl | ninety two |
-| ito | ind | | from here; from now; hence. |
+| ito | ind |  | from here; from now; hence. |
 | kappe | noun | masc.acc.pl | world cycles; an aeons |
 | yaṃ | pron | masc.acc.sg | whatever |
 | bhisaṃ | noun | nt.acc.sg | the root of lotus plant |
 | adadiṃ | verb | aor.1.sg | I gave |
-| tadā. | ind | | then, at that time |
+| tadā. | ind |  | then, at that time |
 | duggatiṃ | noun | fem.acc.sg | a realm of miserable existence |
 | nābhijānāmi | verb | pr.1.sg | I not know fully or by experience; I am not aware |
-| bhisadānassidaṃ | | | |
-| \#bhisa | noun | | the root of lotus plant |
+| bhisadānassidaṃ |  |  |  |
+| \#bhisa | noun |  | the root of lotus plant |
 | \#dānassa | noun | nt.gen.sg | of giving, charity |
 | \#idaṃ | pron | nt.nom.sg | this |
 | phalaṃ. | noun | nt.nom.sg | result |
-|  |  |  |  |
-| ninety two aeons (ago) from now, at that time whatever root of lotus plant gave, therefore I not experiance a realm of miserable existence, this is result of giving root of lotus plant. | | | |
-|  |  |  |  |
-| 3. (VV 30) | | | |
-|  |  |  |  |
-| tuvañca bhante anukampakaṃ viduṃ<br>upecca vandiṃ kusalañca pucchisaṃ. | | | |
-|  |  |  |  |
-| tuvaṃ | pron | 2.nom.sg | you |
-| ca | ind | | and |
+
+**ninety two aeons (ago) from now, at that time whatever root of lotus plant gave, therefore I not experiance a realm of miserable existence, this is result of giving root of lotus plant.**
+
+3. (VV 30)
+
+tuvañca bhante anukampakaṃ viduṃ
+upecca vandiṃ kusalañca pucchisaṃ.
+
+tuvaṃ pron 2.nom.sg you
+
+| --- | --- | --- | --- |
+| ca | ind |  | and |
 | bhante | noun | masc.voc.sg | Reverend Sir; O lord |
 | anukampakaṃ | adj | masc.acc.sg | compassionate; one who has pity |
 | viduṃ | adj | masc.acc.sg | wise; skilled in. (m.) a wise man. |
@@ -2767,74 +3120,79 @@
 | vandiṃ | verb | aor.1.sg | I saluted; paid homage; honoured |
 | kusalañca | noun | nt.acc.sg | welfare; well being |
 | pucchisaṃ. | verb | aor.1.sg | I asked; questioned. |
-|  |  |  |  |
-| O lord you are compassionate and wise, having approached I paid homage, and questioned about welfare. | | | |
-|  |  |  |  |
-| 4. (TH 261) | | | |
-|  |  |  |  |
-| kuṭṭamūlañca nissāya, ālopaṃ taṃ abhuñjisaṃ. | | | |
-|  |  |  |  |
-| kuṭṭamūlañca | | | |
-| \#kuṭṭa | noun | | a wall |
+
+**O lord you are compassionate and wise, having approached I paid homage, and questioned about welfare.**
+
+4. (TH 261)
+
+kuṭṭamūlañca nissāya, ālopaṃ taṃ abhuñjisaṃ.
+
+| --- | --- | --- | --- |
+| kuṭṭamūlañca |  |  |  |
+| \#kuṭṭa | noun |  | a wall |
 | \#mūlaṃ | noun | nt.acc.sg | root; foot; foundation |
-| \#ca | ind | | and |
+| \#ca | ind |  | and |
 | nissāya | verb | abs | leaning (on), depending (on), being supported (by) |
 | ālopaṃ | noun | masc.acc.sg | a morsel; a bit; lump |
 | taṃ | pron | masc.acc.sg | that, he |
 | abhuñjisaṃ. | verb | aor.1.sg | I ate; enjoyed. |
-|  |  |  |  |
-| leaning on the foot of a wall, I ate that morsel | | | |
-|  |  |  |  |
-| 5. (TH 139) | | | |
-|  |  |  |  |
-| ayoniso manasikārā, maṇḍanaṃ anuyuñjisaṃ. | | | |
-|  |  |  |  |
-| ayoniso | ind | | improperly; injudiciously, unwisely |
+
+**leaning on the foot of a wall, I ate that morsel**
+
+5. (TH 139)
+
+ayoniso manasikārā, maṇḍanaṃ anuyuñjisaṃ.
+
+| --- | --- | --- | --- |
+| ayoniso | ind |  | improperly; injudiciously, unwisely |
 | manasikārā | noun | masc.abl.sg | from reflection; attention |
 | maṇḍanaṃ | noun | nt.acc.sg | adornment; decoration |
 | anuyuñjisaṃ. | verb | aor.1.sg | I engaged in; questioned; gave oneself up. |
-|  |  |  |  |
-| from unwise attention, I was engaged in adornment. | | | |
-|  |  |  |  |
-| 6. (VV 15) | | | |
-|  |  |  |  |
-| uposathaṃ upavasissaṃ, sadā sīlesu saṃvutā. | | | |
-|  |  |  |  |
+
+**from unwise attention, I was engaged in adornment.**
+
+6. (VV 15)
+
+uposathaṃ upavasissaṃ, sadā sīlesu saṃvutā.
+
+| --- | --- | --- | --- |
 | uposathaṃ | noun | masc.acc.sg | Uposatha |
 | upavasissaṃ | verb | aor.1.sg | I observed |
-| sadā | ind | | ever; always |
+| sadā | ind |  | ever; always |
 | sīlesu | noun | nt.loc.pl | in moral practice; code of morality |
 | saṃvutā. | pp | masc.nom.pl | restrained; shut; covered |
-|  |  |  |  |
-| I observed Uposatha, always restrained in morality | | | |
-|  |  |  |  |
-| 7. (TH 227) | | | |
-|  |  |  |  |
-| tattha naṃ upasaṅkamma, vandissaṃ purisuttamaṃ | | | |
-|  |  |  |  |
-| tattha | ind | | there; in that place. |
+
+**I observed Uposatha, always restrained in morality**
+
+7. (TH 227)
+
+tattha naṃ upasaṅkamma, vandissaṃ purisuttamaṃ
+anucaṅkamissaṃ virajaṃ, sabbasattānamuttamaṃ.
+
+| --- | --- | --- | --- |
+| tattha | ind |  | there; in that place. |
 | naṃ | pron | masc.acc.sg | that, him |
 | upasaṅkamma | verb | abs | having approached. |
 | vandissaṃ | verb | aor.1.sg | I saluted; paid homage; honoured |
 | purisuttamaṃ | noun | masc.acc.sg | the Highest of men |
-|  |  |  |  |
-| there having approached him, I paid homage to the Highest of men. | | | |
-|  |  |  |  |
-| anucaṅkamissaṃ virajaṃ, sabbasattānamuttamaṃ. | | | |
-|  |  |  |  |
+
+**there having approached him, I paid homage to the Highest of men.**
+
+| --- | --- | --- | --- |
 | anucaṅkamissaṃ | verb | aor.1.sg | I followed after, went after |
-| virajaṃ | adj | | stainless; free from defilement |
-| sabbasattānamuttamaṃ | | | |
-| \#sabba | adj | | all; every; whole; entire |
+| virajaṃ | adj |  | stainless; free from defilement |
+| sabbasattānamuttamaṃ |  |  |  |
+| \#sabba | adj |  | all; every; whole; entire |
 | \#sattānam | noun | masc.gen.sg | of living beings |
 | \#uttamaṃ. | adj | masc.acc.sg | highest; best; noble; excellent |
-|  |  |  |  |
-| I followed after the stainless, the best of all beings | | | |
-|  |  |  |  |
-| 8. (UD 78) | | | |
-|  |  |  |  |
-| yesaṃ paññāsaṃ piyāni, paññāsaṃ tesaṃ dukkhāni; yesaṃ cattārīsaṃ piyāni, cattārīsaṃ tesaṃ dukkhāni, yesaṃ tiṃsaṃ piyāni, tiṃsaṃ tesaṃ dukkhāni; yesaṃ vīsaṃ piyāni, vīsaṃ tesaṃ dukkhāni | | | |
-|  |  |  |  |
+
+**I followed after the stainless, the best of all beings**
+
+8. (UD 78)
+
+yesaṃ paññāsaṃ piyāni, paññāsaṃ tesaṃ dukkhāni; yesaṃ cattārīsaṃ piyāni, cattārīsaṃ tesaṃ dukkhāni, yesaṃ tiṃsaṃ piyāni, tiṃsaṃ tesaṃ dukkhāni; yesaṃ vīsaṃ piyāni, vīsaṃ tesaṃ dukkhāni
+
+| --- | --- | --- | --- |
 | yesaṃ | pron | masc.dat.pl | for which; what; whatever. |
 | paññāsaṃ | adj | fem.acc.sg | 50, fifty |
 | piyāni | noun | nt.acc.pl | dear things |
@@ -2859,25 +3217,25 @@
 | vīsaṃ | adj | fem.acc.sg | 20, twenty |
 | tesaṃ | pron | masc.dat.pl | for them |
 | dukkhāni | noun | nt.acc.pl | sufferings; pains; discomforts, troubles |
-|  |  |  |  |
-| who have a fifty dear things, for them there is fifty troubles, who have a forty dear things, for them there is forty troubles, who have a thirty dear things, for them there is thirty troubles, who have a twenty dear things, for them there is twenty troubles. | | | |
-|  |  |  |  |
-|  |  |  |  |
-| 9. (DN 1.6) | | | |
-|  |  |  |  |
-| idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā … anekavihitaṃ pubbenivāsaṃ anussarati. seyyathidaṃ — ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo | | | |
-|  |  |  |  |
-| idha | ind | | here; in this world or existence. |
+
+**who have a fifty dear things, for them there is fifty troubles, who have a forty dear things, for them there is forty troubles, who have a thirty dear things, for them there is thirty troubles, who have a twenty dear things, for them there is twenty troubles.**
+
+9. (DN 1.6)
+
+idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā … anekavihitaṃ pubbenivāsaṃ anussarati. seyyathidaṃ — ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo
+
+| --- | --- | --- | --- |
+| idha | ind |  | here; in this world or existence. |
 | bhikkhave | noun | masc.voc.pl | o monks! |
 | ekacco | adj | masc.nom.sg | some; certain; a few. |
 | samaṇo | noun | masc.nom.sg | recluse |
-| vā | ind | | or |
+| vā | ind |  | or |
 | brāhmaṇo | noun | masc.nom.sg | brahman, priest |
-| vā | ind | | or |
+| vā | ind |  | or |
 | anekavihitaṃ | adj | masc.acc.sg | of different kinds; various. |
 | pubbenivāsaṃ | noun | masc.acc.sg | ones former state of existence. |
 | anussarati. | verb | pr.3.sg | remembers |
-| seyyathidaṃ | ind | | as follows |
+| seyyathidaṃ | ind |  | as follows |
 | ekampi | adj | fem.acc.sg | and one |
 | jātiṃ | noun | fem.acc.sg | birth |
 | dvepi | adj | fem.acc.pl | and two |
@@ -2894,89 +3252,108 @@
 | jātiyo | noun | fem.acc.pl | births |
 | tiṃsampi | adj | fem.acc.pl | and 30 |
 | jātiyo | noun | fem.acc.pl | births |
-|  |  |  |  |
-| o monks! here some recluse or priest, … , remembers various ones former state of existence, as follows: one birth, two births, three births, four births, five births, 10 births, 20 births, 30 births, … | | | |
-|  |  |  |  |
-| 10. (DN 19.15) | | | |
-|  |  |  |  |
-| pabbajitaṃ pana mahā-govindaṃ brāhmaṇaṃ … satta ca nhātaka-satāni cattārīsā ca bhariyā sādisiyo anekāni ca khattiya-sahassāni … anupabbajiṃsu. | | | |
-|  |  |  |  |
+
+**o monks! here some recluse or priest, … , remembers various ones former state of existence, as follows: one birth, two births, three births, four births, five births, 10 births, 20 births, 30 births, …**
+
+10. (DN 19.15)
+
+pabbajitaṃ pana mahā-govindaṃ brāhmaṇaṃ … satta ca nhātaka-satāni cattārīsā ca bhariyā sādisiyo anekāni ca khattiya-sahassāni … anupabbajiṃsu.
+
+| --- | --- | --- | --- |
 | pabbajitaṃ | noun | masc.acc.sg | monk |
-| pana | ind | | and; yet; but; moreover |
+| pana | ind |  | and; yet; but; moreover |
 | mahāgovindaṃ | noun | masc.acc.sg | Mahāgovinda |
 | brāhmaṇaṃ | noun | masc.acc.sg | brahman |
 | satta | adj | x.nom.pl | seven (7) |
-| ca | ind | | and |
-| nhātakasatāni | | | |
-| \#nhātaka | noun | | graduate, lit: one who has bathed |
+| ca | ind |  | and |
+| nhātakasatāni |  |  |  |
+| \#nhātaka | noun |  | graduate, lit: one who has bathed |
 | \#satāni | adj | nt.nom.pl | hundred |
 | cattārīsā | adj | fem.nom.pl | forty |
-| ca | ind | | and |
+| ca | ind |  | and |
 | bhariyā | noun | fem.nom.pl | wifes |
 | sādisiyo | adj | masc.nom.sg | like; similar, equal |
 | anekāni | adj | nt.nom.pl | many; various |
-| ca | ind | | and |
-| khattiyasahassāni | | | |
-| \#khattiya | noun | | a man of the warrior caste, noble |
+| ca | ind |  | and |
+| khattiyasahassāni |  |  |  |
+| \#khattiya | noun |  | a man of the warrior caste, noble |
 | \#sahassāni | adj | nt.nom.pl | thousand |
 | anupabbajiṃsu. | verb | aor.3.pl | they gave up worldly life |
-|  |  |  |  |
-| and monk brahman Mahāgovinda, … , and seven hundred graduates, equal (numbers) wifes, and many nobles, …, they gave up worldly life | | | |
 
-| 11. KN-a Dhp, 2. 9. 1. | | | |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------- | ----------------------------------------------- |
-| mahāekasāṭako catusaṭṭhiyā sāṭakayugesu dve aggahesi, ayaṃ pana dvattiṃsāya laddhakāle dve aggahesi. | | | |
-| mahā- | adj | | great, extensive, big |
+**and monk brahman Mahāgovinda, … , and seven hundred graduates, equal (numbers) wifes, and many nobles, …, they gave up worldly life**
+
+
+11. KN-a Dhp, 2. 9. 1.
+
+mahāekasāṭako catusaṭṭhiyā sāṭakayugesu dve aggahesi, ayaṃ pana dvattiṃsāya laddhakāle dve aggahesi.
+
+| --- | --- | --- | --- |
+| mahā- | adj |  | great, extensive, big |
 | ekasāṭako | noun | masc.nom.sg | Ekasātaka |
 | catusaṭṭhiyā | adj | fem.loc.sg | in (among) sixty-four |
 | sāṭakayugesu | noun | nt.loc.pl | in (among) suits of clothes |
 | dve | adj | -.acc.pl | two |
 | aggahesi, | verb | aor.3.sg | took |
 | ayaṃ | pron | masc.acc.sg | this |
-| pana | ind | | and; yet; but; and now; moreover. |
+| pana | ind |  | and; yet; but; and now; moreover. |
 | battiṃsāya | adj | fem.loc.sg | in thirty-two |
-| laddha- | pp | | obtained; received |
+| laddha- | pp |  | obtained; received |
 | kāle | noun | masc.loc.sg | in time |
 | dve | adj | masc.acc.pl | two |
 | aggahesi. | verb | aor.3.sg | took |
-| **great Ekasātaka took two among sixty-four suits of clothes, moreover he took this two among thirty-two received time** ? | | | |
-| 12. KN-a Dhp, 4, 8. | | | |
-| manussānaṃ vārentānaṃ vārentānameva saṭṭhisahassā balavagāvo ca saṭṭhisahassā dhenuyo ca nikkhantā, | | | |
+
+**great Ekasātaka took two among sixty-four suits of clothes, moreover he took this two among thirty-two received time ?**
+
+12. KN-a Dhp, 4, 8.
+
+manussānaṃ vārentānaṃ vārentānameva saṭṭhisahassā balavagāvo ca saṭṭhisahassā dhenuyo ca nikkhantā,
+
+| --- | --- | --- | --- |
 | manussānaṃ | noun | masc.gen.pl | when human being |
 | vārentānaṃ | prp | masc.gen.pl | when preventing; obstructing; hindering. |
 | vārentānam- | prp | masc.gen.pl | preventing; obstructing; hindering |
-| eva | ind | | only, even, just |
+| eva | ind |  | only, even, just |
 | saṭṭhi- | adj | fem. | sixty |
 | sahassā | adj | masc.nom.pl | thousand |
 | balava-gāvo | noun | masc.nom.pl | strong oxes |
-| ca | ind | | and |
+| ca | ind |  | and |
 | saṭṭhisahassā | adj | masc.nom.pl | sixty thousand |
 | dhenuyo | noun | fem.nom.pl | cows |
-| ca | ind | | and |
+| ca | ind |  | and |
 | nikkhantā, | pp | masc.nom.pl | exited, escaped, went out, got out |
-| **when people preventing even obstructing (them), sixty thousand strong oxes and sixty thousand cows were escaped** | | | |
-| 13. KN-a Dhp, 4, 3. | | | |
-| rājā … etthevassa dvattiṃsāya puttehi saddhiṃ sīsaṃ chinditvā āharathāti tena saddhiṃ aññepi samatthe yodhe pesesi. | | | |
+
+**when people preventing even obstructing (them), sixty thousand strong oxes and sixty thousand cows were escaped**
+
+13. KN-a Dhp, 4, 3.
+
+rājā … etthevassa dvattiṃsāya puttehi saddhiṃ sīsaṃ chinditvā āharathāti tena saddhiṃ aññepi samatthe yodhe pesesi.
+
+| --- | --- | --- | --- |
 | rājā | noun | masc.nom.sg | king |
-| ettha- | ind | | here |
-| eva- | ind | | only, even, just |
+| ettha- | ind |  | here |
+| eva- | ind |  | only, even, just |
 | assa | pm | masc.gen.sg | his |
 | dvattiṃsāya | adj | fem.ins.sg | with thirty-two |
 | puttehi | noun | masc.ins.pl | with sons; children |
-| saddhiṃ | ind | | with; together |
+| saddhiṃ | ind |  | with; together |
 | sīsaṃ | noun | nt.acc.sg | the head |
 | chinditvā | verb | abs | having cut; having destroyed |
 | āharathāti | verb | imp.2.pl | you bring; fetche, produce |
 | tena | pron | masc.ins.sg | with them |
-| saddhiṃ | ind | | with; together |
+| saddhiṃ | ind |  | with; together |
 | aññe | adj | masc.acc.pl | other; another; else |
-| pi | ind | | also: and also; even so; but; however |
+| pi | ind |  | also: and also; even so; but; however |
 | samatthe | adj | masc.acc.pl | able; skilful |
 | yodhe | noun | masc.acc.pl | soldiers |
 | pesesi. | verb | aor.3.sg | sent out or forth; employed; sent for. |
-| **“Just right now having cut (his) head together with thirty-two his sons bring (them) !” king sent out together them also another skilful soldiers.** | | | |
-| 14. KN-a Dhp, 9, 1 | | | |
-| rājā … cattāro hatthī cattāro asse cattāri kahāpaṇasahassāni catasso itthiyo catasso dāsiyo cattāro purise caturo gāmavare”ti evaṃ yāva sabbasatā cattāri cattāri katvā sabbacatukkaṃ nāma assa dāpesi. | | | |
+
+**“Just right now having cut (his) head together with thirty-two his sons bring (them) !” king sent out together them also another skilful soldiers.**
+
+14. KN-a Dhp, 9, 1
+
+rājā … cattāro hatthī cattāro asse cattāri kahāpaṇasahassāni catasso itthiyo catasso dāsiyo cattāro purise caturo gāmavare”ti evaṃ yāva sabbasatā cattāri cattāri katvā sabbacatukkaṃ nāma assa dāpesi.
+
+| --- | --- | --- | --- |
 | rājā | noun | masc.nom.sg | king |
 | cattāro | adj | masc.acc.pl | four |
 | hatthī | noun | masc.acc.pl | elephants |
@@ -2992,41 +3369,54 @@
 | cattāro | adj | masc.acc.pl | four |
 | purise | noun | masc.acc.pl | men |
 | caturo | adj | masc.nom.sg | clever; skilled; shrewd. |
-| gāma- | noun | | village |
+| gāma- | noun |  | village |
 | vare”ti | adj | masc.acc.pl | excellent; noble |
-| evaṃ | ind | | thus; in this way |
-| yāva | ind | | up to; as far as; so far that |
+| evaṃ | ind |  | thus; in this way |
+| yāva | ind |  | up to; as far as; so far that |
 | sabbasatā | adj | nt.nom.pl | consisting a hundred of each |
 | cattāri cattāri | adj | nt.acc.pl | group of four |
 | katvā | verb | abs | having done or made |
-| sabba- | adj | | all; every; whole; entire |
+| sabba- | adj |  | all; every; whole; entire |
 | catukkaṃ | noun | nt.acc.sg | a set of four; a cross road. |
-| nāma | ind | | certainly, truly, for sure |
+| nāma | ind |  | certainly, truly, for sure |
 | assa | pron | masc.dat.sg | to him |
 | dāpesi. | verb | aor.3.sg | induced to give |
-| **“four elephants, four horses, four thousand coins, four women, four female slaves, four men, four excellent vilages” having made group of four consisting a hundred of each, king induced to give certainly all set of four to him.** | | | |
-| 15. KN-a Dhp, 6, 4 | | | |
-| “atthi, deva, ito vīsatiyojanasatamatthake sāvatthi nāma nagaraṃ, tato āgacchāmā”ti. | | | |
+
+**“four elephants, four horses, four thousand coins, four women, four female slaves, four men, four excellent vilages” having made group of four consisting a hundred of each, king induced to give certainly all set of four to him.**
+
+15. KN-a Dhp, 6, 4
+
+“atthi, deva, ito vīsatiyojanasatamatthake sāvatthi nāma nagaraṃ, tato āgacchāmā”ti.
+
+| --- | --- | --- | --- |
 | “atthi, | verb | pr.3.sg | there is |
 | deva, | noun | masc.voc.sg | o Deva, o king |
-| ito | ind | | from here; from now; hence |
-| vīsati- | noun | | twenty |
-| yojana- | noun | | 7 miles, 11 km |
-| sata- | adj | | hundred |
-| matthake | ind | | at the distance of. |
+| ito | ind |  | from here; from now; hence |
+| vīsati- | noun |  | twenty |
+
+yojana- noun 7 miles, 11 km
+
+| --- | --- | --- | --- |
+| sata- | adj |  | hundred |
+| matthake | ind |  | at the distance of. |
 | sāvatthi | noun | fem.nom.sg | Sāvatthi |
-| nāma | ind | | with name |
+| nāma | ind |  | with name |
 | nagaraṃ, | noun | nt.nom.sg | town; a citadel |
 | tato | ind | from there; from that; thence; therefore; | thereupon |
 | āgacchāmā”ti. | verb | pr.1.pl | we come to; approache. |
-| **o king, there is a town with name Sāvatthi at big distance of twenty hundreds yojanas from here, we are coming from there.** | | | |
-| 16. DN-a | | | |
-| tesaṭṭhiyā nagarasahassesu, navanavutiyā doṇamukhasatasahassesu, channavutiyā paṭṭanakoṭisatasahassesu, chapaṇṇāsāya ratanākaresūti sakalajambudīpe, … , devatā sannipatitā | | | |
+
+**o king, there is a town with name Sāvatthi at big distance of twenty hundreds yojanas from here, we are coming from there.**
+
+16. DN-a
+
+tesaṭṭhiyā nagarasahassesu, navanavutiyā doṇamukhasatasahassesu, channavutiyā paṭṭanakoṭisatasahassesu, chapaṇṇāsāya ratanākaresūti sakalajambudīpe, … , devatā sannipatitā
+
+| --- | --- | --- | --- |
 | tesaṭṭhiyā | adj | fem.loc.pl | in sixty-three |
 | nagara- | noun | nt | town; a citadel |
 | sahassesu, | adj | nt.loc.pl | in thousand |
 | nava-navutiyā | adj | fem.loc.pl | in ninety nine |
-| doṇamukha- | noun | | river mouth |
+| doṇamukha- | noun |  | river mouth |
 | satasahassesu, | adj | nt.loc.pl | in hundred thousand |
 | cha-nnavutiyā | adj | fem.loc.pl | in ninety six |
 | paṭṭana- | noun | nt | a port; a town near a port. |
@@ -3035,145 +3425,164 @@
 | cha-paṇṇāsāya | f | fem.loc.pl | in fifty six |
 | ratanā- | noun | nt | gem, jewel |
 | karesū- | adj | masc.loc.pl | in producing, causing, forming, making, doing |
-| ti | ind | | “” |
-| sakala- | adj | | whole; entire |
+| ti | ind |  | “” |
+| sakala- | adj |  | whole; entire |
 | jambudīpe | noun | masc.loc.sg | the country of the rose-apples; i.e. lndia. |
 | devatā | noun | fem.nom.pl | deities. |
 | sannipatitā- | pp | fem.nom.pl | assembled; come together |
-| ti | ind | | “” |
-| **in sixty-three thousands towns, in ninety nine hundred thousands river mouthes, in ninety six ten million hundred thousands, in fifty six jewel-making (places), in all lndia, … , deities assembled** | | | |
-| 17. DN-a 2 | | | |
-| anuruddhatthero pana vassasatañceva paṇṇāsañca vassāni, bākulatthero vassasatañceva saṭṭhi ca vassāni. | | | |
+| ti | ind |  | “” |
+
+**in sixty-three thousands towns, in ninety nine hundred thousands river mouthes, in ninety six ten million hundred thousands, in fifty six jewel-making (places), in all lndia, … , deities assembled**
+
+17. DN-a 2
+
+anuruddhatthero pana vassasatañceva paṇṇāsañca vassāni, bākulatthero vassasatañceva saṭṭhi ca vassāni.
+
+| --- | --- | --- | --- |
 | anuruddhathero | noun | masc.nom.sg | an elder Anuruddha |
-| pana | ind | | and; yet; but; moreover |
+| pana | ind |  | and; yet; but; moreover |
 | vassa- | noun | masc | year |
-| satañ- | adj | | hundred |
-| ce- | ind | | and |
-| eva- | ind | | only, even, just |
-| paṇṇāsañ- | adj | | fifty |
-| ca | ind | | and |
+| satañ- | adj |  | hundred |
+| ce- | ind |  | and |
+| eva- | ind |  | only, even, just |
+| paṇṇāsañ- | adj |  | fifty |
+| ca | ind |  | and |
 | vassāni | noun | nt.n.pl | years |
 | bākulathero | noun | masc.nom.sg | an elder Bakkula |
 | vassa- | noun | masc | year |
-| satañ- | adj | | hundred |
-| ce- | ind | | if |
-| eva- | ind | | only, even, just |
+| satañ- | adj |  | hundred |
+| ce- | ind |  | if |
+| eva- | ind |  | only, even, just |
 | saṭṭhi | adj | f,n.sg | sixty |
-| ca | ind | | and |
+| ca | ind |  | and |
 | vassāni. | noun | nt.nom.pl | years |
-|  |  |  |  |
-| **an elder Anuruddha (lived) hundred and fifty years, an elder Bakkula (lived) hundred and sixty years** | | | | |
+
+**an elder Anuruddha (lived) hundred and fifty years, an elder Bakkula (lived) hundred and sixty years**
+
 
 
 
 ## Class 38
 
-| 1. DHP 101 | | | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------------- | --------------------------------------------------------------- |
-|  |  |  |  |
-| sahassamapi ce gāthā, anatthapadasaṃhitā.<br>ekaṃ gāthāpadaṃ seyyo, yaṃ sutvā upasammati. | | | |
-|  |  |  |  |
+1. DHP 101
+
+sahassamapi ce gāthā, anatthapadasaṃhitā.
+ekaṃ gāthāpadaṃ seyyo, yaṃ sutvā upasammati.
+
+| --- | --- | --- | --- |
 | sahassaṃ | adj | nt.nom.sg | thousand |
-| api | ind | | and; even; and then |
-| ce | ind | | if |
+| api | ind |  | and; even; and then |
+| ce | ind |  | if |
 | gāthā | noun | fem.nom.sg | verse, stanza, line of poetry |
-| anatthapadasaṃhitā | | | |
-| \#anattha | noun | | harm, misfortune, damage, injury, hurt |
-| \#pada | noun | | word, verse (or a quarter of a verse), stanza, line, sentence |
+| anatthapadasaṃhitā |  |  |  |
+| \#anattha | noun |  | harm, misfortune, damage, injury, hurt |
+| \#pada | noun |  | word, verse (or a quarter of a verse), stanza, line, sentence |
 | \#saṃhitā. | pp | fem.nom.sg | connected (with), concerning, having |
-|  |  |  |  |
-| even than thousand verses, having harmful words | | | |
-|  |  |  |  |
+
+**even than thousand verses, having harmful words**
+
+| --- | --- | --- | --- |
 | ekaṃ | adj | masc.acc.sg | one |
 | gāthāpadaṃ | noun | masc.acc.sg | a line of a stanza |
-| seyyo | ind | | it is better |
+| seyyo | ind |  | it is better |
 | yaṃ | pron | masc.acc.sg | that which |
 | sutvā | verb | abs | having heard |
 | upasammati. | verb | pr.3.sg | calms; ceases; appeases |
-|  |  |  |  |
-| better one line of a stanza, having heard which one is calms. | | | |
-|  |  |  |  |
-| 2. (TH 245) | | | |
-|  |  |  |  |
-| dummedhehi pasaṃsā ca, viññūhi garahā ca yā.<br>garahāva seyyo viññūhi, yaṃ ce bālappasaṃsanā. | | | |
-|  |  |  |  |
+
+**better one line of a stanza, having heard which one is calms.**
+
+2. (TH 245)
+
+dummedhehi pasaṃsā ca, viññūhi garahā ca yā.
+garahāva seyyo viññūhi, yaṃ ce bālappasaṃsanā.
+
+| --- | --- | --- | --- |
 | dummedhehi | adj | masc.instr.pl | by foolish |
 | pasaṃsā | noun | fem.nom.sg | praise, applause |
-| ca | ind | | and |
+| ca | ind |  | and |
 | viññūhi | adj | masc.instr.pl | by intelligent, learned, wise |
 | garahā | noun | fem.nom.sg | blame, reproach |
-| ca | ind | | and |
+| ca | ind |  | and |
 | yā. | pron | fem.nom.sg | whatever, that which |
-|  |  |  |  |
-| whatever praise from foolish and blame from the wise | | | |
-|  |  |  |  |
+
+**whatever praise from foolish and blame from the wise**
+
+| --- | --- | --- | --- |
 | garahāva | noun | fem.nom.sg | even blame, reproach |
-| seyyo | ind | | it is better |
+| seyyo | ind |  | it is better |
 | viññūhi | adj | masc.instr.pl | by intelligent, learned, wise |
 | yaṃ | pron | fem.acc.sg | whatever, that which |
-| ce | ind | | but, than |
-| bālappasaṃsanā | | | |
-| \#bāla | noun | | ignorant, foolish |
+| ce | ind |  | but, than |
+| bālappasaṃsanā |  |  |  |
+| \#bāla | noun |  | ignorant, foolish |
 | \#pasaṃsanā. | noun | nt.abl.sg | with praising, commendation |
-|  |  |  |  |
-| whatever blame from the wise is even better, than foolish commendation. | | | |
-|  |  |  |  |
-| 3. DHP 322 | | | |
-|  |  |  |  |
-| varamassatarā dantā, ājānīyā ca sindhavā.<br>kuñjarā ca mahānāgā, attadanto tato varaṃ. | | | |
-|  |  |  |  |
-| varamassatarā | | | |
-| \#varaṃ | adj | | excellent; noble |
+
+**whatever blame from the wise is even better, than foolish commendation.**
+
+3. DHP 322
+
+varamassatarā dantā, ājānīyā ca sindhavā.
+kuñjarā ca mahānāgā, attadanto tato varaṃ.
+
+| --- | --- | --- | --- |
+| varamassatarā |  |  |  |
+| \#varaṃ | adj |  | excellent; noble |
 | \#assatarā | noun | masc.nom.pl | mules |
 | dantā | adj | masc.nom.pl | tamed; trained |
 | ājānīyā | adj | masc.nom.pl | of good breed, thoroughbred, |
-| ca | ind | | and |
+| ca | ind |  | and |
 | sindhavā. | noun | masc.nom.pl | Sindh horses, belonging to the Sindh |
-|  |  |  |  |
-| tamed mules are excellent and thoroughbred Sindh horses | | | |
-|  |  |  |  |
+
+**tamed mules are excellent and thoroughbred Sindh horses**
+
+| --- | --- | --- | --- |
 | kuñjarā | noun | masc.nom.pl | elephants |
-| ca | ind | | and |
+| ca | ind |  | and |
 | mahānāgā | noun | masc.nom.pl | big elephants, mighty beasts |
 | attadanto | adj | masc.nom.sg | self-restrained |
-| tato | ind | | from there, from that, then |
-| varaṃ. | ind | | better |
-|  |  |  |  |
-| elephants and mighty beasts, better than this is self-restrained (person) | | | |
-|  |  |  |  |
-| 4. SN 8.2 | | | |
-|  |  |  |  |
-| taṃ kutettha labbhā, yaṃ me paro anabhiratiṃ vinodetvā abhiratiṃ uppādeyya. yaṃnūnāhaṃ attanāva attano anabhiratiṃ vinodetvā abhiratiṃ uppādeyyanti. | | | |
-|  |  |  |  |
+| tato | ind |  | from there, from that, then |
+| varaṃ. | ind |  | better |
+
+**elephants and mighty beasts, better than this is self-restrained (person)**
+
+4. SN 8.2
+
+taṃ kutettha labbhā, yaṃ me paro anabhiratiṃ vinodetvā abhiratiṃ uppādeyya. yaṃnūnāhaṃ attanāva attano anabhiratiṃ vinodetvā abhiratiṃ uppādeyyanti.
+
+| --- | --- | --- | --- |
 | taṃ | pron | masc.acc.sg | that, him |
-| kuto | ind | | from where? whence? how? how much less ..., let alone .... |
-| ettha | ind | | here, in this place, in this regard |
-| labbhā | ind | | possible; allowable; may be obtained |
+| kuto | ind |  | from where? whence? how? how much less ..., let alone .... |
+| ettha | ind |  | here, in this place, in this regard |
+| labbhā | ind |  | possible; allowable; may be obtained |
 | yaṃ | pron | masc.acc.sg | whatever, that which |
-| me | pron | 1.dat.sg | to me |
+
+me pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
 | paro | adj | masc.nom.sg | another |
 | anabhiratiṃ | noun | fem.acc.sg | not delighting in, dissatisfaction, discontent |
 | vinodetvā | verb | abs | having dispelled; having removed; having driven out. |
 | abhiratiṃ | noun | fem.acc.sg | delight; contentment |
 | uppādeyya. | verb | opt.3.sg | could produce; make; give rise to. |
-| yaṃnūnāhaṃ | ind | | what if I |
+| yaṃnūnāhaṃ | ind |  | what if I |
 | attanā | noun | masc.instr.sg | with self |
-| eva | ind | | just |
+| eva | ind |  | just |
 | attano | noun | masc.dat.sg | for self, for oneself, to oneself |
 | anabhiratiṃ | noun | fem.acc.sg | not delighting in, dissatisfaction, |
 | vinodetvā | verb | abs | having dispelled; having removed; |
 | abhiratiṃ | noun | fem.acc.sg | delight; contentment |
 | uppādeyyaṃ | verb reflx | opt.1.sg | I could produce by myself |
-|  |  |  |  |
-| how here this is possible, that another to me having removed dissatisfaction could produces contentment? what if I just with myself for self having removed dissatisfaction could produce by myself contentment. | | | |
-|  |  |  |  |
-| 5. SN 22.81 | | | |
-|  |  |  |  |
-| atha kho bhagavā … sāmaṃ senāsanaṃ saṃsāmetvā pattacīvaramādāya … eko adutiyo cārikaṃ pakkāmi. | | | |
-|  |  |  |  |
-| atha kho | ind | | and then |
+
+**how here this is possible, that another to me having removed dissatisfaction could produces contentment? what if I just with myself for self having removed dissatisfaction could produce by myself contentment.**
+
+5. SN 22.81
+
+atha kho bhagavā … sāmaṃ senāsanaṃ saṃsāmetvā pattacīvaramādāya … eko adutiyo cārikaṃ pakkāmi.
+
+| --- | --- | --- | --- |
+| atha kho | ind |  | and then |
 | bhagavā | noun | masc.nom.sg | Sublime One, Blessed One, Fortunate One, Buddha |
-| sāmaṃ | ind | | oneself, by oneself, for oneself |
+| sāmaṃ | ind |  | oneself, by oneself, for oneself |
 | senāsanaṃ | noun | nt.acc.sg | sleeping and sitting, bed & chair, dwelling, lodging |
 | saṃsāmetvā | verb | abs | having set in order. |
 | pattacīvaraṃ | noun | nt.acc.sg | bowl and robe |
@@ -3182,165 +3591,200 @@
 | adutiyo | adj | masc.nom.sg | without a companion |
 | cārikaṃ | noun | fem.acc.sg | journey; wandering. |
 | pakkāmi. | verb | aor.3.sg | went away , left, set off |
-|  |  |  |  |
-| and then the Buddha … having set in order lodging for oneself, taking bowl and robe, … went away to wandering without a companion, along. | | | |
-|  |  |  |  |
-|  |  |  |  |
-| 6. DN 16.21 | | | |
-|  |  |  |  |
-| taṃ kutettha, ānanda, labbhā, yaṃ taṃ jātaṃ bhūtaṃ saṅkhataṃ palokadhammaṃ, taṃ vata mā palujjīti | | | |
-|  |  |  |  |
+
+**and then the Buddha … having set in order lodging for oneself, taking bowl and robe, … went away to wandering without a companion, along.**
+
+6. DN 16.21
+
+taṃ kutettha, ānanda, labbhā, yaṃ taṃ jātaṃ bhūtaṃ saṅkhataṃ palokadhammaṃ, taṃ vata mā palujjīti
+
+| --- | --- | --- | --- |
 | taṃ | pron | masc.acc.sg | that, he |
-| kuto | ind | | from where? whence? how? how much less ..., let alone .... |
-| ettha | ind | | here, in this place, in this regard |
+| kuto | ind |  | from where? whence? how? how much less ..., let alone .... |
+| ettha | ind |  | here, in this place, in this regard |
 | ānanda | noun | masc.voc.sg | Ānanda |
-| labbhā | ind | | possible; allowable; |
+| labbhā | ind |  | possible; allowable; |
 | yaṃ | pron | nt.nom.sg | whatever, that which |
 | taṃ | pron | nt.nom.sg | that, he |
 | jātaṃ | pp | nt.nom.sg | born |
 | bhūtaṃ | pp | nt.nom.sg | become, born |
 | saṅkhataṃ | pp | nt.nom.sg | created, constructed, fabricated, put together |
-| palokadhammaṃ | | | |
-| \#paloka | noun | | breaking off or in two, dissolution, decay |
+| palokadhammaṃ |  |  |  |
+| \#paloka | noun |  | breaking off or in two, dissolution, decay |
 | \#dhammaṃ | adj | nt.nom.sg | having nature |
 | taṃ | pron | nt.nom.sg | that, he |
-| vata | ind | | surely, certainly, indeed |
-| mā | ind | | not, do not, let us hope not, may not |
+| vata | ind |  | surely, certainly, indeed |
+| mā | ind |  | not, do not, let us hope not, may not |
 | palujji | verb | aor.3.sg | fell down; crumbled; dissolved. |
-|  |  |  |  |
-| how here this is possible, Ānanda, that whatever that was born, was become, was constructed, have nature of dissolution, that indeed :“may not be dissolved? | | | |
-|  |  |  |  |
-| 7. AN 3.164 | | | |
-|  |  |  |  |
-| attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca samanuñño hoti. | | | |
-|  |  |  |  |
+
+**how here this is possible, Ānanda, that whatever that was born, was become, was constructed, have nature of dissolution, that indeed :“may not be dissolved?**
+
+7. AN 3.164
+
+attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca samanuñño hoti.
+
+| --- | --- | --- | --- |
 | attanā | noun | masc.instr.sg | with himself, by self |
-| ca | ind | | and |
+| ca | ind |  | and |
 | pāṇātipātī | adj | masc.nom.sg | killer of living beings |
 | hoti | verb | pr.3.sg | he is |
 | parañca | adj | masc.acc.sg | and another |
 | pāṇātipāte | noun | masc.loc.sg | in killing living beings |
 | samādapeti | verb | pr.3.sg | instigate |
 | pāṇātipāte | noun | masc.loc.sg | in killing living beings |
-| ca | ind | | and |
+| ca | ind |  | and |
 | samanuñño | adj | masc.nom.sg | approving |
 | hoti. | verb | pr.3.sg | he is |
-|  |  |  |  |
-| by himself he is a killer of living beings, and he instigate another for killing living beings, and he is approving killing living beings. | | | |
-|  |  |  |  |
-| 8. (SN 12.41) | | | |
-|  |  |  |  |
-| so ākaṅkhamāno attanāva attānaṃ byākareyya — khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto, sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇoti. | | | |
-|  |  |  |  |
+
+**by himself he is a killer of living beings, and he instigate another for killing living beings, and he is approving killing living beings.**
+
+8. (SN 12.41)
+
+so ākaṅkhamāno attanāva attānaṃ byākareyya — khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto, sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇoti.
+
+| --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he, that |
 | ākaṅkhamāno | prp | masc.nom.sg | wishing, desiring |
 | attanā | noun | masc.instr.sg | with oneself, by oneself |
-| eva | ind | | just, even, also |
+| eva | ind |  | just, even, also |
 | attānaṃ | noun | masc.acc.sg | self, himself, herself, itself, yourself, oneself (object) |
 | byākareyya | verb | opt.3.sg | could explain, defines |
 | khīṇanirayo | adj | masc.nom.sg | one who is beyond the hell. |
 | amhi | verb | pr.1.sg | I am |
 | niyato | adj | masc.nom.sg | certain, of fixed destiny, unavoidable, lit. controlled |
-| sambodhiparāyaṇo | | | |
-| \#sambodhi- | noun | | full awakening, enlightenment |
+| sambodhiparāyaṇo |  |  |  |
+| \#sambodhi- | noun |  | full awakening, enlightenment |
 | \#parāyaṇo | adj | masc.nom.sg | aiming at; ending in; destined to; finding ones support in. |
-|  |  |  |  |
-| wishing, just by onself he could explain to onself: “I am the one who is beyond the hell … unavoidable destined to enlightenment. | | | |
-|  |  |  |  |
-|  |  |  |  |
-| 9. SN 3.11 | | | |
-|  |  |  |  |
-| āpadāsu kho, mahārāja, thāmo veditabbo. so ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena. | | | |
-|  |  |  |  |
+
+**wishing, just by onself he could explain to onself: “I am the one who is beyond the hell … unavoidable destined to enlightenment.**
+
+9. SN 3.11
+
+āpadāsu kho, mahārāja, thāmo veditabbo. so ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena.
+
+| --- | --- | --- | --- |
 | āpadāsu | noun | masc.loc.pl | in misfortunes; distresses; calamities |
-| kho | ind | | indeed |
+| kho | ind |  | indeed |
 | mahārāja | noun | masc.voc.sg | o grate king! |
 | thāmo | noun | masc.nom.sg | strength, power; ability; firmness. |
 | veditabbo. | ptp | masc.nom.sg | can be known, should be understood, must be experienced |
 | so | pron | masc.nom.sg | he, that |
-| ca | ind | | and |
-| kho | ind | | indeed |
+| ca | ind |  | and |
+| kho | ind |  | indeed |
 | dīghena | adj | masc.instr.sg | by long |
 | addhunā | noun | masc.instr.sg | by time |
-| na | ind | | not |
-| ittaraṃ; | ind | | for a short time; briefly |
+| na | ind |  | not |
+| ittaraṃ; | ind |  | for a short time; briefly |
 | manasikarotā | pp | masc.instr.sg | by paying attention |
-| no | ind | | not |
+| no | ind |  | not |
 | amanasikarotā; | pp | masc.instr.sg | by not paying attention |
 | paññavatā | adj | masc.instr.sg | by possessed of insight, wise, intelligent |
-| no | ind | | not |
+| no | ind |  | not |
 | duppaññena. | adj | masc.instr.sg | by foolish |
-|  |  |  |  |
-| o grate king! in misfortunes strength can be known. And that indeed with long time, not for a short time. With paying attention, not with not paying attention. By the wise, not by the foolish. | | | |
 
-| 10. KN-a Dhp, 4,8 | | | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --------------------------------------- | ------------------------------------------------------------------------ |
-| “na sakkā seṭṭhinā amhākaṃ ciraṃ posanaṃ nāma kātuṃ, dāni dārikāya gamanakālaṃ jānātū”ti. | | | |
+**o grate king! in misfortunes strength can be known. And that indeed with long time, not for a short time. With paying attention, not with not paying attention. By the wise, not by the foolish.**
+
+
+10. KN-a Dhp, 4,8
+
+“na sakkā seṭṭhinā amhākaṃ ciraṃ posanaṃ nāma kātuṃ, dāni dārikāya gamanakālaṃ jānātū”ti.
+
+| --- | --- | --- | --- |
 | “na | ind | neg | not |
-| sakkā | ind | | it is possible |
+| sakkā | ind |  | it is possible |
 | seṭṭhinā | noun | masc.ins.sg | by banker |
-| amhākaṃ | pron | 1.dat.pl | to us |
-| ciraṃ | ind | | (for) a long time. |
+
+amhākaṃ pron 1.dat.pl to us
+
+| --- | --- | --- | --- |
+| ciraṃ | ind |  | (for) a long time. |
 | posanaṃ | noun | nt.acc.sg | support; nourishing; feeding |
-| nāma | ind | | indeed |
+| nāma | ind |  | indeed |
 | kātuṃ, | verb | inf | to do |
-| dāni | ind | | now |
+| dāni | ind |  | now |
 | dārikāya | noun | fem.gen.sg | of girl, daughter |
-| gamana- | adj | | going; walk; journey; pursuit. |
+| gamana- | adj |  | going; walk; journey; pursuit. |
 | kālaṃ | noun | masc.acc.sg | time |
 | jānātū”ti. | verb | imp.3.sg | should know; find out; be aware |
-| **indeed it is not possible by banker to do for us support for a long time, now he should find out journey time of the daughter.** | | | |
-| 11. KN-a Ja 1,1,4 | | | |
-| kataññunā me bhavituṃ vaṭṭatī”ti ekaṃ satasahassaṃ gāhāpetvā cūḷaseṭṭhissa samīpaṃ gato. | | | |
+
+**indeed it is not possible by banker to do for us support for a long time, now he should find out journey time of the daughter.**
+
+11. KN-a Ja 1,1,4
+
+kataññunā me bhavituṃ vaṭṭatī”ti ekaṃ satasahassaṃ gāhāpetvā cūḷaseṭṭhissa samīpaṃ gato.
+
+| --- | --- | --- | --- |
 | kataññunā | adj | masc.ins.sg | with grateful; obliging |
-| me | pron | 1.dat.sg | to me |
+
+me pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
 | bhavituṃ | verb | inf | to become; to exist, to be |
 | vaṭṭatī”ti | verb | pr.3.sg | behoves; to be right, fit, or proper |
 | ekaṃ | adj | nt.acc.sg | one |
 | satasahassaṃ | adj | nt.acc.sg | hundred thousand |
 | gāhāpetvā | verb | abs | having caused to take |
-| cūḷa- | adj | | small, minor |
+| cūḷa- | adj |  | small, minor |
 | seṭṭhissa | noun | masc.dat.sg | banker |
-| samīpaṃ | ind | | near to |
+| samīpaṃ | ind |  | near to |
 | gato. | pp | masc.nom.sg | gone; moved; walked; passed; arrived at; |
-| **“it is proper for me to be grateful”, having caused to take one hundred thousand gone near to minor banker.** | | | |
-| 12. KN-a Dhp,24,11 | | | |
-| rājā satthu vacanaṃ sutvā “aho, bhante, bhāriyaṃ kammaṃ, ettake nāma bhoge vijjamāne neva attanā paribhuñji, na … puññakammaṃ akāsī”ti āha | | | |
+
+**“it is proper for me to be grateful”, having caused to take one hundred thousand gone near to minor banker.**
+
+12. KN-a Dhp,24,11
+
+rājā satthu vacanaṃ sutvā “aho, bhante, bhāriyaṃ kammaṃ, ettake nāma bhoge vijjamāne neva attanā paribhuñji, na … puññakammaṃ akāsī”ti āha
+
+| --- | --- | --- | --- |
 | rājā | noun | masc.nom.sg | king |
 | satthu | noun | masc.gen.sg | of teacher; master, the Buddha. |
 | vacanaṃ | noun | nt.acc.sg | speaking, utterance, word |
 | sutvā | verb | abs | having heard. |
-| aho, | ind | | oh! |
+| aho, | ind |  | oh! |
 | bhante, | noun | masc.voc.sg | Venerable Sir |
 | bhāriyaṃ | adj | nt.acc.sg | weighty, grave, serious |
 | kammaṃ, | noun | nt.acc.sg | action, deed, doing |
 | ettake | adj | loc.sg | when existing this much; so much |
-| nāma | ind | | indeed |
+| nāma | ind |  | indeed |
 | bhoge | noun | masc.acc.pl | when existingpossession, wealth |
 | vijjamāne | pr.p | masc.loc.sg | when existing |
-| neva | ind | | neither |
+| neva | ind |  | neither |
 | attanā | noun | ins | with oneself, by oneself |
 | paribhuñji, | verb | aor.3.sg | ate; used; enjoyed. |
-| na | ind | | not |
+| na | ind |  | not |
 | puññakammaṃ | noun | nt.acc.sg | meritorious action. |
 | akāsī”ti | verb | aor.3.sg | did, made, or performed. |
 | āha | verb | perf.3.sg | he had said |
-| **king having heard utterance of the Teacher, had said: “Oh, Venerable Sir, serious deed, indeed when having so much wealth, he neither not enjoyed by oneself, not performed meritorious action!”** | | | |
-| 13. SN-a 1,6,1,10 | | | |
-| “kathaṃ hi nāma attanā agaṇhantā mayhampi adāpetvā pakkamissantī””ti | | | |
-| “kathaṃ | ind | | how? why? |
-| hi | ind | | indeed |
-| nāma | ind | | certainly, truly, for sure |
+
+**king having heard utterance of the Teacher, had said: “Oh, Venerable Sir, serious deed, indeed when having so much wealth, he neither not enjoyed by oneself, not performed meritorious action!”**
+
+13. SN-a 1,6,1,10
+
+“kathaṃ hi nāma attanā agaṇhantā mayhampi adāpetvā pakkamissantī””ti
+
+| --- | --- | --- | --- |
+| “kathaṃ | ind |  | how? why? |
+| hi | ind |  | indeed |
+| nāma | ind |  | certainly, truly, for sure |
 | attanā | noun | masc.ins.sg | with oneself, by oneself |
 | agaṇhantā | pr.p | masc.nom.pl | not taking |
-| mayhaṃ- | pron | 1.dat.sg | to me |
-| api | ind | | just, only |
+
+mayhaṃ- pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
+| api | ind |  | just, only |
 | adāpetvā | verb | abs | having not caused to give (to) |
 | pakkamissantī””ti | verb | fut.3.pl | will step forward; go away |
-| **how indeed not taking by themselves, having not caused to give to me, they will goe away?** | | | |
-| 14. KN-a Dhp, 4,12 | | | |
-| “amhākaṃ gehaṃ paviṭṭhānaṃ ayyānaṃ vattaṃ ñatvā nisīdituṃ vaṭṭatī”ti. | | | |
-| “amhākaṃ | pron | 1.gen.pl | our |
+
+**how indeed not taking by themselves, having not caused to give to me, they will goe away?**
+
+14. KN-a Dhp, 4,12
+
+“amhākaṃ gehaṃ paviṭṭhānaṃ ayyānaṃ vattaṃ ñatvā nisīdituṃ vaṭṭatī”ti.
+
+“amhākaṃ pron 1.gen.pl our
+
+| --- | --- | --- | --- |
 | gehaṃ | noun | masc.acc.sg | house, dwelling |
 | paviṭṭhānaṃ | pp | masc.gen.pl | entered, gone into (acc.), visited |
 | ayyānaṃ | noun | masc.gen.pl | when masters, nobles, gentlemans |
@@ -3348,34 +3792,47 @@
 | ñatvā | verb | abs | having known; having found out. |
 | nisīdituṃ | verb | inf | to sit, to sit down |
 | vaṭṭatī”ti. | verb | pr.3.sg | behoves, to be right, fit, or proper |
-| **when gentlemans entered our house, having found out the regulation, it is suitable to sit down.** | | | |
-| 15. KN-a Dhp, 1.3.2 | | | |
-| “āvuso, amhehi pamādacāraṃ carituṃ na vaṭṭati… buddhā ca nāma padānupadikaṃ vicarantenāpi saṭhena ārādhetuṃ na sakkā, yathājjhāsayeneva ārādhetuṃ sakkā, | | | |
+
+**when gentlemans entered our house, having found out the regulation, it is suitable to sit down.**
+
+15. KN-a Dhp, 1.3.2
+
+“āvuso, amhehi pamādacāraṃ carituṃ na vaṭṭati… buddhā ca nāma padānupadikaṃ vicarantenāpi saṭhena ārādhetuṃ na sakkā, yathājjhāsayeneva ārādhetuṃ sakkā,
+
+| --- | --- | --- | --- |
 | “āvuso, | noun | masc.voc.sg | friend, brother |
-| amhehi | pron | 1.ins.pl | by us, with us |
+
+amhehi pron 1.ins.pl by us, with us
+
+| --- | --- | --- | --- |
 | pamāda- | adj | carelessness, negligence, | indolence, remissness |
 | cāraṃ | noun | masc.acc.sg | behaviour, manner |
 | carituṃ | verb | inf | to act, to behave |
-| na | ind | | not |
+| na | ind |  | not |
 | vaṭṭati | verb | pr.3.sg | behoves, to be right, fit, or proper |
 | buddhā | noun | masc.abl.sg | from the Buddha |
-| ca | ind | | and |
-| nāma | | | indeed |
-| padānupadikaṃ | ind | | following closely in the footsteps |
+| ca | ind |  | and |
+| nāma |  |  | indeed |
+| padānupadikaṃ | ind |  | following closely in the footsteps |
 | vicarantena- | pr.p | masc.ins.sg | by going about; wandering |
-| api | ind | | just, only, even |
+| api | ind |  | just, only, even |
 | saṭhena | adj | masc.ins.sg | crafty, fraudulent |
 | ārādhetuṃ | verb | inf | to invites; pleases; wins favour; obtains. |
-| na | ind | | not |
-| sakkā | ind | | it is possible |
+| na | ind |  | not |
+| sakkā | ind |  | it is possible |
 | yathājjhāsayena- | adj | masc.ins.sg | with straight in mind; faithful |
-| eva | ind | | only, just, so, even |
-| ārādhetuṃ | | v | inf to invites; pleases; wins favour; obtains. |
-| sakkā, | ind | | it is possible |
-| **friend, it is not suitable to us negligence in behaviour, indeed it is not possible for by wandering fraudulent to wins favour from the Buddha, even following (his) footsteps, only for those who straight in mind it is possible to win favour.** | | | | |
-| 16. KN-a Ja 1,7,10 | | | | |
-| paṭhamaṃ attanā pabbajitvā pacchā parisaṃ pabbājetvā assamapadaṃ bhājetvā adāsi. | | | | |
-| paṭhamaṃ | ind | | at first; for the first time. |
+| eva | ind |  | only, just, so, even |
+| ārādhetuṃ |  | v | inf to invites; pleases; wins favour; obtains. |
+| sakkā, | ind |  | it is possible |
+
+**friend, it is not suitable to us negligence in behaviour, indeed it is not possible for by wandering fraudulent to wins favour from the Buddha, even following (his) footsteps, only for those who straight in mind it is possible to win favour.**
+
+16. KN-a Ja 1,7,10
+
+paṭhamaṃ attanā pabbajitvā pacchā parisaṃ pabbājetvā assamapadaṃ bhājetvā adāsi.
+
+| --- | --- | --- | --- |
+| paṭhamaṃ | ind |  | at first; for the first time. |
 | attanā | noun | masc.ins.sg | by onself, with self |
 | pabbajitvā | verb | abs | having gone forth; having become a monk; having leaved household life. |
 | pacchā | ind | behind, aft, after, afterwards, back; | westward |
@@ -3384,38 +3841,46 @@
 | assamapadaṃ | noun | masc.acc.sg | ashram, monastery, hermitage |
 | bhājetvā | verb | abs | having divided; having distributed. |
 | adāsi | verb | aor.3.sg | gave |
-| **at first having become a monk by onself, after having caused to ordain assembly, having divided monastery, he gave.** | | | | |
+
+**at first having become a monk by onself, after having caused to ordain assembly, having divided monastery, he gave.**
+
 
 
 
 ## Class 39
 
-| 1. (SN 10.7) | | | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------------------ | ----------------------------------------------------------------------------- |
-|  |  |  |  |
-| tuṇhī uttarike hohi, tuṇhī hohi punabbasu.<br>yāvāhaṃ buddhaseṭṭhassa, dhammaṃ sossāmi satthuno. | | | |
-|  |  |  |  |
-| tuṇhī | ind | | silent, silence, silently |
+1. (SN 10.7)
+
+tuṇhī uttarike hohi, tuṇhī hohi punabbasu.
+yāvāhaṃ buddhaseṭṭhassa, dhammaṃ sossāmi satthuno.
+
+| --- | --- | --- | --- |
+| tuṇhī | ind |  | silent, silence, silently |
 | uttarike | noun | masc.voc.sg | Uttarike |
 | hohi | verb | imp.2.sg | you should be |
-| tuṇhī | ind | | silent, silence, silently |
+| tuṇhī | ind |  | silent, silence, silently |
 | hohi | verb | imp.2.sg | you should be |
 | punabbasu. | noun | masc.voc.sg | Punabbasu |
-| yāva | ind | | as long as, as far as, up to, until |
-| ahaṃ | pron | 1.nom.sg | I |
-| buddhaseṭṭhassa | | | |
-| \#buddha | noun | | Buddha, Awakened One |
+| yāva | ind |  | as long as, as far as, up to, until |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
+| buddhaseṭṭhassa |  |  |  |
+| \#buddha | noun |  | Buddha, Awakened One |
 | \#seṭṭhassa | adj | masc.gen.sg | of foremost, best, primary, most important |
 | dhammaṃ | noun | masc.acc.sg | Teaching |
 | sossāmi | verb | fut.1.sg | I will listen, will hear |
 | satthuno. | noun | masc.gen.sg | of the teacher, of the master |
-|  |  |  |  |
-| Uttarike, you should be silent, Punabbasu you should be silent, until I will listen Teaching of the master, of the foremost Awakened One. | | | |
-|  |  |  |  |
-| 2. (TH 97) | | | |
-|  |  |  |  |
-| hitvā satapalaṃ kaṃsaṃ, sovaṇṇaṃ satarājikaṃ.<br>aggahiṃ mattikāpattaṃ, idaṃ dutiyābhisecananti. | | | |
-|  |  |  |  |
+
+**Uttarike, you should be silent, Punabbasu you should be silent, until I will listen Teaching of the master, of the foremost Awakened One.**
+
+2. (TH 97)
+
+hitvā satapalaṃ kaṃsaṃ, sovaṇṇaṃ satarājikaṃ.
+aggahiṃ mattikāpattaṃ, idaṃ dutiyābhisecananti.
+
+| --- | --- | --- | --- |
 | hitvā | verb | abs | having left, having left behind, having abandoned |
 | satapalaṃ | adj | nt.acc.sg | hundred weight, measure of metal |
 | kaṃsaṃ | noun | masc.acc.sg | bronze plate, bowl |
@@ -3424,53 +3889,59 @@
 | aggahiṃ | verb | aor.1.sg | I took |
 | mattikāpattaṃ | noun | nt.acc.sg | clay bowl |
 | idaṃ | pron | nt.nom.sg | this |
-| dutiya | adj | | second (2nd) |
+| dutiya | adj |  | second (2nd) |
 | abhisecanaṃ | noun | nt.nom.sg | consecration; ablution |
-|  |  |  |  |
-| having left bronze bowl hundred weighte metal, hundred weight gold, I took clay bowl, this is the second consecration. | | | |
-|  |  |  |  |
-| 3. DN 16.40 | | | |
-|  |  |  |  |
-| assosuṃ kho pāveyyakā mallā — “bhagavā kira kusinārāyaṃ parinibbutoti. | | | |
-|  |  |  |  |
+
+**having left bronze bowl hundred weighte metal, hundred weight gold, I took clay bowl, this is the second consecration.**
+
+3. DN 16.40
+
+assosuṃ kho pāveyyakā mallā — “bhagavā kira kusinārāyaṃ parinibbutoti.
+
+| --- | --- | --- | --- |
 | assosuṃ | verb | aor.3.pl | they heard |
-| kho | ind | | indeed, surely, certainly |
+| kho | ind |  | indeed, surely, certainly |
 | pāveyyakā | noun | masc.nom.pl | Pāveyyakas |
 | mallā — | noun | masc.nom.pl | Mallas |
 | bhagavā | noun | masc.nom.sg | the Sublime One, Blessed One, Fortunate One, Buddha |
-| kira | ind | | it is said, allegedly, apparently, people say |
+| kira | ind |  | it is said, allegedly, apparently, people say |
 | kusinārāyaṃ | noun | fem.loc.sg | in Kusinara, a city of the Mallas |
 | parinibbuto | pp | masc.nom.sg | who is extinguished, whos fire is out, pass away without being reborn |
-|  |  |  |  |
-| certainly Pāveyyakas Mallas heard: “people say, the Blessed One was extinguished in Kusinara. | | | |
-|  |  |  |  |
-| 4. SN 20.11 | | | |
-|  |  |  |  |
-| assuttha no tumhe, bhikkhave, rattiyā paccūsasamayaṃ jarasiṅgālassa vassamānassāti? | | | |
-|  |  |  |  |
+
+**certainly Pāveyyakas Mallas heard: “people say, the Blessed One was extinguished in Kusinara.**
+
+4. SN 20.11
+
+assuttha no tumhe, bhikkhave, rattiyā paccūsasamayaṃ jarasiṅgālassa vassamānassāti?
+
+| --- | --- | --- | --- |
 | assuttha | verb | aor.2.pl | you all heard |
-| no | ind | | surely? didnt you? definitely |
-| tumhe | pron | 1.nom.pl | you all, you |
+| no | ind |  | surely? didnt you? definitely |
+
+tumhe pron 1.nom.pl you all, you
+
+| --- | --- | --- | --- |
 | bhikkhave | noun | masc.voc.pl | o monks |
 | rattiyā | noun | fem.loc.sg | at night |
-| paccūsasamayaṃ | ind | | before dawn, early in the morning |
+| paccūsasamayaṃ | ind |  | before dawn, early in the morning |
 | jarasiṅgālassa | noun | masc.gen.sg (abs) | when old jackal |
 | vassamānassa | prp | masc.gen.sg (abs) | when animal crying, howling, roaring |
-| o monks, didnt you heard early in the morning, at night when roaring old jackal? | | | |
-|  |  |  |  |
-|  |  |  |  |
-| 5. Vin 4, 1.13 | | | |
-|  |  |  |  |
-| assosi kho rājā māgadho seniyo bimbisāro — samaṇo khalu bho gotamo sakyaputto sakyakulā pabbajito rājagahaṃ anuppatto | | | |
-|  |  |  |  |
+
+**o monks, didnt you heard early in the morning, at night when roaring old jackal?**
+
+5. Vin 4, 1.13
+
+assosi kho rājā māgadho seniyo bimbisāro — samaṇo khalu bho gotamo sakyaputto sakyakulā pabbajito rājagahaṃ anuppatto
+
+| --- | --- | --- | --- |
 | assosi | verb | aor.3.sg | heard |
-| kho | ind | | indeed |
+| kho | ind |  | indeed |
 | rājā | noun | masc.nom.sg | king |
 | māgadho | adj | masc.nom.sg | of Magadha |
 | seniyo | noun | masc.nom.sg | Seniya, general |
 | bimbisāro | noun | masc.nom.sg | Bimbisāra |
 | samaṇo | noun | masc.nom.sg | ascetic, renunciant, holy man, monk, recluse |
-| khalu | ind | | indeed, surely |
+| khalu | ind |  | indeed, surely |
 | bho | noun | masc.nom.sg | sir, master, friend |
 | gotamo | noun | masc.nom.sg | Gotama |
 | sakyaputto | adj | masc.nom.sg | son of the Sakyan |
@@ -3478,42 +3949,48 @@
 | pabbajito | adj | masc.nom.sg | gone forth, renounced |
 | rājagahaṃ | noun | masc.acc.sg | a city, the capital of Māgadha. |
 | anuppatto | pp | masc.nom.sg | reached, arrived, attained |
-|  |  |  |  |
-| General Bimbisāra, king of Magadha, indeed heard: recluse master Gotama, son of the Sakyan, who gone forth from the Sakyan family, arrived in Rājagaha. | | | |
-|  |  |  |  |
-| 6. DN 16 | | | |
-|  |  |  |  |
-| alaṃ, āvuso, mā socittha, mā paridevittha, sumuttā mayaṃ tena mahāsamaṇena. | | | |
-|  |  |  |  |
-| alaṃ | ind | | enough |
+
+**General Bimbisāra, king of Magadha, indeed heard: recluse master Gotama, son of the Sakyan, who gone forth from the Sakyan family, arrived in Rājagaha.**
+
+6. DN 16
+
+alaṃ, āvuso, mā socittha, mā paridevittha, sumuttā mayaṃ tena mahāsamaṇena.
+
+| --- | --- | --- | --- |
+| alaṃ | ind |  | enough |
 | āvuso | noun | masc.voc.pl | brothers, friends |
-| mā | ind | | do not |
+| mā | ind |  | do not |
 | socittha | verb | aor.2.pl | grieved, were sad |
-| mā | ind | | do not |
+| mā | ind |  | do not |
 | paridevittha | verb | aor.2.pl | mourned, lamented, wailed |
 | sumuttā | adj | masc.nom.pl | well free (of), well released |
-| mayaṃ | noun | 1.nom.pl | (royal) we |
-| tena | ind | | thereby, because of that, on that account |
+
+mayaṃ noun 1.nom.pl (royal) we
+
+| --- | --- | --- | --- |
+| tena | ind |  | thereby, because of that, on that account |
 | mahāsamaṇena. | noun | masc.instr.sg | by great ascetic |
-|  |  |  |  |
-| enough, brothers, do not grieve! do not lament! Thereby we are well released from great ascetic. ? | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| 7. Vin 4, 1.63 | | | |
-|  |  |  |  |
-| suṇasi, itthannāma, ayaṃ te saccakālo bhūtakālo. yaṃ jātaṃ taṃ saṅghamajjhe pucchante santaṃ atthīti vattabbaṃ, asantaṃ natthīti vattabbaṃ. mā kho vitthāyi, mā kho maṅku ahosi. | | | |
-|  |  |  |  |
+
+**enough, brothers, do not grieve! do not lament! Thereby we are well released from great ascetic. ?**
+
+7. Vin 4, 1.63
+
+suṇasi, itthannāma, ayaṃ te saccakālo bhūtakālo. yaṃ jātaṃ taṃ saṅghamajjhe pucchante santaṃ atthīti vattabbaṃ, asantaṃ natthīti vattabbaṃ. mā kho vitthāyi, mā kho maṅku ahosi.
+
+| --- | --- | --- | --- |
 | suṇasi | verb | pr.2.sg | you listen |
 | itthannāma | noun | masc.voc.sg | of such and such a name |
 | ayaṃ | pron | masc.nom.sg | this |
-| te | pron | 2.dat.sg | for you |
+
+te pron 2.dat.sg for you
+
+| --- | --- | --- | --- |
 | saccakālo | noun | masc.nom.sg | time to tell the truth, lit. truth time |
 | bhūtakālo | noun | masc.nom.sg | time to be real, time to be matter of fact, time to reveal ones true nature |
 | yaṃ | pron | masc.nom.sg | whatever |
 | jātaṃ | pp | masc.nom.sg | has been born, happened, occurred |
 | taṃ | pron | masc.nom.sg | that |
-| saṅghamajjhe | ind | | in the midst the community, among the community |
+| saṅghamajjhe | ind |  | in the midst the community, among the community |
 | pucchante | prp | masc.loc.sg | when asking, enquiring, questioning |
 | santaṃ | prp | nt.nom.sg | existing, being, there is |
 | atthi | verb | pr.3.sg | there is, there exists |
@@ -3521,147 +3998,203 @@
 | asantaṃ | prp | nt.nom.sg | not existing, being, there is |
 | natthi | verb | pr.3.sg | there is not, there not exists |
 | vattabbaṃ. | ptp | nt.nom.sg | should be said, should be told. |
-| mā | ind | | do not |
-| kho | ind | | indeed |
+| mā | ind |  | do not |
+| kho | ind |  | indeed |
 | vitthāyi | verb | aor.3.sg | froze, hesitated, lit. became stiff |
-| mā | ind | | do not |
-| kho | ind | | indeed |
+| mā | ind |  | do not |
+| kho | ind |  | indeed |
 | maṅku | adj | masc.nom.sg | humiliated; embarrassed; ashamed; chagrined; despondent |
 | ahosi. | verb | aor.3.sg | was, existed, became |
-|  |  |  |  |
-| (of such and such a name), you listen! this is time for you to tell the truth, time to reveal true nature. Whatever happened, in the midst the community when asked, if existing: “it is should be said or if not existing “it is not should be said. indeed do not hesitate, do not being confused. | | | |
-|  |  |  |  |
-| 8. (TH 224) | | | |
-|  |  |  |  |
-| yuvāsi tvaṃ pabbajito, tiṭṭhāhi mama sāsane.<br>bhuñja mānusake kāme, ahaṃ vittaṃ dadāmi te. | | | |
-|  |  |  |  |
+
+**(of such and such a name), you listen! this is time for you to tell the truth, time to reveal true nature. Whatever happened, in the midst the community when asked, if existing: “it is should be said or if not existing “it is not should be said. indeed do not hesitate, do not being confused.**
+
+8. (TH 224)
+
+yuvāsi tvaṃ pabbajito, tiṭṭhāhi mama sāsane.
+bhuñja mānusake kāme, ahaṃ vittaṃ dadāmi te.
+
+| --- | --- | --- | --- |
 | yuva | adj | masc.nom.sg | young |
 | āsi | verb | aor.2.sg | you were |
-| tvaṃ | pron | 2.nom.sg | you |
+
+tvaṃ pron 2.nom.sg you
+
+| --- | --- | --- | --- |
 | pabbajito | pp | masc.nom.sg | ordained, renounced |
 | tiṭṭhāhi | verb | imp.2.sg | you stay (in), live (in) |
-| mama | pron | 1.gen.sg | my |
+
+mama pron 1.gen.sg my
+
+| --- | --- | --- | --- |
 | sāsane. | noun | masc.loc.sg | religion; monastic order |
 | bhuñja | verb | imp.2.sg | you use, enjoy |
 | mānusake | adj | masc.acc.pl | human |
 | kāme | noun | masc.acc.pl | pleasures, sensual pleasures |
-| ahaṃ | pron | 1.nom.sg | I |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
 | vittaṃ | noun | nt.acc.sg | property, wealth, possession |
 | dadāmi | verb | pr.1.sg | I give |
-| te. | pron | 2.dat.sg | to you |
-|  |  |  |  |
-| you were ordained young, stay in my monastic order, enjoy human sensual pleasures, I give you wealth. | | | |
-|  |  |  |  |
-| 9. DN 16.32 | | | |
-|  |  |  |  |
-| alaṃ, ānanda, mā soci mā paridevi, nanu etaṃ, ānanda, mayā paṭikacceva akkhātaṃ — sabbeheva piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo; | | | |
-|  |  |  |  |
-| alaṃ | ind | | enough |
+
+te. pron 2.dat.sg to you
+
+you were ordained young, stay in my monastic order, enjoy human sensual pleasures, I give you wealth.
+
+9. DN 16.32
+
+alaṃ, ānanda, mā soci mā paridevi, nanu etaṃ, ānanda, mayā paṭikacceva akkhātaṃ — sabbeheva piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo;
+
+| --- | --- | --- | --- |
+| alaṃ | ind |  | enough |
 | ānanda | noun | masc.voc.sg | Ānanda |
-| mā | ind | | do not |
+| mā | ind |  | do not |
 | soci | verb | aor.3.sg | mourned; grieved. |
-| mā | ind | | do not |
+| mā | ind |  | do not |
 | paridevi | verb | aor.3.sg | wailed; lamented. |
-| nanu | ind | | surely? would? wouldnt? |
+| nanu | ind |  | surely? would? wouldnt? |
 | etaṃ | pron | masc.acc.sg | this |
 | ānanda | noun | masc.voc.sg | Ānanda |
-| mayā | pron | 1.instr.sg | by me |
-| paṭikacca | ind | | early, previously |
-| eva | ind | | just, even |
+
+mayā pron 1.instr.sg by me
+
+| --- | --- | --- | --- |
+| paṭikacca | ind |  | early, previously |
+| eva | ind |  | just, even |
 | akkhātaṃ | verb reflx | aor.1.sg | I myself spoke, addressed, declared |
 | sabbehi | adj | masc.abl.pl | from all |
-| eva | ind | | just |
+| eva | ind |  | just |
 | piyehi | adj | masc.abl.pl | from dear, beloved |
 | manāpehi | adj | masc.abl.pl | pleasant, likeable, attractive, agreeable |
 | nānābhāvo | pp | masc.nom.sg | become distinct |
 | vinābhāvo | pp | masc.nom.sg | become without |
 | aññathābhāvo; | pp | masc.nom.sg | becoming different; change, alteration |
-|  |  |  |  |
-| enough Ānanda! do not grieve! do not lament! wouldns this even early declared by me: “ just from all dear and likeable (one will) become distinct, become without, becoming different? | | | |
-|  |  |  |  |
-|  |  |  |  |
-| 10. DN 4.5 | | | |
-|  |  |  |  |
-| tiṭṭhatu soṇadaṇḍo brāhmaṇo, tumhe mayā saddhiṃ mantavho … tiṭṭhatha tumhe, soṇadaṇḍo brāhmaṇo mayā saddhiṃ paṭimantetūti. | | | |
-|  |  |  |  |
+
+**enough Ānanda! do not grieve! do not lament! wouldns this even early declared by me: “ just from all dear and likeable (one will) become distinct, become without, becoming different?**
+
+10. DN 4.5
+
+tiṭṭhatu soṇadaṇḍo brāhmaṇo, tumhe mayā saddhiṃ mantavho … tiṭṭhatha tumhe, soṇadaṇḍo brāhmaṇo mayā saddhiṃ paṭimantetūti.
+
+| --- | --- | --- | --- |
 | tiṭṭhatu | verb | imp.3.sg | let him stop, let him stand |
 | soṇadaṇḍo | noun | masc.nom.sg | Soṇadaṇḍo |
 | brāhmaṇo | noun | masc.nom.sg | brahman |
-| tumhe | pron | 2.nom.sg | you all |
-| mayā | pron | 1.instr.sg | with me |
-| saddhiṃ | ind | | together (with), with |
+
+tumhe pron 2.nom.sg you all
+
+mayā pron 1.instr.sg with me
+
+| --- | --- | --- | --- |
+| saddhiṃ | ind |  | together (with), with |
 | mantavho | verb reflx | imp.2.pl | you yourself should consult, discusse, take counsel |
 | tiṭṭhatha | verb | pr.2.sg | you stand, stop |
-| tumhe | pron | 2.nom.sg | you all |
+
+tumhe pron 2.nom.sg you all
+
+| --- | --- | --- | --- |
 | soṇadaṇḍo | noun | masc.nom.sg | Soṇadaṇḍo |
 | brāhmaṇo | noun | masc.nom.sg | brahman |
-| mayā | pron | 1.instr.sg | with me |
-| saddhiṃ | ind | | together (with), with |
+
+mayā pron 1.instr.sg with me
+
+| --- | --- | --- | --- |
+| saddhiṃ | ind |  | together (with), with |
 | paṭimantetu | verb | imp.3.sg | he discuss in argument, reply to, answer |
-|  |  |  |  |
-| let brahman Soṇadaṇḍo stop, you all yourself should consult with me, … , you all stop, let brahman Soṇadaṇḍo answer me. | | | |
-|  |  |  |  |
-| 11. DN 1.21 | | | |
-|  |  |  |  |
-| yāvassa kāyo ṭhassati, tāva naṃ dakkhanti devamanussā. kāyassa bhedā uddhaṃ jīvitapariyādānā na naṃ dakkhanti devamanussā. | | | |
-|  |  |  |  |
-| yāva | ind | | as long as, as far as, up to, until |
+
+**let brahman Soṇadaṇḍo stop, you all yourself should consult with me, … , you all stop, let brahman Soṇadaṇḍo answer me.**
+
+11. DN 1.21
+
+yāvassa kāyo ṭhassati, tāva naṃ dakkhanti devamanussā. kāyassa bhedā uddhaṃ jīvitapariyādānā na naṃ dakkhanti devamanussā.
+
+| --- | --- | --- | --- |
+| yāva | ind |  | as long as, as far as, up to, until |
 | assa | pron | masc.gen.sg | his |
 | kāyo | noun | masc.nom.sg | body |
 | ṭhassati | verb | fut.3.sg | will stand, will stay, will remain, will last |
-| tāva | ind | | that much, as long as, to that extent, until |
+| tāva | ind |  | that much, as long as, to that extent, until |
 | naṃ | pron | masc.acc.sg | him, her, it, one, that |
 | dakkhanti | verb | pr.3.pl | they see |
 | devamanussā. | noun | masc.nom.pl | gods and men |
 | kāyassa | noun | masc.gen.sg | of body |
 | bhedā | noun | masc.abl.sg | from breaking-up (of), breaking apart (of) |
-| uddhaṃ | ind | | upwards (from), in future, ahead, hence |
-| jīvita | noun | | life; span of life; lifetime |
+| uddhaṃ | ind |  | upwards (from), in future, ahead, hence |
+| jīvita | noun |  | life; span of life; lifetime |
 | pariyādānā | noun | nt.abl.sg | from using up, exhaustion, consumption |
-| na | ind | | not |
+| na | ind |  | not |
 | naṃ | pron | masc.acc.sg | him, her, it, one, that |
 | dakkhanti | verb | pr.3.pl | they see |
 | devamanussā. | noun | masc.nom.pl | gods and men |
-|  |  |  |  |
-| as long as his body will remain, to that extent gods and men see him. hence from breaking-up of body, from using up lifetime, gods and men no (longer) see him. | | | |
 
-| 12. KN-a Dhp,1,4 | | | |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------- | ------------------------------------------ |
-| “amma, mā evaṃ vadetha, ahaṃ yāvajīvaṃ tumhe paṭijaggissāmī”ti. | | | |
+**as long as his body will remain, to that extent gods and men see him. hence from breaking-up of body, from using up lifetime, gods and men no (longer) see him.**
+
+
+12. KN-a Dhp,1,4
+
+“amma, mā evaṃ vadetha, ahaṃ yāvajīvaṃ tumhe paṭijaggissāmī”ti.
+
+| --- | --- | --- | --- |
 | “amma, | noun | fem.voc.sg | dear mother |
-| mā | ind | | do not |
+| mā | ind |  | do not |
 | evaṃ | ind | so in this way; in such a way; like | this. |
 | vadetha, | verb | imp.2.pl | you speak |
-| ahaṃ | pron | 1.nom.sg | I |
-| yāvajīvaṃ | ind | | for whole life, lit. as long as life |
-| tumhe | pron | 2.acc.pl | you |
+
+ahaṃ pron 1.nom.sg I
+
+| --- | --- | --- | --- |
+| yāvajīvaṃ | ind |  | for whole life, lit. as long as life |
+
+tumhe pron 2.acc.pl you
+
+| --- | --- | --- | --- |
 | paṭijaggissāmī”ti. | verb | fut.1.sg | I will look after, take care |
-| **dear, do not say like this, for whole life I will look after you** | | | |
-| 13. KN-a Dhp,25,5 | | | |
-| susaññatānañhi vaco nisamma, gajuttamo sabbaguṇesu aṭṭhā”ti. | | | |
+
+**dear, do not say like this, for whole life I will look after you**
+
+13. KN-a Dhp,25,5
+
+susaññatānañhi vaco nisamma, gajuttamo sabbaguṇesu aṭṭhā”ti.
+
+| --- | --- | --- | --- |
 | susaññatānaṃ- | adj | masc.gen.pl | of self-controlled, well restrained |
-| hi | ind | | indeed |
+| hi | ind |  | indeed |
 | vaco | noun | nt.acc.sg | speech, words, saying |
 | nisamma, | verb | ger | attending to, listening to, observing |
 | gaj-uttamo | noun | masc.nom.sg | highest elephant |
-| sabba- | adj | | all |
+| sabba- | adj |  | all |
 | guṇesu | noun | masc.loc.pl | ties; a strings |
-| aṭṭhā”ti. | adj | | eight (8), goal , meaning |
-| attending to speech of well restrained ones, highest elephant in all strings? | | | |
-| 14. KN-a Dhp,1,1 | | | |
-| “kiṃ te aphāsukan”ti? “akkhīhi na passāmī”ti. “bhesajjaṃ te karissāmī”ti? “karohi, sāmī”ti. “kiṃ me dassasī”ti? | | | |
+| aṭṭhā”ti. | adj |  | eight (8), goal , meaning |
+
+**attending to speech of well restrained ones, highest elephant in all strings?**
+
+14. KN-a Dhp,1,1
+
+“kiṃ te aphāsukan”ti? “akkhīhi na passāmī”ti. “bhesajjaṃ te karissāmī”ti? “karohi, sāmī”ti. “kiṃ me dassasī”ti?
+
+| --- | --- | --- | --- |
 | “kiṃ | pron | nt.nom.sg | who? what? which? |
-| te | pron | 2.gen.sg | your |
+
+te pron 2.gen.sg your
+
+| --- | --- | --- | --- |
 | aphāsukan”ti? | noun | nt.nom.sg | illness, trouble, discomfort, difficulty |
 | “akkhīhi | noun | nt.ins.pl | by eyes |
-| na | ind | | not |
+| na | ind |  | not |
 | passāmī”ti. | verb | pr.1.sg | I sees |
 | “bhesajjaṃ | noun | nt.acc.sg | medicine, remedy |
-| te | pron | 2.dat.sg | to you |
+
+te pron 2.dat.sg to you
+
+| --- | --- | --- | --- |
 | karissāmī”ti? | verb | fut.1.sg | I will do, make |
 | “karohi, | verb | imp.2.sg | you do, make |
 | sāmī”ti. | noun | masc.voc.sg | master, sir |
 | “kiṃ | pron | nt.nom.sg | who? what? which? |
-| me | pron | 1.dat.sg | to me |
+
+me pron 1.dat.sg to me
+
+| --- | --- | --- | --- |
 | dassasī”ti? | verb | fut.2.sg | you will give |
-| **“what is your difficulty?” “I do not see by eyes” “Shall I make medicine for you?” “May you make, sir” “What will you give to me?”** | | | |
+
+**“what is your difficulty?” “I do not see by eyes” “Shall I make medicine for you?” “May you make, sir” “What will you give to me?”**

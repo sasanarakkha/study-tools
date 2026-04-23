@@ -4,28 +4,33 @@
 
 Khemākhema-saraṇa-gamana
 
-| [Dhp 188] | | | |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------- | ----------------------------------------------------------------------- |
-| bahuṃ ve saraṇaṃ yanti – pabbatāni vanāni ca | | | |
-| ārāma-rukkha-cetyāni – manussā bhaya-tajjitā | | | |
+[Dhp 188]
+bahuṃ ve saraṇaṃ yanti – pabbatāni vanāni ca
+ārāma-rukkha-cetyāni – manussā bhaya-tajjitā
+
+| --- | --- | --- | --- |
 | bahuṃ | adj | nt.acc.sg | many, much, lots (of), a lot (of) |
-| ve | ind | | indeed, truly, really |
+| ve | ind |  | indeed, truly, really |
 | saraṇaṃ | noun | nt.acc.sg | shelter, refuge, help, lit. protection |
 | yanti | verb | pr.3.pl | they go, go to, go forward, proceed, travel |
 | pabbatāni | noun | nt.acc.pl | mountains, hills |
 | vanāni | noun | nt.acc.pl | woods, forests, jungles |
 | ca | ind |  | and |
-| ārāma- | noun | | park, parkland, nature reserve |
-| rukkha- | noun | | tree |
+| ārāma- | noun |  | park, parkland, nature reserve |
+| rukkha- | noun |  | tree |
 | cetyāni | noun | nt.acc.pl | shrines |
 | manussā | noun | masc.nom.pl | human beings, men, people |
 | bhayatajjitā | adj | masc.nom.pl | startled by fear, threatened by danger |
-| **To many a refuge they go - to mountains and forests, to parkland and tree shrines -people startled by fear.** | | | |
-| [Dhp 189] | | | |
-| n'etaṃ kho saraṇaṃ khemaṃ – n'etaṃ saraṇam-uttamaṃ | | | |
-| n'etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati | | | |
+
+**To many a refuge they go - to mountains and forests, to parkland and tree shrines -people startled by fear.**
+
+[Dhp 189]
+n'etaṃ kho saraṇaṃ khemaṃ – n'etaṃ saraṇam-uttamaṃ
+n'etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati
+
+| --- | --- | --- | --- |
 | n'etaṃ | pron | nt.nom.sg | this not |
-| kho | ind | | indeed, surely, certainly, truly |
+| kho | ind |  | indeed, surely, certainly, truly |
 | saraṇaṃ | noun | nt.nom.sg | shelter, refuge, help, lit. protection |
 | khemaṃ | adj | nt.nom.sg | safe, secure |
 | n'etaṃ | pron | nt.nom.sg | this not |
@@ -36,10 +41,14 @@ Khemākhema-saraṇa-gamana
 | āgamma | verb | ger | coming (to), arriving (at), meeting (with) |
 | sabbadukkhā | noun | nt.abl.sg | from all suffering, all pain, all stress, all discomfort |
 | pamuccati | verb | pr.3.sg | is freed (from), is liberated (from) |
-| **This refuge is not secure , this refuge is not supreme, arriving to this refuge one is not liberated from all suffering.** | | | |
-| [Dhp 190] | | | |
-| yo ca buddhañ-ca dhammañ-ca – saṅghañ-ca saraṇaṃ gato | | | |
-| cattāri ariya-saccāni – sammappaññāya passati | | | |
+
+**This refuge is not secure , this refuge is not supreme, arriving to this refuge one is not liberated from all suffering.**
+
+[Dhp 190]
+yo ca buddhañ-ca dhammañ-ca – saṅghañ-ca saraṇaṃ gato
+cattāri ariya-saccāni – sammappaññāya passati
+
+| --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | whoever, whatever, whichever |
 | ca | ind |  | but |
 | buddhañ'ca | noun | masc.acc.sg | and the Buddha |
@@ -51,26 +60,35 @@ Khemākhema-saraṇa-gamana
 | ariya-saccāni | noun | nt.acc.pl | noble truth |
 | sammappaññāya | noun | fem.ins.sg | with correct understanding, with perfect wisdom |
 | passati | verb | pr.3.sg | sees, finds, understands |
-| **But whoever has gone for refuge to the Buddha, the Dhamma and the Saṅgha – he sees the four noble truths with perfect wisdom.** | | | |
-| [Dhp 191] | | | |
-| dukkhaṃ dukkha-samuppādaṃ – dukkhassa ca atikkamaṃ | | | |
-| ariyañ-c'aṭṭh'aṅgikaṃ maggaṃ – dukkhūpasama-gāminaṃ | | | |
+
+**But whoever has gone for refuge to the Buddha, the Dhamma and the Saṅgha – he sees the four noble truths with perfect wisdom.**
+
+[Dhp 191]
+dukkhaṃ dukkha-samuppādaṃ – dukkhassa ca atikkamaṃ
+ariyañ-c'aṭṭh'aṅgikaṃ maggaṃ – dukkhūpasama-gāminaṃ
+
+| --- | --- | --- | --- |
 | dukkhaṃ | noun | nt.acc.sg | suffering, pain, unease, unsatisfactory, problem, trouble |
 | dukkha-samuppādaṃ | noun | masc.acc.sg | origin of suffering, arising of discomfort |
 | dukkhassa | noun | nt.gen.sg | of suffering, pain, unease, unsatisfactory, problem |
 | ca | ind |  | and |
 | atikkamaṃ | noun | masc.acc.sg | surpassing, transcending, going beyond, overcoming |
 | ariyaṃ- | adj | nom.acc.sg | noble, distinguished |
-| ca- | ind | | and |
+| ca- | ind |  | and |
 | aṭṭh'aṅgikaṃ | adj | masc.acc.sg | with eight parts; eight-limbed |
 | maggaṃ | noun | masc.acc.sg | road, path, way |
-| dukkhūpasama- | noun | | calming of suffering, relief from suffering, alleviation of suffering |
+| dukkhūpasama- | noun |  | calming of suffering, relief from suffering, alleviation of suffering |
 | gāminaṃ | adj | masc.acc.sg | going, leading to |
-| **Suffering and its origin, and that which is going beyond suffering, the noble eightfold path leading to relief from suffering.** | | | |
-| [Dhp 192] | | | |
-| etaṃ kho saraṇaṃ khemaṃ – etaṃ saraṇam-uttamaṃ <br>etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati | | | |
+
+**Suffering and its origin, and that which is going beyond suffering, the noble eightfold path leading to relief from suffering.**
+
+[Dhp 192]
+etaṃ kho saraṇaṃ khemaṃ – etaṃ saraṇam-uttamaṃ 
+etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati
+
+| --- | --- | --- | --- |
 | etaṃ | pron | nt.nom.sg | this |
-| kho | ind | | indeed, surely, certainly, truly |
+| kho | ind |  | indeed, surely, certainly, truly |
 | saraṇaṃ | noun | nt.nom.sg | shelter, refuge, help, lit. protection |
 | khemaṃ | adj | nt.nom.sg | safe, secure |
 | etaṃ | pron | nt.nom.sg | this |
@@ -81,6 +99,8 @@ Khemākhema-saraṇa-gamana
 | āgamma | verb | ger | coming (to), arriving (at), meeting (with) |
 | sabbadukkhā | noun | nt.abl.sg | from all suffering, all pain, all stress, all discomfort |
 | pamuccati | verb | pr.3.sg | is freed (from), is liberated (from) |
-| **This refuge is secure, this refuge is supreme, arriving to this refuge one is liberated from all suffering.** | | | |
+
+**This refuge is secure, this refuge is supreme, arriving to this refuge one is liberated from all suffering.**
+
 
 next chant \> [The Pāṭimokkha Exhortation](https://docs.google.com/document/d/1DRd--uBllLKAIX45M0zpVcGaC3km5QQAfGw4hlJXPkw/)

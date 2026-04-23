@@ -2,9 +2,10 @@
 
 **Abhaya-Parittaṃ**
 
+yan'dunnimittaṃ avamaṅgalañ'ca, yo c'āmanāpo sakuṇassa saddo, pāpaggaho dussupinaṃ akantaṃ, buddh'ānubhāvena vināsam’entu
+
+| --- | --- | --- | --- |
 | [trad] |  |  |  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------- | ------------------------------------------ |
-| yan'dunnimittaṃ avamaṅgalañ'ca, yo c'āmanāpo sakuṇassa saddo, pāpaggaho dussupinaṃ akantaṃ, buddh'ānubhāvena vināsam’entu | | | |
 | yan' | pron | nt.nom.sg | which, whatever, that which |
 | dunnimittaṃ | noun | nt.nom.sg | bad omen |
 | avamaṅgalañ'ca | noun | nt.nom.sg | and bad luck, ill omen |
@@ -12,17 +13,23 @@
 | c'āmanāpo | adj | masc.nom.sg | and unpleasant, disagreeable, detestable |
 | sakuṇassa | noun | masc.gen.sg | of bird |
 | saddo | noun | masc.nom.sg | sound, noise |
-| pāpa- | adj | | evil, criminal, wrong, bad, vicious |
+| pāpa- | adj |  | evil, criminal, wrong, bad, vicious |
 | gaho | noun | masc.nom.sg | planet |
 | dussupinaṃ | noun | nt.nom.sg | bad dream, nightmare |
 | akantaṃ | adj | nt.nom.sg | unpleasant, unwelcome, disagreeable |
 | buddh'ānubhāvena | noun | masc.ins.sg | by the power of the Buddha |
 | vināsaṃ | noun | masc.acc.sg | destruction; ruin; loss |
 | entu | verb | imp.3.pl | may they come (to); may they go (to) |
-| **Whatever ill omen and bad luck, and whatever unpleasant bird's sound, evil planets, upsetting nightmares: by the power of the Buddha may they be destroyed.** | | | |
-| yan'dunnimittaṃ avamaṅgalañ'ca, yo cāmanāpo sakuṇassa saddo, pāpaggaho dussupinaṃ akantaṃ, dhamm'ānubhāvena vināsam’entu | | | |
-| **Whatever ill omen and bad luck, and whatever unpleasant bird's sound, evil planets, upsetting nightmares: by the power of the Dhamma may they be destroyed.** | | | |
-| yan'dunnimittaṃ avamaṅgalañ'ca, yo cāmanāpo sakuṇassa saddo, pāpaggaho dussupinaṃ akantaṃ, saṅgh'ānubhāvena vināsam’entu | | | |
-| **Whatever ill omen and bad luck, and whatever unpleasant bird's sound, evil planets, upsetting nightmares: by the power of the Saṅgha may they be destroyed.** | | | |
+
+**Whatever ill omen and bad luck, and whatever unpleasant bird's sound, evil planets, upsetting nightmares: by the power of the Buddha may they be destroyed.**
+
+yan'dunnimittaṃ avamaṅgalañ'ca, yo cāmanāpo sakuṇassa saddo, pāpaggaho dussupinaṃ akantaṃ, dhamm'ānubhāvena vināsam’entu
+
+**Whatever ill omen and bad luck, and whatever unpleasant bird's sound, evil planets, upsetting nightmares: by the power of the Dhamma may they be destroyed.**
+
+yan'dunnimittaṃ avamaṅgalañ'ca, yo cāmanāpo sakuṇassa saddo, pāpaggaho dussupinaṃ akantaṃ, saṅgh'ānubhāvena vināsam’entu
+
+**Whatever ill omen and bad luck, and whatever unpleasant bird's sound, evil planets, upsetting nightmares: by the power of the Saṅgha may they be destroyed.**
+
 
 next chant \> [Devatā-uyyojana-gāthā](https://docs.google.com/document/d/1qQEYoxa_oRZmOnsoqttotDXwHXramcSz2taM4FLPRsA/)
