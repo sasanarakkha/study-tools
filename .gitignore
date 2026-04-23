@@ -7,6 +7,10 @@ NOTES.md
 site/
 .venv/
 __pycache__/
+__init__.py
+*.egg-info/
+build/
+dist/
 temp/
 archive/
 dpd_operations.log

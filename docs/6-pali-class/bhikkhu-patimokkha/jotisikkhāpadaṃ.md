@@ -2,23 +2,23 @@
 
 ## yo pana bhikkhu agilāno visibban'āpekkho jotiṃ samādaheyya vā samādahāpeyya vā aññatra tathārūpapaccayā, pācittiyaṃ.
 
-| pāḷi             | pos   | grammar                                | case   | meaning                                                   | meaning_lit           | root                   | base                            | construction          | compound_type      | compound_construction   |
-|:-----------------|:------|:---------------------------------------|:-------|:----------------------------------------------------------|:----------------------|:-----------------------|:--------------------------------|:----------------------|:-------------------|:------------------------|
-| yo               | pron  | masc nom sg of ya                      |        | whichever, whoever                                        |                       |                        |                                 |                       |                    |                         |
-| pana             | ind   |                                        |        | then, now, so, but                                        |                       |                        |                                 |                       |                    |                         |
-| bhikkhu          | noun  | masc nom sg, from bhikkhati, comp      |        | monk, monastic                                            | beggar, mendicant     | √bhikkh (beg)          |                                 | √bhikkh + u           |                    |                         |
-| agilāno          | adj   | masc nom sg of agilāna                 |        | is not ill                                                | not sick              | √gilā (be sick, tired) |                                 | na + √gilā + na       |                    |                         |
-| visibbanāpekkho  | adj   | masc nom sg of visibbanāpekkha, comp   |        | wanting to warm up; wishing to heat oneself up            |                       |                        |                                 | visibbana + apekkha   | locative tappurisa | visibbane + apekkha     |
-| - visibbana      | noun  | nt, from visibbeti                     |        | warming up                                                |                       | √siv (warm)            | siv + *e > sīve > sivve > sibbe | vi + sibbe + ana      |                    |                         |
-| - apekkho        | adj   | masc nom sg of apekkha, from apekkhati | +loc   | seeking, wanting                                          | looking out           | √ikkh (see)            |                                 | apa + √ikkha + a      |                    |                         |
-| jotiṃ            | noun  | fem acc sg of joti                     |        | fire                                                      | light                 | √jut (shine)           |                                 | √jut + *i             |                    |                         |
-| samādaheyya      | verb  | opt 3rd sg of samādahati               |        | he would kindle, make                                     | put together          | √dhā (place, support)  | √dhā + a > daha                 | saṃ + ā + daha + ti   |                    |                         |
-| vā               | ind   | conj                                   |        | or, either or                                             |                       |                        |                                 |                       |                    |                         |
-| samādahāpeyya    | verb  | opt 3rd sg of samādahāpeti             |        | he would cause to kindle                                  | cause to put together | √dhā (place, support)  | √dhā + āpe > dahāpe             | saṃ + ā + dahāpe + ti |                    |                         |
-| vā               | ind   | conj                                   |        | or, either or                                             |                       |                        |                                 |                       |                    |                         |
-| aññatra          | ind   | ind, adv                               | +abl   | apart (from), except (for)                                | other (than)          |                        |                                 | añña + tra            |                    |                         |
-| tathārūpapaccayā | noun  | masc abl sg of tathārūpapaccaya, comp  |        | suitable reason, appropriate cause                        | such form condition   |                        |                                 | tathārūpa + paccaya   | kammadhāraya       | tathārūpa + paccaya     |
-| pācittiyaṃ       | noun  | nt nom sg of pācittiya                 | +loc   | offence requiring confession, offence involving expiation |                       |                        |                                 |                       |                    |                         |
+| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
+| :----------------- | :------ | :--------------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :----------------------- | :-------------------------------- | :---------------------- | :------------------- | :------------------------ |
+| yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
+| pana | ind | | | then, now, so, but | | | | | | |
+| bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
+| agilāno | adj | masc nom sg of agilāna | | is not ill | not sick | √gilā (be sick, tired) | | na + √gilā + na | | |
+| visibbanāpekkho | adj | masc nom sg of visibbanāpekkha, comp | | wanting to warm up; wishing to heat oneself up | | | | visibbana + apekkha | locative tappurisa | visibbane + apekkha |
+| - visibbana | noun | nt, from visibbeti | | warming up | | √siv (warm) | siv + *e > sīve > sivve > sibbe | vi + sibbe + ana | | |
+| - apekkho | adj | masc nom sg of apekkha, from apekkhati | +loc | seeking, wanting | looking out | √ikkh (see) | | apa + √ikkha + a | | |
+| jotiṃ | noun | fem acc sg of joti | | fire | light | √jut (shine) | | √jut + *i | | |
+| samādaheyya | verb | opt 3rd sg of samādahati | | he would kindle, make | put together | √dhā (place, support) | √dhā + a > daha | saṃ + ā + daha + ti | | |
+| vā | ind | conj | | or, either or | | | | | | |
+| samādahāpeyya | verb | opt 3rd sg of samādahāpeti | | he would cause to kindle | cause to put together | √dhā (place, support) | √dhā + āpe > dahāpe | saṃ + ā + dahāpe + ti | | |
+| vā | ind | conj | | or, either or | | | | | | |
+| aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
+| tathārūpapaccayā | noun | masc abl sg of tathārūpapaccaya, comp | | suitable reason, appropriate cause | such form condition | | | tathārūpa + paccaya | kammadhāraya | tathārūpa + paccaya |
+| pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 
 [← previous](bhiṃsāpanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](nahānasikkhāpadaṃ.md)

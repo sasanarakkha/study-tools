@@ -1,70 +1,70 @@
-**Funeral Chants**
+# Funeral Chants
 
 **Paṃsu-Kūla for the Dead**
 
 [DN 16.37]
 
-| aniccā vata saṅkhārā                             |      |             |                                                            |
-|--------------------------------------------------|------|-------------|------------------------------------------------------------|
-| vata                                             | ind  |             | indeed                                                     |
-| aniccā                                           | adj  | masc.nom.pl | not stable; impermanent                                    |
-| saṅkhārā                                         | noun | masc.nom.pl | conditioned things, constructions fabrications, formations |
-| **indeed conditioned things are impermanent**    |      |             |                                                            |
-| uppāda-vaya-dhammino                             |      |             |                                                            |
-| uppāda-                                          | noun |             | rising; coming into existence, appearance                  |
-| vaya-                                            | noun |             | disintegration, decay, disappearance                       |
-| dhammino                                         | adj  | masc.nom.pl | have a nature, quality, characteristic                     |
-| **their nature is appearance and disappearance** |      |             |                                                            |
-| uppajjitvā nirujjhanti                           |      |             |                                                            |
-| uppajjitvā                                       | verb | abs         | having born; arisen, appears                               |
-| nirujjhanti                                      | verb | pr.3.pl     | they cease; dissolve; vanish                               |
-| **having arisen they cease**                     |      |             |                                                            |
-| tesaṃ vūpasamo sukho                             |      |             |                                                            |
-| tesaṃ                                            | pron | masc.gen.pl | of them, their                                             |
-| vūpasamo                                         | noun | masc.nom.s  | subsiding, settling, calming                               |
-| sukho                                            | noun | masc.nom.s  | happiness, comfort, ease                                   |
-| **their settling is happiness**                  |      |             |                                                            |
+| aniccā vata saṅkhārā | | | |
+| -------------------------------------------------- | ------ | ------------- | ------------------------------------------------------------ |
+| vata | ind |  | indeed |
+| aniccā | adj | masc.nom.pl | not stable; impermanent |
+| saṅkhārā | noun | masc.nom.pl | conditioned things, constructions fabrications, formations |
+| **indeed conditioned things are impermanent** | | | |
+| uppāda-vaya-dhammino | | | |
+| uppāda- | noun | | rising; coming into existence, appearance |
+| vaya- | noun | | disintegration, decay, disappearance |
+| dhammino | adj | masc.nom.pl | have a nature, quality, characteristic |
+| **their nature is appearance and disappearance** | | | |
+| uppajjitvā nirujjhanti | | | |
+| uppajjitvā | verb | abs | having born; arisen, appears |
+| nirujjhanti | verb | pr.3.pl | they cease; dissolve; vanish |
+| **having arisen they cease** | | | |
+| tesaṃ vūpasamo sukho | | | |
+| tesaṃ | pron | masc.gen.pl | of them, their |
+| vūpasamo | noun | masc.nom.sg | subsiding, settling, calming |
+| sukho | noun | masc.nom.sg | happiness, comfort, ease |
+| **their settling is happiness** | | | |
 
 ***
 
-| [thai]                                                                                                                          |      |               |                                                |
-|---------------------------------------------------------------------------------------------------------------------------------|------|---------------|------------------------------------------------|
-| sabbe sattā maranti ca mariṃsu ca marissare, tath'ev'āhaṃ marissāmi, n'atthi me ettha saṃsayo                                   |      |               |                                                |
-| sabbe                                                                                                                           | adj  | masc.nom.pl   | all                                            |
-| sattā                                                                                                                           | noun | masc.nom.pl   | living beings                                  |
-| maranti                                                                                                                         | verb | pr.3.pl       | they die, are dying                            |
-| ca                                                                                                                              | ind  |               | and                                            |
-| mariṃsu                                                                                                                         | verb | aor.3.pl      | they died                                      |
-| ca                                                                                                                              | ind  |               | and                                            |
-| marissare                                                                                                                       | verb | fut.refl.3.pl | they will die                                  |
-| tatha'eva-                                                                                                                      | ind  |               | likewise, in the same way, lit. just like this |
-| ahaṃ                                                                                                                            | pron | 1.nom.s       | I                                              |
-| marissāmi                                                                                                                       | verb | fut.1.s       | I will die                                     |
-| n'atthi                                                                                                                         | verb | pr.3.s        | is not, it is not, there is not, there is no   |
-| me                                                                                                                              | pron | 1.dat.s       | for me                                         |
-| ettha                                                                                                                           | ind  |               | here, in this place, in this regard            |
-| saṃsayo                                                                                                                         | noun | masc.nom.s    | doubt, uncertainty                             |
-| **All living beings are dying, have died, and will die. In the same way, I will die. For me there is no doubt in this regard.** |      |               |                                                |
+| [thai] |  |  |  |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- | ------------------------------------------------ |
+| sabbe sattā maranti ca mariṃsu ca marissare, tath'ev'āhaṃ marissāmi, n'atthi me ettha saṃsayo | | | |
+| sabbe | adj | masc.nom.pl | all |
+| sattā | noun | masc.nom.pl | living beings |
+| maranti | verb | pr.3.pl | they die, are dying |
+| ca | ind |  | and |
+| mariṃsu | verb | aor.3.pl | they died |
+| ca | ind |  | and |
+| marissare | verb | fut.refl.3.pl | they will die |
+| tatha'eva- | ind | | likewise, in the same way, lit. just like this |
+| ahaṃ | pron | 1.nom.sg | I |
+| marissāmi | verb | fut.1.sg | I will die |
+| n'atthi | verb | pr.3.sg | is not, it is not, there is not, there is no |
+| me | pron | 1.dat.sg | for me |
+| ettha | ind | | here, in this place, in this regard |
+| saṃsayo | noun | masc.nom.sg | doubt, uncertainty |
+| **All living beings are dying, have died, and will die. In the same way, I will die. For me there is no doubt in this regard.** | | | |
 
 **Paṃsu-Kūla for the Living**
 
 [based on DHP 41]
 
-| aciraṃ vat'ayaṃ kāyo, paṭhaviṃ adhisessati, chuḍḍho apeta-viññāṇo, niratthaṃ va kaliṅgaraṃ                               |      |            |                                         |
-|--------------------------------------------------------------------------------------------------------------------------|------|------------|-----------------------------------------|
-| aciraṃ                                                                                                                   | ind  |            | soon, before long                       |
-| vata-                                                                                                                    | ind  |            | indeed                                  |
-| ayaṃ                                                                                                                     | pron | masc.nom.s | this                                    |
-| kāyo                                                                                                                     | noun | masc.nom.s | body                                    |
-| paṭhaviṃ                                                                                                                 | noun | fem.acc.s  | the ground                              |
-| adhisessati                                                                                                              | verb | fut.3.s    | it will lie                             |
-| chuḍḍho                                                                                                                  | pp   | masc.nom.s | thrown away, discarded, spat out        |
-| apeta-                                                                                                                   | pp   |            | gone away; rid of; without.             |
-| viññāṇo                                                                                                                  | noun | masc.nom.s | consciousness                           |
-| niratthaṃ                                                                                                                | adj  | nt.nom.s   | useless, groundless, unproficient, vain |
-| va                                                                                                                       | ind  |            | like; as                                |
-| kaliṅgaraṃ                                                                                                               | noun | nt.nom.s   | log, rotten piece of wood               |
-| **Indeed soon, this body, will lie on the ground cast off, without consciousness, like a useless rotten piece of wood.** |      |            |                                         |
+| aciraṃ vat'ayaṃ kāyo, paṭhaviṃ adhisessati, chuḍḍho apeta-viññāṇo, niratthaṃ va kaliṅgaraṃ | | | |
+| -------------------------------------------------------------------------------------------------------------------------- | ------ | ------------ | ----------------------------------------- |
+| aciraṃ | ind | | soon, before long |
+| vata- | ind | | indeed |
+| ayaṃ | pron | masc.nom.sg | this |
+| kāyo | noun | masc.nom.sg | body |
+| paṭhaviṃ | noun | fem.acc.sg | the ground |
+| adhisessati | verb | fut.3.sg | it will lie |
+| chuḍḍho | pp | masc.nom.sg | thrown away, discarded, spat out |
+| apeta- | pp | | gone away; rid of; without. |
+| viññāṇo | noun | masc.nom.sg | consciousness |
+| niratthaṃ | adj | nt.nom.sg | useless, groundless, unproficient, vain |
+| va | ind |  | like; as |
+| kaliṅgaraṃ | noun | nt.nom.sg | log, rotten piece of wood |
+| **Indeed soon, this body, will lie on the ground cast off, without consciousness, like a useless rotten piece of wood.** | | | |
 
 next chant in the next chapter \> [Sharing and Aspirations](https://docs.google.com/document/d/1nf7AbjIPgWQUwyaWWImr_0HT-mdMbXE_kiySAyS0RAg/)
 

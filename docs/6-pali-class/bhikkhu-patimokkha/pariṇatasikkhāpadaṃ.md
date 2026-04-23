@@ -2,30 +2,30 @@
 
 ## yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.
 
-| pāḷi                                                                                                                                  | pos   | grammar                           | case   | meaning                                                   | meaning_lit          | root                          | base             | construction            | compound_type   | compound_construction   |
-|:--------------------------------------------------------------------------------------------------------------------------------------|:------|:----------------------------------|:-------|:----------------------------------------------------------|:---------------------|:------------------------------|:-----------------|:------------------------|:----------------|:------------------------|
-| yo                                                                                                                                    | pron  | masc nom sg of ya                 |        | whichever, whoever                                        |                      |                               |                  |                         |                 |                         |
-| pana                                                                                                                                  | ind   |                                   |        | then, now, so, but                                        |                      |                               |                  |                         |                 |                         |
-| bhikkhu                                                                                                                               | noun  | masc nom sg, from bhikkhati, comp |        | monk, monastic                                            | beggar, mendicant    | √bhikkh (beg)                 |                  | √bhikkh + u             |                 |                         |
-| jānaṃ                                                                                                                                 | ind   | adv, from jānanta                 |        | knowingly, consciously, wittingly                         | knowing              | √ñā (know)                    | √ñā + nā > jānā  | jānā + aṃ               |                 |                         |
-| saṅghikaṃ                                                                                                                             | adj   | masc acc sg of saṅghika           |        | belonging to the community                                | related to community | √ghaṭ (join together)         |                  | saṃ + √ghaṭ + a + ika   |                 |                         |
-| lābhaṃ                                                                                                                                | noun  | masc acc sg of lābha              |        | gain, acquisition                                         | get                  | √labh (get)                   |                  | √labh + *a              |                 |                         |
-| pariṇataṃ                                                                                                                             | adj   | masc acc sg of pariṇata           |        | destined for, allocated                                   | bent completely      | √nam (bend)                   |                  | pari + √nam + ta        |                 |                         |
-| attano                                                                                                                                | noun  | masc dat sg of atta               |        | for oneself                                               |                      |                               |                  |                         |                 |                         |
-| pariṇāmeyya                                                                                                                           | verb  | opt 3rd sg of pariṇāmeti          |        | he would appropriate, transfer                            | cause to bend        | √nam (bend)                   | √nam + *e > ṇāme | pari + ṇāme + ti        |                 |                         |
-| nissaggiyaṃ                                                                                                                           | ptp   | nt nom sg of nissaggiya, comp     |        | involving relinquishment                                  | to be given up       | √sajj (relinquish, let loose) |                  | ni + √sajj > sagg + iya |                 |                         |
-| pācittiyaṃ                                                                                                                            | noun  | nt nom sg of pācittiya            | +loc   | offence requiring confession, offence involving expiation |                      |                               |                  |                         |                 |                         |
-| If any monk would knowingly divert to himself a community-allocated gain, this is an offence requiring relinquishment and confession. |       |                                   |        |                                                           |                      |                               |                  |                         |                 |                         |
+| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :--------------------- | :------------------------------ | :----------------- | :------------------------ | :---------------- | :------------------------ |
+| yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
+| pana | ind | | | then, now, so, but | | | | | | |
+| bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
+| jānaṃ | ind | adv, from jānanta | | knowingly, consciously, wittingly | knowing | √ñā (know) | √ñā + nā > jānā | jānā + aṃ | | |
+| saṅghikaṃ | adj | masc acc sg of saṅghika | | belonging to the community | related to community | √ghaṭ (join together) | | saṃ + √ghaṭ + a + ika | | |
+| lābhaṃ | noun | masc acc sg of lābha | | gain, acquisition | get | √labh (get) | | √labh + *a | | |
+| pariṇataṃ | adj | masc acc sg of pariṇata | | destined for, allocated | bent completely | √nam (bend) | | pari + √nam + ta | | |
+| attano | noun | masc dat sg of atta |  | for oneself |  |  |  |  |  |  |
+| pariṇāmeyya | verb | opt 3rd sg of pariṇāmeti | | he would appropriate, transfer | cause to bend | √nam (bend) | √nam + *e > ṇāme | pari + ṇāme + ti | | |
+| nissaggiyaṃ | ptp | nt nom sg of nissaggiya, comp | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
+| pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+| If any monk would knowingly divert to himself a community-allocated gain, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 ## pattavaggo tatiyo.
 
-| pāḷi                             | pos   | grammar                         | case   | meaning             | meaning_lit   | root        | base   | construction   | compound_type   | compound_construction   |
-|:---------------------------------|:------|:--------------------------------|:-------|:--------------------|:--------------|:------------|:-------|:---------------|:----------------|:------------------------|
-| pattavaggo                       | noun  | comp, masc nom sg of pattavagga |        | chapter about bowls |               |             |        | patta + vagga  | kammadhāraya    | patta + vagga           |
-| - patta 2                        | noun  | masc                            |        | bowl                |               | √pā (drink) |        | √pā + ta       |                 |                         |
-| - vaggo                          | noun  | masc nom sg of vagga            |        | chapter; section    | division      |             |        | vi + agga      |                 |                         |
-| tatiyo                           | ordin | masc nom sg of tatiya           |        | third               |               |             |        | ti > ta + tiya |                 |                         |
-| The chapter about bowls is third |       |                                 |        |                     |               |             |        |                |                 |                         |
+| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
+| :--------------------------------- | :------ | :-------------------------------- | :------- | :-------------------- | :-------------- | :------------ | :------- | :--------------- | :---------------- | :------------------------ |
+| pattavaggo | noun | comp, masc nom sg of pattavagga | | chapter about bowls | | | | patta + vagga | kammadhāraya | patta + vagga |
+| - patta 2 | noun | masc | | bowl | | √pā (drink) | | √pā + ta | | |
+| - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
+| tatiyo | ordin | masc nom sg of tatiya | | third | | | | ti > ta + tiya | | |
+| The chapter about bowls is third |  |  |  |  |  |  |  |  |  |  |
 
 
 [← previous](sāsaṅkasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](pācittiyā.md)

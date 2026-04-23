@@ -12,7 +12,7 @@ or by commenting directly in this document
 
 ***
 
-# 
+
 
 # List of literature used in compiling this work
 
@@ -68,7 +68,7 @@ or by commenting directly in this document
 
 ***
 
-# 
+
 
 # Table of Contents
 
@@ -260,7 +260,7 @@ or by commenting directly in this document
 
 ***
 
-# 
+
 
 # Class 30
 
@@ -278,17 +278,17 @@ Here there are few others similar to *atta group* but slightly different:
 
 -   brahmā masc
 
-|              | **masc sg**                    | **masc pl**                    |
-|--------------|--------------------------------|--------------------------------|
-| **nom**      | **brahmā**                     | **brahmā**<br>**brahmāno**     |
-| **acc**      | **brahmaṃ**<br>**brahmānaṃ**   | **brahmāno**                   |
-| **instr**    | **brahmunā**                   | **brahmūhi**<br>**brahmehi**   |
-| **dat**      | **brahmassa**<br>**brahmuno**  | **brahmānaṃ**<br>**brahmūnaṃ** |
-| **abl**      | **brahmunā**                   | **brahmūhi**<br>**brahmehi**   |
-| **gen**      | **brahmassa**<br>**brahmuno**  | **brahmānaṃ**<br>**brahmūnaṃ** |
-| **loc**      | **brahmani**<br>**brahmasmiṃ** | **brahmesu**                   |
-| **voc**      | **brahma**<br>**brahme**       | **brahmāno**                   |
-| **in comps** | **brahma**                     |                                |
+| | **masc sg** | **masc pl** |
+| -------------- | -------------------------------- | -------------------------------- |
+| **nom** | **brahmā** | **brahmā**<br>**brahmāno** |
+| **acc** | **brahmaṃ**<br>**brahmānaṃ** | **brahmāno** |
+| **instr** | **brahmunā** | **brahmūhi**<br>**brahmehi** |
+| **dat** | **brahmassa**<br>**brahmuno** | **brahmānaṃ**<br>**brahmūnaṃ** |
+| **abl** | **brahmunā** | **brahmūhi**<br>**brahmehi** |
+| **gen** | **brahmassa**<br>**brahmuno** | **brahmānaṃ**<br>**brahmūnaṃ** |
+| **loc** | **brahmani**<br>**brahmasmiṃ** | **brahmesu** |
+| **voc** | **brahma**<br>**brahme** | **brahmāno** |
+| **in comps** | **brahma** | |
 
 ***
 
@@ -298,17 +298,17 @@ Here there are few others similar to *atta group* but slightly different:
 
 ***
 
-|              | **masc sg**                | **masc pl**                     |
-|--------------|----------------------------|---------------------------------|
-| **nom**      | **addhā**                  | **addhā**<br>**addhāno**        |
-| **acc**      | **addhaṃ**<br>**addhānaṃ** | **addhāne**<br>**addhāno**      |
-| **instr**    | **addhunā**<br>**addhena** | **addhānebhi**<br>**addhānehi** |
-| **dat**      | **addhuno**                | **addhānaṃ**                    |
-| **abl**      | **addhunā**                | **addhānebhi**<br>**addhānehi** |
-| **gen**      | **addhuno**                | **addhānaṃ**                    |
-| **loc**      | **addhani**<br>**addhāne** | **addhanesu**                   |
-| **voc**      | **addha**<br>**addhā**     | **addhāno**                     |
-| **in comps** | **addha**                  |                                 |
+| | **masc sg** | **masc pl** |
+| -------------- | ---------------------------- | --------------------------------- |
+| **nom** | **addhā** | **addhā**<br>**addhāno** |
+| **acc** | **addhaṃ**<br>**addhānaṃ** | **addhāne**<br>**addhāno** |
+| **instr** | **addhunā**<br>**addhena** | **addhānebhi**<br>**addhānehi** |
+| **dat** | **addhuno** | **addhānaṃ** |
+| **abl** | **addhunā** | **addhānebhi**<br>**addhānehi** |
+| **gen** | **addhuno** | **addhānaṃ** |
+| **loc** | **addhani**<br>**addhāne** | **addhanesu** |
+| **voc** | **addha**<br>**addhā** | **addhāno** |
+| **in comps** | **addha** | |
 
 ***
 
@@ -318,15 +318,15 @@ Here there are few others similar to *atta group* but slightly different:
 
 ***
 
-|           | **masc sg**                             | **masc pl**  |
-|-----------|-----------------------------------------|--------------|
-| **nom**   | **yuvā**                                | **yuvāno**   |
-| **acc**   | **yuvanaṃ**<br>**yuvaṃ**<br>**yuvānaṃ** | **yuvāno**   |
-| **instr** | **yuvanā**<br>**yuvena**                | **yuvanehi** |
-| **dat**   | **yuvano**                              | **yuvānaṃ**  |
-| **abl**   | **yuvanā**                              | **yuvanehi** |
-| **gen**   | **yuvassa**<br>**yuvino**               | **yuvānaṃ**  |
-| **loc**   | **yuvani**                              | **yuvanesu** |
+| | **masc sg** | **masc pl** |
+| ----------- | ----------------------------------------- | -------------- |
+| **nom** | **yuvā** | **yuvāno** |
+| **acc** | **yuvanaṃ**<br>**yuvaṃ**<br>**yuvānaṃ** | **yuvāno** |
+| **instr** | **yuvanā**<br>**yuvena** | **yuvanehi** |
+| **dat** | **yuvano** | **yuvānaṃ** |
+| **abl** | **yuvanā** | **yuvanehi** |
+| **gen** | **yuvassa**<br>**yuvino** | **yuvānaṃ** |
+| **loc** | **yuvani** | **yuvanesu** |
 
 ***
 
@@ -334,58 +334,58 @@ Here there are few others similar to *atta group* but slightly different:
 
 ***
 
-|             | **sg**                  | **pl**         | **reflexive sg**           | **reflexive pl**             |
-|-------------|-------------------------|----------------|----------------------------|------------------------------|
-| **pr 3rd**  | **karoti**              | **karonti**    | **kurute**                 | **kurunte**                  |
-| **pr 2nd**  | **karosi**              | **karotha**    | **kuruse**                 | **kuruvhe**                  |
-| **pr 1st**  | **karomi**              | **karoma**     | **kare**                   | **kurumhe**                  |
-| **imp 3rd** | **karotu**              | **karontu**    | **kurutaṃ**                | **kuruntaṃ**                 |
-| **imp 2nd** | **karohi**              | **karotha**    | **karassu**<br>**kurussu** | **kuruvho**                  |
-| **imp 1st** | **karomi**              | **karoma**     | **kare**                   | **karomasi**<br>**karomase** |
-| **opt 3rd** | **kare**<br>**kareyya** | **kareyyuṃ**   | **kayirātha**              |                              |
-| **opt 2nd** | **kareyyāsi**           | **kareyyātha** |                            |                              |
-| **opt 1st** | **kareyyāmi**           | **kareyyāma**  | **kare**<br>**kareyyaṃ**   | **kareyyāmhe**               |
-| **fut 3rd** | **karissati**           | **karissanti** | **karissate**              | **karissante**               |
-| **fut 2nd** | **karissasi**           | **karissatha** | **karissase**              | **karissavhe**               |
-| **fut 1st** | **karissāmi**           | **karissāma**  | **karissaṃ**               | **karissāmhe**               |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------- | ---------------- | ---------------------------- | ------------------------------ |
+| **pr 3rd** | **karoti** | **karonti** | **kurute** | **kurunte** |
+| **pr 2nd** | **karosi** | **karotha** | **kuruse** | **kuruvhe** |
+| **pr 1st** | **karomi** | **karoma** | **kare** | **kurumhe** |
+| **imp 3rd** | **karotu** | **karontu** | **kurutaṃ** | **kuruntaṃ** |
+| **imp 2nd** | **karohi** | **karotha** | **karassu**<br>**kurussu** | **kuruvho** |
+| **imp 1st** | **karomi** | **karoma** | **kare** | **karomasi**<br>**karomase** |
+| **opt 3rd** | **kare**<br>**kareyya** | **kareyyuṃ** | **kayirātha** | |
+| **opt 2nd** | **kareyyāsi** | **kareyyātha** | | |
+| **opt 1st** | **kareyyāmi** | **kareyyāma** | **kare**<br>**kareyyaṃ** | **kareyyāmhe** |
+| **fut 3rd** | **karissati** | **karissanti** | **karissate** | **karissante** |
+| **fut 2nd** | **karissasi** | **karissatha** | **karissase** | **karissavhe** |
+| **fut 1st** | **karissāmi** | **karissāma** | **karissaṃ** | **karissāmhe** |
 
 ***
 
-|             | **sg**                                   | **pl**                                       | **reflexive sg** | **reflexive pl** |
-|-------------|------------------------------------------|----------------------------------------------|------------------|------------------|
-| **pr 3rd**  | **kubbati**                              | **kubbanti**                                 | **kubbate**      | **kubbante**     |
-| **pr 2nd**  | **kubbasi**                              | **kubbatha**                                 | **kubbase**      | **kubbavhe**     |
-| **pr 1st**  | **kubbāmi**                              | **kubbāma**                                  | **kubbe**        | **kubbamhe**     |
-| **imp 3rd** | **karotu**<br>**kubbatu**                | **karontu**<br>**kubbantu**                  | **kubbataṃ**     | **kubbantaṃ**    |
-| **imp 2nd** | **kubbāhi**                              | **kubbatha**                                 | **kubbassu**     | **kubbavho**     |
-| **imp 1st** | **kubbāmi**                              | **kubbāma**                                  | **kubbe**        | **kubbāmase**    |
-| **opt 3rd** | **kubbaye**<br>**kubbe**<br>**kubbeyya** | **kayiruṃ**<br>**kareyyuṃ**<br>**kubbeyyuṃ** | **kubbetha**     | **kubberaṃ**     |
-| **opt 2nd** | **kubbeyyāsi**                           | **kubeyyātha**                               | **kubbetho**     | **kubbeyyavho**  |
-| **opt 1st** | **kubeyyāmi**                            | **kubeyyāma**                                | **kubbeyyaṃ**    | **kubbeyyāmhe**  |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------------------------ | ---------------------------------------------- | ------------------ | ------------------ |
+| **pr 3rd** | **kubbati** | **kubbanti** | **kubbate** | **kubbante** |
+| **pr 2nd** | **kubbasi** | **kubbatha** | **kubbase** | **kubbavhe** |
+| **pr 1st** | **kubbāmi** | **kubbāma** | **kubbe** | **kubbamhe** |
+| **imp 3rd** | **karotu**<br>**kubbatu** | **karontu**<br>**kubbantu** | **kubbataṃ** | **kubbantaṃ** |
+| **imp 2nd** | **kubbāhi** | **kubbatha** | **kubbassu** | **kubbavho** |
+| **imp 1st** | **kubbāmi** | **kubbāma** | **kubbe** | **kubbāmase** |
+| **opt 3rd** | **kubbaye**<br>**kubbe**<br>**kubbeyya** | **kayiruṃ**<br>**kareyyuṃ**<br>**kubbeyyuṃ** | **kubbetha** | **kubberaṃ** |
+| **opt 2nd** | **kubbeyyāsi** | **kubeyyātha** | **kubbetho** | **kubbeyyavho** |
+| **opt 1st** | **kubeyyāmi** | **kubeyyāma** | **kubbeyyaṃ** | **kubbeyyāmhe** |
 
 ***
 
-|             | **sg**               | **pl**                                                   | **reflexive sg** | **reflexive pl** |
-|-------------|----------------------|----------------------------------------------------------|------------------|------------------|
-| **aor 3rd** | **kari**<br>**karī** | **kariṃsu**<br>**karuṃ**<br>**kaṃsu**<br>**kaṃsuṃ**      | **karā**         | **karū**         |
-| **aor 2nd** | **kari**<br>**karo** | **karittha**                                             | **karuse**       | **karivhaṃ**     |
-| **aor 1st** | **kariṃ**            | **karamha**<br>**karamhā**<br>**karimha**<br>**karimhā** | **karaṃ**        | **karimhe**      |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------- | ---------------------------------------------------------- | ------------------ | ------------------ |
+| **aor 3rd** | **kari**<br>**karī** | **kariṃsu**<br>**karuṃ**<br>**kaṃsu**<br>**kaṃsuṃ** | **karā** | **karū** |
+| **aor 2nd** | **kari**<br>**karo** | **karittha** | **karuse** | **karivhaṃ** |
+| **aor 1st** | **kariṃ** | **karamha**<br>**karamhā**<br>**karimha**<br>**karimhā** | **karaṃ** | **karimhe** |
 
 ***
 
-|                | **sg**              | **pl**                         | **reflexive sg**           | **reflexive pl** |
-|----------------|---------------------|--------------------------------|----------------------------|------------------|
-| **imperf 3rd** | ak**ā**             | ak**u**<br>ak**uṃ**<br>ak**ū** | ak**attha**<br>ak**atthu** | ak**atthuṃ**     |
-| **imperf 2nd** | ak**a**<br>ak**o**  | ak**attha**                    | ak**ase**                  | ak**avhaṃ**      |
-| **imperf 1st** | ak**a**<br>ak**aṃ** | ak**amha**<br>ak**amhā**       | ak**iṃ**                   | ak**amhase**     |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ---------------- | --------------------- | -------------------------------- | ---------------------------- | ------------------ |
+| **imperf 3rd** | ak**ā** | ak**u**<br>ak**uṃ**<br>ak**ū** | ak**attha**<br>ak**atthu** | ak**atthuṃ** |
+| **imperf 2nd** | ak**a**<br>ak**o** | ak**attha** | ak**ase** | ak**avhaṃ** |
+| **imperf 1st** | ak**a**<br>ak**aṃ** | ak**amha**<br>ak**amhā** | ak**iṃ** | ak**amhase** |
 
 ***
 
-|              | **sg**                       | **pl**                                                | **reflexive sg** | **reflexive pl**  |
-|--------------|------------------------------|-------------------------------------------------------|------------------|-------------------|
-| **cond 3rd** | akar**issa**<br>akar**issā** | akar**issaṃsu**<br>akar**issiṃsu**                    | akar**issatha**  | akar**issisu**    |
-| **cond 2nd** | akar**issa**<br>akar**isse** | akar**issatha**                                       | akar**issase**   | akar**issavhe**   |
-| **cond 1st** | akar**issaṃ**                | akar**issamha**<br>akar**issamhā**<br>akar**issāmhā** | akar**issiṃ**    | akar**issāmhase** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| -------------- | ------------------------------ | ------------------------------------------------------- | ------------------ | ------------------- |
+| **cond 3rd** | akar**issa**<br>akar**issā** | akar**issaṃsu**<br>akar**issiṃsu** | akar**issatha** | akar**issisu** |
+| **cond 2nd** | akar**issa**<br>akar**isse** | akar**issatha** | akar**issase** | akar**issavhe** |
+| **cond 1st** | akar**issaṃ** | akar**issamha**<br>akar**issamhā**<br>akar**issāmhā** | akar**issiṃ** | akar**issāmhase** |
 
 # Class 31
 
@@ -399,33 +399,33 @@ Here there are few others similar to *atta group* but slightly different:
 
 ***
 
-|              | **masc sg**                                           | **masc pl**                               |
-|--------------|-------------------------------------------------------|-------------------------------------------|
-| **nom**      | **santo**<br>**saṃ**                                  | **santā**<br>**santo**                    |
-| **acc**      | **sataṃ**<br>**santaṃ**<br>**saṃ**                    | **sante**                                 |
-| **instr**    | **satā**<br>**santena**                               | **santebhi**<br>**santehi**<br>**sabbhi** |
-| **dat**      | **sato**<br>**santassa**                              | **sataṃ**<br>**satānaṃ**<br>**santānaṃ**  |
-| **abl**      | **satā**<br>**santamhā**<br>**santasmā**<br>**santā** | **santebhi**<br>**santehi**<br>**sabbhi** |
-| **gen**      | **sato**<br>**santassa**                              | **sataṃ**<br>**satānaṃ**<br>**santānaṃ**  |
-| **loc**      | **santamhi**<br>**santasmiṃ**<br>**sante**            | **santesu**                               |
-| **voc**      | **santa**                                             | **santā**<br>**santo**                    |
-| **in comps** | **santa**                                             |                                           |
+| | **masc sg** | **masc pl** |
+| -------------- | ------------------------------------------------------- | ------------------------------------------- |
+| **nom** | **santo**<br>**saṃ** | **santā**<br>**santo** |
+| **acc** | **sataṃ**<br>**santaṃ**<br>**saṃ** | **sante** |
+| **instr** | **satā**<br>**santena** | **santebhi**<br>**santehi**<br>**sabbhi** |
+| **dat** | **sato**<br>**santassa** | **sataṃ**<br>**satānaṃ**<br>**santānaṃ** |
+| **abl** | **satā**<br>**santamhā**<br>**santasmā**<br>**santā** | **santebhi**<br>**santehi**<br>**sabbhi** |
+| **gen** | **sato**<br>**santassa** | **sataṃ**<br>**satānaṃ**<br>**santānaṃ** |
+| **loc** | **santamhi**<br>**santasmiṃ**<br>**sante** | **santesu** |
+| **voc** | **santa** | **santā**<br>**santo** |
+| **in comps** | **santa** | |
 
 ***
 
 -   bhavant masc
 
-|              | **masc sg**                                                        | **masc pl**                                |
-|--------------|--------------------------------------------------------------------|--------------------------------------------|
-| **nom**      | **bhavaṃ**<br>**bho**                                              | **bhavantā**<br>**bhavanto**<br>**bhonto** |
-| **acc**      | **bhavantaṃ**                                                      | **bhavante**                               |
-| **instr**    | **bhavatā**<br>**bhavantena**<br>**bhotā**                         | **bhavantebhi**<br>**bhavantehi**          |
-| **dat**      | **bhavato**<br>**bhavantassa**<br>**bhoto**                        | **bhavataṃ**<br>**bhavantānaṃ**            |
-| **abl**      | **bhavatā**<br>**bhotā**                                           | **bhavantebhi**<br>**bhavantehi**          |
-| **gen**      | **bhavato**<br>**bhavantassa**<br>**bhoto**                        | **bhavataṃ**<br>**bhavantānaṃ**            |
-| **loc**      | **bhavati**<br>**bhavantamhi**<br>**bhavantasmiṃ**<br>**bhavante** | **bhavantesu**                             |
-| **voc**      | **bhante**<br>**bho**                                              | **bhavanto**<br>**bhonto**                 |
-| **in comps** | **bhavanta**                                                       |                                            |
+| | **masc sg** | **masc pl** |
+| -------------- | -------------------------------------------------------------------- | -------------------------------------------- |
+| **nom** | **bhavaṃ**<br>**bho** | **bhavantā**<br>**bhavanto**<br>**bhonto** |
+| **acc** | **bhavantaṃ** | **bhavante** |
+| **instr** | **bhavatā**<br>**bhavantena**<br>**bhotā** | **bhavantebhi**<br>**bhavantehi** |
+| **dat** | **bhavato**<br>**bhavantassa**<br>**bhoto** | **bhavataṃ**<br>**bhavantānaṃ** |
+| **abl** | **bhavatā**<br>**bhotā** | **bhavantebhi**<br>**bhavantehi** |
+| **gen** | **bhavato**<br>**bhavantassa**<br>**bhoto** | **bhavataṃ**<br>**bhavantānaṃ** |
+| **loc** | **bhavati**<br>**bhavantamhi**<br>**bhavantasmiṃ**<br>**bhavante** | **bhavantesu** |
+| **voc** | **bhante**<br>**bho** | **bhavanto**<br>**bhonto** |
+| **in comps** | **bhavanta** | |
 
 ***
 
@@ -463,46 +463,46 @@ yo pana bhikkhu, otiṇṇo vipariṇatena cittena, **mātugāmena** saddhiṃ k
 
 ***
 
-|             | **sg**   | **pl**    |
-|-------------|----------|-----------|
-| **pr 3rd**  | **hoti** | **honti** |
-| **pr 2nd**  | **hosi** | **hotha** |
-| **pr 1st**  | **homi** | **homa**  |
+| | **sg** | **pl** |
+| ------------- | ---------- | ----------- |
+| **pr 3rd** | **hoti** | **honti** |
+| **pr 2nd** | **hosi** | **hotha** |
+| **pr 1st** | **homi** | **homa** |
 | **imp 3rd** | **hotu** | **hontu** |
 | **imp 2nd** | **hohi** | **hotha** |
-| **imp 1st** | **homi** | **homa**  |
+| **imp 1st** | **homi** | **homa** |
 
 ***
 
-|             | **sg**                    | **pl**                                    | **reflexive sg** | **reflexive pl**                 |
-|-------------|---------------------------|-------------------------------------------|------------------|----------------------------------|
-| **opt 3rd** | huv**e**<br>huv**eyya**   | huv**eyyuṃ**                              | huv**etha**      | huv**eraṃ**                      |
-| **opt 2nd** | huv**e**<br>huv**eyyāsi** | huv**etha**<br>huv**eyyātha**             | huv**etho**      | huv**eyyavho**<br>huv**eyyāvho** |
-| **opt 1st** | huv**e**<br>huv**eyyāmi** | huv**ema**<br>huv**emu**<br>huv**eyyāma** | huv**eyyaṃ**     | huv**eyyāmhe**                   |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | --------------------------- | ------------------------------------------- | ------------------ | ---------------------------------- |
+| **opt 3rd** | huv**e**<br>huv**eyya** | huv**eyyuṃ** | huv**etha** | huv**eraṃ** |
+| **opt 2nd** | huv**e**<br>huv**eyyāsi** | huv**etha**<br>huv**eyyātha** | huv**etho** | huv**eyyavho**<br>huv**eyyāvho** |
+| **opt 1st** | huv**e**<br>huv**eyyāmi** | huv**ema**<br>huv**emu**<br>huv**eyyāma** | huv**eyyaṃ** | huv**eyyāmhe** |
 
 ***
 
-|             | **sg**                                 | **pl**                                                                   | **reflexive sg**                  | **reflexive pl** |
-|-------------|----------------------------------------|--------------------------------------------------------------------------|-----------------------------------|------------------|
-| **aor 3rd** | a**hu**<br>a**hosi**                   | a**huṃ**<br>a**hesuṃ**                                                   | a**huvā**                         | a**huvu**        |
-| **aor 2nd** | a**huvo**<br>a**hosi**                 | a**huvattha**<br>a**hosittha**                                           | a**huvase**                       | a**huvivhaṃ**    |
-| **aor 1st** | a**huvāsiṃ**<br>a**huṃ**<br>a**hosiṃ** | a**humha**<br>a**humhā**<br>a**huvamhā**<br>a**hesumha**<br>a**hosimha** | a**hu**<br>a**huvaṃ**<br>a**huṃ** | a**huvimhe**     |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------- | ------------------ |
+| **aor 3rd** | a**hu**<br>a**hosi** | a**huṃ**<br>a**hesuṃ** | a**huvā** | a**huvu** |
+| **aor 2nd** | a**huvo**<br>a**hosi** | a**huvattha**<br>a**hosittha** | a**huvase** | a**huvivhaṃ** |
+| **aor 1st** | a**huvāsiṃ**<br>a**huṃ**<br>a**hosiṃ** | a**humha**<br>a**humhā**<br>a**huvamhā**<br>a**hesumha**<br>a**hosimha** | a**hu**<br>a**huvaṃ**<br>a**huṃ** | a**huvimhe** |
 
 ***
 
-|                | **sg**                  | **pl**                               | **reflexive sg**               | **reflexive pl** |
-|----------------|-------------------------|--------------------------------------|--------------------------------|------------------|
-| **imperf 3rd** | ahuv**ā**               | ahuv**u**<br>ahuv**uṃ**<br>ahuv**ū** | ahuv**attha**<br>ahuv**atthu** | ahuv**atthuṃ**   |
-| **imperf 2nd** | ahuv**a**<br>ahuv**o**  | ahuv**attha**                        | ahuv**ase**                    | ahuv**avhaṃ**    |
-| **imperf 1st** | ahuv**a**<br>ahuv**aṃ** | ahuv**amha**<br>ahuv**amhā**         | ahuv**iṃ**                     | ahuv**amhase**   |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ---------------- | ------------------------- | -------------------------------------- | -------------------------------- | ------------------ |
+| **imperf 3rd** | ahuv**ā** | ahuv**u**<br>ahuv**uṃ**<br>ahuv**ū** | ahuv**attha**<br>ahuv**atthu** | ahuv**atthuṃ** |
+| **imperf 2nd** | ahuv**a**<br>ahuv**o** | ahuv**attha** | ahuv**ase** | ahuv**avhaṃ** |
+| **imperf 1st** | ahuv**a**<br>ahuv**aṃ** | ahuv**amha**<br>ahuv**amhā** | ahuv**iṃ** | ahuv**amhase** |
 
 ***
 
-|             | **sg**      | **pl**       | **reflexive sg** | **reflexive pl**              |
-|-------------|-------------|--------------|------------------|-------------------------------|
-| **fut 3rd** | hess**ati** | hess**anti** | hess**ate**      | hess**ante**                  |
-| **fut 2nd** | hess**asi** | hess**atha** | hess**ase**      | hess**avhe**                  |
-| **fut 1st** | hess**āmi** | hess**āma**  | hess**aṃ**       | hess**āmase**<br>hess**āmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------- | -------------- | ------------------ | ------------------------------- |
+| **fut 3rd** | hess**ati** | hess**anti** | hess**ate** | hess**ante** |
+| **fut 2nd** | hess**asi** | hess**atha** | hess**ase** | hess**avhe** |
+| **fut 1st** | hess**āmi** | hess**āma** | hess**aṃ** | hess**āmase**<br>hess**āmhe** |
 
 ***
 
@@ -518,17 +518,17 @@ yo pana bhikkhu, otiṇṇo vipariṇatena cittena, **mātugāmena** saddhiṃ k
 
 ***
 
-|              | **masc sg**                                                        | **masc pl**                     |
-|--------------|--------------------------------------------------------------------|---------------------------------|
-| **nom**      | **arahanto**<br>**arahaṃ**<br>**arahā**                            | **arahantā**<br>**arahanto**    |
-| **acc**      | **arahantaṃ**                                                      | **arahante**                    |
-| **instr**    | **arahatā**<br>**arahantena**                                      | **arahantehi**                  |
-| **dat**      | **arahato**                                                        | **arahataṃ**<br>**arahantānaṃ** |
-| **abl**      | **arahatā**<br>**arahantamhā**<br>**arahantasmā**                  | **arahantehi**                  |
-| **gen**      | **arahato**<br>**arahantassa**                                     | **arahataṃ**<br>**arahantānaṃ** |
-| **loc**      | **arahati**<br>**arahantamhi**<br>**arahantasmiṃ**<br>**arahante** | **arahantesu**                  |
-| **voc**      | **arahā**                                                          | **arahanto**                    |
-| **in comps** | **arahanta**                                                       |                                 |
+| | **masc sg** | **masc pl** |
+| -------------- | -------------------------------------------------------------------- | --------------------------------- |
+| **nom** | **arahanto**<br>**arahaṃ**<br>**arahā** | **arahantā**<br>**arahanto** |
+| **acc** | **arahantaṃ** | **arahante** |
+| **instr** | **arahatā**<br>**arahantena** | **arahantehi** |
+| **dat** | **arahato** | **arahataṃ**<br>**arahantānaṃ** |
+| **abl** | **arahatā**<br>**arahantamhā**<br>**arahantasmā** | **arahantehi** |
+| **gen** | **arahato**<br>**arahantassa** | **arahataṃ**<br>**arahantānaṃ** |
+| **loc** | **arahati**<br>**arahantamhi**<br>**arahantasmiṃ**<br>**arahante** | **arahantesu** |
+| **voc** | **arahā** | **arahanto** |
+| **in comps** | **arahanta** | |
 
 ***
 
@@ -536,17 +536,17 @@ yo pana bhikkhu, otiṇṇo vipariṇatena cittena, **mātugāmena** saddhiṃ k
 
 ***
 
-|              | **masc sg**                                                    | **masc pl**                   | **fem sg**                                                       | **fem pl**                      | **neut sg**               | **neut pl**    |
-|--------------|----------------------------------------------------------------|-------------------------------|------------------------------------------------------------------|---------------------------------|---------------------------|----------------|
-| **nom**      | mah**anto**<br>mah**aṃ**<br>mah**ā**                           | mah**antā**<br>mah**anto**    | mah**atī**<br>mah**antī**                                        | mah**atiyo**<br>mah**antiyo**   | mah**antaṃ**<br>mah**aṃ** | mah**antāni**  |
-| **acc**      | mah**antaṃ**                                                   | mah**ante**<br>mah**anto**    | mah**atiṃ**<br>mah**antiṃ**                                      | mah**atiyo**<br>mah**antiyo**   | mah**antaṃ**<br>mah**aṃ** | mah**antāni**  |
-| **instr**    | mah**atā**<br>mah**antena**                                    | mah**antehi**                 | mah**atiyā**<br>mah**antāya**<br>mah**antiyā**                   | mah**atīhi**<br>mah**antīhi**   | mah**atā**                | mah**antehi**  |
-| **dat**      | mah**ato**                                                     | mah**ataṃ**<br>mah**antānaṃ** | mah**atiyā**<br>mah**antāya**<br>mah**antiyā**                   | mah**atīnaṃ**<br>mah**antīnaṃ** | mah**ato**                | mah**antānaṃ** |
-| **abl**      | mah**atā**<br>mah**antamhā**<br>mah**antasmā**                 | mah**antehi**                 | mah**atiyā**<br>mah**antāya**<br>mah**antiyā**                   | mah**atīhi**<br>mah**antīhi**   | mah**atā**                | mah**antehi**  |
-| **gen**      | mah**ato**<br>mah**antassa**                                   | mah**ataṃ**<br>mah**antānaṃ** | mah**atiyā**<br>mah**antāya**<br>mah**antiyā**                   | mah**atīnaṃ**<br>mah**antīnaṃ** | mah**ato**                | mah**antānaṃ** |
-| **loc**      | mah**ati**<br>mah**antamhi**<br>mah**antasmiṃ**<br>mah**ante** | mah**antesu**                 | mah**atiyaṃ**<br>mah**atiyā**<br>mah**antiyaṃ**<br>mah**antiyā** | mah**atīsu**<br>mah**antīsu**   | mah**ati**                | mah**antesu**  |
-| **voc**      | mah**a**<br>mah**ā**                                           | mah**anto**                   | mah**atī**<br>mah**antī**                                        | mah**atiyo**<br>mah**antiyo**   | mah**a**<br>mah**aṃ**     | mah**antāni**  |
-| **in comps** | mah**ā**                                                       |                               |                                                                  |                                 |                           |                |
+| | **masc sg** | **masc pl** | **fem sg** | **fem pl** | **neut sg** | **neut pl** |
+| -------------- | ---------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------ | --------------------------------- | --------------------------- | ---------------- |
+| **nom** | mah**anto**<br>mah**aṃ**<br>mah**ā** | mah**antā**<br>mah**anto** | mah**atī**<br>mah**antī** | mah**atiyo**<br>mah**antiyo** | mah**antaṃ**<br>mah**aṃ** | mah**antāni** |
+| **acc** | mah**antaṃ** | mah**ante**<br>mah**anto** | mah**atiṃ**<br>mah**antiṃ** | mah**atiyo**<br>mah**antiyo** | mah**antaṃ**<br>mah**aṃ** | mah**antāni** |
+| **instr** | mah**atā**<br>mah**antena** | mah**antehi** | mah**atiyā**<br>mah**antāya**<br>mah**antiyā** | mah**atīhi**<br>mah**antīhi** | mah**atā** | mah**antehi** |
+| **dat** | mah**ato** | mah**ataṃ**<br>mah**antānaṃ** | mah**atiyā**<br>mah**antāya**<br>mah**antiyā** | mah**atīnaṃ**<br>mah**antīnaṃ** | mah**ato** | mah**antānaṃ** |
+| **abl** | mah**atā**<br>mah**antamhā**<br>mah**antasmā** | mah**antehi** | mah**atiyā**<br>mah**antāya**<br>mah**antiyā** | mah**atīhi**<br>mah**antīhi** | mah**atā** | mah**antehi** |
+| **gen** | mah**ato**<br>mah**antassa** | mah**ataṃ**<br>mah**antānaṃ** | mah**atiyā**<br>mah**antāya**<br>mah**antiyā** | mah**atīnaṃ**<br>mah**antīnaṃ** | mah**ato** | mah**antānaṃ** |
+| **loc** | mah**ati**<br>mah**antamhi**<br>mah**antasmiṃ**<br>mah**ante** | mah**antesu** | mah**atiyaṃ**<br>mah**atiyā**<br>mah**antiyaṃ**<br>mah**antiyā** | mah**atīsu**<br>mah**antīsu** | mah**ati** | mah**antesu** |
+| **voc** | mah**a**<br>mah**ā** | mah**anto** | mah**atī**<br>mah**antī** | mah**atiyo**<br>mah**antiyo** | mah**a**<br>mah**aṃ** | mah**antāni** |
+| **in comps** | mah**ā** | | | | | |
 
 ***
 
@@ -554,17 +554,17 @@ yo pana bhikkhu, otiṇṇo vipariṇatena cittena, **mātugāmena** saddhiṃ k
 
 -   jantu (masc)
 
-|              | **masc sg**                                 | **masc pl**                                            |
-|--------------|---------------------------------------------|--------------------------------------------------------|
-| **nom**      | **jantu**                                   | **jantavo**<br>**jantuno**<br>**jantuyo**<br>**jantū** |
-| **acc**      | **jantuṃ**                                  | **jantavo**<br>**jantū**                               |
-| **instr**    | **jantunā**                                 | **jantūhi**                                            |
-| **dat**      | **jantuno**<br>**jantussa**                 | **jantūnaṃ**                                           |
-| **abl**      | **jantunā**<br>**jantumhā**<br>**jantusmā** | **jantūhi**                                            |
-| **gen**      | **jantuno**<br>**jantussa**                 | **jantūnaṃ**                                           |
-| **loc**      | **jantumhi**<br>**jantusmiṃ**               | **jantūsu**                                            |
-| **voc**      | **jantu**                                   | **jantavo**<br>**jantū**                               |
-| **in comps** | **jantu**                                   |                                                        |
+| | **masc sg** | **masc pl** |
+| -------------- | --------------------------------------------- | -------------------------------------------------------- |
+| **nom** | **jantu** | **jantavo**<br>**jantuno**<br>**jantuyo**<br>**jantū** |
+| **acc** | **jantuṃ** | **jantavo**<br>**jantū** |
+| **instr** | **jantunā** | **jantūhi** |
+| **dat** | **jantuno**<br>**jantussa** | **jantūnaṃ** |
+| **abl** | **jantunā**<br>**jantumhā**<br>**jantusmā** | **jantūhi** |
+| **gen** | **jantuno**<br>**jantussa** | **jantūnaṃ** |
+| **loc** | **jantumhi**<br>**jantusmiṃ** | **jantūsu** |
+| **voc** | **jantu** | **jantavo**<br>**jantū** |
+| **in comps** | **jantu** | |
 
 ***
 
@@ -582,36 +582,36 @@ reminder that mano group can have acc sg ending in **o,** e.g. ayo, ceto, vaco
 
 ***
 
-|             | **sg**               | **pl**                                                                                 |
-|-------------|----------------------|----------------------------------------------------------------------------------------|
-| **pr 3rd**  | **atthi**            | **atthi**<br>**santi**                                                                 |
-| **pr 2nd**  | **asi**              | **attha**                                                                              |
-| **pr 1st**  | **amhi**<br>**asmi** | **amha**<br>**amhase**<br>**amhā**<br>**amhāsi**<br>**asma**<br>**asmase**<br>**asmā** |
-| **imp 3rd** | **atthu**            | **santu**                                                                              |
-| **imp 2nd** | **āhi**              | **attha**                                                                              |
-| **imp 1st** | **amhi**<br>**asmi** | **amha**<br>**amhā**<br>**asma**<br>**asmā**                                           |
+| | **sg** | **pl** |
+| ------------- | ---------------------- | ---------------------------------------------------------------------------------------- |
+| **pr 3rd** | **atthi** | **atthi**<br>**santi** |
+| **pr 2nd** | **asi** | **attha** |
+| **pr 1st** | **amhi**<br>**asmi** | **amha**<br>**amhase**<br>**amhā**<br>**amhāsi**<br>**asma**<br>**asmase**<br>**asmā** |
+| **imp 3rd** | **atthu** | **santu** |
+| **imp 2nd** | **āhi** | **attha** |
+| **imp 1st** | **amhi**<br>**asmi** | **amha**<br>**amhā**<br>**asma**<br>**asmā** |
 
 ***
 
-|             | **sg**               | **pl**                   |
-|-------------|----------------------|--------------------------|
-| **opt 3rd** | **siyā**             | **siyaṃsu**<br>**siyuṃ** |
-| **opt 2nd** |                      |                          |
-| **opt 1st** | **saṃ**<br>**siyaṃ** |                          |
+| | **sg** | **pl** |
+| ------------- | ---------------------- | -------------------------- |
+| **opt 3rd** | **siyā** | **siyaṃsu**<br>**siyuṃ** |
+| **opt 2nd** | | |
+| **opt 1st** | **saṃ**<br>**siyaṃ** | |
 
-|             | **sg**                 | **pl**      |
-|-------------|------------------------|-------------|
-| **opt 3rd** | a**ssa**               | a**ssu**    |
+| | **sg** | **pl** |
+| ------------- | ------------------------ | ------------- |
+| **opt 3rd** | a**ssa** | a**ssu** |
 | **opt 2nd** | a**ssa**<br>a**ssasi** | a**ssatha** |
-| **opt 1st** | a**ssaṃ**              | a**ssāma**  |
+| **opt 1st** | a**ssaṃ** | a**ssāma** |
 
 ***
 
-|             | **sg**             | **pl**                                         |
-|-------------|--------------------|------------------------------------------------|
+| | **sg** | **pl** |
+| ------------- | -------------------- | ------------------------------------------------ |
 | **aor 3rd** | **āsa**<br>**āsi** | **aṃsu**<br>**āsiṃsu**<br>**āsuṃ**<br>**iṃsu** |
-| **aor 2nd** | **āsi**            | **āsittha**                                    |
-| **aor 1st** | **āsiṃ**           | **āsimha**<br>**āsimhā**                       |
+| **aor 2nd** | **āsi** | **āsittha** |
+| **aor 1st** | **āsiṃ** | **āsimha**<br>**āsimhā** |
 
 ***
 
@@ -619,7 +619,7 @@ reminder that mano group can have acc sg ending in **o,** e.g. ayo, ceto, vaco
 
 # Class 33
 
-## 
+
 
 ## Peculiarities of some feminine nouns
 
@@ -627,49 +627,49 @@ reminder that mano group can have acc sg ending in **o,** e.g. ayo, ceto, vaco
 
 ***
 
-|              | **fem sg**                                                                        | **fem pl**                            |
-|--------------|-----------------------------------------------------------------------------------|---------------------------------------|
-| **nom**      | **ratti**                                                                         | **rattiyo**<br>**rattī**<br>**ratyo** |
-| **acc**      | **rattiṃ**                                                                        | **rattiyo**<br>**rattī**<br>**ratyo** |
-| **instr**    | **rattiyā**<br>**ratyā**                                                          | **rattīhi**                           |
-| **dat**      | **rattiyā**<br>**ratyā**                                                          | **rattīnaṃ**                          |
-| **abl**      | **rattiyā**<br>**ratyā**                                                          | **rattīhi**                           |
-| **gen**      | **rattiyā**<br>**ratyā**                                                          | **rattīnaṃ**                          |
-| **loc**      | **rattaṃ**<br>**rattiyaṃ**<br>**rattiyā**<br>**ratto**<br>**ratyaṃ**<br>**ratyā** | **rattisu**<br>**rattīsu**            |
-| **voc**      | **ratti**                                                                         | **rattiyo**<br>**rattī**              |
-| **in comps** | **ratti**                                                                         |                                       |
+| | **fem sg** | **fem pl** |
+| -------------- | ----------------------------------------------------------------------------------- | --------------------------------------- |
+| **nom** | **ratti** | **rattiyo**<br>**rattī**<br>**ratyo** |
+| **acc** | **rattiṃ** | **rattiyo**<br>**rattī**<br>**ratyo** |
+| **instr** | **rattiyā**<br>**ratyā** | **rattīhi** |
+| **dat** | **rattiyā**<br>**ratyā** | **rattīnaṃ** |
+| **abl** | **rattiyā**<br>**ratyā** | **rattīhi** |
+| **gen** | **rattiyā**<br>**ratyā** | **rattīnaṃ** |
+| **loc** | **rattaṃ**<br>**rattiyaṃ**<br>**rattiyā**<br>**ratto**<br>**ratyaṃ**<br>**ratyā** | **rattisu**<br>**rattīsu** |
+| **voc** | **ratti** | **rattiyo**<br>**rattī** |
+| **in comps** | **ratti** | |
 
 ***
 
 -   nadī fem
 
-|              | **fem sg**                              | **fem pl**                                         |
-|--------------|-----------------------------------------|----------------------------------------------------|
-| **nom**      | **nadī**                                | **najjāyo**<br>**najjo**<br>**nadiyo**<br>**nadī** |
-| **acc**      | **najjaṃ**<br>**nadiyaṃ**<br>**nadiṃ**  | **najjāyo**<br>**najjo**<br>**nadiyo**<br>**nadī** |
-| **instr**    | **najjā**<br>**nadiyā**                 | **nadīhi**                                         |
-| **dat**      | **najjā**<br>**nadiyā**                 | **nadīnaṃ**                                        |
-| **abl**      | **najjā**<br>**nadiyā**                 | **nadīhi**                                         |
-| **gen**      | **najjā**<br>**nadiyā**                 | **nadīnaṃ**                                        |
-| **loc**      | **najjaṃ**<br>**nadiyaṃ**<br>**nadiyā** | **nadīsu**                                         |
-| **voc**      | **nadi**<br>**nadī**                    | **nadiyo**<br>**nadī**                             |
-| **in comps** | **nadī**                                |                                                    |
+| | **fem sg** | **fem pl** |
+| -------------- | ----------------------------------------- | ---------------------------------------------------- |
+| **nom** | **nadī** | **najjāyo**<br>**najjo**<br>**nadiyo**<br>**nadī** |
+| **acc** | **najjaṃ**<br>**nadiyaṃ**<br>**nadiṃ** | **najjāyo**<br>**najjo**<br>**nadiyo**<br>**nadī** |
+| **instr** | **najjā**<br>**nadiyā** | **nadīhi** |
+| **dat** | **najjā**<br>**nadiyā** | **nadīnaṃ** |
+| **abl** | **najjā**<br>**nadiyā** | **nadīhi** |
+| **gen** | **najjā**<br>**nadiyā** | **nadīnaṃ** |
+| **loc** | **najjaṃ**<br>**nadiyaṃ**<br>**nadiyā** | **nadīsu** |
+| **voc** | **nadi**<br>**nadī** | **nadiyo**<br>**nadī** |
+| **in comps** | **nadī** | |
 
 ***
 
 -   pokkharaṇī fem
 
-|              | **fem sg**                                                                   | **fem pl**                                            |
-|--------------|------------------------------------------------------------------------------|-------------------------------------------------------|
-| **nom**      | **pokkharaṇī**                                                               | **pokkharañño**<br>**pokkharaṇiyo**<br>**pokkharaṇī** |
-| **acc**      | **pokkharaṇiṃ**                                                              | **pokkharañño**<br>**pokkharaṇiyo**<br>**pokkharaṇī** |
-| **instr**    | **pokkharaññā**<br>**pokkharaṇiyā**                                          | **pokkharaṇīhi**                                      |
-| **dat**      | **pokkharaññā**<br>**pokkharaṇiyā**                                          | **pokkharaṇīnaṃ**                                     |
-| **abl**      | **pokkharaññā**<br>**pokkharaṇiyā**                                          | **pokkharaṇīhi**                                      |
-| **gen**      | **pokkharaññā**<br>**pokkharaṇiyā**                                          | **pokkharaṇīnaṃ**                                     |
-| **loc**      | **pokkharaññaṃ**<br>**pokkharaññā**<br>**pokkharaṇiyaṃ**<br>**pokkharaṇiyā** | **pokkharaṇīsu**                                      |
-| **voc**      | **pokkharaṇi**<br>**pokkharaṇī**                                             | **pokkharañño**<br>**pokkharaṇiyo**<br>**pokkharaṇī** |
-| **in comps** | **pokkharaṇi**<br>**pokkharaṇī**                                             |                                                       |
+| | **fem sg** | **fem pl** |
+| -------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| **nom** | **pokkharaṇī** | **pokkharañño**<br>**pokkharaṇiyo**<br>**pokkharaṇī** |
+| **acc** | **pokkharaṇiṃ** | **pokkharañño**<br>**pokkharaṇiyo**<br>**pokkharaṇī** |
+| **instr** | **pokkharaññā**<br>**pokkharaṇiyā** | **pokkharaṇīhi** |
+| **dat** | **pokkharaññā**<br>**pokkharaṇiyā** | **pokkharaṇīnaṃ** |
+| **abl** | **pokkharaññā**<br>**pokkharaṇiyā** | **pokkharaṇīhi** |
+| **gen** | **pokkharaññā**<br>**pokkharaṇiyā** | **pokkharaṇīnaṃ** |
+| **loc** | **pokkharaññaṃ**<br>**pokkharaññā**<br>**pokkharaṇiyaṃ**<br>**pokkharaṇiyā** | **pokkharaṇīsu** |
+| **voc** | **pokkharaṇi**<br>**pokkharaṇī** | **pokkharañño**<br>**pokkharaṇiyo**<br>**pokkharaṇī** |
+| **in comps** | **pokkharaṇi**<br>**pokkharaṇī** | |
 
 ***
 
@@ -683,17 +683,17 @@ andū, camū, jambū, bhū, sarabhū, vadhū, abhū
 
 ***
 
-|              | **fem sg**                      | **fem pl**                     |
-|--------------|---------------------------------|--------------------------------|
-| **nom**      | sarabh**ū**                     | sarabh**uyo**<br>sarabh**ū**   |
-| **acc**      | sarabh**uṃ**                    | sarabh**uyo**<br>sarabh**ū**   |
-| **instr**    | sarabh**uyā**                   | sarabh**ūhi**                  |
-| **dat**      | sarabh**uyā**                   | sarabh**ūnaṃ**                 |
-| **abl**      | sarabh**uyā**                   | sarabh**ūhi**                  |
-| **gen**      | sarabh**uyā**                   | sarabh**ūnaṃ**                 |
-| **loc**      | sarabh**uyaṃ**<br>sarabh**uyā** | sarabh**usu**<br>sarabh**ūsu** |
-| **voc**      | sarabh**u**                     | sarabh**uyo**<br>sarabh**ū**   |
-| **in comps** | sarabh**u**                     |                                |
+| | **fem sg** | **fem pl** |
+| -------------- | --------------------------------- | -------------------------------- |
+| **nom** | sarabh**ū** | sarabh**uyo**<br>sarabh**ū** |
+| **acc** | sarabh**uṃ** | sarabh**uyo**<br>sarabh**ū** |
+| **instr** | sarabh**uyā** | sarabh**ūhi** |
+| **dat** | sarabh**uyā** | sarabh**ūnaṃ** |
+| **abl** | sarabh**uyā** | sarabh**ūhi** |
+| **gen** | sarabh**uyā** | sarabh**ūnaṃ** |
+| **loc** | sarabh**uyaṃ**<br>sarabh**uyā** | sarabh**usu**<br>sarabh**ūsu** |
+| **voc** | sarabh**u** | sarabh**uyo**<br>sarabh**ū** |
+| **in comps** | sarabh**u** | |
 
 ***
 
@@ -701,53 +701,53 @@ andū, camū, jambū, bhū, sarabhū, vadhū, abhū
 
 ***
 
-|             | **sg**                               | **pl**                                    | **reflexive sg**              | **reflexive pl**                  |
-|-------------|--------------------------------------|-------------------------------------------|-------------------------------|-----------------------------------|
-| **pr 3rd**  | vad**ati**                           | vad**anti**                               | vad**ate**                    | vad**ante**<br>vad**are**         |
-| **pr 2nd**  | vad**asi**                           | vad**atha**                               | vad**ase**                    | vad**avhe**                       |
-| **pr 1st**  | vad**āmi**                           | vad**āma**                                | vad**e**                      | vad**amhase**<br>vad**āmhe**      |
-| **imp 3rd** | vad**atu**                           | vad**antu**                               | vad**ataṃ**                   | vad**antaṃ**                      |
-| **imp 2nd** | vad**a**<br>vad**āsi**<br>vad**āhi** | vad**atha**                               | vad**assu**                   | vad**avho**                       |
-| **imp 1st** | vad**āmi**                           | vad**āma**                                | vad**e**                      | vad**āmase**                      |
-| **opt 3rd** | vad**e**<br>vad**eyya**              | vad**eyyu**<br>vad**eyyuṃ**               | vad**etha**                   | vad**eraṃ**                       |
-| **opt 2nd** | vad**e**<br>vad**eyyāsi**            | vad**etha**<br>vad**eyyātha**             | vad**etho**<br>vad**eyyātho** | vad**eyyavho**<br>vad**eyyāvho**  |
-| **opt 1st** | vad**e**<br>vad**eyyāmi**            | vad**ema**<br>vad**emu**<br>vad**eyyāma** | vad**eyyaṃ**                  | vad**emase**<br>vad**eyyāmhe**    |
-| **fut 3rd** | vad**issati**                        | vad**issanti**                            | vad**issate**                 | vad**issante**                    |
-| **fut 2nd** | vad**issasi**                        | vad**issatha**                            | vad**issase**                 | vad**issavhe**                    |
-| **fut 1st** | vad**issāmi**                        | vad**issāma**                             | vad**issaṃ**                  | vad**issāmase**<br>vad**issāmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | -------------------------------------- | ------------------------------------------- | ------------------------------- | ----------------------------------- |
+| **pr 3rd** | vad**ati** | vad**anti** | vad**ate** | vad**ante**<br>vad**are** |
+| **pr 2nd** | vad**asi** | vad**atha** | vad**ase** | vad**avhe** |
+| **pr 1st** | vad**āmi** | vad**āma** | vad**e** | vad**amhase**<br>vad**āmhe** |
+| **imp 3rd** | vad**atu** | vad**antu** | vad**ataṃ** | vad**antaṃ** |
+| **imp 2nd** | vad**a**<br>vad**āsi**<br>vad**āhi** | vad**atha** | vad**assu** | vad**avho** |
+| **imp 1st** | vad**āmi** | vad**āma** | vad**e** | vad**āmase** |
+| **opt 3rd** | vad**e**<br>vad**eyya** | vad**eyyu**<br>vad**eyyuṃ** | vad**etha** | vad**eraṃ** |
+| **opt 2nd** | vad**e**<br>vad**eyyāsi** | vad**etha**<br>vad**eyyātha** | vad**etho**<br>vad**eyyātho** | vad**eyyavho**<br>vad**eyyāvho** |
+| **opt 1st** | vad**e**<br>vad**eyyāmi** | vad**ema**<br>vad**emu**<br>vad**eyyāma** | vad**eyyaṃ** | vad**emase**<br>vad**eyyāmhe** |
+| **fut 3rd** | vad**issati** | vad**issanti** | vad**issate** | vad**issante** |
+| **fut 2nd** | vad**issasi** | vad**issatha** | vad**issase** | vad**issavhe** |
+| **fut 1st** | vad**issāmi** | vad**issāma** | vad**issaṃ** | vad**issāmase**<br>vad**issāmhe** |
 
 ***
 
-|             | **sg**                                  | **pl**                                       | **reflexive sg**                | **reflexive pl**                    |
-|-------------|-----------------------------------------|----------------------------------------------|---------------------------------|-------------------------------------|
-| **pr 3rd**  | vajj**ati**                             | vajj**anti**                                 | vajj**ate**                     | vajj**ante**<br>vajj**are**         |
-| **pr 2nd**  | vajj**asi**                             | vajj**atha**                                 | vajj**ase**                     | vajj**avhe**                        |
-| **pr 1st**  | vajj**āmi**                             | vajj**āma**                                  | vajj**e**                       | vajj**amhase**<br>vajj**āmhe**      |
-| **imp 3rd** | vajj**atu**                             | vajj**antu**                                 | vajj**ataṃ**                    | vajj**antaṃ**                       |
-| **imp 2nd** | vajj**a**<br>vajj**āsi**<br>vajj**āhi** | vajj**atha**                                 | vajj**assu**                    | vajj**avho**                        |
-| **imp 1st** | vajj**āmi**                             | vajj**āma**                                  | vajj**e**                       | vajj**āmase**                       |
-| **opt 3rd** | vajj**e**<br>vajj**eyya**               | vajj**eyyu**<br>vajj**eyyuṃ**                | vajj**etha**                    | vajj**eraṃ**                        |
-| **opt 2nd** | vajj**e**<br>vajj**eyyāsi**             | vajj**etha**<br>vajj**eyyātha**              | vajj**etho**<br>vajj**eyyātho** | vajj**eyyavho**<br>vajj**eyyāvho**  |
-| **opt 1st** | vajj**e**<br>vajj**eyyāmi**             | vajj**ema**<br>vajj**emu**<br>vajj**eyyāma** | vajj**eyyaṃ**                   | vajj**emase**<br>vajj**eyyāmhe**    |
-| **fut 3rd** | vajj**issati**                          | vajj**issanti**                              | vajj**issate**                  | vajj**issante**                     |
-| **fut 2nd** | vajj**issasi**                          | vajj**issatha**                              | vajj**issase**                  | vajj**issavhe**                     |
-| **fut 1st** | vajj**issāmi**                          | vajj**issāma**                               | vajj**issaṃ**                   | vajj**issāmase**<br>vajj**issāmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ----------------------------------------- | ---------------------------------------------- | --------------------------------- | ------------------------------------- |
+| **pr 3rd** | vajj**ati** | vajj**anti** | vajj**ate** | vajj**ante**<br>vajj**are** |
+| **pr 2nd** | vajj**asi** | vajj**atha** | vajj**ase** | vajj**avhe** |
+| **pr 1st** | vajj**āmi** | vajj**āma** | vajj**e** | vajj**amhase**<br>vajj**āmhe** |
+| **imp 3rd** | vajj**atu** | vajj**antu** | vajj**ataṃ** | vajj**antaṃ** |
+| **imp 2nd** | vajj**a**<br>vajj**āsi**<br>vajj**āhi** | vajj**atha** | vajj**assu** | vajj**avho** |
+| **imp 1st** | vajj**āmi** | vajj**āma** | vajj**e** | vajj**āmase** |
+| **opt 3rd** | vajj**e**<br>vajj**eyya** | vajj**eyyu**<br>vajj**eyyuṃ** | vajj**etha** | vajj**eraṃ** |
+| **opt 2nd** | vajj**e**<br>vajj**eyyāsi** | vajj**etha**<br>vajj**eyyātha** | vajj**etho**<br>vajj**eyyātho** | vajj**eyyavho**<br>vajj**eyyāvho** |
+| **opt 1st** | vajj**e**<br>vajj**eyyāmi** | vajj**ema**<br>vajj**emu**<br>vajj**eyyāma** | vajj**eyyaṃ** | vajj**emase**<br>vajj**eyyāmhe** |
+| **fut 3rd** | vajj**issati** | vajj**issanti** | vajj**issate** | vajj**issante** |
+| **fut 2nd** | vajj**issasi** | vajj**issatha** | vajj**issase** | vajj**issavhe** |
+| **fut 1st** | vajj**issāmi** | vajj**issāma** | vajj**issaṃ** | vajj**issāmase**<br>vajj**issāmhe** |
 
 ***
 
-|             | **sg**               | **pl**                     | **reflexive sg**                        | **reflexive pl**             |
-|-------------|----------------------|----------------------------|-----------------------------------------|------------------------------|
-| **aor 3rd** | vad**i**<br>vad**ī** | vad**iṃsu**<br>vad**uṃ**   | vad**atha**<br>vad**ā**<br>vad**ittha** | vad**ū**                     |
-| **aor 2nd** | vad**i**<br>vad**o** | vad**ittha**               | vad**ittho**<br>vad**ise**              | vad**ivhaṃ**                 |
-| **aor 1st** | vad**iṃ**            | vad**imha**<br>vad**imhā** | vad**a**<br>vad**aṃ**<br>vad**itthaṃ**  | vad**imhase**<br>vad**imhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------- | ---------------------------- | ----------------------------------------- | ------------------------------ |
+| **aor 3rd** | vad**i**<br>vad**ī** | vad**iṃsu**<br>vad**uṃ** | vad**atha**<br>vad**ā**<br>vad**ittha** | vad**ū** |
+| **aor 2nd** | vad**i**<br>vad**o** | vad**ittha** | vad**ittho**<br>vad**ise** | vad**ivhaṃ** |
+| **aor 1st** | vad**iṃ** | vad**imha**<br>vad**imhā** | vad**a**<br>vad**aṃ**<br>vad**itthaṃ** | vad**imhase**<br>vad**imhe** |
 
 ***
 
-|             | **sg**      | **pl**                       |
-|-------------|-------------|------------------------------|
-| **aor 3rd** | vad**esi**  | vad**esuṃ**                  |
-| **aor 2nd** | vad**esi**  | vad**ittha**<br>vad**ettha** |
-| **aor 1st** | vad**esiṃ** | vad**imha**<br>vad**imhā**   |
+| | **sg** | **pl** |
+| ------------- | ------------- | ------------------------------ |
+| **aor 3rd** | vad**esi** | vad**esuṃ** |
+| **aor 2nd** | vad**esi** | vad**ittha**<br>vad**ettha** |
+| **aor 1st** | vad**esiṃ** | vad**imha**<br>vad**imhā** |
 
 ***
 
@@ -765,19 +765,19 @@ Simple forms of this base in Present, Imperative and Optative Moods are not foun
 
 ***
 
-|                | **sg**                 | **pl**                       | **reflexive sg** | **reflexive pl** |
-|----------------|------------------------|------------------------------|------------------|------------------|
-| **imperf 3rd** | **avaca**<br>**avacā** | **avacū**                    | **avacuttha**    | **avacatthuṃ**   |
-| **imperf 2nd** | **avaco**              | **avacuttha**                | **avacase**      | **avacuvhaṃ**    |
-| **imperf 1st** | **avacaṃ**             | **avacumha**<br>**avacumhā** | **avaciṃ**       | **avacamhase**   |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ---------------- | ------------------------ | ------------------------------ | ------------------ | ------------------ |
+| **imperf 3rd** | **avaca**<br>**avacā** | **avacū** | **avacuttha** | **avacatthuṃ** |
+| **imperf 2nd** | **avaco** | **avacuttha** | **avacase** | **avacuvhaṃ** |
+| **imperf 1st** | **avacaṃ** | **avacumha**<br>**avacumhā** | **avaciṃ** | **avacamhase** |
 
 ***
 
-|             | **sg**           | **pl**                         | **reflexive sg** | **reflexive pl** |
-|-------------|------------------|--------------------------------|------------------|------------------|
-| **aor 3rd** | avacāsi<br>avacī | avaciṃsu<br>avocisuṃ<br>avocuṃ | **avoca**        | **avocu**        |
-| **aor 2nd** | avaca<br>avoco   | avacuttha<br>avocuttha         | **avocase**      | **avocivhaṃ**    |
-| **aor 1st** | **avociṃ**       | avocumha<br>avocumhā           | avocaṃ<br>avociṃ | **avocimhe**     |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------ | -------------------------------- | ------------------ | ------------------ |
+| **aor 3rd** | avacāsi<br>avacī | avaciṃsu<br>avocisuṃ<br>avocuṃ | **avoca** | **avocu** |
+| **aor 2nd** | avaca<br>avoco | avacuttha<br>avocuttha | **avocase** | **avocivhaṃ** |
+| **aor 1st** | **avociṃ** | avocumha<br>avocumhā | avocaṃ<br>avociṃ | **avocimhe** |
 
 ***
 
@@ -787,11 +787,11 @@ In the future **vaca** is changed to **vakkha** which was derived from Skt. futu
 
 ***
 
-|         | <br>sg       | pl            | reflexive sg | reflexive pl                    |
-|---------|--------------|---------------|--------------|---------------------------------|
-| fut 3rd | vakkh**ati** | vakkh**anti** | vakkh**ate** | vakkh**ante**                   |
-| fut 2nd | vakkh**asi** | vakkh**atha** | vakkh**ase** | vakkh**avhe**                   |
-| fut 1st | vakkh**āmi** | vakkh**āma**  | vakkh**aṃ**  | vakkh**āmase**<br>vakkh**āmhe** |
+|  | <br>sg | pl | reflexive sg | reflexive pl |
+| --------- | -------------- | --------------- | -------------- | --------------------------------- |
+| fut 3rd | vakkh**ati** | vakkh**anti** | vakkh**ate** | vakkh**ante** |
+| fut 2nd | vakkh**asi** | vakkh**atha** | vakkh**ase** | vakkh**avhe** |
+| fut 1st | vakkh**āmi** | vakkh**āma** | vakkh**aṃ** | vakkh**āmase**<br>vakkh**āmhe** |
 
 ***
 
@@ -803,17 +803,17 @@ In the future **vaca** is changed to **vakkha** which was derived from Skt. futu
 
 -   kamma nt
 
-|              | **neut sg**                                               | **neut pl**              |
-|--------------|-----------------------------------------------------------|--------------------------|
-| **nom**      | **kamma**<br>**kammaṃ**<br>**kamme**                      | **kammā**<br>**kammāni** |
-| **acc**      | **kamma**<br>**kammaṃ**                                   | **kammāni**<br>**kamme** |
-| **instr**    | **kammanā**<br>**kammunā**<br>**kammena**                 | **kammehi**              |
-| **dat**      | **kammassa**<br>**kammuno**                               | **kammānaṃ**             |
-| **abl**      | **kammamhā**<br>**kammasmā**<br>**kammunā**               | **kammehi**              |
-| **gen**      | **kammassa**<br>**kammuno**                               | **kammānaṃ**             |
-| **loc**      | **kammani**<br>**kammamhi**<br>**kammasmiṃ**<br>**kamme** | **kammesu**              |
-| **voc**      | **kamma**                                                 | **kammā**<br>**kammāni** |
-| **in comps** | **kamma**                                                 |                          |
+| | **neut sg** | **neut pl** |
+| -------------- | ----------------------------------------------------------- | -------------------------- |
+| **nom** | **kamma**<br>**kammaṃ**<br>**kamme** | **kammā**<br>**kammāni** |
+| **acc** | **kamma**<br>**kammaṃ** | **kammāni**<br>**kamme** |
+| **instr** | **kammanā**<br>**kammunā**<br>**kammena** | **kammehi** |
+| **dat** | **kammassa**<br>**kammuno** | **kammānaṃ** |
+| **abl** | **kammamhā**<br>**kammasmā**<br>**kammunā** | **kammehi** |
+| **gen** | **kammassa**<br>**kammuno** | **kammānaṃ** |
+| **loc** | **kammani**<br>**kammamhi**<br>**kammasmiṃ**<br>**kamme** | **kammesu** |
+| **voc** | **kamma** | **kammā**<br>**kammāni** |
+| **in comps** | **kamma** | |
 
 ***
 
@@ -831,17 +831,17 @@ adj ubhaya (= both) and pron ubha (== both) have irregular forms
 
 ***
 
-|              | **masc sg**                                                  | **masc pl**                    | **fem sg**                                      | **fem pl**                       | **neut sg**                                                  | **neut pl**                    |
-|--------------|--------------------------------------------------------------|--------------------------------|-------------------------------------------------|----------------------------------|--------------------------------------------------------------|--------------------------------|
-| **nom**      | **ubhayo**                                                   | **ubhaye**<br>**ubhayo**       | **ubhayā**                                      | **ubhayā**<br>**ubhayāyo**       | **ubhayaṃ**                                                  | **ubhayāni**<br>**ubhaye**     |
-| **acc**      | **ubhayaṃ**                                                  | **ubhaye**<br>**ubhayo**       | **ubhayaṃ**                                     | **ubhayā**<br>**ubhayāyo**       | **ubhayaṃ**                                                  | **ubhayāni**<br>**ubhaye**     |
-| **instr**    | **ubhayena**                                                 | **ubhayehi**                   | **ubhayāya**                                    | **ubhayābhi**<br>**ubhayāhi**    | **ubhayena**                                                 | **ubhayehi**                   |
-| **dat**      | **ubhayassa**                                                | **ubhayānaṃ**<br>**ubhayesaṃ** | **ubhayassa**<br>**ubhayāya**                   | **ubhayāsaṃ**<br>**ubhayāsānaṃ** | **ubhayassa**                                                | **ubhayānaṃ**<br>**ubhayesaṃ** |
-| **abl**      | **ubhayato**<br>**ubhayamhā**<br>**ubhayasmā**<br>**ubhayā** | **ubhayehi**                   | **ubhayāya**                                    | **ubhayābhi**<br>**ubhayāhi**    | **ubhayato**<br>**ubhayamhā**<br>**ubhayasmā**<br>**ubhayā** | **ubhayehi**                   |
-| **gen**      | **ubhayassa**                                                | **ubhayānaṃ**<br>**ubhayesaṃ** | **ubhayassa**<br>**ubhayāya**                   | **ubhayāsaṃ**<br>**ubhayāsānaṃ** | **ubhayassa**                                                | **ubhayānaṃ**<br>**ubhayesaṃ** |
-| **loc**      | **ubhayamhi**<br>**ubhayasmiṃ**                              | **ubhayesu**                   | **ubhayassaṃ**<br>**ubhayāya**<br>**ubhayāyaṃ** | **ubhayāsu**                     | **ubhayamhi**<br>**ubhayasmiṃ**                              | **ubhayesu**                   |
-| **in comps** | **ubhaya**                                                   |                                |                                                 |                                  |                                                              |                                |
-|              |                                                              |                                |                                                 |                                  |                                                              |                                |
+| | **masc sg** | **masc pl** | **fem sg** | **fem pl** | **neut sg** | **neut pl** |
+| -------------- | -------------------------------------------------------------- | -------------------------------- | ------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------- | -------------------------------- |
+| **nom** | **ubhayo** | **ubhaye**<br>**ubhayo** | **ubhayā** | **ubhayā**<br>**ubhayāyo** | **ubhayaṃ** | **ubhayāni**<br>**ubhaye** |
+| **acc** | **ubhayaṃ** | **ubhaye**<br>**ubhayo** | **ubhayaṃ** | **ubhayā**<br>**ubhayāyo** | **ubhayaṃ** | **ubhayāni**<br>**ubhaye** |
+| **instr** | **ubhayena** | **ubhayehi** | **ubhayāya** | **ubhayābhi**<br>**ubhayāhi** | **ubhayena** | **ubhayehi** |
+| **dat** | **ubhayassa** | **ubhayānaṃ**<br>**ubhayesaṃ** | **ubhayassa**<br>**ubhayāya** | **ubhayāsaṃ**<br>**ubhayāsānaṃ** | **ubhayassa** | **ubhayānaṃ**<br>**ubhayesaṃ** |
+| **abl** | **ubhayato**<br>**ubhayamhā**<br>**ubhayasmā**<br>**ubhayā** | **ubhayehi** | **ubhayāya** | **ubhayābhi**<br>**ubhayāhi** | **ubhayato**<br>**ubhayamhā**<br>**ubhayasmā**<br>**ubhayā** | **ubhayehi** |
+| **gen** | **ubhayassa** | **ubhayānaṃ**<br>**ubhayesaṃ** | **ubhayassa**<br>**ubhayāya** | **ubhayāsaṃ**<br>**ubhayāsānaṃ** | **ubhayassa** | **ubhayānaṃ**<br>**ubhayesaṃ** |
+| **loc** | **ubhayamhi**<br>**ubhayasmiṃ** | **ubhayesu** | **ubhayassaṃ**<br>**ubhayāya**<br>**ubhayāyaṃ** | **ubhayāsu** | **ubhayamhi**<br>**ubhayasmiṃ** | **ubhayesu** |
+| **in comps** | **ubhaya** | | | | | |
+|  |  |  |  |  |  |  |
 
 ***
 
@@ -853,16 +853,16 @@ ubha has only plural forms. The nom. plural ubho is derived from Skt. dual ubhau
 
 ***
 
-|              | **dual**             |
-|--------------|----------------------|
-| **nom**      | **ubhe**<br>**ubho** |
-| **acc**      | **ubho**             |
-| **instr**    | **ubhohi**           |
-| **dat**      | **ubhinnaṃ**         |
-| **abl**      | **ubhohi**           |
-| **gen**      | **ubhinnaṃ**         |
-| **loc**      | **ubhosu**           |
-| **in comps** | **ubho**             |
+| | **dual** |
+| -------------- | ---------------------- |
+| **nom** | **ubhe**<br>**ubho** |
+| **acc** | **ubho** |
+| **instr** | **ubhohi** |
+| **dat** | **ubhinnaṃ** |
+| **abl** | **ubhohi** |
+| **gen** | **ubhinnaṃ** |
+| **loc** | **ubhosu** |
+| **in comps** | **ubho** |
 
 ***
 
@@ -872,16 +872,16 @@ kati (= how many) also have only plural forms and similarly declined in all gend
 
 -   kati pron pl
 
-|              | **masc pl**                             | **fem pl**                              | **neut pl**                             |
-|--------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| **nom**      | **kati**                                | **kati**                                | **kati**                                |
-| **acc**      | **kati**                                | **kati**                                | **kati**                                |
-| **instr**    | **katibhi**<br>**katihi**<br>**katīhi** | **katibhi**<br>**katihi**<br>**katīhi** | **katibhi**<br>**katihi**<br>**katīhi** |
-| **dat**      | **katinaṃ**                             | **katinaṃ**                             | **katinaṃ**                             |
-| **abl**      | **katibhi**<br>**katihi**<br>**katīhi** | **katibhi**<br>**katihi**<br>**katīhi** | **katibhi**<br>**katihi**<br>**katīhi** |
-| **gen**      | **katinaṃ**                             | **katinaṃ**                             | **katinaṃ**                             |
-| **loc**      | **katisu**                              | **katisu**                              | **katisu**                              |
-| **in comps** | **kati**                                |                                         |                                         |
+| | **masc pl** | **fem pl** | **neut pl** |
+| -------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| **nom** | **kati** | **kati** | **kati** |
+| **acc** | **kati** | **kati** | **kati** |
+| **instr** | **katibhi**<br>**katihi**<br>**katīhi** | **katibhi**<br>**katihi**<br>**katīhi** | **katibhi**<br>**katihi**<br>**katīhi** |
+| **dat** | **katinaṃ** | **katinaṃ** | **katinaṃ** |
+| **abl** | **katibhi**<br>**katihi**<br>**katīhi** | **katibhi**<br>**katihi**<br>**katīhi** | **katibhi**<br>**katihi**<br>**katīhi** |
+| **gen** | **katinaṃ** | **katinaṃ** | **katinaṃ** |
+| **loc** | **katisu** | **katisu** | **katisu** |
+| **in comps** | **kati** | | |
 
 ***
 
@@ -891,55 +891,55 @@ kati (= how many) also have only plural forms and similarly declined in all gend
 
 ***
 
-|             | **sg**                    | **pl**                                    | **reflexive sg** | **reflexive pl**                 |
-|-------------|---------------------------|-------------------------------------------|------------------|----------------------------------|
-| **pr 3rd**  | dad**āti**                | dad**anti**                               | dad**āte**       | dad**ante**<br>dad**are**        |
-| **pr 2nd**  | dad**asi**<br>dad**āsi**  | dad**ātha**                               | dad**āse**       | dad**avhe**                      |
-| **pr 1st**  | dad**āmi**                | dad**āma**                                | dad**e**         | dad**amhase**<br>dad**āmhe**     |
-| **imp 3rd** | dad**atu**<br>dad**ātu**  | dad**antu**                               | dad**ataṃ**      | dad**antaṃ**                     |
-| **imp 2nd** | dad**ahi**<br>dad**āhi**  | dad**atha**<br>dad**ātha**                | dad**assu**      | dad**avho**                      |
-| **imp 1st** | dad**āmi**                | dad**āma**                                | dad**e**         | dad**āmase**                     |
-| **opt 3rd** | dad**e**<br>dad**eyya**   | dad**eyyuṃ**                              | dad**etha**      | dad**eraṃ**                      |
-| **opt 2nd** | dad**e**<br>dad**eyyāsi** | dad**etha**<br>dad**eyyātha**             | dad**etho**      | dad**eyyavho**<br>dad**eyyāvho** |
-| **opt 1st** | dad**e**<br>dad**eyyāmi** | dad**ema**<br>dad**emu**<br>dad**eyyāma** | dad**eyyaṃ**     | dad**eyyāmhe**                   |
-| **fut 3rd** | dad**issati**             | dad**issanti**                            | dad**issate**    | dad**issante**                   |
-| **fut 2nd** | dad**issasi**             | dad**issatha**                            | dad**issase**    | dad**issavhe**                   |
-| **fut 1st** | dad**issāmi**             | dad**issāma**                             | dad**issaṃ**     | dad**issāmhe**                   |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | --------------------------- | ------------------------------------------- | ------------------ | ---------------------------------- |
+| **pr 3rd** | dad**āti** | dad**anti** | dad**āte** | dad**ante**<br>dad**are** |
+| **pr 2nd** | dad**asi**<br>dad**āsi** | dad**ātha** | dad**āse** | dad**avhe** |
+| **pr 1st** | dad**āmi** | dad**āma** | dad**e** | dad**amhase**<br>dad**āmhe** |
+| **imp 3rd** | dad**atu**<br>dad**ātu** | dad**antu** | dad**ataṃ** | dad**antaṃ** |
+| **imp 2nd** | dad**ahi**<br>dad**āhi** | dad**atha**<br>dad**ātha** | dad**assu** | dad**avho** |
+| **imp 1st** | dad**āmi** | dad**āma** | dad**e** | dad**āmase** |
+| **opt 3rd** | dad**e**<br>dad**eyya** | dad**eyyuṃ** | dad**etha** | dad**eraṃ** |
+| **opt 2nd** | dad**e**<br>dad**eyyāsi** | dad**etha**<br>dad**eyyātha** | dad**etho** | dad**eyyavho**<br>dad**eyyāvho** |
+| **opt 1st** | dad**e**<br>dad**eyyāmi** | dad**ema**<br>dad**emu**<br>dad**eyyāma** | dad**eyyaṃ** | dad**eyyāmhe** |
+| **fut 3rd** | dad**issati** | dad**issanti** | dad**issate** | dad**issante** |
+| **fut 2nd** | dad**issasi** | dad**issatha** | dad**issase** | dad**issavhe** |
+| **fut 1st** | dad**issāmi** | dad**issāma** | dad**issaṃ** | dad**issāmhe** |
 
 ***
 
-|             | **sg**                     | **pl**                              | **reflexive sg**          | **reflexive pl**             |
-|-------------|----------------------------|-------------------------------------|---------------------------|------------------------------|
-| **pr 3rd**  | d**eti**                   | d**enti**                           |                           |                              |
-| **pr 2nd**  | d**esi**                   | d**etha**                           |                           |                              |
-| **pr 1st**  | d**emi**                   | d**ema**                            |                           |                              |
-| **imp 3rd** | d**etu**                   | d**entu**                           | d**etaṃ**                 | d**entaṃ**                   |
-| **imp 2nd** | d**ehi**                   | d**etha**                           | d**assu**<br>d**essu**    | d**avho**<br>d**evho**       |
-| **imp 1st** | d**emi**                   | d**ema**                            | d**e**                    | d**amase**<br>d**emase**     |
-| **opt 3rd** | d**e**<br>d**eyya**        | d**eyyuṃ**                          | d**etha**                 | d**eraṃ**                    |
-| **opt 2nd** | d**e**<br>d**eyyāsi**      | d**etha**<br>d**eyyātha**           | d**etho**<br>d**eyyātho** | d**eyyavho**<br>d**eyyāvho** |
-| **opt 1st** | d**e**<br>d**eyyāmi**      | d**ema**<br>d**emu**<br>d**eyyāma** | d**eyyaṃ**                | d**eyyāmhe**                 |
-| **fut 3rd** | d**issati**<br>d**essati** | d**issanti**<br>d**essanti**        | d**essate**               | d**essante**                 |
-| **fut 2nd** | d**issasi**<br>d**essasi** | d**issatha**<br>d**essatha**        | d**essase**               | d**essavhe**                 |
-| **fut 1st** | d**issāmi**<br>d**essāmi** | d**issāma**<br>d**essāma**          | d**essaṃ**                | d**essāmhe**                 |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------------- | ------------------------------------- | --------------------------- | ------------------------------ |
+| **pr 3rd** | d**eti** | d**enti** | | |
+| **pr 2nd** | d**esi** | d**etha** | | |
+| **pr 1st** | d**emi** | d**ema** | | |
+| **imp 3rd** | d**etu** | d**entu** | d**etaṃ** | d**entaṃ** |
+| **imp 2nd** | d**ehi** | d**etha** | d**assu**<br>d**essu** | d**avho**<br>d**evho** |
+| **imp 1st** | d**emi** | d**ema** | d**e** | d**amase**<br>d**emase** |
+| **opt 3rd** | d**e**<br>d**eyya** | d**eyyuṃ** | d**etha** | d**eraṃ** |
+| **opt 2nd** | d**e**<br>d**eyyāsi** | d**etha**<br>d**eyyātha** | d**etho**<br>d**eyyātho** | d**eyyavho**<br>d**eyyāvho** |
+| **opt 1st** | d**e**<br>d**eyyāmi** | d**ema**<br>d**emu**<br>d**eyyāma** | d**eyyaṃ** | d**eyyāmhe** |
+| **fut 3rd** | d**issati**<br>d**essati** | d**issanti**<br>d**essanti** | d**essate** | d**essante** |
+| **fut 2nd** | d**issasi**<br>d**essasi** | d**issatha**<br>d**essatha** | d**essase** | d**essavhe** |
+| **fut 1st** | d**issāmi**<br>d**essāmi** | d**issāma**<br>d**essāma** | d**essaṃ** | d**essāmhe** |
 
 ***
 
-|                | **sg**              | **pl**                         | **reflexive sg**           | **reflexive pl** |
-|----------------|---------------------|--------------------------------|----------------------------|------------------|
-| **imperf 3rd** | ad**ā**             | ad**u**<br>ad**uṃ**<br>ad**ū** | ad**attha**<br>ad**atthu** | ad**atthuṃ**     |
-| **imperf 2nd** | ad**a**<br>ad**o**  | ad**attha**                    | ad**ase**                  | ad**avhaṃ**      |
-| **imperf 1st** | ad**a**<br>ad**aṃ** | ad**amha**<br>ad**amhā**       | ad**iṃ**                   | ad**amhase**     |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ---------------- | --------------------- | -------------------------------- | ---------------------------- | ------------------ |
+| **imperf 3rd** | ad**ā** | ad**u**<br>ad**uṃ**<br>ad**ū** | ad**attha**<br>ad**atthu** | ad**atthuṃ** |
+| **imperf 2nd** | ad**a**<br>ad**o** | ad**attha** | ad**ase** | ad**avhaṃ** |
+| **imperf 1st** | ad**a**<br>ad**aṃ** | ad**amha**<br>ad**amhā** | ad**iṃ** | ad**amhase** |
 
 ***
 
 ***
 
-|             | **sg**                 | **pl**                       | **reflexive sg**                           | **reflexive pl**               |
-|-------------|------------------------|------------------------------|--------------------------------------------|--------------------------------|
-| **aor 3rd** | adad**i**<br>adad**ī** | adad**iṃsu**<br>adad**uṃ**   | adad**atha**<br>adad**ā**<br>adad**ittha** | adad**ū**                      |
-| **aor 2nd** | adad**i**<br>adad**o** | adad**ittha**                | adad**ittho**<br>adad**ise**               | adad**ivhaṃ**                  |
-| **aor 1st** | adad**iṃ**             | adad**imha**<br>adad**imhā** | adad**a**<br>adad**aṃ**<br>adad**itthaṃ**  | adad**imhase**<br>adad**imhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------ | ------------------------------ | -------------------------------------------- | -------------------------------- |
+| **aor 3rd** | adad**i**<br>adad**ī** | adad**iṃsu**<br>adad**uṃ** | adad**atha**<br>adad**ā**<br>adad**ittha** | adad**ū** |
+| **aor 2nd** | adad**i**<br>adad**o** | adad**ittha** | adad**ittho**<br>adad**ise** | adad**ivhaṃ** |
+| **aor 1st** | adad**iṃ** | adad**imha**<br>adad**imhā** | adad**a**<br>adad**aṃ**<br>adad**itthaṃ** | adad**imhase**<br>adad**imhe** |
 
 ***
 
@@ -959,16 +959,16 @@ Pronoun ekacca and adjectives ekatiya and ekacciya, all having the meaning “so
 
 ***
 
-|              | **masc sg**    | **masc pl**   | **fem sg**                    | **fem pl**                 | **neut sg**    | **neut pl**                |
-|--------------|----------------|---------------|-------------------------------|----------------------------|----------------|----------------------------|
-| **nom**      | **ekacco**     | **ekacce**    | **ekaccā**                    | **ekaccā**<br>**ekaccāyo** | **ekaccaṃ**    | **ekaccāni**<br>**ekacce** |
-| **acc**      | **ekaccaṃ**    | **ekacce**    | **ekaccaṃ**                   | **ekaccā**<br>**ekaccāyo** | **ekaccaṃ**    | **ekaccāni**<br>**ekacce** |
-| **instr**    | **ekaccena**   | **ekaccehi**  | **ekaccāya**                  | **ekaccāhi**               | **ekaccena**   | **ekaccehi**               |
-| **dat**      | **ekaccassa**  | **ekaccānaṃ** | **ekaccāya**                  | **ekaccānaṃ**              | **ekaccassa**  | **ekaccānaṃ**              |
-| **abl**      | **ekaccato**   | **ekaccehi**  | **ekaccāya**                  | **ekaccāhi**               | **ekaccato**   | **ekaccehi**               |
-| **gen**      | **ekaccassa**  | **ekaccānaṃ** | **ekaccāya**                  | **ekaccānaṃ**              | **ekaccassa**  | **ekaccānaṃ**              |
-| **loc**      | **ekaccasmiṃ** | **ekaccesu**  | **ekaccāya**<br>**ekaccāyaṃ** | **ekaccāsu**               | **ekaccasmiṃ** | **ekaccesu**               |
-| **in comps** | **ekacca**     |               |                               |                            |                |                            |
+| | **masc sg** | **masc pl** | **fem sg** | **fem pl** | **neut sg** | **neut pl** |
+| -------------- | ---------------- | --------------- | ------------------------------- | ---------------------------- | ---------------- | ---------------------------- |
+| **nom** | **ekacco** | **ekacce** | **ekaccā** | **ekaccā**<br>**ekaccāyo** | **ekaccaṃ** | **ekaccāni**<br>**ekacce** |
+| **acc** | **ekaccaṃ** | **ekacce** | **ekaccaṃ** | **ekaccā**<br>**ekaccāyo** | **ekaccaṃ** | **ekaccāni**<br>**ekacce** |
+| **instr** | **ekaccena** | **ekaccehi** | **ekaccāya** | **ekaccāhi** | **ekaccena** | **ekaccehi** |
+| **dat** | **ekaccassa** | **ekaccānaṃ** | **ekaccāya** | **ekaccānaṃ** | **ekaccassa** | **ekaccānaṃ** |
+| **abl** | **ekaccato** | **ekaccehi** | **ekaccāya** | **ekaccāhi** | **ekaccato** | **ekaccehi** |
+| **gen** | **ekaccassa** | **ekaccānaṃ** | **ekaccāya** | **ekaccānaṃ** | **ekaccassa** | **ekaccānaṃ** |
+| **loc** | **ekaccasmiṃ** | **ekaccesu** | **ekaccāya**<br>**ekaccāyaṃ** | **ekaccāsu** | **ekaccasmiṃ** | **ekaccesu** |
+| **in comps** | **ekacca** | | | | | |
 
 ***
 
@@ -984,15 +984,15 @@ ekatiya and ekacciya decline like normal “a adj”
 
 ***
 
-|           | **masc sg**                                     | **masc pl**                | **fem sg**                | **fem pl**                 | **neut sg**                                     | **neut pl**                       |
-|-----------|-------------------------------------------------|----------------------------|---------------------------|----------------------------|-------------------------------------------------|-----------------------------------|
-| **nom**   | **amu**<br>**asu**                              | **amū**                    | **amu**<br>**asu**        | **amayo**<br>**amū**       | **aduṃ**                                        | **adūni**<br>**amūni**            |
-| **acc**   | **amuṃ**                                        | **amuyo**<br>**amū**       | **amuṃ**                  | **amayo**<br>**amū**       | **amuṃ**                                        | **amayo**<br>**amū**<br>**amūni** |
-| **instr** | **amunā**                                       | **amūhi**                  | **amuyā**                 | **amūhi**                  | **amunā**                                       | **amūhi**                         |
-| **dat**   | **amuno**<br>**amussa**                         | **amūsaṃ**<br>**amūsānaṃ** | **amuyā**<br>**amussā**   | **amūsaṃ**<br>**amūsānaṃ** | **amuno**<br>**amussa**                         | **amūsaṃ**<br>**amūsānaṃ**        |
-| **abl**   | **amunā**<br>**amumhā**<br>**asmā**<br>**usmā** | **amūhi**                  | **amuyā**                 | **amūhi**                  | **amunā**<br>**amumhā**<br>**asmā**<br>**usmā** | **amūhi**                         |
-| **gen**   | **amuno**<br>**amussa**                         | **amūsaṃ**<br>**amūsānaṃ** | **amuyā**<br>**amussā**   | **amūsaṃ**<br>**amūsānaṃ** | **amuno**<br>**amussa**                         | **amūsaṃ**<br>**amūsānaṃ**        |
-| **loc**   | **amumhi**<br>**amusmiṃ**                       | **amūsu**                  | **amuyaṃ**<br>**amussaṃ** | **amūsu**                  | **amumhi**<br>**amusmiṃ**                       | **amūsu**                         |
+| | **masc sg** | **masc pl** | **fem sg** | **fem pl** | **neut sg** | **neut pl** |
+| ----------- | ------------------------------------------------- | ---------------------------- | --------------------------- | ---------------------------- | ------------------------------------------------- | ----------------------------------- |
+| **nom** | **amu**<br>**asu** | **amū** | **amu**<br>**asu** | **amayo**<br>**amū** | **aduṃ** | **adūni**<br>**amūni** |
+| **acc** | **amuṃ** | **amuyo**<br>**amū** | **amuṃ** | **amayo**<br>**amū** | **amuṃ** | **amayo**<br>**amū**<br>**amūni** |
+| **instr** | **amunā** | **amūhi** | **amuyā** | **amūhi** | **amunā** | **amūhi** |
+| **dat** | **amuno**<br>**amussa** | **amūsaṃ**<br>**amūsānaṃ** | **amuyā**<br>**amussā** | **amūsaṃ**<br>**amūsānaṃ** | **amuno**<br>**amussa** | **amūsaṃ**<br>**amūsānaṃ** |
+| **abl** | **amunā**<br>**amumhā**<br>**asmā**<br>**usmā** | **amūhi** | **amuyā** | **amūhi** | **amunā**<br>**amumhā**<br>**asmā**<br>**usmā** | **amūhi** |
+| **gen** | **amuno**<br>**amussa** | **amūsaṃ**<br>**amūsānaṃ** | **amuyā**<br>**amussā** | **amūsaṃ**<br>**amūsānaṃ** | **amuno**<br>**amussa** | **amūsaṃ**<br>**amūsānaṃ** |
+| **loc** | **amumhi**<br>**amusmiṃ** | **amūsu** | **amuyaṃ**<br>**amussaṃ** | **amūsu** | **amumhi**<br>**amusmiṃ** | **amūsu** |
 
 ***
 
@@ -1008,49 +1008,49 @@ The original form of this is almost absent in the Active Voice.
 
 ***
 
-|             | **sg**                                  | **pl**                                       | **reflexive sg**                | **reflexive pl**                    |
-|-------------|-----------------------------------------|----------------------------------------------|---------------------------------|-------------------------------------|
-| **pr 3rd**  | pass**ati**                             | pass**anti**                                 | pass**ate**                     | pass**ante**<br>pass**are**         |
-| **pr 2nd**  | pass**asi**                             | pass**atha**                                 | pass**ase**                     | pass**avhe**                        |
-| **pr 1st**  | pass**āmi**                             | pass**āma**                                  | pass**e**                       | pass**amhase**<br>pass**āmhe**      |
-| **imp 3rd** | pass**atu**                             | pass**antu**                                 | pass**ataṃ**                    | pass**antaṃ**                       |
-| **imp 2nd** | pass**a**<br>pass**āsi**<br>pass**āhi** | pass**atha**                                 | pass**assu**                    | pass**avho**                        |
-| **imp 1st** | pass**āmi**                             | pass**āma**                                  | pass**e**                       | pass**āmase**                       |
-| **opt 3rd** | pass**e**<br>pass**eyya**               | pass**eyyu**<br>pass**eyyuṃ**                | pass**etha**                    | pass**eraṃ**                        |
-| **opt 2nd** | pass**e**<br>pass**eyyāsi**             | pass**etha**<br>pass**eyyātha**              | pass**etho**<br>pass**eyyātho** | pass**eyyavho**<br>pass**eyyāvho**  |
-| **opt 1st** | pass**e**<br>pass**eyyāmi**             | pass**ema**<br>pass**emu**<br>pass**eyyāma** | pass**eyyaṃ**                   | pass**emase**<br>pass**eyyāmhe**    |
-| **fut 3rd** | pass**issati**                          | pass**issanti**                              | pass**issate**                  | pass**issante**                     |
-| **fut 2nd** | pass**issasi**                          | pass**issatha**                              | pass**issase**                  | pass**issavhe**                     |
-| **fut 1st** | pass**issāmi**                          | pass**issāma**                               | pass**issaṃ**                   | pass**issāmase**<br>pass**issāmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ----------------------------------------- | ---------------------------------------------- | --------------------------------- | ------------------------------------- |
+| **pr 3rd** | pass**ati** | pass**anti** | pass**ate** | pass**ante**<br>pass**are** |
+| **pr 2nd** | pass**asi** | pass**atha** | pass**ase** | pass**avhe** |
+| **pr 1st** | pass**āmi** | pass**āma** | pass**e** | pass**amhase**<br>pass**āmhe** |
+| **imp 3rd** | pass**atu** | pass**antu** | pass**ataṃ** | pass**antaṃ** |
+| **imp 2nd** | pass**a**<br>pass**āsi**<br>pass**āhi** | pass**atha** | pass**assu** | pass**avho** |
+| **imp 1st** | pass**āmi** | pass**āma** | pass**e** | pass**āmase** |
+| **opt 3rd** | pass**e**<br>pass**eyya** | pass**eyyu**<br>pass**eyyuṃ** | pass**etha** | pass**eraṃ** |
+| **opt 2nd** | pass**e**<br>pass**eyyāsi** | pass**etha**<br>pass**eyyātha** | pass**etho**<br>pass**eyyātho** | pass**eyyavho**<br>pass**eyyāvho** |
+| **opt 1st** | pass**e**<br>pass**eyyāmi** | pass**ema**<br>pass**emu**<br>pass**eyyāma** | pass**eyyaṃ** | pass**emase**<br>pass**eyyāmhe** |
+| **fut 3rd** | pass**issati** | pass**issanti** | pass**issate** | pass**issante** |
+| **fut 2nd** | pass**issasi** | pass**issatha** | pass**issase** | pass**issavhe** |
+| **fut 1st** | pass**issāmi** | pass**issāma** | pass**issaṃ** | pass**issāmase**<br>pass**issāmhe** |
 
-|             | **sg**                                          | **pl**                                          | **reflexive sg**              | **reflexive pl**                     |
-|-------------|-------------------------------------------------|-------------------------------------------------|-------------------------------|--------------------------------------|
-| **pr 3rd**  | **dakkhati**<br>**dakkhiti**                    | **dakkhanti**<br>**dakkhinti**                  | **dakkhate**                  | **dakkhante**<br>**dakkhare**        |
-| **pr 2nd**  | **dakkhasi**                                    | **dakkhatha**                                   | **dakkhase**                  | **dakkhavhe**                        |
-| **pr 1st**  | **dakkhāmi**                                    | **dakkhāma**                                    | **dakkhe**                    | **dakkhāmhe**                        |
-| **imp 3rd** | **dakkhatu**                                    | **dakkhantu**                                   | **dakkhataṃ**                 | **dakkhantaṃ**                       |
-| **imp 2nd** | **dakkha**<br>**dakkhāhi**                      | **dakkhatha**                                   | **dakkhassu**                 | **dakkhavho**                        |
-| **imp 1st** | **dakkhāmi**                                    | **dakkhāma**                                    | **dakkhe**                    | **dakkhāmase**                       |
-| **opt 3rd** | **dakkhe**<br>**dakkheyya**                     | **dakkheyyuṃ**                                  | **dakkhetha**                 | **dakkheraṃ**                        |
-| **opt 2nd** | **dakkhe**<br>**dakkheyyāsi**                   | **dakkhetha**<br>**dakkheyyātha**               | **dakkhetho**                 | **dakkheyyavho**<br>**dakkheyyāvho** |
-| **opt 1st** | **dakkhe**<br>**dakkheyyāmi**                   | **dakkhema**<br>**dakkhemu**<br>**dakkheyyāma** | **dakkheyyaṃ**                | **dakkheyyāmhe**                     |
-| **fut 3rd** | **dakkhati**<br>**dakkhiti**<br>**dakkhissati** | **dakkhinti**<br>**dakkhissanti**               | **dakkhissate**               | **dakkhissante**                     |
-| **fut 2nd** | **dakkhisi**<br>**dakkhissasi**                 | **dakkhissatha**                                | **dakkhissase**               | **dakkhissavhe**                     |
-| **fut 1st** | **dakkhissāmi**                                 | **dakkhissāma**                                 | **dakkhissaṃ**<br>**dacchaṃ** | **dakkhissāmhe**                     |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------- | -------------------------------------- |
+| **pr 3rd** | **dakkhati**<br>**dakkhiti** | **dakkhanti**<br>**dakkhinti** | **dakkhate** | **dakkhante**<br>**dakkhare** |
+| **pr 2nd** | **dakkhasi** | **dakkhatha** | **dakkhase** | **dakkhavhe** |
+| **pr 1st** | **dakkhāmi** | **dakkhāma** | **dakkhe** | **dakkhāmhe** |
+| **imp 3rd** | **dakkhatu** | **dakkhantu** | **dakkhataṃ** | **dakkhantaṃ** |
+| **imp 2nd** | **dakkha**<br>**dakkhāhi** | **dakkhatha** | **dakkhassu** | **dakkhavho** |
+| **imp 1st** | **dakkhāmi** | **dakkhāma** | **dakkhe** | **dakkhāmase** |
+| **opt 3rd** | **dakkhe**<br>**dakkheyya** | **dakkheyyuṃ** | **dakkhetha** | **dakkheraṃ** |
+| **opt 2nd** | **dakkhe**<br>**dakkheyyāsi** | **dakkhetha**<br>**dakkheyyātha** | **dakkhetho** | **dakkheyyavho**<br>**dakkheyyāvho** |
+| **opt 1st** | **dakkhe**<br>**dakkheyyāmi** | **dakkhema**<br>**dakkhemu**<br>**dakkheyyāma** | **dakkheyyaṃ** | **dakkheyyāmhe** |
+| **fut 3rd** | **dakkhati**<br>**dakkhiti**<br>**dakkhissati** | **dakkhinti**<br>**dakkhissanti** | **dakkhissate** | **dakkhissante** |
+| **fut 2nd** | **dakkhisi**<br>**dakkhissasi** | **dakkhissatha** | **dakkhissase** | **dakkhissavhe** |
+| **fut 1st** | **dakkhissāmi** | **dakkhissāma** | **dakkhissaṃ**<br>**dacchaṃ** | **dakkhissāmhe** |
 
 ***
 
-|                | **sg**                                                 | **pl**                                                                    |
-|----------------|--------------------------------------------------------|---------------------------------------------------------------------------|
+| | **sg** | **pl** |
+| ---------------- | -------------------------------------------------------- | --------------------------------------------------------------------------- |
 | **imperf 3rd** | **adissā**<br>**addakkhā**<br>**addasā**<br>**apassā** | **addakkhu**<br>**addakkhuṃ**<br>**addasu**<br>**addasuṃ**<br>**apassuṃ** |
-| **imperf 2nd** | **addakkho**<br>**apasso**                             | **addakkhittha**<br>**apassittha**                                        |
-| **imperf 1st** | **addakkhaṃ**<br>**addasaṃ**<br>**apassaṃ**            | **addakkhamhā**<br>**apassamhā**                                          |
+| **imperf 2nd** | **addakkho**<br>**apasso** | **addakkhittha**<br>**apassittha** |
+| **imperf 1st** | **addakkhaṃ**<br>**addasaṃ**<br>**apassaṃ** | **addakkhamhā**<br>**apassamhā** |
 
-|             | **sg**                                                                                          | **pl**                                                                                             |
-|-------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| | **sg** | **pl** |
+| ------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **aor 3rd** | a**dakkhi**<br>a**dda**<br>a**ddakkhi**<br>a**ddasa**<br>a**ddasāsi**<br>a**ddā**<br>a**passi** | a**ddakkhiṃsu**<br>a**ddakkhuṃ**<br>a**ddasaṃsu**<br>a**ddasāsuṃ**<br>a**ddasuṃ**<br>a**passiṃsu** |
-| **aor 2nd** | a**ddakkho**<br>a**ddasa**<br>a**passi**                                                        | a**ddakkhittha**<br>a**ddasatha**<br>a**ddassatha**<br>a**passittha**                              |
-| **aor 1st** | a**ddakkhiṃ**<br>a**ddasaṃ**<br>a**ddasāmi**<br>a**ddasāsiṃ**<br>a**passiṃ**                    | a**ddakkhimha**<br>a**ddasāma**<br>a**passimha**                                                   |
+| **aor 2nd** | a**ddakkho**<br>a**ddasa**<br>a**passi** | a**ddakkhittha**<br>a**ddasatha**<br>a**ddassatha**<br>a**passittha** |
+| **aor 1st** | a**ddakkhiṃ**<br>a**ddasaṃ**<br>a**ddasāmi**<br>a**ddasāsiṃ**<br>a**passiṃ** | a**ddakkhimha**<br>a**ddasāma**<br>a**passimha** |
 
 ***
 
@@ -1062,16 +1062,16 @@ ka - pron - who?; what?; which?
 
 ***
 
-|              | **masc sg**                                        | **masc pl**              | **fem sg**                                                     | **fem pl**               | **neut sg**                                        | **neut pl**              |
-|--------------|----------------------------------------------------|--------------------------|----------------------------------------------------------------|--------------------------|----------------------------------------------------|--------------------------|
-| **nom**      | **ke**<br>**ko**                                   | **ke**                   | **kā**                                                         | **kā**<br>**kāyo**       | **kaṃ**<br>**kiṃ**                                 | **kāni**<br>**ke**       |
-| **acc**      | **kaṃ**                                            | **ke**                   | **kaṃ**                                                        | **kā**<br>**kāyo**       | **kaṃ**<br>**kiṃ**                                 | **kāni**<br>**ke**       |
-| **instr**    | **kena**                                           | **kehi**                 | **kāya**                                                       | **kāhi**                 | **kena**                                           | **kehi**                 |
-| **dat**      | **kassa**<br>**kissa**<br>**kissassa**             | **kesaṃ**<br>**kesānaṃ** | **kassā**<br>**kāya**<br>**kissā**                             | **kāsaṃ**<br>**kāsānaṃ** | **kassa**<br>**kissa**<br>**kissassa**             | **kesaṃ**<br>**kesānaṃ** |
-| **abl**      | **kamhā**<br>**kasmā**<br>**kismā**                | **kehi**                 | **kāya**                                                       | **kāhi**                 | **kamhā**<br>**kasmā**<br>**kismā**                | **kehi**                 |
-| **gen**      | **kassa**<br>**kissa**<br>**kissassa**             | **kesaṃ**<br>**kesānaṃ** | **kassā**<br>**kāya**<br>**kissā**                             | **kāsaṃ**<br>**kāsānaṃ** | **kassa**<br>**kissa**<br>**kissassa**             | **kesaṃ**<br>**kesānaṃ** |
-| **loc**      | **kamhi**<br>**kasmiṃ**<br>**kimhi**<br>**kismiṃ** | **kesu**                 | **kassaṃ**<br>**kassā**<br>**kāya**<br>**kāyaṃ**<br>**kissaṃ** | **kāsu**                 | **kamhi**<br>**kasmiṃ**<br>**kimhi**<br>**kismiṃ** | **kesu**                 |
-| **in comps** | **ka**<br>**ky**                                   |                          |                                                                |                          |                                                    |                          |
+| | **masc sg** | **masc pl** | **fem sg** | **fem pl** | **neut sg** | **neut pl** |
+| -------------- | ---------------------------------------------------- | -------------------------- | ---------------------------------------------------------------- | -------------------------- | ---------------------------------------------------- | -------------------------- |
+| **nom** | **ke**<br>**ko** | **ke** | **kā** | **kā**<br>**kāyo** | **kaṃ**<br>**kiṃ** | **kāni**<br>**ke** |
+| **acc** | **kaṃ** | **ke** | **kaṃ** | **kā**<br>**kāyo** | **kaṃ**<br>**kiṃ** | **kāni**<br>**ke** |
+| **instr** | **kena** | **kehi** | **kāya** | **kāhi** | **kena** | **kehi** |
+| **dat** | **kassa**<br>**kissa**<br>**kissassa** | **kesaṃ**<br>**kesānaṃ** | **kassā**<br>**kāya**<br>**kissā** | **kāsaṃ**<br>**kāsānaṃ** | **kassa**<br>**kissa**<br>**kissassa** | **kesaṃ**<br>**kesānaṃ** |
+| **abl** | **kamhā**<br>**kasmā**<br>**kismā** | **kehi** | **kāya** | **kāhi** | **kamhā**<br>**kasmā**<br>**kismā** | **kehi** |
+| **gen** | **kassa**<br>**kissa**<br>**kissassa** | **kesaṃ**<br>**kesānaṃ** | **kassā**<br>**kāya**<br>**kissā** | **kāsaṃ**<br>**kāsānaṃ** | **kassa**<br>**kissa**<br>**kissassa** | **kesaṃ**<br>**kesānaṃ** |
+| **loc** | **kamhi**<br>**kasmiṃ**<br>**kimhi**<br>**kismiṃ** | **kesu** | **kassaṃ**<br>**kassā**<br>**kāya**<br>**kāyaṃ**<br>**kissaṃ** | **kāsu** | **kamhi**<br>**kasmiṃ**<br>**kimhi**<br>**kismiṃ** | **kesu** |
+| **in comps** | **ka**<br>**ky** | | | | | |
 
 ***
 
@@ -1085,15 +1085,15 @@ ka - pron - who?; what?; which?
 
 ***
 
-|           | **masc sg**                                                | **masc pl**            | **fem sg**                | **fem pl**  | **neut sg**                                                | **neut pl** |
-|-----------|------------------------------------------------------------|------------------------|---------------------------|-------------|------------------------------------------------------------|-------------|
-| **nom**   | **koci**                                                   | **kecana**<br>**keci** | **kāci**                  | **kāci**    | **kiñci**                                                  | **kānici**  |
-| **acc**   | **kañci**<br>**kiñcanaṃ**<br>**kiñci**                     | **kecana**<br>**keci** | **kañci**                 | **kāci**    | **kiñci**                                                  | **kānici**  |
-| **instr** | **kenaci**                                                 | **kehici**             | **kāyaci**                | **kāhici**  | **kenaci**                                                 | **kehici**  |
-| **dat**   | **kassaci**                                                | **kesañci**            | **kassāci**<br>**kāyaci** | **kāsañci** | **kassaci**                                                | **kesañci** |
-| **abl**   |                                                            | **kehici**             | **kāyaci**                | **kāhici**  |                                                            | **kehici**  |
-| **gen**   | **kassaci**                                                | **kesañci**            | **kassāci**<br>**kāyaci** | **kāsañci** | **kassaci**                                                | **kesañci** |
-| **loc**   | **kasmiñci**<br>**kimhici**<br>**kismici**<br>**kismiñci** | **kesuci**             | **kāyaci**                | **kāsuci**  | **kasmiñci**<br>**kimhici**<br>**kismici**<br>**kismiñci** | **kesuci**  |
+| | **masc sg** | **masc pl** | **fem sg** | **fem pl** | **neut sg** | **neut pl** |
+| ----------- | ------------------------------------------------------------ | ------------------------ | --------------------------- | ------------- | ------------------------------------------------------------ | ------------- |
+| **nom** | **koci** | **kecana**<br>**keci** | **kāci** | **kāci** | **kiñci** | **kānici** |
+| **acc** | **kañci**<br>**kiñcanaṃ**<br>**kiñci** | **kecana**<br>**keci** | **kañci** | **kāci** | **kiñci** | **kānici** |
+| **instr** | **kenaci** | **kehici** | **kāyaci** | **kāhici** | **kenaci** | **kehici** |
+| **dat** | **kassaci** | **kesañci** | **kassāci**<br>**kāyaci** | **kāsañci** | **kassaci** | **kesañci** |
+| **abl** | | **kehici** | **kāyaci** | **kāhici** | | **kehici** |
+| **gen** | **kassaci** | **kesañci** | **kassāci**<br>**kāyaci** | **kāsañci** | **kassaci** | **kesañci** |
+| **loc** | **kasmiñci**<br>**kimhici**<br>**kismici**<br>**kismiñci** | **kesuci** | **kāyaci** | **kāsuci** | **kasmiñci**<br>**kimhici**<br>**kismici**<br>**kismiñci** | **kesuci** |
 
 ***
 
@@ -1107,28 +1107,28 @@ Being of the 5th conjugation, kiyādigaṇa, this root takes the conjugational s
 
 ***
 
-|             | **sg**                    | **pl**                                    | **reflexive sg** | **reflexive pl**                 |
-|-------------|---------------------------|-------------------------------------------|------------------|----------------------------------|
-| **pr 3rd**  | jān**āti**                | jān**anti**                               | jān**āte**       | jān**ante**<br>jān**are**        |
-| **pr 2nd**  | jān**asi**<br>jān**āsi**  | jān**ātha**                               | jān**āse**       | jān**avhe**                      |
-| **pr 1st**  | jān**āmi**                | jān**āma**                                | jān**e**         | jān**amhase**<br>jān**āmhe**     |
-| **imp 3rd** | jān**atu**<br>jān**ātu**  | jān**antu**                               | jān**ataṃ**      | jān**antaṃ**                     |
-| **imp 2nd** | jān**ahi**<br>jān**āhi**  | jān**atha**<br>jān**ātha**                | jān**assu**      | jān**avho**                      |
-| **imp 1st** | jān**āmi**                | jān**āma**                                | jān**e**         | jān**āmase**                     |
-| **opt 3rd** | jān**e**<br>jān**eyya**   | jān**eyyuṃ**                              | jān**etha**      | jān**eraṃ**                      |
-| **opt 2nd** | jān**e**<br>jān**eyyāsi** | jān**etha**<br>jān**eyyātha**             | jān**etho**      | jān**eyyavho**<br>jān**eyyāvho** |
-| **opt 1st** | jān**e**<br>jān**eyyāmi** | jān**ema**<br>jān**emu**<br>jān**eyyāma** | jān**eyyaṃ**     | jān**eyyāmhe**                   |
-| **fut 3rd** | jān**issati**             | jān**issanti**                            | jān**issate**    | jān**issante**                   |
-| **fut 2nd** | jān**issasi**             | jān**issatha**                            | jān**issase**    | jān**issavhe**                   |
-| **fut 1st** | jān**issāmi**             | jān**issāma**                             | jān**issaṃ**     | jān**issāmhe**                   |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | --------------------------- | ------------------------------------------- | ------------------ | ---------------------------------- |
+| **pr 3rd** | jān**āti** | jān**anti** | jān**āte** | jān**ante**<br>jān**are** |
+| **pr 2nd** | jān**asi**<br>jān**āsi** | jān**ātha** | jān**āse** | jān**avhe** |
+| **pr 1st** | jān**āmi** | jān**āma** | jān**e** | jān**amhase**<br>jān**āmhe** |
+| **imp 3rd** | jān**atu**<br>jān**ātu** | jān**antu** | jān**ataṃ** | jān**antaṃ** |
+| **imp 2nd** | jān**ahi**<br>jān**āhi** | jān**atha**<br>jān**ātha** | jān**assu** | jān**avho** |
+| **imp 1st** | jān**āmi** | jān**āma** | jān**e** | jān**āmase** |
+| **opt 3rd** | jān**e**<br>jān**eyya** | jān**eyyuṃ** | jān**etha** | jān**eraṃ** |
+| **opt 2nd** | jān**e**<br>jān**eyyāsi** | jān**etha**<br>jān**eyyātha** | jān**etho** | jān**eyyavho**<br>jān**eyyāvho** |
+| **opt 1st** | jān**e**<br>jān**eyyāmi** | jān**ema**<br>jān**emu**<br>jān**eyyāma** | jān**eyyaṃ** | jān**eyyāmhe** |
+| **fut 3rd** | jān**issati** | jān**issanti** | jān**issate** | jān**issante** |
+| **fut 2nd** | jān**issasi** | jān**issatha** | jān**issase** | jān**issavhe** |
+| **fut 1st** | jān**issāmi** | jān**issāma** | jān**issaṃ** | jān**issāmhe** |
 
 ***
 
-|             | **sg**                  | **pl**       | **reflexive sg** | **reflexive pl** |
-|-------------|-------------------------|--------------|------------------|------------------|
-| **opt 3rd** | **jaññā**<br>**jāniyā** |              |                  |                  |
-| **opt 2nd** | **jaññā**               |              |                  |                  |
-| **opt 1st** |                         | **jāniyāma** | **jaññaṃ**       | **jāniyāmase**   |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------- | -------------- | ------------------ | ------------------ |
+| **opt 3rd** | **jaññā**<br>**jāniyā** | | | |
+| **opt 2nd** | **jaññā** | | | |
+| **opt 1st** | | **jāniyāma** | **jaññaṃ** | **jāniyāmase** |
 
 ***
 
@@ -1136,19 +1136,19 @@ in aorist conjugational sigh nā is sometimes dropped
 
 ***
 
-|             | **sg**               | **pl**                     | **reflexive sg**                        | **reflexive pl**             |
-|-------------|----------------------|----------------------------|-----------------------------------------|------------------------------|
-| **aor 3rd** | jān**i**<br>jān**ī** | jān**iṃsu**<br>jān**uṃ**   | jān**atha**<br>jān**ā**<br>jān**ittha** | jān**ū**                     |
-| **aor 2nd** | jān**i**<br>jān**o** | jān**ittha**               | jān**ittho**<br>jān**ise**              | jān**ivhaṃ**                 |
-| **aor 1st** | jān**iṃ**            | jān**imha**<br>jān**imhā** | jān**a**<br>jān**aṃ**<br>jān**itthaṃ**  | jān**imhase**<br>jān**imhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------- | ---------------------------- | ----------------------------------------- | ------------------------------ |
+| **aor 3rd** | jān**i**<br>jān**ī** | jān**iṃsu**<br>jān**uṃ** | jān**atha**<br>jān**ā**<br>jān**ittha** | jān**ū** |
+| **aor 2nd** | jān**i**<br>jān**o** | jān**ittha** | jān**ittho**<br>jān**ise** | jān**ivhaṃ** |
+| **aor 1st** | jān**iṃ** | jān**imha**<br>jān**imhā** | jān**a**<br>jān**aṃ**<br>jān**itthaṃ** | jān**imhase**<br>jān**imhe** |
 
 ***
 
-|             | **sg**      | **pl**       | **reflexive sg** | **reflexive pl** |
-|-------------|-------------|--------------|------------------|------------------|
-| **fut 3rd** | ña**ssati** | ña**ssanti** | ña**ssate**      | ña**ssante**     |
-| **fut 2nd** | ña**ssasi** | ña**ssatha** | ña**ssase**      | ña**ssavhe**     |
-| **fut 1st** | ña**ssāmi** | ña**ssāma**  | ña**ssaṃ**       | ña**ssāmhe**     |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------- | -------------- | ------------------ | ------------------ |
+| **fut 3rd** | ña**ssati** | ña**ssanti** | ña**ssate** | ña**ssante** |
+| **fut 2nd** | ña**ssasi** | ña**ssatha** | ña**ssase** | ña**ssavhe** |
+| **fut 1st** | ña**ssāmi** | ña**ssāma** | ña**ssaṃ** | ña**ssāmhe** |
 
 ***
 
@@ -1158,20 +1158,20 @@ in aorist conjugational sigh nā is sometimes dropped
 
 ## Conjugation of √brū (to say)
 
-|             | **sg**                    | **pl**                     | **reflexive sg** | **reflexive pl** |
-|-------------|---------------------------|----------------------------|------------------|------------------|
-| **pr 3rd**  | **bravīti**<br>**brūti**  | **brunti**<br>**bruvanti** | **brūte**        | **bruvante**     |
-| **pr 2nd**  | **brūsi**                 | **brūtha**                 | **brūse**        | **bruvhe**       |
-| **pr 1st**  | **brūmi**                 | **brūma**                  | **bruve**        | **brumhe**       |
-| **imp 3rd** | **bravitu**<br>**brūtu**  | **bruvantu**               | **brūte**        | **bruvante**     |
-| **imp 2nd** | **brūhi**                 | **brūtha**                 | **brūse**        | **brūvhe**       |
-| **imp 1st** | **brūmi**                 | **brūma**                  | **brūve**        | **brumhe**       |
-| **opt 3rd** | **bruve**<br>**bruveyya** | **bruveyyuṃ**              | **bruvetha**     | **bruveraṃ**     |
-| **opt 2nd** | **bruveyyāsi**            | **bruveyyātha**            | **bruvetho**     | **bruveyyavho**  |
-| **opt 1st** | **bruveyyāmi**            | **bruveyyāma**             | **bruveyyaṃ**    | **bruveyyāmhe**  |
-| **fut 3rd** | **bravissati**            | **bravissanti**            | **bravissate**   | **bravissante**  |
-| **fut 2nd** | **bravissasi**            | **bravissatha**            | **bravissase**   | **bravissavhe**  |
-| **fut 1st** | **bravissāmi**            | **bravissāma**             | **bravissaṃ**    | **bravissāmhe**  |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | --------------------------- | ---------------------------- | ------------------ | ------------------ |
+| **pr 3rd** | **bravīti**<br>**brūti** | **brunti**<br>**bruvanti** | **brūte** | **bruvante** |
+| **pr 2nd** | **brūsi** | **brūtha** | **brūse** | **bruvhe** |
+| **pr 1st** | **brūmi** | **brūma** | **bruve** | **brumhe** |
+| **imp 3rd** | **bravitu**<br>**brūtu** | **bruvantu** | **brūte** | **bruvante** |
+| **imp 2nd** | **brūhi** | **brūtha** | **brūse** | **brūvhe** |
+| **imp 1st** | **brūmi** | **brūma** | **brūve** | **brumhe** |
+| **opt 3rd** | **bruve**<br>**bruveyya** | **bruveyyuṃ** | **bruvetha** | **bruveraṃ** |
+| **opt 2nd** | **bruveyyāsi** | **bruveyyātha** | **bruvetho** | **bruveyyavho** |
+| **opt 1st** | **bruveyyāmi** | **bruveyyāma** | **bruveyyaṃ** | **bruveyyāmhe** |
+| **fut 3rd** | **bravissati** | **bravissanti** | **bravissate** | **bravissante** |
+| **fut 2nd** | **bravissasi** | **bravissatha** | **bravissase** | **bravissavhe** |
+| **fut 1st** | **bravissāmi** | **bravissāma** | **bravissaṃ** | **bravissāmhe** |
 
 ***
 
@@ -1181,27 +1181,27 @@ Traditionally considered that sometimes √brū \> √āh (Kacc)
 
 ***
 
-|              | **sg**  | **pl**                |
-|--------------|---------|-----------------------|
+| | **sg** | **pl** |
+| -------------- | --------- | ----------------------- |
 | **perf 3rd** | **āha** | **āhaṃsu**<br>**āhu** |
-| **perf 2nd** |         |                       |
-| **perf 1st** |         |                       |
+| **perf 2nd** | | |
+| **perf 1st** | | |
 
 ***
 
-|             | **sg**                 | **pl**                       | **reflexive sg**                           | **reflexive pl**               |
-|-------------|------------------------|------------------------------|--------------------------------------------|--------------------------------|
-| **aor 3rd** | brav**i**<br>brav**ī** | brav**iṃsu**<br>brav**uṃ**   | brav**atha**<br>brav**ā**<br>brav**ittha** | brav**ū**                      |
-| **aor 2nd** | brav**i**<br>brav**o** | brav**ittha**                | brav**ittho**<br>brav**ise**               | brav**ivhaṃ**                  |
-| **aor 1st** | brav**iṃ**             | brav**imha**<br>brav**imhā** | brav**a**<br>brav**aṃ**<br>brav**itthaṃ**  | brav**imhase**<br>brav**imhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------ | ------------------------------ | -------------------------------------------- | -------------------------------- |
+| **aor 3rd** | brav**i**<br>brav**ī** | brav**iṃsu**<br>brav**uṃ** | brav**atha**<br>brav**ā**<br>brav**ittha** | brav**ū** |
+| **aor 2nd** | brav**i**<br>brav**o** | brav**ittha** | brav**ittho**<br>brav**ise** | brav**ivhaṃ** |
+| **aor 1st** | brav**iṃ** | brav**imha**<br>brav**imhā** | brav**a**<br>brav**aṃ**<br>brav**itthaṃ** | brav**imhase**<br>brav**imhe** |
 
-# 
 
-|         | sg               | pl                     | reflexive sg                      | reflexive pl             |
-|---------|------------------|------------------------|-----------------------------------|--------------------------|
-| aor 3rd | abravi<br>abravī | abraviṃsu<br>abravuṃ   | abravatha<br>abravā<br>abravittha | abravū                   |
-| aor 2nd | abravi<br>abravo | abravittha             | abravittho<br>abravise            | abravivhaṃ               |
-| aor 1st | abraviṃ          | abravimha<br>abravimhā | abrava<br>abravaṃ<br>abravitthaṃ  | abravimhase<br>abravimhe |
+
+|  | sg | pl | reflexive sg | reflexive pl |
+| --------- | ------------------ | ------------------------ | ----------------------------------- | -------------------------- |
+| aor 3rd | abravi<br>abravī | abraviṃsu<br>abravuṃ | abravatha<br>abravā<br>abravittha | abravū |
+| aor 2nd | abravi<br>abravo | abravittha | abravittho<br>abravise | abravivhaṃ |
+| aor 1st | abraviṃ | abravimha<br>abravimhā | abrava<br>abravaṃ<br>abravitthaṃ | abravimhase<br>abravimhe |
 
 # Class 37
 
@@ -1227,16 +1227,16 @@ Traditionally considered that sometimes √brū \> √āh (Kacc)
 
 ***
 
-|              | **fem sg**                    | **fem pl**                                     |
-|--------------|-------------------------------|------------------------------------------------|
-| **nom**      | vīsat**i**                    | vīsat**iyo**<br>vīsat**ī**                     |
-| **acc**      | vīsat**iṃ**                   | vīsat**iyo**<br>vīsat**ī**                     |
-| **instr**    | vīsat**iyā**                  | vīsat**ibhi**<br>vīsat**ībhi**<br>vīsat**īhi** |
-| **dat**      | vīsat**iyā**                  | vīsat**īnaṃ**                                  |
-| **abl**      | vīsat**ito**<br>vīsat**iyā**  | vīsat**ibhi**<br>vīsat**ībhi**<br>vīsat**īhi** |
-| **gen**      | vīsat**iyā**                  | vīsat**īnaṃ**                                  |
-| **loc**      | vīsat**iyaṃ**<br>vīsat**iyā** | vīsat**isu**<br>vīsat**īsu**                   |
-| **in comps** | vīsat**i**<br>vīsat**ī**      |                                                |
+| | **fem sg** | **fem pl** |
+| -------------- | ------------------------------- | ------------------------------------------------ |
+| **nom** | vīsat**i** | vīsat**iyo**<br>vīsat**ī** |
+| **acc** | vīsat**iṃ** | vīsat**iyo**<br>vīsat**ī** |
+| **instr** | vīsat**iyā** | vīsat**ibhi**<br>vīsat**ībhi**<br>vīsat**īhi** |
+| **dat** | vīsat**iyā** | vīsat**īnaṃ** |
+| **abl** | vīsat**ito**<br>vīsat**iyā** | vīsat**ibhi**<br>vīsat**ībhi**<br>vīsat**īhi** |
+| **gen** | vīsat**iyā** | vīsat**īnaṃ** |
+| **loc** | vīsat**iyaṃ**<br>vīsat**iyā** | vīsat**isu**<br>vīsat**īsu** |
+| **in comps** | vīsat**i**<br>vīsat**ī** | |
 
 ***
 
@@ -1250,16 +1250,16 @@ When the first four of these end in ā or ṃ they are to be declined as follows
 
 ***
 
-|              | **fem sg**                                    |
-|--------------|-----------------------------------------------|
-| **nom**      | vīs**a**<br>vīs**aṃ**<br>vīs**ā**<br>vīs**e** |
-| **acc**      | vīs**aṃ**                                     |
-| **instr**    | vīs**āya**                                    |
-| **dat**      | vīs**āya**                                    |
-| **abl**      | vīs**āya**                                    |
-| **gen**      | vīs**āya**                                    |
-| **loc**      | vīs**āya**<br>vīs**āyaṃ**                     |
-| **in comps** | vīs**a**                                      |
+| | **fem sg** |
+| -------------- | ----------------------------------------------- |
+| **nom** | vīs**a**<br>vīs**aṃ**<br>vīs**ā**<br>vīs**e** |
+| **acc** | vīs**aṃ** |
+| **instr** | vīs**āya** |
+| **dat** | vīs**āya** |
+| **abl** | vīs**āya** |
+| **gen** | vīs**āya** |
+| **loc** | vīs**āya**<br>vīs**āyaṃ** |
+| **in comps** | vīs**a** |
 
 ***
 
@@ -1267,16 +1267,16 @@ sata, sahassa, lakkha (hundred thousand) and the compounds ending with them are 
 
 ***
 
-|              | **neut sg**                                          | **neut pl**            |
-|--------------|------------------------------------------------------|------------------------|
-| **nom**      | sat**aṃ**<br>sat**e**                                | sat**ā**<br>sat**āni** |
-| **acc**      | sat**aṃ**                                            | sat**āni**<br>sat**e** |
-| **instr**    | sat**ena**                                           | sat**ehi**             |
-| **dat**      | sat**assa**<br>sat**āya**                            | sat**ānaṃ**            |
-| **abl**      | sat**ato**<br>sat**amhā**<br>sat**asmā**<br>sat**ā** | sat**ehi**             |
-| **gen**      | sat**assa**                                          | sat**ānaṃ**            |
-| **loc**      | sat**amhi**<br>sat**asmiṃ**<br>sat**e**              | sat**esu**             |
-| **in comps** | sat**a**                                             |                        |
+| | **neut sg** | **neut pl** |
+| -------------- | ------------------------------------------------------ | ------------------------ |
+| **nom** | sat**aṃ**<br>sat**e** | sat**ā**<br>sat**āni** |
+| **acc** | sat**aṃ** | sat**āni**<br>sat**e** |
+| **instr** | sat**ena** | sat**ehi** |
+| **dat** | sat**assa**<br>sat**āya** | sat**ānaṃ** |
+| **abl** | sat**ato**<br>sat**amhā**<br>sat**asmā**<br>sat**ā** | sat**ehi** |
+| **gen** | sat**assa** | sat**ānaṃ** |
+| **loc** | sat**amhi**<br>sat**asmiṃ**<br>sat**e** | sat**esu** |
+| **in comps** | sat**a** | |
 
 ***
 
@@ -1368,7 +1368,7 @@ Each preceding number is multiplied by ten million to give the succeeding number
 
 ***
 
-## 
+
 
 ## Future forms in the past sense
 
@@ -1386,11 +1386,11 @@ anekajātisaṃsāraṃ, **sandhāvissaṃ** anibbisaṃ
 
 ***
 
-# 
+
 
 # Class 38
 
-## 
+
 
 ## Words governing the instrumental
 
@@ -1464,7 +1464,7 @@ The Potential or Future Participles, ending in -tabba, anīya etc. are always to
 
 ***
 
-# 
+
 
 # Class 39
 
@@ -1474,45 +1474,45 @@ This is often changed to tiṭṭha; but this change does not occur in Past and 
 
 ***
 
-|             | **sg**                  | **pl**                                 | **reflexive sg** | **reflexive pl**               |
-|-------------|-------------------------|----------------------------------------|------------------|--------------------------------|
-| **pr 3rd**  | ṭh**āti**               | ṭh**anti**                             | ṭh**āte**        | ṭh**ante**<br>ṭh**are**        |
-| **pr 2nd**  | ṭh**asi**<br>ṭh**āsi**  | ṭh**ātha**                             | ṭh**āse**        | ṭh**avhe**                     |
-| **pr 1st**  | ṭh**āmi**               | ṭh**āma**                              | ṭh**e**          | ṭh**amhase**<br>ṭh**āmhe**     |
-| **imp 3rd** | ṭh**atu**<br>ṭh**ātu**  | ṭh**antu**                             | ṭh**ataṃ**       | ṭh**antaṃ**                    |
-| **imp 2nd** | ṭh**ahi**<br>ṭh**āhi**  | ṭh**atha**<br>ṭh**ātha**               | ṭh**assu**       | ṭh**avho**                     |
-| **imp 1st** | ṭh**āmi**               | ṭh**āma**                              | ṭh**e**          | ṭh**āmase**                    |
-| **opt 3rd** | ṭh**e**<br>ṭh**eyya**   | ṭh**eyyuṃ**                            | ṭh**etha**       | ṭh**eraṃ**                     |
-| **opt 2nd** | ṭh**e**<br>ṭh**eyyāsi** | ṭh**etha**<br>ṭh**eyyātha**            | ṭh**etho**       | ṭh**eyyavho**<br>ṭh**eyyāvho** |
-| **opt 1st** | ṭh**e**<br>ṭh**eyyāmi** | ṭh**ema**<br>ṭh**emu**<br>ṭh**eyyāma** | ṭh**eyyaṃ**      | ṭh**eyyāmhe**                  |
-| **fut 3rd** | ṭh**issati**            | ṭh**issanti**                          | ṭh**issate**     | ṭh**issante**                  |
-| **fut 2nd** | ṭh**issasi**            | ṭh**issatha**                          | ṭh**issase**     | ṭh**issavhe**                  |
-| **fut 1st** | ṭh**issāmi**            | ṭh**issāma**                           | ṭh**issaṃ**      | ṭh**issāmhe**                  |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------- | ---------------------------------------- | ------------------ | -------------------------------- |
+| **pr 3rd** | ṭh**āti** | ṭh**anti** | ṭh**āte** | ṭh**ante**<br>ṭh**are** |
+| **pr 2nd** | ṭh**asi**<br>ṭh**āsi** | ṭh**ātha** | ṭh**āse** | ṭh**avhe** |
+| **pr 1st** | ṭh**āmi** | ṭh**āma** | ṭh**e** | ṭh**amhase**<br>ṭh**āmhe** |
+| **imp 3rd** | ṭh**atu**<br>ṭh**ātu** | ṭh**antu** | ṭh**ataṃ** | ṭh**antaṃ** |
+| **imp 2nd** | ṭh**ahi**<br>ṭh**āhi** | ṭh**atha**<br>ṭh**ātha** | ṭh**assu** | ṭh**avho** |
+| **imp 1st** | ṭh**āmi** | ṭh**āma** | ṭh**e** | ṭh**āmase** |
+| **opt 3rd** | ṭh**e**<br>ṭh**eyya** | ṭh**eyyuṃ** | ṭh**etha** | ṭh**eraṃ** |
+| **opt 2nd** | ṭh**e**<br>ṭh**eyyāsi** | ṭh**etha**<br>ṭh**eyyātha** | ṭh**etho** | ṭh**eyyavho**<br>ṭh**eyyāvho** |
+| **opt 1st** | ṭh**e**<br>ṭh**eyyāmi** | ṭh**ema**<br>ṭh**emu**<br>ṭh**eyyāma** | ṭh**eyyaṃ** | ṭh**eyyāmhe** |
+| **fut 3rd** | ṭh**issati** | ṭh**issanti** | ṭh**issate** | ṭh**issante** |
+| **fut 2nd** | ṭh**issasi** | ṭh**issatha** | ṭh**issase** | ṭh**issavhe** |
+| **fut 1st** | ṭh**issāmi** | ṭh**issāma** | ṭh**issaṃ** | ṭh**issāmhe** |
 
 ***
 
-|             | **sg**                                     | **pl**                                          | **reflexive sg**                  | **reflexive pl**                      |
-|-------------|--------------------------------------------|-------------------------------------------------|-----------------------------------|---------------------------------------|
-| **pr 3rd**  | tiṭṭh**ati**                               | tiṭṭh**anti**                                   | tiṭṭh**ate**                      | tiṭṭh**ante**<br>tiṭṭh**are**         |
-| **pr 2nd**  | tiṭṭh**asi**                               | tiṭṭh**atha**                                   | tiṭṭh**ase**                      | tiṭṭh**avhe**                         |
-| **pr 1st**  | tiṭṭh**āmi**                               | tiṭṭh**āma**                                    | tiṭṭh**e**                        | tiṭṭh**amhase**<br>tiṭṭh**āmhe**      |
-| **imp 3rd** | tiṭṭh**atu**                               | tiṭṭh**antu**                                   | tiṭṭh**ataṃ**                     | tiṭṭh**antaṃ**                        |
-| **imp 2nd** | tiṭṭh**a**<br>tiṭṭh**āsi**<br>tiṭṭh**āhi** | tiṭṭh**atha**                                   | tiṭṭh**assu**                     | tiṭṭh**avho**                         |
-| **imp 1st** | tiṭṭh**āmi**                               | tiṭṭh**āma**                                    | tiṭṭh**e**                        | tiṭṭh**āmase**                        |
-| **opt 3rd** | tiṭṭh**e**<br>tiṭṭh**eyya**                | tiṭṭh**eyyu**<br>tiṭṭh**eyyuṃ**                 | tiṭṭh**etha**                     | tiṭṭh**eraṃ**                         |
-| **opt 2nd** | tiṭṭh**e**<br>tiṭṭh**eyyāsi**              | tiṭṭh**etha**<br>tiṭṭh**eyyātha**               | tiṭṭh**etho**<br>tiṭṭh**eyyātho** | tiṭṭh**eyyavho**<br>tiṭṭh**eyyāvho**  |
-| **opt 1st** | tiṭṭh**e**<br>tiṭṭh**eyyāmi**              | tiṭṭh**ema**<br>tiṭṭh**emu**<br>tiṭṭh**eyyāma** | tiṭṭh**eyyaṃ**                    | tiṭṭh**emase**<br>tiṭṭh**eyyāmhe**    |
-| **fut 3rd** | tiṭṭh**issati**                            | tiṭṭh**issanti**                                | tiṭṭh**issate**                   | tiṭṭh**issante**                      |
-| **fut 2nd** | tiṭṭh**issasi**                            | tiṭṭh**issatha**                                | tiṭṭh**issase**                   | tiṭṭh**issavhe**                      |
-| **fut 1st** | tiṭṭh**issāmi**                            | tiṭṭh**issāma**                                 | tiṭṭh**issaṃ**                    | tiṭṭh**issāmase**<br>tiṭṭh**issāmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | -------------------------------------------- | ------------------------------------------------- | ----------------------------------- | --------------------------------------- |
+| **pr 3rd** | tiṭṭh**ati** | tiṭṭh**anti** | tiṭṭh**ate** | tiṭṭh**ante**<br>tiṭṭh**are** |
+| **pr 2nd** | tiṭṭh**asi** | tiṭṭh**atha** | tiṭṭh**ase** | tiṭṭh**avhe** |
+| **pr 1st** | tiṭṭh**āmi** | tiṭṭh**āma** | tiṭṭh**e** | tiṭṭh**amhase**<br>tiṭṭh**āmhe** |
+| **imp 3rd** | tiṭṭh**atu** | tiṭṭh**antu** | tiṭṭh**ataṃ** | tiṭṭh**antaṃ** |
+| **imp 2nd** | tiṭṭh**a**<br>tiṭṭh**āsi**<br>tiṭṭh**āhi** | tiṭṭh**atha** | tiṭṭh**assu** | tiṭṭh**avho** |
+| **imp 1st** | tiṭṭh**āmi** | tiṭṭh**āma** | tiṭṭh**e** | tiṭṭh**āmase** |
+| **opt 3rd** | tiṭṭh**e**<br>tiṭṭh**eyya** | tiṭṭh**eyyu**<br>tiṭṭh**eyyuṃ** | tiṭṭh**etha** | tiṭṭh**eraṃ** |
+| **opt 2nd** | tiṭṭh**e**<br>tiṭṭh**eyyāsi** | tiṭṭh**etha**<br>tiṭṭh**eyyātha** | tiṭṭh**etho**<br>tiṭṭh**eyyātho** | tiṭṭh**eyyavho**<br>tiṭṭh**eyyāvho** |
+| **opt 1st** | tiṭṭh**e**<br>tiṭṭh**eyyāmi** | tiṭṭh**ema**<br>tiṭṭh**emu**<br>tiṭṭh**eyyāma** | tiṭṭh**eyyaṃ** | tiṭṭh**emase**<br>tiṭṭh**eyyāmhe** |
+| **fut 3rd** | tiṭṭh**issati** | tiṭṭh**issanti** | tiṭṭh**issate** | tiṭṭh**issante** |
+| **fut 2nd** | tiṭṭh**issasi** | tiṭṭh**issatha** | tiṭṭh**issase** | tiṭṭh**issavhe** |
+| **fut 1st** | tiṭṭh**issāmi** | tiṭṭh**issāma** | tiṭṭh**issaṃ** | tiṭṭh**issāmase**<br>tiṭṭh**issāmhe** |
 
 ***
 
-|             | **sg**       | **pl**                       | **reflexive sg**                  | **reflexive pl** |
-|-------------|--------------|------------------------------|-----------------------------------|------------------|
-| **aor 3rd** | aṭṭh**āsi**  | aṭṭh**aṃsu**<br>aṭṭh**iṃsu** | aṭṭh**āsatha**<br>aṭṭh**āsittha** |                  |
-| **aor 2nd** | aṭṭh**āsi**  | aṭṭh**attha**                | aṭṭh**āsittho**                   |                  |
-| **aor 1st** | aṭṭh**āsiṃ** | aṭṭh**amhā**                 | aṭṭh**āsitthaṃ**                  |                  |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | -------------- | ------------------------------ | ----------------------------------- | ------------------ |
+| **aor 3rd** | aṭṭh**āsi** | aṭṭh**aṃsu**<br>aṭṭh**iṃsu** | aṭṭh**āsatha**<br>aṭṭh**āsittha** | |
+| **aor 2nd** | aṭṭh**āsi** | aṭṭh**attha** | aṭṭh**āsittho** | |
+| **aor 1st** | aṭṭh**āsiṃ** | aṭṭh**amhā** | aṭṭh**āsitthaṃ** | |
 
 ***
 
@@ -1524,52 +1524,52 @@ Being in the fourth conjugation its conjugationals signs are ṇā and ṇo.
 
 ***
 
-|             | **sg**                    | **pl**                                    | **reflexive sg** | **reflexive pl**                 |
-|-------------|---------------------------|-------------------------------------------|------------------|----------------------------------|
-| **pr 3rd**  | suṇ**āti**                | suṇ**anti**                               | suṇ**āte**       | suṇ**ante**<br>suṇ**are**        |
-| **pr 2nd**  | suṇ**asi**<br>suṇ**āsi**  | suṇ**ātha**                               | suṇ**āse**       | suṇ**avhe**                      |
-| **pr 1st**  | suṇ**āmi**                | suṇ**āma**                                | suṇ**e**         | suṇ**amhase**<br>suṇ**āmhe**     |
-| **imp 3rd** | suṇ**atu**<br>suṇ**ātu**  | suṇ**antu**                               | suṇ**ataṃ**      | suṇ**antaṃ**                     |
-| **imp 2nd** | suṇ**ahi**<br>suṇ**āhi**  | suṇ**atha**<br>suṇ**ātha**                | suṇ**assu**      | suṇ**avho**                      |
-| **imp 1st** | suṇ**āmi**                | suṇ**āma**                                | suṇ**e**         | suṇ**āmase**                     |
-| **opt 3rd** | suṇ**e**<br>suṇ**eyya**   | suṇ**eyyuṃ**                              | suṇ**etha**      | suṇ**eraṃ**                      |
-| **opt 2nd** | suṇ**e**<br>suṇ**eyyāsi** | suṇ**etha**<br>suṇ**eyyātha**             | suṇ**etho**      | suṇ**eyyavho**<br>suṇ**eyyāvho** |
-| **opt 1st** | suṇ**e**<br>suṇ**eyyāmi** | suṇ**ema**<br>suṇ**emu**<br>suṇ**eyyāma** | suṇ**eyyaṃ**     | suṇ**eyyāmhe**                   |
-| **fut 3rd** | suṇ**issati**             | suṇ**issanti**                            | suṇ**issate**    | suṇ**issante**                   |
-| **fut 2nd** | suṇ**issasi**             | suṇ**issatha**                            | suṇ**issase**    | suṇ**issavhe**                   |
-| **fut 1st** | suṇ**issāmi**             | suṇ**issāma**                             | suṇ**issaṃ**     | suṇ**issāmhe**                   |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | --------------------------- | ------------------------------------------- | ------------------ | ---------------------------------- |
+| **pr 3rd** | suṇ**āti** | suṇ**anti** | suṇ**āte** | suṇ**ante**<br>suṇ**are** |
+| **pr 2nd** | suṇ**asi**<br>suṇ**āsi** | suṇ**ātha** | suṇ**āse** | suṇ**avhe** |
+| **pr 1st** | suṇ**āmi** | suṇ**āma** | suṇ**e** | suṇ**amhase**<br>suṇ**āmhe** |
+| **imp 3rd** | suṇ**atu**<br>suṇ**ātu** | suṇ**antu** | suṇ**ataṃ** | suṇ**antaṃ** |
+| **imp 2nd** | suṇ**ahi**<br>suṇ**āhi** | suṇ**atha**<br>suṇ**ātha** | suṇ**assu** | suṇ**avho** |
+| **imp 1st** | suṇ**āmi** | suṇ**āma** | suṇ**e** | suṇ**āmase** |
+| **opt 3rd** | suṇ**e**<br>suṇ**eyya** | suṇ**eyyuṃ** | suṇ**etha** | suṇ**eraṃ** |
+| **opt 2nd** | suṇ**e**<br>suṇ**eyyāsi** | suṇ**etha**<br>suṇ**eyyātha** | suṇ**etho** | suṇ**eyyavho**<br>suṇ**eyyāvho** |
+| **opt 1st** | suṇ**e**<br>suṇ**eyyāmi** | suṇ**ema**<br>suṇ**emu**<br>suṇ**eyyāma** | suṇ**eyyaṃ** | suṇ**eyyāmhe** |
+| **fut 3rd** | suṇ**issati** | suṇ**issanti** | suṇ**issate** | suṇ**issante** |
+| **fut 2nd** | suṇ**issasi** | suṇ**issatha** | suṇ**issase** | suṇ**issavhe** |
+| **fut 1st** | suṇ**issāmi** | suṇ**issāma** | suṇ**issaṃ** | suṇ**issāmhe** |
 
 ***
 
-|             | **sg**                                    | **pl**                                    | **reflexive sg**              | **reflexive pl**                 |
-|-------------|-------------------------------------------|-------------------------------------------|-------------------------------|----------------------------------|
-| **pr 3rd**  | suṇ**oti**                                | suṇ**onti**                               |                               |                                  |
-| **pr 2nd**  | suṇ**osi**                                | suṇ**otha**                               |                               |                                  |
-| **pr 1st**  | suṇ**omi**                                | suṇ**oma**                                |                               |                                  |
-| **imp 3rd** | suṇ**otu**                                | suṇ**ontu**                               |                               |                                  |
-| **imp 2nd** | suṇ**a**<br>suṇ**ohi**                    | suṇ**otha**                               |                               |                                  |
-| **imp 1st** | suṇ**omi**                                | suṇ**oma**                                |                               |                                  |
-| **opt 3rd** | suṇ**e**<br>suṇ**eyya**                   | suṇ**eyyuṃ**                              | suṇ**etha**                   | suṇ**eraṃ**                      |
-| **opt 2nd** | suṇ**e**<br>suṇ**eyyāsi**                 | suṇ**etha**<br>suṇ**eyyātha**             | suṇ**etho**<br>suṇ**eyyātho** | suṇ**eyyavho**<br>suṇ**eyyāvho** |
-| **opt 1st** | suṇ**e**<br>suṇ**eyyaṃ**<br>suṇ**eyyāmi** | suṇ**ema**<br>suṇ**emu**<br>suṇ**eyyāma** | suṇ**eyyaṃ**                  | suṇ**eyyāmhe**                   |
-| **fut 3rd** | suṇ**issati**                             | suṇ**issanti**                            | suṇ**issate**                 | suṇ**issante**                   |
-| **fut 2nd** | suṇ**issasi**                             | suṇ**issatha**                            | suṇ**issase**                 | suṇ**issavhe**                   |
-| **fut 1st** | suṇ**issāmi**                             | suṇ**issāma**                             | suṇ**issaṃ**                  | suṇ**issāmhe**                   |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------- | ---------------------------------- |
+| **pr 3rd** | suṇ**oti** | suṇ**onti** | | |
+| **pr 2nd** | suṇ**osi** | suṇ**otha** | | |
+| **pr 1st** | suṇ**omi** | suṇ**oma** | | |
+| **imp 3rd** | suṇ**otu** | suṇ**ontu** | | |
+| **imp 2nd** | suṇ**a**<br>suṇ**ohi** | suṇ**otha** | | |
+| **imp 1st** | suṇ**omi** | suṇ**oma** | | |
+| **opt 3rd** | suṇ**e**<br>suṇ**eyya** | suṇ**eyyuṃ** | suṇ**etha** | suṇ**eraṃ** |
+| **opt 2nd** | suṇ**e**<br>suṇ**eyyāsi** | suṇ**etha**<br>suṇ**eyyātha** | suṇ**etho**<br>suṇ**eyyātho** | suṇ**eyyavho**<br>suṇ**eyyāvho** |
+| **opt 1st** | suṇ**e**<br>suṇ**eyyaṃ**<br>suṇ**eyyāmi** | suṇ**ema**<br>suṇ**emu**<br>suṇ**eyyāma** | suṇ**eyyaṃ** | suṇ**eyyāmhe** |
+| **fut 3rd** | suṇ**issati** | suṇ**issanti** | suṇ**issate** | suṇ**issante** |
+| **fut 2nd** | suṇ**issasi** | suṇ**issatha** | suṇ**issase** | suṇ**issavhe** |
+| **fut 1st** | suṇ**issāmi** | suṇ**issāma** | suṇ**issaṃ** | suṇ**issāmhe** |
 
 ***
 
-|             | **sg**               | **pl**                     | **reflexive sg**                        | **reflexive pl**             |
-|-------------|----------------------|----------------------------|-----------------------------------------|------------------------------|
-| **aor 3rd** | suṇ**i**<br>suṇ**ī** | suṇ**iṃsu**<br>suṇ**uṃ**   | suṇ**atha**<br>suṇ**ā**<br>suṇ**ittha** | suṇ**ū**                     |
-| **aor 2nd** | suṇ**i**<br>suṇ**o** | suṇ**ittha**               | suṇ**ittho**<br>suṇ**ise**              | suṇ**ivhaṃ**                 |
-| **aor 1st** | suṇ**iṃ**            | suṇ**imha**<br>suṇ**imhā** | suṇ**a**<br>suṇ**aṃ**<br>suṇ**itthaṃ**  | suṇ**imhase**<br>suṇ**imhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------- | ---------------------------- | ----------------------------------------- | ------------------------------ |
+| **aor 3rd** | suṇ**i**<br>suṇ**ī** | suṇ**iṃsu**<br>suṇ**uṃ** | suṇ**atha**<br>suṇ**ā**<br>suṇ**ittha** | suṇ**ū** |
+| **aor 2nd** | suṇ**i**<br>suṇ**o** | suṇ**ittha** | suṇ**ittho**<br>suṇ**ise** | suṇ**ivhaṃ** |
+| **aor 1st** | suṇ**iṃ** | suṇ**imha**<br>suṇ**imhā** | suṇ**a**<br>suṇ**aṃ**<br>suṇ**itthaṃ** | suṇ**imhase**<br>suṇ**imhe** |
 
 ***
 
-|             | **sg**                     | **pl**                                      |
-|-------------|----------------------------|---------------------------------------------|
-| **aor 3rd** | **assosi**                 | **assosuṃ**                                 |
-| **aor 2nd** | **assu**<br>**assosi**     | **assuttha**<br>**assosittha**              |
+| | **sg** | **pl** |
+| ------------- | ---------------------------- | --------------------------------------------- |
+| **aor 3rd** | **assosi** | **assosuṃ** |
+| **aor 2nd** | **assu**<br>**assosi** | **assuttha**<br>**assosittha** |
 | **aor 1st** | **assumhi**<br>**assosiṃ** | **assumha**<br>**assumhā**<br>**assosimhā** |
 
 ***
@@ -1586,36 +1586,36 @@ Some state this to be in fifth group with conjugational sign ṇā, and explain 
 
 ***
 
-|             | **sg**                      | **pl**                                       | **reflexive sg** | **reflexive pl**                   |
-|-------------|-----------------------------|----------------------------------------------|------------------|------------------------------------|
-| **pr 3rd**  | gaṇh**āti**                 | gaṇh**anti**                                 | gaṇh**āte**      | gaṇh**ante**<br>gaṇh**are**        |
-| **pr 2nd**  | gaṇh**asi**<br>gaṇh**āsi**  | gaṇh**ātha**                                 | gaṇh**āse**      | gaṇh**avhe**                       |
-| **pr 1st**  | gaṇh**āmi**                 | gaṇh**āma**                                  | gaṇh**e**        | gaṇh**amhase**<br>gaṇh**āmhe**     |
-| **imp 3rd** | gaṇh**atu**<br>gaṇh**ātu**  | gaṇh**antu**                                 | gaṇh**ataṃ**     | gaṇh**antaṃ**                      |
-| **imp 2nd** | gaṇh**ahi**<br>gaṇh**āhi**  | gaṇh**atha**<br>gaṇh**ātha**                 | gaṇh**assu**     | gaṇh**avho**                       |
-| **imp 1st** | gaṇh**āmi**                 | gaṇh**āma**                                  | gaṇh**e**        | gaṇh**āmase**                      |
-| **opt 3rd** | gaṇh**e**<br>gaṇh**eyya**   | gaṇh**eyyuṃ**                                | gaṇh**etha**     | gaṇh**eraṃ**                       |
-| **opt 2nd** | gaṇh**e**<br>gaṇh**eyyāsi** | gaṇh**etha**<br>gaṇh**eyyātha**              | gaṇh**etho**     | gaṇh**eyyavho**<br>gaṇh**eyyāvho** |
-| **opt 1st** | gaṇh**e**<br>gaṇh**eyyāmi** | gaṇh**ema**<br>gaṇh**emu**<br>gaṇh**eyyāma** | gaṇh**eyyaṃ**    | gaṇh**eyyāmhe**                    |
-| **fut 3rd** | gaṇh**issati**              | gaṇh**issanti**                              | gaṇh**issate**   | gaṇh**issante**                    |
-| **fut 2nd** | gaṇh**issasi**              | gaṇh**issatha**                              | gaṇh**issase**   | gaṇh**issavhe**                    |
-| **fut 1st** | gaṇh**issāmi**              | gaṇh**issāma**                               | gaṇh**issaṃ**    | gaṇh**issāmhe**                    |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ----------------------------- | ---------------------------------------------- | ------------------ | ------------------------------------ |
+| **pr 3rd** | gaṇh**āti** | gaṇh**anti** | gaṇh**āte** | gaṇh**ante**<br>gaṇh**are** |
+| **pr 2nd** | gaṇh**asi**<br>gaṇh**āsi** | gaṇh**ātha** | gaṇh**āse** | gaṇh**avhe** |
+| **pr 1st** | gaṇh**āmi** | gaṇh**āma** | gaṇh**e** | gaṇh**amhase**<br>gaṇh**āmhe** |
+| **imp 3rd** | gaṇh**atu**<br>gaṇh**ātu** | gaṇh**antu** | gaṇh**ataṃ** | gaṇh**antaṃ** |
+| **imp 2nd** | gaṇh**ahi**<br>gaṇh**āhi** | gaṇh**atha**<br>gaṇh**ātha** | gaṇh**assu** | gaṇh**avho** |
+| **imp 1st** | gaṇh**āmi** | gaṇh**āma** | gaṇh**e** | gaṇh**āmase** |
+| **opt 3rd** | gaṇh**e**<br>gaṇh**eyya** | gaṇh**eyyuṃ** | gaṇh**etha** | gaṇh**eraṃ** |
+| **opt 2nd** | gaṇh**e**<br>gaṇh**eyyāsi** | gaṇh**etha**<br>gaṇh**eyyātha** | gaṇh**etho** | gaṇh**eyyavho**<br>gaṇh**eyyāvho** |
+| **opt 1st** | gaṇh**e**<br>gaṇh**eyyāmi** | gaṇh**ema**<br>gaṇh**emu**<br>gaṇh**eyyāma** | gaṇh**eyyaṃ** | gaṇh**eyyāmhe** |
+| **fut 3rd** | gaṇh**issati** | gaṇh**issanti** | gaṇh**issate** | gaṇh**issante** |
+| **fut 2nd** | gaṇh**issasi** | gaṇh**issatha** | gaṇh**issase** | gaṇh**issavhe** |
+| **fut 1st** | gaṇh**issāmi** | gaṇh**issāma** | gaṇh**issaṃ** | gaṇh**issāmhe** |
 
 ***
 
-|             | **sg**                 | **pl**                       | **reflexive sg**                           | **reflexive pl**               |
-|-------------|------------------------|------------------------------|--------------------------------------------|--------------------------------|
-| **aor 3rd** | gaṇh**i**<br>gaṇh**ī** | gaṇh**iṃsu**<br>gaṇh**uṃ**   | gaṇh**atha**<br>gaṇh**ā**<br>gaṇh**ittha** | gaṇh**ū**                      |
-| **aor 2nd** | gaṇh**i**<br>gaṇh**o** | gaṇh**ittha**                | gaṇh**ittho**<br>gaṇh**ise**               | gaṇh**ivhaṃ**                  |
-| **aor 1st** | gaṇh**iṃ**             | gaṇh**imha**<br>gaṇh**imhā** | gaṇh**a**<br>gaṇh**aṃ**<br>gaṇh**itthaṃ**  | gaṇh**imhase**<br>gaṇh**imhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------ | ------------------------------ | -------------------------------------------- | -------------------------------- |
+| **aor 3rd** | gaṇh**i**<br>gaṇh**ī** | gaṇh**iṃsu**<br>gaṇh**uṃ** | gaṇh**atha**<br>gaṇh**ā**<br>gaṇh**ittha** | gaṇh**ū** |
+| **aor 2nd** | gaṇh**i**<br>gaṇh**o** | gaṇh**ittha** | gaṇh**ittho**<br>gaṇh**ise** | gaṇh**ivhaṃ** |
+| **aor 1st** | gaṇh**iṃ** | gaṇh**imha**<br>gaṇh**imhā** | gaṇh**a**<br>gaṇh**aṃ**<br>gaṇh**itthaṃ** | gaṇh**imhase**<br>gaṇh**imhe** |
 
 ***
 
-|             | **sg**        | **pl**                           |
-|-------------|---------------|----------------------------------|
-| **aor 3rd** | aggah**esi**  | aggah**esuṃ**                    |
-| **aor 2nd** | aggah**esi**  | aggah**ittha**<br>aggah**ettha** |
-| **aor 1st** | aggah**esiṃ** | aggah**imha**<br>aggah**imhā**   |
+| | **sg** | **pl** |
+| ------------- | --------------- | ---------------------------------- |
+| **aor 3rd** | aggah**esi** | aggah**esuṃ** |
+| **aor 2nd** | aggah**esi** | aggah**ittha**<br>aggah**ettha** |
+| **aor 1st** | aggah**esiṃ** | aggah**imha**<br>aggah**imhā** |
 
 ***
 
@@ -1655,7 +1655,7 @@ e.g. dhammaṃ vo, bhikkhave, desessami.
 
 ***
 
-# 
+
 
 # Class 40
 
@@ -1697,20 +1697,20 @@ abhi + saṃ + √i + a + ti = abhisameti, completely realises; fully understand
 
 ***
 
-|             | **sg**                  | **pl**                    | **reflexive sg**         | **reflexive pl**             |
-|-------------|-------------------------|---------------------------|--------------------------|------------------------------|
-| **pr 3rd**  | **eti**                 | **enti**                  |                          |                              |
-| **pr 2nd**  | **esi**                 | **etha**                  |                          |                              |
-| **pr 1st**  | **emi**                 | **ema**                   |                          |                              |
-| **imp 3rd** | **etu**                 | **entu**                  | **etaṃ**                 | **entaṃ**                    |
-| **imp 2nd** | **ehi**                 | **etha**                  | **essu**                 | **evho**                     |
-| **imp 1st** | **emi**                 | **ema**                   | **e**                    | **emase**                    |
-| **opt 3rd** | **eyya**                | **eyyuṃ**                 | **etha**                 | **eraṃ**                     |
-| **opt 2nd** | **eyyāsi**              | **eyyātha**               | **etho**                 | **eyyavho**<br>**eyyāvho**   |
-| **opt 1st** | **eyyāmi**              | **eyyāma**                | **eyyaṃ**                | **eyyāmhe**                  |
-| **fut 3rd** | **essati**<br>**ehiti** | **essanti**<br>**ehinti** | **essate**<br>**ehite**  | **essante**<br>**ehinte**    |
-| **fut 2nd** | **essasi**<br>**ehisi** | **essatha**<br>**ehitha** | **essase**<br>**ehise**  | **essavhe**<br>**ehivhe**    |
-| **fut 1st** | **essāmi**<br>**ehimi** | **essāma**<br>**ehima**   | **essaṃ**<br>**ehissaṃ** | **essāmhe**<br>**ehissāmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------- | --------------------------- | -------------------------- | ------------------------------ |
+| **pr 3rd** | **eti** | **enti** | | |
+| **pr 2nd** | **esi** | **etha** | | |
+| **pr 1st** | **emi** | **ema** | | |
+| **imp 3rd** | **etu** | **entu** | **etaṃ** | **entaṃ** |
+| **imp 2nd** | **ehi** | **etha** | **essu** | **evho** |
+| **imp 1st** | **emi** | **ema** | **e** | **emase** |
+| **opt 3rd** | **eyya** | **eyyuṃ** | **etha** | **eraṃ** |
+| **opt 2nd** | **eyyāsi** | **eyyātha** | **etho** | **eyyavho**<br>**eyyāvho** |
+| **opt 1st** | **eyyāmi** | **eyyāma** | **eyyaṃ** | **eyyāmhe** |
+| **fut 3rd** | **essati**<br>**ehiti** | **essanti**<br>**ehinti** | **essate**<br>**ehite** | **essante**<br>**ehinte** |
+| **fut 2nd** | **essasi**<br>**ehisi** | **essatha**<br>**ehitha** | **essase**<br>**ehise** | **essavhe**<br>**ehivhe** |
+| **fut 1st** | **essāmi**<br>**ehimi** | **essāma**<br>**ehima** | **essaṃ**<br>**ehissaṃ** | **essāmhe**<br>**ehissāmhe** |
 
 ***
 
@@ -1752,69 +1752,69 @@ In the Imperfect the base upapajja is changed as udapajja. An additional base ud
 
 ***
 
-|                | **sg**                        | **pl**                                        | **reflexive sg**                     | **reflexive pl**  |
-|----------------|-------------------------------|-----------------------------------------------|--------------------------------------|-------------------|
-| **imperf 3rd** | udapajj**ā**                  | udapajj**u**<br>udapajj**uṃ**<br>udapajj**ū** | udapajj**attha**<br>udapajj**atthu** | udapajj**atthuṃ** |
-| **imperf 2nd** | udapajj**a**<br>udapajj**o**  | udapajj**attha**                              | udapajj**ase**                       | udapajj**avhaṃ**  |
-| **imperf 1st** | udapajj**a**<br>udapajj**aṃ** | udapajj**amha**<br>udapajj**amhā**            | udapajj**iṃ**                        | udapajj**amhase** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ---------------- | ------------------------------- | ----------------------------------------------- | -------------------------------------- | ------------------- |
+| **imperf 3rd** | udapajj**ā** | udapajj**u**<br>udapajj**uṃ**<br>udapajj**ū** | udapajj**attha**<br>udapajj**atthu** | udapajj**atthuṃ** |
+| **imperf 2nd** | udapajj**a**<br>udapajj**o** | udapajj**attha** | udapajj**ase** | udapajj**avhaṃ** |
+| **imperf 1st** | udapajj**a**<br>udapajj**aṃ** | udapajj**amha**<br>udapajj**amhā** | udapajj**iṃ** | udapajj**amhase** |
 
 ***
 
-|             | **sg**                       | **pl**                                              | **reflexive sg**               | **reflexive pl** |
-|-------------|------------------------------|-----------------------------------------------------|--------------------------------|------------------|
-| **aor 3rd** | udapajj**i**<br>udapajj**ī** | udapajj**isuṃ**<br>udapajj**iṃsu**<br>udapajj**uṃ** | udapajj**ā**                   | udapajj**ū**     |
-| **aor 2nd** | udapajj**i**<br>udapajj**o** | udapajj**ittha**                                    | udapajj**ā**<br>udapajj**ise** | udapajj**ivhaṃ** |
-| **aor 1st** | udapajj**iṃ**                | udapajj**imha**<br>udapajj**imhā**                  | udapajj**a**<br>udapajj**aṃ**  | udapajj**imhe**  |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------------ | ----------------------------------------------------- | -------------------------------- | ------------------ |
+| **aor 3rd** | udapajj**i**<br>udapajj**ī** | udapajj**isuṃ**<br>udapajj**iṃsu**<br>udapajj**uṃ** | udapajj**ā** | udapajj**ū** |
+| **aor 2nd** | udapajj**i**<br>udapajj**o** | udapajj**ittha** | udapajj**ā**<br>udapajj**ise** | udapajj**ivhaṃ** |
+| **aor 1st** | udapajj**iṃ** | udapajj**imha**<br>udapajj**imhā** | udapajj**a**<br>udapajj**aṃ** | udapajj**imhe** |
 
 ***
 
-|             | **sg**                     | **pl**                           | **reflexive sg**                                 | **reflexive pl**                   |
-|-------------|----------------------------|----------------------------------|--------------------------------------------------|------------------------------------|
-| **aor 3rd** | udapād**i**<br>udapād**ī** | udapād**iṃsu**<br>udapād**uṃ**   | udapād**atha**<br>udapād**ā**<br>udapād**ittha** | udapād**ū**                        |
-| **aor 2nd** | udapād**i**<br>udapād**o** | udapād**ittha**                  | udapād**ittho**<br>udapād**ise**                 | udapād**ivhaṃ**                    |
-| **aor 1st** | udapād**iṃ**               | udapād**imha**<br>udapād**imhā** | udapād**a**<br>udapād**aṃ**<br>udapād**itthaṃ**  | udapād**imhase**<br>udapād**imhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------------- | ---------------------------------- | -------------------------------------------------- | ------------------------------------ |
+| **aor 3rd** | udapād**i**<br>udapād**ī** | udapād**iṃsu**<br>udapād**uṃ** | udapād**atha**<br>udapād**ā**<br>udapād**ittha** | udapād**ū** |
+| **aor 2nd** | udapād**i**<br>udapād**o** | udapād**ittha** | udapād**ittho**<br>udapād**ise** | udapād**ivhaṃ** |
+| **aor 1st** | udapād**iṃ** | udapād**imha**<br>udapād**imhā** | udapād**a**<br>udapād**aṃ**<br>udapād**itthaṃ** | udapād**imhase**<br>udapād**imhe** |
 
 ***
 
 ## Conjugation of √labh (to get)
 
-|             | **sg**                                  | **pl**                                       | **reflexive sg**                | **reflexive pl**                    |
-|-------------|-----------------------------------------|----------------------------------------------|---------------------------------|-------------------------------------|
-| **pr 3rd**  | labh**ati**                             | labh**anti**                                 | labh**ate**                     | labh**ante**<br>labh**are**         |
-| **pr 2nd**  | labh**asi**                             | labh**atha**                                 | labh**ase**                     | labh**avhe**                        |
-| **pr 1st**  | labh**āmi**                             | labh**āma**                                  | labh**e**                       | labh**amhase**<br>labh**āmhe**      |
-| **imp 3rd** | labh**atu**                             | labh**antu**                                 | labh**ataṃ**                    | labh**antaṃ**                       |
-| **imp 2nd** | labh**a**<br>labh**āsi**<br>labh**āhi** | labh**atha**                                 | labh**assu**                    | labh**avho**                        |
-| **imp 1st** | labh**āmi**                             | labh**āma**                                  | labh**e**                       | labh**āmase**                       |
-| **opt 3rd** | labh**e**<br>labh**eyya**               | labh**eyyu**<br>labh**eyyuṃ**                | labh**etha**                    | labh**eraṃ**                        |
-| **opt 2nd** | labh**e**<br>labh**eyyāsi**             | labh**etha**<br>labh**eyyātha**              | labh**etho**<br>labh**eyyātho** | labh**eyyavho**<br>labh**eyyāvho**  |
-| **opt 1st** | labh**e**<br>labh**eyyāmi**             | labh**ema**<br>labh**emu**<br>labh**eyyāma** | labh**eyyaṃ**                   | labh**emase**<br>labh**eyyāmhe**    |
-| **fut 3rd** | labh**issati**                          | labh**issanti**                              | labh**issate**                  | labh**issante**                     |
-| **fut 2nd** | labh**issasi**                          | labh**issatha**                              | labh**issase**                  | labh**issavhe**                     |
-| **fut 1st** | labh**issāmi**                          | labh**issāma**                               | labh**issaṃ**                   | labh**issāmase**<br>labh**issāmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ----------------------------------------- | ---------------------------------------------- | --------------------------------- | ------------------------------------- |
+| **pr 3rd** | labh**ati** | labh**anti** | labh**ate** | labh**ante**<br>labh**are** |
+| **pr 2nd** | labh**asi** | labh**atha** | labh**ase** | labh**avhe** |
+| **pr 1st** | labh**āmi** | labh**āma** | labh**e** | labh**amhase**<br>labh**āmhe** |
+| **imp 3rd** | labh**atu** | labh**antu** | labh**ataṃ** | labh**antaṃ** |
+| **imp 2nd** | labh**a**<br>labh**āsi**<br>labh**āhi** | labh**atha** | labh**assu** | labh**avho** |
+| **imp 1st** | labh**āmi** | labh**āma** | labh**e** | labh**āmase** |
+| **opt 3rd** | labh**e**<br>labh**eyya** | labh**eyyu**<br>labh**eyyuṃ** | labh**etha** | labh**eraṃ** |
+| **opt 2nd** | labh**e**<br>labh**eyyāsi** | labh**etha**<br>labh**eyyātha** | labh**etho**<br>labh**eyyātho** | labh**eyyavho**<br>labh**eyyāvho** |
+| **opt 1st** | labh**e**<br>labh**eyyāmi** | labh**ema**<br>labh**emu**<br>labh**eyyāma** | labh**eyyaṃ** | labh**emase**<br>labh**eyyāmhe** |
+| **fut 3rd** | labh**issati** | labh**issanti** | labh**issate** | labh**issante** |
+| **fut 2nd** | labh**issasi** | labh**issatha** | labh**issase** | labh**issavhe** |
+| **fut 1st** | labh**issāmi** | labh**issāma** | labh**issaṃ** | labh**issāmase**<br>labh**issāmhe** |
 
 ***
 
-|             | **sg**       | **pl**        | **reflexive sg** | **reflexive pl**                |
-|-------------|--------------|---------------|------------------|---------------------------------|
-| **fut 3rd** | lacch**ati** | lacch**anti** | lacch**ate**     | lacch**ante**                   |
-| **fut 2nd** | lacch**asi** | lacch**atha** | lacch**ase**     | lacch**avhe**                   |
-| **fut 1st** | lacch**āmi** | lacch**āma**  | lacch**aṃ**      | lacch**āmase**<br>lacch**āmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | -------------- | --------------- | ------------------ | --------------------------------- |
+| **fut 3rd** | lacch**ati** | lacch**anti** | lacch**ate** | lacch**ante** |
+| **fut 2nd** | lacch**asi** | lacch**atha** | lacch**ase** | lacch**avhe** |
+| **fut 1st** | lacch**āmi** | lacch**āma** | lacch**aṃ** | lacch**āmase**<br>lacch**āmhe** |
 
 ***
 
-|             | **sg**                 | **pl**                       | **reflexive sg**                           | **reflexive pl**               |
-|-------------|------------------------|------------------------------|--------------------------------------------|--------------------------------|
-| **aor 3rd** | labh**i**<br>labh**ī** | labh**iṃsu**<br>labh**uṃ**   | labh**atha**<br>labh**ā**<br>labh**ittha** | labh**ū**                      |
-| **aor 2nd** | labh**i**<br>labh**o** | labh**ittha**                | labh**ittho**<br>labh**ise**               | labh**ivhaṃ**                  |
-| **aor 1st** | labh**iṃ**             | labh**imha**<br>labh**imhā** | labh**a**<br>labh**aṃ**<br>labh**itthaṃ**  | labh**imhase**<br>labh**imhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------ | ------------------------------ | -------------------------------------------- | -------------------------------- |
+| **aor 3rd** | labh**i**<br>labh**ī** | labh**iṃsu**<br>labh**uṃ** | labh**atha**<br>labh**ā**<br>labh**ittha** | labh**ū** |
+| **aor 2nd** | labh**i**<br>labh**o** | labh**ittha** | labh**ittho**<br>labh**ise** | labh**ivhaṃ** |
+| **aor 1st** | labh**iṃ** | labh**imha**<br>labh**imhā** | labh**a**<br>labh**aṃ**<br>labh**itthaṃ** | labh**imhase**<br>labh**imhe** |
 
 ***
 
-|             | **sg**       | **pl**                           |
-|-------------|--------------|----------------------------------|
-| **aor 3rd** | a**lattha**  | a**latthaṃsu**<br>a**latthuṃ**   |
-| **aor 2nd** | a**lattha**  |                                  |
+| | **sg** | **pl** |
+| ------------- | -------------- | ---------------------------------- |
+| **aor 3rd** | a**lattha** | a**latthaṃsu**<br>a**latthuṃ** |
+| **aor 2nd** | a**lattha** | |
 | **aor 1st** | a**latthaṃ** | a**latthamha**<br>a**latthamhā** |
 
 ***
@@ -1827,11 +1827,11 @@ ssa of the Future inflections after √vas (to live) is sometimes changed to cha
 
 ***
 
-|             | **sg**       | **pl**        | **reflexive sg** | **reflexive pl**                |
-|-------------|--------------|---------------|------------------|---------------------------------|
-| **fut 3rd** | vacch**ati** | vacch**anti** | vacch**ate**     | vacch**ante**                   |
-| **fut 2nd** | vacch**asi** | vacch**atha** | vacch**ase**     | vacch**avhe**                   |
-| **fut 1st** | vacch**āmi** | vacch**āma**  | vacch**aṃ**      | vacch**āmase**<br>vacch**āmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | -------------- | --------------- | ------------------ | --------------------------------- |
+| **fut 3rd** | vacch**ati** | vacch**anti** | vacch**ate** | vacch**ante** |
+| **fut 2nd** | vacch**asi** | vacch**atha** | vacch**ase** | vacch**avhe** |
+| **fut 1st** | vacch**āmi** | vacch**āma** | vacch**aṃ** | vacch**āmase**<br>vacch**āmhe** |
 
 ***
 
@@ -1843,20 +1843,20 @@ ssa of the Future inflections after √vas (to live) is sometimes changed to cha
 
 ***
 
-|             | **sg**                                  | **pl**                                       | **reflexive sg**                | **reflexive pl**                    |
-|-------------|-----------------------------------------|----------------------------------------------|---------------------------------|-------------------------------------|
-| **pr 3rd**  | acch**ati**                             | acch**anti**                                 | acch**ate**                     | acch**ante**<br>acch**are**         |
-| **pr 2nd**  | acch**asi**                             | acch**atha**                                 | acch**ase**                     | acch**avhe**                        |
-| **pr 1st**  | acch**āmi**                             | acch**āma**                                  | acch**e**                       | acch**amhase**<br>acch**āmhe**      |
-| **imp 3rd** | acch**atu**                             | acch**antu**                                 | acch**ataṃ**                    | acch**antaṃ**                       |
-| **imp 2nd** | acch**a**<br>acch**āsi**<br>acch**āhi** | acch**atha**                                 | acch**assu**                    | acch**avho**                        |
-| **imp 1st** | acch**āmi**                             | acch**āma**                                  | acch**e**                       | acch**āmase**                       |
-| **opt 3rd** | acch**e**<br>acch**eyya**               | acch**eyyu**<br>acch**eyyuṃ**                | acch**etha**                    | acch**eraṃ**                        |
-| **opt 2nd** | acch**e**<br>acch**eyyāsi**             | acch**etha**<br>acch**eyyātha**              | acch**etho**<br>acch**eyyātho** | acch**eyyavho**<br>acch**eyyāvho**  |
-| **opt 1st** | acch**e**<br>acch**eyyāmi**             | acch**ema**<br>acch**emu**<br>acch**eyyāma** | acch**eyyaṃ**                   | acch**emase**<br>acch**eyyāmhe**    |
-| **fut 3rd** | acch**issati**                          | acch**issanti**                              | acch**issate**                  | acch**issante**                     |
-| **fut 2nd** | acch**issasi**                          | acch**issatha**                              | acch**issase**                  | acch**issavhe**                     |
-| **fut 1st** | acch**issāmi**                          | acch**issāma**                               | acch**issaṃ**                   | acch**issāmase**<br>acch**issāmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ----------------------------------------- | ---------------------------------------------- | --------------------------------- | ------------------------------------- |
+| **pr 3rd** | acch**ati** | acch**anti** | acch**ate** | acch**ante**<br>acch**are** |
+| **pr 2nd** | acch**asi** | acch**atha** | acch**ase** | acch**avhe** |
+| **pr 1st** | acch**āmi** | acch**āma** | acch**e** | acch**amhase**<br>acch**āmhe** |
+| **imp 3rd** | acch**atu** | acch**antu** | acch**ataṃ** | acch**antaṃ** |
+| **imp 2nd** | acch**a**<br>acch**āsi**<br>acch**āhi** | acch**atha** | acch**assu** | acch**avho** |
+| **imp 1st** | acch**āmi** | acch**āma** | acch**e** | acch**āmase** |
+| **opt 3rd** | acch**e**<br>acch**eyya** | acch**eyyu**<br>acch**eyyuṃ** | acch**etha** | acch**eraṃ** |
+| **opt 2nd** | acch**e**<br>acch**eyyāsi** | acch**etha**<br>acch**eyyātha** | acch**etho**<br>acch**eyyātho** | acch**eyyavho**<br>acch**eyyāvho** |
+| **opt 1st** | acch**e**<br>acch**eyyāmi** | acch**ema**<br>acch**emu**<br>acch**eyyāma** | acch**eyyaṃ** | acch**emase**<br>acch**eyyāmhe** |
+| **fut 3rd** | acch**issati** | acch**issanti** | acch**issate** | acch**issante** |
+| **fut 2nd** | acch**issasi** | acch**issatha** | acch**issase** | acch**issavhe** |
+| **fut 1st** | acch**issāmi** | acch**issāma** | acch**issaṃ** | acch**issāmase**<br>acch**issāmhe** |
 
 ***
 
@@ -1870,84 +1870,84 @@ The root √han (to strike, kill) has two other substitutes: vadha and ghāta. (
 
 ***
 
-|             | **sg**                    | **pl**         | **reflexive sg** | **reflexive pl**          |
-|-------------|---------------------------|----------------|------------------|---------------------------|
-| **pr 3rd**  | **hanati**<br>**hanti**   | **hananti**    | **hanate**       | **hanante**<br>**hanare** |
-| **pr 2nd**  | **hanasi**                | **hanatha**    | **hanase**       | **hanavhe**               |
-| **pr 1st**  | **hanāmi**                | **hanāma**     | **hane**         | **hanāmhe**               |
-| **imp 3rd** | **hanatu**                | **hanantu**    |                  |                           |
-| **imp 2nd** | **hana**<br>**hanāhi**    | **hanatha**    | **hanassu**      |                           |
-| **imp 1st** | **hanāmi**                | **hanāma**     | **hane**         | **hanāmase**              |
-| **opt 3rd** | **hane**<br>**haneyya**   | **haneyyuṃ**   |                  |                           |
-| **opt 2nd** | **hane**<br>**haneyyāsi** | **haneyyātha** |                  |                           |
-| **opt 1st** | **hane**<br>**haneyyāmi** | **haneyyāma**  |                  |                           |
-| **fut 3rd** | **hanissati**             | **hanissanti** |                  |                           |
-| **fut 2nd** | **hanissasi**             | **hanissatha** |                  |                           |
-| **fut 1st** | **hanissāmi**             | **hanissāma**  |                  |                           |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | --------------------------- | ---------------- | ------------------ | --------------------------- |
+| **pr 3rd** | **hanati**<br>**hanti** | **hananti** | **hanate** | **hanante**<br>**hanare** |
+| **pr 2nd** | **hanasi** | **hanatha** | **hanase** | **hanavhe** |
+| **pr 1st** | **hanāmi** | **hanāma** | **hane** | **hanāmhe** |
+| **imp 3rd** | **hanatu** | **hanantu** | | |
+| **imp 2nd** | **hana**<br>**hanāhi** | **hanatha** | **hanassu** | |
+| **imp 1st** | **hanāmi** | **hanāma** | **hane** | **hanāmase** |
+| **opt 3rd** | **hane**<br>**haneyya** | **haneyyuṃ** | | |
+| **opt 2nd** | **hane**<br>**haneyyāsi** | **haneyyātha** | | |
+| **opt 1st** | **hane**<br>**haneyyāmi** | **haneyyāma** | | |
+| **fut 3rd** | **hanissati** | **hanissanti** | | |
+| **fut 2nd** | **hanissasi** | **hanissatha** | | |
+| **fut 1st** | **hanissāmi** | **hanissāma** | | |
 
 ***
 
-|             | **sg**               | **pl**                     | **reflexive sg**                        | **reflexive pl**             |
-|-------------|----------------------|----------------------------|-----------------------------------------|------------------------------|
-| **aor 3rd** | han**i**<br>han**ī** | han**iṃsu**<br>han**uṃ**   | han**atha**<br>han**ā**<br>han**ittha** | han**ū**                     |
-| **aor 2nd** | han**i**<br>han**o** | han**ittha**               | han**ittho**<br>han**ise**              | han**ivhaṃ**                 |
-| **aor 1st** | han**iṃ**            | han**imha**<br>han**imhā** | han**a**<br>han**aṃ**<br>han**itthaṃ**  | han**imhase**<br>han**imhe** |
-
-***
-
-***
-
-***
-
-|             | **sg**                           | **pl**                                       | **reflexive sg**                | **reflexive pl**                   |
-|-------------|----------------------------------|----------------------------------------------|---------------------------------|------------------------------------|
-| **pr 3rd**  | vadh**eti**                      | vadh**enti**                                 |                                 |                                    |
-| **pr 2nd**  | vadh**esi**                      | vadh**etha**                                 |                                 |                                    |
-| **pr 1st**  | vadh**emi**                      | vadh**ema**                                  |                                 |                                    |
-| **imp 3rd** | vadh**etu**                      | vadh**entu**                                 | vadh**etaṃ**                    | vadh**entaṃ**                      |
-| **imp 2nd** | vadh**ehi**                      | vadh**etha**                                 | vadh**assu**<br>vadh**essu**    | vadh**avho**<br>vadh**evho**       |
-| **imp 1st** | vadh**emi**                      | vadh**ema**                                  | vadh**e**                       | vadh**amase**<br>vadh**emase**     |
-| **opt 3rd** | vadh**e**<br>vadh**eyya**        | vadh**eyyuṃ**                                | vadh**etha**                    | vadh**eraṃ**                       |
-| **opt 2nd** | vadh**e**<br>vadh**eyyāsi**      | vadh**etha**<br>vadh**eyyātha**              | vadh**etho**<br>vadh**eyyātho** | vadh**eyyavho**<br>vadh**eyyāvho** |
-| **opt 1st** | vadh**e**<br>vadh**eyyāmi**      | vadh**ema**<br>vadh**emu**<br>vadh**eyyāma** | vadh**eyyaṃ**                   | vadh**eyyāmhe**                    |
-| **fut 3rd** | vadh**issati**<br>vadh**essati** | vadh**issanti**<br>vadh**essanti**           | vadh**essate**                  | vadh**essante**                    |
-| **fut 2nd** | vadh**issasi**<br>vadh**essasi** | vadh**issatha**<br>vadh**essatha**           | vadh**essase**                  | vadh**essavhe**                    |
-| **fut 1st** | vadh**issāmi**<br>vadh**essāmi** | vadh**issāma**<br>vadh**essāma**             | vadh**essaṃ**                   | vadh**essāmhe**                    |
-
-***
-
-|             | **sg**                 | **pl**                       | **reflexive sg**                           | **reflexive pl**               |
-|-------------|------------------------|------------------------------|--------------------------------------------|--------------------------------|
-| **aor 3rd** | vadh**i**<br>vadh**ī** | vadh**iṃsu**<br>vadh**uṃ**   | vadh**atha**<br>vadh**ā**<br>vadh**ittha** | vadh**ū**                      |
-| **aor 2nd** | vadh**i**<br>vadh**o** | vadh**ittha**                | vadh**ittho**<br>vadh**ise**               | vadh**ivhaṃ**                  |
-| **aor 1st** | vadh**iṃ**             | vadh**imha**<br>vadh**imhā** | vadh**a**<br>vadh**aṃ**<br>vadh**itthaṃ**  | vadh**imhase**<br>vadh**imhe** |
-
-***
-
-|             | **sg**                           | **pl**                                       | **reflexive sg**                | **reflexive pl**                   |
-|-------------|----------------------------------|----------------------------------------------|---------------------------------|------------------------------------|
-| **pr 3rd**  | ghāt**eti**                      | ghāt**enti**                                 |                                 |                                    |
-| **pr 2nd**  | ghāt**esi**                      | ghāt**etha**                                 |                                 |                                    |
-| **pr 1st**  | ghāt**emi**                      | ghāt**ema**                                  |                                 |                                    |
-| **imp 3rd** | ghāt**etu**                      | ghāt**entu**                                 | ghāt**etaṃ**                    | ghāt**entaṃ**                      |
-| **imp 2nd** | ghāt**ehi**                      | ghāt**etha**                                 | ghāt**assu**<br>ghāt**essu**    | ghāt**avho**<br>ghāt**evho**       |
-| **imp 1st** | ghāt**emi**                      | ghāt**ema**                                  | ghāt**e**                       | ghāt**amase**<br>ghāt**emase**     |
-| **opt 3rd** | ghāt**e**<br>ghāt**eyya**        | ghāt**eyyuṃ**                                | ghāt**etha**                    | ghāt**eraṃ**                       |
-| **opt 2nd** | ghāt**e**<br>ghāt**eyyāsi**      | ghāt**etha**<br>ghāt**eyyātha**              | ghāt**etho**<br>ghāt**eyyātho** | ghāt**eyyavho**<br>ghāt**eyyāvho** |
-| **opt 1st** | ghāt**e**<br>ghāt**eyyāmi**      | ghāt**ema**<br>ghāt**emu**<br>ghāt**eyyāma** | ghāt**eyyaṃ**                   | ghāt**eyyāmhe**                    |
-| **fut 3rd** | ghāt**issati**<br>ghāt**essati** | ghāt**issanti**<br>ghāt**essanti**           | ghāt**essate**                  | ghāt**essante**                    |
-| **fut 2nd** | ghāt**issasi**<br>ghāt**essasi** | ghāt**issatha**<br>ghāt**essatha**           | ghāt**essase**                  | ghāt**essavhe**                    |
-| **fut 1st** | ghāt**issāmi**<br>ghāt**essāmi** | ghāt**issāma**<br>ghāt**essāma**             | ghāt**essaṃ**                   | ghāt**essāmhe**                    |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------- | ---------------------------- | ----------------------------------------- | ------------------------------ |
+| **aor 3rd** | han**i**<br>han**ī** | han**iṃsu**<br>han**uṃ** | han**atha**<br>han**ā**<br>han**ittha** | han**ū** |
+| **aor 2nd** | han**i**<br>han**o** | han**ittha** | han**ittho**<br>han**ise** | han**ivhaṃ** |
+| **aor 1st** | han**iṃ** | han**imha**<br>han**imhā** | han**a**<br>han**aṃ**<br>han**itthaṃ** | han**imhase**<br>han**imhe** |
 
 ***
 
 ***
 
-|             | **sg**       | **pl**                         |
-|-------------|--------------|--------------------------------|
-| **aor 3rd** | ghāt**esi**  | ghāt**esuṃ**                   |
-| **aor 2nd** | ghāt**esi**  | ghāt**ittha**<br>ghāt**ettha** |
-| **aor 1st** | ghāt**esiṃ** | ghāt**imha**<br>ghāt**imhā**   |
+***
+
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------------------- | ---------------------------------------------- | --------------------------------- | ------------------------------------ |
+| **pr 3rd** | vadh**eti** | vadh**enti** | | |
+| **pr 2nd** | vadh**esi** | vadh**etha** | | |
+| **pr 1st** | vadh**emi** | vadh**ema** | | |
+| **imp 3rd** | vadh**etu** | vadh**entu** | vadh**etaṃ** | vadh**entaṃ** |
+| **imp 2nd** | vadh**ehi** | vadh**etha** | vadh**assu**<br>vadh**essu** | vadh**avho**<br>vadh**evho** |
+| **imp 1st** | vadh**emi** | vadh**ema** | vadh**e** | vadh**amase**<br>vadh**emase** |
+| **opt 3rd** | vadh**e**<br>vadh**eyya** | vadh**eyyuṃ** | vadh**etha** | vadh**eraṃ** |
+| **opt 2nd** | vadh**e**<br>vadh**eyyāsi** | vadh**etha**<br>vadh**eyyātha** | vadh**etho**<br>vadh**eyyātho** | vadh**eyyavho**<br>vadh**eyyāvho** |
+| **opt 1st** | vadh**e**<br>vadh**eyyāmi** | vadh**ema**<br>vadh**emu**<br>vadh**eyyāma** | vadh**eyyaṃ** | vadh**eyyāmhe** |
+| **fut 3rd** | vadh**issati**<br>vadh**essati** | vadh**issanti**<br>vadh**essanti** | vadh**essate** | vadh**essante** |
+| **fut 2nd** | vadh**issasi**<br>vadh**essasi** | vadh**issatha**<br>vadh**essatha** | vadh**essase** | vadh**essavhe** |
+| **fut 1st** | vadh**issāmi**<br>vadh**essāmi** | vadh**issāma**<br>vadh**essāma** | vadh**essaṃ** | vadh**essāmhe** |
+
+***
+
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ------------------------ | ------------------------------ | -------------------------------------------- | -------------------------------- |
+| **aor 3rd** | vadh**i**<br>vadh**ī** | vadh**iṃsu**<br>vadh**uṃ** | vadh**atha**<br>vadh**ā**<br>vadh**ittha** | vadh**ū** |
+| **aor 2nd** | vadh**i**<br>vadh**o** | vadh**ittha** | vadh**ittho**<br>vadh**ise** | vadh**ivhaṃ** |
+| **aor 1st** | vadh**iṃ** | vadh**imha**<br>vadh**imhā** | vadh**a**<br>vadh**aṃ**<br>vadh**itthaṃ** | vadh**imhase**<br>vadh**imhe** |
+
+***
+
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------------------- | ---------------------------------------------- | --------------------------------- | ------------------------------------ |
+| **pr 3rd** | ghāt**eti** | ghāt**enti** | | |
+| **pr 2nd** | ghāt**esi** | ghāt**etha** | | |
+| **pr 1st** | ghāt**emi** | ghāt**ema** | | |
+| **imp 3rd** | ghāt**etu** | ghāt**entu** | ghāt**etaṃ** | ghāt**entaṃ** |
+| **imp 2nd** | ghāt**ehi** | ghāt**etha** | ghāt**assu**<br>ghāt**essu** | ghāt**avho**<br>ghāt**evho** |
+| **imp 1st** | ghāt**emi** | ghāt**ema** | ghāt**e** | ghāt**amase**<br>ghāt**emase** |
+| **opt 3rd** | ghāt**e**<br>ghāt**eyya** | ghāt**eyyuṃ** | ghāt**etha** | ghāt**eraṃ** |
+| **opt 2nd** | ghāt**e**<br>ghāt**eyyāsi** | ghāt**etha**<br>ghāt**eyyātha** | ghāt**etho**<br>ghāt**eyyātho** | ghāt**eyyavho**<br>ghāt**eyyāvho** |
+| **opt 1st** | ghāt**e**<br>ghāt**eyyāmi** | ghāt**ema**<br>ghāt**emu**<br>ghāt**eyyāma** | ghāt**eyyaṃ** | ghāt**eyyāmhe** |
+| **fut 3rd** | ghāt**issati**<br>ghāt**essati** | ghāt**issanti**<br>ghāt**essanti** | ghāt**essate** | ghāt**essante** |
+| **fut 2nd** | ghāt**issasi**<br>ghāt**essasi** | ghāt**issatha**<br>ghāt**essatha** | ghāt**essase** | ghāt**essavhe** |
+| **fut 1st** | ghāt**issāmi**<br>ghāt**essāmi** | ghāt**issāma**<br>ghāt**essāma** | ghāt**essaṃ** | ghāt**essāmhe** |
+
+***
+
+***
+
+| | **sg** | **pl** |
+| ------------- | -------------- | -------------------------------- |
+| **aor 3rd** | ghāt**esi** | ghāt**esuṃ** |
+| **aor 2nd** | ghāt**esi** | ghāt**ittha**<br>ghāt**ettha** |
+| **aor 1st** | ghāt**esiṃ** | ghāt**imha**<br>ghāt**imhā** |
 
 ***
 
@@ -1965,17 +1965,17 @@ The root √han (to strike, kill) has two other substitutes: vadha and ghāta. (
 
 ***
 
-|             | **sg**                              | **pl**                                                 |
-|-------------|-------------------------------------|--------------------------------------------------------|
-| **aor 3rd** | a**hari**<br>a**hāsi**              | a**hariṃsu**<br>a**haruṃ**<br>a**haṃsu**<br>a**hāsuṃ** |
-| **aor 2nd** | a**hari**<br>a**haro**<br>a**hāsi** | a**harittha**<br>a**hāsittha**                         |
-| **aor 1st** | a**hariṃ**<br>a**hāsiṃ**            | a**harimha**<br>a**harimhā**<br>a**hāsimha**           |
+| | **sg** | **pl** |
+| ------------- | ------------------------------------- | -------------------------------------------------------- |
+| **aor 3rd** | a**hari**<br>a**hāsi** | a**hariṃsu**<br>a**haruṃ**<br>a**haṃsu**<br>a**hāsuṃ** |
+| **aor 2nd** | a**hari**<br>a**haro**<br>a**hāsi** | a**harittha**<br>a**hāsittha** |
+| **aor 1st** | a**hariṃ**<br>a**hāsiṃ** | a**harimha**<br>a**harimhā**<br>a**hāsimha** |
 
-|             | **sg**                           | **pl**                                             |
-|-------------|----------------------------------|----------------------------------------------------|
-| **aor 3rd** | **hari**<br>**hāsi**             | **hariṃsu**<br>**haruṃ**<br>**haṃsu**<br>**hāsuṃ** |
-| **aor 2nd** | **hari**<br>**haro**<br>**hāsi** | **harittha**<br>**hāsittha**                       |
-| **aor 1st** | **hariṃ**<br>**hāsiṃ**           | **harimha**<br>**harimhā**<br>**hāsimha**          |
+| | **sg** | **pl** |
+| ------------- | ---------------------------------- | ---------------------------------------------------- |
+| **aor 3rd** | **hari**<br>**hāsi** | **hariṃsu**<br>**haruṃ**<br>**haṃsu**<br>**hāsuṃ** |
+| **aor 2nd** | **hari**<br>**haro**<br>**hāsi** | **harittha**<br>**hāsittha** |
+| **aor 1st** | **hariṃ**<br>**hāsiṃ** | **harimha**<br>**harimhā**<br>**hāsimha** |
 
 ***
 
@@ -1983,11 +1983,11 @@ The root √han (to strike, kill) has two other substitutes: vadha and ghāta. (
 
 ***
 
-|             | **sg**                                 | **pl**                                                     |
-|-------------|----------------------------------------|------------------------------------------------------------|
-| **aor 3rd** | vi**hari**<br>vi**hāsi**               | vi**hariṃsu**<br>vi**haruṃ**<br>vi**haṃsu**<br>vi**hāsuṃ** |
-| **aor 2nd** | vi**hari**<br>vi**haro**<br>vi**hāsi** | vi**harittha**<br>vi**hāsittha**                           |
-| **aor 1st** | vi**hariṃ**<br>vi**hāsiṃ**             | vi**harimha**<br>vi**harimhā**<br>vi**hāsimha**            |
+| | **sg** | **pl** |
+| ------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| **aor 3rd** | vi**hari**<br>vi**hāsi** | vi**hariṃsu**<br>vi**haruṃ**<br>vi**haṃsu**<br>vi**hāsuṃ** |
+| **aor 2nd** | vi**hari**<br>vi**haro**<br>vi**hāsi** | vi**harittha**<br>vi**hāsittha** |
+| **aor 1st** | vi**hariṃ**<br>vi**hāsiṃ** | vi**harimha**<br>vi**harimhā**<br>vi**hāsimha** |
 
 ***
 
@@ -1997,20 +1997,20 @@ Potential 1st per. plural, has the peculiar form viharemu.
 
 ***
 
-|             | **sg**                                     | **pl**                                          | **reflexive sg**                  | **reflexive pl**                      |
-|-------------|--------------------------------------------|-------------------------------------------------|-----------------------------------|---------------------------------------|
-| **pr 3rd**  | vihar**ati**                               | vihar**anti**                                   | vihar**ate**                      | vihar**ante**<br>vihar**are**         |
-| **pr 2nd**  | vihar**asi**                               | vihar**atha**                                   | vihar**ase**                      | vihar**avhe**                         |
-| **pr 1st**  | vihar**āmi**                               | vihar**āma**                                    | vihar**e**                        | vihar**amhase**<br>vihar**āmhe**      |
-| **imp 3rd** | vihar**atu**                               | vihar**antu**                                   | vihar**ataṃ**                     | vihar**antaṃ**                        |
-| **imp 2nd** | vihar**a**<br>vihar**āsi**<br>vihar**āhi** | vihar**atha**                                   | vihar**assu**                     | vihar**avho**                         |
-| **imp 1st** | vihar**āmi**                               | vihar**āma**                                    | vihar**e**                        | vihar**āmase**                        |
-| **opt 3rd** | vihar**e**<br>vihar**eyya**                | vihar**eyyu**<br>vihar**eyyuṃ**                 | vihar**etha**                     | vihar**eraṃ**                         |
-| **opt 2nd** | vihar**e**<br>vihar**eyyāsi**              | vihar**etha**<br>vihar**eyyātha**               | vihar**etho**<br>vihar**eyyātho** | vihar**eyyavho**<br>vihar**eyyāvho**  |
-| **opt 1st** | vihar**e**<br>vihar**eyyāmi**              | vihar**ema**<br>vihar**emu**<br>vihar**eyyāma** | vihar**eyyaṃ**                    | vihar**emase**<br>vihar**eyyāmhe**    |
-| **fut 3rd** | vihar**issati**                            | vihar**issanti**                                | vihar**issate**                   | vihar**issante**                      |
-| **fut 2nd** | vihar**issasi**                            | vihar**issatha**                                | vihar**issase**                   | vihar**issavhe**                      |
-| **fut 1st** | vihar**issāmi**                            | vihar**issāma**                                 | vihar**issaṃ**                    | vihar**issāmase**<br>vihar**issāmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | -------------------------------------------- | ------------------------------------------------- | ----------------------------------- | --------------------------------------- |
+| **pr 3rd** | vihar**ati** | vihar**anti** | vihar**ate** | vihar**ante**<br>vihar**are** |
+| **pr 2nd** | vihar**asi** | vihar**atha** | vihar**ase** | vihar**avhe** |
+| **pr 1st** | vihar**āmi** | vihar**āma** | vihar**e** | vihar**amhase**<br>vihar**āmhe** |
+| **imp 3rd** | vihar**atu** | vihar**antu** | vihar**ataṃ** | vihar**antaṃ** |
+| **imp 2nd** | vihar**a**<br>vihar**āsi**<br>vihar**āhi** | vihar**atha** | vihar**assu** | vihar**avho** |
+| **imp 1st** | vihar**āmi** | vihar**āma** | vihar**e** | vihar**āmase** |
+| **opt 3rd** | vihar**e**<br>vihar**eyya** | vihar**eyyu**<br>vihar**eyyuṃ** | vihar**etha** | vihar**eraṃ** |
+| **opt 2nd** | vihar**e**<br>vihar**eyyāsi** | vihar**etha**<br>vihar**eyyātha** | vihar**etho**<br>vihar**eyyātho** | vihar**eyyavho**<br>vihar**eyyāvho** |
+| **opt 1st** | vihar**e**<br>vihar**eyyāmi** | vihar**ema**<br>vihar**emu**<br>vihar**eyyāma** | vihar**eyyaṃ** | vihar**emase**<br>vihar**eyyāmhe** |
+| **fut 3rd** | vihar**issati** | vihar**issanti** | vihar**issate** | vihar**issante** |
+| **fut 2nd** | vihar**issasi** | vihar**issatha** | vihar**issase** | vihar**issavhe** |
+| **fut 1st** | vihar**issāmi** | vihar**issāma** | vihar**issaṃ** | vihar**issāmase**<br>vihar**issāmhe** |
 
 ***
 
@@ -2346,28 +2346,28 @@ wi
 
 ***
 
-|             | **sg**                                        | **pl**                                             | **reflexive sg**                    | **reflexive pl**                        |
-|-------------|-----------------------------------------------|----------------------------------------------------|-------------------------------------|-----------------------------------------|
-| **pr 3rd**  | vimucc**ati**                                 | vimucc**anti**                                     | vimucc**ate**                       | vimucc**ante**<br>vimucc**are**         |
-| **pr 2nd**  | vimucc**asi**                                 | vimucc**atha**                                     | vimucc**ase**                       | vimucc**avhe**                          |
-| **pr 1st**  | vimucc**āmi**                                 | vimucc**āma**                                      | vimucc**e**                         | vimucc**amhase**<br>vimucc**āmhe**      |
-| **imp 3rd** | vimucc**atu**                                 | vimucc**antu**                                     | vimucc**ataṃ**                      | vimucc**antaṃ**                         |
-| **imp 2nd** | vimucc**a**<br>vimucc**āsi**<br>vimucc**āhi** | vimucc**atha**                                     | vimucc**assu**                      | vimucc**avho**                          |
-| **imp 1st** | vimucc**āmi**                                 | vimucc**āma**                                      | vimucc**e**                         | vimucc**āmase**                         |
-| **opt 3rd** | vimucc**e**<br>vimucc**eyya**                 | vimucc**eyyu**<br>vimucc**eyyuṃ**                  | vimucc**etha**                      | vimucc**eraṃ**                          |
-| **opt 2nd** | vimucc**e**<br>vimucc**eyyāsi**               | vimucc**etha**<br>vimucc**eyyātha**                | vimucc**etho**<br>vimucc**eyyātho** | vimucc**eyyavho**<br>vimucc**eyyāvho**  |
-| **opt 1st** | vimucc**e**<br>vimucc**eyyāmi**               | vimucc**ema**<br>vimucc**emu**<br>vimucc**eyyāma** | vimucc**eyyaṃ**                     | vimucc**emase**<br>vimucc**eyyāmhe**    |
-| **fut 3rd** | vimucc**issati**                              | vimucc**issanti**                                  | vimucc**issate**                    | vimucc**issante**                       |
-| **fut 2nd** | vimucc**issasi**                              | vimucc**issatha**                                  | vimucc**issase**                    | vimucc**issavhe**                       |
-| **fut 1st** | vimucc**issāmi**                              | vimucc**issāma**                                   | vimucc**issaṃ**                     | vimucc**issāmase**<br>vimucc**issāmhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ----------------------------------------------- | ---------------------------------------------------- | ------------------------------------- | ----------------------------------------- |
+| **pr 3rd** | vimucc**ati** | vimucc**anti** | vimucc**ate** | vimucc**ante**<br>vimucc**are** |
+| **pr 2nd** | vimucc**asi** | vimucc**atha** | vimucc**ase** | vimucc**avhe** |
+| **pr 1st** | vimucc**āmi** | vimucc**āma** | vimucc**e** | vimucc**amhase**<br>vimucc**āmhe** |
+| **imp 3rd** | vimucc**atu** | vimucc**antu** | vimucc**ataṃ** | vimucc**antaṃ** |
+| **imp 2nd** | vimucc**a**<br>vimucc**āsi**<br>vimucc**āhi** | vimucc**atha** | vimucc**assu** | vimucc**avho** |
+| **imp 1st** | vimucc**āmi** | vimucc**āma** | vimucc**e** | vimucc**āmase** |
+| **opt 3rd** | vimucc**e**<br>vimucc**eyya** | vimucc**eyyu**<br>vimucc**eyyuṃ** | vimucc**etha** | vimucc**eraṃ** |
+| **opt 2nd** | vimucc**e**<br>vimucc**eyyāsi** | vimucc**etha**<br>vimucc**eyyātha** | vimucc**etho**<br>vimucc**eyyātho** | vimucc**eyyavho**<br>vimucc**eyyāvho** |
+| **opt 1st** | vimucc**e**<br>vimucc**eyyāmi** | vimucc**ema**<br>vimucc**emu**<br>vimucc**eyyāma** | vimucc**eyyaṃ** | vimucc**emase**<br>vimucc**eyyāmhe** |
+| **fut 3rd** | vimucc**issati** | vimucc**issanti** | vimucc**issate** | vimucc**issante** |
+| **fut 2nd** | vimucc**issasi** | vimucc**issatha** | vimucc**issase** | vimucc**issavhe** |
+| **fut 1st** | vimucc**issāmi** | vimucc**issāma** | vimucc**issaṃ** | vimucc**issāmase**<br>vimucc**issāmhe** |
 
 ***
 
-|             | **sg**                     | **pl**                           | **reflexive sg**                                 | **reflexive pl**                   |
-|-------------|----------------------------|----------------------------------|--------------------------------------------------|------------------------------------|
-| **aor 3rd** | vimucc**i**<br>vimucc**ī** | vimucc**iṃsu**<br>vimucc**uṃ**   | vimucc**atha**<br>vimucc**ā**<br>vimucc**ittha** | vimucc**ū**                        |
-| **aor 2nd** | vimucc**i**<br>vimucc**o** | vimucc**ittha**                  | vimucc**ittho**<br>vimucc**ise**                 | vimucc**ivhaṃ**                    |
-| **aor 1st** | vimucc**iṃ**               | vimucc**imha**<br>vimucc**imhā** | vimucc**a**<br>vimucc**aṃ**<br>vimucc**itthaṃ**  | vimucc**imhase**<br>vimucc**imhe** |
+| | **sg** | **pl** | **reflexive sg** | **reflexive pl** |
+| ------------- | ---------------------------- | ---------------------------------- | -------------------------------------------------- | ------------------------------------ |
+| **aor 3rd** | vimucc**i**<br>vimucc**ī** | vimucc**iṃsu**<br>vimucc**uṃ** | vimucc**atha**<br>vimucc**ā**<br>vimucc**ittha** | vimucc**ū** |
+| **aor 2nd** | vimucc**i**<br>vimucc**o** | vimucc**ittha** | vimucc**ittho**<br>vimucc**ise** | vimucc**ivhaṃ** |
+| **aor 1st** | vimucc**iṃ** | vimucc**imha**<br>vimucc**imhā** | vimucc**a**<br>vimucc**aṃ**<br>vimucc**itthaṃ** | vimucc**imhase**<br>vimucc**imhe** |
 
 ***
 
@@ -3225,7 +3225,7 @@ incomplete predicate).
 
 ## Analysis of a long complex sentence
 
-## 
+
 
 # Class 47
 
@@ -7533,7 +7533,7 @@ akusala, amanussa, abhäva, etc., and an in anavajja,
 
 ***
 
-## 
+
 
 ***
 

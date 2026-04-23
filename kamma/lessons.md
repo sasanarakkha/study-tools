@@ -1,3 +1,6 @@
 - 2026-04-22 [POSITIVE] Identified and fixed orphaned folder (bhikkhu-patimokkha) during review.
 - 2026-04-22 [BEHAVIOR] Maintained data integrity by improving generation scripts instead of manual index edits.
 - 2026-04-22 [WORKFLOW] Recursive index generation is now more inclusive of non-digit folders for sub-indices.
+- 2026-04-23 [BEHAVIOR] Restored tools/printer.py from a local symlink to a portable file during finalization.
+- 2026-04-23 [POSITIVE] Data integrity scripts (compare_pali_sources.py) are essential for mass reformatting tasks.
+- 2026-04-23 [WORKFLOW] Prefer Hatch package structure over PYTHONPATH hacks for internal tool imports.

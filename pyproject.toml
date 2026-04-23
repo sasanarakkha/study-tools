@@ -15,9 +15,13 @@ dependencies = [
     "beautifulsoup4>=4.14.3",
 ]
 
-[tool.uv]
-package = false
+
+
+
+
+[tool.hatch.build.targets.wheel]
+packages = ["tools", "scripts"]
 
 [build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
+requires = ["hatchling"]
+build-backend = "hatchling.build"

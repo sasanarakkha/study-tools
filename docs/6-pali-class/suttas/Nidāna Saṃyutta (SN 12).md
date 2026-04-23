@@ -29,7 +29,7 @@ Please make line by line translation. Breaking all sandhi and comp (naming type 
 example:
 
 | ID | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
-|----|--------------|----|-------------|-------------------|----------------------|
+| ---- | -------------- | ---- | ------------- | ------------------- | ---------------------- |
 
 ## SN 12.1 Paṭiccasamuppādasutta
 
@@ -41,59 +41,59 @@ example:
 
 idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 
-| “paṭiccasamuppādaṃ vo, bhikkhave, desessāmi; taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti. “evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca —                                                                                                                                                                                                                                                                                               |                                   |   |   |   |   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|---|---|---|---|
-| 40373                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | paṭiccasamuppādaṃ                 |   |   |   |   |
-| 70562                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | vo                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-| “katamo ca, bhikkhave, paṭiccasamuppādo? avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṃ; viññāṇapaccayā nāmarūpaṃ; nāmarūpapaccayā saḷāyatanaṃ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṃ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. evametassa kevalassa dukkhakkhandhassa samudayo hoti. ayaṃ vuccati, bhikkhave, paṭiccasamuppādo. |                                   |   |   |   |   |
-| 10535                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | avijjāpaccayā                     |   |   |   |   |
-| 56791                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | saṅkhārapaccayā                   |   |   |   |   |
-| 67727                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | viññāṇapaccayā                    |   |   |   |   |
-| 36463                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | nāmarūpapaccayā                   |   |   |   |   |
-| 61512                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | saḷāyatanapaccayā                 |   |   |   |   |
-| 47661                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | phassapaccayā                     |   |   |   |   |
-| 70262                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | vedanāpaccayā                     |   |   |   |   |
-| 29378                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | taṇhāpaccayā                      |   |   |   |   |
-| 16328                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | upādānapaccayā                    |   |   |   |   |
-| 49561                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | bhavapaccayā                      |   |   |   |   |
-|  28248                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | jātipaccayā                       |   |   |   |   |
-|  28042                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | jarāmaraṇaṃ                       |   |   |   |   |
-|  65101                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | sokaparidevadukkhadomanassupāyāsā |   |   |   |   |
-|  60641                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | sambhavanti                       |   |   |   |   |
-|  18101                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | evametassa                        |   |   |   |   |
-|  22905                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | kevalassa                         |   |   |   |   |
-|  40373                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | paṭiccasamuppādo                  |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-| “avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho; viññāṇanirodhā nāmarūpanirodho; nāmarūpanirodhā saḷāyatananirodho; saḷāyatananirodhā phassanirodho; phassanirodhā vedanānirodho; vedanānirodhā taṇhānirodho; taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho; bhavanirodhā jātinirodho; jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti. evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.        |                                   |   |   |   |   |
-|  56787                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | saṅkhāranirodho                   |   |   |   |   |
-|  67723                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | viññāṇanirodho                    |   |   |   |   |
-|  36460                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | nāmarūpanirodho                   |   |   |   |   |
-|  61510                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | saḷāyatananirodho                 |   |   |   |   |
-|  47658                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | phassanirodho                     |   |   |   |   |
-|  70257                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | vedanānirodho                     |   |   |   |   |
-|  29373                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | taṇhānirodho                      |   |   |   |   |
-| 16326                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | upādānanirodho                    |   |   |   |   |
-| 49545                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | bhavanirodho                      |   |   |   |   |
-|  28245                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | jātinirodho                       |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-| idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.                                                                                                                                                                                                                                                                                                                                                                                                    |                                   |   |   |   |   |
-|  13619                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | idamavoca                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   |   |   |   |   |
+| “paṭiccasamuppādaṃ vo, bhikkhave, desessāmi; taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti. “evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca — | | | | | |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | --- | --- | --- | --- |
+| 40373 | paṭiccasamuppādaṃ | | | | |
+| 70562 | vo | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “katamo ca, bhikkhave, paṭiccasamuppādo? avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṃ; viññāṇapaccayā nāmarūpaṃ; nāmarūpapaccayā saḷāyatanaṃ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṃ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. evametassa kevalassa dukkhakkhandhassa samudayo hoti. ayaṃ vuccati, bhikkhave, paṭiccasamuppādo. | | | | | |
+| 10535 | avijjāpaccayā | | | | |
+| 56791 | saṅkhārapaccayā | | | | |
+| 67727 | viññāṇapaccayā | | | | |
+| 36463 | nāmarūpapaccayā | | | | |
+| 61512 | saḷāyatanapaccayā | | | | |
+| 47661 | phassapaccayā | | | | |
+| 70262 | vedanāpaccayā | | | | |
+| 29378 | taṇhāpaccayā | | | | |
+| 16328 | upādānapaccayā | | | | |
+| 49561 | bhavapaccayā | | | | |
+| 28248 | jātipaccayā | | | | |
+| 28042 | jarāmaraṇaṃ | | | | |
+| 65101 | sokaparidevadukkhadomanassupāyāsā | | | | |
+| 60641 | sambhavanti | | | | |
+| 18101 | evametassa | | | | |
+| 22905 | kevalassa | | | | |
+| 40373 | paṭiccasamuppādo | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho; viññāṇanirodhā nāmarūpanirodho; nāmarūpanirodhā saḷāyatananirodho; saḷāyatananirodhā phassanirodho; phassanirodhā vedanānirodho; vedanānirodhā taṇhānirodho; taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho; bhavanirodhā jātinirodho; jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti. evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. | | | | | |
+| 56787 | saṅkhāranirodho | | | | |
+| 67723 | viññāṇanirodho | | | | |
+| 36460 | nāmarūpanirodho | | | | |
+| 61510 | saḷāyatananirodho | | | | |
+| 47658 | phassanirodho | | | | |
+| 70257 | vedanānirodho | | | | |
+| 29373 | taṇhānirodho | | | | |
+| 16326 | upādānanirodho | | | | |
+| 49545 | bhavanirodho | | | | |
+| 28245 | jātinirodho | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti. | | | | | |
+| 13619 | idamavoca | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN 12.10 Gotamasutta
 
@@ -111,141 +111,141 @@ idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 
 “iti hidaṃ avijjānirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hoti. ‘nirodho, nirodhoti kho me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādī”ti.
 
-| “pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi — ‘kicchaṃ vatāyaṃ loko āpanno jāyati ca jīyati ca mīyati ca cavati ca upapajjati ca. atha ca panimassa dukkhassa nissaraṇaṃ nappajānāti jarāmaraṇassa. kudāssu nāma imassa dukkhassa nissaraṇaṃ paññāyissati jarāmaraṇassā”ti?                                                           |                   |   |   |   |   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|---|---|---|---|
-|  57673                                                                                                                                                                                                                                                                                                                                                                       | sato              |   |   |   |   |
-|  21632                                                                                                                                                                                                                                                                                                                                                                       | kicchaṃ           |   |   |   |   |
-|  65983                                                                                                                                                                                                                                                                                                                                                                       | vatāyaṃ           |   |   |   |   |
-|  28352                                                                                                                                                                                                                                                                                                                                                                       | jāyati            |   |   |   |   |
-|  28547                                                                                                                                                                                                                                                                                                                                                                       | jīyati            |   |   |   |   |
-| 52747                                                                                                                                                                                                                                                                                                                                                                        | mīyati            |   |   |   |   |
-|  26350                                                                                                                                                                                                                                                                                                                                                                       | cavati            |   |   |   |   |
-|  15855                                                                                                                                                                                                                                                                                                                                                                       | upapajjati        |   |   |   |   |
-|  42314                                                                                                                                                                                                                                                                                                                                                                       | panimassa         |   |   |   |   |
-|  22324                                                                                                                                                                                                                                                                                                                                                                       | kudāssu           |   |   |   |   |
-|  22318                                                                                                                                                                                                                                                                                                                                                                       | kudā              |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-| “tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho sati jarāmaraṇaṃ hoti, kiṃpaccayā jarāmaraṇanti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘jātiyā kho sati jarāmaraṇaṃ hoti, jātipaccayā jarāmaraṇan”ti.                                                                                                                                      |                   |   |   |   |   |
-|  21804                                                                                                                                                                                                                                                                                                                                                                       | kimhi             |   |   |   |   |
-|  21991                                                                                                                                                                                                                                                                                                                                                                       | kiṃpaccayā        |   |   |   |   |
-|  51128                                                                                                                                                                                                                                                                                                                                                                       | manasikārā        |   |   |   |   |
-|  10921                                                                                                                                                                                                                                                                                                                                                                       | ahu               |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|  “tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho sati jāti hoti ... pe ... bhavo... upādānaṃ... taṇhā... vedanā... phasso... saḷāyatanaṃ... nāmarūpaṃ... viññāṇaṃ... saṅkhārā honti, kiṃpaccayā saṅkhārāti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘avijjāya kho sati saṅkhārā honti, avijjāpaccayā saṅkhārā”ti.                            |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-| “iti hidaṃ avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṃ ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti. ‘samudayo, samudayoti kho me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.                                                                                               |                   |   |   |   |   |
-|  3657                                                                                                                                                                                                                                                                                                                                                                        | ananussutesu      |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-| “tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho asati jarāmaraṇaṃ na hoti, kissa nirodhā jarāmaraṇanirodhoti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘jātiyā kho asati jarāmaraṇaṃ na hoti, jātinirodhā jarāmaraṇanirodho”ti.                                                                                                               |                   |   |   |   |   |
-|  28043                                                                                                                                                                                                                                                                                                                                                                       | jarāmaraṇanirodho |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-| “tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho asati jāti na hoti ... pe ... bhavo... upādānaṃ... taṇhā... vedanā... phasso... saḷāyatanaṃ... nāmarūpaṃ... viññāṇaṃ... saṅkhārā na honti, kissa nirodhā saṅkhāranirodhoti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘avijjāya kho asati saṅkhārā na honti, avijjānirodhā saṅkhāranirodho”ti. |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-| “iti hidaṃ avijjānirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hoti. ‘nirodho, nirodhoti kho me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādī”ti.                                                                                  |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                              |                   |   |   |   |   |
+| “pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi — ‘kicchaṃ vatāyaṃ loko āpanno jāyati ca jīyati ca mīyati ca cavati ca upapajjati ca. atha ca panimassa dukkhassa nissaraṇaṃ nappajānāti jarāmaraṇassa. kudāssu nāma imassa dukkhassa nissaraṇaṃ paññāyissati jarāmaraṇassā”ti? | | | | | |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | --- | --- | --- | --- |
+| 57673 | sato | | | | |
+| 21632 | kicchaṃ | | | | |
+| 65983 | vatāyaṃ | | | | |
+| 28352 | jāyati | | | | |
+| 28547 | jīyati | | | | |
+| 52747 | mīyati | | | | |
+| 26350 | cavati | | | | |
+| 15855 | upapajjati | | | | |
+| 42314 | panimassa | | | | |
+| 22324 | kudāssu | | | | |
+| 22318 | kudā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho sati jarāmaraṇaṃ hoti, kiṃpaccayā jarāmaraṇanti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘jātiyā kho sati jarāmaraṇaṃ hoti, jātipaccayā jarāmaraṇan”ti. | | | | | |
+| 21804 | kimhi | | | | |
+| 21991 | kiṃpaccayā | | | | |
+| 51128 | manasikārā | | | | |
+| 10921 | ahu | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho sati jāti hoti ... pe ... bhavo... upādānaṃ... taṇhā... vedanā... phasso... saḷāyatanaṃ... nāmarūpaṃ... viññāṇaṃ... saṅkhārā honti, kiṃpaccayā saṅkhārāti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘avijjāya kho sati saṅkhārā honti, avijjāpaccayā saṅkhārā”ti. | | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “iti hidaṃ avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṃ ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti. ‘samudayo, samudayoti kho me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. | | | | | |
+| 3657 | ananussutesu | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho asati jarāmaraṇaṃ na hoti, kissa nirodhā jarāmaraṇanirodhoti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘jātiyā kho asati jarāmaraṇaṃ na hoti, jātinirodhā jarāmaraṇanirodho”ti. | | | | | |
+| 28043 | jarāmaraṇanirodho | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho asati jāti na hoti ... pe ... bhavo... upādānaṃ... taṇhā... vedanā... phasso... saḷāyatanaṃ... nāmarūpaṃ... viññāṇaṃ... saṅkhārā na honti, kissa nirodhā saṅkhāranirodhoti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘avijjāya kho asati saṅkhārā na honti, avijjānirodhā saṅkhāranirodho”ti. | | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “iti hidaṃ avijjānirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hoti. ‘nirodho, nirodhoti kho me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādī”ti. | | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN 12.12 Moḷiyaphaggunasutta
 
-## 
+
 
 “cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya. katame cattāro? kabaḷīkāro āhāro — oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ. ime kho, bhikkhave, cattāro āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāyā”ti.
 
@@ -263,160 +263,160 @@ evaṃ vutte, āyasmā moḷiyaphagguno bhagavantaṃ etadavoca — “ko nu kho
 
 “channaṃ tveva, phagguna, phassāyatanānaṃ asesavirāganirodhā phassanirodho; phassanirodhā vedanānirodho; vedanānirodhā taṇhānirodho; taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho; bhavanirodhā jātinirodho; jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti. evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.
 
-| “cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya. katame cattāro? kabaḷīkāro āhāro — oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ. ime kho, bhikkhave, cattāro āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāyā”ti.                                                                                                                                                  |                         |   |   |   |   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|---|---|---|---|
-|  26130                                                                                                                                                                                                                                                                                                                                                                                                                                                    | cattārome               |   |   |   |   |
-|  60646                                                                                                                                                                                                                                                                                                                                                                                                                                                    | sambhavesīnaṃ           |   |   |   |   |
-|  20173                                                                                                                                                                                                                                                                                                                                                                                                                                                    | kabaḷīkāro              |   |   |   |   |
-|  51280                                                                                                                                                                                                                                                                                                                                                                                                                                                    | manosañcetanā           |   |   |   |   |
-| 51239                                                                                                                                                                                                                                                                                                                                                                                                                                                     | \#mano                  |   |   |   |   |
-| 57297                                                                                                                                                                                                                                                                                                                                                                                                                                                     | \#sañcetanā             |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-| evaṃ vutte, āyasmā moḷiyaphagguno bhagavantaṃ etadavoca — “ko nu kho, bhante, viññāṇāhāraṃ āhāretī”ti?                                                                                                                                                                                                                                                                                                                                                    |                         |   |   |   |   |
-|  53436                                                                                                                                                                                                                                                                                                                                                                                                                                                    | moḷiyaphagguno          |   |   |   |   |
-|  67757                                                                                                                                                                                                                                                                                                                                                                                                                                                    | viññāṇāhāraṃ            |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-| “no kallo pañho”ti bhagavā avoca — “‘āhāretīti ahaṃ na vadāmi. ‘āhāretīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, āhāretīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kissa nu kho, bhante, viññāṇāhāroti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘viññāṇāhāro āyatiṃ punabbhavābhinibbattiyā paccayo, tasmiṃ bhūte sati saḷāyatanaṃ, saḷāyatanapaccayā phasso”ti.                                          |                         |   |   |   |   |
-|  20700                                                                                                                                                                                                                                                                                                                                                                                                                                                    | kallo                   |   |   |   |   |
-|  10276                                                                                                                                                                                                                                                                                                                                                                                                                                                    | avadantaṃ               |   |   |   |   |
-|  12225                                                                                                                                                                                                                                                                                                                                                                                                                                                    | āyatiṃ                  |   |   |   |   |
-|  46753                                                                                                                                                                                                                                                                                                                                                                                                                                                    | punabbhavābhinibbattiyā |   |   |   |   |
-|  61506                                                                                                                                                                                                                                                                                                                                                                                                                                                    | saḷāyatanaṃ             |   |   |   |   |
-|  61512                                                                                                                                                                                                                                                                                                                                                                                                                                                    | saḷāyatanapaccayā       |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-| “ko nu kho, bhante, phusatī”ti? “no kallo pañho”ti bhagavā avoca — “‘phusatīti ahaṃ na vadāmi. ‘phusatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, phusatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, phassoti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘saḷāyatanapaccayā phasso, phassapaccayā vedanā”ti.                                                                       |                         |   |   |   |   |
-|  21991                                                                                                                                                                                                                                                                                                                                                                                                                                                    | kiṃpaccayā              |   |   |   |   |
-| 26516                                                                                                                                                                                                                                                                                                                                                                                                                                                     | cāhaṃ 1                 |   |   |   |   |
-| 26517                                                                                                                                                                                                                                                                                                                                                                                                                                                     | c'āhaṃ 2                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-| “ko nu kho, bhante, vedayatī”ti? “no kallo pañho”ti bhagavā avoca — “‘vedayatīti ahaṃ na vadāmi. ‘vedayatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, vedayatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, vedanāti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘phassapaccayā vedanā, vedanāpaccayā taṇhā”ti.                                                                        |                         |   |   |   |   |
-| 70302                                                                                                                                                                                                                                                                                                                                                                                                                                                     | vedayati                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-| “ko nu kho, bhante, tasatī”ti ? “no kallo pañho”ti bhagavā avoca — “‘tasatīti ahaṃ na vadāmi. ‘tasatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, tasatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, taṇhāti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘vedanāpaccayā taṇhā, taṇhāpaccayā upādānan”ti.                                                                               |                         |   |   |   |   |
-|  30136                                                                                                                                                                                                                                                                                                                                                                                                                                                    | tasati                  |   |   |   |   |
-|  70262                                                                                                                                                                                                                                                                                                                                                                                                                                                    | vedanāpaccayā           |   |   |   |   |
-|  29378                                                                                                                                                                                                                                                                                                                                                                                                                                                    | taṇhāpaccayā            |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-| “ko nu kho, bhante, upādiyatī”ti? “no kallo pañho”ti bhagavā avoca — “‘upādiyatīti ahaṃ na vadāmi. ‘upādiyatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, upādiyatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, upādānanti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘taṇhāpaccayā upādānaṃ; upādānapaccayā bhavoti ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti. |                         |   |   |   |   |
-| 16328                                                                                                                                                                                                                                                                                                                                                                                                                                                     | upādānapaccayā          |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-| “channaṃ tveva, phagguna, phassāyatanānaṃ asesavirāganirodhā phassanirodho; phassanirodhā vedanānirodho; vedanānirodhā taṇhānirodho; taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho; bhavanirodhā jātinirodho; jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti. evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.                                                                                                   |                         |   |   |   |   |
-| 31388                                                                                                                                                                                                                                                                                                                                                                                                                                                     | tveva                   |   |   |   |   |
-|  47525                                                                                                                                                                                                                                                                                                                                                                                                                                                    | phagguna                |   |   |   |   |
-|  47658                                                                                                                                                                                                                                                                                                                                                                                                                                                    | phassanirodho           |   |   |   |   |
-|  70257                                                                                                                                                                                                                                                                                                                                                                                                                                                    | vedanānirodho           |   |   |   |   |
-|  29373                                                                                                                                                                                                                                                                                                                                                                                                                                                    | taṇhānirodho            |   |   |   |   |
-|  16326                                                                                                                                                                                                                                                                                                                                                                                                                                                    | upādānanirodho          |   |   |   |   |
-|  49545                                                                                                                                                                                                                                                                                                                                                                                                                                                    | bhavanirodho            |   |   |   |   |
-|  28245                                                                                                                                                                                                                                                                                                                                                                                                                                                    | jātinirodho             |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                         |   |   |   |   |
+| “cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya. katame cattāro? kabaḷīkāro āhāro — oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ. ime kho, bhikkhave, cattāro āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāyā”ti. | | | | | |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | --- | --- | --- | --- |
+| 26130 | cattārome | | | | |
+| 60646 | sambhavesīnaṃ | | | | |
+| 20173 | kabaḷīkāro | | | | |
+| 51280 | manosañcetanā | | | | |
+| 51239 | \#mano | | | | |
+| 57297 | \#sañcetanā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| evaṃ vutte, āyasmā moḷiyaphagguno bhagavantaṃ etadavoca — “ko nu kho, bhante, viññāṇāhāraṃ āhāretī”ti? | | | | | |
+| 53436 | moḷiyaphagguno | | | | |
+| 67757 | viññāṇāhāraṃ | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “no kallo pañho”ti bhagavā avoca — “‘āhāretīti ahaṃ na vadāmi. ‘āhāretīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, āhāretīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kissa nu kho, bhante, viññāṇāhāroti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘viññāṇāhāro āyatiṃ punabbhavābhinibbattiyā paccayo, tasmiṃ bhūte sati saḷāyatanaṃ, saḷāyatanapaccayā phasso”ti. | | | | | |
+| 20700 | kallo | | | | |
+| 10276 | avadantaṃ | | | | |
+| 12225 | āyatiṃ | | | | |
+| 46753 | punabbhavābhinibbattiyā | | | | |
+| 61506 | saḷāyatanaṃ | | | | |
+| 61512 | saḷāyatanapaccayā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “ko nu kho, bhante, phusatī”ti? “no kallo pañho”ti bhagavā avoca — “‘phusatīti ahaṃ na vadāmi. ‘phusatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, phusatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, phassoti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘saḷāyatanapaccayā phasso, phassapaccayā vedanā”ti. | | | | | |
+| 21991 | kiṃpaccayā | | | | |
+| 26516 | cāhaṃ 1 | | | | |
+| 26517 | c'āhaṃ 2 | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “ko nu kho, bhante, vedayatī”ti? “no kallo pañho”ti bhagavā avoca — “‘vedayatīti ahaṃ na vadāmi. ‘vedayatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, vedayatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, vedanāti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘phassapaccayā vedanā, vedanāpaccayā taṇhā”ti. | | | | | |
+| 70302 | vedayati | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “ko nu kho, bhante, tasatī”ti ? “no kallo pañho”ti bhagavā avoca — “‘tasatīti ahaṃ na vadāmi. ‘tasatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, tasatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, taṇhāti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘vedanāpaccayā taṇhā, taṇhāpaccayā upādānan”ti. | | | | | |
+| 30136 | tasati | | | | |
+| 70262 | vedanāpaccayā | | | | |
+| 29378 | taṇhāpaccayā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “ko nu kho, bhante, upādiyatī”ti? “no kallo pañho”ti bhagavā avoca — “‘upādiyatīti ahaṃ na vadāmi. ‘upādiyatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, upādiyatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, upādānanti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘taṇhāpaccayā upādānaṃ; upādānapaccayā bhavoti ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti. | | | | | |
+| 16328 | upādānapaccayā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “channaṃ tveva, phagguna, phassāyatanānaṃ asesavirāganirodhā phassanirodho; phassanirodhā vedanānirodho; vedanānirodhā taṇhānirodho; taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho; bhavanirodhā jātinirodho; jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti. evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. | | | | | |
+| 31388 | tveva | | | | |
+| 47525 | phagguna | | | | |
+| 47658 | phassanirodho | | | | |
+| 70257 | vedanānirodho | | | | |
+| 29373 | taṇhānirodho | | | | |
+| 16326 | upādānanirodho | | | | |
+| 49545 | bhavanirodho | | | | |
+| 28245 | jātinirodho | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN 12.15 Kaccānagottasutta
 
@@ -428,85 +428,85 @@ upayupādānābhinivesavinibandho khvāyaṃ, kaccāna, loko yebhuyyena. tañcā
 
 ‘sabbaṃ atthīti kho, kaccāna, ayameko anto. ‘sabbaṃ natthīti ayaṃ dutiyo anto. ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti — ‘avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṃ ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti. avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.
 
-| atha kho āyasmā kaccānagotto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā kaccānagotto bhagavantaṃ etadavoca — “‘sammādiṭṭhi sammādiṭṭhīti, bhante, vuccati. kittāvatā nu kho, bhante, sammādiṭṭhi hotī”ti?                                                                                                                                                  |                                |   |   |   |   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|---|---|---|---|
-| 19257                                                                                                                                                                                                                                                                                                                                                                                                                            | kaccānagotto                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-| “dvayanissito khvāyaṃ, kaccāna, loko yebhuyyena — atthitañceva natthitañca. lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke natthitā sā na hoti. lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti.                                                                                                                                                                  |                                |   |   |   |   |
-| 34309                                                                                                                                                                                                                                                                                                                                                                                                                            | dvayanissito                   |   |   |   |   |
-| 23990                                                                                                                                                                                                                                                                                                                                                                                                                            | khvāyaṃ                        |   |   |   |   |
-| 19255                                                                                                                                                                                                                                                                                                                                                                                                                            | kaccāna                        |   |   |   |   |
-|  2748                                                                                                                                                                                                                                                                                                                                                                                                                            | atthitaṃ                       |   |   |   |   |
-| 35546                                                                                                                                                                                                                                                                                                                                                                                                                            | natthitaṃ                      |   |   |   |   |
-| 56012                                                                                                                                                                                                                                                                                                                                                                                                                            | lokasamudayaṃ                  |   |   |   |   |
-| 35546                                                                                                                                                                                                                                                                                                                                                                                                                            | natthitā                       |   |   |   |   |
-| 55990                                                                                                                                                                                                                                                                                                                                                                                                                            | lokanirodhaṃ                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-| upayupādānābhinivesavinibandho khvāyaṃ, kaccāna, loko yebhuyyena. tañcāyaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinivesānusayaṃ na upeti na upādiyati nādhiṭṭhāti — ‘attā meti. ‘dukkhameva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatīti na kaṅkhati na vicikicchati aparapaccayā ñāṇamevassa ettha hoti. ettāvatā kho, kaccāna, sammādiṭṭhi hoti.                                                                    |                                |   |   |   |   |
-|  15956                                                                                                                                                                                                                                                                                                                                                                                                                           | upayupādānābhinivesavinibandho |   |   |   |   |
-| 15938                                                                                                                                                                                                                                                                                                                                                                                                                            | \#upaya                        |   |   |   |   |
-| 16316                                                                                                                                                                                                                                                                                                                                                                                                                            | \#upādāna                      |   |   |   |   |
-|  7924                                                                                                                                                                                                                                                                                                                                                                                                                            | \#abhinivesa                   |   |   |   |   |
-| 68190                                                                                                                                                                                                                                                                                                                                                                                                                            | \#vinibandha                   |   |   |   |   |
-|  3207                                                                                                                                                                                                                                                                                                                                                                                                                            | adhiṭṭhānaṃ                    |   |   |   |   |
-|  7928                                                                                                                                                                                                                                                                                                                                                                                                                            | abhinivesānusayaṃ              |   |   |   |   |
-| 16365                                                                                                                                                                                                                                                                                                                                                                                                                            | upādiyati                      |   |   |   |   |
-| 16549                                                                                                                                                                                                                                                                                                                                                                                                                            | uppajjamānaṃ                   |   |   |   |   |
-| 38065                                                                                                                                                                                                                                                                                                                                                                                                                            | nirujjhamānaṃ                  |   |   |   |   |
-| 19217                                                                                                                                                                                                                                                                                                                                                                                                                            | kaṅkhati                       |   |   |   |   |
-| 67452                                                                                                                                                                                                                                                                                                                                                                                                                            | vicikicchati                   |   |   |   |   |
-|  6292                                                                                                                                                                                                                                                                                                                                                                                                                            | aparapaccayā                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-| ‘sabbaṃ atthīti kho, kaccāna, ayameko anto. ‘sabbaṃ natthīti ayaṃ dutiyo anto. ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti — ‘avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṃ ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti. avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. |                                |   |   |   |   |
-|  4635                                                                                                                                                                                                                                                                                                                                                                                                                            | anupagamma                     |   |   |   |   |
-| 10535                                                                                                                                                                                                                                                                                                                                                                                                                            | avijjāpaccayā                  |   |   |   |   |
-|  56791                                                                                                                                                                                                                                                                                                                                                                                                                           | saṅkhārapaccayā                |   |   |   |   |
-|  56787                                                                                                                                                                                                                                                                                                                                                                                                                           | saṅkhāranirodho                |   |   |   |   |
-| 67723                                                                                                                                                                                                                                                                                                                                                                                                                            | viññāṇanirodho                 |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                |   |   |   |   |
+| atha kho āyasmā kaccānagotto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā kaccānagotto bhagavantaṃ etadavoca — “‘sammādiṭṭhi sammādiṭṭhīti, bhante, vuccati. kittāvatā nu kho, bhante, sammādiṭṭhi hotī”ti? | | | | | |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --- | --- | --- | --- |
+| 19257 | kaccānagotto | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “dvayanissito khvāyaṃ, kaccāna, loko yebhuyyena — atthitañceva natthitañca. lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke natthitā sā na hoti. lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti. | | | | | |
+| 34309 | dvayanissito | | | | |
+| 23990 | khvāyaṃ | | | | |
+| 19255 | kaccāna | | | | |
+| 2748 | atthitaṃ | | | | |
+| 35546 | natthitaṃ | | | | |
+| 56012 | lokasamudayaṃ | | | | |
+| 35546 | natthitā | | | | |
+| 55990 | lokanirodhaṃ | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| upayupādānābhinivesavinibandho khvāyaṃ, kaccāna, loko yebhuyyena. tañcāyaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinivesānusayaṃ na upeti na upādiyati nādhiṭṭhāti — ‘attā meti. ‘dukkhameva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatīti na kaṅkhati na vicikicchati aparapaccayā ñāṇamevassa ettha hoti. ettāvatā kho, kaccāna, sammādiṭṭhi hoti. | | | | | |
+| 15956 | upayupādānābhinivesavinibandho | | | | |
+| 15938 | \#upaya | | | | |
+| 16316 | \#upādāna | | | | |
+| 7924 | \#abhinivesa | | | | |
+| 68190 | \#vinibandha | | | | |
+| 3207 | adhiṭṭhānaṃ | | | | |
+| 7928 | abhinivesānusayaṃ | | | | |
+| 16365 | upādiyati | | | | |
+| 16549 | uppajjamānaṃ | | | | |
+| 38065 | nirujjhamānaṃ | | | | |
+| 19217 | kaṅkhati | | | | |
+| 67452 | vicikicchati | | | | |
+| 6292 | aparapaccayā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| ‘sabbaṃ atthīti kho, kaccāna, ayameko anto. ‘sabbaṃ natthīti ayaṃ dutiyo anto. ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti — ‘avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṃ ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti. avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. | | | | | |
+| 4635 | anupagamma | | | | |
+| 10535 | avijjāpaccayā | | | | |
+| 56791 | saṅkhārapaccayā | | | | |
+| 56787 | saṅkhāranirodho | | | | |
+| 67723 | viññāṇanirodho | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN 12.20 Paccayasutta
 
@@ -520,87 +520,87 @@ iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā
 
 “katame ca, bhikkhave, paṭiccasamuppannā dhammā? jarāmaraṇaṃ, bhikkhave, aniccaṃ saṅkhataṃ paṭiccasamuppannaṃ khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammaṃ. jāti, bhikkhave, aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. bhavo, bhikkhave, anicco saṅkhato paṭiccasamuppanno khayadhammo vayadhammo virāgadhammo nirodhadhammo. upādānaṃ bhikkhave ... pe ... taṇhā, bhikkhave... vedanā, bhikkhave... phasso, bhikkhave... saḷāyatanaṃ, bhikkhave... nāmarūpaṃ, bhikkhave... viññāṇaṃ, bhikkhave... saṅkhārā, bhikkhave... avijjā, bhikkhave, aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. ime vuccanti, bhikkhave, paṭiccasamuppannā dhammā.
 
-| “paṭiccasamuppādañca vo, bhikkhave, desessāmi paṭiccasamuppanne ca dhamme. taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti. “evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca —                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                   |   |   |   |   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|---|---|---|---|
-|  40373                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | paṭiccasamuppādaṃ |   |   |   |   |
-|  40372                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | paṭiccasamuppanne |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-| “katamo ca, bhikkhave, paṭiccasamuppādo? jātipaccayā, bhikkhave, jarāmaraṇaṃ. uppādā vā tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā. taṃ tathāgato abhisambujjhati abhisameti. abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti. ‘passathāti cāha — ‘jātipaccayā, bhikkhave, jarāmaraṇaṃ”.                                                                                                                                                                                                                                                                                                                                     |                   |   |   |   |   |
-|  4936                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | anuppādā          |   |   |   |   |
-|  35037                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | dhātu             |   |   |   |   |
-|  34707                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | dhammaṭṭhitatā    |   |   |   |   |
-|  34768                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | dhammaniyāmatā    |   |   |   |   |
-|  13611                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | idappaccayatā     |   |   |   |   |
-|  40048                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | paññāpeti         |   |   |   |   |
-|  28248                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | jātipaccayā       |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-| “bhavapaccayā, bhikkhave, jāti ... pe ... upādānapaccayā, bhikkhave, bhavo... taṇhāpaccayā, bhikkhave, upādānaṃ... vedanāpaccayā, bhikkhave, taṇhā... phassapaccayā, bhikkhave, vedanā... saḷāyatanapaccayā, bhikkhave, phasso... nāmarūpapaccayā, bhikkhave, saḷāyatanaṃ... viññāṇapaccayā, bhikkhave, nāmarūpaṃ... saṅkhārapaccayā, bhikkhave, viññāṇaṃ... avijjāpaccayā, bhikkhave, saṅkhārā uppādā vā tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā. taṃ tathāgato abhisambujjhati abhisameti. abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti. ‘passathāti cāha ‘avijjāpaccayā, bhikkhave, saṅkhārā                        |                   |   |   |   |   |
-|  49561                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | bhavapaccayā      |   |   |   |   |
-|  16328                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | upādānapaccayā    |   |   |   |   |
-|  29378                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | taṇhāpaccayā      |   |   |   |   |
-|  70262                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | vedanāpaccayā     |   |   |   |   |
-|  61512                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | saḷāyatanapaccayā |   |   |   |   |
-|  36463                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | nāmarūpapaccayā   |   |   |   |   |
-|  67727                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | viññāṇapaccayā    |   |   |   |   |
-|  56791                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | saṅkhārapaccayā   |   |   |   |   |
-|  10535                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | avijjāpaccayā     |   |   |   |   |
-|  34707                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | dhammaṭṭhitatā    |   |   |   |   |
-|  34768                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | dhammaniyāmatā    |   |   |   |   |
-|  13611                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | idappaccayatā     |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-| iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā — ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                   |   |   |   |   |
-|  10586                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | avitathatā        |   |   |   |   |
-|  3502                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | anaññathatā       |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-| “katame ca, bhikkhave, paṭiccasamuppannā dhammā? jarāmaraṇaṃ, bhikkhave, aniccaṃ saṅkhataṃ paṭiccasamuppannaṃ khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammaṃ. jāti, bhikkhave, aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. bhavo, bhikkhave, anicco saṅkhato paṭiccasamuppanno khayadhammo vayadhammo virāgadhammo nirodhadhammo. upādānaṃ bhikkhave ... pe ... taṇhā, bhikkhave... vedanā, bhikkhave... phasso, bhikkhave... saḷāyatanaṃ, bhikkhave... nāmarūpaṃ, bhikkhave... viññāṇaṃ, bhikkhave... saṅkhārā, bhikkhave... avijjā, bhikkhave, aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. ime vuccanti, bhikkhave, paṭiccasamuppannā dhammā. |                   |   |   |   |   |
-|  56712                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | saṅkhatā          |   |   |   |   |
-|  23524                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | khayadhammaṃ      |   |   |   |   |
-|  66325                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | vayadhammaṃ       |   |   |   |   |
-|  68877                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | virāgadhammaṃ     |   |   |   |   |
-|  38101                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | nirodhadhammaṃ    |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                   |   |   |   |   |
+| “paṭiccasamuppādañca vo, bhikkhave, desessāmi paṭiccasamuppanne ca dhamme. taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti. “evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca — | | | | | |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | --- | --- | --- | --- |
+| 40373 | paṭiccasamuppādaṃ | | | | |
+| 40372 | paṭiccasamuppanne | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “katamo ca, bhikkhave, paṭiccasamuppādo? jātipaccayā, bhikkhave, jarāmaraṇaṃ. uppādā vā tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā. taṃ tathāgato abhisambujjhati abhisameti. abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti. ‘passathāti cāha — ‘jātipaccayā, bhikkhave, jarāmaraṇaṃ”. | | | | | |
+| 4936 | anuppādā | | | | |
+| 35037 | dhātu | | | | |
+| 34707 | dhammaṭṭhitatā | | | | |
+| 34768 | dhammaniyāmatā | | | | |
+| 13611 | idappaccayatā | | | | |
+| 40048 | paññāpeti | | | | |
+| 28248 | jātipaccayā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “bhavapaccayā, bhikkhave, jāti ... pe ... upādānapaccayā, bhikkhave, bhavo... taṇhāpaccayā, bhikkhave, upādānaṃ... vedanāpaccayā, bhikkhave, taṇhā... phassapaccayā, bhikkhave, vedanā... saḷāyatanapaccayā, bhikkhave, phasso... nāmarūpapaccayā, bhikkhave, saḷāyatanaṃ... viññāṇapaccayā, bhikkhave, nāmarūpaṃ... saṅkhārapaccayā, bhikkhave, viññāṇaṃ... avijjāpaccayā, bhikkhave, saṅkhārā uppādā vā tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā. taṃ tathāgato abhisambujjhati abhisameti. abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti. ‘passathāti cāha ‘avijjāpaccayā, bhikkhave, saṅkhārā | | | | | |
+| 49561 | bhavapaccayā | | | | |
+| 16328 | upādānapaccayā | | | | |
+| 29378 | taṇhāpaccayā | | | | |
+| 70262 | vedanāpaccayā | | | | |
+| 61512 | saḷāyatanapaccayā | | | | |
+| 36463 | nāmarūpapaccayā | | | | |
+| 67727 | viññāṇapaccayā | | | | |
+| 56791 | saṅkhārapaccayā | | | | |
+| 10535 | avijjāpaccayā | | | | |
+| 34707 | dhammaṭṭhitatā | | | | |
+| 34768 | dhammaniyāmatā | | | | |
+| 13611 | idappaccayatā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā — ayaṃ vuccati, bhikkhave, paṭiccasamuppādo. | | | | | |
+| 10586 | avitathatā | | | | |
+| 3502 | anaññathatā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| “katame ca, bhikkhave, paṭiccasamuppannā dhammā? jarāmaraṇaṃ, bhikkhave, aniccaṃ saṅkhataṃ paṭiccasamuppannaṃ khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammaṃ. jāti, bhikkhave, aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. bhavo, bhikkhave, anicco saṅkhato paṭiccasamuppanno khayadhammo vayadhammo virāgadhammo nirodhadhammo. upādānaṃ bhikkhave ... pe ... taṇhā, bhikkhave... vedanā, bhikkhave... phasso, bhikkhave... saḷāyatanaṃ, bhikkhave... nāmarūpaṃ, bhikkhave... viññāṇaṃ, bhikkhave... saṅkhārā, bhikkhave... avijjā, bhikkhave, aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. ime vuccanti, bhikkhave, paṭiccasamuppannā dhammā. | | | | | |
+| 56712 | saṅkhatā | | | | |
+| 23524 | khayadhammaṃ | | | | |
+| 66325 | vayadhammaṃ | | | | |
+| 68877 | virāgadhammaṃ | | | | |
+| 38101 | nirodhadhammaṃ | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 | ID | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
-|----|--------------|----|-------------|-------------------|----------------------|
+| ---- | -------------- | ---- | ------------- | ------------------- | ---------------------- |
 
 ## SN 12.22 dutiyadasabalasutta
 
@@ -616,90 +616,90 @@ tasmātiha, bhikkhave, vīriyaṃ ārabhatha appattassa pattiyā, anadhigatassa 
 
 attatthaṃ vā hi, bhikkhave, sampassamānena alameva appamādena sampādetuṃ; paratthaṃ vā hi, bhikkhave, sampassamānena alameva appamādena sampādetuṃ; ubhayatthaṃ vā hi, bhikkhave, sampassamānena alameva appamādena sampādetunti.
 
-| 32031  | dasabalasamannāgato                                      |   |   |   |   |
-|--------|----------------------------------------------------------|---|---|---|---|
-|  32027 | \#dasabalaṃ                                              |   |   |   |   |
-|        | \#\#dasa                                                 |   |   |   |   |
-| 47974  | \#\#balaṃ                                                |   |   |   |   |
-|        | \#samannāgato                                            |   |   |   |   |
-| 70480  | vesārajjehi                                              |   |   |   |   |
-| 12796  | āsabhaṃ                                                  |   |   |   |   |
-| 29032  | ṭhānaṃ                                                   |   |   |   |   |
-| 40441  | paṭijānāti                                               |   |   |   |   |
-| 44108  | parisāsu                                                 |   |   |   |   |
-| 35557  | nadati                                                   |   |   |   |   |
-| 48912  | brahmacakkaṃ                                             |   |   |   |   |
-|        | \#brahma                                                 |   |   |   |   |
-| 25671  | \#cakkaṃ                                                 |   |   |   |   |
-| 44867  | pavatteti                                                |   |   |   |   |
-| 13796  | imassuppādā                                              |   |   |   |   |
-| 65474  | svākkhāto                                                |   |   |   |   |
-| 69492  | vivaṭo                                                   |   |   |   |   |
-| 27687  | chinnapilotiko                                           |   |   |   |   |
-| 27668  | \#chinna                                                 |   |   |   |   |
-| 46265  | \#pilotiko                                               |   |   |   |   |
-|  58082 | saddhāpabbajitena                                        |   |   |   |   |
-| 12401  | ārabhituṃ                                                |   |   |   |   |
-| 21083  | kāmaṃ                                                    |   |   |   |   |
-| 29236  | taco                                                     |   |   |   |   |
-| 35994  | nahāru                                                   |   |   |   |   |
-|  1853  | aṭṭhi                                                    |   |   |   |   |
-| 10394  | avasissatu                                               |   |   |   |   |
-| 61086  | sarīre                                                   |   |   |   |   |
-| 16176  | upasussatu                                               |   |   |   |   |
-| 52116  | maṃsalohitaṃ                                             |   |   |   |   |
-| 52105  | \#maṃsa                                                  |   |   |   |   |
-| 56186  | \#lohitaṃ                                                |   |   |   |   |
-| 47054  | purisathāmena                                            |   |   |   |   |
-|        | \#purisa                                                 |   |   |   |   |
-| 31471  | \#thāmena                                                |   |   |   |   |
-| 47097  | purisavīriyena                                           |   |   |   |   |
-|  47065 | purisaparakkamena                                        |   |   |   |   |
-|        | \#purisa                                                 |   |   |   |   |
-| 42873  | \#parakkamena                                            |   |   |   |   |
-| 41898  | pattabbaṃ                                                |   |   |   |   |
-|  6607  | apāpuṇitvā                                               |   |   |   |   |
-| 57536  | saṇṭhānaṃ                                                |   |   |   |   |
-| 70571  | vokiṇṇo                                                  |   |   |   |   |
-| 57939  | sadatthaṃ                                                |   |   |   |   |
-| 43713  | paripūreti                                               |   |   |   |   |
-| 41920  | patti                                                    |   |   |   |   |
-| 50886  | maṇḍapeyya                                               |   |   |   |   |
-| 60892  | sammukhībhūto                                            |   |   |   |   |
-| 60885  | \#sammukhā                                               |   |   |   |   |
-|        | \#bhūta                                                  |   |   |   |   |
-|  6911  | appattassa                                               |   |   |   |   |
-| 3608   | anadhigatassa                                            |   |   |   |   |
-| 74544  | adhigamāya                                               |   |   |   |   |
-|  9352  | asacchikatassa                                           |   |   |   |   |
-| 57194  | sacchikiriyāya                                           |   |   |   |   |
-| 10228  | avañjhā                                                  |   |   |   |   |
-| 58766  | saphalā                                                  |   |   |   |   |
-| 56247  | saudrayā                                                 |   |   |   |   |
-| 26856  | cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṃ |   |   |   |   |
-|        | \#cīvara                                                 |   |   |   |   |
-|        | \#piṇḍapāta                                              |   |   |   |   |
-|        | \#senāsana                                               |   |   |   |   |
-| 24964  | \#gilānappaccayo                                         |   |   |   |   |
-| 24952  | \#\#gilāna                                               |   |   |   |   |
-|        | \#\#paccayo                                              |   |   |   |   |
-| 50322  | \#bhesajja                                               |   |   |   |   |
-| 43235  | \#parikkhāra                                             |   |   |   |   |
-| 21288  | kārā                                                     |   |   |   |   |
-| 51609  | mahapphalā                                               |   |   |   |   |
-| 51768  | mahānisaṃsa                                              |   |   |   |   |
-|        | \#maha                                                   |   |   |   |   |
-|  11774 | \#ānisaṃsa                                               |   |   |   |   |
-|  2468  | attatthaṃ                                                |   |   |   |   |
-| 60386  | sampassamānena                                           |   |   |   |   |
-|  9183  | alameva                                                  |   |   |   |   |
-|  6981  | appamādena                                               |   |   |   |   |
-| 60445  | sampādetuṃ                                               |   |   |   |   |
-| 16852  | ubhayatthaṃ                                              |   |   |   |   |
-|        |                                                          |   |   |   |   |
-|        |                                                          |   |   |   |   |
-|        |                                                          |   |   |   |   |
-|        |                                                          |   |   |   |   |
+| 32031 | dasabalasamannāgato | | | | |
+| -------- | ---------------------------------------------------------- | --- | --- | --- | --- |
+| 32027 | \#dasabalaṃ | | | | |
+| | \#\#dasa | | | | |
+| 47974 | \#\#balaṃ | | | | |
+| | \#samannāgato | | | | |
+| 70480 | vesārajjehi | | | | |
+| 12796 | āsabhaṃ | | | | |
+| 29032 | ṭhānaṃ | | | | |
+| 40441 | paṭijānāti | | | | |
+| 44108 | parisāsu | | | | |
+| 35557 | nadati | | | | |
+| 48912 | brahmacakkaṃ | | | | |
+| | \#brahma | | | | |
+| 25671 | \#cakkaṃ | | | | |
+| 44867 | pavatteti | | | | |
+| 13796 | imassuppādā | | | | |
+| 65474 | svākkhāto | | | | |
+| 69492 | vivaṭo | | | | |
+| 27687 | chinnapilotiko | | | | |
+| 27668 | \#chinna | | | | |
+| 46265 | \#pilotiko | | | | |
+| 58082 | saddhāpabbajitena | | | | |
+| 12401 | ārabhituṃ | | | | |
+| 21083 | kāmaṃ | | | | |
+| 29236 | taco | | | | |
+| 35994 | nahāru | | | | |
+| 1853 | aṭṭhi | | | | |
+| 10394 | avasissatu | | | | |
+| 61086 | sarīre | | | | |
+| 16176 | upasussatu | | | | |
+| 52116 | maṃsalohitaṃ | | | | |
+| 52105 | \#maṃsa | | | | |
+| 56186 | \#lohitaṃ | | | | |
+| 47054 | purisathāmena | | | | |
+| | \#purisa | | | | |
+| 31471 | \#thāmena | | | | |
+| 47097 | purisavīriyena | | | | |
+| 47065 | purisaparakkamena | | | | |
+| | \#purisa | | | | |
+| 42873 | \#parakkamena | | | | |
+| 41898 | pattabbaṃ | | | | |
+| 6607 | apāpuṇitvā | | | | |
+| 57536 | saṇṭhānaṃ | | | | |
+| 70571 | vokiṇṇo | | | | |
+| 57939 | sadatthaṃ | | | | |
+| 43713 | paripūreti | | | | |
+| 41920 | patti | | | | |
+| 50886 | maṇḍapeyya | | | | |
+| 60892 | sammukhībhūto | | | | |
+| 60885 | \#sammukhā | | | | |
+| | \#bhūta | | | | |
+| 6911 | appattassa | | | | |
+| 3608 | anadhigatassa | | | | |
+| 74544 | adhigamāya | | | | |
+| 9352 | asacchikatassa | | | | |
+| 57194 | sacchikiriyāya | | | | |
+| 10228 | avañjhā | | | | |
+| 58766 | saphalā | | | | |
+| 56247 | saudrayā | | | | |
+| 26856 | cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṃ | | | | |
+| | \#cīvara | | | | |
+| | \#piṇḍapāta | | | | |
+| | \#senāsana | | | | |
+| 24964 | \#gilānappaccayo | | | | |
+| 24952 | \#\#gilāna | | | | |
+| | \#\#paccayo | | | | |
+| 50322 | \#bhesajja | | | | |
+| 43235 | \#parikkhāra | | | | |
+| 21288 | kārā | | | | |
+| 51609 | mahapphalā | | | | |
+| 51768 | mahānisaṃsa | | | | |
+| | \#maha | | | | |
+| 11774 | \#ānisaṃsa | | | | |
+| 2468 | attatthaṃ | | | | |
+| 60386 | sampassamānena | | | | |
+| 9183 | alameva | | | | |
+| 6981 | appamādena | | | | |
+| 60445 | sampādetuṃ | | | | |
+| 16852 | ubhayatthaṃ | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN 12.41 Pañcaverabhayasutta
 
@@ -725,115 +725,115 @@ yadidaṃ avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṃ ... 
 
 yato kho, gahapati, ariyasāvakassa imāni pañca bhayāni verāni vūpasantāni honti, imehi catūhi sotāpattiyaṅgehi samannāgato hoti, ayañcassa ariyo ñāyo paññāya sudiṭṭho hoti suppaṭividdho, so ākaṅkhamāno attanāva attānaṃ byākareyya — khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto, sotāpannohamasmi avinipātadhammo niyato sambodhiparāyanoti.
 
-|  3946  | anāthapiṇḍiko                       |   |   |   |   |
-|--------|-------------------------------------|---|---|---|---|
-| 24654  | gahapati                            |   |   |   |   |
-| 70422  | verāni                              |   |   |   |   |
-| 65242  | sotāpattiyaṅgehi                    |   |   |   |   |
-| 65235  | \#sotāpatti                         |   |   |   |   |
-|        | \#\#sotā                            |   |   |   |   |
-| 11873  | \#\#āpatti                          |   |   |   |   |
-|  761   | \#aṅgehi                            |   |   |   |   |
-| 28957  | ñāyo                                |   |   |   |   |
-| 63882  | sudiṭṭho                            |   |   |   |   |
-| 64145  | suppaṭividdho                       |   |   |   |   |
-| 10991  | ākaṅkhamāno                         |   |   |   |   |
-| 48791  | byākareyya                          |   |   |   |   |
-| 23751  | khīṇanirayo                         |   |   |   |   |
-|        | \#khīṇa                             |   |   |   |   |
-| 37999  | \#nirayo                            |   |   |   |   |
-| 23748  | khīṇatiracchānayoni                 |   |   |   |   |
-|        | \#khīṇa                             |   |   |   |   |
-| 30755  | \#tiracchānayoni                    |   |   |   |   |
-|        | \#\#tiracchāna                      |   |   |   |   |
-| 54308  | \#\#yoni                            |   |   |   |   |
-| 23753  | khīṇapettivisayo                    |   |   |   |   |
-|        | \#khīṇa                             |   |   |   |   |
-| 47295  | \#pettivisayo                       |   |   |   |   |
-| 47288  | \#\#petti                           |   |   |   |   |
-|        | \#\#visayo                          |   |   |   |   |
-|  23762 | khīṇāpāyaduggativinipāto            |   |   |   |   |
-|        | \#khīṇa                             |   |   |   |   |
-|  6623  | \#apāyaduggativinipāto              |   |   |   |   |
-|  6613  | \#\#apāya                           |   |   |   |   |
-| 33035  | \#\#duggati                         |   |   |   |   |
-|        | \#\#vinipāta                        |   |   |   |   |
-| 65246  | sotāpanno                           |   |   |   |   |
-| 10608  | avinipātadhammo                     |   |   |   |   |
-| 37876  | niyato                              |   |   |   |   |
-|  60611 | sambodhiparāyano                    |   |   |   |   |
-|        | \#sambodhiṃ                         |   |   |   |   |
-| 43137  | \#parāyano                          |   |   |   |   |
-| 45378  | pāṇātipātī                          |   |   |   |   |
-|        | \#pāṇaṃ                             |   |   |   |   |
-|  2202  | \#atipātī                           |   |   |   |   |
-| 32450  | diṭṭhadhammika                      |   |   |   |   |
-| 44618  | pasavati                            |   |   |   |   |
-| 60329  | samparāyikaṃ                        |   |   |   |   |
-|  27058 | cetasikaṃ                           |   |   |   |   |
-| 40893  | paṭisaṃvedayati                     |   |   |   |   |
-| 41052  | paṭiviratassa                       |   |   |   |   |
-|  2901  | adinnādāyī                          |   |   |   |   |
-|  2889  | \#adinnaṃ                           |   |   |   |   |
-|  11528 | \#ādāyī                             |   |   |   |   |
-|  21127 | kāmesumicchācārī                    |   |   |   |   |
-|        | \#kāmesu                            |   |   |   |   |
-| 52586  | \#micchācārī                        |   |   |   |   |
-| 52577  | \#\#micchā                          |   |   |   |   |
-|        | \#\#cārī                            |   |   |   |   |
-| 53061  | musāvādī                            |   |   |   |   |
-| 53049  | \#musā                              |   |   |   |   |
-| 66809  | \#vādī                              |   |   |   |   |
-|  64376 | surāmerayamajjapamādaṭṭhāyī         |   |   |   |   |
-| 64349  | \#surā                              |   |   |   |   |
-| 53287  | \#meraya                            |   |   |   |   |
-| 50689  | \#majja                             |   |   |   |   |
-| 42686  | \#pamāda                            |   |   |   |   |
-| 29086  | \#ṭhāyī                             |   |   |   |   |
-|  64374 | surāmerayamajjapamādaṭṭhānapaccayā  |   |   |   |   |
-| 42688  | \#pamādaṭṭhāna                      |   |   |   |   |
-|        | \#\#pamādassa                       |   |   |   |   |
-|        | \#\#ṭhāna                           |   |   |   |   |
-| 10777  | aveccappasādena                     |   |   |   |   |
-| 10771  | \#avecca                            |   |   |   |   |
-| 44647  | \#pasāda                            |   |   |   |   |
-| 14407  | ujuppaṭipanno                       |   |   |   |   |
-|        | \#uju                               |   |   |   |   |
-| 40558  | \#paṭipanno                         |   |   |   |   |
-| 28961  | ñāyappaṭipanno                      |   |   |   |   |
-| 28957  | \#ñāya                              |   |   |   |   |
-|        | \#paṭipanno                         |   |   |   |   |
-| 62384  | sāmīcippaṭipanno                    |   |   |   |   |
-| 62378  | \#sāmīci                            |   |   |   |   |
-|        | \#paṭipanno                         |   |   |   |   |
-| 47073  | purisayugāni                        |   |   |   |   |
-|        | \#purisānaṃ                         |   |   |   |   |
-| 54070  | \#yugāni                            |   |   |   |   |
-| 47067  | purisapuggalā                       |   |   |   |   |
-| 13280  | āhuneyyo                            |   |   |   |   |
-| 45959  | pāhuneyyo                           |   |   |   |   |
-| 31723  | dakkhiṇeyyo                         |   |   |   |   |
-|  1482  | añjalikaraṇīyo                      |   |   |   |   |
-| 46531  | puññakkhettaṃ                       |   |   |   |   |
-|        | \#puññassa                          |   |   |   |   |
-| 23880  | \#khettaṃ                           |   |   |   |   |
-|  8982  | ariyakantehi                        |   |   |   |   |
-|  441   | akhaṇḍehi                           |   |   |   |   |
-|  1077  | acchiddehi                          |   |   |   |   |
-|  9490  | asabalehi                           |   |   |   |   |
-|  109   | akammāsehi                          |   |   |   |   |
-| 50077  | bhujissehi                          |   |   |   |   |
-| 67799  | viññuppasatthehi                    |   |   |   |   |
-|        | \#viññūhi                           |   |   |   |   |
-| 44587  | \#pasattha                          |   |   |   |   |
-|  6331  | aparāmaṭṭhehi                       |   |   |   |   |
-|  59672 | samādhisaṃvattanikehi               |   |   |   |   |
-|        | \#samādhino                         |   |   |   |   |
-|        | \#saṃvattanika                      |   |   |   |   |
-|  51115 | manasi karoti                       |   |   |   |   |
-|        |                                     |   |   |   |   |
-|        |                                     |   |   |   |   |
-|        |                                     |   |   |   |   |
+| 3946 | anāthapiṇḍiko | | | | |
+| -------- | ------------------------------------- | --- | --- | --- | --- |
+| 24654 | gahapati | | | | |
+| 70422 | verāni | | | | |
+| 65242 | sotāpattiyaṅgehi | | | | |
+| 65235 | \#sotāpatti | | | | |
+| | \#\#sotā | | | | |
+| 11873 | \#\#āpatti | | | | |
+| 761 | \#aṅgehi | | | | |
+| 28957 | ñāyo | | | | |
+| 63882 | sudiṭṭho | | | | |
+| 64145 | suppaṭividdho | | | | |
+| 10991 | ākaṅkhamāno | | | | |
+| 48791 | byākareyya | | | | |
+| 23751 | khīṇanirayo | | | | |
+| | \#khīṇa | | | | |
+| 37999 | \#nirayo | | | | |
+| 23748 | khīṇatiracchānayoni | | | | |
+| | \#khīṇa | | | | |
+| 30755 | \#tiracchānayoni | | | | |
+| | \#\#tiracchāna | | | | |
+| 54308 | \#\#yoni | | | | |
+| 23753 | khīṇapettivisayo | | | | |
+| | \#khīṇa | | | | |
+| 47295 | \#pettivisayo | | | | |
+| 47288 | \#\#petti | | | | |
+| | \#\#visayo | | | | |
+| 23762 | khīṇāpāyaduggativinipāto | | | | |
+| | \#khīṇa | | | | |
+| 6623 | \#apāyaduggativinipāto | | | | |
+| 6613 | \#\#apāya | | | | |
+| 33035 | \#\#duggati | | | | |
+| | \#\#vinipāta | | | | |
+| 65246 | sotāpanno | | | | |
+| 10608 | avinipātadhammo | | | | |
+| 37876 | niyato | | | | |
+| 60611 | sambodhiparāyano | | | | |
+| | \#sambodhiṃ | | | | |
+| 43137 | \#parāyano | | | | |
+| 45378 | pāṇātipātī | | | | |
+| | \#pāṇaṃ | | | | |
+| 2202 | \#atipātī | | | | |
+| 32450 | diṭṭhadhammika | | | | |
+| 44618 | pasavati | | | | |
+| 60329 | samparāyikaṃ | | | | |
+| 27058 | cetasikaṃ | | | | |
+| 40893 | paṭisaṃvedayati | | | | |
+| 41052 | paṭiviratassa | | | | |
+| 2901 | adinnādāyī | | | | |
+| 2889 | \#adinnaṃ | | | | |
+| 11528 | \#ādāyī | | | | |
+| 21127 | kāmesumicchācārī | | | | |
+| | \#kāmesu | | | | |
+| 52586 | \#micchācārī | | | | |
+| 52577 | \#\#micchā | | | | |
+| | \#\#cārī | | | | |
+| 53061 | musāvādī | | | | |
+| 53049 | \#musā | | | | |
+| 66809 | \#vādī | | | | |
+| 64376 | surāmerayamajjapamādaṭṭhāyī | | | | |
+| 64349 | \#surā | | | | |
+| 53287 | \#meraya | | | | |
+| 50689 | \#majja | | | | |
+| 42686 | \#pamāda | | | | |
+| 29086 | \#ṭhāyī | | | | |
+| 64374 | surāmerayamajjapamādaṭṭhānapaccayā | | | | |
+| 42688 | \#pamādaṭṭhāna | | | | |
+| | \#\#pamādassa | | | | |
+| | \#\#ṭhāna | | | | |
+| 10777 | aveccappasādena | | | | |
+| 10771 | \#avecca | | | | |
+| 44647 | \#pasāda | | | | |
+| 14407 | ujuppaṭipanno | | | | |
+| | \#uju | | | | |
+| 40558 | \#paṭipanno | | | | |
+| 28961 | ñāyappaṭipanno | | | | |
+| 28957 | \#ñāya | | | | |
+| | \#paṭipanno | | | | |
+| 62384 | sāmīcippaṭipanno | | | | |
+| 62378 | \#sāmīci | | | | |
+| | \#paṭipanno | | | | |
+| 47073 | purisayugāni | | | | |
+| | \#purisānaṃ | | | | |
+| 54070 | \#yugāni | | | | |
+| 47067 | purisapuggalā | | | | |
+| 13280 | āhuneyyo | | | | |
+| 45959 | pāhuneyyo | | | | |
+| 31723 | dakkhiṇeyyo | | | | |
+| 1482 | añjalikaraṇīyo | | | | |
+| 46531 | puññakkhettaṃ | | | | |
+| | \#puññassa | | | | |
+| 23880 | \#khettaṃ | | | | |
+| 8982 | ariyakantehi | | | | |
+| 441 | akhaṇḍehi | | | | |
+| 1077 | acchiddehi | | | | |
+| 9490 | asabalehi | | | | |
+| 109 | akammāsehi | | | | |
+| 50077 | bhujissehi | | | | |
+| 67799 | viññuppasatthehi | | | | |
+| | \#viññūhi | | | | |
+| 44587 | \#pasattha | | | | |
+| 6331 | aparāmaṭṭhehi | | | | |
+| 59672 | samādhisaṃvattanikehi | | | | |
+| | \#samādhino | | | | |
+| | \#saṃvattanika | | | | |
+| 51115 | manasi karoti | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN 12.51 Parivīmaṃsanasutta
 
@@ -869,97 +869,97 @@ sabbaso vā pana viññāṇe asati, viññāṇanirodhā api nu kho nāmarūpa�
 
 sādhu sādhu, bhikkhave, evametaṃ, bhikkhave, netaṃ aññathā. saddahatha me taṃ, bhikkhave, adhimuccatha, nikkaṅkhā ettha hotha nibbicikicchā. esevanto dukkhassāti.
 
-|  44302  | parivīmaṃsamāno                 |   |   |   |   |
-|---------|---------------------------------|---|---|---|---|
-|  44300  | parivīmaṃsati                   |   |   |   |   |
-|  5531   | anekavidhaṃ                     |   |   |   |   |
-|         | \#aneka                         |   |   |   |   |
-|  68017  | \#vidha                         |   |   |   |   |
-|  36245  | nānappakārakaṃ                  |   |   |   |   |
-|         | \#nānā                          |   |   |   |   |
-|  39003  | \#pakāra                        |   |   |   |   |
-|         |                                 |   |   |   |   |
-|  28214  | jātikaṃ                         |   |   |   |   |
-|  42579  | pabhavaṃ                        |   |   |   |   |
-|  28045  | jarāmaraṇanirodhasāruppagāminī  |   |   |   |   |
-|         | \#jarāmaraṇanirodha             |   |   |   |   |
-|  62546  | \#sāruppa                       |   |   |   |   |
-|         | \#gāmī                          |   |   |   |   |
-|  40558  | paṭipanno                       |   |   |   |   |
-|  4581   | anudhammacārī                   |   |   |   |   |
-|  4579   | \#anudhamma                     |   |   |   |   |
-|         | \#cārī                          |   |   |   |   |
-|  58980  | sabbaso                         |   |   |   |   |
-|  2812   | athāparaṃ                       |   |   |   |   |
-|  42304  | panāyaṃ                         |   |   |   |   |
-|  10527  | avijjānidānā                    |   |   |   |   |
-|         | \#avijjāya                      |   |   |   |   |
-|  37193  | \#nidānā                        |   |   |   |   |
-|  56802  | saṅkhārasamudayaṃ               |   |   |   |   |
-|  56790  | saṅkhāranirodhasāruppagāminī    |   |   |   |   |
-|         | \#saṅkhāranirodha               |   |   |   |   |
-|  62546  | \#sāruppa                       |   |   |   |   |
-|         | \#gāmī                          |   |   |   |   |
-|  10524  | avijjāgato                      |   |   |   |   |
-|  46564  | puññūpagaṃ                      |   |   |   |   |
-|         | \#puñña                         |   |   |   |   |
-|  15391  | \#upagaṃ                        |   |   |   |   |
-|  6697   | apuññaṃ                         |   |   |   |   |
-|  6703   | apuññūpagaṃ                     |   |   |   |   |
-|  11806  | āneñjaṃ                         |   |   |   |   |
-|  11819  | āneñjūpagaṃ                     |   |   |   |   |
-|  10561  | avijjāvirāgā                    |   |   |   |   |
-| 67655   | vijjuppādā                      |   |   |   |   |
-| 46558   | puññābhisaṅkhāraṃ               |   |   |   |   |
-|  6702   | apuññābhisaṅkhāraṃ              |   |   |   |   |
-|  6697   | \#apuñña                        |   |   |   |   |
-|         | \#abhisaṅkhāra                  |   |   |   |   |
-|  11818  | āneñjābhisaṅkhāraṃ              |   |   |   |   |
-|  3782   | anabhisaṅkharonto               |   |   |   |   |
-|  3783   | anabhisañcetayanto              |   |   |   |   |
-|  4817   | anupādiyaṃ                      |   |   |   |   |
-|  43463  | paritassati                     |   |   |   |   |
-|  6358   | aparitassaṃ                     |   |   |   |   |
-|  39317  | paccattaññeva                   |   |   |   |   |
-|  3497   | anajjhosita                     |   |   |   |   |
-|  3758   | anabhinandita                   |   |   |   |   |
-|  69208  | visaṃyutto                      |   |   |   |   |
-| 21185   | kāyapariyantikaṃ                |   |   |   |   |
-|         | \#kāya                          |   |   |   |   |
-|  43937  | \#pariyantikaṃ                  |   |   |   |   |
-|  70305  | vedayamāno                      |   |   |   |   |
-|  28605  | jīvitapariyantikaṃ              |   |   |   |   |
-|  28594  | \#jīvita                        |   |   |   |   |
-|         | \#pariyantikaṃ                  |   |   |   |   |
-|  50270  | bhedā                           |   |   |   |   |
-|  15236  | uddhaṃ                          |   |   |   |   |
-|  28606  | jīvitapariyādānā                |   |   |   |   |
-|         | \#jīvitassa                     |   |   |   |   |
-|  43942  | \#pariyādāna                    |   |   |   |   |
-|  58996  | sabbavedayitāni                 |   |   |   |   |
-|  3758   | anabhinanditāni                 |   |   |   |   |
-|  63119  | sītībhavissanti                 |   |   |   |   |
-|  63093  | \#sīta                          |   |   |   |   |
-|  61086  | sarīrāni                        |   |   |   |   |
-|  10394  | avasissanti                     |   |   |   |   |
-|  22443  | kumbhakārapākā                  |   |   |   |   |
-|  22436  | \#kumbhakāra                    |   |   |   |   |
-|         | \#pākā                          |   |   |   |   |
-|  14581  | uṇhaṃ                           |   |   |   |   |
-|  15223  | uddharitvā                      |   |   |   |   |
-|         | same                            |   |   |   |   |
-|  50227  | bhūmibhāge                      |   |   |   |   |
-|         | \#bhūmiyā                       |   |   |   |   |
-|  49642  | \#bhāge                         |   |   |   |   |
-|  40927  | paṭisisseyya                    |   |   |   |   |
-|  17119  | usmā                            |   |   |   |   |
-|  70140  | vūpasameyya                     |   |   |   |   |
-|  20013  | kapallāni                       |   |   |   |   |
-|  10394  | avasisseyyuṃ                    |   |   |   |   |
-|  58015  | saddahatha                      |   |   |   |   |
-|  36710  | nikkaṅkhā                       |   |   |   |   |
-|  37642  | nibbicikicchā                   |   |   |   |   |
-|  18047  | esevanto                        |   |   |   |   |
+| 44302 | parivīmaṃsamāno | | | | |
+| --------- | --------------------------------- | --- | --- | --- | --- |
+| 44300 | parivīmaṃsati | | | | |
+| 5531 | anekavidhaṃ | | | | |
+| | \#aneka | | | | |
+| 68017 | \#vidha | | | | |
+| 36245 | nānappakārakaṃ | | | | |
+| | \#nānā | | | | |
+| 39003 | \#pakāra | | | | |
+|  |  |  |  |  |  |
+| 28214 | jātikaṃ | | | | |
+| 42579 | pabhavaṃ | | | | |
+| 28045 | jarāmaraṇanirodhasāruppagāminī | | | | |
+| | \#jarāmaraṇanirodha | | | | |
+| 62546 | \#sāruppa | | | | |
+| | \#gāmī | | | | |
+| 40558 | paṭipanno | | | | |
+| 4581 | anudhammacārī | | | | |
+| 4579 | \#anudhamma | | | | |
+| | \#cārī | | | | |
+| 58980 | sabbaso | | | | |
+| 2812 | athāparaṃ | | | | |
+| 42304 | panāyaṃ | | | | |
+| 10527 | avijjānidānā | | | | |
+| | \#avijjāya | | | | |
+| 37193 | \#nidānā | | | | |
+| 56802 | saṅkhārasamudayaṃ | | | | |
+| 56790 | saṅkhāranirodhasāruppagāminī | | | | |
+| | \#saṅkhāranirodha | | | | |
+| 62546 | \#sāruppa | | | | |
+| | \#gāmī | | | | |
+| 10524 | avijjāgato | | | | |
+| 46564 | puññūpagaṃ | | | | |
+| | \#puñña | | | | |
+| 15391 | \#upagaṃ | | | | |
+| 6697 | apuññaṃ | | | | |
+| 6703 | apuññūpagaṃ | | | | |
+| 11806 | āneñjaṃ | | | | |
+| 11819 | āneñjūpagaṃ | | | | |
+| 10561 | avijjāvirāgā | | | | |
+| 67655 | vijjuppādā | | | | |
+| 46558 | puññābhisaṅkhāraṃ | | | | |
+| 6702 | apuññābhisaṅkhāraṃ | | | | |
+| 6697 | \#apuñña | | | | |
+| | \#abhisaṅkhāra | | | | |
+| 11818 | āneñjābhisaṅkhāraṃ | | | | |
+| 3782 | anabhisaṅkharonto | | | | |
+| 3783 | anabhisañcetayanto | | | | |
+| 4817 | anupādiyaṃ | | | | |
+| 43463 | paritassati | | | | |
+| 6358 | aparitassaṃ | | | | |
+| 39317 | paccattaññeva | | | | |
+| 3497 | anajjhosita | | | | |
+| 3758 | anabhinandita | | | | |
+| 69208 | visaṃyutto | | | | |
+| 21185 | kāyapariyantikaṃ | | | | |
+| | \#kāya | | | | |
+| 43937 | \#pariyantikaṃ | | | | |
+| 70305 | vedayamāno | | | | |
+| 28605 | jīvitapariyantikaṃ | | | | |
+| 28594 | \#jīvita | | | | |
+| | \#pariyantikaṃ | | | | |
+| 50270 | bhedā | | | | |
+| 15236 | uddhaṃ | | | | |
+| 28606 | jīvitapariyādānā | | | | |
+| | \#jīvitassa | | | | |
+| 43942 | \#pariyādāna | | | | |
+| 58996 | sabbavedayitāni | | | | |
+| 3758 | anabhinanditāni | | | | |
+| 63119 | sītībhavissanti | | | | |
+| 63093 | \#sīta | | | | |
+| 61086 | sarīrāni | | | | |
+| 10394 | avasissanti | | | | |
+| 22443 | kumbhakārapākā | | | | |
+| 22436 | \#kumbhakāra | | | | |
+| | \#pākā | | | | |
+| 14581 | uṇhaṃ | | | | |
+| 15223 | uddharitvā | | | | |
+|  | same |  |  |  |  |
+| 50227 | bhūmibhāge | | | | |
+| | \#bhūmiyā | | | | |
+| 49642 | \#bhāge | | | | |
+| 40927 | paṭisisseyya | | | | |
+| 17119 | usmā | | | | |
+| 70140 | vūpasameyya | | | | |
+| 20013 | kapallāni | | | | |
+| 10394 | avasisseyyuṃ | | | | |
+| 58015 | saddahatha | | | | |
+| 36710 | nikkaṅkhā | | | | |
+| 37642 | nibbicikicchā | | | | |
+| 18047 | esevanto | | | | |
 
 ## SN 12.55 Mahārukkhasutta
 
@@ -977,60 +977,60 @@ masiṃ karitvā mahāvāte vā ophuṇeyya nadiyā vā sīghasotāya pavāheyya
 
 evameva kho, bhikkhave, upādāniyesu dhammesu ādīnavānupassino viharato taṇhā nirujjhati. taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hotīti.
 
-|  16342 | upādāniyesu      |   |   |   |   |
-|--------|------------------|---|---|---|---|
-|  10053 | assādānupassino  |   |   |   |   |
-|        | \#assāda         |   |   |   |   |
-|  4774  | \#anupassino     |   |   |   |   |
-|  44810 | pavaḍḍhati       |   |   |   |   |
-|  51912 | mahārukkho       |   |   |   |   |
-|        | \#mahanta        |   |   |   |   |
-|        | \#rukkho         |   |   |   |   |
-|  3419  | adhogamāni       |   |   |   |   |
-|  3415  | \#adho           |   |   |   |   |
-|        | \#gamāni         |   |   |   |   |
-|  30767 | tiriyaṅgamāni    |   |   |   |   |
-|  30771 | \#tiriyaṃ        |   |   |   |   |
-|        | \#gamāni         |   |   |   |   |
-|  15235 | uddhaṃ           |   |   |   |   |
-|  18459 | ojaṃ             |   |   |   |   |
-|  8371  | abhiharanti      |   |   |   |   |
-|        | dīghamaddhānaṃ   |   |   |   |   |
-|  30486 | tiṭṭheyya        |   |   |   |   |
-|  22329 | kuddālapiṭakaṃ   |   |   |   |   |
-|  22326 | \#kuddāla (ca)   |   |   |   |   |
-|  45999 | \#piṭaka (ca)    |   |   |   |   |
-|  27662 | chinditvā        |   |   |   |   |
-|  44491 | palikhaṇeyya     |   |   |   |   |
-|  44495 | palikhaṇitvā     |   |   |   |   |
-|  15209 | uddhareyya       |   |   |   |   |
-|  5672  | antamaso         |   |   |   |   |
-|  17095 | usīranāḷimattāni |   |   |   |   |
-|  17094 | \#usīranāḷi      |   |   |   |   |
-|  17091 | \#\#usīra        |   |   |   |   |
-|  36625 | \#\#nāḷi         |   |   |   |   |
-|  50938 | \#matta          |   |   |   |   |
-|  23360 | khaṇḍākhaṇḍikaṃ  |   |   |   |   |
-|  23340 | \#khaṇḍa         |   |   |   |   |
-|        |                  |   |   |   |   |
-|  66757 | vātātape         |   |   |   |   |
-|        | \#vāta (ca)      |   |   |   |   |
-|  11454 | \#ātapa (ca)     |   |   |   |   |
-|  69375 | visoseyya        |   |   |   |   |
-|  69376 | visosetvā        |   |   |   |   |
-|  18751 | ophuṇeyya        |   |   |   |   |
-|  14370 | ucchinnamūlo     |   |   |   |   |
-|  30349 | tālāvatthukato   |   |   |   |   |
-|  30323 | \#tāla           |   |   |   |   |
-|  10273 | \#avatthu        |   |   |   |   |
-|        | \#kata           |   |   |   |   |
-|  4937  | anuppādadhammo   |   |   |   |   |
-|        |                  |   |   |   |   |
-|        |                  |   |   |   |   |
-|        |                  |   |   |   |   |
-|        |                  |   |   |   |   |
+| 16342 | upādāniyesu | | | | |
+| -------- | ------------------ | --- | --- | --- | --- |
+| 10053 | assādānupassino | | | | |
+| | \#assāda | | | | |
+| 4774 | \#anupassino | | | | |
+| 44810 | pavaḍḍhati | | | | |
+| 51912 | mahārukkho | | | | |
+| | \#mahanta | | | | |
+| | \#rukkho | | | | |
+| 3419 | adhogamāni | | | | |
+| 3415 | \#adho | | | | |
+| | \#gamāni | | | | |
+| 30767 | tiriyaṅgamāni | | | | |
+| 30771 | \#tiriyaṃ | | | | |
+| | \#gamāni | | | | |
+| 15235 | uddhaṃ | | | | |
+| 18459 | ojaṃ | | | | |
+| 8371 | abhiharanti | | | | |
+| | dīghamaddhānaṃ | | | | |
+| 30486 | tiṭṭheyya | | | | |
+| 22329 | kuddālapiṭakaṃ | | | | |
+| 22326 | \#kuddāla (ca) | | | | |
+| 45999 | \#piṭaka (ca) | | | | |
+| 27662 | chinditvā | | | | |
+| 44491 | palikhaṇeyya | | | | |
+| 44495 | palikhaṇitvā | | | | |
+| 15209 | uddhareyya | | | | |
+| 5672 | antamaso | | | | |
+| 17095 | usīranāḷimattāni | | | | |
+| 17094 | \#usīranāḷi | | | | |
+| 17091 | \#\#usīra | | | | |
+| 36625 | \#\#nāḷi | | | | |
+| 50938 | \#matta | | | | |
+| 23360 | khaṇḍākhaṇḍikaṃ | | | | |
+| 23340 | \#khaṇḍa | | | | |
+|  |  |  |  |  |  |
+| 66757 | vātātape | | | | |
+| | \#vāta (ca) | | | | |
+| 11454 | \#ātapa (ca) | | | | |
+| 69375 | visoseyya | | | | |
+| 69376 | visosetvā | | | | |
+| 18751 | ophuṇeyya | | | | |
+| 14370 | ucchinnamūlo | | | | |
+| 30349 | tālāvatthukato | | | | |
+| 30323 | \#tāla | | | | |
+| 10273 | \#avatthu | | | | |
+| | \#kata | | | | |
+| 4937 | anuppādadhammo | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
-## 
+
 
 ## SN 12.61 Assutavāsutta
 
@@ -1046,53 +1046,53 @@ tatra, bhikkhave, sutavā ariyasāvako paṭiccasamuppādaṃyeva sādhukaṃ yo
 
 evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati; nibbindaṃ virajjati, virāgā vimuccati, vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti pajānātīti.
 
-|  26408 | cātumahābhūtikasmiṃ |   |   |   |   |   |
-|--------|---------------------|---|---|---|---|---|
-|  50152 | \#bhūta             |   |   |   |   |   |
-|  11274 | ācayo               |   |   |   |   |   |
-|  6059  | apacayo             |   |   |   |   |   |
-|  11511 | ādānaṃ              |   |   |   |   |   |
-|  36825 | nikkhepanaṃ         |   |   |   |   |   |
-|  13479 | itipi               |   |   |   |   |   |
-|  36536 | nālaṃ               |   |   |   |   |   |
-|  37686 | nibbindituṃ         |   |   |   |   |   |
-|  68826 | virajjituṃ          |   |   |   |   |   |
-|  68702 | vimuccituṃ          |   |   |   |   |   |
-|  32757 | dīgharattaṃ         |   |   |   |   |   |
-|        | \#dīgha             |   |   |   |   |   |
-|  54537 | \#rattaṃ            |   |   |   |   |   |
-|  1437  | ajjhositaṃ          |   |   |   |   |   |
-|  51412 | mamāyitaṃ           |   |   |   |   |   |
-|  43111 | parāmaṭṭhaṃ         |   |   |   |   |   |
-|  15397 | upagaccheyya        |   |   |   |   |   |
-|  30500 | tiṭṭhamāno          |   |   |   |   |   |
-|  66530 | vassāni             |   |   |   |   |   |
-|  69937 | vīsati              |   |   |   |   |   |
-|  30908 | tiṃsaṃ              |   |   |   |   |   |
-|  26127 | cattārīsaṃ          |   |   |   |   |   |
-|  40096 | paññāsaṃ            |   |   |   |   |   |
-|  44881 | pavane              |   |   |   |   |   |
-|  24162 | gaṇhati             |   |   |   |   |   |
-|  32680 | divasassa           |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
-|        |                     |   |   |   |   |   |
+| 26408 | cātumahābhūtikasmiṃ | | | | | |
+| -------- | --------------------- | --- | --- | --- | --- | --- |
+| 50152 | \#bhūta | | | | | |
+| 11274 | ācayo | | | | | |
+| 6059 | apacayo | | | | | |
+| 11511 | ādānaṃ | | | | | |
+| 36825 | nikkhepanaṃ | | | | | |
+| 13479 | itipi | | | | | |
+| 36536 | nālaṃ | | | | | |
+| 37686 | nibbindituṃ | | | | | |
+| 68826 | virajjituṃ | | | | | |
+| 68702 | vimuccituṃ | | | | | |
+| 32757 | dīgharattaṃ | | | | | |
+| | \#dīgha | | | | | |
+| 54537 | \#rattaṃ | | | | | |
+| 1437 | ajjhositaṃ | | | | | |
+| 51412 | mamāyitaṃ | | | | | |
+| 43111 | parāmaṭṭhaṃ | | | | | |
+| 15397 | upagaccheyya | | | | | |
+| 30500 | tiṭṭhamāno | | | | | |
+| 66530 | vassāni | | | | | |
+| 69937 | vīsati | | | | | |
+| 30908 | tiṃsaṃ | | | | | |
+| 26127 | cattārīsaṃ | | | | | |
+| 40096 | paññāsaṃ | | | | | |
+| 44881 | pavane | | | | | |
+| 24162 | gaṇhati | | | | | |
+| 32680 | divasassa | | | | | |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 
-## 
+
 
 ## SN 12.65 Nagarasutta
 
@@ -1112,55 +1112,55 @@ tamanugacchiṃ; tamanugacchanto jarāmaraṇaṃ abbhaññāsiṃ; jarāmaraṇ
 
 tadabhiññā ācikkhiṃ bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ. tayidaṃ, bhikkhave, brahmacariyaṃ iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitanti.
 
-|  3152  | adhigato                 |   |   |   |   |
-|--------|--------------------------|---|---|---|---|
-|  46982 | purāṇañjasaṃ             |   |   |   |   |
-|        | \#purāṇa                 |   |   |   |   |
-|  1486  | \#añjasa                 |   |   |   |   |
-|  46825 | pubbakehi                |   |   |   |   |
-|  5076  | anuyātaṃ                 |   |   |   |   |
-|  4376  | anugaccheyya             |   |   |   |   |
-|  4377  | anugacchanto             |   |   |   |   |
-|  35405 | nagaraṃ                  |   |   |   |   |
-|  1370  | ajjhāvuṭṭhaṃ             |   |   |   |   |
-|  12482 | ārāmasampannaṃ           |   |   |   |   |
-|  66215 | vanasampannaṃ            |   |   |   |   |
-|  47392 | pokkharaṇīsampannaṃ      |   |   |   |   |
-|  15255 | uddhāpavantaṃ            |   |   |   |   |
-|  54664 | ramaṇīyaṃ                |   |   |   |   |
-|        | rājamahāmattassa         |   |   |   |   |
-|        | \#rāja                   |   |   |   |   |
-|  51872 | \#mahāmattassa           |   |   |   |   |
-|  12551 | āroceyya                 |   |   |   |   |
-|  53471 | yagghe                   |   |   |   |   |
-|  2973  | addasaṃ                  |   |   |   |   |
-|  52342 | māpehi                   |   |   |   |   |
-|  13639 | iddhaṃ                   |   |   |   |   |
-|  47745 | phītaṃ                   |   |   |   |   |
-|  48382 | bāhujaññaṃ               |   |   |   |   |
-|  11100 | ākiṇṇamanussaṃ           |   |   |   |   |
-|  11098 | \#ākiṇṇa                 |   |   |   |   |
-|        | \#manussaṃ               |   |   |   |   |
-|  70102 | vuddhivepullappattaṃ     |   |   |   |   |
-|  70093 | \#vuddhi                 |   |   |   |   |
-|  70376 | \#vepulla                |   |   |   |   |
-|  41851 | \#pattaṃ                 |   |   |   |   |
-|  4378  | anugacchiṃ               |   |   |   |   |
-|  28044 | jarāmaraṇanirodhagāminiṃ |   |   |   |   |
-|  4378  | anugacchiṃ               |   |   |   |   |
-|  7681  | abhiññā                  |   |   |   |   |
-|  11337 | ācikkhiṃ                 |   |   |   |   |
-|  49901 | bhikkhunīnaṃ             |   |   |   |   |
-|  16430 | upāsikānaṃ               |   |   |   |   |
-|  64127 | suppakāsitaṃ             |   |   |   |   |
-|        |                          |   |   |   |   |
-|        |                          |   |   |   |   |
-|        |                          |   |   |   |   |
-|        |                          |   |   |   |   |
-|        |                          |   |   |   |   |
-|        |                          |   |   |   |   |
-|        |                          |   |   |   |   |
-|        |                          |   |   |   |   |
+| 3152 | adhigato | | | | |
+| -------- | -------------------------- | --- | --- | --- | --- |
+| 46982 | purāṇañjasaṃ | | | | |
+| | \#purāṇa | | | | |
+| 1486 | \#añjasa | | | | |
+| 46825 | pubbakehi | | | | |
+| 5076 | anuyātaṃ | | | | |
+| 4376 | anugaccheyya | | | | |
+| 4377 | anugacchanto | | | | |
+| 35405 | nagaraṃ | | | | |
+| 1370 | ajjhāvuṭṭhaṃ | | | | |
+| 12482 | ārāmasampannaṃ | | | | |
+| 66215 | vanasampannaṃ | | | | |
+| 47392 | pokkharaṇīsampannaṃ | | | | |
+| 15255 | uddhāpavantaṃ | | | | |
+| 54664 | ramaṇīyaṃ | | | | |
+| | rājamahāmattassa | | | | |
+| | \#rāja | | | | |
+| 51872 | \#mahāmattassa | | | | |
+| 12551 | āroceyya | | | | |
+| 53471 | yagghe | | | | |
+| 2973 | addasaṃ | | | | |
+| 52342 | māpehi | | | | |
+| 13639 | iddhaṃ | | | | |
+| 47745 | phītaṃ | | | | |
+| 48382 | bāhujaññaṃ | | | | |
+| 11100 | ākiṇṇamanussaṃ | | | | |
+| 11098 | \#ākiṇṇa | | | | |
+| | \#manussaṃ | | | | |
+| 70102 | vuddhivepullappattaṃ | | | | |
+| 70093 | \#vuddhi | | | | |
+| 70376 | \#vepulla | | | | |
+| 41851 | \#pattaṃ | | | | |
+| 4378 | anugacchiṃ | | | | |
+| 28044 | jarāmaraṇanirodhagāminiṃ | | | | |
+| 4378 | anugacchiṃ | | | | |
+| 7681 | abhiññā | | | | |
+| 11337 | ācikkhiṃ | | | | |
+| 49901 | bhikkhunīnaṃ | | | | |
+| 16430 | upāsikānaṃ | | | | |
+| 64127 | suppakāsitaṃ | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN 12.66 Sammasasutta
 
@@ -1214,91 +1214,91 @@ atha kho, bhikkhave, tassa purisassa evamassa — sakkā kho me ayaṃ surāpip�
 
 evameva kho, bhikkhave, ye hi keci atītamaddhānaṃ samaṇā vā brāhmaṇā vā … anāgatamaddhānaṃ … etarahi samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato passanti dukkhato passanti anattato passanti rogato passanti bhayato passanti, te taṇhaṃ pajahanti. ye taṇhaṃ pajahanti te upadhiṃ pajahanti. ye upadhiṃ pajahanti te dukkhaṃ pajahanti. ye dukkhaṃ pajahanti te parimuccanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, parimuccanti dukkhasmāti vadāmīti.
 
-| 22524  | kurūsu                         |   |   |   |   |
-|--------|--------------------------------|---|---|---|---|
-|  20396 | kammāsadhammaṃ                 |   |   |   |   |
-| 60772  | sammasatha                     |   |   |   |   |
-| 60771  | sammasaṃ                       |   |   |   |   |
-|  5675  | antaraṃ                        |   |   |   |   |
-| 48801  | byākāsi                        |   |   |   |   |
-| 12458  | ārādhesi                       |   |   |   |   |
-|        |                                |   |   |   |   |
-|  5531  | anekavidhaṃ                    |   |   |   |   |
-|        | \#aneka                        |   |   |   |   |
-| 68017  | \#vidha                        |   |   |   |   |
-| 36245  | nānappakārakaṃ                 |   |   |   |   |
-| 15688  | upadhinidānaṃ                  |   |   |   |   |
-| 15683  | \#upadhino                     |   |   |   |   |
-| 37193  | \#nidānaṃ                      |   |   |   |   |
-| 15699  | upadhisamudayaṃ                |   |   |   |   |
-| 15686  | upadhijātikaṃ                  |   |   |   |   |
-| 28214  | \#jātika                       |   |   |   |   |
-| 15695  | upadhipabhavaṃ                 |   |   |   |   |
-| 42578  | \#pabhavaṃ                     |   |   |   |   |
-| 28048  | jarāmaraṇasamudayaṃ            |   |   |   |   |
-| 28045  | jarāmaraṇanirodhasāruppagāminī |   |   |   |   |
-| 62546  | \#sāruppa                      |   |   |   |   |
-|  4581  | anudhammacārī                  |   |   |   |   |
-|  4579  | \#anudhamma                    |   |   |   |   |
-| 29372  | taṇhānidāno                    |   |   |   |   |
-| 29400  | taṇhāsamudayo                  |   |   |   |   |
-| 29361  | taṇhājātiko                    |   |   |   |   |
-| 29380  | taṇhāpabhavo                   |   |   |   |   |
-| 15699  | upadhisamudayaṃ                |   |   |   |   |
-| 15690  | upadhinirodhaṃ                 |   |   |   |   |
-|  15691 | upadhinirodhasāruppagāminī     |   |   |   |   |
-|  2812  | athāparaṃ                      |   |   |   |   |
-| 42304  | panāyaṃ                        |   |   |   |   |
-| 38456  | nivisamānā                     |   |   |   |   |
-| 62148  | sātarūpaṃ                      |   |   |   |   |
-| 62135  | \#sāta                         |   |   |   |   |
-| 12528  | ārogyato                       |   |   |   |   |
-| 23935  | khemato                        |   |   |   |   |
-| 65832  | vaḍḍhissanti                   |   |   |   |   |
-| 65863  | vaḍḍhenti                      |   |   |   |   |
-| 11941  | āpānīyakaṃso                   |   |   |   |   |
-| 11940  | \#āpānīya                      |   |   |   |   |
-| 20867  | \#kaṃsa                        |   |   |   |   |
-| 65937  | vaṇṇasampanno                  |   |   |   |   |
-| 65895  | \#vaṇṇena                      |   |   |   |   |
-|        | \#sampanno                     |   |   |   |   |
-| 24349  | gandhasampanno                 |   |   |   |   |
-| 54723  | rasasampanno                   |   |   |   |   |
-| 69097  | visena                         |   |   |   |   |
-| 61734  | saṃsaṭṭho                      |   |   |   |   |
-| 25528  | ghammābhitatto                 |   |   |   |   |
-| 25522  | \#ghammena                     |   |   |   |   |
-|  7716  | \#abhitatto                    |   |   |   |   |
-| 25527  | ghammapareto                   |   |   |   |   |
-| 44404  | \#pareto                       |   |   |   |   |
-| 30143  | tasito                         |   |   |   |   |
-| 46156  | pipāsito                       |   |   |   |   |
-| 46294  | piva                           |   |   |   |   |
-| 27591  | chādessati                     |   |   |   |   |
-| 46303  | pivitvā                        |   |   |   |   |
-| 36842  | nigacchasi                     |   |   |   |   |
-| 51464  | maraṇamattaṃ                   |   |   |   |   |
-| 50938  | \#mattaṃ                       |   |   |   |   |
-| 61424  | sahasā                         |   |   |   |   |
-|  6844  | appaṭisaṅkhā                   |   |   |   |   |
-| 35718  | nappaṭinissajjeyya             |   |   |   |   |
-| 39689  | pajahiṃsu                      |   |   |   |   |
-| 55355  | rogato                         |   |   |   |   |
-| 49443  | bhayato                        |   |   |   |   |
-| 64367  | surāpipāsitā                   |   |   |   |   |
-| 64349  | \#surā                         |   |   |   |   |
-| 46156  | \#pipāsitā                     |   |   |   |   |
-| 45560  | pānīyena                       |   |   |   |   |
-| 68252  | vinetuṃ                        |   |   |   |   |
-| 31861  | dadhimaṇḍakena                 |   |   |   |   |
-| 49225  | bhaṭṭhaloṇikāya                |   |   |   |   |
-| 49222  | \#bhaṭṭha                      |   |   |   |   |
-| 56092  | \#loṇikāya                     |   |   |   |   |
-| 56091  | loṇasovīrakena                 |   |   |   |   |
-| 56077  | \#loṇa                         |   |   |   |   |
-| 65430  | \#sovīrakena                   |   |   |   |   |
-| 32757  | dīgharattaṃ                    |   |   |   |   |
-| 71233  | hitāya                         |   |   |   |   |
-| 63559  | sukhāyā                        |   |   |   |   |
-|        |                                |   |   |   |   |
-|        |                                |   |   |   |   |
+| 22524 | kurūsu | | | | |
+| -------- | -------------------------------- | --- | --- | --- | --- |
+| 20396 | kammāsadhammaṃ | | | | |
+| 60772 | sammasatha | | | | |
+| 60771 | sammasaṃ | | | | |
+| 5675 | antaraṃ | | | | |
+| 48801 | byākāsi | | | | |
+| 12458 | ārādhesi | | | | |
+|  |  |  |  |  |  |
+| 5531 | anekavidhaṃ | | | | |
+| | \#aneka | | | | |
+| 68017 | \#vidha | | | | |
+| 36245 | nānappakārakaṃ | | | | |
+| 15688 | upadhinidānaṃ | | | | |
+| 15683 | \#upadhino | | | | |
+| 37193 | \#nidānaṃ | | | | |
+| 15699 | upadhisamudayaṃ | | | | |
+| 15686 | upadhijātikaṃ | | | | |
+| 28214 | \#jātika | | | | |
+| 15695 | upadhipabhavaṃ | | | | |
+| 42578 | \#pabhavaṃ | | | | |
+| 28048 | jarāmaraṇasamudayaṃ | | | | |
+| 28045 | jarāmaraṇanirodhasāruppagāminī | | | | |
+| 62546 | \#sāruppa | | | | |
+| 4581 | anudhammacārī | | | | |
+| 4579 | \#anudhamma | | | | |
+| 29372 | taṇhānidāno | | | | |
+| 29400 | taṇhāsamudayo | | | | |
+| 29361 | taṇhājātiko | | | | |
+| 29380 | taṇhāpabhavo | | | | |
+| 15699 | upadhisamudayaṃ | | | | |
+| 15690 | upadhinirodhaṃ | | | | |
+| 15691 | upadhinirodhasāruppagāminī | | | | |
+| 2812 | athāparaṃ | | | | |
+| 42304 | panāyaṃ | | | | |
+| 38456 | nivisamānā | | | | |
+| 62148 | sātarūpaṃ | | | | |
+| 62135 | \#sāta | | | | |
+| 12528 | ārogyato | | | | |
+| 23935 | khemato | | | | |
+| 65832 | vaḍḍhissanti | | | | |
+| 65863 | vaḍḍhenti | | | | |
+| 11941 | āpānīyakaṃso | | | | |
+| 11940 | \#āpānīya | | | | |
+| 20867 | \#kaṃsa | | | | |
+| 65937 | vaṇṇasampanno | | | | |
+| 65895 | \#vaṇṇena | | | | |
+| | \#sampanno | | | | |
+| 24349 | gandhasampanno | | | | |
+| 54723 | rasasampanno | | | | |
+| 69097 | visena | | | | |
+| 61734 | saṃsaṭṭho | | | | |
+| 25528 | ghammābhitatto | | | | |
+| 25522 | \#ghammena | | | | |
+| 7716 | \#abhitatto | | | | |
+| 25527 | ghammapareto | | | | |
+| 44404 | \#pareto | | | | |
+| 30143 | tasito | | | | |
+| 46156 | pipāsito | | | | |
+| 46294 | piva | | | | |
+| 27591 | chādessati | | | | |
+| 46303 | pivitvā | | | | |
+| 36842 | nigacchasi | | | | |
+| 51464 | maraṇamattaṃ | | | | |
+| 50938 | \#mattaṃ | | | | |
+| 61424 | sahasā | | | | |
+| 6844 | appaṭisaṅkhā | | | | |
+| 35718 | nappaṭinissajjeyya | | | | |
+| 39689 | pajahiṃsu | | | | |
+| 55355 | rogato | | | | |
+| 49443 | bhayato | | | | |
+| 64367 | surāpipāsitā | | | | |
+| 64349 | \#surā | | | | |
+| 46156 | \#pipāsitā | | | | |
+| 45560 | pānīyena | | | | |
+| 68252 | vinetuṃ | | | | |
+| 31861 | dadhimaṇḍakena | | | | |
+| 49225 | bhaṭṭhaloṇikāya | | | | |
+| 49222 | \#bhaṭṭha | | | | |
+| 56092 | \#loṇikāya | | | | |
+| 56091 | loṇasovīrakena | | | | |
+| 56077 | \#loṇa | | | | |
+| 65430 | \#sovīrakena | | | | |
+| 32757 | dīgharattaṃ | | | | |
+| 71233 | hitāya | | | | |
+| 63559 | sukhāyā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |

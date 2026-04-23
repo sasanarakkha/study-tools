@@ -5,9 +5,6 @@ set -e
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$PROJECT_ROOT"
 
-# Set PYTHONPATH to include project root for tools.printer
-export PYTHONPATH="$PROJECT_ROOT:$PYTHONPATH"
-
 # Localize assets
 uv run python scripts/localize_assets.py
 

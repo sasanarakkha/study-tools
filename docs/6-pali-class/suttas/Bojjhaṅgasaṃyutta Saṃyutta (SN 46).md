@@ -19,7 +19,7 @@ Please make line by line translation. Breaking all sandhi and comp (naming type 
 example:
 
 | ID | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
-|----|--------------|----|-------------|-------------------|----------------------|
+| ---- | -------------- | ---- | ------------- | ------------------- | ---------------------- |
 
 ## SN46.1 himavantasutta
 
@@ -31,50 +31,50 @@ kathañca, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya satta bojj
 
 evaṃ kho, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto mahantattaṃ vepullattaṃ pāpuṇāti dhammesūti.
 
-| 38325          | nissāya                   |   |   |   |   |
-|----------------|---------------------------|---|---|---|---|
-| 36030<br>36031 | nāgā                      |   |   |   |   |
-| 47973          | balaṃ                     |   |   |   |   |
-| 24874          | gāhenti                   |   |   |   |   |
-| 65869          | vaḍḍhetvā                 |   |   |   |   |
-| 24875          | gāhetvā                   |   |   |   |   |
-| 22706          | kusobbhe                  |   |   |   |   |
-| 18514          | otaritvā                  |   |   |   |   |
-| 51992          | mahāsobbhe                |   |   |   |   |
-| 65326          | \#sobbhe                  |   |   |   |   |
-| 22350          | kunnadiyo                 |   |   |   |   |
-| 51744          | mahānadiyo                |   |   |   |   |
-|  51946         | mahāsamuddasāgaraṃ        |   |   |   |   |
-|                | \#mahāsamudda             |   |   |   |   |
-| 62084          | \#sāgaraṃ                 |   |   |   |   |
-| 51604          | mahantattaṃ               |   |   |   |   |
-| 70379          | vepullattaṃ               |   |   |   |   |
-| 41781          | patiṭṭhāya                |   |   |   |   |
-| 48639          | bojjhaṅge                 |   |   |   |   |
-| 48196          | bahulīkaronto             |   |   |   |   |
-|                | \#bahula                  |   |   |   |   |
-| 20564          | \#karonta                 |   |   |   |   |
-| 45664          | pāpuṇāti                  |   |   |   |   |
-| 57650          | satisambojjhaṅgaṃ         |   |   |   |   |
-| 69618          | vivekanissitaṃ            |   |   |   |   |
-| 68879          | virāganissitaṃ            |   |   |   |   |
-| 38108          | nirodhanissitaṃ           |   |   |   |   |
-| 70644          | vossaggapariṇāmiṃ         |   |   |   |   |
-| 70643          | \#vossaggaṃ               |   |   |   |   |
-| 43444          | \#pariṇāmiṃ               |   |   |   |   |
-|  34911         | dhammavicayasambojjhaṅgaṃ |   |   |   |   |
-| 34910          | \#dhammavicaya            |   |   |   |   |
-|                | \#\#dhammassa             |   |   |   |   |
-| 67414          | \#\#vicaya                |   |   |   |   |
-| 60600          | \#sambojjhaṅgaṃ           |   |   |   |   |
-| 69924          | vīriyasambojjhaṅgaṃ       |   |   |   |   |
-| 46405          | pītisambojjhaṅgaṃ         |   |   |   |   |
-| 44750          | passaddhisambojjhaṅgaṃ    |   |   |   |   |
-| 44749          | \#passaddhi               |   |   |   |   |
-| 59670          | samādhisambojjhaṅgaṃ      |   |   |   |   |
-|  16462         | upekkhāsambojjhaṅgaṃ      |   |   |   |   |
-|                |                           |   |   |   |   |
-|                |                           |   |   |   |   |
+| 38325 | nissāya | | | | |
+| ---------------- | --------------------------- | --- | --- | --- | --- |
+| 36030<br>36031 | nāgā | | | | |
+| 47973 | balaṃ | | | | |
+| 24874 | gāhenti | | | | |
+| 65869 | vaḍḍhetvā | | | | |
+| 24875 | gāhetvā | | | | |
+| 22706 | kusobbhe | | | | |
+| 18514 | otaritvā | | | | |
+| 51992 | mahāsobbhe | | | | |
+| 65326 | \#sobbhe | | | | |
+| 22350 | kunnadiyo | | | | |
+| 51744 | mahānadiyo | | | | |
+| 51946 | mahāsamuddasāgaraṃ | | | | |
+| | \#mahāsamudda | | | | |
+| 62084 | \#sāgaraṃ | | | | |
+| 51604 | mahantattaṃ | | | | |
+| 70379 | vepullattaṃ | | | | |
+| 41781 | patiṭṭhāya | | | | |
+| 48639 | bojjhaṅge | | | | |
+| 48196 | bahulīkaronto | | | | |
+| | \#bahula | | | | |
+| 20564 | \#karonta | | | | |
+| 45664 | pāpuṇāti | | | | |
+| 57650 | satisambojjhaṅgaṃ | | | | |
+| 69618 | vivekanissitaṃ | | | | |
+| 68879 | virāganissitaṃ | | | | |
+| 38108 | nirodhanissitaṃ | | | | |
+| 70644 | vossaggapariṇāmiṃ | | | | |
+| 70643 | \#vossaggaṃ | | | | |
+| 43444 | \#pariṇāmiṃ | | | | |
+| 34911 | dhammavicayasambojjhaṅgaṃ | | | | |
+| 34910 | \#dhammavicaya | | | | |
+| | \#\#dhammassa | | | | |
+| 67414 | \#\#vicaya | | | | |
+| 60600 | \#sambojjhaṅgaṃ | | | | |
+| 69924 | vīriyasambojjhaṅgaṃ | | | | |
+| 46405 | pītisambojjhaṅgaṃ | | | | |
+| 44750 | passaddhisambojjhaṅgaṃ | | | | |
+| 44749 | \#passaddhi | | | | |
+| 59670 | samādhisambojjhaṅgaṃ | | | | |
+| 16462 | upekkhāsambojjhaṅgaṃ | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN46.2 kāyasutta
 
@@ -110,63 +110,63 @@ seyyathāpi, bhikkhave, ayaṃ kāyo āhāraṭṭhitiko, āhāraṃ paṭicca t
 
 seyyathāpi, bhikkhave, ayaṃ kāyo āhāraṭṭhitiko, āhāraṃ paṭicca tiṭṭhati, anāhāro no tiṭṭhati; evameva kho, bhikkhave, ime satta bojjhaṅgā āhāraṭṭhitikā, āhāraṃ paṭicca tiṭṭhanti, anāhārā no tiṭṭhantīti.
 
-| 13231  | āhāraṭṭhitiko                |   |   |   |   |
-|--------|------------------------------|---|---|---|---|
-|        | \#āhārena                    |   |   |   |   |
-|  29117 | \#ṭhitiko                    |   |   |   |   |
-|  4099  | anāhāro                      |   |   |   |   |
-| 13231  | āhāraṭṭhitikā                |   |   |   |   |
-| 20982  | kāmacchandassa               |   |   |   |   |
-|  50011 | bhiyyobhāvāya                |   |   |   |   |
-| 64233  | subhanimittaṃ                |   |   |   |   |
-| 64207  | \#subha                      |   |   |   |   |
-| 37759  | \#nimittaṃ                   |   |   |   |   |
-|  8801  | ayonisomanasikārabahulīkāro  |   |   |   |   |
-|  8800  | \#ayonisomanasikāra          |   |   |   |   |
-|  8798  | \#\#ayoniso                  |   |   |   |   |
-|        | \#\#manasikāra               |   |   |   |   |
-| 48200  | \#bahulīkāro                 |   |   |   |   |
-|  8743  | ayamāhāro                    |   |   |   |   |
-|  8881  | arati                        |   |   |   |   |
-| 29898  | tandi                        |   |   |   |   |
-| 67551  | vijambhitā                   |   |   |   |   |
-| 49304  | bhattasammado                |   |   |   |   |
-| 49285  | \#bhatta                     |   |   |   |   |
-|        | \#sammado                    |   |   |   |   |
-| 55867  | līnattaṃ                     |   |   |   |   |
-| 10758  | avūpasamo                    |   |   |   |   |
-| 67458  | vicikicchāṭṭhānīyā           |   |   |   |   |
-|        | \#vicikicchāya               |   |   |   |   |
-| 29076  | \#ṭhānīyā                    |   |   |   |   |
-| 13231  | āhāraṭṭhitiko                |   |   |   |   |
-| 45799  | pāripūriyā                   |   |   |   |   |
-|  54322 | yonisomanasikārabahulīkāro   |   |   |   |   |
-| 54321  | \#yonisomanasikāra           |   |   |   |   |
-| 22663  | kusalākusalā                 |   |   |   |   |
-|        | \#kusala (ca)                |   |   |   |   |
-|  243   | \#akusala (ca)               |   |   |   |   |
-| 62652  | sāvajjānavajjā               |   |   |   |   |
-| 62643  | \#sāvajja (ca)               |   |   |   |   |
-|  3849  | \#anavajja (ca)              |   |   |   |   |
-| 71336  | hīnapaṇītā                   |   |   |   |   |
-|  19583 | kaṇhasukkasappaṭibhāgā       |   |   |   |   |
-| 19581  | \#kaṇhasukka                 |   |   |   |   |
-| 19560  | \#\#kaṇha (ca)               |   |   |   |   |
-| 63407  | \#\#sukka (ca)               |   |   |   |   |
-| 12414  | ārambhadhātu                 |   |   |   |   |
-| 12407  | \#ārambha                    |   |   |   |   |
-|        | \#dhātu                      |   |   |   |   |
-| 36731  | nikkamadhātu                 |   |   |   |   |
-| 36728  | \#nikkamassa                 |   |   |   |   |
-| 42877  | parakkamadhātu               |   |   |   |   |
-|  21191 | kāyapassaddhi                |   |   |   |   |
-| 44749  | \#passaddhi                  |   |   |   |   |
-| 26600  | cittapassaddhi               |   |   |   |   |
-|  46406 | pītisambojjhaṅgaṭṭhānīyā     |   |   |   |   |
-|  57652 | satisambojjhaṅgaṭṭhānīyā     |   |   |   |   |
-|  16464 | upekkhāsambojjhaṅgaṭṭhānīyā  |   |   |   |   |
-|        |                              |   |   |   |   |
-|        |                              |   |   |   |   |
+| 13231 | āhāraṭṭhitiko | | | | |
+| -------- | ------------------------------ | --- | --- | --- | --- |
+| | \#āhārena | | | | |
+| 29117 | \#ṭhitiko | | | | |
+| 4099 | anāhāro | | | | |
+| 13231 | āhāraṭṭhitikā | | | | |
+| 20982 | kāmacchandassa | | | | |
+| 50011 | bhiyyobhāvāya | | | | |
+| 64233 | subhanimittaṃ | | | | |
+| 64207 | \#subha | | | | |
+| 37759 | \#nimittaṃ | | | | |
+| 8801 | ayonisomanasikārabahulīkāro | | | | |
+| 8800 | \#ayonisomanasikāra | | | | |
+| 8798 | \#\#ayoniso | | | | |
+| | \#\#manasikāra | | | | |
+| 48200 | \#bahulīkāro | | | | |
+| 8743 | ayamāhāro | | | | |
+| 8881 | arati | | | | |
+| 29898 | tandi | | | | |
+| 67551 | vijambhitā | | | | |
+| 49304 | bhattasammado | | | | |
+| 49285 | \#bhatta | | | | |
+| | \#sammado | | | | |
+| 55867 | līnattaṃ | | | | |
+| 10758 | avūpasamo | | | | |
+| 67458 | vicikicchāṭṭhānīyā | | | | |
+| | \#vicikicchāya | | | | |
+| 29076 | \#ṭhānīyā | | | | |
+| 13231 | āhāraṭṭhitiko | | | | |
+| 45799 | pāripūriyā | | | | |
+| 54322 | yonisomanasikārabahulīkāro | | | | |
+| 54321 | \#yonisomanasikāra | | | | |
+| 22663 | kusalākusalā | | | | |
+| | \#kusala (ca) | | | | |
+| 243 | \#akusala (ca) | | | | |
+| 62652 | sāvajjānavajjā | | | | |
+| 62643 | \#sāvajja (ca) | | | | |
+| 3849 | \#anavajja (ca) | | | | |
+| 71336 | hīnapaṇītā | | | | |
+| 19583 | kaṇhasukkasappaṭibhāgā | | | | |
+| 19581 | \#kaṇhasukka | | | | |
+| 19560 | \#\#kaṇha (ca) | | | | |
+| 63407 | \#\#sukka (ca) | | | | |
+| 12414 | ārambhadhātu | | | | |
+| 12407 | \#ārambha | | | | |
+| | \#dhātu | | | | |
+| 36731 | nikkamadhātu | | | | |
+| 36728 | \#nikkamassa | | | | |
+| 42877 | parakkamadhātu | | | | |
+| 21191 | kāyapassaddhi | | | | |
+| 44749 | \#passaddhi | | | | |
+| 26600 | cittapassaddhi | | | | |
+| 46406 | pītisambojjhaṅgaṭṭhānīyā | | | | |
+| 57652 | satisambojjhaṅgaṭṭhānīyā | | | | |
+| 16464 | upekkhāsambojjhaṅgaṭṭhānīyā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN46.3 sīlasutta
 
@@ -188,39 +188,39 @@ taṃ kissa hetu? tathārūpānaṃ, bhikkhave, bhikkhūnaṃ dhammaṃ sutvā d
 
 7 so tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti. yasmiṃ samaye, bhikkhave, bhikkhu tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti, upekkhāsambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti; upekkhāsambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti; upekkhāsambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanāpāripūriṃ gacchati.
 
-|  63211 | sīlasampannā               |   |   |   |   |
-|--------|----------------------------|---|---|---|---|
-|  59668 | samādhisampannā            |   |   |   |   |
-|  28880 | ñāṇasampannā               |   |   |   |   |
-|  68744 | vimuttisampannā            |   |   |   |   |
-|  68732 | vimuttiñāṇadassanasampannā |   |   |   |   |
-|  61313 | savanaṃ                    |   |   |   |   |
-|  16088 | upasaṅkamanaṃ              |   |   |   |   |
-|  42804 | payirupāsanaṃ              |   |   |   |   |
-|  5315  | anussatiṃ                  |   |   |   |   |
-|  4698  | anupabbajjaṃ               |   |   |   |   |
-|  34300 | dvayena                    |   |   |   |   |
-|  70126 | vūpakāsena                 |   |   |   |   |
-|  21255 | kāyavūpakāsena             |   |   |   |   |
-|  5326  | anussarati                 |   |   |   |   |
-|  5443  | anuvitakketi               |   |   |   |   |
-|  49804 | bhāvanāpāripūriṃ           |   |   |   |   |
-|  45799 | \#pāripūriṃ                |   |   |   |   |
-|  44955 | pavicinato                 |   |   |   |   |
-|  44953 | pavicarato                 |   |   |   |   |
-|  44304 | parivīmaṃsamāpajjato       |   |   |   |   |
-|  44305 | \#parivīmaṃsaṃ             |   |   |   |   |
-|  11846 | \#āpajjato                 |   |   |   |   |
-|  9611  | asallīnaṃ                  |   |   |   |   |
-|  38039 | nirāmisā                   |   |   |   |   |
-|  46402 | pītimanassa                |   |   |   |   |
-|  44759 | passambhati                |   |   |   |   |
-|  44744 | passaddhakāyassa           |   |   |   |   |
-|  1389  | ajjhupekkhitā              |   |   |   |   |
-|        |                            |   |   |   |   |
-|        |                            |   |   |   |   |
-|        |                            |   |   |   |   |
-|        |                            |   |   |   |   |
+| 63211 | sīlasampannā | | | | |
+| -------- | ---------------------------- | --- | --- | --- | --- |
+| 59668 | samādhisampannā | | | | |
+| 28880 | ñāṇasampannā | | | | |
+| 68744 | vimuttisampannā | | | | |
+| 68732 | vimuttiñāṇadassanasampannā | | | | |
+| 61313 | savanaṃ | | | | |
+| 16088 | upasaṅkamanaṃ | | | | |
+| 42804 | payirupāsanaṃ | | | | |
+| 5315 | anussatiṃ | | | | |
+| 4698 | anupabbajjaṃ | | | | |
+| 34300 | dvayena | | | | |
+| 70126 | vūpakāsena | | | | |
+| 21255 | kāyavūpakāsena | | | | |
+| 5326 | anussarati | | | | |
+| 5443 | anuvitakketi | | | | |
+| 49804 | bhāvanāpāripūriṃ | | | | |
+| 45799 | \#pāripūriṃ | | | | |
+| 44955 | pavicinato | | | | |
+| 44953 | pavicarato | | | | |
+| 44304 | parivīmaṃsamāpajjato | | | | |
+| 44305 | \#parivīmaṃsaṃ | | | | |
+| 11846 | \#āpajjato | | | | |
+| 9611 | asallīnaṃ | | | | |
+| 38039 | nirāmisā | | | | |
+| 46402 | pītimanassa | | | | |
+| 44759 | passambhati | | | | |
+| 44744 | passaddhakāyassa | | | | |
+| 1389 | ajjhupekkhitā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN46.5 bhikkhusutta
 
@@ -230,22 +230,22 @@ bodhāya saṃvattantīti kho, bhikkhu, tasmā ‘bojjhaṅgā’ti vuccanti. id
 
 tassime satta bojjhaṅge bhāvayato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati. vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti. bodhāya saṃvattantīti, bhikkhu, tasmā ‘bojjhaṅgā’ti vuccantīti.
 
-|  69618 | vivekanissitaṃ    |   |   |   |   |
-|--------|-------------------|---|---|---|---|
-|  68879 | virāganissitaṃ    |   |   |   |   |
-|  38108 | nirodhanissitaṃ   |   |   |   |   |
-|  70644 | vossaggapariṇāmiṃ |   |   |   |   |
-|  70643 | \#vossagga        |   |   |   |   |
-|  43444 | \#pariṇāmiṃ       |   |   |   |   |
-|  49822 | bhāvayato         |   |   |   |   |
-|  21094 | kāmāsavā          |   |   |   |   |
-|  49613 | bhavāsavā         |   |   |   |   |
-|  10551 | avijjāsavā        |   |   |   |   |
-|        |                   |   |   |   |   |
-|        |                   |   |   |   |   |
-|        |                   |   |   |   |   |
-|        |                   |   |   |   |   |
-|        |                   |   |   |   |   |
+| 69618 | vivekanissitaṃ | | | | |
+| -------- | ------------------- | --- | --- | --- | --- |
+| 68879 | virāganissitaṃ | | | | |
+| 38108 | nirodhanissitaṃ | | | | |
+| 70644 | vossaggapariṇāmiṃ | | | | |
+| 70643 | \#vossagga | | | | |
+| 43444 | \#pariṇāmiṃ | | | | |
+| 49822 | bhāvayato | | | | |
+| 21094 | kāmāsavā | | | | |
+| 49613 | bhavāsavā | | | | |
+| 10551 | avijjāsavā | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN46.6 kuṇḍaliyasutta
 
@@ -289,64 +289,64 @@ kathaṃ bhāvitā ca, kuṇḍaliya, satta bojjhaṅgā kathaṃ bahulīkatā v
 
 esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatanti.
 
-|  62055 | sākete                   |   |   |   |   |
-|--------|--------------------------|---|---|---|---|
-|  1470  | añjanavane               |   |   |   |   |
-|  1465  | \#añjana                 |   |   |   |   |
-|  22282 | kuṇḍaliyo                |   |   |   |   |
-|  43744 | paribbājako              |   |   |   |   |
-| 12475  | ārāmanissayī             |   |   |   |   |
-|        | \#ārāma                  |   |   |   |   |
-| 38308  | \#nissayī                |   |   |   |   |
-|  44118 | parisāvacaro             |   |   |   |   |
-|        | \#parisāyaṃ              |   |   |   |   |
-|  10189 | \#avacaro                |   |   |   |   |
-|  50106 | bhuttapātarāsassa        |   |   |   |   |
-|  50103 | \#bhutta                 |   |   |   |   |
-|  45414 | \#pātarāsassa            |   |   |   |   |
-|  16947 | uyyānena                 |   |   |   |   |
-|  4426  | anucaṅkamāmi             |   |   |   |   |
-|  5412  | anuvicarāmi              |   |   |   |   |
-|        | itivādappamokkhānisaṃsaṃ |   |   |   |   |
-|        | \#iti                    |   |   |   |   |
-|  66778 | \#vāda                   |   |   |   |   |
-|  42753 | \#pamokkha               |   |   |   |   |
-|        | \#ānisaṃsa               |   |   |   |   |
-|  19901 | kathente                 |   |   |   |   |
-|        | upārambhānisaṃsaṃ        |   |   |   |   |
-|  16389 | \#upārambhe              |   |   |   |   |
-|        | \#ānisaṃsaṃ              |   |   |   |   |
-|  67649 | vijjāvimuttiphalānisaṃso |   |   |   |   |
-|  67646 | \#vijjāvimutti           |   |   |   |   |
-|  47580 | \#phala                  |   |   |   |   |
-|        | \#anisaṃso               |   |   |   |   |
-|  63655 | sucaritāni               |   |   |   |   |
-|  13760 | indriyasaṃvaro           |   |   |   |   |
-|  36399 | nābhijjhati              |   |   |   |   |
-|  36425 | nābhihaṃsati             |   |   |   |   |
-|  27921 | janeti                   |   |   |   |   |
-|  64432 | susaṇṭhitaṃ              |   |   |   |   |
-|  64616 | suvimuttaṃ               |   |   |   |   |
-|  8502  | amanāpaṃ                 |   |   |   |   |
-|  50579 | maṅku                    |   |   |   |   |
-|  6155  | apatitthīnacitto         |   |   |   |   |
-|        | \#apatitthīna            |   |   |   |   |
-|  2908  | adīnamānaso              |   |   |   |   |
-|  7425  | abyāpannacetaso          |   |   |   |   |
-|  51155 | manāpāmanāpesu           |   |   |   |   |
-|  21168 | kāyaduccaritaṃ           |   |   |   |   |
-|        | \#kāyena                 |   |   |   |   |
-|  33061 | \#duccaritaṃ             |   |   |   |   |
-|  21236 | kāyasucaritaṃ            |   |   |   |   |
-|  63655 | \#sucaritaṃ              |   |   |   |   |
-|  65619 | vacīduccaritaṃ           |   |   |   |   |
-|        | \#vaciyā                 |   |   |   |   |
-|  65642 | vacīsucaritaṃ            |   |   |   |   |
-|  51249 | manoduccaritaṃ           |   |   |   |   |
-|  51298 | manosucaritaṃ            |   |   |   |   |
-|        |                          |   |   |   |   |
-|        |                          |   |   |   |   |
-|        |                          |   |   |   |   |
+| 62055 | sākete | | | | |
+| -------- | -------------------------- | --- | --- | --- | --- |
+| 1470 | añjanavane | | | | |
+| 1465 | \#añjana | | | | |
+| 22282 | kuṇḍaliyo | | | | |
+| 43744 | paribbājako | | | | |
+| 12475 | ārāmanissayī | | | | |
+| | \#ārāma | | | | |
+| 38308 | \#nissayī | | | | |
+| 44118 | parisāvacaro | | | | |
+| | \#parisāyaṃ | | | | |
+| 10189 | \#avacaro | | | | |
+| 50106 | bhuttapātarāsassa | | | | |
+| 50103 | \#bhutta | | | | |
+| 45414 | \#pātarāsassa | | | | |
+| 16947 | uyyānena | | | | |
+| 4426 | anucaṅkamāmi | | | | |
+| 5412 | anuvicarāmi | | | | |
+| | itivādappamokkhānisaṃsaṃ | | | | |
+| | \#iti | | | | |
+| 66778 | \#vāda | | | | |
+| 42753 | \#pamokkha | | | | |
+| | \#ānisaṃsa | | | | |
+| 19901 | kathente | | | | |
+| | upārambhānisaṃsaṃ | | | | |
+| 16389 | \#upārambhe | | | | |
+| | \#ānisaṃsaṃ | | | | |
+| 67649 | vijjāvimuttiphalānisaṃso | | | | |
+| 67646 | \#vijjāvimutti | | | | |
+| 47580 | \#phala | | | | |
+| | \#anisaṃso | | | | |
+| 63655 | sucaritāni | | | | |
+| 13760 | indriyasaṃvaro | | | | |
+| 36399 | nābhijjhati | | | | |
+| 36425 | nābhihaṃsati | | | | |
+| 27921 | janeti | | | | |
+| 64432 | susaṇṭhitaṃ | | | | |
+| 64616 | suvimuttaṃ | | | | |
+| 8502 | amanāpaṃ | | | | |
+| 50579 | maṅku | | | | |
+| 6155 | apatitthīnacitto | | | | |
+| | \#apatitthīna | | | | |
+| 2908 | adīnamānaso | | | | |
+| 7425 | abyāpannacetaso | | | | |
+| 51155 | manāpāmanāpesu | | | | |
+| 21168 | kāyaduccaritaṃ | | | | |
+| | \#kāyena | | | | |
+| 33061 | \#duccaritaṃ | | | | |
+| 21236 | kāyasucaritaṃ | | | | |
+| 63655 | \#sucaritaṃ | | | | |
+| 65619 | vacīduccaritaṃ | | | | |
+| | \#vaciyā | | | | |
+| 65642 | vacīsucaritaṃ | | | | |
+| 51249 | manoduccaritaṃ | | | | |
+| 51298 | manosucaritaṃ | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN46.14 paṭhamagilānasutta
 
@@ -360,21 +360,21 @@ taggha, bhagavā, bojjhaṅgā; taggha, sugata, bojjhaṅgāti.
 
 idamavoca bhagavā. attamano āyasmā mahākassapo bhagavato bhāsitaṃ abhinandi. vuṭṭhahi cāyasmā mahākassapo tamhā ābādhā. tathāpahīno cāyasmato mahākassapassa so ābādho ahosīti.
 
-|  51668 | mahākassapo    |   |   |   |   |
-|--------|----------------|---|---|---|---|
-|  46161 | pippaliguhāyaṃ |   |   |   |   |
-|  46160 | \#pippali      |   |   |   |   |
-|        | \#guhāyaṃ      |   |   |   |   |
-|  57841 | sattime        |   |   |   |   |
-|  60730 | sammadakkhātā  |   |   |   |   |
-|  29228 | taggha         |   |   |   |   |
-|  29702 | tathāpahīno    |   |   |   |   |
-|        |                |   |   |   |   |
-|        |                |   |   |   |   |
-|        |                |   |   |   |   |
-|        |                |   |   |   |   |
-|        |                |   |   |   |   |
-|        |                |   |   |   |   |
+| 51668 | mahākassapo | | | | |
+| -------- | ---------------- | --- | --- | --- | --- |
+| 46161 | pippaliguhāyaṃ | | | | |
+| 46160 | \#pippali | | | | |
+| | \#guhāyaṃ | | | | |
+| 57841 | sattime | | | | |
+| 60730 | sammadakkhātā | | | | |
+| 29228 | taggha | | | | |
+| 29702 | tathāpahīno | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## SN46.53 aggisutta
 
@@ -410,46 +410,46 @@ evameva kho, bhikkhave, yasmiṃ samaye uddhataṃ cittaṃ hoti, kālo tasmiṃ
 
 6 satiñca khvāhaṃ, bhikkhave, sabbatthikaṃ vadāmīti.
 
-|  18200 | evaṃvādino        |   |   |   |   |
-|--------|-------------------|---|---|---|---|
-|  1524  | aññatitthiyā      |   |   |   |   |
-|        | \#añña            |   |   |   |   |
-|        | \#titthiya        |   |   |   |   |
-|  43744 | paribbājakā       |   |   |   |   |
-|  18082 | evamassu          |   |   |   |   |
-|  65600 | vacanīyā          |   |   |   |   |
-|  55863 | līnaṃ             |   |   |   |   |
-|  165   | akālo             |   |   |   |   |
-|  42307 | panāvuso          |   |   |   |   |
-|  15191 | uddhataṃ          |   |   |   |   |
-|  46575 | puṭṭhā            |   |   |   |   |
-|  60460 | sampāyissanti     |   |   |   |   |
-|  14719 | uttariñca         |   |   |   |   |
-|  67389 | vighātaṃ          |   |   |   |   |
-|  10675 | avisayasmiṃ       |   |   |   |   |
-|  12451 | ārādheyya         |   |   |   |   |
-|  29678 | tathāgatasāvakena |   |   |   |   |
-|  13515 | ito               |   |   |   |   |
-|  33826 | dussamuṭṭhāpayaṃ  |   |   |   |   |
-|  648   | aggiṃ             |   |   |   |   |
-|  14448 | ujjāletukāmo      |   |   |   |   |
-|  14449 | \#ujjāletuṃ       |   |   |   |   |
-|  9266  | allāni            |   |   |   |   |
-|  25375 | gomayāni          |   |   |   |   |
-|  14900 | udakavātaṃ        |   |   |   |   |
-|  31837 | dadeyya           |   |   |   |   |
-|  45191 | paṃsukena         |   |   |   |   |
-|  18303 | okireyya          |   |   |   |   |
-|  64451 | susamuṭṭhāpayaṃ   |   |   |   |   |
-|  63433 | sukkhāni          |   |   |   |   |
-|  52790 | mukhavātaṃ        |   |   |   |   |
-|  52758 | \#mukha           |   |   |   |   |
-|  33865 | duvūpasamayaṃ     |   |   |   |   |
-|  656   | aggikkhandhaṃ     |   |   |   |   |
-|  37620 | nibbāpetukāmo     |   |   |   |   |
-|  37621 | \#nibbāpetuṃ      |   |   |   |   |
-|  58850 | sabbatthikaṃ      |   |   |   |   |
-|        | \#sabba           |   |   |   |   |
-|  2739  | \#atthikaṃ        |   |   |   |   |
-|        |                   |   |   |   |   |
-|        |                   |   |   |   |   |
+| 18200 | evaṃvādino | | | | |
+| -------- | ------------------- | --- | --- | --- | --- |
+| 1524 | aññatitthiyā | | | | |
+| | \#añña | | | | |
+| | \#titthiya | | | | |
+| 43744 | paribbājakā | | | | |
+| 18082 | evamassu | | | | |
+| 65600 | vacanīyā | | | | |
+| 55863 | līnaṃ | | | | |
+| 165 | akālo | | | | |
+| 42307 | panāvuso | | | | |
+| 15191 | uddhataṃ | | | | |
+| 46575 | puṭṭhā | | | | |
+| 60460 | sampāyissanti | | | | |
+| 14719 | uttariñca | | | | |
+| 67389 | vighātaṃ | | | | |
+| 10675 | avisayasmiṃ | | | | |
+| 12451 | ārādheyya | | | | |
+| 29678 | tathāgatasāvakena | | | | |
+| 13515 | ito | | | | |
+| 33826 | dussamuṭṭhāpayaṃ | | | | |
+| 648 | aggiṃ | | | | |
+| 14448 | ujjāletukāmo | | | | |
+| 14449 | \#ujjāletuṃ | | | | |
+| 9266 | allāni | | | | |
+| 25375 | gomayāni | | | | |
+| 14900 | udakavātaṃ | | | | |
+| 31837 | dadeyya | | | | |
+| 45191 | paṃsukena | | | | |
+| 18303 | okireyya | | | | |
+| 64451 | susamuṭṭhāpayaṃ | | | | |
+| 63433 | sukkhāni | | | | |
+| 52790 | mukhavātaṃ | | | | |
+| 52758 | \#mukha | | | | |
+| 33865 | duvūpasamayaṃ | | | | |
+| 656 | aggikkhandhaṃ | | | | |
+| 37620 | nibbāpetukāmo | | | | |
+| 37621 | \#nibbāpetuṃ | | | | |
+| 58850 | sabbatthikaṃ | | | | |
+| | \#sabba | | | | |
+| 2739 | \#atthikaṃ | | | | |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |

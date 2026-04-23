@@ -37,13 +37,16 @@ To generate the static site in the `site/` directory:
 bash scripts/web_preprocessing.sh && uv run mkdocs build
 ```
 
-### Regenerating Pāṭimokkha Pages
+### Script Registry
 
-The word-by-word Pāṭimokkha analysis pages are generated from an Excel spreadsheet:
-```bash
-uv run python scripts/generate_patimokkha.py [path/to/patimokkha.xlsx]
-```
-If no path is provided, it defaults to `temp/patimokkha.xlsx`.
+These scripts are used for content generation, maintenance, and verification:
+
+- `scripts/compare_pali_sources.py`: Identifies data loss between current Markdown files and a past Git commit.
+- `scripts/fix_pali_tables.py`: Normalizes Pāḷi study markdown tables and fixes grammar abbreviations.
+- `scripts/generate_patimokkha.py`: Generates word-by-word Pāṭimokkha analysis pages from an Excel spreadsheet.
+- `scripts/web_preprocessing.sh`: Main entry point for site generation prep (indexes, navigation).
+- `scripts/fix_links.py`: Corrects broken or moved internal links.
+- `scripts/generate_indexes.py`: Creates `index.md` files for directories based on folder structure.
 
 ## Project Structure
 

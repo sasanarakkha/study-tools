@@ -2,18 +2,18 @@
 
 ## yo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ.
 
-| pāḷi        | pos   | grammar                           | case   | meaning                                                   | meaning_lit             | root                        | base                      | construction           | compound_type   | compound_construction   |
-|:------------|:------|:----------------------------------|:-------|:----------------------------------------------------------|:------------------------|:----------------------------|:--------------------------|:-----------------------|:----------------|:------------------------|
-| yo          | pron  | masc nom sg of ya                 |        | whichever, whoever                                        |                         |                             |                           |                        |                 |                         |
-| pana        | ind   |                                   |        | then, now, so, but                                        |                         |                             |                           |                        |                 |                         |
-| bhikkhu     | noun  | masc nom sg, from bhikkhati, comp |        | monk, monastic                                            | beggar, mendicant       | √bhikkh (beg)               |                           | √bhikkh + u            |                 |                         |
-| sabhojane 1 | adj   | nt loc sg  of sabhojana           |        | in (a family) amorously engaged; lustful                  | with meal (or)enjoyment | √bhuj (eat, enjoy)          |                           | sa + √bhuj + *ana      |                 |                         |
-| sabhojane 2 | adj   | nt loc sg  of sabhojana, comp     |        | in (a family) with two people                             |                         |                             |                           | sa + ubho + jana       | kammadhāraya    | sa + ubhojana           |
-| kule        | noun  | nt loc sg of kula                 |        | in a family                                               |                         | √kul (be close)             |                           | √kul + a               |                 |                         |
-| anupakhajja | ger   | ger of anupakkhandati             |        | encroaching, invading                                     |                         | √khand (jump)               |                           | anu + pa + √khand + ya |                 |                         |
-| nisajjaṃ    | noun  | fem acc sg of nisajjā             |        | seat (or) sitting down                                    | seating                 | √sad (sink, sit, settle)    |                           | ni + √sad + ya + ā     |                 |                         |
-| kappeyya    | verb  | opt 3rd sg of kappeti             | +acc   | should take, use                                          | make suitable           | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | kappe + ti             |                 |                         |
-| pācittiyaṃ  | noun  | nt nom sg of pācittiya            | +loc   | offence requiring confession, offence involving expiation |                         |                             |                           |                        |                 |                         |
+| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
+| :------------ | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------------ | :---------------------------- | :-------------------------- | :----------------------- | :---------------- | :------------------------ |
+| yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
+| pana | ind | | | then, now, so, but | | | | | | |
+| bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
+| sabhojane 1 | adj | nt loc sg  of sabhojana | | in (a family) amorously engaged; lustful | with meal (or)enjoyment | √bhuj (eat, enjoy) | | sa + √bhuj + *ana | | |
+| sabhojane 2 | adj | nt loc sg  of sabhojana, comp | | in (a family) with two people | | | | sa + ubho + jana | kammadhāraya | sa + ubhojana |
+| kule | noun | nt loc sg of kula | | in a family | | √kul (be close) | | √kul + a | | |
+| anupakhajja | ger | ger of anupakkhandati | | encroaching, invading | | √khand (jump) | | anu + pa + √khand + ya | | |
+| nisajjaṃ | noun | fem acc sg of nisajjā | | seat (or) sitting down | seating | √sad (sink, sit, settle) | | ni + √sad + ya + ā | | |
+| kappeyya | verb | opt 3rd sg of kappeti | +acc | should take, use | make suitable | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | kappe + ti | | |
+| pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 
 [← previous](uyyojanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](rahopaṭicchannasikkhāpadaṃ.md)

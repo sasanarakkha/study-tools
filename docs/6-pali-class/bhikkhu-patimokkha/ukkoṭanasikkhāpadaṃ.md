@@ -2,23 +2,23 @@
 
 ## yo pana bhikkhu jānaṃ yathādhammaṃ nihat'ādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
 
-| pāḷi             | pos   | grammar                            | case   | meaning                                                   | meaning_lit       | root                    | base             | construction        | compound_type        | compound_construction   |
-|:-----------------|:------|:-----------------------------------|:-------|:----------------------------------------------------------|:------------------|:------------------------|:-----------------|:--------------------|:---------------------|:------------------------|
-| yo               | pron  | masc nom sg of ya                  |        | whichever, whoever                                        |                   |                         |                  |                     |                      |                         |
-| pana             | ind   |                                    |        | then, now, so, but                                        |                   |                         |                  |                     |                      |                         |
-| bhikkhu          | noun  | masc nom sg, from bhikkhati, comp  |        | monk, monastic                                            | beggar, mendicant | √bhikkh (beg)           |                  | √bhikkh + u         |                      |                         |
-| jānaṃ            | ind   | adv, from jānanta                  |        | knowingly, consciously, wittingly                         | knowing           | √ñā (know)              | √ñā + nā > jānā  | jānā + aṃ           |                      |                         |
-| yathādhammaṃ     | adj   | nt acc sg of yathādhamma, comp     |        | according to the law, legally                             |                   |                         |                  | yathā + dhamma      | kammadhāraya         | yathā + dhamma          |
-| - yathā          | ind   | adv                                |        | like, as                                                  |                   |                         |                  | ya + thā            |                      |                         |
-| - dhammaṃ 2      | noun  | masc acc sg of dhamma              |        | law, rule                                                 |                   | √dhar (hold)            |                  | √dhar + ma          |                      |                         |
-| nihatādhikaraṇaṃ | noun  | nt acc sg of nihatādhikaraṇa, comp |        | closed case, settled lawsuit                              | killed down case  |                         |                  | nihata + adhikaraṇa | accusative tappurisa | nihata + adhikaraṇaṃ    |
-| - nihata         | pp    |                                    |        | settled, closed                                           | killed down       | √han (beat, kill)       |                  | √han + ta           |                      |                         |
-| - adhikaraṇaṃ    | noun  | nt acc sg of adhikaraṇa            |        | legal case, issue                                         |                   | √kar (do, make)         |                  | adhi + √kar + aṇa   |                      |                         |
-| punakammāya      | noun  | dat sg of punakamma, comp          |        | for the purpose of redoing, reopening                     | for doing again   |                         |                  | puna + kamma        | kammadhāraya         | puna + kamma            |
-| - puna           | ind   | adv                                |        | again                                                     |                   |                         |                  |                     |                      |                         |
-| - kammāya        | noun  | dat sg of kamma                    |        | for doing                                                 |                   | √kar (do, make)         |                  | √kar + ma           |                      |                         |
-| ukkoṭeyya        | verb  | opt 3rd sg of ukkoṭeti             |        | he would reopen                                           | cause to bend up  | √kuṭ (be crooked, bent) | √kuṭ + *e > koṭe | ud + koṭe + ti      |                      |                         |
-| pācittiyaṃ       | noun  | nt nom sg of pācittiya             | +loc   | offence requiring confession, offence involving expiation |                   |                         |                  |                     |                      |                         |
+| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
+| :----------------- | :------ | :----------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------------ | :----------------- | :-------------------- | :--------------------- | :------------------------ |
+| yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
+| pana | ind | | | then, now, so, but | | | | | | |
+| bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
+| jānaṃ | ind | adv, from jānanta | | knowingly, consciously, wittingly | knowing | √ñā (know) | √ñā + nā > jānā | jānā + aṃ | | |
+| yathādhammaṃ | adj | nt acc sg of yathādhamma, comp | | according to the law, legally | | | | yathā + dhamma | kammadhāraya | yathā + dhamma |
+| - yathā | ind | adv | | like, as | | | | ya + thā | | |
+| - dhammaṃ 2 | noun | masc acc sg of dhamma | | law, rule | | √dhar (hold) | | √dhar + ma | | |
+| nihatādhikaraṇaṃ | noun | nt acc sg of nihatādhikaraṇa, comp | | closed case, settled lawsuit | killed down case | | | nihata + adhikaraṇa | accusative tappurisa | nihata + adhikaraṇaṃ |
+| - nihata | pp | | | settled, closed | killed down | √han (beat, kill) | | √han + ta | | |
+| - adhikaraṇaṃ | noun | nt acc sg of adhikaraṇa | | legal case, issue | | √kar (do, make) | | adhi + √kar + aṇa | | |
+| punakammāya | noun | dat sg of punakamma, comp | | for the purpose of redoing, reopening | for doing again | | | puna + kamma | kammadhāraya | puna + kamma |
+| - puna | ind | adv | | again | | | | | | |
+| - kammāya | noun | dat sg of kamma | | for doing | | √kar (do, make) | | √kar + ma | | |
+| ukkoṭeyya | verb | opt 3rd sg of ukkoṭeti | | he would reopen | cause to bend up | √kuṭ (be crooked, bent) | √kuṭ + *e > koṭe | ud + koṭe + ti | | |
+| pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 
 [← previous](sappāṇakasikkhāpadaṃ 2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](duṭṭhullasikkhāpadaṃ.md)
