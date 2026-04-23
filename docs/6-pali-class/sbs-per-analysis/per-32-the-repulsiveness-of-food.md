@@ -7,6 +7,7 @@
 [AN 7.49]
 āhāre paṭikūlasaññāparicitena, bhikkhave, bhikkhuno cetasā bahulaṃ viharato, rasataṇhāya cittaṃ patilīyati patikuṭati pativattati, na sampasāriyati, upekkhā vā pāṭikulyatā vā saṇṭhāti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | āhāre | noun | masc.acc.pl | food, sustenances, nutriments |
 | paṭikūlasaññā- | noun | fem | recognition of repulsiveness, perception of unpleasantness |
@@ -29,6 +30,7 @@
 
 sabbo panāyaṃ piṇḍapāto ajigucchanīyo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbo | adj | masc.nom.sg | all |
 | pana- | ind |  | and; yet; but; moreover. |
@@ -40,6 +42,7 @@ sabbo panāyaṃ piṇḍapāto ajigucchanīyo
 
 imaṃ pūti-kāyaṃ patvā ativiya jigucchanīyo jāyati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | imaṃ | pron | masc.acc.sg | this |
 | pūti- | adj |  | rotten; putrid; stinking |
@@ -51,5 +54,4 @@ imaṃ pūti-kāyaṃ patvā ativiya jigucchanīyo jāyati
 
 **having reached this putrid body, arise those what should be disgusted very much**
 
-
-next chant \> [Universal Well-Being](https://docs.google.com/document/d/1VlYGVeSDtx8tavnXCmgee4J6-Py3eH9DbJ2nwY23HNk/)
+[← previous chant](per-31-the-four-requisites.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-33-universal-well-being.md)

@@ -4,6 +4,7 @@
 
 yan'dunnimittaṃ avamaṅgalañ'ca, yo c'āmanāpo sakuṇassa saddo, pāpaggaho dussupinaṃ akantaṃ, buddh'ānubhāvena vināsam’entu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [trad] |  |  |  |
 | yan' | pron | nt.nom.sg | which, whatever, that which |
@@ -31,5 +32,4 @@ yan'dunnimittaṃ avamaṅgalañ'ca, yo cāmanāpo sakuṇassa saddo, pāpaggaho
 
 **Whatever ill omen and bad luck, and whatever unpleasant bird's sound, evil planets, upsetting nightmares: by the power of the Saṅgha may they be destroyed.**
 
-
-next chant \> [Devatā-uyyojana-gāthā](https://docs.google.com/document/d/1qQEYoxa_oRZmOnsoqttotDXwHXramcSz2taM4FLPRsA/)
+[← previous chant](per-59-bojjhanga-parittam.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-61-devata-uyyojana-gatha.md)

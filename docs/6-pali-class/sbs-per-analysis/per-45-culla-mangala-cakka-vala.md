@@ -4,6 +4,7 @@
 
 sabba-buddh'ānubhāvena sabba-dhamm'ānubhāvena sabba-saṅgh'ānubhāvena
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [MJG] |  |  |  |
 | sabba- | adj |  | all |
@@ -16,6 +17,7 @@ sabba-buddh'ānubhāvena sabba-dhamm'ānubhāvena sabba-saṅgh'ānubhāvena
 
 buddha-ratanaṃ dhamma-ratanaṃ saṅgha-ratanaṃtiṇṇaṃ ratanānaṃ ānubhāvena
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | buddha- | noun |  | the Buddha, Awakened One |
 | ratanaṃ | noun | nt.nom.sg | jewel, gem, gemstone |
@@ -31,6 +33,7 @@ buddha-ratanaṃ dhamma-ratanaṃ saṅgha-ratanaṃtiṇṇaṃ ratanānaṃ ā
 
 catur'āsīti-sahassa-dhammakkhandh'ānubhāvena piṭakattay'ānubhavena jina-sāvak'ānubhāvena
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | catur'āsīti- | adj |  | eighty four (84) |
 | sahassa- | adj |  | one thousand (1000) |
@@ -45,6 +48,7 @@ catur'āsīti-sahassa-dhammakkhandh'ānubhāvena piṭakattay'ānubhavena jina-s
 
 sabbe te rogā, sabbe te bhayā, sabbe te antarāyā, sabbe te upaddavā, sabbe te dunnimittā, sabbe te avamaṅgalā vinassantu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | adj | masc.nom.pl | all |
 | te | pron | 2.gen.sg | your, of you |
@@ -60,6 +64,7 @@ sabbe te rogā, sabbe te bhayā, sabbe te antarāyā, sabbe te upaddavā, sabbe 
 
 āyu-vaḍḍhako, dhana-vaḍḍhako, siri-vaḍḍhako, yasa-vaḍḍhako, bala-vaḍḍhako, vaṇṇa-vaḍḍhako, sukha-vaḍḍhako hotu sabbadā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | āyu- | noun |  | long life, longevity |
 | vaḍḍhako | adj | masc.nom.sg | augmenting, increasing |
@@ -76,6 +81,7 @@ sabbe te rogā, sabbe te bhayā, sabbe te antarāyā, sabbe te upaddavā, sabbe 
 
 dukkha-roga-bhayā verā sokā sattu c'upaddavā anekā antarāyā pi vinassantu ca tejasā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dukkha- | noun | discomfort, suffering, pain, unease, something | unsatisfactory, problem, trouble |
 | roga- | noun |  | disease, illness |
@@ -95,6 +101,7 @@ dukkha-roga-bhayā verā sokā sattu c'upaddavā anekā antarāyā pi vinassantu
 
 jaya-siddhi dhanaṃ lābhaṃ sotthi bhāgyaṃ sukhaṃ balaṃ siri āyu ca vaṇṇo ca bhogaṃ vuḍḍhī ca yasavā sata-vassā ca āyū ca jīva-siddhī bhavantu te
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | jaya- | noun |  | victory, conquest, winning |
 | siddhi | noun | fem.nom.sg | accomplishment, success, prosperity |
@@ -126,5 +133,4 @@ jaya-siddhi dhanaṃ lābhaṃ sotthi bhāgyaṃ sukhaṃ balaṃ siri āyu ca v
 **May be f or you: victory, success, wealth, gain, safety, luck, happiness, strength, 
 glory, long life, beauty, riches, growth, renown, a lifespan of 100 years, and accomplishment in life.**
 
-
-next chant \> [Aggappasāda-sutta-gāthā](https://docs.google.com/document/d/1zLA7PLmN_uuhWQyzDRAyuGDcMZsTlnHbXSuvT4qyVbE/)
+[← previous chant](per-44-bhojana-dananumodana.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-46-aggappasada-sutta-gatha.md)

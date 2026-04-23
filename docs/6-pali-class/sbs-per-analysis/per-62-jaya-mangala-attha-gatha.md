@@ -4,6 +4,7 @@
 
 bāhuṃ sahassam'abhinimmita sāvudhan'taṃ, grīmekhalaṃ udita-ghora-sasena-māraṃ, dān'ādi-dhamma-vidhinā jitavā mun'indo, tan'tejasā bhavatu te jaya-maṅgalāni
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [trad] |  |  |  |
 | bāhuṃ | noun | masc.acc.sg | arm |
@@ -33,6 +34,7 @@ bāhuṃ sahassam'abhinimmita sāvudhan'taṃ, grīmekhalaṃ udita-ghora-sasena
 
 mār'ātirekam'abhiyujjhita-sabba-rattiṃ, ghoram'pan'āḷavakam'akkhama-thaddha-yakkhaṃ, khantī-sudanta-vidhinā jitavā mun'indo.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | māra- | noun | masc.acc.sg | death, Death personified, evil one |
 | atirekam- | adj | masc.acc.sg | more (than); superior, higher |
@@ -59,6 +61,7 @@ tan'tejasā bhavatu te jaya-maṅgalāni.
 
 nāḷāgiriṃ gaja-varaṃ atimatta-bhūtaṃ, dāv'aggi-cakkam'asanī'va, sudāruṇan'taṃ, mett'ambu-seka-vidhinā jitavā mun'indo.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | nāḷāgiriṃ | noun | masc.acc.sg | Nāḷāgiri |
 | gaja- | noun |  | elephant |
@@ -85,6 +88,7 @@ tan'tejasā bhavatu te jaya-maṅgalāni.
 
 ukkhitta-khaggam’atihattha-sudāruṇan'taṃ, dhāvan'ti-yojana-path'aṅguli-mālavantaṃ. iddhī'bhisaṅkhata-mano jitavā mun'indo.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ukkhitta- | pp |  | lifted up, drawn up, raised, lit. thrown up |
 | khaggam- | noun | masc.acc.sg | sword |
@@ -111,6 +115,7 @@ tan'tejasā bhavatu te jaya-maṅgalāni.
 
 katvāna kaṭṭham'udaraṃ iva gabbhinīyā, ciñcāya duṭṭha-vacanaṃ janakāya-majjhe, santena soma-vidhinā jitavā mun'indo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | katvāna | verb | abs | having done, having made |
 | kaṭṭham' | noun |  | stick, plank, log, wood, timber |
@@ -136,6 +141,7 @@ tan'tejasā bhavatu te jaya-maṅgalāni.
 
 saccaṃ vihāya mati-saccaka-vāda-ketuṃ, vād’ābhiropita-manaṃ ati-andha-bhūtaṃ, paññā-padīpa-jalito jitavā mun'indo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saccaṃ | noun | nt.acc.sg | truth |
 | vihāya | verb | ger | abandoning, forsaking, leaving; giving up |
@@ -162,6 +168,7 @@ tan'tejasā bhavatu te jaya-maṅgalāni.
 
 nandopananda-bhujagaṃ vibudhaṃ mah'iddhiṃ, puttena thera-bhujagena dam'āpayanto, iddh'ūpadesa-vidhinā jitavā mun'indo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | nandopananda- | noun |  | Nandopananda |
 | bhujagaṃ | noun | masc.acc.sg | snake |
@@ -186,6 +193,7 @@ tan'tejasā bhavatu te jaya-maṅgalāni.
 
 duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṃ, brahmaṃ visuddhi-jutim'iddhi-bak'ābhidhānaṃ, ñāṇā-gadena vidhinā jitavā mun'indo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | duggāha- | adj |  | taking hold of wrongly; a bad seizing |
 | diṭṭhi- | noun |  | view, belief, opinion |
@@ -212,6 +220,7 @@ tan'tejasā bhavatu te jaya-maṅgalāni.
 
 etā pi buddha-jaya-maṅgala-aṭṭha-gāthā, yo vācano dina-dine sarate'm'atandī, hitvān'aneka-vividhāni c'upaddavāni, mokkhaṃ sukhaṃ adhigameyya naro sapañño
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | etā | pron | fem.nom.pl | these |
 | pi | ind |  | also, and also |
@@ -238,5 +247,4 @@ etā pi buddha-jaya-maṅgala-aṭṭha-gāthā, yo vācano dina-dine sarate'm'a
 
 **These eight verses of the Buddha's auspicious victory. Whoever recites or remember them day after day not lazy, destroying all kinds of obstacles, will attain emancipation & happiness, the man with wisdom.**
 
-
-next chant \> [Jaya-parittaṃ](https://docs.google.com/document/d/17RA0WdLByrYBIYfh1d7Ls01W7bE6eBvWzVkHRLOe0nM/)
+[← previous chant](per-61-devata-uyyojana-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-63-jaya-parittam.md)

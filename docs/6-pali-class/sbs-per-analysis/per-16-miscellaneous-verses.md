@@ -8,6 +8,7 @@ Pakiṇṇaka-gāthā
 attadīpā, bhikkhave, viharatha attasaraṇā anaññasaraṇā,
 dhammadīpā dhammasaraṇā anaññasaraṇā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | attadīpā, | adj | masc.nom.pl | self-reliant, independent, oneself as foundation lit. island for oneself or lamp for oneself |
 | viharatha | verb | imp.2.pl | you should live, stay, remain, continue |
@@ -23,6 +24,7 @@ dhammadīpā dhammasaraṇā anaññasaraṇā.
 appassut'āyaṃ puriso, balibaddho'va jīrati,
 maṃsāni tassa vaḍḍhanti, paññā tassa na vaḍḍhati.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | appassuta- | adj |  | ignorant, uneducated, unlearned, lit. heard little |
 | ayaṃ | pron | masc.nom.sg | this, this person |
@@ -43,6 +45,7 @@ maṃsāni tassa vaḍḍhanti, paññā tassa na vaḍḍhati.
 uyyuñjanti satīmanto, na nikete ramanti te,
 haṃsā'va pallalaṃ hitvā, okam'okaṃ jahanti te.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | uyyuñjanti | verb | pr.3.pl | they strive, make effort |
 | satīmanto | adj as noun | masc.nom.sg | mindful, fully present, attentive |
@@ -63,6 +66,7 @@ Snp 66 [v 949]
 yaṃ pubbe taṃ visosehi, pacchā te m'āhu kiñcanaṃ,
 majjhe ce no gahessasi, upasanto carissasi.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | masc.acc.sg | whatever, that which |
 | pubbe | ind | before, previously, formerly, in the past, in a | previous life |
@@ -85,6 +89,7 @@ Snp 22 [v 333]
 uṭṭhahatha nisīdatha, ko attho supitena vo,
 āturānañ'hi kā niddā, sallaviddhāna ruppataṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | uṭṭhahatha | verb | imp.2.pl | get up! get out of bed! arouse oneself! |
 | nisīdatha | verb | imp.2.pl | sit! |
@@ -104,6 +109,7 @@ Snp 22 [v 334]
 uṭṭhahatha nisīdatha, daḷhaṃ sikkhatha santiyā,
 mā vo pamatte viññāya, maccurājā amohayittha vas'ānuge.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | uṭṭhahatha | verb | imp.2.pl | get up! get out of bed! arouse oneself! |
 | nisīdatha | verb | imp.2.pl | sit! |
@@ -125,6 +131,7 @@ yāya devā manussā ca, sitā tiṭṭhanti atthikā,
 tarath'etaṃ visattikaṃ, khaṇo vo mā upaccagā,
 khaṇ'ātītā hi socanti, nirayamhi samappitā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāya | pron | fem.ins.sg | by whichever, with which (woman) |
 | devā | noun | masc.nom.pl | deities |
@@ -152,6 +159,7 @@ Snp 22 [v 336]
 pamādo rajo pamādo, pamād'ānupatito rajo,
 appamādena vijjāya, abbahe sallam'attano'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | pamādo | noun | masc.nom.sg | carelessness, negligence, heedlessness |
 | rajo | noun | masc.nom.sg | (mental) impurity, defilement, lit: dust |
@@ -171,6 +179,7 @@ appamādena vijjāya, abbahe sallam'attano'ti.
 piyato jāyatī soko, piyato jāyatī bhayaṃ,
 piyato vippamuttassa, n'atthi soko kuto bhayaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | piyato | noun | masc.abl.sg | from love, affliction |
 | jāyatī | verb | pr.3.sg | arises, is produced |
@@ -190,6 +199,7 @@ piyato vippamuttassa, n'atthi soko kuto bhayaṃ.
 [MN 107]
 tiṭṭhat'eva nibbānaṃ, tiṭṭhati nibbānagāmī maggo, maggakkhāyī'haṃ tathāgato
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tiṭṭhati- | verb | pr.3.sg | lasts, remains, persists, exists, lit. stand |
 | eva | ind | emph. | only, just, so, even |
@@ -206,6 +216,7 @@ tiṭṭhat'eva nibbānaṃ, tiṭṭhati nibbānagāmī maggo, maggakkhāyī'ha
 [Dhp 276]
 tumhehi kiccam'ātappaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tumhehi | pron | masc.ins.pl | by you (all) |
 | kiccam- | ptp | nt.nom.sg | should be made, ought to be done |
@@ -216,6 +227,7 @@ tumhehi kiccam'ātappaṃ
 [MN 19]
 yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hit'esinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | masc.acc.sg | whatever |
 | satthārā | noun | masc.ins.sg | by the teacher, with the master |
@@ -234,6 +246,7 @@ yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hit'esinā anukampaken
 
 etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. jhāyatha, bhikkhave, mā pamād'attha, mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | etāni | pron | nt.nom.pl | (there are) these |
 | rukkhamūlāni | noun | nt.nom.pl | foots of trees, bases of trees |
@@ -252,5 +265,4 @@ etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. jhāyatha, bhikkhave
 
 **There are these foots of a tree, there are these empty dwellings. Meditate! Don't be negligent! Don't be remorseful afterwards! This is my instruction for you.**
 
-
-next chant \> [A single Excellent Night](https://docs.google.com/document/d/1r2_xKy7oZ37tCIQEka2VJDEhebVCbRXkPGsVxUNd854/)
+[← previous chant](per-15-on-protection.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-17-a-single-excellent-night.md)

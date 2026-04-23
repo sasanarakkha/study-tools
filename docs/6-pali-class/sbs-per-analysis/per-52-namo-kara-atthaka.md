@@ -4,6 +4,7 @@
 
 namo arahato sammā-sambuddhassa mahesino, namo uttama-dhammassa svākkhātass'eva ten'idha.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [thai] |  |  |  |
 | namo | ind |  | reverence (to), veneration (of), homage (to) |
@@ -22,6 +23,7 @@ namo arahato sammā-sambuddhassa mahesino, namo uttama-dhammassa svākkhātass'e
 
 namo mahā-saṅghass'āpi visuddha-sīla-diṭṭhino, namo omāty'āraddhassa ratanattayassa sādhukaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | namo | ind |  | reverence (to), veneration (of), homage (to) |
 | mahā- | adj |  | great, large, powerful, grand, vast, extensive |
@@ -40,6 +42,7 @@ namo mahā-saṅghass'āpi visuddha-sīla-diṭṭhino, namo omāty'āraddhassa 
 
 namo omak'ātītassa tassa vatthuttayassa'pi. namo-kāra-ppabhāvena vigacchantu upaddavā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | namo | ind |  | reverence (to), veneration (of), homage (to) |
 | omaka-atītassa | adj | masc.dat.sg | to gone past useless (things) |
@@ -55,6 +58,7 @@ namo omak'ātītassa tassa vatthuttayassa'pi. namo-kāra-ppabhāvena vigacchantu
 
 namo-kār'ānubhāvena suvatthi hotu sabbadā. namo-kārassa tejena vidhimhi homi tejavā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | namo- | ind |  | reverence (to), veneration (of), homage (to) |
 | kāra- | noun |  | deed, action, service |
@@ -71,5 +75,4 @@ namo-kār'ānubhāvena suvatthi hotu sabbadā. namo-kārassa tejena vidhimhi hom
 
 **By the power of this act of veneration, may there always be well-being. By the splendour this homage, may I be powerful in this performance.**
 
-
-next chant \> [Maṅgala-sutta](https://docs.google.com/document/d/1U96ujGucaUwKziqm0FNCg4u2e55oGH2ZGMP1IEsuZoQ/)
+[← previous chant](per-51-nama-kara-siddhi-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-53-mangala-sutta.md)

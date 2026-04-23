@@ -8,6 +8,7 @@ Bhārā
 bhārā have pañcakkhandhā – bhārahāro ca puggalo
 bhār'ādānaṃ dukkhaṃ loke – bhāra-nikkhepanaṃ sukhaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhārā | noun | masc.nom.pl | burdens, loads, weights |
 | have | ind |  | indeed, surely |
@@ -27,6 +28,7 @@ bhār'ādānaṃ dukkhaṃ loke – bhāra-nikkhepanaṃ sukhaṃ
 nikkhipitvā garuṃ bhāraṃ – aññaṃ bhāraṃ anādiya
 samūlaṃ taṇhaṃ abbuyha – nicchāto parinibbuto
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | nikkhipitvā | verb | abs | having discarded, having put down, having set aside |
 | garuṃ | adj | masc.acc.sg | heavy, onerous, weighty |
@@ -42,5 +44,4 @@ samūlaṃ taṇhaṃ abbuyha – nicchāto parinibbuto
 
 **A heavy burden cast away, not taking on another load, pulling up craving with the root, one is satisfied and extinguished.**
 
-
-next chant \> [From the Elder Raṭṭhapāla](https://docs.google.com/document/d/10_48SNuskQ4Kca6GitWP1KMDUGFGrt4YK0X9nFTQw2I/)
+[← previous chant](per-11-the-three-characteristics.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-13-from-the-elder-ratthapala.md)

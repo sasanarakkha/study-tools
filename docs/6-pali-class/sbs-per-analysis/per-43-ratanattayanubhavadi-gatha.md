@@ -4,11 +4,13 @@
 
 ratanattay'ānubhāvena ratanattaya-tejasā, dukkha-roga-bhayā-verā sokā sattu c'upaddavā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [thai] |  |  |  |
 
 **anekā antarāyā pi vinassantu asesato.**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ratanattaya- | noun |  | three jewels, triple gem, three treasures |
 | ānubhāvena | noun | masc.ins.sg | by splendor, majesty, magnificence, pomp |
@@ -31,6 +33,7 @@ ratanattay'ānubhāvena ratanattaya-tejasā, dukkha-roga-bhayā-verā sokā satt
 
 jaya-siddhi dhanaṃ lābhaṃ sotthi bhāgyaṃ sukhaṃ balaṃ siri āyu ca vaṇṇo ca bhogaṃ vuḍḍhī ca yasavā sata-vassā ca āyū ca jīva-siddhī bhavantu te.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | jaya- | noun |  | victory, conquest, winning |
 | siddhi | noun | fem.nom.sg | accomplishment, success, prosperity |
@@ -62,5 +65,4 @@ jaya-siddhi dhanaṃ lābhaṃ sotthi bhāgyaṃ sukhaṃ balaṃ siri āyu ca v
 **May be for you: victory, success, wealth, gain, safety, luck, happiness, strength, 
 glory, long life, beauty, riches, growth, renown, a lifespan of a 100 years, and accomplishment in life.**
 
-
-next chant \> [Bhojana-dānānumodanā](https://docs.google.com/document/d/1amk8x8220lTo3RsXYBr09waNd2Rii844vSOQxhZ1hko/)
+[← previous chant](per-42-yatha-vari-vaha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-44-bhojana-dananumodana.md)

@@ -7,6 +7,7 @@ Dasadhammā pabbajita-abhiṇha-paccavekkhaṇā
 [AN 10.48]
 dasa ime bhikkhave dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā. katame dasa?
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dasa | adj | masc.nom.pl | ten |
 | ime | pron | masc.nom.pl | these |
@@ -22,6 +23,7 @@ dasa ime bhikkhave dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā. katame da
 
 vevaṇṇiy-amhi ajjhupagato'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vevaṇṇiya- | adj | state of having no caste, who change | appearance, social order; lit. discoloured |
 | amhi | verb | pr.1.sg | I am |
@@ -31,6 +33,7 @@ vevaṇṇiy-amhi ajjhupagato'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
 
 para-paṭibaddhā me jīvikā'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | para- | adj |  | other, another |
 | paṭibaddhā | adj | fem.nom.sg | dependent on, connected to, tied up with supported by |
@@ -41,6 +44,7 @@ para-paṭibaddhā me jīvikā'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
 
 añño me ākappo karaṇīyo'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | añño | adj | masc.nom.sg | another, other, different |
 | me | pron | 1.gen.sg | my |
@@ -51,6 +55,7 @@ añño me ākappo karaṇīyo'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
 
 kacci nu kho me attā sīlato na upavadatī'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kacci | ind |  | I hope, I trust, I doubt, I suspect, I wonder |
 | nu kho | ind |  | does? is? would? |
@@ -64,6 +69,7 @@ kacci nu kho me attā sīlato na upavadatī'ti, pabbajitena abhiṇhaṃ paccave
 
 kacci nu kho maṃ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kacci | ind |  | I hope, I trust, I doubt, I suspect, I wonder |
 | nu kho | ind |  | does? is? would? |
@@ -88,6 +94,7 @@ yaṃ kammaṃ karissāmi - kalyāṇaṃ vā pāpakaṃ vā - tassa dāyādo bh
 
 kathaṃ-bhūtassa me rattin'divā vītivattantī'ti;
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kathaṃbhūtassa | adj | masc.gen.sg | of how? of what kind? what way? lit. how become? |
 | me | pron | 1.gen.sg | my |
@@ -98,6 +105,7 @@ kathaṃ-bhūtassa me rattin'divā vītivattantī'ti;
 
 kacci nu kho'haṃ suññ'āgāre abhiramāmī'ti,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kacci | ind |  | I hope, I trust, I doubt, I suspect, I wonder |
 | nu kho | ind |  | does? is? would? |
@@ -110,6 +118,7 @@ kacci nu kho'haṃ suññ'āgāre abhiramāmī'ti,
 
 atthi nu kho me uttari-manussa-dhammā alam'ariya-ñāṇa-dassana-viseso adhigato, so'haṃ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | atthi | verb | pr.3.sg | there is |
 | nu kho | ind |  | does? is? would? |
@@ -138,5 +147,4 @@ ime kho bhikkhave dasa dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā' ti
 
 **o monks, these is ten principles should often be reflected by a one who has gone forth.**
 
-
-next chant \> [The Thirty-Two Parts](https://docs.google.com/document/d/193i-Z1sEgIkPK9YkBvn-TSMI7b-8QQIsbXqkN_cgZ2g/)
+[← previous chant](per-35-five-subjects-for-frequent-recollection.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-37-the-thirty-two-parts.md)

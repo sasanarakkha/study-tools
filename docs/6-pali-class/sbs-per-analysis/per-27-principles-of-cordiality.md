@@ -7,6 +7,7 @@ Cha sāraṇīya-dhammā
 [MN 48]
 ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ekaṃ samayaṃ | idioṃ |  | at one time, on one occasion |
 | bhagavā | noun | masc.nom.sg | the Sublime One, Blessed One, Fortunate One Buddha |
@@ -19,6 +20,7 @@ ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme
 
 chayime bhikkhave dhammā sāraṇīyā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | cha- | card |  | six (6) |
 | ime | pron | masc.nom.pl | these |
@@ -29,6 +31,7 @@ chayime bhikkhave dhammā sāraṇīyā
 
 piya-karaṇā garu-karaṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | piya- | noun |  | love, friendship |
 | karaṇā | adj | masc.nom.pl | doing, making, causing, effecting |
@@ -48,6 +51,7 @@ katame cha?
 
 idha bhikkhave bhikkhuno mettaṃ kāyakammaṃ vacīkammaṃ manokammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi c'eva raho ca
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mettaṃ | adj | nt.acc.sg | friendly, benevolent, kind |
 | kāyakammaṃ | noun | nt.acc.sg | physical action, bodily action |
@@ -65,6 +69,7 @@ idha bhikkhave bhikkhuno mettaṃ kāyakammaṃ vacīkammaṃ manokammaṃ paccu
 
 bhikkhu ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi, tathārūpehi lābhehi appaṭivibhattabhogī hoti sīlavantehi sabrahmacārīhi sādhāraṇabhogī.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhikkhu | noun | masc.nom.sg | monk |
 | ye | pron | masc.acc.pl | whatever |
@@ -90,6 +95,7 @@ bhikkhu ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi
 
 bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni tathārūpesu sīlesu sīlasāmaññagato viharati sabrahmacārīsu āvi ceva raho ca.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhikkhu | noun | masc.nom.sg | monk |
 | yāni | pron | nt.acc.pl | whatever |
@@ -116,6 +122,7 @@ bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni 
 
 bhikkhu yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīsu āvi ceva raho ca
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhikkhu | noun | masc.nom.sg | monk |
 | yā + ayaṃ | pron | fem.nom.sg | that which, whatever, whichever |
@@ -143,6 +150,7 @@ ime kho bhikkhave cha sāraṇīyā dhammā piyakaraṇā garukaraṇā saṅgah
 
 ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ime | pron | masc.nom.pl | these |
 | ce | ind |  | if |
@@ -156,6 +164,7 @@ ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha,
 
 passatha no tumhe taṃ vacana-pathaṃ aṇuṃ vā thūlaṃ vā yaṃ tumhe n'ādhivāseyyāthā'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | passatha | verb | pr.2.pl | you see |
 | no | ind | interr | ? (integration) |
@@ -173,6 +182,7 @@ passatha no tumhe taṃ vacana-pathaṃ aṇuṃ vā thūlaṃ vā yaṃ tumhe n
 
 no h'etaṃ bhante
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | no | ind |  | not |
 | hi- | ind |  | indeed, certainly, truly, definitely |
@@ -182,6 +192,7 @@ no h'etaṃ bhante
 
 tasmā't'iha ime cha sāraṇīyesāra dhamme samādāya vattatha
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasmā't'iha | ind |  | therefore here |
 | vattatha | verb | imp.2.sg | you must proceed, continue, go forward, practice |
@@ -190,6 +201,7 @@ tasmā't'iha ime cha sāraṇīyesāra dhamme samādāya vattatha
 
 taṃ vo bhavissati dīgharattaṃ hitāya sukhāyā'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | taṃ | pron | nt.nom.sg | that |
 | vo | pron | 2.gen.pl | your |
@@ -199,5 +211,4 @@ taṃ vo bhavissati dīgharattaṃ hitāya sukhāyā'ti
 
 **That is for your welfare and happiness for a long time**
 
-
-next chant \> [Principles of Non-Decline](https://docs.google.com/document/d/1hx5Bltz4dm6VrAZeqB-8Rf9oz139BocrWriPtjsm5i0/)
+[← previous chant](per-26-the-four-great-references.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-28-principles-of-non-decline.md)

@@ -7,6 +7,7 @@ Saṅkhitta-dhamma
 [AN 8.53]
 mahāpajāpatī gotamī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhitā kho sā mahāpajāpatī gotamī bhagavantaṃ etadavoca
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mahāpajāpatī | noun | fem.nom.sg | Mahāpajāpatī |
 | gotamī | noun | fem.nom.sg | Gotamī |
@@ -30,6 +31,7 @@ mahāpajāpatī gotamī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavan
 
 sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato dhammaṃ sutvā ekā vūpakaṭṭhā appamattā ātāpinī pahitattā vihareyyan”ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sādhu | ind |  | it is good |
 | me | pron | 1.dat.sg | for me |
@@ -55,6 +57,7 @@ sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato 
 
 ye ca kho tvaṃ, gotamī, dhamme jāneyyāsi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.acc.pl | whichever, whatever |
 | ca | ind |  | but, and |
@@ -68,6 +71,7 @@ ye ca kho tvaṃ, gotamī, dhamme jāneyyāsi
 
 ime dhammā virāgāya saṃvattanti, no sarāgāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ime | pron | masc.nom.pl | these, they |
 | dhammā | noun | masc.nom.pl | qualities |
@@ -80,6 +84,7 @@ ime dhammā virāgāya saṃvattanti, no sarāgāya
 
 visaṃyogāya saṃvattanti, no saṃyogāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | visaṃyogāya | noun | masc.dat.sg | to detachment, separation, unconstraint |
 | saṃvattanti | verb | pr.3.pl | they are lead (to) |
@@ -90,6 +95,7 @@ visaṃyogāya saṃvattanti, no saṃyogāya
 
 apacayāya saṃvattanti, no ācayāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | apacayāya | noun | masc.dat.sg | to decrease, reduction, dismantling |
 | saṃvattanti | verb | pr.3.pl | they are lead (to) |
@@ -100,6 +106,7 @@ apacayāya saṃvattanti, no ācayāya
 
 appicchatāya saṃvattanti, no mahicchatāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | appicchatāya | noun | fem.dat.sg | to contentment, being satisfied with little; lit. fewness of desires |
 | saṃvattanti | verb | pr.3.pl | they are lead (to) |
@@ -110,6 +117,7 @@ appicchatāya saṃvattanti, no mahicchatāya
 
 santuṭṭhiyā saṃvattanti, no asantuṭṭhiyā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | santuṭṭhiyā | noun | fem.dat.sg | to satisfaction, contentment |
 | saṃvattanti | verb | pr.3.pl | are lead (to) |
@@ -120,6 +128,7 @@ santuṭṭhiyā saṃvattanti, no asantuṭṭhiyā
 
 pavivekāya saṃvattanti, no saṅgaṇikāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | pavivekāya | noun | masc.dat.sg | to retirement, solitude, seclusion |
 | saṃvattanti | verb | pr.3.pl | are lead (to) |
@@ -130,6 +139,7 @@ pavivekāya saṃvattanti, no saṅgaṇikāya
 
 vīriyārambhāya saṃvattanti, no kosajjāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vīriyārambhāya | noun | masc.dat.sg | to arousing of energy, making an effort |
 | saṃvattanti | verb | pr.3.pl | are lead (to) |
@@ -140,6 +150,7 @@ vīriyārambhāya saṃvattanti, no kosajjāya
 
 subharatāya saṃvattanti, no dubbharatāyā'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | subharatāya | noun | masc.dat.sg | to being easy to support |
 | saṃvattanti | verb | pr.3.pl | are lead (to) |
@@ -151,6 +162,7 @@ subharatāya saṃvattanti, no dubbharatāyā'ti
 
 ekaṃsena, gotami, dhāreyyāsi — eso dhammo, eso vinayo, etaṃ satthusāsanan'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ekaṃsena, | ind |  | certainly, absolutely, definitely |
 | gotami | noun | masc.voc.sg | o Gotami |
@@ -164,5 +176,4 @@ ekaṃsena, gotami, dhāreyyāsi — eso dhammo, eso vinayo, etaṃ satthusāsan
 
 **Gotami, you should definitely remember: this is the Teaching, this is the Discipline, this is the Teacher's instruction.**
 
-
-next chant \> [The Four Great References](https://docs.google.com/document/d/1nNkWqfwM9bEZ-6SHqobisIPHIcMWqB08GbY62nxpugU/)
+[← previous chant](per-24-dependent-origination.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-26-the-four-great-references.md)

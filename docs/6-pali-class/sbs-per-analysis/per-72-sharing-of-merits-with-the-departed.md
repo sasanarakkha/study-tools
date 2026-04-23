@@ -11,6 +11,7 @@ idaṃ me ñātinaṃ hotu sukhitā hontu ñātayo
 idaṃ no ñātinaṃ hotu sukhitā hontu ñātayo
 idaṃ vo ñātinaṃ hotu sukhitā hontu ñātayo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | idaṃ | noun | nt.nom.sg | this, this thing |
 | me | pron | 1.gen.sg | my |
@@ -28,7 +29,4 @@ may this (merit) be for our relatives, happy may the relatives be.**
 
 may this (merit) be for your relatives, happy may the relatives be.
 
-
-next chant \> [Sharing of Merits with the Devas](https://docs.google.com/document/d/1FEvRHPJWVAiMP94NSH6vKhyzSOb_EOX4Je1A-_Vg17c/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-71-sharing-of-all-merits.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-73-sharing-of-merits-with-the-devas.md)

@@ -8,6 +8,7 @@ Uddissanādhiṭṭhānā
 
 iminā puñña-kammena upajjhāyā guṇ'uttarā,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [trad] |  |  |  |
 | iminā | pron | nt.ins.sg | by this |
@@ -20,6 +21,7 @@ iminā puñña-kammena upajjhāyā guṇ'uttarā,
 
 ācariy'ūpakārā ca mātāpitā ca ñātakā,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ācariya- | noun |  | teacher |
 | upakārā | adj | masc.nom.pl | helpful, useful, beneficial, supportive |
@@ -32,6 +34,7 @@ iminā puñña-kammena upajjhāyā guṇ'uttarā,
 
 suriyo candimā rājā, guṇavantā narā'pi ca,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | suriyo | noun | masc.nom.sg | the Sun |
 | candimā | noun | masc.nom.sg | the Moon |
@@ -45,6 +48,7 @@ suriyo candimā rājā, guṇavantā narā'pi ca,
 
 brahma-mārā ca indā ca loka-pālā ca devatā,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | brahmā- | noun | masc.nom.pl | Gods, Brahmās |
 | mārā | noun | masc.nom.pl | Maras, evil ones |
@@ -59,6 +63,7 @@ brahma-mārā ca indā ca loka-pālā ca devatā,
 
 yamo, mittā manussā ca majjhattā verikā'pi ca,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yamo | noun | masc.nom.sg | ruler of the underworld, king of death, Yama |
 | mittā | adj | masc.nom.pl | friendly |
@@ -73,6 +78,7 @@ yamo, mittā manussā ca majjhattā verikā'pi ca,
 
 sabbe sattā sukhī hontu. puññāni pakatāni me
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | adj | masc.nom.pl | all, every, whole, entire, complete |
 | sattā | noun | masc.nom.pl | being, living being |
@@ -86,6 +92,7 @@ sabbe sattā sukhī hontu. puññāni pakatāni me
 
 sukhañ'ca tividhaṃ dentu. khippaṃ pāpetha vo'mataṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sukhañ'ca | noun | nt.acc.sg | and ease, comfort, happiness, pleasure |
 | tividhaṃ | ind | adv | in three ways; in a threefold way. |
@@ -99,6 +106,7 @@ sukhañ'ca tividhaṃ dentu. khippaṃ pāpetha vo'mataṃ.
 
 iminā puñña-kammena, iminā uddissena ca
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | iminā | pron | nt.ins.sg | by this |
 | puñña-kammena | noun | nt.ins.sg | by meritorious action, good deed |
@@ -110,6 +118,7 @@ iminā puñña-kammena, iminā uddissena ca
 
 khipp'āhaṃ sulabhe c'eva taṇh'ūpādāna-chedanaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | khippaṃ- | ind |  | quickly, rapidly |
 | ahaṃ | pron | 1.nom.sg | I |
@@ -123,6 +132,7 @@ khipp'āhaṃ sulabhe c'eva taṇh'ūpādāna-chedanaṃ.
 
 ye santāne hīnā dhammā, yāva nibbānato mamaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whoever, whatever, whichever, those who |
 | santāne | noun | nt.loc.sg | in continuity, continuance, continuum |
@@ -136,6 +146,7 @@ ye santāne hīnā dhammā, yāva nibbānato mamaṃ
 
 nassantu sabbadā yeva. yattha jāto bhave bhave
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | nassantu | verb | imp.3.pl | may perish, end, get lost, be destroyed |
 | sabbadā | ind |  | always, at all times |
@@ -149,6 +160,7 @@ nassantu sabbadā yeva. yattha jāto bhave bhave
 
 uju-citto sati-pañño sallekho viriyavā'minā. (?viriyamhinā)
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | uju- | adj |  | straight, upright |
 | citto | adj | masc.nom.sg | with mind, heart |
@@ -162,6 +174,7 @@ uju-citto sati-pañño sallekho viriyavā'minā. (?viriyamhinā)
 
 mārā labhantu n'okāsaṃ kātuñ'ca viriyesu me.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mārā | noun | masc.nom.pl | Maras, evil ones |
 | labhantu | verb | imp.3.pl | may they get, receive, obtain |
@@ -175,6 +188,7 @@ mārā labhantu n'okāsaṃ kātuñ'ca viriyesu me.
 
 buddh'ādhipa-varo nātho, dhammo nātho var'uttamo.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | buddha- | noun |  | the Buddha, Awakened One |
 | adhipa- | noun |  | lord, master, ruler |
@@ -189,6 +203,7 @@ buddh'ādhipa-varo nātho, dhammo nātho var'uttamo.
 
 nātho paccekabuddho ca saṅgho nāth'ottaro mamaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | nātho | noun | masc.nom.sg | protector, lord, refuge |
 | paccekabuddho | noun | masc.nom.sg | Solitary Buddha |
@@ -202,6 +217,7 @@ nātho paccekabuddho ca saṅgho nāth'ottaro mamaṃ.
 
 tes'ottam'ānubhāvena mār'okāsaṃ labhantu mā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tesaṃ- | pron | masc.gen.pl | of them |
 | uttama- | adj |  | best, highest, ultimate, supreme, top |
@@ -213,7 +229,4 @@ tes'ottam'ānubhāvena mār'okāsaṃ labhantu mā.
 
 **By their supreme power may Maras do not get a chance (to obstruct me)!**
 
-
-next chant \> [Sharing of All Merits](https://docs.google.com/document/d/1tXjzVuW0ezuEqgUEQnmoil1-RNYMBFGajjwrtB5LKi8/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-69-pamsu-kula.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-71-sharing-of-all-merits.md)

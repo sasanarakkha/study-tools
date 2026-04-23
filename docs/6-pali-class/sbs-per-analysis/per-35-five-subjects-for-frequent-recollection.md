@@ -7,6 +7,7 @@ Pañca-abhiṇha-paccavekkhaṇā
 [AN 5.57]
 jarā-dhammo'mhi jaraṃ anatīto
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | jarā- | noun | fem | decay; old age |
 | dhammo- | noun | masc.nom.sg | nature |
@@ -18,6 +19,7 @@ jarā-dhammo'mhi jaraṃ anatīto
 
 byādhi-dhammo'mhi byādhiṃ anatīto
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | byādhi- | noun | nt | sickness, disease |
 | dhammo- | noun | masc.nom.sg | nature |
@@ -29,6 +31,7 @@ byādhi-dhammo'mhi byādhiṃ anatīto
 
 maraṇa-dhammo'mhi maraṇaṃ anatīto
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | maraṇa- | noun | nt | death |
 | dhammo- | noun | masc.nom.sg | nature |
@@ -40,6 +43,7 @@ maraṇa-dhammo'mhi maraṇaṃ anatīto
 
 sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbehi | adj | masc.abl.pl | from all; every |
 | me | pron | 1.dat.sg | to me |
@@ -53,6 +57,7 @@ sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 kamma-s'sako'mhi kamma-dāyādo kamma-yoni kamma-bandhu kamma-paṭisaraṇo.
 yaṃ kammaṃ karissāmi - kalyāṇaṃ vā pāpakaṃ vā - tassa dāyādo bhavissāmi.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kamma- | noun |  | action, deed, work |
 | sako- | noun | masc.nom.sg | one's own (property, possessions, etc) |
@@ -80,6 +85,7 @@ yaṃ kammaṃ karissāmi - kalyāṇaṃ vā pāpakaṃ vā - tassa dāyādo bh
 
 evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃ | ind |  | thus |
 | amhehi | pron | 1.ins.pl | by us |
@@ -88,5 +94,4 @@ evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
 
 **thus by us repeatedly should be contemplated.**
 
-
-next chant \> [Ten Subjects for Frequent Recollection by One Who Has Gone Forth](https://docs.google.com/document/d/1-6yapQqB0s7WdX7GijzXCeni5QmPhp4Xd7lVqovaNcA/)
+[← previous chant](per-34-the-divine-abidings.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-36-ten-subjects-for-frequent-recollection-by-one-who-has-gone-forth.md)

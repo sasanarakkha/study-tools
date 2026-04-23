@@ -8,6 +8,7 @@ Ti-lakkhaṇā
 sabbe saṅkhārā aniccā'ti, yadā paññāya passati. 
 atha nibbindati dukkhe, esa maggo visuddhiyā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | adj | masc.nom.pl | all; every; whole; entire |
 | saṅkhārā | noun | masc.nom.pl | conditioned things, constructions, fabrications formations |
@@ -19,6 +20,7 @@ atha nibbindati dukkhe, esa maggo visuddhiyā.
 
 **all conditioned things are impermanent' - when he sees it with understanding**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | atha | ind | adv | then; and also |
 | nibbindati | verb | pr.3.sg | gets wearied of; is disgusted with |
@@ -34,6 +36,7 @@ atha nibbindati dukkhe, esa maggo visuddhiyā.
 sabbe saṅkhārā dukkhā'ti, yadā paññāya passati. 
 atha nibbindati dukkhe, esa maggo visuddhiyā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | adj | masc.nom.pl | all; every; whole; entire |
 | saṅkhārā | noun | masc.nom.pl | conditioned things, constructions, fabrications formations |
@@ -46,6 +49,7 @@ then he becomes disgusted with misery, this is the path to purity.**
 sabbe dhammā anattā'ti, yadā paññāya passati. 
 atha nibbindati dukkhe, esa maggo visuddhiyā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | adj | masc.nom.pl | all; every; whole; entire |
 | dhammā | noun | masc.nom.pl | things, mental phenomena |
@@ -58,6 +62,7 @@ then he becomes disgusted with misery, this is the path to purity**
 appakā te manussesu – ye janā pāra-gāmino 
 athāyaṃ itarā pajā – tīram-evānudhāvati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | appakā | noun | masc.nom.pl | few things, few people, small amount |
 | te | pron | masc.nom.pl | they, those |
@@ -79,6 +84,7 @@ athāyaṃ itarā pajā – tīram-evānudhāvati
 ye ca kho sammad-akkhāte – dhamme dhammānuvattino 
 te janā pāram-essanti – maccu-dheyyaṃ sud'uttaraṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | those who, whoever |
 | ca | ind |  | and |
@@ -99,6 +105,7 @@ te janā pāram-essanti – maccu-dheyyaṃ sud'uttaraṃ
 kaṇhaṃ dhammaṃ vippahāya – sukkaṃ bhāvetha paṇḍito 
 okā anokam-āgamma – viveke yattha dūramaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kaṇhaṃ | adj | masc.acc.sg | dark, black, evil |
 | dhammaṃ | noun | masc.acc.sg | state of mind |
@@ -118,6 +125,7 @@ okā anokam-āgamma – viveke yattha dūramaṃ
 [Dhp 88]
 tatr'ābhiratim'iccheyya – hitvā kāme akiñcano
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tatra- | ind |  | there, in that place |
 | abhiratim- | noun | fem.acc.sg | pleasure, delight, contentment, happiness |
@@ -128,5 +136,4 @@ tatr'ābhiratim'iccheyya – hitvā kāme akiñcano
 
 **One who has nothing should wish for delight there, having abandoned sensual pleasures.**
 
-
-next chant \> [The Burdens](https://docs.google.com/document/d/1vA6BoYgbZI-aZmrl6ycQYn3OA7V15C1FxuskJ99KvqA/)
+[← previous chant](per-10-the-patimokkha-exhortation.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-12-the-burdens.md)

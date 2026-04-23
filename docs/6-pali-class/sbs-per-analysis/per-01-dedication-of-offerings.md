@@ -4,6 +4,7 @@
 
 yo so bhagavā arahaṃ sammāsambuddho
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | which, that which, who, one who |
 | so | pron | masc.nom.sg | he |
@@ -16,6 +17,7 @@ yo so bhagavā arahaṃ sammāsambuddho
 
 svākkhāto yena bhagavatā dhammo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | svākkhāto | adj | masc.nom.sg | well taught, well explained |
 | yena | pron | masc.ins.sg | by whom (which, that which, who, one who) |
@@ -26,6 +28,7 @@ svākkhāto yena bhagavatā dhammo
 
 supaṭipanno yassa bhagavato sāvakasaṅgho
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | supaṭipanno | adj | masc.nom.sg | going the right way, practiced well |
 | yassa | pron | masc.gen.sg | of which, whose (that which, who, one who) |
@@ -37,6 +40,7 @@ supaṭipanno yassa bhagavato sāvakasaṅgho
 
 tam'mayaṃ bhagavantaṃ sadhammaṃ sasaṅghaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | taṃ- | pron | masc.acc.sg | that |
 | mayaṃ | pron | 1.nom. | we |
@@ -50,6 +54,7 @@ tam'mayaṃ bhagavantaṃ sadhammaṃ sasaṅghaṃ
 
 imehi sakkārehi yathārahaṃ āropitehi abhipūjayāma
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | imehi | pron | masc.ins.pl | with/by these |
 | sakkārehi | noun | masc.ins.pl | with/by honour, accolade, respect, offerings |
@@ -63,6 +68,7 @@ we highly worship by these hallowed honour, as is suitable**
 
 sādhu no bhante bhagavā sucira-parinibbuto'pi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sādhu | ind |  | it is good, would be good, please |
 | no | pron | 1.dat.pl | for us |
@@ -76,6 +82,7 @@ sādhu no bhante bhagavā sucira-parinibbuto'pi
 (or)
 o lord! it is good for us, even though the Blessed One eventually became completely extinguished,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | pacchimā-janatānukampa-mānasā |  |  |  |
 | pacchimā- | adj |  | latest , later |
@@ -87,6 +94,7 @@ o lord! it is good for us, even though the Blessed One eventually became complet
 
 ime sakkāre duggata-paṇṇākāra-bhūte paṭiggaṇhātu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ime | pron | masc.acc.pl | these |
 | sakkāre | noun | masc.acc.pl | honour, accolade, respect, offerings |
@@ -101,6 +109,7 @@ may he accept this humble act of veneration that have come to be as a gift**
 
 amhākaṃ dīgharattaṃ hitāya sukhāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | amhākaṃ | pron | 1.gen.pl | of us, ours |
 | dīgharattaṃ | ind | adv | for a long time, a long time |
@@ -111,6 +120,7 @@ amhākaṃ dīgharattaṃ hitāya sukhāya
 
 arahaṃ sammāsambuddho bhagavā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | arahaṃ | noun | masc.nom.sg | enlightened being, 4th stage of the path, lit. worthy one |
 | sammā- | ind | adv. | completely, thoroughly, fully, totally perfectly, rightly, correctly |
@@ -121,6 +131,7 @@ arahaṃ sammāsambuddho bhagavā
 
 buddhaṃ bhagavantaṃ abhivādemi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | buddhaṃ | noun | masc.acc.sg | the Buddha |
 | bhagavantaṃ | noun | masc.acc.sg | the Blessed One |
@@ -130,6 +141,7 @@ buddhaṃ bhagavantaṃ abhivādemi
 
 svākkhāto bhagavatā dhammo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | svākkhāto | pp as adj | masc.nom.sg | well taught, well explained |
 | bhagavatā | noun | masc.ins.sg | by the Sublime One, Blessed One, fortunate one, the Buddha |
@@ -139,6 +151,7 @@ svākkhāto bhagavatā dhammo
 
 dhammaṃ namassāmi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dhammaṃ | noun | masc.acc.sg | the Teaching, Doctrine |
 | namassāmi | verb | pr.1.sg | I worship, venerate, honour, pay homage |
@@ -147,6 +160,7 @@ dhammaṃ namassāmi
 
 supaṭipanno bhagavato sāvakasaṅgho
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | supaṭipanno | adj | masc.nom.sg | going the right way, practiced well |
 | bhagavato | noun | masc.gen.sg | of Sublime One, Blessed One, fortunate one, the Buddha |
@@ -157,13 +171,11 @@ supaṭipanno bhagavato sāvakasaṅgho
 
 saṅghaṃ namāmi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saṅghaṃ | noun | masc.acc.sg | Community, assembly |
 | namāmi | verb | pr.1.sg | I bend, bow down |
 
 **I bow down to the Community**
 
-
-next chant \> [Preliminary Homage](https://docs.google.com/document/d/1qs2YbSMxL9-JWrfmiHiQvrI8uXDLGWxtN_GuON9QNHI/)
-
-[table of content](../sbs-per-analysis.md)
+[index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-02-preliminary-homage.md)

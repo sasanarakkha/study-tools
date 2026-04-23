@@ -4,6 +4,7 @@
 
 mahā-kāruṇiko nātho hitāya sabba-pāṇinaṃ, pūretvā pāramī sabbā, patto sambodhim'uttamaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [MJG] |  |  |  |
 | mahā- | adj |  | great, large, powerful, grand, vast, extensive |
@@ -23,6 +24,7 @@ mahā-kāruṇiko nātho hitāya sabba-pāṇinaṃ, pūretvā pāramī sabbā, 
 
 etena sacca-vajjena hotu te jaya-maṅgalaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | etena | pron | masc.ins.sg | by this |
 | sacca- | noun |  | truth |
@@ -36,6 +38,7 @@ etena sacca-vajjena hotu te jaya-maṅgalaṃ
 
 jayanto bodhiyā mūle, sakyānaṃ nandi-vaḍḍhano. evaṃ tvaṃ vijayo hohi, jayassu jaya-maṅgale.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | jayanto | prp | masc.nom.sg | conquering; surpassing, victorious |
 | bodhiyā | noun | fem.gen.sg | of the tree of wisdom, the sacred Bo tree |
@@ -55,6 +58,7 @@ jayanto bodhiyā mūle, sakyānaṃ nandi-vaḍḍhano. evaṃ tvaṃ vijayo hoh
 
 aparājita-pallaṅke, sīse paṭhavi-pokkhare, abhiseke sabba-buddhānaṃ, aggappatto pamodati.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aparājita- | adj |  | unconquered, undefeated, victorious, triumphant |
 | pallaṅke | noun | masc.loc.sg | in cross-legged sitting position |
@@ -73,6 +77,7 @@ aparājita-pallaṅke, sīse paṭhavi-pokkhare, abhiseke sabba-buddhānaṃ, ag
 [AN 3.156]
 sunakkhattaṃ sumaṅgalaṃ, supabhātaṃ suvuṭṭhitaṃ. sukhaṇo sumuhutto ca, suyiṭṭhaṃ brahmacārisu.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sunakkhattaṃ | noun | nt.nom.sg | auspicious occasion |
 | sumaṅgalaṃ | adj | nt.nom.sg | very auspicious, propitious, beneficial |
@@ -88,6 +93,7 @@ sunakkhattaṃ sumaṅgalaṃ, supabhātaṃ suvuṭṭhitaṃ. sukhaṇo sumuhu
 
 padakkhiṇaṃ kāya-kammaṃ, vācā-kammaṃ padakkhiṇaṃ, padakkhiṇaṃ mano-kammaṃ paṇīdhi te padakkhiṇe. padakkhiṇāni katvāna, labhant'atthe padakkhiṇe.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | padakkhiṇaṃ | adj | nt.nom.sg | lucky auspicious, turning out well or favourable |
 | kāya-kammaṃ | noun | nt.nom.sg | bodily action |
@@ -106,7 +112,4 @@ padakkhiṇaṃ kāya-kammaṃ, vācā-kammaṃ padakkhiṇaṃ, padakkhiṇaṃ
 
 **Auspicious is bodily action, verbal action is auspicious, auspicious is mental action, (when have) auspicious intention. Having done the auspicious they get auspicious benefits.**
 
-
-next chant \> [Bhavatu-sabba-maṅgalaṃ](https://docs.google.com/document/d/1DS0c0ep8vLOUg1yUF0wVuWEZQpXe8WpkpHpQE2Jmb6I/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-62-jaya-mangala-attha-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-64-bhavatu-sabba-mangalam.md)

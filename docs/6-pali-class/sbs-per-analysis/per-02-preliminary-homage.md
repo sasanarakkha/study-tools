@@ -4,6 +4,7 @@
 
 handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | handa | ind |  | well then; now |
 | mayaṃ | pron | 1.nom.pl | we |
@@ -21,6 +22,7 @@ handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase
 
 namo tassa bhagavato arahato sammāsambuddhassa
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | namo | ind |  | reverence to, veneration, homage |
 | tassa | pron | masc.dat.sg | to him |
@@ -31,7 +33,4 @@ namo tassa bhagavato arahato sammāsambuddhassa
 
 **homage to him, to the Blessed One, the worthy one, perfectly awakened one**
 
-
-next chant \> [Homage to the Buddha](https://docs.google.com/document/d/1G0cf4f_yaFlyAOfrPMnQAmtwpT2rzkHN48DwTomih0U/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-01-dedication-of-offerings.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-03-homage-to-the-buddha.md)

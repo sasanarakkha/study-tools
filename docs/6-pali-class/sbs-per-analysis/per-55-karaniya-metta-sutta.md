@@ -4,6 +4,7 @@
 
 [SNP 8]
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | karaṇīyam-attha-kusalena |  |  |  |
 
@@ -12,6 +13,7 @@
 sakko ujū ca suhujū ca,
 suvaco c'assa mudu, anatimānī
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | karaṇīyaṃ | ptp | nt.nom.sg | should be done, must be done, ought to be made |
 | attha- | noun |  | goal, profit, good, welfare, benefit |
@@ -24,6 +26,7 @@ suvaco c'assa mudu, anatimānī
 
 **this is to be done by one skilled in benefit, who realizing that state which is peaceful**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sakko | adj | masc.nom.sg | able, capable |
 | ujū | adj | masc.nom.sg | straight; upright, honest |
@@ -42,6 +45,7 @@ appakicco ca sallahuka-vutti,
 sant-indriyo ca nipako ca,
 appagabbho kulesu ananugiddho.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | santussako | adj | masc.nom.sg | content; glad |
 | ca | ind |  | and |
@@ -53,6 +57,7 @@ appagabbho kulesu ananugiddho.
 
 **(he should be) content and easy to support, with few duties, with frugal way of living,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sant-indriyo | adj | masc.nom.sg | calm; at peace; lit. with calm faculties |
 | ca | ind |  | and |
@@ -69,6 +74,7 @@ yena viññū pare upavadeyyuṃ.
 sukhino vā khemino hontu,
 sabbe sattā bhavantu sukhit-attā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | ind | neg | not |
 | ca | ind |  | and; as well as, but |
@@ -78,6 +84,7 @@ sabbe sattā bhavantu sukhit-attā
 
 **he should not do anything (even) slight,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yena | ind | adv | by which, because of which |
 | viññū | noun | masc.nom.pl | wise people |
@@ -86,6 +93,7 @@ sabbe sattā bhavantu sukhit-attā
 
 **because of which wise people might criticize others**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sukhino | adj | masc.nom.pl | (has ease) happy, at ease |
 | vā | ind |  | or, and |
@@ -94,6 +102,7 @@ sabbe sattā bhavantu sukhit-attā
 
 **may they be happy and secure,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | pron | masc.nom.pl | all, every |
 | sattā | noun | masc.nom.pl | a living being, creature |
@@ -107,6 +116,7 @@ tasā vā thāvarā vā anavasesā,
 dīghā vā ye mahantā vā,
 majjhimā rassak-āṇuka-thūlā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | that which, whatever |
 | keci | pron | masc.nom.pl | whoever, whatever, someone, whichever |
@@ -116,6 +126,7 @@ majjhimā rassak-āṇuka-thūlā.
 
 **whatever living beings there are**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasā | adj | masc.nom.pl | movable or trembling |
 | vā |  | ind | or |
@@ -125,6 +136,7 @@ majjhimā rassak-āṇuka-thūlā.
 
 **whether movable or immobile (trembling or strong), without exception,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dīghā | adj | masc.nom.pl | long, tall |
 | vā |  | ind | or |
@@ -134,6 +146,7 @@ majjhimā rassak-āṇuka-thūlā.
 
 **those that are long or those that are large**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | majjhimā | adj | masc.nom.pl | middle; medium, middling |
 | rassaka- | adj |  | short |
@@ -147,6 +160,7 @@ ye сa dūre vasanti avidūre
 bhūtā vā sambhavesī vā,
 sabbe sattā bhavantu sukhit-attā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | diṭṭhā | pp | masc.nom.pl | that which is seen |
 | vā | ind |  | or |
@@ -155,6 +169,7 @@ sabbe sattā bhavantu sukhit-attā.
 
 **whether they are seen or unseen,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whatever, whoever , that which |
 | сa | ind |  | and |
@@ -164,6 +179,7 @@ sabbe sattā bhavantu sukhit-attā.
 
 **whether they dwell far or near,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhūtā | pp | masc.nom.pl | become; born, produced; existed |
 | vā |  | ind | or |
@@ -183,6 +199,7 @@ n'ātimaññetha katthaci naṃ kañci
 byārosanā, paṭigha-saññā,
 nāññam-aññassa dukkham-iccheyya.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | ind |  | not |
 | paro | noun | masc.nom.sg | other, another (person) |
@@ -191,6 +208,7 @@ nāññam-aññassa dukkham-iccheyya.
 
 **one another should not deceive**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na-atimaññetha | verb | opt.3.sg refl | should not despise, scorn, look down (on), have contempt (for), condescending (about); lit. should not think too much |
 | katthaci | adv |  | somewhere, anywhere |
@@ -199,6 +217,7 @@ nāññam-aññassa dukkham-iccheyya.
 
 **one should not look down on anyone anywhere**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | byārosanā | noun | fem.nom.sg | making angry, causing anger, being angry |
 | paṭigha- | noun |  | anger; repulsion; collision, conflict |
@@ -206,6 +225,7 @@ nāññam-aññassa dukkham-iccheyya.
 
 **(throught) causing anger (or) idea of repulsion**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na- | ind |  | not |
 | aññaṃ-aññassa | adj | masc.dat.sg | lit. one to another |
@@ -219,6 +239,7 @@ mātā yathā niyaṃ puttaṃ
 evam'pi sabba-bhūtesu,
 mānasam-bhāvaye aparimāṇaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mātā | noun | fem.nom.sg | mother |
 | yathā | ind | adv | just like a |
@@ -231,6 +252,7 @@ mānasam-bhāvaye aparimāṇaṃ.
 
 **just like a mother with (her) life could protect her son, her only son**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evam- | ind |  | thus, this, like this, just as, such |
 | pi | ind |  | even, just so, also |
@@ -239,6 +261,7 @@ mānasam-bhāvaye aparimāṇaṃ.
 
 **just like this toward all living beings**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mānasaṃ- | noun | nt.acc.sg | mind; intention, mental action |
 | bhāvaye | verb | opt.3.sg | could cultivate, should develop |
@@ -251,6 +274,7 @@ mānasam-bhāvaye aparimāṇaṃ;
 uddhaṃ adho ca tiriyañ'ca,
 asambādhaṃ, averaṃ, asapattaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mettaṃ- | adj | nt.acc.sg | friendly; benevolent; kind |
 | ca | ind |  | and |
@@ -261,6 +285,7 @@ asambādhaṃ, averaṃ, asapattaṃ.
 
 **one should develop mind without limits and friendly toward the whole world**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | uddhaṃ | ind | adv | above, up, on top |
 | adho | ind | adv | below, under |
@@ -270,6 +295,7 @@ asambādhaṃ, averaṃ, asapattaṃ.
 
 **above, below, and across**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | asambādhaṃ, | adj | nt.nom.sg | unobstructed, unhindered, unconfined |
 | averaṃ | adj | nt.nom.sg | peaceable, mild, friendly, without enmity |
@@ -282,6 +308,7 @@ sayāno vā, yāvat-assa vigata-middho,
 etaṃ satiṃ adhiṭṭheyya,
 brahmam'etaṃ vihāraṃ idha'm'āhu.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tiṭṭhaṃ- | prp | masc.nom.sg | standing |
 | caraṃ | prp | masc.nom.sg | walking |
@@ -295,6 +322,7 @@ brahmam'etaṃ vihāraṃ idha'm'āhu.
 
 **standing, walking, seated or lying down as long as he is without drowsiness**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | etaṃ | pron | fem.acc.sg | this |
 | satiṃ | noun | fem.acc.sg | memory, mindfulness, presence, recollection awareness |
@@ -302,6 +330,7 @@ brahmam'etaṃ vihāraṃ idha'm'āhu.
 
 **one should resolve on this mindfulness:**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | brahmaṃ | adj | masc.acc.sg | holy, divine, sublime, highest |
 | etaṃ | pron | masc.acc.sg | this |
@@ -316,6 +345,7 @@ sīlavā dassanena sampanno,
 kāmesu vineyya gedhaṃ,
 na hi jātu gabbha-seyyaṃ punar-etī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | diṭṭhiṃ- | noun | fem.acc.sg | view, belief, opinion, concept, theory, attitude |
 | ca | ind |  | and, but, although |
@@ -326,6 +356,7 @@ na hi jātu gabbha-seyyaṃ punar-etī'ti.
 
 **avoiding (clinging to) view, possessing good behavior, endowed with vision,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kāmesu | noun | masc.loc.pl | in lust, desire, on sensual pleasures |
 | vineyya | verb | abs | removing |
@@ -333,6 +364,7 @@ na hi jātu gabbha-seyyaṃ punar-etī'ti.
 
 **removing greed for sensual pleasures,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | ind |  | not |
 | hi | ind |  | indeed, surely, definitely! |
@@ -345,5 +377,4 @@ na hi jātu gabbha-seyyaṃ punar-etī'ti.
 
 **one definitely and undoubtedly never again comes back to lying in a womb.**
 
-
-next chant \> [Khandha-parittaṃ](https://docs.google.com/document/d/1o2cDWXsgpJXm2d00woMNvsfk3Q35s5j9-DVV170bkgo/)
+[← previous chant](per-54-ratana-sutta.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-56-khandha-parittam.md)

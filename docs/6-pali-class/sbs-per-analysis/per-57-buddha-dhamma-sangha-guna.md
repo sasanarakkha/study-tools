@@ -5,6 +5,7 @@
 [SN 11.3]
 iti'pi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | iti'pi | ind |  | it is so, thus |
 | so | pron | masc.nom.sg | he |
@@ -30,6 +31,7 @@ iti'pi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavi
 
 svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | svākkhāto | adj | masc.nom.sg | well taught, well explained |
 | bhagavatā | noun | masc.ins.sg | by Sublime One, Blessed One, fortunate one, the Buddha |
@@ -46,6 +48,7 @@ svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko pacc
 
 supaṭipanno bhagavato sāvakasaṅgho ujupaṭipanno bhagavato sāvakasaṅgho ñāyapaṭipanno bhagavato sāvakasaṅgho sāmīcipaṭipanno bhagavato sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho, āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | supaṭipanno | adj | masc.nom.sg | going the right way, practiced well |
 | bhagavato | noun | masc.gen.sg | of Sublime One, Blessed One, fortunate one, the Buddha |
@@ -78,5 +81,4 @@ that is - four pairs of people and eight individuals
 this is the Community of disciples of the Blessed One, 
 worthy of offering, worthy of hospitality, worthy of gifts, worthy of reverence, the highest field of merit for the world**
 
-
-next chant \> [Yaṅ’kiñci ratanaṃ loke](https://docs.google.com/document/d/1tZRlAb7uXunf6WLBV8do4WfYvu5bSfgzRBoihH-TxAQ/)
+[← previous chant](per-56-khandha-parittam.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-58-yan-kinci-ratanam-loke.md)

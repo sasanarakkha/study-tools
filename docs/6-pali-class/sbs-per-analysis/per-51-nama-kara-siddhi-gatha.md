@@ -4,6 +4,7 @@
 
 yo cakkhumā moha-mal'āpakaṭṭho, sāmaṃ va buddho sugato vimutto, mārassa pāsā vinimocayanto, pāpesi khemaṃ janataṃ vineyyaṃ,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [thai] |  |  |  |
 | yo | pron | masc.nom.sg | one who, whoever |
@@ -28,6 +29,7 @@ yo cakkhumā moha-mal'āpakaṭṭho, sāmaṃ va buddho sugato vimutto, mārass
 
 buddhaṃ varan'taṃ sirasā namāmi. lokassa nāthañ'ca vināyakañ'ca. tan'tejasā te jaya-siddhi hotu. sabb'antarāyā ca vināsamentu.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | buddhaṃ | noun | masc.acc.sg | the Buddha, Awakened One |
 | varaṃ- | adj | masc.acc.sg | excellent, best, lit. select |
@@ -52,6 +54,7 @@ buddhaṃ varan'taṃ sirasā namāmi. lokassa nāthañ'ca vināyakañ'ca. tan't
 
 dhammo dhajo yo viya tassa satthu dassesi lokassa visuddhi-maggaṃ, niyyāniko dhamma-dharassa dhārī sāt'āvaho santi-karo suciṇṇo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dhammo | noun | masc.nom.sg | the Teaching |
 | dhajo | noun | masc.nom.sg | flag, banner, symbol, emblem |
@@ -76,6 +79,7 @@ dhammo dhajo yo viya tassa satthu dassesi lokassa visuddhi-maggaṃ, niyyāniko 
 
 dhammaṃ varan'taṃ sirasā namāmi. mohappadālaṃ upasanta-dāhaṃ. tan'tejasā te jaya-siddhi hotu. sabb'antarāyā ca vināsamentu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | moha- | noun |  | illusion, delusion, confusion |
 | padālaṃ | adj | masc.acc.sg | breaking, piercing, destroying |
@@ -86,6 +90,7 @@ dhammaṃ varan'taṃ sirasā namāmi. mohappadālaṃ upasanta-dāhaṃ. tan'te
 
 saddhamma-senā sugatānugo, yo lokassa pāp'ūpakilesa-jetā, santo sayaṃ santi-niyojako ca, svākkhāta-dhammaṃ viditaṃ karoti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saddhamma- | noun |  | true Teaching, true Doctrine, true nature of things |
 | senā | noun | fem.nom.sg | army |
@@ -110,6 +115,7 @@ saddhamma-senā sugatānugo, yo lokassa pāp'ūpakilesa-jetā, santo sayaṃ san
 
 saṅghaṃ varan'taṃ sirasā namāmi. buddh'ānubuddhaṃ sama-sīla-diṭṭhiṃ. tan'tejasā te jaya-siddhi hotu. sabb'antarāyā ca vināsamentu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | buddha- | pp |  | awakened, woke up, understood |
 | anubuddhaṃ | adj | masc.acc.sg | after the Blessed One |
@@ -119,5 +125,4 @@ saṅghaṃ varan'taṃ sirasā namāmi. buddh'ānubuddhaṃ sama-sīla-diṭṭ
 
 **I pay homage with my head to that excellent Saṅgha, awakened after the awakened, harmonious in virtue & view. By the power of this, may victory and success be for you, and may all dangers be destroyed.**
 
-
-next chant \> [Namo-kāra-aṭṭhaka](https://docs.google.com/document/d/1Y0drkOWgO2AKOHvWtnn2huc7QAyFyUSPZ_UzCJGnZZM/)
+[← previous chant](per-50-sarana-gamana-patho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-52-namo-kara-atthaka.md)

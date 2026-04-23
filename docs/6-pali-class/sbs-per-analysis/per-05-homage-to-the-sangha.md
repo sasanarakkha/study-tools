@@ -4,6 +4,7 @@
 
 handa mayaṃ saṅghābhitthutiṃ karomase
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | handa | ind |  | well then; now |
 | mayaṃ | pron | 1.nom.pl | we |
@@ -15,6 +16,7 @@ handa mayaṃ saṅghābhitthutiṃ karomase
 
 yo so supaṭipanno bhagavato sāvakasaṅgho
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | which, that … which |
 | so | pron | masc.nom.sg | that |
@@ -27,6 +29,7 @@ yo so supaṭipanno bhagavato sāvakasaṅgho
 
 ujupaṭipanno bhagavato sāvakasaṅgho
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ujupaṭipanno | adj | masc.nom.sg | practices straightly, living uprightly |
 
@@ -34,6 +37,7 @@ ujupaṭipanno bhagavato sāvakasaṅgho
 
 ñāyapaṭipanno bhagavato sāvakasaṅgho
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ñāyapaṭipanno | adj | masc.nom.sg | following the correct method, walking in the right path |
 
@@ -41,6 +45,7 @@ ujupaṭipanno bhagavato sāvakasaṅgho
 
 sāmīcipaṭipanno bhagavato sāvakasaṅgho
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sāmīcipaṭipanno | adj | masc.nom.sg | following the right way, living correctly |
 
@@ -48,6 +53,7 @@ sāmīcipaṭipanno bhagavato sāvakasaṅgho
 
 yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yadidaṃ | adv | ind | namely, that is, lit. which this |
 | cattāri | adj | masc.nom.pl | four (4) |
@@ -59,6 +65,7 @@ yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā
 
 esa bhagavato sāvakasaṅgho
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | esa | pron | masc.nom.sg | this |
 | bhagavato | noun | masc.gen.sg | of Sublime One, Blessed One, Fortunate One, the Buddha |
@@ -68,6 +75,7 @@ esa bhagavato sāvakasaṅgho
 
 āhuṇeyyo pāhuṇeyyo dakkhiṇeyyo añjali-karaṇīyo anuttaraṃ puññakkhettaṃ lokassa
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | āhuneyyo | adj | masc.nom.sg | worthy of offering, lit. should be offered to |
 | pāhuneyyo | adj | masc.nom.sg | worthy of hospitality, deserving to be a guest |
@@ -82,6 +90,7 @@ esa bhagavato sāvakasaṅgho
 tam-ahaṃ saṅghaṃ abhipūjayāmi
 tam-ahaṃ saṅghaṃ sirasā namāmi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tam- | pron | masc.acc.sg | that |
 | ahaṃ | pron | 1.nom.sg | I |
@@ -95,7 +104,4 @@ tam-ahaṃ saṅghaṃ sirasā namāmi
 
 **I highly worship the Community, I bow down with my head to the Community.**
 
-
-next chant \> [Salutation to the Triple Gem](https://docs.google.com/document/d/1FZritL3lekZ03J18QaES2qQO2PNA8_CoUbroAgpspOs/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-04-homage-to-the-dhamma.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-06-salutation-to-the-triple-gem.md)

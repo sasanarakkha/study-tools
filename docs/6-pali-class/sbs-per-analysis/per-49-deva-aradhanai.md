@@ -4,6 +4,7 @@
 
 pharitvāna mettaṃ samettā bhadantā avikkhitta-cittā parittaṃ bhaṇantu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [thai] |  |  |  |
 | pharitvāna | verb | abs | having suffused, having pervaded, having filled |
@@ -19,6 +20,7 @@ pharitvāna mettaṃ samettā bhadantā avikkhitta-cittā parittaṃ bhaṇantu
 
 sagge kāme ca rūpe, giri-sikhara-taṭe c'antalikkhe vimāne, dīpe raṭṭhe ca gāme, taru-vana-gahane, geha-vatthumhi khette
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sagge | noun | masc.loc.sg | in heaven, state of happiness |
 | kāme | adj | masc.loc.sg | related to sensuality |
@@ -44,6 +46,7 @@ sagge kāme ca rūpe, giri-sikhara-taṭe c'antalikkhe vimāne, dīpe raṭṭhe
 
 bhummā c'āyantu devā jala-thala-visame yakkha-gandhabba-nāgā tiṭṭhantā santike, yaṃ muni-vara-vacanaṃ sādhavo me suṇantu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhummā | adj | masc.nom.pl | earthly, terrestrial |
 | c'āyantu | verb | imp.3.pl | and may they come from āyāti |
@@ -68,6 +71,7 @@ bhummā c'āyantu devā jala-thala-visame yakkha-gandhabba-nāgā tiṭṭhantā
 
 buddha-dassana-kālo ayam'bhadantā, dhammassavana-kālo ayam'bhadantā, saṅgha-payirupāsana-kālo ayam'bhadantā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | buddha- | noun |  | the Buddha, Awakened One |
 | dassana- | noun |  | seeing, watching |
@@ -80,5 +84,4 @@ buddha-dassana-kālo ayam'bhadantā, dhammassavana-kālo ayam'bhadantā, saṅgh
 
 **This is the time to see to the Buddha, venerable sirs. This is the time to listen to the Dhamma, venerable sirs. This is the time to attend to the Saṅgha, venerable sirs**
 
-
-next chant \> [Saraṇa-gamana-pāṭho](https://docs.google.com/document/d/1qarpYYFa8xjdol-gArglIkMiGg4jhIyrDmEafHDxnQM/)
+[← previous chant](per-48-so-attha-laddho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-50-sarana-gamana-patho.md)

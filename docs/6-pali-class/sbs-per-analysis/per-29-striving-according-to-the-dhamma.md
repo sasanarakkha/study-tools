@@ -8,6 +8,7 @@ Dhamma-pahaṃsāna
 [handa mayaṃ dhamma-pahaṃsāna-pāṭham bhaṇāmase]
 evaṃ svākkhāto bhikkhave mayā dhammo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃ | ind |  | thus; in this way |
 | svākkhāto | adj | masc.nom.sg | well preached |
@@ -19,6 +20,7 @@ evaṃ svākkhāto bhikkhave mayā dhammo
 
 uttāno vivaṭo pakāsito chinnapilotiko.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | uttāno | adj | masc.nom.sg | clear, manifest, open, evident |
 | vivaṭo | adj | masc.nom.sg | uncovered, open |
@@ -32,6 +34,7 @@ uttāno vivaṭo pakāsito chinnapilotiko.
 
 alam-eva saddhā-pabbajitena kula-puttena vīriyaṃ ārabhituṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | alam- | ind |  | enough |
 | eva | ind |  | just, only |
@@ -45,6 +48,7 @@ alam-eva saddhā-pabbajitena kula-puttena vīriyaṃ ārabhituṃ
 
 kāmaṃ taco ca nahāru ca aṭṭhi ca avasissatu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kāmaṃ | ind | adv | surely; certainly, willingly |
 | taco | noun | masc.nom.sg | skin |
@@ -59,6 +63,7 @@ kāmaṃ taco ca nahāru ca aṭṭhi ca avasissatu
 
 sarīre upasussatu maṃsa-lohitaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sarīre | noun | nt.loc.sg | in the body |
 | upasussatu | verb | imp.3.sg | let become dry |
@@ -69,6 +74,7 @@ sarīre upasussatu maṃsa-lohitaṃ
 
 yaṃ taṃ purisa-thāmena purisa-vīriyena purisa-parakkamena pattabbaṃ na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatī-ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | masc.acc.sg | whatever |
 | taṃ | pron | masc.acc.sg | that |
@@ -90,6 +96,7 @@ yaṃ taṃ purisa-thāmena purisa-vīriyena purisa-parakkamena pattabbaṃ na t
 
 dukkhaṃ bhikkhave kusīto viharati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dukkhaṃ | noun | nt.acc.sg | discomfort, suffering, pain, unease unsatisfaction, problem, trouble |
 | bhikkhave | noun | masc.voc.pl | o monks! |
@@ -100,6 +107,7 @@ dukkhaṃ bhikkhave kusīto viharati
 
 vokiṇṇo pāpakehi akusalehi dhammehi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vokiṇṇo | pp | masc.nom.sg | covered with, drenched (with); mixed up full of, soiled |
 | pāpakehi | adj | masc.ins.pl | by bad, wicked, worthless |
@@ -110,6 +118,7 @@ vokiṇṇo pāpakehi akusalehi dhammehi
 
 mahantañ-ca sadatthaṃ parihāpeti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mahantañ- | adj | masc.acc.sg | great, extensive, big, important, large |
 | ca | ind |  | and |
@@ -120,6 +129,7 @@ mahantañ-ca sadatthaṃ parihāpeti
 
 āraddha-vīriyo ca kho bhikkhave sukhaṃ viharati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | āraddhavīriyo | adj | masc.nom.sg | with energy aroused, applying energy making an effort |
 | ca |  | ind | but |
@@ -132,6 +142,7 @@ mahantañ-ca sadatthaṃ parihāpeti
 
 pavivitto pāpakehi akusalehi dhammehi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | pavivitto | adj | masc.nom.sg | separated, secluded, solitary, detached |
 | pāpakehi | adj | masc.abl.pl | from bad, wicked, worthless |
@@ -142,6 +153,7 @@ pavivitto pāpakehi akusalehi dhammehi
 
 mahantañ-ca sadatthaṃ paripūreti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mahantañ- | adj | masc.acc.sg | great, extensive, big, important, large |
 | ca | ind |  | and |
@@ -152,6 +164,7 @@ mahantañ-ca sadatthaṃ paripūreti
 
 na bhikkhave hīnena aggassa patti hoti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | ind |  | not |
 | bhikkhave | noun | masc.voc.pl | o monks! |
@@ -164,6 +177,7 @@ na bhikkhave hīnena aggassa patti hoti
 
 aggena ca kho bhikkhave aggassa patti hoti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aggena | adj | masc.ins.sg | by highest, topmost, foremost, supreme |
 | ca | ind |  | but, rather |
@@ -177,6 +191,7 @@ aggena ca kho bhikkhave aggassa patti hoti
 
 maṇḍapeyyam-idaṃ bhikkhave brahmacariyaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | maṇḍapeyyaṃ- | adj | nt.nom.sg | of the best quality; lit: to be drunk like cream |
 | idaṃ | pron | nt.nom.sg | this |
@@ -187,6 +202,7 @@ maṇḍapeyyam-idaṃ bhikkhave brahmacariyaṃ
 
 satthā sammukhī-bhūto
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | satthā | noun | masc.nom.sg | teacher, master, the Buddha |
 | sammukhībhūto | adj | masc.nom.sg | become face to face, is present |
@@ -195,6 +211,7 @@ satthā sammukhī-bhūto
 
 tasmā'tiha bhikkhave vīriyaṃ ārabhatha
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasmātiha | ind |  | therefore here |
 | bhikkhave | noun | masc.voc.pl | o monks! |
@@ -205,6 +222,7 @@ tasmā'tiha bhikkhave vīriyaṃ ārabhatha
 
 appattassa pattiyā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | appattassa | pp | masc.gen.sg | of not attained, not reached, not gained, not found |
 | pattiyā | noun | fem.dat.sg | for reaching, attainment (of), getting |
@@ -213,6 +231,7 @@ appattassa pattiyā
 
 anadhigatassa adhigamāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | anadhigatassa | pp | masc.gen.sg | of not attained, what has not been attained |
 | adhigamāya | noun | masc.dat.sg | for arrival (at), attainment (of), reaching (of) |
@@ -221,6 +240,7 @@ anadhigatassa adhigamāya
 
 asacchikatassa sacchikiriyāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | asacchikatassa | adj | masc.gen.sg | of not experienced for oneself |
 | sacchikiriyāya | noun | masc.dat.sg | for personal experience, personal realization |
@@ -229,6 +249,7 @@ asacchikatassa sacchikiriyāya
 
 evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avaññā bhavissati saphalā saudrayā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃ | ind |  | so in this way; in such a way; like this |
 | no | ind |  | then, now, indeed |
@@ -245,6 +266,7 @@ evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avaññā bhavissati saphalā 
 
 yesaṃ mayaṃ paribhuñjāma cīvara-piṇḍapāta-senāsana-gilānappaccaya-bhesajja-parikkhāraṃ tesaṃ te kārā amhesu mahapphalā bhavissanti mahānisaṃsā'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yesaṃ | pron | masc.gen.pl | of whoever, those who |
 | mayaṃ | pron | 1.nom.pl | we |
@@ -268,6 +290,7 @@ yesaṃ mayaṃ paribhuñjāma cīvara-piṇḍapāta-senāsana-gilānappaccaya-
 
 evaṃ hi vo bhikkhave sikkhitabbaṃ. attatthaṃ vā hi bhikkhave sampassamānena alam-eva appamādena sampādetuṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃ | ind |  | thus, this, like this, just as, such |
 | hi | ind |  | indeed, certainly, truly, definitely |
@@ -277,6 +300,7 @@ evaṃ hi vo bhikkhave sikkhitabbaṃ. attatthaṃ vā hi bhikkhave sampassamān
 
 **like this indeed, o monks, should be practised by you all.**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | attatthaṃ | noun | masc.acc.sg | one's own welfare, personal benefit personal profit |
 | vā | ind |  | or |
@@ -292,6 +316,7 @@ evaṃ hi vo bhikkhave sikkhitabbaṃ. attatthaṃ vā hi bhikkhave sampassamān
 
 paratthaṃ vā hi bhikkhave sampassamānena alam-eva appamādena sampādetuṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | paratthaṃ | noun | masc.acc.sg | benefit of others |
 
@@ -299,11 +324,11 @@ paratthaṃ vā hi bhikkhave sampassamānena alam-eva appamādena sampādetuṃ
 
 ubhaya'tthaṃ vā hi bhikkhave sampassamānena alam-eva appamādena sampādetun'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ubhaya- | pron |  | both, referring to two things |
 | atthaṃ | noun | masc.acc.sg | benefit, profit, good, welfare, goal |
 
 **indeed or considering benefit of both, it is just enough to strive with heedfulness.**
 
-
-next chant \> [The Buddha’s Final Instruction](https://docs.google.com/document/d/1eIuWXJAliDG0v-HpJUDRI7ZrlgNH4RfbE2marMrq38c/)
+[← previous chant](per-28-principles-of-non-decline.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-30-the-buddhas-final-instruction.md)

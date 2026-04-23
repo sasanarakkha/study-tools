@@ -7,6 +7,7 @@ Aparihāniya-dhammā
 [AN 7.23]
 katame ca bhikkhave satta aparihāniyā dhammā?
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | katame | pron | masc.acc.pl | what? which (of the many)? |
 | bhikkhave | noun | masc.voc.sg | o monks! |
@@ -18,6 +19,7 @@ katame ca bhikkhave satta aparihāniyā dhammā?
 
 yāvakīvañca bhikkhave bhikkhū abhiṇhaṃ sannipātā bhavissanti sannipātabahulā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāvakīvañca | ind |  | and as long as |
 | bhikkhave | noun | masc.voc.sg | o monks! |
@@ -32,6 +34,7 @@ yāvakīvañca bhikkhave bhikkhū abhiṇhaṃ sannipātā bhavissanti sannipāt
 
 vuddhiyeva pāṭikaṅkhā no parihāni
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vuddhi- | noun | fem.nom.sg | growth, increase |
 | yeva | ind |  | just, only, even, even so, yet, also |
@@ -43,6 +46,7 @@ vuddhiyeva pāṭikaṅkhā no parihāni
 
 yāvakīvañca bhikkhave bhikkhū samaggā sannipatissanti, samaggā vuṭṭhahissanti, samaggā saṅghakaraṇīyāni karissanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāvakīvañca | ind |  | and as long as |
 | bhikkhave | noun | masc.voc.sg | o monks! |
@@ -64,6 +68,7 @@ vuddhiyeva pāṭikaṅkhā no parihāni
 
 yāvakīvañca bhikkhave bhikkhū apaññattaṃ na paññāpessanti, paññattaṃ na samucchindissanti, yathāpaññattesu sikkhāpadesu vattissanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāvakīvañca | ind |  | and as long as |
 | bhikkhave | noun | masc.voc.sg | o monks! |
@@ -88,6 +93,7 @@ vuddhiyeva pāṭikaṅkhā no parihāni
 
 yāvakīvañca bhikkhave bhikkhū ye te bhikkhū therā rattaññū cirapabbajitā saṅgha-pitaro saṅgha-pariṇāyakā te sakkarissanti garuṃ karissanti mānessanti pūjessanti tesañca sotabbaṃ maññissanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāvakīvañca | ind |  | and as long as |
 | bhikkhave | noun | masc.voc.sg | o monks! |
@@ -118,6 +124,7 @@ vuddhiyeva pāṭikaṅkhā no parihāni
 
 yāvakīvañca bhikkhave bhikkhū uppannāya taṇhāya ponobhavikāya na vasaṃ gacchissanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāvakīvañca | ind |  | and as long as |
 | bhikkhave | noun | masc.voc.sg | o monks! |
@@ -137,6 +144,7 @@ vuddhiyeva pāṭikaṅkhā no parihāni
 
 yāvakīvañca bhikkhave bhikkhū āraññakesu senāsanesu sāpekkhā bhavissanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāvakīvañca | ind |  | and as long as |
 | bhikkhave | noun | masc.voc.sg | o monks! |
@@ -154,6 +162,7 @@ vuddhiyeva pāṭikaṅkhā no parihāni
 
 yāvakīvañca bhikkhave bhikkhū paccattaññeva satiṃ upaṭṭhāpessanti: kinti anāgatā ca pesalā sabrahmacārī āgaccheyyuṃ āgatā ca pesalā sabrahmacārī phāsuṃ vihareyyun'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāvakīvañca | ind |  | and as long as |
 | bhikkhave | noun | masc.voc.sg | o monks! |
@@ -183,6 +192,7 @@ vuddhiyeva pāṭikaṅkhā no parihāni
 
 yāvakīvañca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāvakīvañca | ind |  | and as long as |
 | bhikkhave | noun | masc.voc.sg | o monks! |
@@ -197,6 +207,7 @@ yāvakīvañca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
 
 imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | imesu | pron | masc.loc.pl | in these |
 | ca | ind |  | and |
@@ -210,6 +221,7 @@ imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti
 
 vuddhiyeva bhikkhave bhikkhūnaṃ pāṭikaṅkhā no parihānī ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vuddhi- | noun | fem.nom.sg | growth, increase |
 | yeva | ind |  | just, only, even, even so, yet, also |
@@ -224,6 +236,7 @@ vuddhiyeva bhikkhave bhikkhūnaṃ pāṭikaṅkhā no parihānī ti
 [AN 7.27]
 yāvakīvañ'ca, bhikkhave, bhikkhū aniccasaññaṃ bhāvessanti; anattasaññaṃ bhāvessanti; asubhasaññaṃ bhāvessanti; ādīnavasaññaṃ bhāvessanti; pahānasaññaṃ bhāvessanti; virāgasaññaṃ bhāvessanti; nirodhasaññaṃ bhāvessanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aniccasaññaṃ | noun | fem.acc.sg | recognition of impermanence, perception of instability |
 | bhāvessanti | verb | fut.3.pl | they will cultivate, develop |
@@ -243,6 +256,7 @@ vuddhiy'eva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.
 [AN 7.25]
 yāvakīvañ'ca bhikkhave bhikkhū hirimanto bhavissanti; ottappino bhavissanti; bahussutā bhavissanti; āraddhavīriyā bhavissanti; satimanto bhavissanti; paññavanto bhavissanti;
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | hirimanto | adj | masc.nom.pl | has a conscience, conscientious |
 | ottappino | adj | masc.nom.pl | afraid of wrong, feeling shame |
@@ -256,6 +270,7 @@ yāvakīvañ'ca bhikkhave bhikkhū hirimanto bhavissanti; ottappino bhavissanti;
 [AN 7.24]
 na oramattakena vises'ādhigamena antarāvosānaṃ āpajjissanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | ind |  | not |
 | oramattakena | adj | masc.ins.sg | lesser; insignificant; of small value or importance |
@@ -274,6 +289,7 @@ vuddhiy'eva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.
 [AN 8.79]
 ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṃvattanti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sekhassa | noun | masc.gen.sg | of trainee, belonging to training |
 | bhikkhuno | noun | masc.gen.sg | of monk |
@@ -284,6 +300,7 @@ ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṃvattanti.
 
 na kamm'ārāmatā, na bhass'ārāmatā, na nidd'ārāmatā, na saṅgaṇik'ārāmatā, indriyesu guttadvāratā, bhojane mattaññutā, asaṃsagg'ārāmatā, nippapañc'ārāmatā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kamm'ārāmatā | noun | fem.nom.sg | pleasure of work; enjoyment of activity |
 | bhass'ārāmatā | noun | fem.nom.sg | pleasure of speech; enjoyment of talk |
@@ -301,6 +318,7 @@ na kamm'ārāmatā, na bhass'ārāmatā, na nidd'ārāmatā, na saṅgaṇik'ār
 [AN 6.22]
 sovacassatā, kalyāṇamittatā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sovacassatā | noun | fem.nom.sg | suavity, gentleness (in speech), obedience |
 | kalyāṇamittatā | noun | fem.nom.sg | beneficial friendship, spiritual companionship |
@@ -312,5 +330,4 @@ ime kho bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṃvattantī"ti
 
 **Monks, these qualities lead to the non-decline of a monk who is a trainee.**
 
-
-next chant \> [Striving According to the Dhamma](https://docs.google.com/document/d/1ZA6z8tv6mFZLEKmShP5DZxqqq8Rp8uT3SIscPloW3Ys/)
+[← previous chant](per-27-principles-of-cordiality.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-29-striving-according-to-the-dhamma.md)

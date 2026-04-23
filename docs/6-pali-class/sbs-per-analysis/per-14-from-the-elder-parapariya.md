@@ -8,6 +8,7 @@ Pārāpariya-thera-gāthā
 aññathā loka-nāthamhi, tiṭṭhante purisuttame.
 iriyaṃ āsi bhikkhūnaṃ, aññathā dāni dissati.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aññathā | ind | adv | in a different manner, otherwise, differently |
 | loka-nāthamhi | noun | masc.loc.sg (abs) | when the Protector, Lord of the world (Epithet of the Buddha) |
@@ -16,6 +17,7 @@ iriyaṃ āsi bhikkhūnaṃ, aññathā dāni dissati.
 
 **differently, when the Protector of the world, the Greatest Man was remaining (here),**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | iriyaṃ | noun | fem.acc.sg | deportment, behaviour |
 | āsi | verb | aor.3.sg | it was |
@@ -29,6 +31,7 @@ iriyaṃ āsi bhikkhūnaṃ, aññathā dāni dissati.
 sīta-vāta-parittāṇaṃ, hirikopīna-chādanaṃ.
 matt-aṭṭhiyaṃ abhuñjiṃsu, santuṭṭhā itarītare.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sītavātaparittāṇaṃ | nt.n.s |  | protection from cold and wind |
 | \>sīta- | noun |  | cool; cold. |
@@ -40,6 +43,7 @@ matt-aṭṭhiyaṃ abhuñjiṃsu, santuṭṭhā itarītare.
 
 **(their robs) were protection from cold and wind, and covering of the private parts**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mattaṭṭhiyaṃ | ind | adv | in moderation; moderately; lit. measure seeking |
 | \>mattā- | noun |  | moderation |
@@ -53,6 +57,7 @@ matt-aṭṭhiyaṃ abhuñjiṃsu, santuṭṭhā itarītare.
 paṇītaṃ yadi vā lūkhaṃ, appaṃ vā yadi vā bahuṃ.
 yāpan'atthaṃ abhuñjiṃsu, agiddhā n'ādhimucchitā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | paṇītaṃ | adj | nt.nom.sg | (what is) excellent; delicious |
 | yadi | ind |  | if, even, even if, perhaps |
@@ -66,6 +71,7 @@ yāpan'atthaṃ abhuñjiṃsu, agiddhā n'ādhimucchitā.
 
 **if excellent or even poor quality, if much or only a little**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yāpanatthaṃ |  |  |  |
 | yāpanatthaṃ | ind | adv | to sustain oneself; to keep going; lit. for the sake of sustenance |
@@ -82,6 +88,7 @@ yāpan'atthaṃ abhuñjiṃsu, agiddhā n'ādhimucchitā.
 jīvitānaṃ parikkhāre, bhesajje atha paccaye.
 na bāḷhaṃ ussukā āsuṃ, yathā te āsavakkhaye.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | jīvitānaṃ | noun | nt.gen.pl | of life, living, livelihood |
 | parikkhāre | noun | masc.acc.pl | requisites; accessories |
@@ -91,6 +98,7 @@ na bāḷhaṃ ussukā āsuṃ, yathā te āsavakkhaye.
 
 **requirements of life, medicines and also (other) supports**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | neg |  | not |
 | bāḷhaṃ | ind | adv | strongly; excessively; overly |
@@ -105,6 +113,7 @@ na bāḷhaṃ ussukā āsuṃ, yathā te āsavakkhaye.
 araññe rukkhamūlesu, kandarāsu guhāsu ca.
 vivekam'anubrūhantā, vihaṃsu tap'parāyanā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | araññe | noun | nt.loc.sg | in forest |
 | rukkhamūlesu | noun | nt.loc.pl | nearthe foots of trees |
@@ -114,6 +123,7 @@ vivekam'anubrūhantā, vihaṃsu tap'parāyanā.
 
 **in the forest, at the foots of trees, in grottos and caves,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vivekam'anubrūhantā | prp | masc.nom.pl | continuously developing (mental) seclusion |
 | \>vivekaṃ- | noun | masc.acc.sg | seclusion |
@@ -128,6 +138,7 @@ vivekam'anubrūhantā, vihaṃsu tap'parāyanā.
 nīcā niviṭṭhā subharā, mudū atthaddha-mānasā.
 abyāsekā amukharā, attha-cintā vas'ānugā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | nīcā | adj | masc.nom.pl | humble |
 | niviṭṭhā | adj | masc.nom.pl | established in, settled in, entrenched in |
@@ -140,6 +151,7 @@ abyāsekā amukharā, attha-cintā vas'ānugā.
 
 **humble, settled, easy to support and not with arrogant mind**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | abyāsekā | adj | masc.nom.pl | un-defiled, untouched, unimpaired |
 | amukharā | adj | masc.nom.pl | not garrulous; not talkative |
@@ -153,6 +165,7 @@ abyāsekā amukharā, attha-cintā vas'ānugā.
 tato pāsādikaṃ āsi, gataṃ bhuttaṃ nisevitaṃ.
 siniddhā tela-dhārā'va, ahosi iriyāpatho.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tato | ind | adv | therefore, lit: from there |
 | pāsādikaṃ | adj | nt.nom.sg | inspiring confidence |
@@ -163,6 +176,7 @@ siniddhā tela-dhārā'va, ahosi iriyāpatho.
 
 **therefore (their) walking, eating and practicing were inspiring confidence,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | siniddhā | pp | masc.nom.pl | smooth, pliable; soft |
 | teladhārāva |  |  | as stream of oil |
@@ -177,6 +191,7 @@ siniddhā tela-dhārā'va, ahosi iriyāpatho.
 yathā kaṇṭaka-ṭ'ṭhānamhi, careyya anupāhano.
 satiṃ upaṭṭhapetvāna, evaṃ gāme munī care.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yathā | ind |  | as; like; just as. |
 | kaṇṭaka- | noun |  | thorn, thorny |
@@ -186,6 +201,7 @@ satiṃ upaṭṭhapetvāna, evaṃ gāme munī care.
 
 **like one would walk without shoes in a thorny place,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | satiṃ | noun | fem.acc.sg | mindfulness |
 | upaṭṭhapetvāna, | verb | abs | having caused to attend, having set up, having made sure is present |
@@ -199,6 +215,7 @@ satiṃ upaṭṭhapetvāna, evaṃ gāme munī care.
 saritvā pubbake yogī, tesaṃ vattam'anussaraṃ.
 kiñcāpi pacchimo kālo, phuseyya amataṃ padaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saritvā | verb | abs | having remembered |
 | pubbake | adj | masc.acc.pl | ancient, of old, former |
@@ -209,6 +226,7 @@ kiñcāpi pacchimo kālo, phuseyya amataṃ padaṃ.
 
 **having remembered former meditators, recollecting their behavior**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kiñcāpi | ind |  | however much, even if, even though |
 | pacchimo | adj | masc.nom.pl | latest, last, final |
@@ -219,5 +237,4 @@ kiñcāpi pacchimo kālo, phuseyya amataṃ padaṃ.
 
 **even if there is a last moment, one could reach the Deathless state**
 
-
-next chant \> [On Protection](https://docs.google.com/document/d/14MHZEf2m20r5JaIeGy3wr-tW7y5bFd8097_e1GfGdzQ/)
+[← previous chant](per-13-from-the-elder-ratthapala.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-15-on-protection.md)

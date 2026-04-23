@@ -6,6 +6,7 @@
 yo yassa bhojanaṃ deti, so tassa deti pañca'pi
 āyuṃ balaṃ sukhaṃ vaṇṇaṃ, paṭibhānañ'ca pañcamaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | whoever, one |
 | yassa | pron | masc.dat.sg | for whoever; for whatever; for whichever |
@@ -29,6 +30,7 @@ Longevity, strength, ease, beauty and intelligence as fifth.**
 [AN 5.37]
 āyudo balado dhīro, vaṇṇado paṭibhānado. sukhassa dātā medhāvī, sukhaṃ so adhigacchati. āyuṃ datvā balaṃ vaṇṇaṃ, sukhañ'ca paṭibhānakaṃ, dīgh'āyu yasavā hoti, yattha yatth'ūpapajjatī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | āyudo | adj | masc.nom.sg | giving long life, longevity |
 | balado | adj | masc.nom.sg | giving strength, who gives energy |
@@ -60,5 +62,4 @@ Intelligent man, who is giver of happiness, he attains happiness.**
 
 Having given longevity, strength, beauty, happiness and understanding, he is one who renowned and having long life, wherever he is reborn.
 
-
-next chant \> [Culla-maṅgala-cakka-vāḷa](https://docs.google.com/document/d/11IhgUlqr0s29u2NmJP7yklHQ31VPdUUlTtLidwUM8rI/)
+[← previous chant](per-43-ratanattayanubhavadi-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-45-culla-mangala-cakka-vala.md)

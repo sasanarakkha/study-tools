@@ -7,6 +7,7 @@ Bodhipakkhiya-dhammā
 [DN 16.21]
 bhikkhave, ye te mayā dhammā abhiññā desitā, te vo sādhukaṃ uggahetvā āsevitabbā bhāvetabbā bahulīkātabbā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whatever, whichever |
 | te | pron | masc.nom.pl | those |
@@ -26,6 +27,7 @@ bhikkhave, ye te mayā dhammā abhiññā desitā, te vo sādhukaṃ uggahetvā 
 
 yatha'y-idaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lok'ānukampāya atthāya hitāya sukhāya devamanussānaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yathayidaṃ | pron | nt.nom.sg | such as this |
 | brahmacariyaṃ | noun | nt.nom.sg | spiritual path, holy life |
@@ -51,6 +53,7 @@ katame ca te, bhikkhave, dhammā mayā abhiññā desitā,
 
 seyyath'īdaṃ — cattāro satipaṭṭhānā cattāro sammappadhānā cattāro iddhipādā pañc'indriyāni pañca balāni satta bojjh'aṅgā ariyo aṭṭh'aṅgiko maggo.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | seyyathīdaṃ | ind |  | i.e., as follows, lit. (like) that like this |
 | cattāro | adj | masc.nom.pl | four |
@@ -70,5 +73,4 @@ seyyath'īdaṃ — cattāro satipaṭṭhānā cattāro sammappadhānā cattār
 
 **They are as follows: four foundations of mindfulness, four correct applications of effort, four basis for psychic power, five faculties, five powers, seven factors of enlightenment and noble eight-fold path.**
 
-
-next chant \> [The Seven Factors of Awakening](https://docs.google.com/document/d/1rkmaVq4F5Gdij2Fx0EaV_sLZ0b4tmOAdK4KIMsb92xw/)
+[← previous chant](per-19-anupubba-sikkha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-21-the-seven-factors-of-awakening.md)

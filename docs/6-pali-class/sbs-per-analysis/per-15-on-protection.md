@@ -6,6 +6,7 @@ Tāyana-gāthā
 
 handa mayaṃ tāyana-gāthāyo bhaṇāmase
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | handa | ind | emp | now! let's |
 | mayaṃ | pron | 1.nom.pl | we |
@@ -19,6 +20,7 @@ handa mayaṃ tāyana-gāthāyo bhaṇāmase
 chinda sotaṃ parakkamma, kāme panūda brāhmaṇa.
 nappahāya munī kāme, n'ekattam'upapajjati.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | chinda | verb | imp.2.sg | you cut, cut off, sever, cross |
 | sotaṃ | noun | masc.acc.sg | stream, river, current |
@@ -38,6 +40,7 @@ nappahāya munī kāme, n'ekattam'upapajjati.
 kayirā ce, kayirāth'enaṃ, daḷham'enaṃ parakkame.
 sithilo hi paribbājo, bhiyyo ākirate rajaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kayirā | verb | opt.3.sg | on should do, one could make, one wishes to do |
 | ce | ind |  | if |
@@ -58,6 +61,7 @@ sithilo hi paribbājo, bhiyyo ākirate rajaṃ.
 akataṃ dukkaṭaṃ seyyo, pacchā tappati dukkaṭaṃ,
 katañ'ca sukataṃ seyyo, yaṃ katvā n'ānutappati.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | akataṃ | adj | nt.nom.sg | not done, not made, not created |
 | dukkaṭaṃ | noun | nt.nom.sg | bad deed, wrong action |
@@ -77,6 +81,7 @@ katañ'ca sukataṃ seyyo, yaṃ katvā n'ānutappati.
 kuso yathā duggahito, hattham'ev'ānukantati,
 sāmaññaṃ dupparāmaṭṭhaṃ, nirayāy'upakaḍḍhati.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kuso | noun | masc.nom.sg | Kusa grass |
 | yathā | ind |  | like, just as |
@@ -94,6 +99,7 @@ sāmaññaṃ dupparāmaṭṭhaṃ, nirayāy'upakaḍḍhati.
 yaṃkiñci sithilaṃ kammaṃ, saṅkiliṭṭhañ'ca yaṃ vataṃ,
 saṅkassaraṃ brahmacariyaṃ, na taṃ hoti mahapphalan'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ- | pron | nt.nom.sg | whatever, that which |
 | kiñci | pron | nt.nom.sg | some, something, anything |
@@ -111,5 +117,4 @@ saṅkassaraṃ brahmacariyaṃ, na taṃ hoti mahapphalan'ti
 
 **Whatever deed is slack, whatever observance is corrupted, (whatever) holy life is doubtful – that is not yielding good results.**
 
-
-next chant \> [Miscellaneous Verses](https://docs.google.com/document/d/1iX2GcszvFqjhwIaEstFGWQUMPyj-ZLCu9aJ5XZ6Mw9g/)
+[← previous chant](per-14-from-the-elder-parapariya.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-16-miscellaneous-verses.md)

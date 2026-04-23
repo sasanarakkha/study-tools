@@ -8,6 +8,7 @@ bhummāni vā yāni va antalikkhe.
 sabb'eva bhūtā sumanā bhavantu,
 atho pi sakkacca suṇantu bhāsitaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yānīdha |  |  |  |
 | \>yāni- | pron | nt.acc.pl | those who, whoever, whatever |
@@ -22,6 +23,7 @@ atho pi sakkacca suṇantu bhāsitaṃ.
 
 **whatever spirits have assembled here, belonging to the earth or in the sky**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbā | adj | masc.nom.pl | all |
 | eva | ind |  | just |
@@ -39,6 +41,7 @@ atho pi sakkacca suṇantu bhāsitaṃ.
 tasmā hi bhūtā nisāmetha sabbe,
 mettaṃ karotha mānusiyā pajāya.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasmā | ind |  | therefore |
 | hi | ind |  | indeed |
@@ -55,6 +58,7 @@ mettaṃ karotha mānusiyā pajāya.
 divā ca ratto ca haranti ye baliṃ,
 tasmā hi ne rakkhatha appamattā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | divā ca | ind | adv | and by day |
 | ratto ca | ind | adv | and by night |
@@ -73,6 +77,7 @@ yaṃ kiñci vittaṃ idha vā huraṃ vā,
 saggesu vā yaṃ ratanaṃ paṇītaṃ.
 na no samaṃ atthi tathāgatena,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | nt.nom.sg | whatever |
 | kiñci | pron | nt.nom.sg | some, something, anything |
@@ -94,6 +99,7 @@ na no samaṃ atthi tathāgatena,
 idam'pi buddhe ratanaṃ paṇītaṃ.
 etena saccena suvatthi hotu.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | idam'pi | pron | masc.nom.sg | just this, this too |
 | buddhe | noun | masc.loc.sg | in the Buddha |
@@ -110,6 +116,7 @@ khayaṃ virāgaṃ amataṃ paṇītaṃ,
 yad-ajjhagā sakya-munī samāhito. 
 na tena dhammena sam-atthi kiñci,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | khayaṃ | noun | masc.acc.sg | waste, destruction, consumption decay |
 | virāgaṃ | noun | masc.acc.sg | dispassion; absence of desire. |
@@ -130,11 +137,13 @@ na tena dhammena sam-atthi kiñci,
 
 yaṃ buddha-seṭṭho parivaṇṇayī suciṃ,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | samādhim'ānantarikañ'ñam'āhu. |  |  |  |
 
 **samādhinā tena samo na vijjati,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | masc.acc.sg | that what |
 | buddha- | noun |  | the Buddha |
@@ -158,6 +167,7 @@ cattāri etāni yugāni honti.
 te dakkhiṇeyyā sugatassa sāvakā,
 etesu dinnāni mahapphalāni.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | those which |
 | puggalā | noun | masc.nom.pl | an individual; a people |
@@ -183,6 +193,7 @@ nikkāmino gotama-sāsanamhi.
 te patti-pattā amataṃ vigayha,
 laddhā mudhā nibbutiṃ bhuñjamānā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | those who |
 | suppayuttā | pp | masc.nom.pl | well applied, intent on, devoted to |
@@ -208,6 +219,7 @@ catubbhi vātehi asampakampiyo.
 tath'ūpamaṃ sappurisaṃ vadāmi,
 yo ariya-saccāni avecca passati.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yathā- | ind |  | as; like; just as |
 | indakhīlo | noun | masc.nom.sg | Indra's column, gate post of a city |
@@ -233,6 +245,7 @@ gambhīra-paññena sudesitāni.
 kiñcāpi te honti bhusa-p'pamattā,
 na te bhavaṃ aṭṭhamam-ādiyanti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | those who |
 | ariyasaccāni | noun | nt.acc.pl | noble truths. |
@@ -258,6 +271,7 @@ taya'ssu dhammā jahitā bhavanti.
 sakkāya-diṭṭhi vicikicchitañ'ca,
 sīlabbataṃ vā'pi yad'atthi kiñci.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saha- | ind |  | with, together, accompanied by |
 | eva | ind |  | just |
@@ -282,6 +296,7 @@ sīlabbataṃ vā'pi yad'atthi kiñci.
 catūh'apāyehi ca vippamutto,
 cha c'ābhiṭhānāni abhabbo kātuṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | catūh- | adj | masc.abl.pl | from four |
 | apāyehi | noun | masc.abl.pl | from hells; states of loss and woe |
@@ -300,6 +315,7 @@ kāyena vācāy-uda cetasā vā.
 abhabbo so tassa paṭicchadāya,
 abhabbatā diṭṭha-padassa vuttā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kiñcāpi | ind |  | however much, even if, even though |
 | so | pron | masc.nom.sg | he |
@@ -327,6 +343,7 @@ gimhāna-māse paṭhamasmiṃ gimhe.
 tath-ūpamaṃ dhamma-varaṃ adesayi,
 nibbāna-gāmiṃ paramaṃ hitāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vana- | noun |  | forest; wood |
 | pagumbe | noun | masc.loc.sg | in thicket, bush, clump of trees |
@@ -350,6 +367,7 @@ nibbāna-gāmiṃ paramaṃ hitāya
 varo vara'ññū vara'do var'āharo,
 anuttaro dhamma-varaṃ adesayi.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | varo | adj | masc.nom.sg | excellent; noble |
 | vara'ññū | adj | masc.nom.sg | knower the best , who knowing the best |
@@ -366,6 +384,7 @@ viratta-citt'āyatike bhavasmiṃ.
 te khīṇa-bījā avirūḷhi-chandā,
 nibbanti dhīrā yath'āyaṃ padīpo.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | khīṇaṃ | pp | nt.nom.sg | exhausted; wasted |
 | purāṇaṃ | adj | nt.nom.sg | ancient; old; worn out; used; former. |
@@ -391,6 +410,7 @@ nibbanti dhīrā yath'āyaṃ padīpo.
 tathāgataṃ deva-manussa-pūjitaṃ,
 buddhaṃ namassāma suvatthi hotu.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tathāgataṃ | noun | masc.acc.sg | such become, realised, being in such a state thus gone or thus came |
 | devamanussa- | noun |  | gods and men |
@@ -402,5 +422,4 @@ buddhaṃ namassāma suvatthi hotu.
 
 **let us pay homage to the Buddha, the such become worshipped by humans and gods. may there be well-being**
 
-
-next chant \> [Karaṇīya-metta-sutta](https://docs.google.com/document/d/1iLTSvK02-i-V2EfiMOXs_z8X-Tf2as06dVe2AuYBREo/)
+[← previous chant](per-53-mangala-sutta.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-55-karaniya-metta-sutta.md)

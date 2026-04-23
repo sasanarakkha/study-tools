@@ -8,6 +8,7 @@ R aṭṭhapāla-thera-gāthā
 passa cittakataṃ bimbaṃ – arukāyaṃ samussitaṃ
 āturaṃ bahusaṅkappaṃ – yassa natthi dhuvaṃ ṭhiti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | passa | verb | imp.2.sg | see! look (at)! |
 | cittakataṃ | adj | masc.acc.sg | made by the mind (or) adorned; painted;<br>decorated |
@@ -26,6 +27,7 @@ passa cittakataṃ bimbaṃ – arukāyaṃ samussitaṃ
 passa cittakataṃ rūpaṃ – maṇinā kuṇḍalena ca
 aṭṭhiṃ tacena onaddhaṃ – saha vatthehi sobhati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | passa | verb | imp.2.sg | see! look (at)! |
 | cittakataṃ | adj | masc.acc.sg | adorned; painted; decorated |
@@ -45,6 +47,7 @@ aṭṭhiṃ tacena onaddhaṃ – saha vatthehi sobhati
 alattakakatā pādā – mukhaṃ cuṇṇakamakkhitaṃ
 alaṃ bālassa mohāya – no ca pāragavesino
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | alattaka- | noun | masc | lac, a red animal dye, henna dye |
 | katā | pp | masc.nom.pl | done, made |
@@ -64,6 +67,7 @@ alaṃ bālassa mohāya – no ca pāragavesino
 aṭṭha-pada-katā kesā – nettā añjana-makkhitā
 alaṃ bālassa mohāya – no ca pāragavesino
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aṭṭha- | adj |  | eight (8) |
 | pada- | noun |  | way, place, position |
@@ -78,6 +82,7 @@ alaṃ bālassa mohāya – no ca pāragavesino
 añjanīva navā cittā – pūtikāyo alaṅkato
 alaṃ bālassa mohāya – no ca pāragavesino
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | añjanī'va | noun | fem.nom.sg | like a box for ointment, a collyrium pot |
 | navā | adj | fem.nom.sg | new, fresh |
@@ -92,6 +97,7 @@ laddhāna vittaṃ na dadanti mohā
 luddhā dhanaṃ sannicayaṃ karonti
 bhiyyova kāme abhipatthayanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | passāmi | verb | pr.1.sg | I see, find, understand |
 | loke | noun | masc.loc.sg | in the world |
@@ -116,6 +122,7 @@ avītataṇhā maraṇaṃ upenti
 ūnāva hutvāna jahanti dehaṃ
 kāmehi lokamhi na hatthi titti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | rājā | noun | masc.nom.sg | king |
 | ca | ind |  | and |
@@ -143,6 +150,7 @@ na cāpi vittena jaraṃ vihanti
 appaṃ hidaṃ jīvitamāhu dhīrā
 asassataṃ vippariṇāma-dhammaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | ind |  | not |
 | dīgham- | adj | nt.acc.sg | long (in space or time), tall |
@@ -169,6 +177,7 @@ yāya vosānamidhādhigacchati
 abyositattā hi bhavābhavesu
 pāpāni kammāni karoti mohā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasmā | ind | adv | from that, therefore, that is why, lit. from that |
 | hi | ind |  | indeed, certainly, truly, definitely |
@@ -195,6 +204,7 @@ virūparūpena mathenti cittaṃ
 ādīnavaṃ kāmaguṇesu disvā
 tasmā ahaṃ pabbajitomhi rāja
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kāmā | noun | masc.nom.pl | pleasures, sensual pleasures |
 | hi | ind |  | indeed, certainly, truly, definitely |
@@ -220,6 +230,7 @@ daharā ca vuḍḍhā ca sarīrabhedā
 etam'pi disvā pabbajito'mhi raja
 apaṇṇakaṃ sāmaññam'eva seyyo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | duma- | noun |  | tree |
 | phalāni- | noun | nt.nom.pl | fruits |
@@ -245,5 +256,4 @@ apaṇṇakaṃ sāmaññam'eva seyyo
 **As fruits from a tree, people fall, young and old, from the breaking-up of the body, 
 just having seen this, I am a monk, o king. Certainly only monkhood is better.**
 
-
-next chant \> [From the Elder Pārāpariya](https://docs.google.com/document/d/17HAQkJVQCbO17uxjdykiPNCCtr8UAG6wbnC77mXKyFM/)
+[← previous chant](per-12-the-burdens.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-14-from-the-elder-parapariya.md)

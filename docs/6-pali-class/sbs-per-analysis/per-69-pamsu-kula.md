@@ -6,6 +6,7 @@
 
 aniccā vata saṅkhārā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vata | ind |  | indeed |
 | aniccā | adj | masc.nom.pl | not stable; impermanent |
@@ -13,6 +14,7 @@ aniccā vata saṅkhārā
 
 **indeed conditioned things are impermanent**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | uppāda-vaya-dhammino |  |  |  |
 | uppāda- | noun |  | rising; coming into existence, appearance |
@@ -23,6 +25,7 @@ aniccā vata saṅkhārā
 
 uppajjitvā nirujjhanti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | uppajjitvā | verb | abs | having born; arisen, appears |
 | nirujjhanti | verb | pr.3.pl | they cease; dissolve; vanish |
@@ -31,6 +34,7 @@ uppajjitvā nirujjhanti
 
 tesaṃ vūpasamo sukho
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tesaṃ | pron | masc.gen.pl | of them, their |
 | vūpasamo | noun | masc.nom.sg | subsiding, settling, calming |
@@ -43,6 +47,7 @@ tesaṃ vūpasamo sukho
 
 sabbe sattā maranti ca mariṃsu ca marissare, tath'ev'āhaṃ marissāmi, n'atthi me ettha saṃsayo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [thai] |  |  |  |
 | sabbe | adj | masc.nom.pl | all |
@@ -69,6 +74,7 @@ sabbe sattā maranti ca mariṃsu ca marissare, tath'ev'āhaṃ marissāmi, n'at
 
 aciraṃ vat'ayaṃ kāyo, paṭhaviṃ adhisessati, chuḍḍho apeta-viññāṇo, niratthaṃ va kaliṅgaraṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aciraṃ | ind |  | soon, before long |
 | vata- | ind |  | indeed |
@@ -85,7 +91,4 @@ aciraṃ vat'ayaṃ kāyo, paṭhaviṃ adhisessati, chuḍḍho apeta-viññā�
 
 **Indeed soon, this body, will lie on the ground cast off, without consciousness, like a useless rotten piece of wood.**
 
-
-next chant in the next chapter \> [Sharing and Aspirations](https://docs.google.com/document/d/1nf7AbjIPgWQUwyaWWImr_0HT-mdMbXE_kiySAyS0RAg/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-68-adasi-me-adi-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-70-sharing-and-aspirations.md)

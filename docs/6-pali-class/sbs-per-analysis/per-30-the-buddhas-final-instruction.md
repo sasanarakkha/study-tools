@@ -7,6 +7,7 @@ Buddha-pacchima-ovāda
 [DN 16.36]
 siyā kho tumhākaṃ evam'assa
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | siyā | verb | opt.3rd.sg | could be; may be |
 | kho | ind |  | indeed |
@@ -17,6 +18,7 @@ siyā kho tumhākaṃ evam'assa
 
 atītasatthukaṃ pāvacanaṃ, n'atthi no satthā’ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | atītasatthukaṃ | adj | nt.nom.sg | with a dead teacher; whose teacher has passed away |
 | (or) |  |  |  |
@@ -33,6 +35,7 @@ atītasatthukaṃ pāvacanaṃ, n'atthi no satthā’ti.
 
 yo vo mayā dhammo ca vinayo ca desito paññatto so vo mam'accayena satthā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | whatever |
 | vo | pron | 2.dat.pl | for you all |
@@ -57,6 +60,7 @@ vayadhammā saṅkhārā
 appamādena sampādetha
 ayaṃ tathāgatassa pacchimā vācā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | handa | ind |  | come on! come now! |
 | dāni | ind |  | now, immediately |
@@ -74,5 +78,4 @@ ayaṃ tathāgatassa pacchimā vācā
 
 **come now, o monks! I declare to you: condition phenomena are of the liable to disintegrate, strive for a goal with heedfulness”. This is final statement of the Tathāgata.**
 
-
-next chant in the next chapter \> [The Four Requisites](https://docs.google.com/document/d/1azl8a1Y5kSXxYFKXc-R8c29J0J_NEBAtmXvSHIkY8zo/)
+[← previous chant](per-29-striving-according-to-the-dhamma.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-31-the-four-requisites.md)

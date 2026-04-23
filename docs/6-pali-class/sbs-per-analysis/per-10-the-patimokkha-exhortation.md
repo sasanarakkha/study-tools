@@ -8,6 +8,7 @@ Ovāda-pāṭimokkha-gāthā
 sabba-pāpassa akaraṇaṃ, kusalassūpasampadā.
 sacitta-pariyodapanaṃ, etaṃ buddhāna sāsanaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabba- | adj |  | all, every, whole, entire, complete |
 | pāpassa | noun | masc.gen.sg | of evil, criminal, wrong, bad, vicious |
@@ -26,6 +27,7 @@ sacitta-pariyodapanaṃ, etaṃ buddhāna sāsanaṃ
 khantī paramaṃ tapo tītikkhā, nibbānaṃ paramaṃ vadanti buddhā.
 na hi pabbajito parūpaghātī, samaṇo hoti paraṃ viheṭhayanto
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | khantī | noun | fem.nom.sg | patience, endurance, tolerance |
 | paramaṃ | adj | nt.nom.sg | very highest, ultimate, superior, sublime, most extreme, lit. furthest |
@@ -51,6 +53,7 @@ anūpavādo anūpaghāto, pāṭimokkhe ca saṃvaro.
 mattaññutā ca bhattasmiṃ, pantañ-ca sayan'āsanaṃ.
 adhicitte ca āyogo, etaṃ buddhāna sāsanaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | anūpavādo | noun | masc.nom.sg | not blaming, not insulting, nor abusing |
 | anūpaghāto, | noun | masc.nom.sg | not harming, not hurting, non-violence |
@@ -72,5 +75,4 @@ adhicitte ca āyogo, etaṃ buddhāna sāsanaṃ
 
 **Not blaming and not harming, restraining by training rules, moderation in food, secluded living place, devotion to the mental development, these are the Teachings of the Buddhas.**
 
-
-next chant \> [The Three Characteristics](https://docs.google.com/document/d/1O-gl_VRZgcaNk-xAr4HdGfm8-cj1SB5GksOQEtH7hrw/)
+[← previous chant](per-09-going-to-true-and-false-refuges.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-11-the-three-characteristics.md)

@@ -8,6 +8,7 @@ mettaṃ erāpathehi me;
 chabyā-puttehi me mettaṃ,
 mettaṃ kaṇhā-gotamakehi ca;
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | virūpakkhehi | noun | masc.ins.pl | with Virūpakkha snakes - family of snakes |
 | me | pron | 1.gen.sg | my |
@@ -30,6 +31,7 @@ mettaṃ dipādakehi me;
 catuppadehi me mettaṃ,
 mettaṃ bahuppadehi me.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | apādakehi | adj | masc.ins.pl | with not having feet, footless, creeping |
 | me | pron | 1.gen.sg | my |
@@ -51,6 +53,7 @@ mā maṃ hiṃsi dipādako;
 mā maṃ catuppado hiṃsi,
 mā maṃ hiṃsi bahuppado.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mā | ind |  | may not |
 | maṃ | pron | 1.acc.sg | me |
@@ -76,6 +79,7 @@ sabbe bhūtā ca kevalā;
 sabbe bhadrāni passantu,
 mā kiñci pāpam-āgamā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | adj | masc.nom.pl | all; every |
 | sattā | noun | masc.nom.pl | living beings, creatures |
@@ -102,6 +106,7 @@ pamāṇavantāni siriṃsapāni;
 ahi-vicchikā satapadī
 uṇṇānābhī sarabhū mūsikā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | appamāṇo | adj | masc.nom.sg | boundless; unlimited, immeasurable |
 | buddho, | noun | masc.nom.sg | the Buddha |
@@ -125,6 +130,7 @@ paṭikkamantu bhūtāni.
 so'haṃ namo bhagavato
 namo sattannaṃ sammā-sambuddhānaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | katā | pp | masc.nom.pl | done, worked, made |
 | me | pron | 1.ins.sg | by me |
@@ -145,5 +151,4 @@ namo sattannaṃ sammā-sambuddhānaṃ.
 
 **Protection done by me; safeguard done by me. May the beings step backwards. I pay homage to the Blessed One, homage to the seven rightly self-awakened ones.**
 
-
-next chant \> [Buddha-dhamma-saṅgha-guṇā](https://docs.google.com/document/d/19-2G8AGp2rzbPWVBwCoaVBmmYflR-nWfzTXruZLnhL0/)
+[← previous chant](per-55-karaniya-metta-sutta.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-57-buddha-dhamma-sangha-guna.md)

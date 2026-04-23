@@ -4,6 +4,7 @@
 
 bojjh'aṅgo sati-saṅkhāto dhammānaṃ vicayo tathā viriyam'pīti-passaddhi bojjh'aṅgā ca tathā'pare samādh'upekkha-bojjh'aṅgā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [thai] |  |  |  |
 | bojjh'aṅgo | noun | masc.nom.sg | element of awakening, factor of enlightenment |
@@ -27,6 +28,7 @@ bojjh'aṅgo sati-saṅkhāto dhammānaṃ vicayo tathā viriyam'pīti-passaddhi
 
 satt'ete sabba-dassinā muninā sammad-akkhātā bhāvitā bahulī-katā saṃvattanti abhiññāya nibbānāya ca bodhiyā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | satta- | adj |  | seven (7) |
 | ete | pron | masc.nom.pl | these |
@@ -47,6 +49,7 @@ satt'ete sabba-dassinā muninā sammad-akkhātā bhāvitā bahulī-katā saṃva
 
 etena sacca-vajjena sotthi te hotu sabbadā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | etena | pron | masc.ins.sg | by this |
 | sacca- | noun |  | truth |
@@ -60,6 +63,7 @@ etena sacca-vajjena sotthi te hotu sabbadā
 
 ekasmiṃ samaye nātho moggallānañ'ca kassapaṃ gilāne dukkhite disvā, bojjh'aṅge satta desayi. te ca taṃ abhinanditvā rogā mucciṃsu taṅ'khaṇe.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ekasmiṃ | adj | masc.loc.sg | in one |
 | samaye | noun | masc.loc.sg | in time, occasion |
@@ -88,6 +92,7 @@ etena sacca-vajjena sotthi te hotu sabbadā
 
 ekadā dhamma-rājā pi gelaññen'ābhipīḷito cundattherena taññeva bhaṇāpetvāna sādaraṃ sammoditvā ca ābādhā tamhā vuṭṭhāsi ṭhānaso.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ekadā | ind |  | one day, sometimes, at some (unspecified) time |
 | dhammarājā | noun | masc.nom.sg | king of the Dhamma; epithet of the Buddha |
@@ -113,6 +118,7 @@ etena sacca-vajjena sotthi te hotu sabbadā
 
 pahīnā te ca ābādhā tiṇṇannam'pi mahesinaṃ, magg'āhata-kilesā va patt'ānuppatti-dhammataṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | pahīnā | pp | masc.nom.pl | abandoned, dispelled, eliminated, removed given up |
 | te | pron | masc.nom.pl | they, those |
@@ -134,5 +140,4 @@ etena sacca-vajjena sotthi te hotu sabbadā
 
 **By the saying of this truth, may well-being always be for you.**
 
-
-next chant \> [Abhaya-parittaṃ](https://docs.google.com/document/d/1EroYaPHLfct3o2lq6LKFHXU109N82ZRLK5LnWLqdHVE/)
+[← previous chant](per-58-yan-kinci-ratanam-loke.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-60-abhaya-parittam.md)

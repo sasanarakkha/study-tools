@@ -11,6 +11,7 @@ ekaṃ samayaṃ bhagavā bhoganagare viharati ānandacetiye
 
 katame bhikkhave cattāro mah'āpadesā?
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mahā- | adj |  | great, large, powerful |
 | apadesā | noun | masc.nom.pl | reasons, causes, arguments, statements references |
@@ -19,6 +20,7 @@ katame bhikkhave cattāro mah'āpadesā?
 
 idha, bhikkhave, bhikkhu evaṃ vadeyya — sammukhā m'etaṃ, āvuso, bhagavato sutaṃ sammukhā paṭiggahitaṃ — ayaṃ dhammo, ayaṃ vinayo, idaṃ satthusāsanan'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | idha | ind |  | here, in this regard, in this case |
 | bhikkhu | noun | masc.nom.sg | a monk |
@@ -43,6 +45,7 @@ idha, bhikkhave, bhikkhu evaṃ vadeyya — sammukhā m'etaṃ, āvuso, bhagavat
 
 asukasmiṃ nāma āvāse saṅgho viharati sathero sapāmokkho. tassa me saṅghassa sammukhā sutaṃ sammukhā paṭiggahitaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | asukasmiṃ | adj | masc.loc.sg | in such and such; so and so; a certain. |
 | nāma | ind |  | called, by the name of, namely |
@@ -63,6 +66,7 @@ asukasmiṃ nāma āvāse saṅgho viharati sathero sapāmokkho. tassa me saṅg
 
 asukasmiṃ nāma āvāse sambahulā therā bhikkhū viharanti bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā tesaṃ me therānaṃ sammukhā sutaṃ sammukhā paṭiggahitaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | asukasmiṃ | adj | masc.loc.sg | in such and such; so and so; a certain. |
 | nāma | ind |  | called, by the name of, namely |
@@ -96,6 +100,7 @@ ayaṃ dhammo ayaṃ vinayo idaṃ satthusāsanan'ti
 
 tassa bhikkhave bhikkhuno bhāsitaṃ n'eva abhinanditabbaṃ nappaṭikkositabbaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tassa | pron | masc.gen.sg | of that |
 | bhikkhuno | noun | masc.gen.sg | of monks |
@@ -109,6 +114,7 @@ tassa bhikkhave bhikkhuno bhāsitaṃ n'eva abhinanditabbaṃ nappaṭikkositabb
 
 anabhinanditvā appaṭikkositvā padabyañjanāni sādhukaṃ uggahetvā sutte otāretabbāni, vinaye sandassetabbāni.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | anabhinanditvā | verb | abs | having not approved (of), having not applauded |
 | appaṭikkositvā | verb | abs | having not disapproved, having not rejected |
@@ -125,6 +131,7 @@ anabhinanditvā appaṭikkositvā padabyañjanāni sādhukaṃ uggahetvā sutte 
 
 tāni ce sutte otāriyamānāni vinaye sandassiyamānāni na ceva sutte otaranti na vinaye sandissanti, niṭṭham'ettha gantabbaṃ:
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tāni | pron | nt.nom.pl | those |
 | ce | ind |  | if |
@@ -147,6 +154,7 @@ tāni ce sutte otāriyamānāni vinaye sandassiyamānāni na ceva sutte otaranti
 
 addhā idaṃ na ceva tassa bhagavato vacanaṃ arahato sammāsambuddhassa; tassa ca therassa duggahitan'ti. iti hetaṃ bhikkhave chaḍḍeyyātha.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | addhā | ind |  | most certainly! for sure! definitely! |
 | idaṃ | pron | nt.nom.sg | this, this thing |
@@ -169,6 +177,7 @@ addhā idaṃ na ceva tassa bhagavato vacanaṃ arahato sammāsambuddhassa; tass
 
 sutte ceva otaranti vinaye ca sandissanti, niṭṭham'ettha gantabbaṃ – addhā, idaṃ tassa bhagavato vacanaṃ arahato sammāsambuddhassa;
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sutte | noun | nt.loc.sg | in discourse |
 | ceva | ind |  | only if, if just |
@@ -191,6 +200,7 @@ sutte ceva otaranti vinaye ca sandissanti, niṭṭham'ettha gantabbaṃ – add
 
 imassa ca bhikkhuno suggahitaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | imassa | pron | masc.gen.sg | of this, his |
 | ca | ind |  | and |
@@ -215,5 +225,4 @@ ime kho bhikkhave cattāro mahāpadesā ti
 
 **Indeed, o monks, these are the four great references.**
 
-
-next chant \> [Principles of Cordiality](https://docs.google.com/document/d/1Hye1mXDVZfVSejNz7vRzSbwAwfKgr4zXHtepvhzH0Vs/)
+[← previous chant](per-25-the-dhamma-in-brief.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-27-principles-of-cordiality.md)

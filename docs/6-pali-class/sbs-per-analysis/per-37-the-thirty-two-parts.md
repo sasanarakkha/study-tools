@@ -7,6 +7,7 @@ Dvattiṃs'ākāra-paccavekkhaṇa
 [dn 22.5]
 ayaṃ kho me kāyo uddhaṃ pādatalā adho kesa-matthakā taca-pariyanto pūro nānappakārassa asucino
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ayaṃ | pron | masc.nom.sg | this |
 | kho | ind |  | indeed |
@@ -27,6 +28,7 @@ ayaṃ kho me kāyo uddhaṃ pādatalā adho kesa-matthakā taca-pariyanto pūro
 
 atthi imasmiṃ kāye kesā lomā nakhā dantā taco, maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ, hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ, antaṃ antaguṇaṃ udariyaṃ karīsaṃ, pittaṃ semhaṃ pubbo lohitaṃ sedo medo, assu vasā kheḷo siṅghāṇikā lasikā muttaṃ, matthaluṅgan'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | atthi | verb | pres.3.pl | there are |
 | imasmiṃ | pron | masc.loc.sg | in this |
@@ -72,5 +74,4 @@ tacapariyanto pūro nānappakārassa asucino
 
 **like this indeed this my body from the soles of the feet upwards, from the crown of the head downwards, enclosed with skin and full of various kinds of impurity:**
 
-
-next chant \> [Recollection of Impermanence](https://docs.google.com/document/d/1d59_2DrZ1axq39iXItJaI17oPnUd-tZ_8Heebu0bo9c/)
+[← previous chant](per-36-ten-subjects-for-frequent-recollection-by-one-who-has-gone-forth.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-38-recollection-of-impermanence.md)

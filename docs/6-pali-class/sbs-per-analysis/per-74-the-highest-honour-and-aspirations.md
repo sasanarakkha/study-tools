@@ -9,6 +9,7 @@ Paramāya Pūjāyañca Paṇidhiñca
 [sri lanka]
 buddhaṃ jīvita-pariyantaṃ saraṇaṃ gacchāmi.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | buddhaṃ | noun | masc.acc.sg | the Buddha, Awakened One |
 | jīvita- | noun |  | life, life span |
@@ -20,6 +21,7 @@ buddhaṃ jīvita-pariyantaṃ saraṇaṃ gacchāmi.
 
 dhammaṃ jīvita-pariyantaṃ saraṇaṃ gacchāmi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dhammaṃ | noun | masc.acc.sg | the Teaching, Doctrine |
 
@@ -27,6 +29,7 @@ dhammaṃ jīvita-pariyantaṃ saraṇaṃ gacchāmi
 
 saṅghaṃ jīvita-pariyantaṃ saraṇaṃ gacchāmi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saṅghaṃ | noun | masc.acc.sg | the Community, assembly of monks |
 
@@ -34,6 +37,7 @@ saṅghaṃ jīvita-pariyantaṃ saraṇaṃ gacchāmi
 
 iminā puñña-kammena mā me bāla-samāgamo. sataṃ samāgamo hotu, yāva nibbāna-pattiyā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | iminā | pron | nt.ins.sg | with this, by this |
 | puñña- | noun |  | merit; righteousness |
@@ -45,6 +49,7 @@ iminā puñña-kammena mā me bāla-samāgamo. sataṃ samāgamo hotu, yāva nib
 
 **by this righteous action, may I not have a foolish assembly**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sataṃ | adj | masc.acc.sg | virtuous, good, true |
 | samāgamo | noun | masc.nom.sg | assembly, meeting |
@@ -58,6 +63,7 @@ iminā puñña-kammena mā me bāla-samāgamo. sataṃ samāgamo hotu, yāva nib
 DN 16.27
 yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā dhamm'ānudhamma-ppaṭipanno viharati sāmīcippaṭipanno anudhammacārī,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | whoever |
 | kho | ind |  | indeed |
@@ -80,6 +86,7 @@ yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā dhamm'ānudhamma-pp
 
 so tathāgataṃ sakkaroti garuṃ karoti māneti pūjeti apacayati, paramāya pūjāya.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he, that |
 | tathāgataṃ | noun | masc.acc.sg | Such Become, Realised, being in such a state |
@@ -96,6 +103,7 @@ so tathāgataṃ sakkaroti garuṃ karoti māneti pūjeti apacayati, paramāya p
 [sri lanka]
 imāya dhamm'ānudhamma-paṭipattiyā buddhaṃ pūjemi paramāya pūjāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | imāya | pron | fem.ins.sg | by this |
 | dhamm'ānudhamma- | adj |  | according to Teaching, in line with the Dhamma |
@@ -110,6 +118,7 @@ imāya dhamm'ānudhamma-paṭipattiyā buddhaṃ pūjemi paramāya pūjāya
 [sri lanka]
 addhā imāya paṭipadāya jāti-jarā-byādhi-maraṇamhā parimuccissāmi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | addhā | ind |  | most certainly! for sure! definitely! |
 | imāya | pron | fem.ins.sg | by this |
@@ -123,6 +132,7 @@ addhā imāya paṭipadāya jāti-jarā-byādhi-maraṇamhā parimuccissāmi
 
 idaṃ me puññaṃ āsavakkhayā-vahaṃ hotu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | idaṃ | pron | nt.nom.sg | this |
 | me | pron | 1.gen.sg | my |
@@ -135,13 +145,11 @@ idaṃ me puññaṃ āsavakkhayā-vahaṃ hotu
 
 idaṃ me puññaṃ nibbānassa paccayo hotu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | nibbānassa | noun | nt.dat.sg | for going out (of a lamp), extinguishing (of a fire) quenching |
 | paccayo | noun | masc.nom.sg | cause (for), supporting condition (for), precondition (for), prerequisite (for), requirement (for) |
 
 **May this my merit be supporting condition for extinguishing.**
 
-
-\> [Post Pātimokkha recitations](https://docs.google.com/document/d/1Qzh_BTJgg-YSxGMyEyu1TciVSX_lVg3arSzD_Vtf_Fg/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-73-sharing-of-merits-with-the-devas.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](post-patimokkha.md)

@@ -4,6 +4,7 @@
 
 dukkhappattā ca niddukkhā, bhayappattā ca nibbhayā, sokappattā ca nissokā, hontu sabbe pi pāṇino.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [MJG] |  |  |  |
 | dukkhappattā | adj | masc.nom.pl | being in suffering, afflicted with pain |
@@ -24,6 +25,7 @@ dukkhappattā ca niddukkhā, bhayappattā ca nibbhayā, sokappattā ca nissokā,
 
 ettāvatā ca amhehi sambhataṃ puñña-sampadaṃ sabbe devā anumodantu sabba-sampatti-siddhiyā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ettāvatā | ind |  | to this extent, to this degree, so far |
 | ca | ind |  | and |
@@ -42,6 +44,7 @@ ettāvatā ca amhehi sambhataṃ puñña-sampadaṃ sabbe devā anumodantu sabba
 
 dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā, bhāvan'ābhiratā hontu, gacchantu devatā-gatā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dānaṃ | noun | nt.acc.sg | alms, gift, giving, offering, charity |
 | dadantu | verb | imp.3.pl | may they give |
@@ -60,6 +63,7 @@ dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā, bhāvan'ābhiratā hont
 
 sabbe buddhā balappattā, paccekānañ'ca yaṃ balaṃ, arahantānañ'ca tejena, rakkhaṃ bandhāmi sabbaso.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | adj | masc.nom.pl | all |
 | buddhā | noun | masc.nom.pl | the Buddhas, Awakened Ones |
@@ -75,5 +79,4 @@ sabbe buddhā balappattā, paccekānañ'ca yaṃ balaṃ, arahantānañ'ca tejen
 
 **By all Buddhas attained the power, and the power of the solitary ones, and by the might of the worthy ones, may I bind in every way for protection.**
 
-
-next chant \> [Jaya-maṅgala-aṭṭha-gāthā](https://docs.google.com/document/d/1XQQQ4hLZG2eZrMUxhLSrIK0VGnLhCIBKV84dLGyd7a4/)
+[← previous chant](per-60-abhaya-parittam.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-62-jaya-mangala-attha-gatha.md)

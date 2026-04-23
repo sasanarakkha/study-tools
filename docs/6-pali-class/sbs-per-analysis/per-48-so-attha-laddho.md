@@ -5,6 +5,7 @@
 [AN 3.156]
 te atthaladdhā sukhitā, viruḷhā buddhasāsane. arogā sukhitā hotha, saha sabbehi ñātibhī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | te | pron | masc.nom.pl | those |
 | attha- | noun |  | benefit, profit, good, welfare, goal |
@@ -21,5 +22,4 @@ te atthaladdhā sukhitā, viruḷhā buddhasāsane. arogā sukhitā hotha, saha 
 
 **Those happy ones who have gained (such) benefits come to growth in the Buddha's teaching. May you and all your relatives be healthy and happy!**
 
-
-next chant in the next chapter \> [Devā-ārādhanā](https://docs.google.com/document/d/1g85wBs0kuJF51coQzQSBOdfbqFewAi749Th9jJqaVhw/)
+[← previous chant](per-47-kala-dana-sutta-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-49-deva-aradhanai.md)

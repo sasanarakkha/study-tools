@@ -7,6 +7,7 @@ Bhadd'eka-ratta
 [Mn 131]
 atītaṃ n'ānvāgameyya, nappaṭikaṅkhe anāgataṃ. yad-atītam'pahīnan'taṃ, appattañ'ca anāgataṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | atītaṃ | adj (as noun) | nt.acc.sg | (what is) past, gone past |
 | n'ānvāgameyya | verb | opt.3.sg | could/should not follow; should not return, chase after, run back |
@@ -24,6 +25,7 @@ atītaṃ n'ānvāgameyya, nappaṭikaṅkhe anāgataṃ. yad-atītam'pahīnan't
 
 paccuppannañ'ca yaṃ dhammaṃ, tattha tattha vipassati.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | paccuppannañ- | adj | masc.acc.sg | present, existing, current |
 | ca | ind |  | and |
@@ -37,6 +39,7 @@ And he understands with insight in each and every case a state which is presentl
 
 asaṃhiraṃ asaṅkuppaṃ, taṃ vidvā m-anubrūhaye.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | asaṃhiraṃ | adj (or as noun) | masc.acc.sg | (what is) immovable, unconquerable, irrefutable |
 | asaṅkuppaṃ | adj (or as noun) | masc.acc.sg | (what is) not to be shaken; immovable; steady |
@@ -49,6 +52,7 @@ asaṃhiraṃ asaṅkuppaṃ, taṃ vidvā m-anubrūhaye.
 
 ajj'eva kiccam'ātappaṃ, ko jaññā maraṇaṃ suve. na hi no saṅgaran'tena, mahā-senena maccunā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ajja- | ind |  | today, now |
 | eva | ind | emph | only, just, so, even |
@@ -71,6 +75,7 @@ ajj'eva kiccam'ātappaṃ, ko jaññā maraṇaṃ suve. na hi no saṅgaran'ten
 
 evaṃ vihārim'ātāpiṃ, ahorattam'atanditaṃ. taṃ ve bhadd'eka-ratto'ti, santo ācikkhate muni.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃ | ind |  | thus, this, like this, just as, such |
 | vihārim- | adj (as noun) | masc.acc.sg | one who lives (in a state of), (one) living |
@@ -89,5 +94,4 @@ evaṃ vihārim'ātāpiṃ, ahorattam'atanditaṃ. taṃ ve bhadd'eka-ratto'ti, 
 
 **Thus staying ardent day and night, effortful – he (has) indeed an auspicious night – the peaceful sage could tell.**
 
-
-next chant in the next chapter \> [Setting in Motion The Wheel of Dhamma](https://docs.google.com/document/d/1hfC4NyprTtz5cUzTEpSTYIal9ISo865T1J6UFqndRHM/)
+[← previous chant](per-16-miscellaneous-verses.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-18-setting-in-motion-the-wheel-of-dhamma.md)

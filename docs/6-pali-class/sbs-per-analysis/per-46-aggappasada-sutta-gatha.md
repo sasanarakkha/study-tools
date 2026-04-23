@@ -5,6 +5,7 @@
 [AN 5.32]
 aggato ve pasannānaṃ, aggaṃ dhammaṃ vijānataṃ. agge buddhe pasannānaṃ, dakkhiṇeyye anuttare.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aggato | adj | masc.abl.sg | from highest, topmost, foremost |
 | ve | ind |  | indeed, truly, really |
@@ -22,6 +23,7 @@ aggato ve pasannānaṃ, aggaṃ dhammaṃ vijānataṃ. agge buddhe pasannāna�
 
 agge dhamme pasannānaṃ, virāg'ūpasame sukhe. agge saṅghe pasannānaṃ, puññakkhette anuttare.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | agge | adj | masc.loc.sg | in highest, topmost, foremost |
 | dhamme | noun | masc.loc.sg | in Teaching |
@@ -39,6 +41,7 @@ agge dhamme pasannānaṃ, virāg'ūpasame sukhe. agge saṅghe pasannānaṃ, p
 
 aggasmiṃ dānaṃ dadataṃ, aggaṃ puññaṃ pavaḍḍhati. aggaṃ āyu ca vaṇṇo ca, yaso kitti sukhaṃ balaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aggasmiṃ | adj | masc.loc.sg | in highest, topmost, foremost |
 | dānaṃ | noun | nt.acc.sg | alms, gift, giving, offering, charity |
@@ -60,6 +63,7 @@ aggasmiṃ dānaṃ dadataṃ, aggaṃ puññaṃ pavaḍḍhati. aggaṃ āyu c
 
 aggassa dātā medhāvī, agga-dhamma-samāhito. deva-bhūto manusso vā, aggappatto pamodatī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aggassa | adj | masc.dat.sg | to highest, topmost, foremost |
 | dātā | noun | masc.nom.sg | one who gives, a giver |
@@ -77,5 +81,4 @@ aggassa dātā medhāvī, agga-dhamma-samāhito. deva-bhūto manusso vā, aggapp
 
 **The wise one who gives to the foremost, who is settled in the foremost Teaching, having become a deity or human being, rejoices, having attained the foremost.**
 
-
-next chant \> [Kāla-dāna-sutta-gāthā](https://docs.google.com/document/d/1smMeRSKEqTywbpTQexaVWwlM0ItftEwS9Fs9922ieJU/)
+[← previous chant](per-45-culla-mangala-cakka-vala.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-47-kala-dana-sutta-gatha.md)

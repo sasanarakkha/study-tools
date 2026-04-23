@@ -5,6 +5,7 @@
 [AN 5.36]
 kāle dadanti sappaññā, vadaññū vītamaccharā. kālena dinnaṃ ariyesu, ujubhūtesu tādisu. vippasannamanā tassa, vipulā hoti dakkhiṇā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kāle | ind |  | at the right time, at the proper time |
 | dadanti | verb | pr.3.pl | they give, offer, donate |
@@ -26,6 +27,7 @@ kāle dadanti sappaññā, vadaññū vītamaccharā. kālena dinnaṃ ariyesu, 
 
 ye tattha anumodanti, veyyāvaccaṃ karonti vā. na tena dakkhiṇā onā, te'pi puññassa bhāgino.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whoever, whatever, whichever, those who |
 | tattha | ind |  | there, in that place |
@@ -45,6 +47,7 @@ ye tattha anumodanti, veyyāvaccaṃ karonti vā. na tena dakkhiṇā onā, te'p
 
 tasmā dade appaṭivāna-citto, yattha dinnaṃ mahapphalaṃ. puññāni paralokasmiṃ, patiṭṭhā honti pāṇinan'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasmā | ind |  | therefore, that is why, lit. from that |
 | dade | verb | opt.3.sg | he should give |
@@ -61,5 +64,4 @@ tasmā dade appaṭivāna-citto, yattha dinnaṃ mahapphalaṃ. puññāni paral
 
 **Therefore, with mind without regret, one should give a gift where it yields great fruit. These merits are support for living beings in the other world.**
 
-
-next chant \> [So attha-laddho](https://docs.google.com/document/d/1iISQ3e2TaL4qS0jYmuu8qDzW2MxbGdPaLtTmDp2zwiw/)
+[← previous chant](per-46-aggappasada-sutta-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-48-so-attha-laddho.md)

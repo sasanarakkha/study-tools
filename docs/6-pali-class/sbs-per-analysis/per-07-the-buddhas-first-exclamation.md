@@ -8,6 +8,7 @@ Buddha-paṭhama-bhāsita
 aneka-jāti-saṃsāraṃ – sandhāvissaṃ anibbisaṃ
 gaha-kāraṃ gavesanto – dukkhā jāti punappunaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aneka-jāti- | adj |  | with many births; having multiple lives |
 | saṃsāraṃ | noun | masc.acc.sg | cycle of rebirth, round of births |
@@ -26,6 +27,7 @@ gaha-kāraka diṭṭho'si – puna gehaṃ na kāhasi
 sabbā te phāsukā bhaggā – gaha-kūṭaṃ visaṅkhataṃ
 visaṅkhāra-gataṃ cittaṃ – taṇhānaṃ khayam-ajjhagā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | gaha-kāraka | noun | masc.voc.sg | house builder, mason, carpenter |
 | diṭṭho' | pp | masc.nom.sg | seen, found |
@@ -49,5 +51,4 @@ visaṅkhāra-gataṃ cittaṃ – taṇhānaṃ khayam-ajjhagā
 
 **House builder, you are seen! You will not build the house again! All your rafters are broken, the ridgepole is destroyed. Mind has gone into an unconditioned state and achieved the exhaustion of cravings.**
 
-
-next chant \> [Respect for the Dhamma](https://docs.google.com/document/d/1CDTtwFmcyBJqrIQwROcMsqM8qXGzvyc5SFZjKOLaTXs/)
+[← previous chant](per-06-salutation-to-the-triple-gem.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-08-respect-for-the-dhamma.md)

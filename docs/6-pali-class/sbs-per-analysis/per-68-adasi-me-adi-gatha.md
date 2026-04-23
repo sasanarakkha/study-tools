@@ -5,6 +5,7 @@
 [KHP 7]
 adāsi me akāsi me, ñātimittā sakhā ca me. petānaṃ dakkhiṇaṃ dajjā, pubbe katam'anussaraṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | adāsi | verb | aor.3.sg | gave |
 | me | pron | 1.dat.sg | to me |
@@ -27,6 +28,7 @@ One should give gifts for the departed, remembering what was done before.**
 
 na hi ruṇṇaṃ vā soko vā, yā v'aññā paridevanā. na taṃ petānam'atthāya, evaṃ tiṭṭhanti ñātayo.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | ind |  | not |
 | hi | ind |  | indeed, certainly, truly, definitely |
@@ -50,6 +52,7 @@ na hi ruṇṇaṃ vā soko vā, yā v'aññā paridevanā. na taṃ petānam'at
 
 ayañ'ca kho dakkhiṇā dinnā, saṅghamhi suppatiṭṭhitā. dīgharattaṃ hitāy'assa, ṭhānaso upakappati.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ayañ'ca | pron | fem.nom.sg | but this |
 | kho | ind |  | indeed, surely, certainly, truly |
@@ -67,6 +70,7 @@ ayañ'ca kho dakkhiṇā dinnā, saṅghamhi suppatiṭṭhitā. dīgharattaṃ 
 
 so ñātidhammo ca ayaṃ nidassito, petāna'pūjā ca katā uḷārā. balañ'ca bhikkhūnam'anuppadinnaṃ, tumhehi puññaṃ pasutaṃ anappakan'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he, that |
 | ñāti-dhammo | noun | masc.nom.sg | the duty of relatives. |
@@ -88,7 +92,4 @@ so ñātidhammo ca ayaṃ nidassito, petāna'pūjā ca katā uḷārā. balañ'c
 
 **In this way the duty to relatives has been shown, great honor has been done to the departed, and strength have been given to monks. The merit made by you is not insignificant.**
 
-
-next chant \> [Paṃsu-kūla](https://docs.google.com/document/d/1lxxbDwwp3j9D-LNlkwvfqX7oECJPQuiETAZ7F53Y2ag/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-67-patthana-matika-patho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-69-pamsu-kula.md)

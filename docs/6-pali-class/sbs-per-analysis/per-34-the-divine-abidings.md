@@ -7,6 +7,7 @@ Brahmavihāra
 [DN 13.8]
 mettā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mettā- | noun |  | friendliness |
 | sahagatena | pp | nt.i.sg | with full of |
@@ -20,6 +21,7 @@ mettā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati
 
 tathā dutiyaṃ tathā tatiyaṃ tathā catutthaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tathā | ind | adv | like this, likewise |
 | dutiyaṃ | adj | fem.acc.sg | the second |
@@ -32,6 +34,7 @@ tathā dutiyaṃ tathā tatiyaṃ tathā catutthaṃ
 
 iti uddhamadho tiriyaṃ sabbadhi sabbattatāya
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | iti | ind |  | thus |
 | uddhamadho | ind | adv | above and below |
@@ -43,6 +46,7 @@ iti uddhamadho tiriyaṃ sabbadhi sabbattatāya
 
 sabbāvantaṃ lokaṃ mettā-sahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbāvantaṃ |  | adj | m.ac.s entire, whole |
 | lokaṃ | noun | masc.acc.sg | world, universe |
@@ -60,6 +64,7 @@ sabbāvantaṃ lokaṃ mettā-sahagatena cetasā vipulena mahaggatena appamāṇ
 
 karuṇā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati ...
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | karuṇā-sahagatena | pp | nt.ins.sg | full of compassion |
 
@@ -67,6 +72,7 @@ karuṇā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati ...
 
 muditā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati …
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | muditā-sahagatena | pp | nt.ins.sg | full of empathetic joy |
 
@@ -74,10 +80,10 @@ muditā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati …
 
 upekkhā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati ...
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | upekkhā-sahagatena | pp | nt.ins.sg | full of equanimity |
 
 **he lives having filled one direction with a mind full of equanimity ...**
 
-
-next chant \>[Five Subjects for Frequent Recollection](https://docs.google.com/document/d/19nhhk-fkG8oUwE_mkNLV1ja_WmaskRqgKVaOreY8XSY/)
+[← previous chant](per-33-universal-well-being.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-35-five-subjects-for-frequent-recollection.md)

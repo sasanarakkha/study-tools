@@ -5,6 +5,7 @@
 [Abhi-A Dh.s]
 hetu-paccayo, ārammaṇa-paccayo, adhipati-paccayo, anantara-paccayo, samanantara-paccayo, sahajāta-paccayo, aññam'añña-paccayo, nissaya-paccayo, upanissaya-paccayo, purejāta-paccayo, pacchājāta-paccayo, āsevana-paccayo, kamma-paccayo, vipāka-paccayo, āhāra-paccayo, indriya-paccayo, jhāna-paccayo, magga-paccayo, sampayutta-paccayo, vippayutta-paccayo, atthi-paccayo, n'atthi-paccayo, vigata-paccayo, avigata-paccayo.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | hetu- | noun |  | reason, cause, condition, root |
 | paccayo | noun | masc.nom.sg | cause, supporting condition, precondition, prerequisite requirement |
@@ -34,7 +35,4 @@ hetu-paccayo, ārammaṇa-paccayo, adhipati-paccayo, anantara-paccayo, samananta
 
 **root condition, sense-object condition, predominant condition, immediate condition, directly immediate condition, coexistent condition, reciprocity condition, dependence condition, sufficing condition, pre-existent condition, post-existent condition, repetition condition, action condition, result condition, nutriment condition, faculty condition, jhāna condition, path condition, associated condition, separated condition, existence condition, non-existence condition, disappeared condition, non-disappeared condition.**
 
-
-next chant \> [Adāsi-me ādi gāthā](https://docs.google.com/document/d/1DMMEOoykXO5Hjwl8D7lrG-F5jNvKoq2g_m2HZY6snsU/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-66-vipassana-bhumi-patho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-68-adasi-me-adi-gatha.md)

@@ -5,6 +5,7 @@
 [khp 7]
 yathā vāri-vahā pūrā paripūrenti sāgaraṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yathā | ind |  | like, as |
 | vāri- | noun |  | water |
@@ -17,6 +18,7 @@ yathā vāri-vahā pūrā paripūrenti sāgaraṃ
 
 evam'eva ito dinnaṃ petānaṃ upakappati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evam'eva | ind |  | similarly, in the same way, so too, just so |
 | ito | ind |  | from this (place), from here |
@@ -29,6 +31,7 @@ evam'eva ito dinnaṃ petānaṃ upakappati
 [KN-a Dh.p.1.2.1]
 icchitaṃ patthitaṃ tumhaṃ khippam'eva samijjhatu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | icchitaṃ | pp | nt.nom.sg | desired, wished; loved; allowed; prescribed |
 | patthitaṃ | pp | nt.nom.sg | wished for (by), sought after (by), desired (by) |
@@ -41,6 +44,7 @@ icchitaṃ patthitaṃ tumhaṃ khippam'eva samijjhatu
 
 sabbe pūrentu saṅkappā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | adj | masc.nom.pl | all |
 | pūrentu | verb | imp.3.pl | may they fulfil |
@@ -50,6 +54,7 @@ sabbe pūrentu saṅkappā
 
 cando paṇṇa-raso yathā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | cando | noun | masc.nom.sg | moon |
 | paṇṇa-raso | adj | masc.nom.sg | on fifteenth day, i.e. on full-moon day |
@@ -59,6 +64,7 @@ cando paṇṇa-raso yathā
 
 maṇi joti-raso yathā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | maṇi | noun | masc.nom.sg | jewel, gemstone, crystal |
 | joti-raso | noun | masc.nom.sg | certain jewel, wishing stone, wish-fulfilling gem |
@@ -68,6 +74,7 @@ maṇi joti-raso yathā
 
 sabb'ītiyo vivajjantu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabba- | adj |  | all |
 | ītiyo | noun | fem.nom.pl | ills, calamities, plagues, distresses |
@@ -77,6 +84,7 @@ sabb'ītiyo vivajjantu
 
 sabba-rogo vinassatu
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabba- | adj |  | all |
 | rogo | noun | masc.nom.sg | disease, illness |
@@ -86,6 +94,7 @@ sabba-rogo vinassatu
 
 mā te bhavatv'antarāyo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mā | ind |  | do not, may one not, don't let |
 | te | pron | 2.dat.sg | for you |
@@ -96,6 +105,7 @@ mā te bhavatv'antarāyo
 
 sukhī dīgh'āyuko bhava
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sukhī | adj | masc.nom.sg | at ease, happy, comfortable |
 | dīgh'āyuko | adj | masc.nom.sg | long lived |
@@ -106,6 +116,7 @@ sukhī dīgh'āyuko bhava
 [DHP 109]
 abhivādana-sīlissa niccaṃ vuḍḍhāpacāyino cattāro dhammā vaḍḍhanti āyu vaṇṇo sukhaṃ balaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | abhivādana- | noun | nt | salutation; bowing down, respectful greeting |
 | sīlissa | adj | masc.dat.sg | in the habit of, accustomed to, of such nature, of such character |
@@ -122,11 +133,13 @@ abhivādana-sīlissa niccaṃ vuḍḍhāpacāyino cattāro dhammā vaḍḍhant
 
 **For one who respectful by habit, constantly honoring the elders, four qualities increase: longevity, beauty, happiness and strength**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [Trad] |  |  |  |
 
 **bhavatu sabba-maṅgalaṃ rakkhantu sabba-devatā sabba-buddh'ānubhāvena sadā sotthī bhavantu te**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhavatu | verb | imp.3.sg | may it be |
 | sabba- | adj |  | all; every; whole; entire |
@@ -152,5 +165,4 @@ bhavatu sabba-maṅgalaṃ rakkhantu sabba-devatā sabba-saṅgh'ānubhāvena sa
 
 **May every blessing come to be! May all deities protect (you)! By the power of all Saṅghas may safety always be for you!**
 
-
-next chant \> [Ratanattayānubhāv’ādi-gāthā](https://docs.google.com/document/d/1MyHG0kafRuRsLlSFDhcVCJrRyMDwXEBRNIyoB5MAGiE/)
+[← previous chant](per-41-aditta-pariyaya-sutta.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-43-ratanattayanubhavadi-gatha.md)

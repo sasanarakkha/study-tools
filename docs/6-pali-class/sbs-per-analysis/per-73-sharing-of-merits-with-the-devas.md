@@ -7,6 +7,7 @@ Devata-Patti-Dāna
 [sri lanka]
 ettāvatā ca amhehi sambhataṃ puñña-sampadaṃ sabbe devā anumodantu sabba-sampatti-siddhiyā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ettāvatā | ind |  | to this extent, to this degree, so far |
 | ca | ind |  | and |
@@ -25,6 +26,7 @@ ettāvatā ca amhehi sambhataṃ puñña-sampadaṃ sabbe devā anumodantu sabba
 
 ettāvatā ca amhehi sambhataṃ puñña-sampadaṃ sabbe bhūtā anumodantu sabba sampatti siddhiyā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhūtā | noun | masc.nom.pl | beings, living beings |
 
@@ -32,12 +34,10 @@ ettāvatā ca amhehi sambhataṃ puñña-sampadaṃ sabbe bhūtā anumodantu sab
 
 ettāvatā ca amhehi sambhataṃ puñña-sampadaṃ sabbe sattā anumodantu sabba sampatti siddhiyā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sattā | noun | masc.nom.pl | beings, living beings, creatures |
 
 **May all creatures rejoice in meritorious achievement so far acquired by us, for the prosperity of all fortune.**
 
-
-next chant \> [The Highest Honour and Aspirations](https://docs.google.com/document/d/1snej2MNlaEtPH-f_4Gv8YpFleifo-Uz3f17XEkbYUw4/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-72-sharing-of-merits-with-the-departed.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-74-the-highest-honour-and-aspirations.md)

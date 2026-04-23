@@ -4,6 +4,7 @@
 
 handa mayaṃ dhammābhitthutiṃ karomase
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | handa | ind |  | well then; now |
 | mayaṃ | pron | 1.nom.pl | we |
@@ -15,6 +16,7 @@ handa mayaṃ dhammābhitthutiṃ karomase
 
 yo so svākkhāto bhagavatā dhammo
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | which, that … which, |
 | so | pron | masc.nom.sg | that |
@@ -26,6 +28,7 @@ yo so svākkhāto bhagavatā dhammo
 
 sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sandiṭṭhiko | adj | masc.nom.sg | visible, evident, presently perceivable |
 | akāliko | adj | masc.nom.sg | immediate, timeless |
@@ -40,6 +43,7 @@ sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhi
 tam-ahaṃ dhammaṃ abhipūjayāmi
 tam-ahaṃ dhammaṃ sirasā namāmi
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tam- | pron | masc.acc.sg | that |
 | ahaṃ | pron | 1.nom.sg | I |
@@ -53,7 +57,4 @@ tam-ahaṃ dhammaṃ sirasā namāmi
 
 **I highly worship the Teaching, I bow down with my head to the Teaching.**
 
-
-next chant \> [Homage to the Saṅgha](https://docs.google.com/document/d/1H7zzd88MbMt0E2FQQCYUYmWkkEzqmEtnylzrW6bsDZA/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-03-homage-to-the-buddha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-05-homage-to-the-sangha.md)

@@ -5,6 +5,7 @@
 [SNP 16]
 evam-me sutaṃ: ekaṃ samayaṃ bhagavā, sāvatthiyaṃ viharati, jeta-vane anāthapiṇḍikassa ārāme.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃ- | ind |  | thus; in this way |
 | me | pron | masc.ins.sg | by me |
@@ -22,6 +23,7 @@ evam-me sutaṃ: ekaṃ samayaṃ bhagavā, sāvatthiyaṃ viharati, jeta-vane a
 
 atha kho aññatarā devatā abhikkantāya rattiyā abhikkanta-vaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā, yena bhagavā ten'upasaṅkami.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | atha kho | ind |  | and then |
 | aññatarā | adj | fem.nom.sg | certain; not well-known |
@@ -42,6 +44,7 @@ atha kho aññatarā devatā abhikkantāya rattiyā abhikkanta-vaṇṇā kevala
 
 upasaṅkamitvā bhagavantaṃ abhivādetvā ekam-antaṃ aṭṭhāsi. ekam-antaṃ ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi:
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | upasaṅkamitvā | verb | abs | having approached |
 | bhagavantaṃ | noun | masc.acc.sg | Fortunate One, the Buddha |
@@ -64,6 +67,7 @@ maṅgalāni acintayuṃ;
 ākaṅkhamānā sotthānaṃ,
 brūhi maṅgalam-uttamaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bahū | adj | masc.nom.pl | much; many |
 | devā | noun | masc.nom.pl | deities |
@@ -84,6 +88,7 @@ paṇḍitānañ'ca sevanā;
 pūjā ca pūjanīyānaṃ,
 etaṃ maṅgalam-uttamaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | asevanā | noun | fem.nom.sg | non-association |
 | ca | ind |  | and |
@@ -104,6 +109,7 @@ paṭirūpa-desa-vāso ca,
 pubbe ca kata-puññatā;
 atta-sammā-paṇidhi ca,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | paṭirūpa- | adj |  | fit; proper; suitable |
 | desa- | noun |  | point, part, place, region |
@@ -123,6 +129,7 @@ bāhu-saccañ-ca sippañ-ca,
 vinayo ca susikkhito;
 subhāsitā ca yā vācā,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bāhusaccaṃ- | noun | nt.nom.sg | much learning, profound knowledge |
 | ca | ind |  | and |
@@ -138,6 +145,7 @@ subhāsitā ca yā vācā,
 
 **much learning, a craft, a well-trained discipline, and well-spoken whatever speech.**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mātā-pitu-upaṭṭhānaṃ, |  |  |  |
 
@@ -145,6 +153,7 @@ subhāsitā ca yā vācā,
 
 anākulā ca kammantā,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mātāpitu- | noun |  | parents; the mother and the father |
 | upaṭṭhānaṃ, | noun | nt.nom.sg | attendance, waiting on, looking after, service care |
@@ -160,6 +169,7 @@ dānañ'ca dhamma-cariyā ca,
 ñātakānañ'ca saṅgaho;
 anavajjāni kammāni,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dānaṃ- | noun | nt.nom.sg | gift; charity; alms; alms-giving |
 | ca | ind |  | and |
@@ -177,6 +187,7 @@ anavajjāni kammāni,
 majja-pānā ca saññamo;
 appamādo ca dhammesu,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | āratī | noun | fem.nom.sg | leaving off, abstinence |
 | viratī | noun | fem.nom.sg | abstinence |
@@ -194,6 +205,7 @@ gāravo ca nivāto ca,
 santuṭṭhī ca kataññutā;
 kālena dhamma-s'savanaṃ,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | gāravo | noun | masc.nom.sg | respect; reverence; esteem |
 | ca | ind |  | and |
@@ -212,6 +224,7 @@ khantī ca sovacassatā,
 samaṇānañ'ca dassanaṃ;
 kālena dhamma-sākacchā,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | khantī | noun | fem.nom.sg | patience; wish; forbearance. |
 | ca | ind |  | and |
@@ -227,11 +240,13 @@ kālena dhamma-sākacchā,
 
 tapo ca brahma-cariyañ'ca,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ariya-saccāna-dassanaṃ; |  |  |  |
 
 **nibbāna-sacchikiriyā ca,**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tapo | noun | masc.nom.sg | spiritual practice, religious practice, lit. burning |
 | ca | ind |  | and |
@@ -249,6 +264,7 @@ phuṭṭhassa loka-dhammehi,
 cittaṃ yassa na kampati;
 asokaṃ virajaṃ khemaṃ,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | phuṭṭhassa | pp | masc.gen.sg | when touched by, contacted by |
 | lokadhammehi, | noun | masc.ins.pl | by worldly matters, things of the world vicissitudes of life |
@@ -264,6 +280,7 @@ asokaṃ virajaṃ khemaṃ,
 
 etādisāni katvāna,
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbattha'm-aparājitā; |  |  |  |
 
@@ -271,6 +288,7 @@ etādisāni katvāna,
 
 tan-tesaṃ maṅgalam-uttaman'ti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | etādisāni | adj | nt.acc.pl | such like; of this kind |
 | katvāna, | verb | abs | having done |
@@ -287,5 +305,4 @@ tan-tesaṃ maṅgalam-uttaman'ti
 
 **having done things like this, are victorious everywhere; everywhere they go safely. that is their highest blessing.**
 
-
-next chant \> [Ratana-sutta](https://docs.google.com/document/d/1GE9J6Ws1ezWHxGQ5hJeFabPIoHONt7Gzrt86UNYNR4s/)
+[← previous chant](per-52-namo-kara-atthaka.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-54-ratana-sutta.md)

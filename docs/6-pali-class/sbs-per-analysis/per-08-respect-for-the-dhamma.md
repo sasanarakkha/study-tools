@@ -8,6 +8,7 @@ Dhamma-gārava
 ye ca atītā sambuddhā – ye ca buddhā anāgatā
 yo c'etarahi sambuddho – bahunnaṃ soka-nāsano
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whoever, whatever, whichever, those who |
 | ca | ind |  | and |
@@ -29,6 +30,7 @@ yo c'etarahi sambuddho – bahunnaṃ soka-nāsano
 sabbe saddhamma-garuno – vihariṃsu viharanti ca
 ath'āpi viharissanti – esā buddhāna dhammatā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbe | pron | masc.nom.pl | all |
 | saddhamma- | noun |  | true Teaching, true doctrine, true nature of things |
@@ -47,6 +49,7 @@ ath'āpi viharissanti – esā buddhāna dhammatā
 tasmā hi atta-kāmena – mahattam-abhikaṅkhatā
 saddhammo garu-kātabbo – saraṃ buddhāna sāsanaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasmā | ind | adv | therefore, that is why, lit. from that |
 | hi | ind |  | indeed, certainly, truly, definitely |
@@ -65,6 +68,7 @@ saddhammo garu-kātabbo – saraṃ buddhāna sāsanaṃ
 na hi dhammo adhammo ca – ubho sama-vipākino
 adhammo nirayaṃ neti – dhammo pāpeti suggatiṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | ind |  | not |
 | hi | ind |  | indeed, certainly, truly, definitely |
@@ -88,6 +92,7 @@ dhammo suciṇṇo sukham-āvahāti
 esā'nisaṃso dhamme suciṇṇe,
 na duggatiṃ gacchati dhammacārī.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dhammo | noun | masc.nom.sg | the Teaching |
 | have | ind |  | indeed, surely |
@@ -108,5 +113,4 @@ na duggatiṃ gacchati dhammacārī.
 
 **The Dhamma guards who lives in line with it, and leads to happiness when practiced well. This is the benefit of well-practiced Dhamma. Who practices the Dhamma does not go to the bad destination.**
 
-
-next chant \> [Going to True and False Refuges](https://docs.google.com/document/d/1JAn5R2GYxBIYydbgKRHj1SbTelKfW8zn8Y2eeQTJ3j8/)
+[← previous chant](per-07-the-buddhas-first-exclamation.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-09-going-to-true-and-false-refuges.md)

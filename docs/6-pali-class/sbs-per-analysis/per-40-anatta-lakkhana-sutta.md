@@ -6,6 +6,7 @@ The Discourse on the Characteristic of Not-Self
 [SN 22.59]
 evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā pañcavaggiye bhikkhū āmantesi — 'bhikkhavo'ti. 'bhadante'ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃ- | ind |  | thus; in this way |
 | me | pron | masc.ins.sg | by me |
@@ -21,6 +22,7 @@ evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
 
 **Thus was heard by me: on one occasion the Fortunate One staying in sāvatthi in jets's grove in anāthapindika's park.**
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tatra | ind |  | there, in that place |
 | kho | ind |  | indeed |
@@ -42,6 +44,7 @@ evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
 
 'rūpaṃ, bhikkhave, anattā. rūpañ'ca h'idaṃ, bhikkhave, attā abhavissa, nayidaṃ rūpaṃ ābādhāya saṃvatteyya, labbhetha ca rūpe — evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | 'rūpaṃ | noun | nt.nom.sg | matter, material thing, materiality, experience of material world |
 | anattā | noun | masc.nom.sg | that which is impersonal, without an essence, non-self |
@@ -70,6 +73,7 @@ evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
 
 yasmā ca kho, bhikkhave, rūpaṃ anattā, tasmā rūpaṃ ābādhāya saṃvattati, na ca labbhati rūpe — evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yasmā | ind |  | because, since |
 | ca | ind |  | but |
@@ -82,6 +86,7 @@ yasmā ca kho, bhikkhave, rūpaṃ anattā, tasmā rūpaṃ ābādhāya saṃvat
 
 'vedanā anattā. vedanā ca h'idaṃ, bhikkhave, attā abhavissa, nayidaṃ vedanā ābādhāya saṃvatteyya, labbhetha ca vedanāya — evaṃ me vedanā hotu, evaṃ me vedanā mā ahosī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vedanā | noun | fem.nom.sg | felt experience, feeling |
 | vedanāya | noun | fem.loc.sg | with regard to felt experience, feeling |
@@ -94,6 +99,7 @@ yasmā ca kho, bhikkhave, vedanā anattā, tasmā vedanā ābādhāya saṃvatta
 
 'saññā anattā. saññā ca h'idaṃ, bhikkhave, attā abhavissa, nayidaṃ saññā ābādhāya saṃvatteyya, labbhetha ca saññāya — evaṃ me saññā hotu, evaṃ me saññā mā ahosī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saññā | noun | fem.nom.sg | perception, conception, recognition |
 | saññāya | noun | fem.loc.sg | with regard to perception, conception, recognition |
@@ -106,6 +112,7 @@ yasmā ca kho, bhikkhave, saññā anattā, tasmā saññā ābādhāya saṃvat
 
 saṅkhārā anattā. saṅkhārā ca hidaṃ, bhikkhave, attā abhavissaṃsu, nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ, labbhetha ca saṅkhāresu — evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesun'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saṅkhārā | noun | masc.nom.pl | intentions, volitional formations |
 | abhavissaṃsu | verb | cond.3.pl | if they would be, if they could be |
@@ -122,6 +129,7 @@ yasmā ca kho, bhikkhave, saṅkhārā anattā, tasmā saṅkhārā ābādhāya 
 
 'viññāṇaṃ anattā. viññāṇañ'ca hidaṃ, bhikkhave, attā abhavissa, nayidaṃ viññāṇaṃ ābādhāya saṃvatteyya, labbhetha ca viññāṇe — evaṃ me viññāṇaṃ hotu, evaṃ me viññāṇaṃ mā ahosī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | viññāṇaṃ | noun | nt.nom.sg | consciousness, awareness, sentience, knowing |
 | viññāṇe | noun | nt.loc.sg | with regard to consciousness, awareness, sentience knowing |
@@ -134,6 +142,7 @@ yasmā ca kho, bhikkhave, viññāṇaṃ anattā, tasmā viññāṇaṃ ābād
 
 'taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā'ti?
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | taṃ | pron | masc.acc.sg | that |
 | kiṃ | pron | masc.acc.sg | who? what? which? |
@@ -152,6 +161,7 @@ aniccaṃ bhante.
 
 'yaṃ pan'āniccaṃ dukkhaṃ vā taṃ sukhaṃ vā'ti? 'dukkhaṃ, bhante'.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | nt.nom.sg | which, whoever, whatever, that which |
 | pana- | ind |  | moreover, and now, but |
@@ -164,6 +174,7 @@ aniccaṃ bhante.
 
 'yaṃ pan'āniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ — etaṃ mama, esohamasmi, eso me attā'ti?
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | nt.nom.sg | which, whoever, whatever, that which |
 | pana- | ind |  | moreover, and now, but |
@@ -188,6 +199,7 @@ aniccaṃ bhante.
 
 no h'etaṃ, bhante.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | no | ind |  | not |
 | hi- | ind |  | indeed, certainly, truly, definitely |
@@ -266,6 +278,7 @@ no h'etaṃ bhante.
 
 'tasmātiha, bhikkhave, yaṃ kiñci rūpaṃ atīt'ānāgata-paccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ — n'etaṃ mama, n'eso'ham'asmi, na m'eso attā'ti evam'etaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasmā-(t) | ind |  | therefore |
 | iha | ind |  | here |
@@ -331,6 +344,7 @@ yaṃ kiñci viññāṇaṃ atīt'ānāgata-paccuppannaṃ ajjhattaṃ vā bahi
 
 'evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmim'pi nibbindati, vedanāya'pi nibbindati, saññāya'pi nibbindati, saṅkhāresu'pi nibbindati, viññāṇasmim'pi nibbindati. nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttam'iti ñāṇaṃ hoti
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃ | ind | adv | like this |
 | passaṃ | prp | masc.nom.sg | seeing |
@@ -356,6 +370,7 @@ yaṃ kiñci viññāṇaṃ atīt'ānāgata-paccuppannaṃ ajjhattaṃ vā bahi
 
 'khīṇā jāti vusitaṃ brahmacariyaṃ kataṃ karaṇīyaṃ n'āparaṃ itthattāyā'ti pajānātī'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | khīṇā | pp | fem.nom.sg | exhausted; wasted |
 | jāti | noun | fem.nom.sg | birth |
@@ -373,6 +388,7 @@ or can be translated as well: ' There is nothing (to do more) for such a (libera
 
 idam'avoca bhagavā. attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinanduṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | idamavoca | verb | aor.3.sg | he said this |
 | bhagavā | noun | masc.nom.sg | Sublime One, Blessed One, Fortunate One the Buddha |
@@ -387,6 +403,7 @@ idam'avoca bhagavā. attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abh
 
 imasmiñ'ca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsū'ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | imasmiñ'ca | pron |  | while this |
 | pana | ind |  | moreover, and now, but |
@@ -401,5 +418,4 @@ imasmiñ'ca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhū
 
 **While this exposition has been preached, minds of monks, belonging to a group of five, became free from taints throught not grasping.**
 
-
-next chant \> [Āditta-pariyāya-sutta](https://docs.google.com/document/d/1noiUsphrtvNqz21Oqu7EcVFMOaQ93fcEYErqWbWdipk/)
+[← previous chant](per-39-dhammacakkappavattana-sutta.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-41-aditta-pariyaya-sutta.md)

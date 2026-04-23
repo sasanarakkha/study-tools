@@ -8,6 +8,7 @@ Khemākhema-saraṇa-gamana
 bahuṃ ve saraṇaṃ yanti – pabbatāni vanāni ca
 ārāma-rukkha-cetyāni – manussā bhaya-tajjitā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bahuṃ | adj | nt.acc.sg | many, much, lots (of), a lot (of) |
 | ve | ind |  | indeed, truly, really |
@@ -28,6 +29,7 @@ bahuṃ ve saraṇaṃ yanti – pabbatāni vanāni ca
 n'etaṃ kho saraṇaṃ khemaṃ – n'etaṃ saraṇam-uttamaṃ
 n'etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | n'etaṃ | pron | nt.nom.sg | this not |
 | kho | ind |  | indeed, surely, certainly, truly |
@@ -48,6 +50,7 @@ n'etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati
 yo ca buddhañ-ca dhammañ-ca – saṅghañ-ca saraṇaṃ gato
 cattāri ariya-saccāni – sammappaññāya passati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | whoever, whatever, whichever |
 | ca | ind |  | but |
@@ -67,6 +70,7 @@ cattāri ariya-saccāni – sammappaññāya passati
 dukkhaṃ dukkha-samuppādaṃ – dukkhassa ca atikkamaṃ
 ariyañ-c'aṭṭh'aṅgikaṃ maggaṃ – dukkhūpasama-gāminaṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dukkhaṃ | noun | nt.acc.sg | suffering, pain, unease, unsatisfactory, problem, trouble |
 | dukkha-samuppādaṃ | noun | masc.acc.sg | origin of suffering, arising of discomfort |
@@ -86,6 +90,7 @@ ariyañ-c'aṭṭh'aṅgikaṃ maggaṃ – dukkhūpasama-gāminaṃ
 etaṃ kho saraṇaṃ khemaṃ – etaṃ saraṇam-uttamaṃ 
 etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | etaṃ | pron | nt.nom.sg | this |
 | kho | ind |  | indeed, surely, certainly, truly |
@@ -102,5 +107,4 @@ etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati
 
 **This refuge is secure, this refuge is supreme, arriving to this refuge one is liberated from all suffering.**
 
-
-next chant \> [The Pāṭimokkha Exhortation](https://docs.google.com/document/d/1DRd--uBllLKAIX45M0zpVcGaC3km5QQAfGw4hlJXPkw/)
+[← previous chant](per-08-respect-for-the-dhamma.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-10-the-patimokkha-exhortation.md)

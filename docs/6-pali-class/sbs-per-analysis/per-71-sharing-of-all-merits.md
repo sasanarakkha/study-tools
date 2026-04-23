@@ -8,6 +8,7 @@ Sabba-Patti-Dāna
 
 puññass'idāni katassa yān'aññāni katāni me, tesañ'ca bhāgino hontu satt'ānant'āppamāṇakā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | [thai] |  |  |  |
 | puññassa- | noun | masc.gen.sg | of merit, good deed, lit. (mental) purity |
@@ -28,6 +29,7 @@ puññass'idāni katassa yān'aññāni katāni me, tesañ'ca bhāgino hontu sat
 
 ye piyā guṇavantā ca mayhaṃ mātāpit'ādayo, diṭṭhā me c'āpy'adiṭṭhā vā aññe majjhatta-verino
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whoever, whatever, whichever, those who |
 | piyā | adj | masc.nom.pl | dear (to), beloved (by), lovely (for) |
@@ -48,6 +50,7 @@ ye piyā guṇavantā ca mayhaṃ mātāpit'ādayo, diṭṭhā me c'āpy'adiṭ
 
 sattā tiṭṭhanti lokasmiṃ te bhummā catu-yonikā, pañc'eka-catu-vokārā saṃsarantā bhav'ābhave
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sattā | noun | masc.nom.pl | living beings |
 | tiṭṭhanti | verb | pr.3.pl | they stay (in), live (in) |
@@ -67,6 +70,7 @@ sattā tiṭṭhanti lokasmiṃ te bhummā catu-yonikā, pañc'eka-catu-vokārā
 
 ñātaṃ ye patti-dānam'me anumodantu te sayaṃ, ye c'imaṃ nappajānanti devā tesaṃ nivedayuṃ
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ñātaṃ | pp | masc.acc.sg | known |
 | ye | pron | masc.nom.pl | whoever, whatever, whichever, those who |
@@ -88,6 +92,7 @@ sattā tiṭṭhanti lokasmiṃ te bhummā catu-yonikā, pañc'eka-catu-vokārā
 mayā dinnāna-puññānaṃ anumodana-hetunā, sabbe sattā sadā hontu averā sukha-jīvino,
 khemappadañ'ca pappontu tesāsā sijjhataṃ subhā
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mayā | pron | 1.ins.sg | by me |
 | dinnānaṃ- | pp | nt.dat.pl | to given, offered |
@@ -110,7 +115,4 @@ khemappadañ'ca pappontu tesāsā sijjhataṃ subhā
 
 **Because of rejoicing in my sharing of merit, may all beings always be free from hostility, live at ease, may they all reach safety and auspicious success.**
 
-
-next chant \> [Sharing of Merits with the Departed](https://docs.google.com/document/d/1p3BdcL0gXNHy9T1dXX-8AAHuOgxlpXjBMY8WLAwQUL4/)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-70-sharing-and-aspirations.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-72-sharing-of-merits-with-the-departed.md)

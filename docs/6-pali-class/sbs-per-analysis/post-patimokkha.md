@@ -4,6 +4,7 @@
 
 handa mayaṃ buddhassa bhagavato pubbabhaganamakāraṃ karomase
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | handa | ind |  | well then; now |
 | mayaṃ | pron | 1.nom.pl | we |
@@ -21,6 +22,7 @@ handa mayaṃ buddhassa bhagavato pubbabhaganamakāraṃ karomase
 
 namo tassa bhagavato arahato sammasambuddhassa
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | namo | ind |  | reverence to, veneration, homage |
 | tassa | pron | masc.dat.sg | to him |
@@ -33,6 +35,7 @@ namo tassa bhagavato arahato sammasambuddhassa
 
 handa mayaṃ saccakiriyāgāthāyo bhaṇāmase
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saccakiriyāgāthāyo |  |  |  |
 | \>saccakiriyā |  |  |  |
@@ -43,6 +46,7 @@ handa mayaṃ saccakiriyāgāthāyo bhaṇāmase
 n'atthi me saranaṃ annaṃ buddho me saranaṃ varaṃ
 etena saccavajjena sotthi me hotu sabbadā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | n'atthi |  |  |  |
 | me |  |  |  |
@@ -64,12 +68,14 @@ etena saccavajjena sotthi me hotu sabbadā.
 n'atthi me saranaṃ annaṃ dhammo me saranaṃ varaṃ
 etena saccavajjena sotthi me hotu sabbadā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dhammo |  |  |  |
 
 n'atthi me saranaṃ annaṃ saṅgho me saranaṃ varaṃ
 etena saccavajjena sotthi me hotu sabbadā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saṅgho |  |  |  |
 
@@ -82,6 +88,7 @@ sīluddesa-pāṭha
 
 handa mayaṃ sīluddesapāṭhaṃ bhaṇāmase
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sīluddesapāṭhaṃ |  |  |  |
 | \>sīluddesa |  |  |  |
@@ -91,6 +98,7 @@ handa mayaṃ sīluddesapāṭhaṃ bhaṇāmase
 
 bhasitam’idaṃ tena bhagavatā janatā passatā arahatā sammāsambuddhena
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhasitaṃ |  |  |  |
 | idaṃ |  |  |  |
@@ -103,6 +111,7 @@ bhasitam’idaṃ tena bhagavatā janatā passatā arahatā sammāsambuddhena
 
 sampannasīlā bhikkhave viharatha sampannapāṭimokkhā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sampannasīlā |  |  |  |
 | \>sampanna |  |  |  |
@@ -115,6 +124,7 @@ sampannasīlā bhikkhave viharatha sampannapāṭimokkhā.
 
 pāṭimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | pāṭimokkhasaṃvarasaṃvutā |  |  |  |
 | \>pāṭimokkhe |  |  |  |
@@ -130,6 +140,7 @@ pāṭimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā.
 
 aṇumattesu vajjesu bhayadassāvī samādāya sikkhatha sikkhāpadesū’ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aṇumattesu |  |  |  |
 | vajjesu |  |  |  |
@@ -145,6 +156,7 @@ aṇumattesu vajjesu bhayadassāvī samādāya sikkhatha sikkhāpadesū’ti.
 
 tasmātih'amhehi sikkhitabbaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasmātiha |  |  |  |
 | \>tasmā |  |  |  |
@@ -154,6 +166,7 @@ tasmātih'amhehi sikkhitabbaṃ.
 
 sampannasīlā viharissāma sampannapāṭimokkhā. pāṭimokkhasaṃvarasaṃvutā viharissāma ācāragocarasampanna. aṇumattesu vajjesu bhayadassāvī samādāya sikkhissāma sikkhāpadesū’ti.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | viharissāma |  |  |  |
 | … |  |  |  |
@@ -162,6 +175,7 @@ sampannasīlā viharissāma sampannapāṭimokkhā. pāṭimokkhasaṃvarasaṃv
 
 evañ’hi no sikkhitabbaṃ.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃ |  |  |  |
 | hi |  |  |  |
@@ -182,6 +196,7 @@ ovāda-pāṭimokkha gāthā
 
 uddiṭṭhaṃ kho tena bhagavatā janatā passatā arahatā sammāsambuddhena: ovādapāṭimokkhaṃ tīhi gāthāhi.
 
+| Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | uddiṭṭhaṃ |  |  |  |
 | kho |  |  |  |
@@ -192,7 +207,4 @@ uddiṭṭhaṃ kho tena bhagavatā janatā passatā arahatā sammāsambuddhena:
 | tīhi |  |  |  |
 | gāthāhi |  |  |  |
 
-
-[ovāda-pāṭimokkha gāthā](per-10-the-patimokkha-exhortation.md)
-
-[table of content](../sbs-per-analysis.md)
+[← previous chant](per-74-the-highest-honour-and-aspirations.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?)
