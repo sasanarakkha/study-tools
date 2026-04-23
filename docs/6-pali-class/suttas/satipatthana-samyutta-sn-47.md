@@ -1,4 +1,4 @@
-suttas from Satipaṭṭhāna Saṃyutta (SN 47)
+# Satipaṭṭhāna Saṃyutta (SN 47)
 
 [SN47.1 Ambapālisutta](#sn471-ambapālisutta)
 

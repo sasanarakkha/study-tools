@@ -1,4 +1,4 @@
-MN 107 gaṇakamoggallānasuttaṃ
+# MN 107 gaṇakamoggallānasuttaṃ
 
 Please make line by line translation. Breaking all sandhi and comp (naming type of comp). And fill construction of verbs and participles on the last column
 

@@ -1,4 +1,4 @@
-suttas from Asaṅkhata Saṃyutta (SN 43)
+# Asaṅkhata Saṃyutta (SN 43)
 
 [SN 43.1 asaṅkhatasutta](#sn-431-asaṅkhatasutta)
 

@@ -1,8 +1,4 @@
-Advanced Pāli Course
-
-Key to Exercises 30-39
-
-
+# Advanced Pāli Course Key to Exercises 30-39
 
 **Content**
 
@@ -26,9 +22,9 @@ Key to Exercises 30-39
 
 [Class 39](#class-39)
 
-[Classes 40-50](https://docs.google.com/document/d/1c5E1-xA5OEKOC_myMBqVzdcEkoyiqfurAphMLz7JmnQ/)
+[Classes 40-50](apc-key-to-exercises-40-50.md)
 
-[Classes 51-54](https://docs.google.com/document/d/18IBPFP0zs3ngEV-Ps5MmiGwaFtuz_2r3AqsZBlksPIQ/)
+[Classes 51-54](apc-key-to-idioms.md)
 
 ## Class 30
 

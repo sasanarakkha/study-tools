@@ -1,4 +1,4 @@
-suttas from Sacca Saṃyutta (SN 56)
+# Sacca Saṃyutta (SN 56)
 
 [SN 56.1 samādhisutta](#sn-561-samādhisutta)
 

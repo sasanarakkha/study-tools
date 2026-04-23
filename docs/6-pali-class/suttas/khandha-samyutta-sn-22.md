@@ -1,4 +1,4 @@
-suttas from Khandha Saṃyutta (SN 22)
+# Khandha Saṃyutta (SN 22)
 
 [SN 22.12 Aniccasutta](#sn-2212-aniccasutta)
 

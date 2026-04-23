@@ -1,4 +1,4 @@
-suttas from Maggasaṃyutta Saṃyutta (SN 45)
+# Maggasaṃyutta Saṃyutta (SN 45)
 
 [SN45.2 upaḍḍhasutta](#sn452-upaḍḍhasutta)
 

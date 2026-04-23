@@ -1,4 +1,4 @@
-suttas from Bojjhaṅgasaṃyutta Saṃyutta (SN 46)
+# Bojjhaṅgasaṃyutta Saṃyutta (SN 46)
 
 [SN46.1 himavantasutta](#sn461-himavantasutta)
 

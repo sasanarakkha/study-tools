@@ -1,10 +1,10 @@
-Some idioms and difficult passages
+# Some idioms and difficult passages
 
 **Content**
 
-[Classes 30-40](https://docs.google.com/document/d/1VoFPr2jqJbQEQgT_UbuhxpzHM_H_mqX3BCy3vMdqiUc/)
+[Classes 30-40](apc-key-to-exercises-30-39.md)
 
-[Classes 40-50](https://docs.google.com/document/d/1c5E1-xA5OEKOC_myMBqVzdcEkoyiqfurAphMLz7JmnQ/)
+[Classes 40-50](apc-key-to-exercises-40-50.md)
 
 [Class 51](#class-51)
 

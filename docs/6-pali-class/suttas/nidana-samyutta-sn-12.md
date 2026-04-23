@@ -1,4 +1,4 @@
-suttas from Nidāna Saṃyutta (SN 12)
+# Nidāna Saṃyutta (SN 12)
 
 [SN 12.1 Paṭiccasamuppādasutta](#sn-121-paṭiccasamuppādasutta)
 

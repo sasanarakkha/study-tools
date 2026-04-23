@@ -1,4 +1,4 @@
-suttas from Saḷāyatana Saṃyutta (SN 35)
+# Saḷāyatana Saṃyutta (SN 35)
 
 [SN 35.24 Pahānasutta](#sn-3524-pahānasutta)
 
