@@ -32,4 +32,4 @@ yan'dunnimittaṃ avamaṅgalañ'ca, yo cāmanāpo sakuṇassa saddo, pāpaggaho
 
 **Whatever ill omen and bad luck, and whatever unpleasant bird's sound, evil planets, upsetting nightmares: by the power of the Saṅgha may they be destroyed.**
 
-[← previous chant](per-59-bojjhanga-parittam.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-61-devata-uyyojana-gatha.md)
+[← previous chant](per-59-bojjhanga-parittam.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-60-abhaya-parittam.md) | [next chant →](per-61-devata-uyyojana-gatha.md)

@@ -46,4 +46,4 @@
 | having been accepted, they can be used, storing for seven days at the most. For one exceeding that, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](ūnapañcabandhanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](vassikasāṭikasikkhāpadaṃ.md)
+[← previous](ūnapañcabandhanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=bhesajjasikkh%C4%81pada%E1%B9%83) | [next →](vassikasāṭikasikkhāpadaṃ.md)

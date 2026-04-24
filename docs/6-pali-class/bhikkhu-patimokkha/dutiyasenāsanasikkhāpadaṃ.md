@@ -27,4 +27,4 @@
 | If any monk, having put out or caused to put out a bedding in a dwelling belonging to the community, (when) leaving that, should he not remove (it) or cause to remove (it) or should he go without taking leave, there is an offence requiring confession. | | | | | | | | | | |
 
 
-[← previous](paṭhamasenāsanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](anupakhajjasikkhāpadaṃ.md)
+[← previous](paṭhamasenāsanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=dutiyasen%C4%81sanasikkh%C4%81pada%E1%B9%83) | [next →](anupakhajjasikkhāpadaṃ.md)

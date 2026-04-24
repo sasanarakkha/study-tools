@@ -19,4 +19,4 @@
 | If any monk should accept a robe-cloth from the hand of an unrelated nun, except in an exchange, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](purāṇacīvarasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](aññātakaviññattisikkhāpadaṃ.md)
+[← previous](purāṇacīvarasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=c%C4%ABvarapa%E1%B9%ADiggaha%E1%B9%87asikkh%C4%81pada%E1%B9%83) | [next →](aññātakaviññattisikkhāpadaṃ.md)

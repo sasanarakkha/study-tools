@@ -25,4 +25,4 @@
 | When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, for ten days at the most extra robe can be kept.  For one exceeding that, there is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](nissaggiyapācittiyā.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](udositasikkhāpadaṃ.md)
+[← previous](nissaggiyapācittiyā.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ka%E1%B9%ADhinasikkh%C4%81pada%E1%B9%83) | [next →](udositasikkhāpadaṃ.md)

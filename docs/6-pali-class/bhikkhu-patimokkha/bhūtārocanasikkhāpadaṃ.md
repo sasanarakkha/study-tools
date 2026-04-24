@@ -15,4 +15,4 @@
 | If any monk should declare a superhuman state to an unordained person, when true, there is an offence requiring confession.<br> | | | | | | | | | | |
 
 
-[← previous](dhammadesanāsikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](duṭṭhullārocanasikkhāpadaṃ.md)
+[← previous](dhammadesanāsikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=bh%C5%ABt%C4%81rocanasikkh%C4%81pada%E1%B9%83) | [next →](duṭṭhullārocanasikkhāpadaṃ.md)

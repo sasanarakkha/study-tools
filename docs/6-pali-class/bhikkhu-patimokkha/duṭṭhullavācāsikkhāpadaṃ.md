@@ -31,4 +31,4 @@
 | like that of a young man to a young woman, concerned with sexual intercourse, is a saṅghādisesa (offence) | | | | | | | | | | |
 
 
-[← previous](kāyasaṃsaggasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](attakāmapāricariyasikkhāpadaṃ.md)
+[← previous](kāyasaṃsaggasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=du%E1%B9%AD%E1%B9%ADhullav%C4%81c%C4%81sikkh%C4%81pada%E1%B9%83) | [next →](attakāmapāricariyasikkhāpadaṃ.md)

@@ -21,4 +21,4 @@
 | If any monk should have sheep-wool washed, dyed, or combed by an unrelated nun, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](eḷakalomasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](rūpiyasikkhāpadaṃ.md)
+[← previous](eḷakalomasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=e%E1%B8%B7akalomadhov%C4%81panasikkh%C4%81pada%E1%B9%83) | [next →](rūpiyasikkhāpadaṃ.md)

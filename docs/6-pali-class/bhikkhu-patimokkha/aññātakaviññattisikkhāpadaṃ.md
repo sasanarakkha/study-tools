@@ -48,4 +48,4 @@
 | In that case this is the right occasion: a monk is one whose robe has been robbed or whose robe has been lost; this is the right occasion in that case. | | | | | | | | | | |
 
 
-[← previous](cīvarapaṭiggahaṇasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](tatuttarisikkhāpadaṃ.md)
+[← previous](cīvarapaṭiggahaṇasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=a%C3%B1%C3%B1%C4%81takavi%C3%B1%C3%B1attisikkh%C4%81pada%E1%B9%83) | [next →](tatuttarisikkhāpadaṃ.md)

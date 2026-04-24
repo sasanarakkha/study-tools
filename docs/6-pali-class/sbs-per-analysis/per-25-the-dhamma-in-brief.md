@@ -176,4 +176,4 @@ ekaṃsena, gotami, dhāreyyāsi — eso dhammo, eso vinayo, etaṃ satthusāsan
 
 **Gotami, you should definitely remember: this is the Teaching, this is the Discipline, this is the Teacher's instruction.**
 
-[← previous chant](per-24-dependent-origination.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-26-the-four-great-references.md)
+[← previous chant](per-24-dependent-origination.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-25-the-dhamma-in-brief.md) | [next chant →](per-26-the-four-great-references.md)

@@ -48,4 +48,4 @@
 | In that case this is the right occasion: the road is considered risky (and) dangerous, which has to be gone with a company; this is the right occasion in that case. | | | | | | | | | | |
 
 
-[← previous](cīvarasibbanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](nāvābhirūhanasikkhāpadaṃ.md)
+[← previous](cīvarasibbanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sa%E1%B9%83vidh%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](nāvābhirūhanasikkhāpadaṃ.md)

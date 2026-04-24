@@ -46,4 +46,4 @@
 | if he should accept more than that, there is an offence requiring confession. Having accepted two or three bowls full, having taken [it] away from there, [it] is to be shared together with monks. This is the proper procedure there. | | | | | | | | | | |
 
 
-[← previous](paramparabhojanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](paṭhamapavāraṇāsikkhāpadaṃ.md)
+[← previous](paramparabhojanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=k%C4%81%E1%B9%87am%C4%81tusikkh%C4%81pada%E1%B9%83) | [next →](paṭhamapavāraṇāsikkhāpadaṃ.md)

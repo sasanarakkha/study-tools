@@ -524,4 +524,4 @@ taṃ no brahma-cariyaṃ imassa kevalassa dukkhakkhandhassa antakiriyāya saṃ
 
 **May this Holy Life lead us to the end of this whole mass of suffering.**
 
-[← previous chant](per-05-homage-to-the-sangha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-07-the-buddhas-first-exclamation.md)
+[← previous chant](per-05-homage-to-the-sangha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-06-salutation-to-the-triple-gem.md) | [next chant →](per-07-the-buddhas-first-exclamation.md)

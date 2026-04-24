@@ -45,4 +45,4 @@
 | if he should carry it more than that, even when there is no carrier, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](nisīdanasanthatasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](eḷakalomadhovāpanasikkhāpadaṃ.md)
+[← previous](nisīdanasanthatasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=e%E1%B8%B7akalomasikkh%C4%81pada%E1%B9%83) | [next →](eḷakalomadhovāpanasikkhāpadaṃ.md)

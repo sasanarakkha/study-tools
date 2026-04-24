@@ -34,4 +34,4 @@
 | dutiyo | card | masc nom sg of dutiya | | second | | | | dvi > du + tiya | | |
 
 
-[← previous](bāhuppacālakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](khambhakatasikkhāpadaṃ.md)
+[← previous](bāhuppacālakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=s%C4%ABsappac%C4%81lakasikkh%C4%81pada%E1%B9%83) | [next →](khambhakatasikkhāpadaṃ.md)

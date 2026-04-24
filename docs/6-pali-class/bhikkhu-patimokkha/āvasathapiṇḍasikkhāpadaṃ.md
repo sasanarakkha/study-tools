@@ -19,4 +19,4 @@
 | By a monk who is not ill, one alms-meal in a resthouse can be eaten; if he should eat more than that, there is an offence requiring confession. | | | | | | | | | | |
 
 
-[← previous](rahonisajjasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](gaṇabhojanasikkhāpadaṃ.md)
+[← previous](rahonisajjasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=%C4%81vasathapi%E1%B9%87%E1%B8%8Dasikkh%C4%81pada%E1%B9%83) | [next →](gaṇabhojanasikkhāpadaṃ.md)

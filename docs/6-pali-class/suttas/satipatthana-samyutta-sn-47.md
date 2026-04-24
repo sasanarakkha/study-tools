@@ -464,4 +464,4 @@ lābhā te, gahapati, suladdhaṃ te, gahapati! anāgāmiphalaṃ tayā, gahapat
 
 ---
 
-[← Nidāna Saṃyutta (SN 12)](nidana-samyutta-sn-12.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [Bojjhaṅgasaṃyutta Saṃyutta (SN 46) →](bojjhangasamyutta-samyutta-sn-46.md)
+[← Nidāna Saṃyutta (SN 12)](nidana-samyutta-sn-12.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Advanced%20Suttas&entry.438735500=docs/6-pali-class/suttas/satipatthana-samyutta-sn-47.md) | [Bojjhaṅgasaṃyutta Saṃyutta (SN 46) →](bojjhangasamyutta-samyutta-sn-46.md)

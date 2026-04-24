@@ -29,4 +29,4 @@
 | If any monk, having arranged, should board together with a nun on the same boat, going up-stream or going down-stream, except for crossing across, there is an offence requiring confession. | | | | | | | | | | |
 
 
-[← previous](saṃvidhānasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](paripācitasikkhāpadaṃ.md)
+[← previous](saṃvidhānasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=n%C4%81v%C4%81bhir%C5%ABhanasikkh%C4%81pada%E1%B9%83) | [next →](paripācitasikkhāpadaṃ.md)

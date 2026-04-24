@@ -120,4 +120,4 @@ paṭisaṅkhā yoniso gilāna-paccaya-bhesajja-parikkhāraṃ paṭisevāmi yā
 
 **wisely reflecting I use supports for the sick and medicinal requisites only to ward off arisen oppressive painful sensation, for maximum freedom from oppressive pain**
 
-[← previous chant](per-30-the-buddhas-final-instruction.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-32-the-repulsiveness-of-food.md)
+[← previous chant](per-30-the-buddhas-final-instruction.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-31-the-four-requisites.md) | [next chant →](per-32-the-repulsiveness-of-food.md)

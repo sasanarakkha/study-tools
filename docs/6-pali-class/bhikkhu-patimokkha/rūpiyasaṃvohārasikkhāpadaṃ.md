@@ -19,4 +19,4 @@
 | If any monk should engage in the various kinds of trading in money, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](rūpiyasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](kayavikkayasikkhāpadaṃ.md)
+[← previous](rūpiyasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=r%C5%ABpiyasa%E1%B9%83voh%C4%81rasikkh%C4%81pada%E1%B9%83) | [next →](kayavikkayasikkhāpadaṃ.md)

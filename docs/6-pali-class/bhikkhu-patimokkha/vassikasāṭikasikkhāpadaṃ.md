@@ -47,4 +47,4 @@
 | If sooner (than) "One month is left of the hot season," should he seek robe-cloth for the rain's bathing-cloth, (if) sooner than "A half month is left of the hot season," having made (it), should he wear (it), this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](bhesajjasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](cīvaraacchindanasikkhāpadaṃ.md)
+[← previous](bhesajjasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=vassikas%C4%81%E1%B9%ADikasikkh%C4%81pada%E1%B9%83) | [next →](cīvaraacchindanasikkhāpadaṃ.md)

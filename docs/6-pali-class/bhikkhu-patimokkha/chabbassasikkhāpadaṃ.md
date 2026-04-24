@@ -40,4 +40,4 @@
 | If within less than six rains, having given up or not having given up that felt rug, he should cause the making of another new felt rug, apart from permission from the monks, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](dvebhāgasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](nisīdanasanthatasikkhāpadaṃ.md)
+[← previous](dvebhāgasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=chabbassasikkh%C4%81pada%E1%B9%83) | [next →](nisīdanasanthatasikkhāpadaṃ.md)

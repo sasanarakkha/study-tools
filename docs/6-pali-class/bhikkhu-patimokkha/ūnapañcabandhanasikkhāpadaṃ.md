@@ -69,4 +69,4 @@
 | sāmīci | noun | fem nom sg | | right thing to do, correct course, proper procedure | | | | | | |
 
 
-[← previous](pattasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](bhesajjasikkhāpadaṃ.md)
+[← previous](pattasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=%C5%ABnapa%C3%B1cabandhanasikkh%C4%81pada%E1%B9%83) | [next →](bhesajjasikkhāpadaṃ.md)

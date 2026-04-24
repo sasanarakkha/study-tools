@@ -357,4 +357,4 @@
 | The chapter about robes is the first |  |  |  |  |  |  |  |  |  |  |
 
 
-[← previous](dutiyaupakkhaṭasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](kosiyasikkhāpadaṃ.md)
+[← previous](dutiyaupakkhaṭasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=r%C4%81jasikkh%C4%81pada%E1%B9%83) | [next →](kosiyasikkhāpadaṃ.md)

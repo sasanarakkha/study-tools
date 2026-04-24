@@ -76,4 +76,4 @@
 | some point, which a mere pretext, has been taken up, and if the monk confirms the fault (or malice), is a saṅghādisesa (offence). | | | | | | | | | | |
 
 
-[← previous](duṭṭhadosasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](saṅghabhedasikkhāpadaṃ.md)
+[← previous](duṭṭhadosasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=a%C3%B1%C3%B1abh%C4%81giyasikkh%C4%81pada%E1%B9%83) | [next →](saṅghabhedasikkhāpadaṃ.md)

@@ -24,4 +24,4 @@
 | If any monk should make use of a sleeping place for more than two nights or three nights together with an unordained person, there is an offence requiring confession. | | | | | | | | | | |
 
 
-[← previous](padasodhammasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](dutiyasahaseyyasikkhāpada.md)
+[← previous](padasodhammasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pa%E1%B9%ADhamasahaseyyasikkh%C4%81pada%E1%B9%83) | [next →](dutiyasahaseyyasikkhāpada.md)

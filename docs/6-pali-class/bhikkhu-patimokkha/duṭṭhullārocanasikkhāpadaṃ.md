@@ -18,4 +18,4 @@
 | If any monk should declare a monk's serious offence to an unordained person, apart from permission from the monks, there is an offence requiring confession. | | | | | | | | | | |
 
 
-[← previous](bhūtārocanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](pathavīkhaṇanasikkhāpadaṃ.md)
+[← previous](bhūtārocanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=du%E1%B9%AD%E1%B9%ADhull%C4%81rocanasikkh%C4%81pada%E1%B9%83) | [next →](pathavīkhaṇanasikkhāpadaṃ.md)

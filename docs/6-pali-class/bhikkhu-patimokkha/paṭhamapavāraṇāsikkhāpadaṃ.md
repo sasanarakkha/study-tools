@@ -22,4 +22,4 @@
 | If any monk who has eaten, who has refused more, should chew or eat non-staple or staple food, which is not left over, there is an offence requiring confession.<br> | | | | | | | | | | |
 
 
-[← previous](kāṇamātusikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](dutiyapavāraṇāsikkhāpadaṃ.md)
+[← previous](kāṇamātusikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pa%E1%B9%ADhamapav%C4%81ra%E1%B9%87%C4%81sikkh%C4%81pada%E1%B9%83) | [next →](dutiyapavāraṇāsikkhāpadaṃ.md)

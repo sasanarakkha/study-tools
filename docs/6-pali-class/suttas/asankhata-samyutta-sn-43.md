@@ -99,4 +99,4 @@ anāsavañca vo, bhikkhave, desessāmi anāsavagāmiñca maggaṃ. taṃ suṇā
 
 ---
 
-[← Maggasaṃyutta Saṃyutta (SN 45)](maggasamyutta-samyutta-sn-45.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?)
+[← Maggasaṃyutta Saṃyutta (SN 45)](maggasamyutta-samyutta-sn-45.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Advanced%20Suttas&entry.438735500=docs/6-pali-class/suttas/asankhata-samyutta-sn-43.md)

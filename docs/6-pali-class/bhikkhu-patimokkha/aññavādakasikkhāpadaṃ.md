@@ -12,4 +12,4 @@
 | In changing topic, in vexing (by not answering), there is an offence requiring confession. | | | | | | | | | | |
 
 
-[← previous](bhūtagāmasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](ujjhāpanakasikkhāpadaṃ.md)
+[← previous](bhūtagāmasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=a%C3%B1%C3%B1av%C4%81dakasikkh%C4%81pada%E1%B9%83) | [next →](ujjhāpanakasikkhāpadaṃ.md)

@@ -65,4 +65,4 @@ jaya-siddhi dhanaṃ lābhaṃ sotthi bhāgyaṃ sukhaṃ balaṃ siri āyu ca v
 **May be for you: victory, success, wealth, gain, safety, luck, happiness, strength, 
 glory, long life, beauty, riches, growth, renown, a lifespan of a 100 years, and accomplishment in life.**
 
-[← previous chant](per-42-yatha-vari-vaha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-44-bhojana-dananumodana.md)
+[← previous chant](per-42-yatha-vari-vaha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-43-ratanattayanubhavadi-gatha.md) | [next chant →](per-44-bhojana-dananumodana.md)

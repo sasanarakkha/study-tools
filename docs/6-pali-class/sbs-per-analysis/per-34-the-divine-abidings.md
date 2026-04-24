@@ -86,4 +86,4 @@ upekkhā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati ...
 
 **he lives having filled one direction with a mind full of equanimity ...**
 
-[← previous chant](per-33-universal-well-being.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-35-five-subjects-for-frequent-recollection.md)
+[← previous chant](per-33-universal-well-being.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-34-the-divine-abidings.md) | [next chant →](per-35-five-subjects-for-frequent-recollection.md)

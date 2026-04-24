@@ -117,4 +117,4 @@ saṅkassaraṃ brahmacariyaṃ, na taṃ hoti mahapphalan'ti
 
 **Whatever deed is slack, whatever observance is corrupted, (whatever) holy life is doubtful – that is not yielding good results.**
 
-[← previous chant](per-14-from-the-elder-parapariya.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-16-miscellaneous-verses.md)
+[← previous chant](per-14-from-the-elder-parapariya.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-15-on-protection.md) | [next chant →](per-16-miscellaneous-verses.md)

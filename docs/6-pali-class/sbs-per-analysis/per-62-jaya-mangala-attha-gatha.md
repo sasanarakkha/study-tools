@@ -247,4 +247,4 @@ etā pi buddha-jaya-maṅgala-aṭṭha-gāthā, yo vācano dina-dine sarate'm'a
 
 **These eight verses of the Buddha's auspicious victory. Whoever recites or remember them day after day not lazy, destroying all kinds of obstacles, will attain emancipation & happiness, the man with wisdom.**
 
-[← previous chant](per-61-devata-uyyojana-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-63-jaya-parittam.md)
+[← previous chant](per-61-devata-uyyojana-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-62-jaya-mangala-attha-gatha.md) | [next chant →](per-63-jaya-parittam.md)

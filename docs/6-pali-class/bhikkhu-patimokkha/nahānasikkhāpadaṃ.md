@@ -60,4 +60,4 @@
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 
 
-[← previous](jotisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](dubbaṇṇakaraṇasikkhāpadaṃ.md)
+[← previous](jotisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=nah%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](dubbaṇṇakaraṇasikkhāpadaṃ.md)

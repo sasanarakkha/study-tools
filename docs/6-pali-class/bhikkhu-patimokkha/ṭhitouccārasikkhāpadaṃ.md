@@ -21,4 +21,4 @@
 | passāvaṃ | noun | masc acc sg of passāva | | urine | flowing out | √su (go, flow) | | pa + √su  > sav + *a | | |
 
 
-[← previous](uppathenagamanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](hariteuccārasikkhāpadaṃ.md)
+[← previous](uppathenagamanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=%E1%B9%ADhitoucc%C4%81rasikkh%C4%81pada%E1%B9%83) | [next →](hariteuccārasikkhāpadaṃ.md)

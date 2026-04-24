@@ -70,4 +70,4 @@
 | if he should store more than that, even when there is an expectation, this is an offence requiring relinquishment and confession | | | | | | | | | | |
 
 
-[← previous](udositasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](purāṇacīvarasikkhāpadaṃ.md)
+[← previous](udositasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ak%C4%81lac%C4%ABvarasikkh%C4%81pada%E1%B9%83) | [next →](purāṇacīvarasikkhāpadaṃ.md)

@@ -211,4 +211,4 @@ taṃ vo bhavissati dīgharattaṃ hitāya sukhāyā'ti
 
 **That is for your welfare and happiness for a long time**
 
-[← previous chant](per-26-the-four-great-references.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-28-principles-of-non-decline.md)
+[← previous chant](per-26-the-four-great-references.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-27-principles-of-cordiality.md) | [next chant →](per-28-principles-of-non-decline.md)

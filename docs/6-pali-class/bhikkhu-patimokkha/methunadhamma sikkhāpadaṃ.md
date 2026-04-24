@@ -41,4 +41,4 @@
 | should engage in the sexual act, even with just a female animal, he is defeated (and) not in communion. | | | | | | | | | | |
 
 
-[← previous](pārājikuddeso.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](adinnādānasikkhāpadaṃ.md)
+[← previous](pārājikuddeso.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=methunadhamma%20sikkh%C4%81pada%E1%B9%83) | [next →](adinnādānasikkhāpadaṃ.md)

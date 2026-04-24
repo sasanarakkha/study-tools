@@ -28,4 +28,4 @@
 | The chapter about instructions is third |  |  |  |  |  |  |  |  |  |  |
 
 
-[← previous](paripācitasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](āvasathapiṇḍasikkhāpadaṃ.md)
+[← previous](paripācitasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=rahonisajjasikkh%C4%81pada%E1%B9%83) | [next →](āvasathapiṇḍasikkhāpadaṃ.md)

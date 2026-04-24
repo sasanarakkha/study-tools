@@ -24,4 +24,4 @@
 | If any monk should accept gold or money, or should have (it) accepted, or should consent to (it) being deposited (for him), this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](eḷakalomadhovāpanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](rūpiyasaṃvohārasikkhāpadaṃ.md)
+[← previous](eḷakalomadhovāpanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=r%C5%ABpiyasikkh%C4%81pada%E1%B9%83) | [next →](rūpiyasaṃvohārasikkhāpadaṃ.md)

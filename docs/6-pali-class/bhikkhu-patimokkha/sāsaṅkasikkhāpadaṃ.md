@@ -85,4 +85,4 @@
 | if he should dwell apart for more than that, apart from permission from the monks, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](accekacīvarasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](pariṇatasikkhāpadaṃ.md)
+[← previous](accekacīvarasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=s%C4%81sa%E1%B9%85kasikkh%C4%81pada%E1%B9%83) | [next →](pariṇatasikkhāpadaṃ.md)

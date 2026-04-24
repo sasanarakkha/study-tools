@@ -125,4 +125,4 @@ saṅghaṃ varan'taṃ sirasā namāmi. buddh'ānubuddhaṃ sama-sīla-diṭṭ
 
 **I pay homage with my head to that excellent Saṅgha, awakened after the awakened, harmonious in virtue & view. By the power of this, may victory and success be for you, and may all dangers be destroyed.**
 
-[← previous chant](per-50-sarana-gamana-patho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-52-namo-kara-atthaka.md)
+[← previous chant](per-50-sarana-gamana-patho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-51-nama-kara-siddhi-gatha.md) | [next chant →](per-52-namo-kara-atthaka.md)

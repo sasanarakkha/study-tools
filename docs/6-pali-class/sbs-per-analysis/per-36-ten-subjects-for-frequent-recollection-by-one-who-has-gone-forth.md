@@ -147,4 +147,4 @@ ime kho bhikkhave dasa dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā' ti
 
 **o monks, these is ten principles should often be reflected by a one who has gone forth.**
 
-[← previous chant](per-35-five-subjects-for-frequent-recollection.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-37-the-thirty-two-parts.md)
+[← previous chant](per-35-five-subjects-for-frequent-recollection.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-36-ten-subjects-for-frequent-recollection-by-one-who-has-gone-forth.md) | [next chant →](per-37-the-thirty-two-parts.md)

@@ -10,4 +10,4 @@
 | In provoking complaint, in criticising, there is an offence requiring confession. | | | | | | | | | | |
 
 
-[← previous](aññavādakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](paṭhamasenāsanasikkhāpadaṃ.md)
+[← previous](aññavādakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ujjh%C4%81panakasikkh%C4%81pada%E1%B9%83) | [next →](paṭhamasenāsanasikkhāpadaṃ.md)

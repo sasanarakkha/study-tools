@@ -25,4 +25,4 @@
 | If any monk, having himself given a robe to a monk, being angry (and) displeased, should snatch (it) back or should make someone snatch (it) back, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](vassikasāṭikasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](suttaviññattisikkhāpadaṃ.md)
+[← previous](vassikasāṭikasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=c%C4%ABvaraacchindanasikkh%C4%81pada%E1%B9%83) | [next →](suttaviññattisikkhāpadaṃ.md)

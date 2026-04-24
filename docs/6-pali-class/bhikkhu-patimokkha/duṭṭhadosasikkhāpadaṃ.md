@@ -67,4 +67,4 @@
 | and if the monk confirms the fault (or malice), is a saṅghādisesa (offence). | | | | | | | | | | |
 
 
-[← previous](vihārakārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](aññabhāgiyasikkhāpadaṃ.md)
+[← previous](vihārakārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=du%E1%B9%AD%E1%B9%ADhadosasikkh%C4%81pada%E1%B9%83) | [next →](aññabhāgiyasikkhāpadaṃ.md)

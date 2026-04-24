@@ -27,4 +27,4 @@
 | The chapter about silk is second. | | | | | | | | | | |
 
 
-[← previous](rūpiyasaṃvohārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](pattasikkhāpadaṃ.md)
+[← previous](rūpiyasaṃvohārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=kayavikkayasikkh%C4%81pada%E1%B9%83) | [next →](pattasikkhāpadaṃ.md)

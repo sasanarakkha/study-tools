@@ -32,4 +32,4 @@
 | paṭhamo | ordin | masc nom sg of paṭhama | | first | most forward | | | pa + tama | | |
 
 
-[← previous](okkhittacakkhusikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](ujjagghikasikkhāpadaṃ.md)
+[← previous](okkhittacakkhusikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ukkhittakasikkh%C4%81pada%E1%B9%83) | [next →](ujjagghikasikkhāpadaṃ.md)

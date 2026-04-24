@@ -305,4 +305,4 @@ tan-tesaṃ maṅgalam-uttaman'ti
 
 **having done things like this, are victorious everywhere; everywhere they go safely. that is their highest blessing.**
 
-[← previous chant](per-52-namo-kara-atthaka.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-54-ratana-sutta.md)
+[← previous chant](per-52-namo-kara-atthaka.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-53-mangala-sutta.md) | [next chant →](per-54-ratana-sutta.md)

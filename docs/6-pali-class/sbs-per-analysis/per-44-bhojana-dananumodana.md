@@ -62,4 +62,4 @@ Intelligent man, who is giver of happiness, he attains happiness.**
 
 Having given longevity, strength, beauty, happiness and understanding, he is one who renowned and having long life, wherever he is reborn.
 
-[← previous chant](per-43-ratanattayanubhavadi-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-45-culla-mangala-cakka-vala.md)
+[← previous chant](per-43-ratanattayanubhavadi-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-44-bhojana-dananumodana.md) | [next chant →](per-45-culla-mangala-cakka-vala.md)

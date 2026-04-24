@@ -43,4 +43,4 @@
 | If a monk, not taking two parts of pure black sheep's hair, (and) a third (part) of white, (and) a fourth (part) of ruddy brown, should cause the making of a new felt rug, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
 
 
-[← previous](suddhakāḷakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](chabbassasikkhāpadaṃ.md)
+[← previous](suddhakāḷakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=dvebh%C4%81gasikkh%C4%81pada%E1%B9%83) | [next →](chabbassasikkhāpadaṃ.md)

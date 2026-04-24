@@ -256,4 +256,4 @@ apaṇṇakaṃ sāmaññam'eva seyyo
 **As fruits from a tree, people fall, young and old, from the breaking-up of the body, 
 just having seen this, I am a monk, o king. Certainly only monkhood is better.**
 
-[← previous chant](per-12-the-burdens.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-14-from-the-elder-parapariya.md)
+[← previous chant](per-12-the-burdens.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-13-from-the-elder-ratthapala.md) | [next chant →](per-14-from-the-elder-parapariya.md)

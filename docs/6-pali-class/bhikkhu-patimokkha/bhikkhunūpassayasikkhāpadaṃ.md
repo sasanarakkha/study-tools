@@ -38,4 +38,4 @@
 | In that case this is the right occasion: a nun is sick; this is the right occasion in that case. | | | | | | | | | | |
 
 
-[← previous](atthaṅgatasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](āmisasikkhāpadaṃ.md)
+[← previous](atthaṅgatasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=bhikkhun%C5%ABpassayasikkh%C4%81pada%E1%B9%83) | [next →](āmisasikkhāpadaṃ.md)

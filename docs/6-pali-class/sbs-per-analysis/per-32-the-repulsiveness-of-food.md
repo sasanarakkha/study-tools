@@ -54,4 +54,4 @@ imaṃ pūti-kāyaṃ patvā ativiya jigucchanīyo jāyati
 
 **having reached this putrid body, arise those what should be disgusted very much**
 
-[← previous chant](per-31-the-four-requisites.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-33-universal-well-being.md)
+[← previous chant](per-31-the-four-requisites.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-32-the-repulsiveness-of-food.md) | [next chant →](per-33-universal-well-being.md)

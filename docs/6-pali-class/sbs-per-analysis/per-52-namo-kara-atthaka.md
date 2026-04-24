@@ -75,4 +75,4 @@ namo-kār'ānubhāvena suvatthi hotu sabbadā. namo-kārassa tejena vidhimhi hom
 
 **By the power of this act of veneration, may there always be well-being. By the splendour this homage, may I be powerful in this performance.**
 
-[← previous chant](per-51-nama-kara-siddhi-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-53-mangala-sutta.md)
+[← previous chant](per-51-nama-kara-siddhi-gatha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-52-namo-kara-atthaka.md) | [next chant →](per-53-mangala-sutta.md)

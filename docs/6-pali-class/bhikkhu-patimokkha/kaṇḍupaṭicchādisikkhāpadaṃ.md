@@ -37,4 +37,4 @@
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 
-[← previous](nisīdanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](vassikasāṭikāsikkhāpadaṃ.md)
+[← previous](nisīdanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ka%E1%B9%87%E1%B8%8Dupa%E1%B9%ADicch%C4%81disikkh%C4%81pada%E1%B9%83) | [next →](vassikasāṭikāsikkhāpadaṃ.md)

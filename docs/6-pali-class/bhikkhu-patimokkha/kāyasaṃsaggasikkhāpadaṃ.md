@@ -42,4 +42,4 @@
 | either holding of a hand, or holding a braid, or stroking any of the limb is a saṅghādisesa (offence) | | | | | | | | | | |
 
 
-[← previous](sukkavisaṭṭhisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](duṭṭhullavācāsikkhāpadaṃ.md)
+[← previous](sukkavisaṭṭhisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=k%C4%81yasa%E1%B9%83saggasikkh%C4%81pada%E1%B9%83) | [next →](duṭṭhullavācāsikkhāpadaṃ.md)

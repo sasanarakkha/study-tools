@@ -22,4 +22,4 @@
 | pañcamo | ordin | masc nom sg of pañcama | | fifth (5th) | | | | pañca + ma | | |
 
 
-[← previous](jivhānicchārakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url) | [next →](surusurukārakasikkhāpadaṃ.md)
+[← previous](jivhānicchārakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=capucapuk%C4%81rakasikkh%C4%81pada%E1%B9%83) | [next →](surusurukārakasikkhāpadaṃ.md)

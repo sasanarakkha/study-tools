@@ -81,4 +81,4 @@ that is - four pairs of people and eight individuals
 this is the Community of disciples of the Blessed One, 
 worthy of offering, worthy of hospitality, worthy of gifts, worthy of reverence, the highest field of merit for the world**
 
-[← previous chant](per-56-khandha-parittam.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [next chant →](per-58-yan-kinci-ratanam-loke.md)
+[← previous chant](per-56-khandha-parittam.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-57-buddha-dhamma-sangha-guna.md) | [next chant →](per-58-yan-kinci-ratanam-loke.md)
