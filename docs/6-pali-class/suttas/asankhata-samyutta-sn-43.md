@@ -8,8 +8,9 @@ Please make line by line translation. Breaking all sandhi and comp (naming type 
 
 example:
 
-| ID | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
+| ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
+| # | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
 
 ## SN 43.1 asaṅkhatasutta
 

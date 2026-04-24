@@ -4,8 +4,9 @@ Please make line by line translation. Breaking all sandhi and comp (naming type 
 
 example:
 
-| abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
+| Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- |
+| abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
 
 para 74
 evaṃ me sutaṃ, ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubb’ārāme migāramātupāsāde. atha kho gaṇakamoggallāno brāhmaṇo yena bhagavā ten’upasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekam’antaṃ nisīdi. ekam’antaṃ nisinno kho gaṇakamoggallāno brāhmaṇo bhagavantaṃ etad’avoca —

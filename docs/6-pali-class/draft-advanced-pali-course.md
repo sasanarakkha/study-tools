@@ -3523,7 +3523,7 @@ DhA. i, 8.
 
 ***
 
-(c) " Visamyojanasatam maggar gantvã . . . pipdãya
+(c) " Visamyojanasatam maggar gantvã ... pipdãya
 
 ***
 
@@ -3945,7 +3945,7 @@ khattiyo
 
 ***
 
-jatiya ahosi . . . Kondañño gottena ahosi
+jatiya ahosi ... Kondañño gottena ahosi
 
 ***
 
@@ -5435,7 +5435,7 @@ vassasatan
 
 ***
 
-gantvã . . . kalankato' (S. i, 62). And I, leaving aside
+gantvã ... kalankato' (S. i, 62). And I, leaving aside
 
 ***
 
@@ -6239,7 +6239,7 @@ group, the latter is put in
 
 ***
 
-Tesu chase khattiyesu . . . Anuruddho pivena
+Tesu chase khattiyesu ... Anuruddho pivena
 
 ***
 

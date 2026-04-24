@@ -18,8 +18,6 @@ Anki Deck - [SBS Pāḷi-English Vocab](../5-anki/1-sbs/1-sbs-vocab.md) (incluad
 
 ---
 
-- [Exersises on the pubbakicca Dhammayuttika](sbs-per-analysis/pubbakicca-analysis.md)
-
 - [Key to pubbakicca Dhammayuttika](sbs-per-analysis/pubbakicca-analysis.md)
 
 ---
@@ -28,9 +26,7 @@ Anki Deck - [SBS Pāḷi-English Vocab](../5-anki/1-sbs/1-sbs-vocab.md) (incluad
 
 ---
 
-- [Key to MN 107 gaṇakamoggallānasuttaṁ](suttas/mn-107-ganakamoggallanasuttam.md)
-
-- [Exersises on MN 107 gaṇakamoggallānasuttaṁ](suttas/mn-107-ganakamoggallanasuttam.md)
+- [MN 107 gaṇakamoggallānasuttaṁ](suttas/mn-107-ganakamoggallanasuttam.md)
 
 There is an Anki Deck - [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.apkg) which includes MN 107 and other suttas listed next. Or [update deck from csv](https://digitalpalidictionary.github.io/dpd-pali-courses/anki/) if you already using one.
 
