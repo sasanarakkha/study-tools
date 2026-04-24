@@ -39,3 +39,7 @@ example:
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
 | # | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
+
+---
+
+[← Sacca Saṃyutta (SN 56)](sacca-samyutta-sn-56.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [Saḷāyatana Saṃyutta (SN 35) →](salayatana-samyutta-sn-35.md)

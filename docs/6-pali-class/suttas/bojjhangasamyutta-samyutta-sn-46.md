@@ -454,3 +454,7 @@ evameva kho, bhikkhave, yasmiṃ samaye uddhataṃ cittaṃ hoti, kālo tasmiṃ
 | 2739 | \#atthikaṃ | | | | |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
+
+---
+
+[← Satipaṭṭhāna Saṃyutta (SN 47)](satipatthana-samyutta-sn-47.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [Maggasaṃyutta Saṃyutta (SN 45) →](maggasamyutta-samyutta-sn-45.md)

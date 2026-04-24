@@ -4,7 +4,7 @@ Advanced Pāli Course (draft)
 
 This document is still being edited,
 
-please provide corrections or suggestions using the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeA7LgF9KnCGWw1_HysqKpgD4eg4Hjo3ZFG7GcL53nsIETDCw/viewform)
+please provide corrections or suggestions using the [feedback form](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform)
 
 or by commenting directly in this document
 

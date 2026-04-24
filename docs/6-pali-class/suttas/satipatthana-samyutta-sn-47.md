@@ -461,3 +461,7 @@ lābhā te, gahapati, suladdhaṃ te, gahapati! anāgāmiphalaṃ tayā, gahapat
 | 3919 | \#anāgāmino | | | | |
 | 47579 | \# | | | | |
 | 48774 | byākphalaṃataṃ | | | | |
+
+---
+
+[← Nidāna Saṃyutta (SN 12)](nidana-samyutta-sn-12.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [Bojjhaṅgasaṃyutta Saṃyutta (SN 46) →](bojjhangasamyutta-samyutta-sn-46.md)

@@ -43,3 +43,7 @@ example:
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
 | # | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
+
+---
+
+[← MN 107 gaṇakamoggallānasuttaṃ](mn-107-ganakamoggallanasuttam.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [Khandha Saṃyutta (SN 22) →](khandha-samyutta-sn-22.md)

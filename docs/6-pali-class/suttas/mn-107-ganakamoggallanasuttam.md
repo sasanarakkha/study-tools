@@ -2056,3 +2056,7 @@ esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅgha
 
 
 gaṇakamoggallānasuttaṃ niṭṭhitaṃ
+
+---
+
+[index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [Sacca Saṃyutta (SN 56) →](sacca-samyutta-sn-56.md)

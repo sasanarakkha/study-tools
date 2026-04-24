@@ -268,3 +268,7 @@ kathañca, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti ari
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
+
+---
+
+[← Bojjhaṅgasaṃyutta Saṃyutta (SN 46)](bojjhangasamyutta-samyutta-sn-46.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [Asaṅkhata Saṃyutta (SN 43) →](asankhata-samyutta-sn-43.md)

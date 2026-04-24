@@ -1071,3 +1071,7 @@ evameva kho, bhikkhave, ye hi keci atītamaddhānaṃ samaṇā vā brāhmaṇā
 | 63559 | sukhāyā | | | | |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
+
+---
+
+[← Saḷāyatana Saṃyutta (SN 35)](salayatana-samyutta-sn-35.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [Satipaṭṭhāna Saṃyutta (SN 47) →](satipatthana-samyutta-sn-47.md)

@@ -37,3 +37,7 @@ example:
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
 | # | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
+
+---
+
+[← Khandha Saṃyutta (SN 22)](khandha-samyutta-sn-22.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?) | [Nidāna Saṃyutta (SN 12) →](nidana-samyutta-sn-12.md)
