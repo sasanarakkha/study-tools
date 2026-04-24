@@ -133,4 +133,4 @@ jaya-siddhi dhanaṃ lābhaṃ sotthi bhāgyaṃ sukhaṃ balaṃ siri āyu ca v
 **May be f or you: victory, success, wealth, gain, safety, luck, happiness, strength, 
 glory, long life, beauty, riches, growth, renown, a lifespan of 100 years, and accomplishment in life.**
 
-[← previous chant](per-44-bhojana-dananumodana.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-45-culla-mangala-cakka-vala.md) | [next chant →](per-46-aggappasada-sutta-gatha.md)
+[← previous chant](per-44-bhojana-dananumodana.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-45-culla-mangala-cakka-vala.md) | [next chant →](per-46-aggappasada-sutta-gatha.md)

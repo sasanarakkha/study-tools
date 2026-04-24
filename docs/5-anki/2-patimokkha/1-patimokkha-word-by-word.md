@@ -8,11 +8,9 @@ It is recommended to study this pack together with the [Bhikkhu Vibhaṅga](http
 
 Analysis of the Bhikkhupātimokkha you can see and comment [here](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/).
 
-or use analysis in [HTML](https://sasanarakkha.github.io/study-tools/bhikkhu_patimokkha/main.html) format.
+or use analysis in [HTML](../../6-pali-class/bhikkhu-patimokkha/index.md) format.
 
 ![image](../../assets/images/p-timokkha-word-by-word.png)
-
-You can use [second sheet](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/edit#gid=1448457199) of that analisis as an exercise book.
 
 If you want to understand the Pātimokkha rules more deeply, you can use the [Anki deck of Vibhaṅga](../4-vibhanga/1-vibhanga.md), which contains pāli words from definitions of Pātimokkha words.
 
@@ -24,6 +22,7 @@ It is available for testing and [feedback](https://docs.google.com/forms/d/e/1FA
 
 ## Info and Maintenance
 
+- [Patimokkha class page](../../6-pali-class/2-patimokkha-class.md)
 - [Custom study](custom-study.md)
 - [How to Update Your Decks](../general/updating.md)
 - [Advanced: Updating with CSV](../general/csv-update.md)

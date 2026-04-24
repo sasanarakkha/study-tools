@@ -94,4 +94,4 @@ evaṃ vihārim'ātāpiṃ, ahorattam'atanditaṃ. taṃ ve bhadd'eka-ratto'ti, 
 
 **Thus staying ardent day and night, effortful – he (has) indeed an auspicious night – the peaceful sage could tell.**
 
-[← previous chant](per-16-miscellaneous-verses.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-17-a-single-excellent-night.md) | [next chant →](per-18-setting-in-motion-the-wheel-of-dhamma.md)
+[← previous chant](per-16-miscellaneous-verses.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-17-a-single-excellent-night.md) | [next chant →](per-18-setting-in-motion-the-wheel-of-dhamma.md)

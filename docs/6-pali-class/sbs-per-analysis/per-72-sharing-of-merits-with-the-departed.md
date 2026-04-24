@@ -29,4 +29,4 @@ may this (merit) be for our relatives, happy may the relatives be.**
 
 may this (merit) be for your relatives, happy may the relatives be.
 
-[← previous chant](per-71-sharing-of-all-merits.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-72-sharing-of-merits-with-the-departed.md) | [next chant →](per-73-sharing-of-merits-with-the-devas.md)
+[← previous chant](per-71-sharing-of-all-merits.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-72-sharing-of-merits-with-the-departed.md) | [next chant →](per-73-sharing-of-merits-with-the-devas.md)

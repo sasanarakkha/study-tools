@@ -79,4 +79,4 @@ sabbe buddhā balappattā, paccekānañ'ca yaṃ balaṃ, arahantānañ'ca tejen
 
 **By all Buddhas attained the power, and the power of the solitary ones, and by the might of the worthy ones, may I bind in every way for protection.**
 
-[← previous chant](per-60-abhaya-parittam.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-61-devata-uyyojana-gatha.md) | [next chant →](per-62-jaya-mangala-attha-gatha.md)
+[← previous chant](per-60-abhaya-parittam.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-61-devata-uyyojana-gatha.md) | [next chant →](per-62-jaya-mangala-attha-gatha.md)

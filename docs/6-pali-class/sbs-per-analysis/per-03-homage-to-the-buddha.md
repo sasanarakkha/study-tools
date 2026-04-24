@@ -118,4 +118,4 @@ tam-ahaṃ bhagavantaṃ sirasā namāmi
 
 **I highly worship the Blessed One, I bow down with my head  to the Blessed One.**
 
-[← previous chant](per-02-preliminary-homage.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-03-homage-to-the-buddha.md) | [next chant →](per-04-homage-to-the-dhamma.md)
+[← previous chant](per-02-preliminary-homage.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-03-homage-to-the-buddha.md) | [next chant →](per-04-homage-to-the-dhamma.md)

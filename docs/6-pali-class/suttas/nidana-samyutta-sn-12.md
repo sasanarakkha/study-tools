@@ -1074,4 +1074,4 @@ evameva kho, bhikkhave, ye hi keci atītamaddhānaṃ samaṇā vā brāhmaṇā
 
 ---
 
-[← Saḷāyatana Saṃyutta (SN 35)](salayatana-samyutta-sn-35.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Advanced%20Suttas&entry.438735500=docs/6-pali-class/suttas/nidana-samyutta-sn-12.md) | [Satipaṭṭhāna Saṃyutta (SN 47) →](satipatthana-samyutta-sn-47.md)
+[← Saḷāyatana Saṃyutta (SN 35)](salayatana-samyutta-sn-35.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Advanced%20Suttas&entry.438735500=nidana-samyutta-sn-12.md) | [Satipaṭṭhāna Saṃyutta (SN 47) →](satipatthana-samyutta-sn-47.md)

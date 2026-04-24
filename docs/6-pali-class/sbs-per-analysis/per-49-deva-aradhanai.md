@@ -84,4 +84,4 @@ buddha-dassana-kālo ayam'bhadantā, dhammassavana-kālo ayam'bhadantā, saṅgh
 
 **This is the time to see to the Buddha, venerable sirs. This is the time to listen to the Dhamma, venerable sirs. This is the time to attend to the Saṅgha, venerable sirs**
 
-[← previous chant](per-48-so-attha-laddho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-49-deva-aradhanai.md) | [next chant →](per-50-sarana-gamana-patho.md)
+[← previous chant](per-48-so-attha-laddho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-49-deva-aradhanai.md) | [next chant →](per-50-sarana-gamana-patho.md)

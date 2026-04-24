@@ -40,4 +40,4 @@ example:
 
 ---
 
-[← Khandha Saṃyutta (SN 22)](khandha-samyutta-sn-22.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Advanced%20Suttas&entry.438735500=docs/6-pali-class/suttas/salayatana-samyutta-sn-35.md) | [Nidāna Saṃyutta (SN 12) →](nidana-samyutta-sn-12.md)
+[← Khandha Saṃyutta (SN 22)](khandha-samyutta-sn-22.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Advanced%20Suttas&entry.438735500=salayatana-samyutta-sn-35.md) | [Nidāna Saṃyutta (SN 12) →](nidana-samyutta-sn-12.md)

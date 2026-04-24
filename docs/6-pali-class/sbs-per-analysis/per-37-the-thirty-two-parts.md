@@ -74,4 +74,4 @@ tacapariyanto pūro nānappakārassa asucino
 
 **like this indeed this my body from the soles of the feet upwards, from the crown of the head downwards, enclosed with skin and full of various kinds of impurity:**
 
-[← previous chant](per-36-ten-subjects-for-frequent-recollection-by-one-who-has-gone-forth.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-37-the-thirty-two-parts.md) | [next chant →](per-38-recollection-of-impermanence.md)
+[← previous chant](per-36-ten-subjects-for-frequent-recollection-by-one-who-has-gone-forth.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-37-the-thirty-two-parts.md) | [next chant →](per-38-recollection-of-impermanence.md)

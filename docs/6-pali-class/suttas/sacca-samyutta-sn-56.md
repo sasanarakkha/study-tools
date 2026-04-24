@@ -46,4 +46,4 @@ example:
 
 ---
 
-[← MN 107 gaṇakamoggallānasuttaṃ](mn-107-ganakamoggallanasuttam.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Advanced%20Suttas&entry.438735500=docs/6-pali-class/suttas/sacca-samyutta-sn-56.md) | [Khandha Saṃyutta (SN 22) →](khandha-samyutta-sn-22.md)
+[← MN 107 gaṇakamoggallānasuttaṃ](mn-107-ganakamoggallanasuttam.md) | [index](../1-pali-class-adv.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Advanced%20Suttas&entry.438735500=sacca-samyutta-sn-56.md) | [Khandha Saṃyutta (SN 22) →](khandha-samyutta-sn-22.md)

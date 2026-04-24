@@ -175,4 +175,4 @@ evam'etassa kevalassa dukkha-kkhandhassa nirodho hoti.
 
 **such is the cessation of this whole mass of suffering.**
 
-[← previous chant](per-65-dhamma-sangani-matika.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-66-vipassana-bhumi-patho.md) | [next chant →](per-67-patthana-matika-patho.md)
+[← previous chant](per-65-dhamma-sangani-matika.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-66-vipassana-bhumi-patho.md) | [next chant →](per-67-patthana-matika-patho.md)

@@ -75,4 +75,4 @@ adhicitte ca āyogo, etaṃ buddhāna sāsanaṃ
 
 **Not blaming and not harming, restraining by training rules, moderation in food, secluded living place, devotion to the mental development, these are the Teachings of the Buddhas.**
 
-[← previous chant](per-09-going-to-true-and-false-refuges.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-10-the-patimokkha-exhortation.md) | [next chant →](per-11-the-three-characteristics.md)
+[← previous chant](per-09-going-to-true-and-false-refuges.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-10-the-patimokkha-exhortation.md) | [next chant →](per-11-the-three-characteristics.md)

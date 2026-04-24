@@ -10,7 +10,7 @@ The first recommendation is to review the class materials again, paying attentio
 
 It is recommended to do analysis of the SBS Pāḷi-English Recitations book together with the Anki deck.
 
-[Exercises divided by chapters](sbs-per-ex.md)
+<!-- [Exercises divided by chapters](sbs-per-ex.md) -->
 
 [Analysis divided by chapters](sbs-per-analysis.md)
 

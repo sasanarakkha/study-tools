@@ -81,4 +81,4 @@ aggassa dātā medhāvī, agga-dhamma-samāhito. deva-bhūto manusso vā, aggapp
 
 **The wise one who gives to the foremost, who is settled in the foremost Teaching, having become a deity or human being, rejoices, having attained the foremost.**
 
-[← previous chant](per-45-culla-mangala-cakka-vala.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-46-aggappasada-sutta-gatha.md) | [next chant →](per-47-kala-dana-sutta-gatha.md)
+[← previous chant](per-45-culla-mangala-cakka-vala.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-46-aggappasada-sutta-gatha.md) | [next chant →](per-47-kala-dana-sutta-gatha.md)

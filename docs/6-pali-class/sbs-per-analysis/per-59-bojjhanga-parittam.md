@@ -140,4 +140,4 @@ etena sacca-vajjena sotthi te hotu sabbadā
 
 **By the saying of this truth, may well-being always be for you.**
 
-[← previous chant](per-58-yan-kinci-ratanam-loke.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-59-bojjhanga-parittam.md) | [next chant →](per-60-abhaya-parittam.md)
+[← previous chant](per-58-yan-kinci-ratanam-loke.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-59-bojjhanga-parittam.md) | [next chant →](per-60-abhaya-parittam.md)

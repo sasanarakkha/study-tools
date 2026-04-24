@@ -73,4 +73,4 @@ seyyath'īdaṃ — cattāro satipaṭṭhānā cattāro sammappadhānā cattār
 
 **They are as follows: four foundations of mindfulness, four correct applications of effort, four basis for psychic power, five faculties, five powers, seven factors of enlightenment and noble eight-fold path.**
 
-[← previous chant](per-19-anupubba-sikkha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-20-requisites-for-awakening.md) | [next chant →](per-21-the-seven-factors-of-awakening.md)
+[← previous chant](per-19-anupubba-sikkha.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-20-requisites-for-awakening.md) | [next chant →](per-21-the-seven-factors-of-awakening.md)

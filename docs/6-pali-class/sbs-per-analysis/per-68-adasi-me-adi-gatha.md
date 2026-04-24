@@ -92,4 +92,4 @@ so ñātidhammo ca ayaṃ nidassito, petāna'pūjā ca katā uḷārā. balañ'c
 
 **In this way the duty to relatives has been shown, great honor has been done to the departed, and strength have been given to monks. The merit made by you is not insignificant.**
 
-[← previous chant](per-67-patthana-matika-patho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-68-adasi-me-adi-gatha.md) | [next chant →](per-69-pamsu-kula.md)
+[← previous chant](per-67-patthana-matika-patho.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-68-adasi-me-adi-gatha.md) | [next chant →](per-69-pamsu-kula.md)

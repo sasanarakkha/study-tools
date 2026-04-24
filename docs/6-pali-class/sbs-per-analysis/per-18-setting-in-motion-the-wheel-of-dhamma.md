@@ -430,4 +430,4 @@ ath'āhaṃ bhikkhave sadevake loke samārake sabrahmake sassamaṇa-brāhmaṇi
 
 **Knowledge and vision arose for me - my freedom is unshakable, this is my last birth, now there is no further becoming.**
 
-[← previous chant](per-17-a-single-excellent-night.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-18-setting-in-motion-the-wheel-of-dhamma.md) | [next chant →](per-19-anupubba-sikkha.md)
+[← previous chant](per-17-a-single-excellent-night.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-18-setting-in-motion-the-wheel-of-dhamma.md) | [next chant →](per-19-anupubba-sikkha.md)

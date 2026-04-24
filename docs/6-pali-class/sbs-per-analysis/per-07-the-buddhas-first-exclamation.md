@@ -51,4 +51,4 @@ visaṅkhāra-gataṃ cittaṃ – taṇhānaṃ khayam-ajjhagā
 
 **House builder, you are seen! You will not build the house again! All your rafters are broken, the ridgepole is destroyed. Mind has gone into an unconditioned state and achieved the exhaustion of cravings.**
 
-[← previous chant](per-06-salutation-to-the-triple-gem.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=docs/6-pali-class/sbs-per-analysis/per-07-the-buddhas-first-exclamation.md) | [next chant →](per-08-respect-for-the-dhamma.md)
+[← previous chant](per-06-salutation-to-the-triple-gem.md) | [index](../sbs-per-analysis.md) | [Feedback](https://docs.google.com/forms/d/1Z8Jjt0-E0HNX7ygABIzAcrChG23M3IOyoZGQ-EDRzXY/viewform?entry.957833742=Analysis%20of%20SBS%20P%C4%81%E1%B8%B7i-English%20Recitations&entry.438735500=per-07-the-buddhas-first-exclamation.md) | [next chant →](per-08-respect-for-the-dhamma.md)

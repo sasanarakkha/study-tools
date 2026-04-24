@@ -14,18 +14,9 @@ It includes the following sources:
 
 - If you are using a mobile device, there is an [HTML version](bhikkhu-patimokkha/index.md) of the same analysis available.
 
-# Exercises
-
-For upcoming classes, you may practice analyzing the pātikokkha rules using the second sheet in the Google Sheet mentioned above. Please make a copy of this document rather than editing the original.
-
-Here is the [folder with exercises.](https://drive.google.com/drive/folders/1MXKNzFuTZ45VRiOtKhOyv3kpPE7q3Dje?usp=drive_link)
-
-
 # Anki decks
 
-To support vocabulary improvement, there are two Anki decks available. Please update them after each class:
-
-
+To support vocabulary improvement, there are two Anki decks available. Please [update them](../5-anki/2-patimokkha/1-patimokkha-word-by-word.md) after each class.
 
 ---
 
@@ -60,8 +51,3 @@ Feel free to [contact us](mailto:studytools@sasanarakkha.org) if you need any as
 
 We recommend using the latest [SBS Pāli Dictionary](../4-dictionaries/sbs-pali-dictionary.md). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
 
----
-
-These work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
