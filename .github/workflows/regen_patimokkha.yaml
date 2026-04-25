@@ -29,6 +29,9 @@ jobs:
       - name: Generate Markdown pages
         run: uv run python scripts/generate_patimokkha.py
 
+      - name: Fix Tables
+        run: uv run python scripts/fix_pali_tables.py
+
       - name: Commit and push if changed
         run: |
           git config user.name  "github-actions[bot]"

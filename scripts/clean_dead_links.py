@@ -1,13 +1,11 @@
-"""
-Script to find and remove dead links in Markdown files.
-Specifically targets list items in index files that link to removed .md files.
-"""
+"""Find and remove dead links in Markdown files, targeting list items in index files."""
 import os
 import re
 from pathlib import Path
+from typing import Optional
 from tools.printer import printer as pr
 
-def resolve_link(base_file: Path, link_target: str) -> Path | None:
+def resolve_link(base_file: Path, link_target: str) -> Optional[Path]:
     # If the link has an anchor like target.md#section, strip it
     if '#' in link_target:
         link_target = link_target.split('#')[0]
@@ -20,7 +18,7 @@ def resolve_link(base_file: Path, link_target: str) -> Path | None:
     target_path = (base_file.parent / link_target).resolve()
     return target_path
 
-def clean_dead_links_in_file(file_path: Path):
+def clean_dead_links_in_file(file_path: Path) -> bool:
     with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     
@@ -58,7 +56,7 @@ def clean_dead_links_in_file(file_path: Path):
         return True
     return False
 
-def main():
+def main() -> None:
     pr.green("Cleaning dead links")
     docs_dir = Path('docs').resolve()
     count = 0

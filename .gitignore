@@ -12,5 +12,5 @@ __init__.py
 build/
 dist/
 temp/
-archive/
+archive
 dpd_operations.log

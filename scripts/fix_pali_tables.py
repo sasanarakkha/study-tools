@@ -208,7 +208,7 @@ def main() -> None:
                         remove_lead_col=args.remove_lead_col,
                         add_headers=args.add_headers):
             count += 1
-            pr.warning(filepath)
+            # pr.warning(filepath)
 
     if count > 0:
         pr.yes(f"{count} files")

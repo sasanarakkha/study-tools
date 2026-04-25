@@ -1,5 +1,6 @@
 """Generate Markdown pages for Bhikkhu Pātimokkha word-by-word analysis."""
 import argparse
+from urllib.parse import quote
 from pathlib import Path
 import pandas as pd
 
@@ -59,7 +60,8 @@ def generate_rule_page(source: dict, df: pd.DataFrame, output_dir: Path, sources
     
     prev_link = f"[← previous]({sources[idx - 1]['source']}.md)" if idx > 0 else ""
     index_link = "[index](index.md)"
-    feedback_link = f"[Feedback]({FEEDBACK_URL})"
+    rule_encoded = quote(rule)
+    feedback_link = f"[Feedback]({FEEDBACK_URL}&entry.1433863141={rule_encoded})"
     next_link = f"[next →]({sources[idx + 1]['source']}.md)" if idx < len(sources) - 1 else ""
     nav_parts = [p for p in [prev_link, index_link, feedback_link, next_link] if p]
     lines.append(f"\n{' | '.join(nav_parts)}")

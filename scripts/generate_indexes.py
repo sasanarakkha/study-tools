@@ -1,3 +1,4 @@
+"""Automatically generate index.md files for directories based on their content structure."""
 import os
 import re
 from pathlib import Path

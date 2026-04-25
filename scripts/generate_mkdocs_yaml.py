@@ -1,3 +1,4 @@
+"""Update mkdocs.yaml navigation based on the actual directory structure and first headings."""
 import yaml
 import os
 import re

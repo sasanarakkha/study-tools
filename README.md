@@ -39,14 +39,22 @@ bash scripts/web_preprocessing.sh && uv run mkdocs build
 
 ### Script Registry
 
-These scripts are used for content generation, maintenance, and verification:
+These scripts are used for content generation, maintenance, and data integrity:
 
+- `scripts/web_preprocessing.sh`: Main entry point for site generation prep — runs localization, link repair, heading normalization, and index generation.
+  - Usage: `bash scripts/web_preprocessing.sh`
 - `scripts/compare_pali_sources.py`: Identifies data loss between current Markdown files and a past Git commit.
-- `scripts/fix_pali_tables.py`: Normalizes Pāḷi study markdown tables and fixes grammar abbreviations.
+  - Usage: `uv run scripts/compare_pali_sources.py --commit <hash> --dir <path>`
 - `scripts/generate_patimokkha.py`: Generates word-by-word Pāṭimokkha analysis pages from an Excel spreadsheet.
-- `scripts/web_preprocessing.sh`: Main entry point for site generation prep (indexes, navigation).
-- `scripts/fix_links.py`: Corrects broken or moved internal links.
-- `scripts/generate_indexes.py`: Creates `index.md` files for directories based on folder structure.
+  - Usage: `uv run scripts/generate_patimokkha.py`
+- `scripts/download_patimokkha.sh`: Downloads the Pātimokkha Word by Word spreadsheet from Google Sheets.
+  - Usage: `bash scripts/download_patimokkha.sh`
+- `scripts/upload.sh`: Creates a new GitHub release and uploads assets from `temp-push/`.
+  - Usage: `bash scripts/upload.sh`
+- `scripts/upload_asset.sh`: Uploads a single specific asset to the latest draft release.
+  - Usage: `bash scripts/upload_asset.sh`
+- `scripts/resume_upload.sh`: Resumes an interrupted GitHub release upload.
+  - Usage: `bash scripts/resume_upload.sh`
 
 ## Project Structure
 

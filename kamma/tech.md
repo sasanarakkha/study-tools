@@ -29,7 +29,6 @@ Developers maintaining the study-tools website.
 ## Quality Assurance & Maintenance
 
 - **Data Preservation:** Before mass reformatting or structural changes, use `scripts/compare_pali_sources.py --commit <baseline_hash> --dir <path>` to ensure no data loss.
-- **Table Normalization:** Use `scripts/fix_pali_tables.py --path <path>` to align Pāḷi study tables with the canonical 4-column structure (`Pāli | POS | Grammar | English`).
 - **Automation First:** Prefer scripts over manual edits for large-scale formatting changes to ensure consistency and repeatability.
 
 ## What the output looks like
