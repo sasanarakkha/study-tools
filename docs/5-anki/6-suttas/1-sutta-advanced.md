@@ -8,7 +8,7 @@ Detailed analysis of those sutta passages can be found in the [Advanced Pali](..
 
 - Double-click on the downloaded file, and it will appear in your Anki.
 
-## Info and Maintenance
+## Maintenance
 
 - [How to Update Your Decks](../general/updating.md)
 - [Advanced: Updating with CSV](../general/csv-update.md)

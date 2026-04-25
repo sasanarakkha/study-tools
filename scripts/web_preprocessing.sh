@@ -6,12 +6,6 @@ set -e
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$PROJECT_ROOT"
 
-# Generate patimokkha
-uv run python scripts/generate_patimokkha.py
-
-# Fix tables
-uv run python scripts/fix_pali_tables.py
-
 # Clean dead links
 uv run python scripts/clean_dead_links.py
 

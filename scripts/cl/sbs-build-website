@@ -9,6 +9,9 @@ PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." >/dev/null 2>&1 && pwd
 # Change to the project root
 cd "$PROJECT_ROOT" || exit 1
 
+echo "Running pat preprocessing pipeline..."
+bash scripts/pat_preprocessing.sh
+
 echo "Running web preprocessing pipeline..."
 bash scripts/web_preprocessing.sh
 

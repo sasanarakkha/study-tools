@@ -7,8 +7,3 @@ The pack can be studied together with [Word by Word Analysis of SBS Anumodana ma
 - [Download the latest update](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-daily-chanting.apkg)
 
 - Double-click on the downloaded file, and it will appear in your Anki.
-
-## Maintenance
-
-- [How to Update Your Decks](../general/updating.md)
-- [Special Fields Add-on](../general/special-fields.md)

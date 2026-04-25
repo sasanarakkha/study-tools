@@ -14,7 +14,7 @@ Also, as a reference [Word by Word Analysis of SBS Anumodana made by Ven. Ṭhan
 
 ## Info and Maintenance
 
-- [Recommended ways of studying this deck](../5-dhp/study-ways.md)
+- [Recommended ways of studying this deck](study-ways.md)
 - [How to Update Your Decks](../general/updating.md)
 - [Advanced: Updating with CSV](../general/csv-update.md)
 - [Special Fields Add-on](../general/special-fields.md)

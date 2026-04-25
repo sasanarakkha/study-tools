@@ -10,6 +10,8 @@ This tool is recommended to be used together with the [Dhammapada grammatical an
 
 - Double-click on the downloaded file, and it will appear in your Anki.
 
+## Info and Maintenance
+
 - [Recommended ways of studying this deck](study-ways.md)
 - [How to Update Your Decks](../general/updating.md)
 - [Advanced: Updating with CSV](../general/csv-update.md)

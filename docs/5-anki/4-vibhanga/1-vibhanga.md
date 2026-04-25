@@ -12,5 +12,8 @@ If you want to gain a deeper understanding of the Pātimokkha rules, you can use
 
 - Double-click on the downloaded file, and it will appear in your Anki.
 
-
 ## Maintenance
+
+- [How to Update Your Decks](../general/updating.md)
+- [Advanced: Updating with CSV](../general/csv-update.md)
+- [Special Fields Add-on](../general/special-fields.md)
