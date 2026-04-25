@@ -40,6 +40,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes — skipping commit"
           else
-            git commit -m "regen: patimokkha pages (sasanarakkha/dpd-db-sbs#21)"
+            git commit -m "regen: patimokkha pages"
             git push
           fi

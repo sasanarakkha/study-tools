@@ -12,6 +12,7 @@ This project contains materials for Pāḷi language study.
 - **Clean Markdown Sources:** Keep `.md` files extremely user-friendly and focused on content. NEVER use raw HTML, special symbols like `&nbsp;`, or complex `<div>` wraps in the source files. All necessary formatting fixes or UI elements (like navigation buttons or table adjustments) MUST be implemented via scripts or build hooks.
 - **Data Integrity:** All automated changes must be verified against original meaning and structure.
 - **Python Imports:** Prefer using a Hatch-based package structure (configured in `pyproject.toml`) for internal script and tool imports. Avoid `sys.path` hacks or `PYTHONPATH` exports in shell scripts.
+- **Temporary Files:** All temporary files, test fixtures, and newly created script logs MUST be placed in the `temp/` directory. Do not move existing legacy logs like `dpd_operations.log` unless explicitly asked.
 
 ## GitHub (upstream repository)
 - Unless otherwise specified the repository in question is https://github.com/sasanarakkha/study-tools.
@@ -24,3 +25,6 @@ All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immedi
 
 ## One-Time Scripts
 Scripts that run once (like data migrations or one-time transformations) MUST be moved to `scripts/archive/` after they complete successfully. This distinguishes them from permanent preprocessing or maintenance scripts. Place them in the active `scripts/` directory during development, then move to `scripts/archive/` during the finalize step.
+
+## Python Coding Standards
+- Always import the printer instance from `tools.printer`: `from tools.printer import printer as pr`. Never import the `Printer` class directly for standard logging.

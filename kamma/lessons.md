@@ -5,3 +5,9 @@
 - 2026-04-23 [POSITIVE] Data integrity scripts (compare_pali_sources.py) are essential for mass reformatting tasks.
 - 2026-04-23 [WORKFLOW] Prefer Hatch package structure over PYTHONPATH hacks for internal tool imports.
 - 2026-04-25 [POSITIVE] Comprehensive review.md sections (Files Changed, Test Evidence) made thread finalization highly efficient.
+- 2026-04-25 [CONFUSION] Script passed review with import error (class vs instance). Reviewer missed technical mismatch.
+- 2026-04-25 [POSITIVE] Resolved finalization-phase bug report immediately with technical consistency check.
+- 2026-04-25 [BEHAVIOR] Archived thread before final user tweaks were complete. Resulted in minor process friction.
+- 2026-04-25 [BEHAVIOR] Confirm all interactive UI tweaks with the user before attempting to finalize/archive a thread.
+- 2026-04-25 [POSITIVE] Detected and fixed literal escape character corruption in AGENTS.md during thread finalization.
+- 2026-04-25 [WORKFLOW] Remember that kamma/archive/ is git-ignored when verifying thread finalization.

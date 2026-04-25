@@ -2,9 +2,9 @@
 
 # [Notebook LM](https://notebooklm.google)
 
-It is a great AI tool that is limited only by the selected resources. It’s good for finding needed references. There are a few useful collections available:
+This is a powerful AI tool, limited only by the selected resources. It is excellent for locating needed references. Several useful collections are available:
 
-- [Early Suttas](https://notebooklm.google.com/notebook/6a9818aa-3045-4f35-8afb-ec5f13571d40) - mūla of Early part of the Sutta Tipiṭaka*
+- [Early Suttas](https://notebooklm.google.com/notebook/6a9818aa-3045-4f35-8afb-ec5f13571d40) - The root (*mūla*) of the early part of the Sutta Tipiṭaka*
 
 - [Sutta Piṭaka + Commentaries](https://notebooklm.google.com/notebook/68815e7f-c5b6-4b12-a66e-9f80729b9015) - Second basket of the Tipiṭaka, mūla + atthakathā
 

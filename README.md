@@ -17,6 +17,13 @@ The site is built using [MkDocs](https://www.mkdocs.org/) with the [Material the
 
 ### Local Setup
 
+#### External Requirements
+- **Java (JRE/JDK):** Required for `scripts/grammar_check.py`.
+  - On macOS (Homebrew): `brew install openjdk && sudo ln -sfn $(brew --prefix openjdk)/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
+- **OpenRouter API Key:** Required for `scripts/rewrite_english.py`.
+  - Add `OPENROUTER_API_KEY=your_key_here` to a `.env` file in the project root.
+
+#### Installation
 1. Install dependencies using [uv](https://docs.astral.sh/uv/):
    ```bash
    uv sync
@@ -57,6 +64,11 @@ These scripts are used for content generation, maintenance, and data integrity:
   - Usage: `bash scripts/upload_asset.sh`
 - `scripts/resume_upload.sh`: Resumes an interrupted GitHub release upload.
   - Usage: `bash scripts/resume_upload.sh`
+- `scripts/rewrite_english.py`: Interactive AI-assisted English rewriting for markdown files using OpenRouter, with Pāḷi awareness.
+  - Usage: `uv run scripts/rewrite_english.py [--test] <file_or_folder>`
+- `scripts/grammar_check.py`: Grammar and spelling check for markdown files using LanguageTool (offline, no API key needed).
+  - Usage: `uv run scripts/grammar_check.py <file_or_folder>`
+  - Pāḷi terms with diacritics are automatically ignored.
 
 ## Project Structure
 

@@ -26,11 +26,13 @@ Developers maintaining the study-tools website.
 - MkDocs Material documentation
 - Reference: dpd-pali-courses repo structure
 
-## Quality Assurance & Maintenance
+## Content Improvement & Quality Assurance
 
 - **Asset Verification:** Every build runs `scripts/verify_assets.py` (via `web_preprocessing.sh`) to ensure no broken image references in markdown files.
 - **Data Preservation:** Before mass reformatting or structural changes, use `scripts/compare_pali_sources.py --commit <baseline_hash> --dir <path>` to ensure no data loss.
 - **Automation First:** Prefer scripts over manual edits for large-scale formatting changes to ensure consistency and repeatability.
+- **Prose Improvement:** Use `scripts/rewrite_english.py` for AI-assisted interactive rewriting of English prose with Pāḷi term preservation.
+- **Grammar Validation:** Use `scripts/grammar_check.py` for offline LanguageTool-based grammar and spelling checks.
 
 ## What the output looks like
 
