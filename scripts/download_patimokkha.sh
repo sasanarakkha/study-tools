@@ -8,11 +8,6 @@ OUT_FILE="$OUT_DIR/patimokkha.xlsx"
 
 mkdir -p "$OUT_DIR"
 
-if ! ping -c 1 google.com &>/dev/null; then
-    echo "Error: no internet connection." >&2
-    exit 1
-fi
-
 echo "Downloading Pātimokkha XLSX..."
 curl -L "$XLSX_URL" -o "$OUT_FILE"
 
