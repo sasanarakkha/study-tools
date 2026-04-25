@@ -29,7 +29,7 @@
 | - bhūtagāma | noun | masc, comp | | plants, vegetation | become group; being group | | | bhūta + gāma | genitive tappurisa | bhūtānaṃ + gāma |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | dutiyo | card | masc nom sg of dutiya | | second | | | | dvi > du + tiya | | |
-| The chapter about plants is the second |  |  |  |  |  |  |  |  |  |  |
+| The chapter about plants is the second | | | | | | | | | | |
 
 
 [← previous](mahallakavihārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sapp%C4%81%E1%B9%87akasikkh%C4%81pada%E1%B9%83) | [next →](ovādasikkhāpadaṃ.md)

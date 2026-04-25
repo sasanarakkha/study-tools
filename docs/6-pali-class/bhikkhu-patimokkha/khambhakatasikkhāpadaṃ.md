@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :------------------------- | :------- | :---------------- | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | khambhakato | adj | masc nom sg of khambhakata, comp | | akimbo; placed on the sides | made support | | | khambha + kata | accusative tappurisa | khambhaṃ + kata |
 | - khambha | noun | masc | | prop, support | | √khambh (prop, be stiff) | | √khambh + a | | |
 | - kato | pp | masc nom sg of kata | | made | done | √kar (do, make) | | √kar + ta | | |
@@ -17,7 +17,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------- | :------- | :------------------ | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | khambhakato | adj | masc nom sg of khambhakata, comp | | akimbo; placed on the sides | made support | | | khambha + kata | accusative tappurisa | khambhaṃ + kata |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
 | nisīdissāmīti | comp | sandhi, fut + ind | | | | | | nisīdissāmi + iti | | |

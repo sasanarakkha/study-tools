@@ -9,7 +9,7 @@
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | mātugāmena | noun | masc instr sg of mātugāma, comp | | with a woman | group of mothers | | | mātu + gāma | genitive tappurisa | mātūnaṃ + gāma |
 | saddhiṃ | ind | prep | +instr | together with | | | | | | |
-| eko | card | masc nom sg of eka |  | one |  |  |  |  |  |  |
+| eko | card | masc nom sg of eka | | one | | | | | | |
 | ekāya | card | fem instr sg of eka | | with one woman | with one (female) | | | | | |
 | raho | ind | adv, masc nom sg of rahas | | secretly, privately | | √rah (leave) | | √rah + as | | |
 | nisajjaṃ | noun | fem acc sg of nisajjā | | seat (or) sitting down | seating | √sad (sink, sit, settle) | | ni + √sad + ya + ā | | |

@@ -11,15 +11,15 @@ bhār'ādānaṃ dukkhaṃ loke – bhāra-nikkhepanaṃ sukhaṃ
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhārā | noun | masc.nom.pl | burdens, loads, weights |
-| have | ind |  | indeed, surely |
+| have | ind | | indeed, surely |
 | pañcakkhandhā | noun | masc.nom.pl | five aggregates (of clinging) |
 | bhāra-hāro | noun | masc.nom.sg | load-bearer, carrier of the burden |
-| ca | ind |  | and |
+| ca | ind | | and |
 | puggalo | noun | masc.nom.sg | person, individual |
 | bhār'ādānaṃ | noun | nt.nom.sg | picking up (of)the burden, taking up the weight |
 | dukkhaṃ | noun | nt.nom.sg | discomfort, suffering, pain, unease, problem, trouble |
 | loke | noun | masc.loc.sg | in the world |
-| bhāra- | noun |  | burden, load, weight |
+| bhāra- | noun | | burden, load, weight |
 | nikkhepanaṃ | noun | nt.nom.sg | discarding, dropping, throwing down, casting off |
 | sukhaṃ | noun | nt.nom.sg | ease, comfort, happiness, pleasure |
 

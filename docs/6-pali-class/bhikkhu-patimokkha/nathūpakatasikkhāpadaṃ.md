@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------------- | :--------------------- | :------- | :------------------- | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | thūpakato | noun | masc abl sg of thūpaka | | from the heap in the middle | from a small pagoda | | | thūpa + ka + to | | |
 | omadditvā | verb | abs of omaddati | | having pressed down, made a lump | having crushed down | √madd (crush, grind) | | ava + √madd + itvā | | |
 | piṇḍapātaṃ | noun | masc acc sg of piṇḍapāta, comp | | alms food | lump dropping | | | piṇḍa + pāta | accusative tappurisa | piṇḍaṃ + pāta |

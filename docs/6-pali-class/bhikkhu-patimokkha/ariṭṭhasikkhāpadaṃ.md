@@ -49,7 +49,7 @@
 | mā | ind | neg | | don't! may not! | | | | | | |
 | bhagavantaṃ | noun | masc acc sg of bhagavant | | the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
 | abbhācikkhi | verb | aor 2nd sg of abbhācikkhi | | misrepresent, slander | misrepresented, slandered | √cikkh (show, tell) | | abhi + ā + √cikkh + i | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | hi | ind | excl | | certainly, indeed (or) because; for | | | | | | |
 | sādhu | ind | excl | +dat | it is good (for); it would be good (if) | good | √sādh (accomplish) | | √sādh + u | | |
 | bhagavato 2 | noun | masc gen sg of bhagavant | | of the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
@@ -59,7 +59,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------- | :------- | :----------------------------------------- | :-------------------------- | :------------------------ | :---------------- | :--------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | hi | ind | excl | | certainly, indeed (or) because; for | | | | | | |
 | bhagavā | noun | masc nom sg of bhagavant | | the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
@@ -107,13 +107,13 @@
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | iccetaṃ | comp | sandhi, ind + pron | | that is | thus this | | | iti + etaṃ | | |
 | kusalaṃ | noun | nt nom sg of kusala | | something proper, good deed; doing good | | | | | | |
-| no | ind | neg |  | not |  |  |  |  |  |  |
+| no | ind | neg | | not | | | | | | |
 
 ## no ce paṭinissajeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :----------------------------- | :------- | :---------------------------------------------------------- | :-------------- | :----------------------------- | :---------------- | :---------------------- | :---------------- | :------------------------ |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 

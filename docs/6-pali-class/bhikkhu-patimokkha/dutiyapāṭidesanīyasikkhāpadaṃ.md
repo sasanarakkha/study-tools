@@ -10,7 +10,7 @@
 | nimantitā | pp | masc nom pl of nimantita | | invited | | √mant (counsel, invite) | | ni + √mant + ita | | |
 | bhuñjanti | verb | pr 3rd pl of bhuñjati | | they are eating | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + ti | | |
 | tatra | ind | adv, from ta | | there, in this case, in this regard | there | | | ta + tra | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | sā | pron | fem nom sg of ta | | she, that | | | | | | |
 | bhikkhunī | noun | fem nom sg of bhikkhunī | | nun | female beggar | √bhikkh (beg) | | √bhikkh + u + [n] + ī | | |
 | vosāsamānarūpā | adj | fem nom sg of vosāsamānarūpa, comp | | as if ordering; like commanding | ordering form | | | vosāsamāna + rūpā | kammadhāraya | vosāsamāna + rūpā |
@@ -35,7 +35,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------- | :------ | :------------------------------- | :------- | :--------------------------------------------- | :-------------------------- | :------------------------- | :------------------ | :---------------------- | :---------------- | :------------------------ |
-| tehi | pron | masc instr pl of ta |  | by these |  |  |  |  |  |  |
+| tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu, comp | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | sā | pron | fem nom sg of ta | | she, that | | | | | | |
 | bhikkhunī | noun | fem nom sg of bhikkhunī | | nun | female beggar | √bhikkh (beg) | | √bhikkh + u + [n] + ī | | |
@@ -61,7 +61,7 @@
 | ekassapi | comp | sandhi, pron + ind | | to even one; to a single one | | | | ekassa + api | | |
 | - ekassa | pron | masc dat sg of eka | | to one; to a single one | | | | eka + ssa | | |
 | - api | ind | conj, comp | | then, and, now, even, also | | | | (a)pi | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | bhikkhuno | noun | masc dat sg of bhikkhu, from bhikkhati | | for a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | nappaṭibhāseyya 1 | verb | opt 3rd sg of nappaṭibhāsati | +dat | it would not occur; it would not come to mind; it would not pop up | not shine back | √bhā (shine, speak) | √bhā + a > bhā > bhāsa | na + pati + bhāsa + ti | | |
 | nappaṭibhāseyya 2 | verb | opt 3rd sg of nappaṭibhāsati | | he would not speak against; he would not object | not speak back | √bhās (speak) | √bhās + a > bhāsa | na + pati + bhāsa + ti | | |
@@ -85,7 +85,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------ | :------- | :------------------------------------------- | :----------------- | :-------------------------- | :------------------ | :------------------------ | :---------------- | :------------------------ |
 | paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | | √dis (teach, explain) | √dis + *e > dese | pati + dese + tabba | | |
-| tehi | pron | masc instr pl of ta |  | by these |  |  |  |  |  |  |
+| tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu, comp | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | gārayhaṃ | ptp | masc acc sg of gārayha | | blameworthy | to be blamed | √garah (blame) | | √garah + *ya | | |
 | āvuso | noun | masc voc sg or pl of āyasmant | | friend(s), brother(s) | having long life | | | āyas + mant | | |

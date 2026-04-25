@@ -10,7 +10,7 @@ gaha-kāraṃ gavesanto – dukkhā jāti punappunaṃ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| aneka-jāti- | adj |  | with many births; having multiple lives |
+| aneka-jāti- | adj | | with many births; having multiple lives |
 | saṃsāraṃ | noun | masc.acc.sg | cycle of rebirth, round of births |
 | sandhāvissaṃ | verb | aor.1.sg | I transmigrated, ran through |
 | anibbisaṃ | prp | masc.nom.sg | not understanding, not penetrating, not finding |
@@ -34,7 +34,7 @@ visaṅkhāra-gataṃ cittaṃ – taṇhānaṃ khayam-ajjhagā
 | asi | verb | pr.2.sg | you are |
 | puna | ind | adv. | again, once more |
 | gehaṃ | noun | masc.acc.sg | house, dwelling |
-| na | ind |  | not |
+| na | ind | | not |
 | kāhasi | verb | fut.2.sg | you will make, you will build |
 | sabbā | adj | fem.nom.pl | all |
 | te | pron | 2.gen.sg | your, of you |
@@ -42,7 +42,7 @@ visaṅkhāra-gataṃ cittaṃ – taṇhānaṃ khayam-ajjhagā
 | bhaggā | pp | fem.nom.pl | broken, shattered, fractured |
 | gaha-kūṭaṃ | noun | nt.nom.sg | ridgepole, top beam, the peak of a house |
 | visaṅkhataṃ | pp | nt.nom.sg | destroyed, lit. deconstructed |
-| visaṅkhāra- | noun |  | unconditioned, unconstructed, unfabricated |
+| visaṅkhāra- | noun | | unconditioned, unconstructed, unfabricated |
 | gataṃ | pp | nt.nom.sg | gone into (a state), become |
 | cittaṃ | noun | nt.nom.sg | mind |
 | taṇhānaṃ | noun | fem.gen.pl | of cravings, wanting, desires, lit. thirst |

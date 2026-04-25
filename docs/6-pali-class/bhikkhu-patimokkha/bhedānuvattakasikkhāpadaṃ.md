@@ -16,11 +16,11 @@
 | vaggavādakā | noun | masc nom pl of vaggavādaka, comp | | proponents of a faction, party members | | | | vagga + vādaka | dative tappurisa | vaggassa + vādaka |
 | - vagga | noun | masc | | group, party, faction | | | | vi + agga | | |
 | - vādakā | noun | masc nom pl of vādaka, agent of vadati | | proponents, adherents | speakers | √vad (speak) | | √vad + *aka | | |
-| eko | card | masc nom sg of eka |  | one |  |  |  |  |  |  |
+| eko | card | masc nom sg of eka | | one | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| dve | card | x nom pl |  | two |  |  |  |  |  |  |
+| dve | card | x nom pl | | two | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| tayo | card | masc nom pl of ti |  | three |  |  |  |  |  |  |
+| tayo | card | masc nom pl of ti | | three | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | Now, there are monks who are followers of that monk, who are speaking for (his) faction: one, or two, or three | | | | | | | | | | |
 
@@ -107,11 +107,11 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :---------------------------- | :------- | :----------------------------------------------------------- | :------------------- | :---------------------- | :------------------------- | :------------------- | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ceso | comp | sandhi, ind + pron | | and this | | | | ca + eso | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | dhammavādī | noun | masc nom sg, comp | | speaker of the truth, who speaks according to the teaching | | | | dhamma + vādī | accusative tappurisa | dhammaṃ + vādī |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ceso | comp | sandhi, ind + pron | | and this | | | | ca + eso | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | vinayavādī | noun | masc nom sg, comp | | who speaks according to the discipline | | | | vinaya + vādī | accusative tappurisa | vinayaṃ + vādī |
@@ -175,8 +175,8 @@
 | paṭinissajeyyuṃ | verb | opt 3rd pl of paṭinissajjati | +acc | they would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | iccetaṃ | comp | sandhi, ind + pron | | that is | thus this | | | iti + etaṃ | | |
 | kusalaṃ | noun | nt nom sg of kusala | | something proper, good deed; doing good | | | | | | |
-| no | ind | neg |  | not |  |  |  |  |  |  |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| no | ind | neg | | not | | | | | | |
+| ce | ind | cond | | if | | | | | | |
 | paṭinissajeyyuṃ | verb | opt 3rd pl of paṭinissajjati | +acc | they would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | (if) being admonished up to three times, they should relinquish that (legal issue), that is good, (but) if they should not relinquish (it), is a saṅghādisesa (offence). | | | | | | | | | | |

@@ -17,7 +17,7 @@
 | anupakhajja | ger | ger of anupakkhandati | | encroaching, invading | | √khand (jump) | | anu + pa + √khand + ya | | |
 | seyyaṃ | noun | fem acc sg of seyyā, comp | | bedding | | √sī (lie, sleep) | | √sī > se + *yā | fem acc sg of seyyā | |
 | kappeyya | verb | opt 3rd sg of kappeti | +acc | should take, use | make suitable | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | kappe + ti | | |
-| yassa | pron | masc dat sg of ya |  | for whoever |  |  |  |  |  |  |
+| yassa | pron | masc dat sg of ya | | for whoever | | | | | | |
 | sambādho | noun | masc nom sg of sambhāda | | crowding, inconvenience, discomfort | pressure | √bādh (press) | | saṃ + √bhād + a | | |
 | bhavissati | verb | fut 3rd sg of bhavati | | there will be | | √bhū (be) | √bhū + a > bhava | bhava + ti | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |

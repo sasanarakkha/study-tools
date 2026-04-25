@@ -9,7 +9,7 @@
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhuniyā | noun | fem instr sg of bhikkhunī | | by a nun | female beggar | √bhikkh (beg) | | √bhikkh + u + [n] + ī | | |
 | saddhiṃ | ind | prep | +instr | together with | | | | | | |
-| eko | card | masc nom sg of eka |  | one |  |  |  |  |  |  |
+| eko | card | masc nom sg of eka | | one | | | | | | |
 | ekāya | card | fem instr sg of eka | | with one woman | with one (female) | | | | | |
 | raho | ind | adv, masc nom sg of rahas | | secretly, privately | | √rah (leave) | | √rah + as | | |
 | nisajjaṃ | noun | fem acc sg of nisajjā | | seat (or) sitting down | seating | √sad (sink, sit, settle) | | ni + √sad + ya + ā | | |
@@ -25,7 +25,7 @@
 | - ovāda | noun | masc | | advice; instruction encouragement; exhortation | | √vad (say, speak) | | ava + √vad > vād + *a | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | tatiyo | ordin | masc nom sg of tatiya | | third | | | | ti > ta + tiya | | |
-| The chapter about instructions is third |  |  |  |  |  |  |  |  |  |  |
+| The chapter about instructions is third | | | | | | | | | | |
 
 
 [← previous](paripācitasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=rahonisajjasikkh%C4%81pada%E1%B9%83) | [next →](āvasathapiṇḍasikkhāpadaṃ.md)

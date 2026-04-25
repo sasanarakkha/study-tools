@@ -6,7 +6,7 @@
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| karaṇīyam-attha-kusalena |  |  |  |
+| karaṇīyam-attha-kusalena | | | |
 
 **yaṃ taṃ santaṃ padaṃ abhisamecca:**
 
@@ -16,8 +16,8 @@ suvaco c'assa mudu, anatimānī
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | karaṇīyaṃ | ptp | nt.nom.sg | should be done, must be done, ought to be made |
-| attha- | noun |  | goal, profit, good, welfare, benefit |
-|  | adj | masc.ins.sg | by skillful |
+| attha- | noun | | goal, profit, good, welfare, benefit |
+| | adj | masc.ins.sg | by skillful |
 | yaṃ | pron | nt.acc.sg | that which |
 | taṃ | pron | nt.acc.sg | that, he |
 | santaṃ | pp | nt.acc.sg | calmed, tranquil, peaceful |
@@ -30,10 +30,10 @@ suvaco c'assa mudu, anatimānī
 | --- | --- | --- | --- |
 | sakko | adj | masc.nom.sg | able, capable |
 | ujū | adj | masc.nom.sg | straight; upright, honest |
-| ca | ind |  | and |
+| ca | ind | | and |
 | suhujū | adj | masc.nom.sg | well, very straight, upright |
 | suvaco | adj | masc.nom.sg | obedient; meek |
-| ca | ind |  | and |
+| ca | ind | | and |
 | assa | verb | opt.3.sg | he should be |
 | mudu | adj | masc.nom.sg | soft; mild, gentle |
 | anatimānī | adj | masc.nom.sg | not conceited, humble, without arrogance |
@@ -48,11 +48,11 @@ appagabbho kulesu ananugiddho.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | santussako | adj | masc.nom.sg | content; glad |
-| ca | ind |  | and |
+| ca | ind | | and |
 | subharo | adj | masc.nom.sg | easy to support |
-| ca, | ind |  | and |
+| ca, | ind | | and |
 | appakicco | adj | masc.nom.sg | unencumbered, with few obligations, with few duties |
-| ca | ind |  | and |
+| ca | ind | | and |
 | sallahuka-vutti | adj | masc.nom.sg | with light, frugal conduct or character |
 
 **(he should be) content and easy to support, with few duties, with frugal way of living,**
@@ -60,9 +60,9 @@ appagabbho kulesu ananugiddho.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sant-indriyo | adj | masc.nom.sg | calm; at peace; lit. with calm faculties |
-| ca | ind |  | and |
+| ca | ind | | and |
 | nipako | adj | masc.nom.sg | intelligent, clever, judicious, prudent |
-| ca, | ind |  | and |
+| ca, | ind | | and |
 | appagabbho | adj | masc.nom.sg | not cheeky, modest, respectful, courteous, not proud or impudent |
 | kulesu | noun | nt.loc.pl | in supporters; supporting families, lit. family |
 | an-anugiddho | pp | masc.nom.sg | not covetous; greedy |
@@ -77,7 +77,7 @@ sabbe sattā bhavantu sukhit-attā
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na | ind | neg | not |
-| ca | ind |  | and; as well as, but |
+| ca | ind | | and; as well as, but |
 | khuddaṃ | adj | masc.acc.sg | small; insignificant, slight |
 | samācare | verb | opt.3.sg | he should behave, act, conduct oneself |
 | kiñci | pron | masc.acc.sg | some, something, anything |
@@ -96,7 +96,7 @@ sabbe sattā bhavantu sukhit-attā
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sukhino | adj | masc.nom.pl | (has ease) happy, at ease |
-| vā | ind |  | or, and |
+| vā | ind | | or, and |
 | khemino | adj | masc.nom.pl | peaceful, safe, secure |
 | hontu, | verb | imp.3.pl | may they be |
 
@@ -120,8 +120,8 @@ majjhimā rassak-āṇuka-thūlā.
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | that which, whatever |
 | keci | pron | masc.nom.pl | whoever, whatever, someone, whichever |
-| pāṇa- | adj |  | breathing |
-| bhūta- | noun |  | being, living being |
+| pāṇa- | adj | | breathing |
+| bhūta- | noun | | being, living being |
 | atthi | verb | pr.3.pl | there are |
 
 **whatever living beings there are**
@@ -129,9 +129,9 @@ majjhimā rassak-āṇuka-thūlā.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasā | adj | masc.nom.pl | movable or trembling |
-| vā |  | ind | or |
+| vā | | ind | or |
 | thāvarā | adj | masc.nom.pl | immobile or firm, strong |
-| vā |  | ind | or |
+| vā | | ind | or |
 | anavasesā, | adj | masc.nom.pl | without exception, without remainder |
 
 **whether movable or immobile (trembling or strong), without exception,**
@@ -139,18 +139,18 @@ majjhimā rassak-āṇuka-thūlā.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dīghā | adj | masc.nom.pl | long, tall |
-| vā |  | ind | or |
+| vā | | ind | or |
 | ye | pron | masc.nom.pl | what which, that are, whatever |
 | mahantā | adj | masc.nom.pl | great, extensive, big |
-| vā | ind |  | or |
+| vā | ind | | or |
 
 **those that are long or those that are large**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | majjhimā | adj | masc.nom.pl | middle; medium, middling |
-| rassaka- | adj |  | short |
-| āṇuka- | adj |  | subtle, tiny, minute, atomic |
+| rassaka- | adj | | short |
+| āṇuka- | adj | | subtle, tiny, minute, atomic |
 | thūlā | adj | masc.nom.pl | massive, large, gross |
 
 **middling, short, tiny, or gross**
@@ -163,7 +163,7 @@ sabbe sattā bhavantu sukhit-attā.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | diṭṭhā | pp | masc.nom.pl | that which is seen |
-| vā | ind |  | or |
+| vā | ind | | or |
 | ye ca | pron | masc.nom.pl | and that which, whatever |
 | adiṭṭhā | pp | masc.nom.pl | not seen |
 
@@ -172,19 +172,19 @@ sabbe sattā bhavantu sukhit-attā.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whatever, whoever , that which |
-| сa | ind |  | and |
-| dūre | ind |  | far distant, remote, far away |
+| сa | ind | | and |
+| dūre | ind | | far distant, remote, far away |
 | vasanti | verb | pr.3.pl | they live, dwell |
-| avidūre | ind |  | not far, near |
+| avidūre | ind | | not far, near |
 
 **whether they dwell far or near,**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhūtā | pp | masc.nom.pl | become; born, produced; existed |
-| vā |  | ind | or |
+| vā | | ind | or |
 | sambhavesī | adj | masc.nom.pl | seeking birth |
-| vā, | ind |  | or |
+| vā, | ind | | or |
 
 **whether they born or seeking birth**
 
@@ -201,7 +201,7 @@ nāññam-aññassa dukkham-iccheyya.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| na | ind |  | not |
+| na | ind | | not |
 | paro | noun | masc.nom.sg | other, another (person) |
 | paraṃ | noun | masc.acc.sg | other, another (person) |
 | nikubbetha | verb | opt.3.sg refl | should cheat; should deceive; should defrauds; lit. should make down |
@@ -211,7 +211,7 @@ nāññam-aññassa dukkham-iccheyya.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | na-atimaññetha | verb | opt.3.sg refl | should not despise, scorn, look down (on), have contempt (for), condescending (about); lit. should not think too much |
-| katthaci | adv |  | somewhere, anywhere |
+| katthaci | adv | | somewhere, anywhere |
 | naṃ | pron | masc.acc.sg | that, hiṃ |
 | kañci | pron | masc.acc.sg | someone, anyone |
 
@@ -220,14 +220,14 @@ nāññam-aññassa dukkham-iccheyya.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | byārosanā | noun | fem.nom.sg | making angry, causing anger, being angry |
-| paṭigha- | noun |  | anger; repulsion; collision, conflict |
+| paṭigha- | noun | | anger; repulsion; collision, conflict |
 | saññā, | noun | fem.nom.sg | label, concept, idea, notion, perception |
 
 **(throught) causing anger (or) idea of repulsion**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| na- | ind |  | not |
+| na- | ind | | not |
 | aññaṃ-aññassa | adj | masc.dat.sg | lit. one to another |
 | dukkhaṃ- | noun | discomfort, suffering, pain, unease, probleṃ | trouble |
 | iccheyya | verb | opt.3.sg | could wishes; should desires |
@@ -246,7 +246,7 @@ mānasam-bhāvaye aparimāṇaṃ.
 | niyaṃ | adj | masc.acc.sg | one's own |
 | puttaṃ | noun | masc.acc.sg | child, son |
 | āyusā | noun | nt.ins.sg | with vitality, with duration of life, with life |
-| eka- | adj |  | only |
+| eka- | adj | | only |
 | puttam- | noun | masc.acc.sg | child, son |
 | anurakkhe, | verb | opt.3.sg | could protect, should guard |
 
@@ -254,9 +254,9 @@ mānasam-bhāvaye aparimāṇaṃ.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evam- | ind |  | thus, this, like this, just as, such |
-| pi | ind |  | even, just so, also |
-| sabba- | adj |  | all |
+| evam- | ind | | thus, this, like this, just as, such |
+| pi | ind | | even, just so, also |
+| sabba- | adj | | all |
 | bhūtesu | pp | masc.loc.sg | in born; nature as the result of becoming living beings |
 
 **just like this toward all living beings**
@@ -277,8 +277,8 @@ asambādhaṃ, averaṃ, asapattaṃ.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mettaṃ- | adj | nt.acc.sg | friendly; benevolent; kind |
-| ca | ind |  | and |
-| sabba- | adj |  | all |
+| ca | ind | | and |
+| sabba- | adj | | all |
 | lokasmiṃ, | noun | masc.loc.sg | in the world |
 
 **mānasaṃ bhāvaye aparimāṇaṃ**
@@ -289,9 +289,9 @@ asambādhaṃ, averaṃ, asapattaṃ.
 | --- | --- | --- | --- |
 | uddhaṃ | ind | adv | above, up, on top |
 | adho | ind | adv | below, under |
-| ca | ind |  | and |
+| ca | ind | | and |
 | tiriyaṃ- | ind | adv | across; transversely |
-| ca |  | ind | and |
+| ca | | ind | and |
 
 **above, below, and across**
 
@@ -313,10 +313,10 @@ brahmam'etaṃ vihāraṃ idha'm'āhu.
 | tiṭṭhaṃ- | prp | masc.nom.sg | standing |
 | caraṃ | prp | masc.nom.sg | walking |
 | nisinno | pp | masc.nom.sg | seated |
-| vā | ind |  | or |
+| vā | ind | | or |
 | sayāno | prp | masc.nom.sg | lying down |
-| vā | ind |  | or |
-| yāvatā- | ind |  | as long as, as far as, of all, to the extent that |
+| vā | ind | | or |
+| yāvatā- | ind | | as long as, as far as, of all, to the extent that |
 | assa | pron | masc.dat.sg | to hiṃ |
 | vigata-middho | adj | masc.nom.sg | without drowsiness |
 
@@ -348,7 +348,7 @@ na hi jātu gabbha-seyyaṃ punar-etī'ti.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | diṭṭhiṃ- | noun | fem.acc.sg | view, belief, opinion, concept, theory, attitude |
-| ca | ind |  | and, but, although |
+| ca | ind | | and, but, although |
 | anupaggamma, | verb | abs | avoiding, not going near, lit. not approaching |
 | sīlavā | adj | masc.nom.sg | virtuous; observing the moral practices |
 | dassanena | noun | nt.ins.sg | with vision, seeing, looking; sight of |
@@ -366,14 +366,14 @@ na hi jātu gabbha-seyyaṃ punar-etī'ti.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| na | ind |  | not |
-| hi | ind |  | indeed, surely, definitely! |
-| jātu | ind |  | surely; undoubtedly |
-| gabbha- | noun |  | womb |
+| na | ind | | not |
+| hi | ind | | indeed, surely, definitely! |
+| jātu | ind | | surely; undoubtedly |
+| gabbha- | noun | | womb |
 | seyyaṃ | noun | fem.acc.sg | sleeping, sleeping posture |
-| puna- | ind |  | again |
+| puna- | ind | | again |
 | eti | verb | pr.3.sg | goes, comes, comes back, returns |
-| ti | ind |  | ' |
+| ti | ind | | ' |
 
 **one definitely and undoubtedly never again comes back to lying in a womb.**
 

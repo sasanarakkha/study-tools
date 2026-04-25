@@ -52,8 +52,8 @@ Longevity, strength, ease, beauty and intelligence as fifth.**
 | dīgh'āyu | adj | masc.nom.sg | having long life |
 | yasavā | adj | masc.nom.sg | famous, renowned |
 | hoti | verb | pr.3.sg | he is |
-| yattha | ind |  | wherever, where |
-| yattha- | ind |  | wherever, where |
+| yattha | ind | | wherever, where |
+| yattha- | ind | | wherever, where |
 | upapajjatī'ti | verb | pr.3.sg | is reborn (in), re-arises (in) |
 
 **The wise-one is a longevity-giver, strength-giver, beauty-giver, understanding-giver. 

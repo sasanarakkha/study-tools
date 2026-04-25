@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :-------------------------- | :--------------------------- | :------------------ | :------------------------ |
-| ime | pron | masc nom pl of ima |  | these |  |  |  |  |  |  |
+| ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
 | terasa | card | x nom pl, comp | | thirteen | | | | ti > te + dasa > rasa + *a | dvanda | ti ca dasa ca |
@@ -35,7 +35,7 @@
 | terasa | card | x nom pl, comp | | thirteen | | | | ti > te + dasa > rasa + *a | dvanda | ti ca dasa ca |
 | saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring suspension | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
-| nava | card | x nom pl |  | nine |  |  |  |  |  |  |
+| nava | card | x nom pl | | nine | | | | | | |
 | paṭhamāpattikā | adj | masc nom pl of paṭhamāpattika, comp | | established on the first offence; which is an immediate offence | related to the first offence | | | paṭhama + āpatti + ka | kammadhāraya > bahubīhi | paṭhama + āpattika |
 | - paṭhama | ordin | | | first | most forward | | | pa + tama | | |
 | - āpattikā | noun | masc nom pl of āpattika, from āpajjati | | related to offences, transgressions, wrongdoings | | √pad (go, step) | | ā + √pad + ti + ka | | |
@@ -64,7 +64,7 @@
 | tāvatihaṃ | ind | adv, comp | | that many days | | | | tāvati + aha + aṃ | abyayībhāva | tāvati + ahaṃ |
 | - tāvati | ind | adv, from tāva | | that many | | | | tāva + ti | | |
 | - ahaṃ 2 | noun | acc sg of aha | | day | | | | | | |
-| tena | pron | masc instr sg of ta |  | by him; by that |  |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | akāmā | ind | adv, instr or abl of akāma | | involuntarily, with no choice (in the matter) | not with/from wish | √kam (desire) | | na + √kam + *a + ā | | |
 | parivatthabbaṃ | ptp | nt nom sg of parivatthabba | | should be under probation; should serve probation | to be stayed around | √vas (live) | | pari + √vas + tabba | | |
@@ -117,7 +117,7 @@
 | ekenapi | comp | sandhi, card + ind | | even by one, by just one | | | | ekena + api | | |
 | - ekena | card | masc instr sg of eka | | by one | | | | | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | ūno | adj | masc nom sg of ūna | +instr | deficient (by); lacking; short (by); less than (by) | | | | | | |
 | vīsatigaṇo | adj | masc nom sg of vīsatigaṇa, comp | | which is a group of twenty | | | | vīsati + gaṇa | digu > bahubbīhi | vīsati + gaṇa |
 | bhikkhusaṅgho | noun | masc nom sg of bhikkhusaṅgha, comp | | community of monks, assembly of monastics | | | | bhikkhu + saṅgha | genitive tappurisa | bhikkhūnaṃ + saṅgha |

@@ -46,51 +46,51 @@ idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 40373 | paṭiccasamuppādaṃ |  |  |  |  |
-| 70562 | vo |  |  |  |  |
+| 40373 | paṭiccasamuppādaṃ | | | | |
+| 70562 | vo | | | | |
 
 **“katamo ca, bhikkhave, paṭiccasamuppādo? avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṃ; viññāṇapaccayā nāmarūpaṃ; nāmarūpapaccayā saḷāyatanaṃ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṃ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. evametassa kevalassa dukkhakkhandhassa samudayo hoti. ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 10535 | avijjāpaccayā |  |  |  |  |
-| 56791 | saṅkhārapaccayā |  |  |  |  |
-| 67727 | viññāṇapaccayā |  |  |  |  |
-| 36463 | nāmarūpapaccayā |  |  |  |  |
-| 61512 | saḷāyatanapaccayā |  |  |  |  |
-| 47661 | phassapaccayā |  |  |  |  |
-| 70262 | vedanāpaccayā |  |  |  |  |
-| 29378 | taṇhāpaccayā |  |  |  |  |
-| 16328 | upādānapaccayā |  |  |  |  |
-| 49561 | bhavapaccayā |  |  |  |  |
-| 28248 | jātipaccayā |  |  |  |  |
-| 28042 | jarāmaraṇaṃ |  |  |  |  |
-| 65101 | sokaparidevadukkhadomanassupāyāsā |  |  |  |  |
-| 60641 | sambhavanti |  |  |  |  |
-| 18101 | evametassa |  |  |  |  |
-| 22905 | kevalassa |  |  |  |  |
-| 40373 | paṭiccasamuppādo |  |  |  |  |
+| 10535 | avijjāpaccayā | | | | |
+| 56791 | saṅkhārapaccayā | | | | |
+| 67727 | viññāṇapaccayā | | | | |
+| 36463 | nāmarūpapaccayā | | | | |
+| 61512 | saḷāyatanapaccayā | | | | |
+| 47661 | phassapaccayā | | | | |
+| 70262 | vedanāpaccayā | | | | |
+| 29378 | taṇhāpaccayā | | | | |
+| 16328 | upādānapaccayā | | | | |
+| 49561 | bhavapaccayā | | | | |
+| 28248 | jātipaccayā | | | | |
+| 28042 | jarāmaraṇaṃ | | | | |
+| 65101 | sokaparidevadukkhadomanassupāyāsā | | | | |
+| 60641 | sambhavanti | | | | |
+| 18101 | evametassa | | | | |
+| 22905 | kevalassa | | | | |
+| 40373 | paṭiccasamuppādo | | | | |
 
 **“avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho; viññāṇanirodhā nāmarūpanirodho; nāmarūpanirodhā saḷāyatananirodho; saḷāyatananirodhā phassanirodho; phassanirodhā vedanānirodho; vedanānirodhā taṇhānirodho; taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho; bhavanirodhā jātinirodho; jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti. evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 56787 | saṅkhāranirodho |  |  |  |  |
-| 67723 | viññāṇanirodho |  |  |  |  |
-| 36460 | nāmarūpanirodho |  |  |  |  |
-| 61510 | saḷāyatananirodho |  |  |  |  |
-| 47658 | phassanirodho |  |  |  |  |
-| 70257 | vedanānirodho |  |  |  |  |
-| 29373 | taṇhānirodho |  |  |  |  |
-| 16326 | upādānanirodho |  |  |  |  |
-| 49545 | bhavanirodho |  |  |  |  |
-| 28245 | jātinirodho |  |  |  |  |
+| 56787 | saṅkhāranirodho | | | | |
+| 67723 | viññāṇanirodho | | | | |
+| 36460 | nāmarūpanirodho | | | | |
+| 61510 | saḷāyatananirodho | | | | |
+| 47658 | phassanirodho | | | | |
+| 70257 | vedanānirodho | | | | |
+| 29373 | taṇhānirodho | | | | |
+| 16326 | upādānanirodho | | | | |
+| 49545 | bhavanirodho | | | | |
+| 28245 | jātinirodho | | | | |
 
 **idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 13619 | idamavoca |  |  |  |  |
+| 13619 | idamavoca | | | | |
 
 
 ## SN 12.10 Gotamasutta
@@ -113,26 +113,26 @@ idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 57673 | sato |  |  |  |  |
-| 21632 | kicchaṃ |  |  |  |  |
-| 65983 | vatāyaṃ |  |  |  |  |
-| 28352 | jāyati |  |  |  |  |
-| 28547 | jīyati |  |  |  |  |
-| 52747 | mīyati |  |  |  |  |
-| 26350 | cavati |  |  |  |  |
-| 15855 | upapajjati |  |  |  |  |
-| 42314 | panimassa |  |  |  |  |
-| 22324 | kudāssu |  |  |  |  |
-| 22318 | kudā |  |  |  |  |
+| 57673 | sato | | | | |
+| 21632 | kicchaṃ | | | | |
+| 65983 | vatāyaṃ | | | | |
+| 28352 | jāyati | | | | |
+| 28547 | jīyati | | | | |
+| 52747 | mīyati | | | | |
+| 26350 | cavati | | | | |
+| 15855 | upapajjati | | | | |
+| 42314 | panimassa | | | | |
+| 22324 | kudāssu | | | | |
+| 22318 | kudā | | | | |
 
 **“tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho sati jarāmaraṇaṃ hoti, kiṃpaccayā jarāmaraṇanti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘jātiyā kho sati jarāmaraṇaṃ hoti, jātipaccayā jarāmaraṇan”ti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 21804 | kimhi |  |  |  |  |
-| 21991 | kiṃpaccayā |  |  |  |  |
-| 51128 | manasikārā |  |  |  |  |
-| 10921 | ahu |  |  |  |  |
+| 21804 | kimhi | | | | |
+| 21991 | kiṃpaccayā | | | | |
+| 51128 | manasikārā | | | | |
+| 10921 | ahu | | | | |
 
 **“tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho sati jāti hoti ... pe ... bhavo... upādānaṃ... taṇhā... vedanā... phasso... saḷāyatanaṃ... nāmarūpaṃ... viññāṇaṃ... saṅkhārā honti, kiṃpaccayā saṅkhārāti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘avijjāya kho sati saṅkhārā honti, avijjāpaccayā saṅkhārā”ti.**
 
@@ -140,13 +140,13 @@ idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 3657 | ananussutesu |  |  |  |  |
+| 3657 | ananussutesu | | | | |
 
 **“tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho asati jarāmaraṇaṃ na hoti, kissa nirodhā jarāmaraṇanirodhoti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘jātiyā kho asati jarāmaraṇaṃ na hoti, jātinirodhā jarāmaraṇanirodho”ti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 28043 | jarāmaraṇanirodho |  |  |  |  |
+| 28043 | jarāmaraṇanirodho | | | | |
 
 **“tassa mayhaṃ, bhikkhave, etadahosi — ‘kimhi nu kho asati jāti na hoti ... pe ... bhavo... upādānaṃ... taṇhā... vedanā... phasso... saḷāyatanaṃ... nāmarūpaṃ... viññāṇaṃ... saṅkhārā na honti, kissa nirodhā saṅkhāranirodhoti? tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo — ‘avijjāya kho asati saṅkhārā na honti, avijjānirodhā saṅkhāranirodho”ti.**
 
@@ -177,71 +177,71 @@ evaṃ vutte, āyasmā moḷiyaphagguno bhagavantaṃ etadavoca — “ko nu kho
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 26130 | cattārome |  |  |  |  |
-| 60646 | sambhavesīnaṃ |  |  |  |  |
-| 20173 | kabaḷīkāro |  |  |  |  |
-| 51280 | manosañcetanā |  |  |  |  |
-| 51239 | \#mano |  |  |  |  |
-| 57297 | \#sañcetanā |  |  |  |  |
+| 26130 | cattārome | | | | |
+| 60646 | sambhavesīnaṃ | | | | |
+| 20173 | kabaḷīkāro | | | | |
+| 51280 | manosañcetanā | | | | |
+| 51239 | \#mano | | | | |
+| 57297 | \#sañcetanā | | | | |
 
 **evaṃ vutte, āyasmā moḷiyaphagguno bhagavantaṃ etadavoca — “ko nu kho, bhante, viññāṇāhāraṃ āhāretī”ti?**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 53436 | moḷiyaphagguno |  |  |  |  |
-| 67757 | viññāṇāhāraṃ |  |  |  |  |
+| 53436 | moḷiyaphagguno | | | | |
+| 67757 | viññāṇāhāraṃ | | | | |
 
 **“no kallo pañho”ti bhagavā avoca — “‘āhāretīti ahaṃ na vadāmi. ‘āhāretīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, āhāretīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kissa nu kho, bhante, viññāṇāhāroti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘viññāṇāhāro āyatiṃ punabbhavābhinibbattiyā paccayo, tasmiṃ bhūte sati saḷāyatanaṃ, saḷāyatanapaccayā phasso”ti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 20700 | kallo |  |  |  |  |
-| 10276 | avadantaṃ |  |  |  |  |
-| 12225 | āyatiṃ |  |  |  |  |
-| 46753 | punabbhavābhinibbattiyā |  |  |  |  |
-| 61506 | saḷāyatanaṃ |  |  |  |  |
-| 61512 | saḷāyatanapaccayā |  |  |  |  |
+| 20700 | kallo | | | | |
+| 10276 | avadantaṃ | | | | |
+| 12225 | āyatiṃ | | | | |
+| 46753 | punabbhavābhinibbattiyā | | | | |
+| 61506 | saḷāyatanaṃ | | | | |
+| 61512 | saḷāyatanapaccayā | | | | |
 
 **“ko nu kho, bhante, phusatī”ti? “no kallo pañho”ti bhagavā avoca — “‘phusatīti ahaṃ na vadāmi. ‘phusatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, phusatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, phassoti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘saḷāyatanapaccayā phasso, phassapaccayā vedanā”ti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 21991 | kiṃpaccayā |  |  |  |  |
-| 26516 | cāhaṃ 1 |  |  |  |  |
-| 26517 | c'āhaṃ 2 |  |  |  |  |
+| 21991 | kiṃpaccayā | | | | |
+| 26516 | cāhaṃ 1 | | | | |
+| 26517 | c'āhaṃ 2 | | | | |
 
 **“ko nu kho, bhante, vedayatī”ti? “no kallo pañho”ti bhagavā avoca — “‘vedayatīti ahaṃ na vadāmi. ‘vedayatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, vedayatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, vedanāti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘phassapaccayā vedanā, vedanāpaccayā taṇhā”ti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 70302 | vedayati |  |  |  |  |
+| 70302 | vedayati | | | | |
 
 **“ko nu kho, bhante, tasatī”ti ? “no kallo pañho”ti bhagavā avoca — “‘tasatīti ahaṃ na vadāmi. ‘tasatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, tasatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, taṇhāti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘vedanāpaccayā taṇhā, taṇhāpaccayā upādānan”ti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 30136 | tasati |  |  |  |  |
-| 70262 | vedanāpaccayā |  |  |  |  |
-| 29378 | taṇhāpaccayā |  |  |  |  |
+| 30136 | tasati | | | | |
+| 70262 | vedanāpaccayā | | | | |
+| 29378 | taṇhāpaccayā | | | | |
 
 **“ko nu kho, bhante, upādiyatī”ti? “no kallo pañho”ti bhagavā avoca — “‘upādiyatīti ahaṃ na vadāmi. ‘upādiyatīti cāhaṃ vadeyyaṃ, tatrassa kallo pañho — ‘ko nu kho, bhante, upādiyatīti? evaṃ cāhaṃ na vadāmi. evaṃ maṃ avadantaṃ yo evaṃ puccheyya — ‘kiṃpaccayā nu kho, bhante, upādānanti, esa kallo pañho. tatra kallaṃ veyyākaraṇaṃ — ‘taṇhāpaccayā upādānaṃ; upādānapaccayā bhavoti ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 16328 | upādānapaccayā |  |  |  |  |
+| 16328 | upādānapaccayā | | | | |
 
 **“channaṃ tveva, phagguna, phassāyatanānaṃ asesavirāganirodhā phassanirodho; phassanirodhā vedanānirodho; vedanānirodhā taṇhānirodho; taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho; bhavanirodhā jātinirodho; jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti. evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 31388 | tveva |  |  |  |  |
-| 47525 | phagguna |  |  |  |  |
-| 47658 | phassanirodho |  |  |  |  |
-| 70257 | vedanānirodho |  |  |  |  |
-| 29373 | taṇhānirodho |  |  |  |  |
-| 16326 | upādānanirodho |  |  |  |  |
-| 49545 | bhavanirodho |  |  |  |  |
-| 28245 | jātinirodho |  |  |  |  |
+| 31388 | tveva | | | | |
+| 47525 | phagguna | | | | |
+| 47658 | phassanirodho | | | | |
+| 70257 | vedanānirodho | | | | |
+| 29373 | taṇhānirodho | | | | |
+| 16326 | upādānanirodho | | | | |
+| 49545 | bhavanirodho | | | | |
+| 28245 | jātinirodho | | | | |
 
 
 ## SN 12.15 Kaccānagottasutta
@@ -258,48 +258,48 @@ atha kho āyasmā kaccānagotto yena bhagavā tenupasaṅkami; upasaṅkamitvā 
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 19257 | kaccānagotto |  |  |  |  |
+| 19257 | kaccānagotto | | | | |
 
 **“dvayanissito khvāyaṃ, kaccāna, loko yebhuyyena — atthitañceva natthitañca. lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke natthitā sā na hoti. lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 34309 | dvayanissito |  |  |  |  |
-| 23990 | khvāyaṃ |  |  |  |  |
-| 19255 | kaccāna |  |  |  |  |
-| 2748 | atthitaṃ |  |  |  |  |
-| 35546 | natthitaṃ |  |  |  |  |
-| 56012 | lokasamudayaṃ |  |  |  |  |
-| 35546 | natthitā |  |  |  |  |
-| 55990 | lokanirodhaṃ |  |  |  |  |
+| 34309 | dvayanissito | | | | |
+| 23990 | khvāyaṃ | | | | |
+| 19255 | kaccāna | | | | |
+| 2748 | atthitaṃ | | | | |
+| 35546 | natthitaṃ | | | | |
+| 56012 | lokasamudayaṃ | | | | |
+| 35546 | natthitā | | | | |
+| 55990 | lokanirodhaṃ | | | | |
 
 **upayupādānābhinivesavinibandho khvāyaṃ, kaccāna, loko yebhuyyena. tañcāyaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinivesānusayaṃ na upeti na upādiyati nādhiṭṭhāti — ‘attā meti. ‘dukkhameva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatīti na kaṅkhati na vicikicchati aparapaccayā ñāṇamevassa ettha hoti. ettāvatā kho, kaccāna, sammādiṭṭhi hoti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 15956 | upayupādānābhinivesavinibandho |  |  |  |  |
-| 15938 | \#upaya |  |  |  |  |
-| 16316 | \#upādāna |  |  |  |  |
-| 7924 | \#abhinivesa |  |  |  |  |
-| 68190 | \#vinibandha |  |  |  |  |
-| 3207 | adhiṭṭhānaṃ |  |  |  |  |
-| 7928 | abhinivesānusayaṃ |  |  |  |  |
-| 16365 | upādiyati |  |  |  |  |
-| 16549 | uppajjamānaṃ |  |  |  |  |
-| 38065 | nirujjhamānaṃ |  |  |  |  |
-| 19217 | kaṅkhati |  |  |  |  |
-| 67452 | vicikicchati |  |  |  |  |
-| 6292 | aparapaccayā |  |  |  |  |
+| 15956 | upayupādānābhinivesavinibandho | | | | |
+| 15938 | \#upaya | | | | |
+| 16316 | \#upādāna | | | | |
+| 7924 | \#abhinivesa | | | | |
+| 68190 | \#vinibandha | | | | |
+| 3207 | adhiṭṭhānaṃ | | | | |
+| 7928 | abhinivesānusayaṃ | | | | |
+| 16365 | upādiyati | | | | |
+| 16549 | uppajjamānaṃ | | | | |
+| 38065 | nirujjhamānaṃ | | | | |
+| 19217 | kaṅkhati | | | | |
+| 67452 | vicikicchati | | | | |
+| 6292 | aparapaccayā | | | | |
 
 **‘sabbaṃ atthīti kho, kaccāna, ayameko anto. ‘sabbaṃ natthīti ayaṃ dutiyo anto. ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti — ‘avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṃ ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti. avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 4635 | anupagamma |  |  |  |  |
-| 10535 | avijjāpaccayā |  |  |  |  |
-| 56791 | saṅkhārapaccayā |  |  |  |  |
-| 56787 | saṅkhāranirodho |  |  |  |  |
-| 67723 | viññāṇanirodho |  |  |  |  |
+| 4635 | anupagamma | | | | |
+| 10535 | avijjāpaccayā | | | | |
+| 56791 | saṅkhārapaccayā | | | | |
+| 56787 | saṅkhāranirodho | | | | |
+| 67723 | viññāṇanirodho | | | | |
 
 
 ## SN 12.20 Paccayasutta
@@ -318,54 +318,54 @@ iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 40373 | paṭiccasamuppādaṃ |  |  |  |  |
-| 40372 | paṭiccasamuppanne |  |  |  |  |
+| 40373 | paṭiccasamuppādaṃ | | | | |
+| 40372 | paṭiccasamuppanne | | | | |
 
 **“katamo ca, bhikkhave, paṭiccasamuppādo? jātipaccayā, bhikkhave, jarāmaraṇaṃ. uppādā vā tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā. taṃ tathāgato abhisambujjhati abhisameti. abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti. ‘passathāti cāha — ‘jātipaccayā, bhikkhave, jarāmaraṇaṃ”.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 4936 | anuppādā |  |  |  |  |
-| 35037 | dhātu |  |  |  |  |
-| 34707 | dhammaṭṭhitatā |  |  |  |  |
-| 34768 | dhammaniyāmatā |  |  |  |  |
-| 13611 | idappaccayatā |  |  |  |  |
-| 40048 | paññāpeti |  |  |  |  |
-| 28248 | jātipaccayā |  |  |  |  |
+| 4936 | anuppādā | | | | |
+| 35037 | dhātu | | | | |
+| 34707 | dhammaṭṭhitatā | | | | |
+| 34768 | dhammaniyāmatā | | | | |
+| 13611 | idappaccayatā | | | | |
+| 40048 | paññāpeti | | | | |
+| 28248 | jātipaccayā | | | | |
 
 **“bhavapaccayā, bhikkhave, jāti ... pe ... upādānapaccayā, bhikkhave, bhavo... taṇhāpaccayā, bhikkhave, upādānaṃ... vedanāpaccayā, bhikkhave, taṇhā... phassapaccayā, bhikkhave, vedanā... saḷāyatanapaccayā, bhikkhave, phasso... nāmarūpapaccayā, bhikkhave, saḷāyatanaṃ... viññāṇapaccayā, bhikkhave, nāmarūpaṃ... saṅkhārapaccayā, bhikkhave, viññāṇaṃ... avijjāpaccayā, bhikkhave, saṅkhārā uppādā vā tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā. taṃ tathāgato abhisambujjhati abhisameti. abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti. ‘passathāti cāha ‘avijjāpaccayā, bhikkhave, saṅkhārā**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 49561 | bhavapaccayā |  |  |  |  |
-| 16328 | upādānapaccayā |  |  |  |  |
-| 29378 | taṇhāpaccayā |  |  |  |  |
-| 70262 | vedanāpaccayā |  |  |  |  |
-| 61512 | saḷāyatanapaccayā |  |  |  |  |
-| 36463 | nāmarūpapaccayā |  |  |  |  |
-| 67727 | viññāṇapaccayā |  |  |  |  |
-| 56791 | saṅkhārapaccayā |  |  |  |  |
-| 10535 | avijjāpaccayā |  |  |  |  |
-| 34707 | dhammaṭṭhitatā |  |  |  |  |
-| 34768 | dhammaniyāmatā |  |  |  |  |
-| 13611 | idappaccayatā |  |  |  |  |
+| 49561 | bhavapaccayā | | | | |
+| 16328 | upādānapaccayā | | | | |
+| 29378 | taṇhāpaccayā | | | | |
+| 70262 | vedanāpaccayā | | | | |
+| 61512 | saḷāyatanapaccayā | | | | |
+| 36463 | nāmarūpapaccayā | | | | |
+| 67727 | viññāṇapaccayā | | | | |
+| 56791 | saṅkhārapaccayā | | | | |
+| 10535 | avijjāpaccayā | | | | |
+| 34707 | dhammaṭṭhitatā | | | | |
+| 34768 | dhammaniyāmatā | | | | |
+| 13611 | idappaccayatā | | | | |
 
 **iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā — ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 10586 | avitathatā |  |  |  |  |
-| 3502 | anaññathatā |  |  |  |  |
+| 10586 | avitathatā | | | | |
+| 3502 | anaññathatā | | | | |
 
 **“katame ca, bhikkhave, paṭiccasamuppannā dhammā? jarāmaraṇaṃ, bhikkhave, aniccaṃ saṅkhataṃ paṭiccasamuppannaṃ khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammaṃ. jāti, bhikkhave, aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. bhavo, bhikkhave, anicco saṅkhato paṭiccasamuppanno khayadhammo vayadhammo virāgadhammo nirodhadhammo. upādānaṃ bhikkhave ... pe ... taṇhā, bhikkhave... vedanā, bhikkhave... phasso, bhikkhave... saḷāyatanaṃ, bhikkhave... nāmarūpaṃ, bhikkhave... viññāṇaṃ, bhikkhave... saṅkhārā, bhikkhave... avijjā, bhikkhave, aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. ime vuccanti, bhikkhave, paṭiccasamuppannā dhammā.**
 
 | ID | Pāli | POS | Grammar | English | Construction |
 | --- | --- | --- | --- | --- | --- |
-| 56712 | saṅkhatā |  |  |  |  |
-| 23524 | khayadhammaṃ |  |  |  |  |
-| 66325 | vayadhammaṃ |  |  |  |  |
-| 68877 | virāgadhammaṃ |  |  |  |  |
-| 38101 | nirodhadhammaṃ |  |  |  |  |
+| 56712 | saṅkhatā | | | | |
+| 23524 | khayadhammaṃ | | | | |
+| 66325 | vayadhammaṃ | | | | |
+| 68877 | virāgadhammaṃ | | | | |
+| 38101 | nirodhadhammaṃ | | | | |
 
 
 | ID | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā + ta |
@@ -716,7 +716,7 @@ sādhu sādhu, bhikkhave, evametaṃ, bhikkhave, netaṃ aññathā. saddahatha 
 | | \#pākā | | | | |
 | 14581 | uṇhaṃ | | | | |
 | 15223 | uddharitvā | | | | |
-|  | same |  |  |  |  |
+| | same | | | | |
 | 50227 | bhūmibhāge | | | | |
 | | \#bhūmiyā | | | | |
 | 49642 | \#bhāge | | | | |

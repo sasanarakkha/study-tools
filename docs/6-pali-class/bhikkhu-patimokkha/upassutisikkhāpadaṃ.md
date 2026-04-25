@@ -25,7 +25,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------- | :------- | :---------------------------------------------------------- | :-------------- | :-------------------- | :----------------------- | :------------------ | :---------------- | :------------------------ |
 | yaṃ | pron | masc acc sg of ya | | whichever; which | | | | | | |
-| ime | pron | masc nom pl of ima |  | these |  |  |  |  |  |  |
+| ime | pron | masc nom pl of ima | | these | | | | | | |
 | bhaṇissanti | verb | fut 3rd pl of bhaṇati | | they will speak | | √bhaṇ (talk, speak) | √bhaṇ + a > bhaṇa | bhaṇa + issa + ti | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | sossāmīti | comp | sandhi, fut + ind | | | | | | sossāmi + iti | | |

@@ -49,7 +49,7 @@
 | abhinetabbā | ptp | masc nom pl of abhinetabba | | should be brought (to); be invited | to be lead all the way | √nī (lead) | √nī + a > ne | abhi + ne + tabba | | |
 | vatthudesanāya | noun | fem dat sg, comp | | for designating the site; appointing the place | | | | vatthu + desanā | genitive tappurisa | vatthuno + desanā |
 | - vatthu | noun | nt | | plot, site, location | | √vas (live) | | √vas + tu | | |
-| tehi | pron | masc instr pl of ta |  | by these |  |  |  |  |  |  |
+| tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | vatthuṃ | noun | nt nom sg | | plot, site | | √vas (live) | | √vas + tu | | |
 | desetabbaṃ | ptp | nt nom sg of desetabba | | should be appointed, designated | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese | dese + tabba | | |
@@ -68,7 +68,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------------------- | :------ | :------------------------------- | :------- | :------------------------------------ | :--------------------------- | :------------------- | :----------------------------------- | :----------------------- | :---------------- | :------------------------ |
 | sārambhe | adj | nt loc sg of sārambha, comp | | on harmful, injurious | in with harm | √rabh (be violent) | √rabh + a > rabha > rambha (irreg) | saṃ > sā + rambha + a | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | vatthusmiṃ | noun | nt loc sg of vatthu | | on a plot, site | | √vas (live) | | √vas + tu | | |
 | aparikkamane | adj | nt loc sg of aparikkamana, neg | | on not accessible, not approachable | in not with walking around | √kam (go) | | na + pari + √kam + ana | | |

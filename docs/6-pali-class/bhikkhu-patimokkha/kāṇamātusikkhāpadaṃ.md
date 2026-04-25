@@ -29,7 +29,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :---------------------------------------------------------- | :-------------------------- | :--------------------------- | :------------------- | :-------------------------- | :---------------- | :------------------------ |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | patigaṇheyya | verb | opt 3rd sg, from paṭiggaṇhāti | +acc | could take; would accept; could receive | grasp back | √gah (grasp) | √gah + ṇhā > gaṇhā | paṭi + √gaṇhā + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |

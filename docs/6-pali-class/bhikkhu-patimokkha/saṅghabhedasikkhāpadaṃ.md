@@ -32,7 +32,7 @@
 | - evaṃ | ind | adv | | thus, like this, as | | | | | | |
 | - assa 2 | verb | opt 3rd sg of atthi | +nom | should be; could be | | √as (be) | | √as + a | | |
 | vacanīyo | ptp | masc nom sg of vacanīya | | should be spoken, told, addressed | to be said | √vac (speak) | | √vac + anīya | | |
-| that monk should be spoken to by the monks thus |  |  |  |  |  |  |  |  |  |  |
+| that monk should be spoken to by the monks thus | | | | | | | | | | |
 
 ## mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi
 
@@ -118,8 +118,8 @@
 | - iti | ind | | | “” | thus | | | | | |
 | - etaṃ 2 | pron | nt nom sg of eta | | this | | | | | | |
 | kusalaṃ | noun | nt nom sg of kusala | | something proper, good deed; doing good | | | | | | |
-| no | ind | neg |  | not |  |  |  |  |  |  |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| no | ind | neg | | not | | | | | | |
+| ce | ind | cond | | if | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | could give up; should abandon | | √sajj (relinquish, let loose) | √sajj + a > sajja | pati + nī + sajja + ti | | |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | (if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence). | | | | | | | | | | |

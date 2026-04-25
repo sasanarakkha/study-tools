@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------- | :------- | :---------------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | oṭṭhanillehakaṃ | ind | adv, nt acc sg of oṭṭhanillehaka | | licking the lips | | | | oṭṭha + nillehaka + aṃ | | |
 | - oṭṭha | noun | masc | | lip, lips | | | | | | |
 | - nillehakaṃ | ind | adv, nt acc sg of nillehaka | | licking, lapping | | √lih (lick, lap) | | nī + √lih > leha + aka + aṃ | | |

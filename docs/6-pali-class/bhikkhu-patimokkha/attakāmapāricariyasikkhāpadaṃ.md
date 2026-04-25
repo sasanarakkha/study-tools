@@ -47,7 +47,7 @@
 | brahmacāriṃ | noun | masc acc sg of brahmacārī, comp | | celibate person | divine walk | | | brahma + cārī | kammadhāraya | brahma + cārī |
 | - brahma | adj | | | divine, holy, spiritual | | √brah (increase) | | √brah + ma | | |
 | - cāriṃ | adj | masc acc sg of cārī | | acting, behaving, living | | √car (walk, behave) | | √car + *ī | | |
-| etena | pron | masc instr sg of eta |  | with this |  |  |  |  |  |  |
+| etena | pron | masc instr sg of eta | | with this | | | | | | |
 | dhammena | noun | masc instr sg of dhamma | | with act, practice | | √dhar (hold) | | √dhar + ma | | |
 | paricareyyāti | comp | sandhi, opt + ind | | | | | | paricareyya + iti | | |
 | - paricareyya | verb | opt 3rd sg of paricarati | | she should serve, administer | walking around | √car (walk, behave) | √car + a > cara | pari + cara + ti | | |

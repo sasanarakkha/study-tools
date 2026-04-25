@@ -31,7 +31,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------ | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :--------------------- | :------------------- | :-------------------- | :------------------- | :--------------------- | :------------------------ |
 | anādā | verb | ger of na ādiyati | | not adding, not having included | not taking | √ādā (take, steal) | | na + √ādā + ya | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | tiṇṇaṃ | card | masc gen pl of ti | | of three | | | | | | |
 | dubbaṇṇakaraṇānaṃ | noun | nt gen pl of dubbaṇṇakaraṇa, comp | | of discolourings | of bad colour making | | | dubbaṇṇa + karaṇa | accusative tappurisa | dubbaṇṇaṃ + karaṇa |

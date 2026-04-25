@@ -10,7 +10,7 @@ sacitta-pariyodapanaṃ, etaṃ buddhāna sāsanaṃ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| sabba- | adj |  | all, every, whole, entire, complete |
+| sabba- | adj | | all, every, whole, entire, complete |
 | pāpassa | noun | masc.gen.sg | of evil, criminal, wrong, bad, vicious |
 | akaraṇaṃ | noun | nt.nom.sg | non-doing, non-action, absence of action |
 | kusalassa- | noun | nt.gen.sg | of benefit, merit, good deed, doing good |
@@ -37,8 +37,8 @@ na hi pabbajito parūpaghātī, samaṇo hoti paraṃ viheṭhayanto
 | paramaṃ | adj | nt.acc.sg | very highest, ultimate, superior, sublime, most extreme, lit. furthest |
 | vadanti | verb | pr.3.pl | they say, speak, tell |
 | buddhā | noun | masc.nom.pl | the Buddhas, Awakened Ones |
-| na | ind |  | not |
-| hi | ind |  | indeed, certainly, truly, definitely |
+| na | ind | | not |
+| hi | ind | | indeed, certainly, truly, definitely |
 | pabbajito | pp | masc.nom.sg | (one who has) ordained, renounced, gone forth |
 | parūpaghātī, | adj | masc.nom.sg | who harms others, injures others |
 | samaṇo | noun | masc.nom.sg | ascetic, renunciant, holy man, monk, recluse |
@@ -58,16 +58,16 @@ adhicitte ca āyogo, etaṃ buddhāna sāsanaṃ
 | anūpavādo | noun | masc.nom.sg | not blaming, not insulting, nor abusing |
 | anūpaghāto, | noun | masc.nom.sg | not harming, not hurting, non-violence |
 | pāṭimokkhe | noun | masc.loc.sg | in precepts, training rules |
-| ca | ind |  | and |
+| ca | ind | | and |
 | saṃvaro | noun | masc.nom.sg | control (according to), restraint (according to) holding back (according to) |
 | mattaññutā | noun | fem.nom.sg | moderation (in), knowing the correct amount (of) temperance (in) |
-| ca | ind |  | and |
+| ca | ind | | and |
 | bhattasmiṃ, | noun | nt.loc.sg | in (regard to) food, meal |
 | pantañ- | adj | nt.nom.sg | secluded, isolated, solitary |
-| ca | ind |  | and |
+| ca | ind | | and |
 | sayana-āsanaṃ | noun | nt.nom.sg | living place, lit. sleeping and sitting |
 | adhicitte | noun | nt.loc.sg | in mediation, mental development, lit. higher mind |
-| ca | ind |  | and |
+| ca | ind | | and |
 | āyogo | noun | masc.nom.sg | devotion (to), practice (of), exertion (in), pursuit |
 | etaṃ | pron | nt.nom.sg | this |
 | buddhāna(ṃ) | noun | masc.gen.pl | of Buddhas |

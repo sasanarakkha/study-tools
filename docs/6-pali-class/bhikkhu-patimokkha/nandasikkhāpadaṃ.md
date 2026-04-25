@@ -27,11 +27,11 @@
 | sugatassa | noun | masc gen sg of sugata | | of the Well Gone One | of well gone | √gam (go) | | su + √gam + ta | | |
 | sugatacīvarappamāṇaṃ | adj | nt acc sg of sugatacīvarappamāṇa, comp | | according to the measurement of the Buddha's robe | | | | sugata + cīvara + pamāṇa | genitive tappurisa | sugatassa + cīvarapamāṇa |
 | dīghaso | ind | adv, abl sg of dīgha | | lengthwise, in length | from long | | | dīgha + so | | |
-| nava | card | x nom pl |  | nine |  |  |  |  |  |  |
+| nava | card | x nom pl | | nine | | | | | | |
 | vidatthiyo | noun | fem nom pl | | spans | hand-length | | | | | |
 | sugatavidatthiyā | noun | fem instr sg, comp | | according to the standard span | by well-gone span | | | sugata + vidatthi | kammadhāraya | sugata + vidatthi |
 | tiriyaṃ | ind | adv | | across, horizontally, width-wise | | √tir (cross) | | √tir + iya + aṃ | | |
-| cha | card | x nom pl |  | six |  |  |  |  |  |  |
+| cha | card | x nom pl | | six | | | | | | |
 | vidatthiyo | noun | fem nom pl | | spans | hand-length | | | | | |
 
 ## idaṃ sugatassa sugatacīvarappamāṇanti.

@@ -16,12 +16,12 @@
 | - se | pron | nt nom sg of ta | | that | | | | ta > sa + e | | |
 | - yathā | ind | adv | | like, as | | | | ya + thā | | |
 | - idaṃ | pron | nt nom sg of ima | | this | | | | | | |
-| sappi | noun | nt nom sg |  | ghee |  |  |  |  |  |  |
+| sappi | noun | nt nom sg | | ghee | | | | | | |
 | navanītaṃ | noun | nt nom sg, comp | | fresh butter | fresh extracted | | | nava + nīta | kammadhāraya | nava + nīta |
 | - nava | adj | | | new, fresh | | | | | | |
 | - nītaṃ | pp | nt nom sg, pp of nīta | | extracted, drawn out | led | √nī (lead) | | √nī + ta | | |
 | telaṃ | noun | nt nom sg of tela | | oil | from sesame | | | tila + *a | | |
-| madhu | noun | nt nom sg of madhu |  | honey | sweet |  |  |  |  |  |
+| madhu | noun | nt nom sg of madhu | | honey | sweet | | | | | |
 | phāṇitaṃ | noun | nt nom sg of phāṇita | | sugar treacle; jaggery; molasses | extracted | √phaṇ (extract) | | √phaṇ + *ita | | |
 | Now, those palatable medicines which are for sick monks, namely: ghee, butter, oil, honey, jaggery | | | | | | | | | | |
 

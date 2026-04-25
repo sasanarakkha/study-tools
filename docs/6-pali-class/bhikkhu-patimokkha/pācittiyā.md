@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :------------------------------------------ | :------------------- | :-------------------------- | :-------------------------- | :----------------- | :---------------- | :------------------------ |
-| ime | pron | masc nom pl of ima |  | these |  |  |  |  |  |  |
+| ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
 | dvenavuti | card | fem nom sg, comp | | ninety two | | | | dve + navuti | dvanda | dve ca navuti ca |

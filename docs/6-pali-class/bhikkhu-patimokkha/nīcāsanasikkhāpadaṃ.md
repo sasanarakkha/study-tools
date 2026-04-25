@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :------------------------- | :---------------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | nīce | adj | nt loc sg of nīca | | on a low | | | | ni + tya | | |
 | āsane | noun | nt loc sg of āsana | | on a seat | | √ās (sit) | | √ās + ana | | |
 | nisīditvā | verb | abs of nisīdati | | having sat down | | √sad (sink, sit, settle) | √sad + a > sīda | ni + sīda + ti | | |

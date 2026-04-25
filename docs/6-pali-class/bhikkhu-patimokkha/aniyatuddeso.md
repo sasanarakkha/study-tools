@@ -4,10 +4,10 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :-------------------------------------- | :------------------- | :-------------------------- | :-------------------------- | :-------------------- | :---------------- | :------------------------ |
-| ime | pron | masc nom pl of ima |  | these |  |  |  |  |  |  |
+| ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
-| dve | card | x nom pl |  | two |  |  |  |  |  |  |
+| dve | card | x nom pl | | two | | | | | | |
 | aniyatā | adj | masc nom pl of aniyata | | uncertain; undecided; variable | not fixed down | √yam (control) | | na + ni + √yam + ta | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | uddesaṃ | noun | masc acc sg of uddesa, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
@@ -27,7 +27,7 @@
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | āyasmanto | noun | masc voc pl of āyasmant | | venerables | having long life | | | āyas + mant | | |
-| dve | card | x nom pl |  | two |  |  |  |  |  |  |
+| dve | card | x nom pl | | two | | | | | | |
 | aniyatā | adj | masc nom pl of aniyata | | uncertain; undecided; variable | not fixed down | √yam (control) | | na + ni + √yam + ta | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | Venerables, the two uncertain cases have been recited. | | | | | | | | | | |
@@ -65,7 +65,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------- | :------ | :----------------------- | :------- | :------------------------------- | :--------------- | :--------------- | :------- | :-------------------- | :---------------- | :------------------------ |
-| dve | card | x nom pl |  | two |  |  |  |  |  |  |
+| dve | card | x nom pl | | two | | | | | | |
 | aniyatā | adj | masc nom pl of aniyata | | uncertain; undecided; variable | not fixed down | √yam (control) | | na + ni + √yam + ta | | |
 | niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 | Two uncertain (cases) is finished | | | | | | | | | | |

@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :--------------------------- | :------- | :------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | oguṇṭhito | pp | mac nom sg of oguṇṭhita | | covered, wrapped | wrap down | √guṇṭh (enclose, envelope) | | ava + √guṇṭh + ita | | |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
 | gamissāmīti | comp | sandhi, fut + ind | | | | | | gamissāmi + iti | | |
@@ -15,7 +15,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :--------------------------- | :------- | :------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | oguṇṭhito | pp | mac nom sg of oguṇṭhita | | covered, wrapped | wrap down | √guṇṭh (enclose, envelope) | | ava + √guṇṭh + ita | | |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
 | nisīdissāmīti | comp | sandhi, fut + ind | | | | | | nisīdissāmi + iti | | |

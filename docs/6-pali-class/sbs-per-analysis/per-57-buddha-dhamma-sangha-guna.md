@@ -7,22 +7,22 @@ iti'pi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavi
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| iti'pi | ind |  | it is so, thus |
+| iti'pi | ind | | it is so, thus |
 | so | pron | masc.nom.sg | he |
 | bhagavā | noun | masc.nom.sg | Sublime One, Blessed One, Fortunate One the Buddha |
 | arahaṃ | noun | masc.nom.sg | enlightened being, 4th stage of the path, lit. worthy one |
-| sammā- | ind |  | completely, thoroughly, fully, totally perfectly, rightly, correctly |
+| sammā- | ind | | completely, thoroughly, fully, totally perfectly, rightly, correctly |
 | sambuddho | noun | masc.nom.sg | one who has thoroughly understood, being enlightened, a Buddha, fully awakened one |
-| vijjā- | noun |  | knowledge, wisdom, understanding |
-| caraṇa- | noun |  | behaviour, conduct |
+| vijjā- | noun | | knowledge, wisdom, understanding |
+| caraṇa- | noun | | behaviour, conduct |
 | sampanno | pp | masc.nom.sg | accomplished, fulfilled, completed, become endowed with |
 | sugato | adj | masc.nom.sg | epithet of the Buddha, lit. well gone |
 | lokavidū | noun | masc.nom.sg | knower of the world (epithet of the Buddha) |
 | anuttaro | adj | masc.nom.sg | highest, unsurpassed, unexcelled, superior |
-| purisadamma- | noun |  | trainable people |
+| purisadamma- | noun | | trainable people |
 | sārathi | noun | masc.nom.sg | charioteer, driver |
 | satthā | noun | masc.nom.sg | master, teacher |
-| deva- | noun |  | deity(s), god(s) |
+| deva- | noun | | deity(s), god(s) |
 | manussānaṃ | noun | masc.gen.pl | of humans |
 | buddho | adj | masc.nom.sg | awakened, woke up, understood |
 | bhagavā'ti | adj | masc.nom.sg | fortunate, illustrious, sublime, blessed happy, glorious, auspicious |
@@ -52,7 +52,7 @@ supaṭipanno bhagavato sāvakasaṅgho ujupaṭipanno bhagavato sāvakasaṅgho
 | --- | --- | --- | --- |
 | supaṭipanno | adj | masc.nom.sg | going the right way, practiced well |
 | bhagavato | noun | masc.gen.sg | of Sublime One, Blessed One, fortunate one, the Buddha |
-| sāvaka- | noun |  | disciple, pupil, lit. hearer |
+| sāvaka- | noun | | disciple, pupil, lit. hearer |
 | saṅgho | noun | masc.nom.sg | Community, assembly |
 | ujupaṭipanno | adj | masc.nom.sg | practices straightly, living uprightly |
 | ñāyapaṭipanno | adj | masc.nom.sg | following the correct method walking in the right path |

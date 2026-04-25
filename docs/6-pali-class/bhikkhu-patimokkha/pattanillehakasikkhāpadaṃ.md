@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------- | :------- | :---------------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | pattanillehakaṃ | ind | adv, nt acc sg of pattanillehaka | | licking the bowl | | | | patta + nillehaka + aṃ | | |
 | - patta 2 | noun | masc | | bowl | | √pā (drink) | | √pā + ta | | |
 | - nillehakaṃ | ind | adv, nt acc sg of nillehaka | | licking, lapping | | √lih (lick, lap) | | nī + √lih > leha + aka + aṃ | | |

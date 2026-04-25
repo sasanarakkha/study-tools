@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------- | :------ | :------------------------------------- | :------- | :-------------------------------------- | :------------------- | :-------------------------- | :-------------------------- | :----------------- | :---------------- | :------------------------ |
-| ime | pron | masc nom pl of ima |  | these |  |  |  |  |  |  |
+| ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
 | sekhiyā | ptp | masc nom pl of sekhiya | | related to training; to be practised | to be trained | √sikkh (learn, train) | | √sikkh + *iya | | |

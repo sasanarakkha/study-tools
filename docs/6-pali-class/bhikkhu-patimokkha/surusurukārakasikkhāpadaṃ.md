@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :---------------- | :------- | :----------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | surusurukārakaṃ | ind | adv, nt acc sg of surusurukāraka | | making a slurping sound | | | | surusuru + kāraka + aṃ | | |
 | - surusuru | noun | masc, onom | | slurping sound | | | | suru + suru | | |
 | - kārakaṃ | adj | nt acc sg of kāraka | | making, doing | | √kar (do, make) | | √kar + *aka + aṃ | | |

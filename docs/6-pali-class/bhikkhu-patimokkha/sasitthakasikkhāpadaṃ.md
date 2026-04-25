@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------ | :-------------------------- | :-------------------- | :------------------ | :----------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sasitthakaṃ | adj | nt acc sg of sasitthaka | | containing grains of rice | with small grains | | | sa + sittha + ka | | |
 | pattadhovanaṃ | noun | nt acc sg of pattadhovana, comp | | bowl washing water, bowl rinsing water | | | | patta + dhovana | dative tappurisa | pattassa + dhovana |
 | - patta 2 | noun | masc | | bowl | | √pā (drink) | | √pā + ta | | |

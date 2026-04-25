@@ -12,7 +12,7 @@
 | vuccamāno | prp | masc nom sg of vuccamāna, prp of vuccati | +instr | being told, spoken to | | √vac (speak) | √vac + ya > vucca (pass) | vucca + māna | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | tāvāhaṃ | comp | sandhi, ind + pron | | until I | that much I | | | tāva + ahaṃ | | |
 | - tāva | ind | adv | | that much; that far; as long as | | | | | | |
 | - ahaṃ | pron | 1st nom sg | | I | | | | | | |
@@ -23,7 +23,7 @@
 | - pade | noun | nt loc sg of pada | | in part, component | in step, foot | √pad (go, step) | | √pad + a | | |
 | sikkhissāmi | verb | fut 1st sg of sikkhati | | I will train | | √sikkh (train) | √sikkh + a > sikkha | sikkha + issa + ti | | |
 | yāva | ind | adv, prep | +dat | until, as long as | | | | | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | aññaṃ | pron | nt acc sg of añña | | another | | | | | | |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | byattaṃ | adj | masc acc sg of byatta | | experienced; learned; competent; trained | distinguished | √añj (distinguish) | | vi > vy > by + √añj + ta | | |

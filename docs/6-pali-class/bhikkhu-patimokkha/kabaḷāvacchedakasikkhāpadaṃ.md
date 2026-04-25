@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------------- | :------------------- | :------------------- | :----------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | kabaḷāvacchedakaṃ | ind | adv, nt acc sg of kabaḷāvacchedaka | | biting off lumps | | | | kabaḷa + avacchedaka | | |
 | - kabaḷa | noun | masc | | lump of food | | | | | | |
 | - avacchedakaṃ | ind | adv, nt acc sg of avacchedaka | | biting off | causing to cut down | √chid (cut, steal) | √chid + *e > chede | ava + chede + aka + aṃ | | |

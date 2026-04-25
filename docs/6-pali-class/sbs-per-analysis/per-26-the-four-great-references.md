@@ -13,7 +13,7 @@ katame bhikkhave cattāro mah'āpadesā?
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| mahā- | adj |  | great, large, powerful |
+| mahā- | adj | | great, large, powerful |
 | apadesā | noun | masc.nom.pl | reasons, causes, arguments, statements references |
 
 **What monks are the four great references?**
@@ -22,9 +22,9 @@ idha, bhikkhave, bhikkhu evaṃ vadeyya — sammukhā m'etaṃ, āvuso, bhagavat
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| idha | ind |  | here, in this regard, in this case |
+| idha | ind | | here, in this regard, in this case |
 | bhikkhu | noun | masc.nom.sg | a monk |
-| evaṃ | ind |  | thus, this, like this, just as, such |
+| evaṃ | ind | | thus, this, like this, just as, such |
 | vadeyya | verb | opt.3.sg | could say, can speak |
 | sammukhā | ind | (+gen) | face to face (with), in front (of) |
 | me | pron | 1.ins.sg | by me |
@@ -48,7 +48,7 @@ asukasmiṃ nāma āvāse saṅgho viharati sathero sapāmokkho. tassa me saṅg
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | asukasmiṃ | adj | masc.loc.sg | in such and such; so and so; a certain. |
-| nāma | ind |  | called, by the name of, namely |
+| nāma | ind | | called, by the name of, namely |
 | āvāse | noun | masc.loc.sg | in home, dwelling place, residence |
 | saṅgho | noun | masc.nom.sg | Community, assembly of monks |
 | viharati | verb | pr.3.sg | lives, stays, remains, continues |
@@ -57,9 +57,9 @@ asukasmiṃ nāma āvāse saṅgho viharati sathero sapāmokkho. tassa me saṅg
 | tassa | pron | masc.gen.sg | of that |
 | me | pron | 1.ins.sg | by me |
 | saṅghassa | noun | masc.gen.sg | of Community, assembly of monks |
-| sammukhā | ind |  | face to face (with), in front (of) |
+| sammukhā | ind | | face to face (with), in front (of) |
 | sutaṃ | pp | nt.nom.sg | heard |
-| sammukhā | ind |  | face to face (with), in front (of) |
+| sammukhā | ind | | face to face (with), in front (of) |
 | paṭiggahitaṃ | pp | nt.nom.sg | received, got, accepted, appropriated, taken |
 
 **In a certan residence the Community stays, including the elders and eminent monks. In the presence of that Community this was heared by me, in (its) presence this was received by me.**
@@ -69,7 +69,7 @@ asukasmiṃ nāma āvāse sambahulā therā bhikkhū viharanti bahussutā āgat�
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | asukasmiṃ | adj | masc.loc.sg | in such and such; so and so; a certain. |
-| nāma | ind |  | called, by the name of, namely |
+| nāma | ind | | called, by the name of, namely |
 | āvāse | noun | masc.loc.sg | in home, dwelling place, residence |
 | sambahulā | adj | masc.nom.pl | many, numerous, plenty of, lit. lots together |
 | therā | adj | masc.nom.pl | old, elderly, senior |
@@ -83,9 +83,9 @@ asukasmiṃ nāma āvāse sambahulā therā bhikkhū viharanti bahussutā āgat�
 | tesaṃ | pron | masc.gen.sg | of that |
 | me | pron | 1.ins.sg | by me |
 | therānaṃ | noun | masc.gen.pl | of elders |
-| sammukhā | ind |  | face to face (with), in front (of) |
+| sammukhā | ind | | face to face (with), in front (of) |
 | sutaṃ | pp | nt.nom.sg | heard |
-| sammukhā | ind |  | face to face (with), in front (of) |
+| sammukhā | ind | | face to face (with), in front (of) |
 | paṭiggahitaṃ | pp | nt.nom.sg | received, got, accepted, appropriated, taken |
 
 **In a certan residence many senior monks stay. Who knowledgeable, heir of the heritage, who knows the Dhamma by heart, expert in vinaya and expert in tabulated summary. In the presence of that elders this was heared by me, in (their) presence this was received by me.**
@@ -105,9 +105,9 @@ tassa bhikkhave bhikkhuno bhāsitaṃ n'eva abhinanditabbaṃ nappaṭikkositabb
 | tassa | pron | masc.gen.sg | of that |
 | bhikkhuno | noun | masc.gen.sg | of monks |
 | bhāsitaṃ | noun | nt.nom.sg | saying, speech, statement, utterance, talk, words lit. what was said |
-| neva | ind |  | neither |
+| neva | ind | | neither |
 | abhinanditabbaṃ | ptp | nt.nom.sg | can be delighted in, should be approved of applauded |
-| na- | ind |  | not |
+| na- | ind | | not |
 | paṭikkositabbaṃ | ptp | nt.nom.sg | should be rejected, should be disdained |
 
 **Statement of that monk neither should be approved nor should be rejected.**
@@ -118,9 +118,9 @@ anabhinanditvā appaṭikkositvā padabyañjanāni sādhukaṃ uggahetvā sutte 
 | --- | --- | --- | --- |
 | anabhinanditvā | verb | abs | having not approved (of), having not applauded |
 | appaṭikkositvā | verb | abs | having not disapproved, having not rejected |
-| pada- | noun |  | word, phrase, sentence, saying |
+| pada- | noun | | word, phrase, sentence, saying |
 | byañjanāni | noun | nt.acc.pl | words; terms; expressions; phrases |
-| sādhukaṃ | ind |  | well, thoroughly, fully |
+| sādhukaṃ | ind | | well, thoroughly, fully |
 | uggahetvā | verb | abs | having learned, having grasped |
 | sutte | noun | nt.loc.sg | in discourse |
 | otāretabbāni | ptp | nt.nom.pl | should be gone into, should be checked |
@@ -134,20 +134,20 @@ tāni ce sutte otāriyamānāni vinaye sandassiyamānāni na ceva sutte otaranti
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tāni | pron | nt.nom.pl | those |
-| ce | ind |  | if |
+| ce | ind | | if |
 | sutte | noun | nt.loc.sg | in discourse |
 | otāriyamānāni | prp | nt.nom.pl | being causing to go into, being checked |
 | vinaye | noun | masc.loc.sg | in discipline, training |
 | sandassiyamānāni | prp | nt.nom.pl | being compared, verified; lit: being caused to be seen together with |
-| na | ind |  | not |
-| ceva | ind |  | only if, if just |
+| na | ind | | not |
+| ceva | ind | | only if, if just |
 | sutte | noun | nt.loc.sg | in discourse |
 | otaranti | verb | pr.3.pl | descend (into), go down (into), flow down fit |
-| na | ind |  | not |
+| na | ind | | not |
 | vinaye | noun | masc.loc.sg | in discipline, training |
 | sandissanti | verb | pr.3.pl | are agree with, live conformably with lit. 'is seen together with' |
 | niṭṭham- | noun | fem.acc.sg | end, conclusion, perfection, height, summit |
-| ettha | ind |  | here, in this place, in this regard |
+| ettha | ind | | here, in this place, in this regard |
 | gantabbaṃ | ptp | nt.nom.sg | should be made, lit. should be gone |
 
 **If those (statements) being checked in discourses and being compared with discipline, if those (statements) does not fit to the discourses, does not agree with discipline, in this regard conclusion should be made.**
@@ -156,20 +156,20 @@ addhā idaṃ na ceva tassa bhagavato vacanaṃ arahato sammāsambuddhassa; tass
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| addhā | ind |  | most certainly! for sure! definitely! |
+| addhā | ind | | most certainly! for sure! definitely! |
 | idaṃ | pron | nt.nom.sg | this, this thing |
-| na | ind |  | not |
-| ceva | ind |  | and even, as well as |
+| na | ind | | not |
+| ceva | ind | | and even, as well as |
 | tassa | pron | masc.gen.sg | of that |
 | bhagavato | noun | masc.gen.sg | of the Buddha |
 | vacanaṃ | noun | nt.nom.sg | word, utterance, talk, statement |
 | arahato | noun | masc.gen.sg | of the arahant, of the worthy one |
 | sammāsambuddhassa; | noun | masc.gen.sg | of perfectly awakened one, fully enlightened |
 | tassa | pron | masc.gen.sg | of that |
-| ca | ind |  | but |
+| ca | ind | | but |
 | therassa | noun | masc.gen.sg | of elder |
 | duggahitan'ti | adj | nt.nom.sg | incorrectly understood, poorly grasped, taken in the wrong wayincorrectly understood, |
-| iti | ind |  | thus, this is, and so |
+| iti | ind | | thus, this is, and so |
 | h'etaṃ | ind+pn | nt.acc.sg | indeed this, certainly this |
 | chaḍḍeyyātha | verb | opt.2.pl | you should throw away, discard, drop |
 
@@ -180,15 +180,15 @@ sutte ceva otaranti vinaye ca sandissanti, niṭṭham'ettha gantabbaṃ – add
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sutte | noun | nt.loc.sg | in discourse |
-| ceva | ind |  | only if, if just |
+| ceva | ind | | only if, if just |
 | otaranti | verb | pr.3.pl | descend (into), go down (into), flow down fit |
 | vinaye | noun | masc.loc.sg | in discipline, training |
-| ca | ind |  | and |
+| ca | ind | | and |
 | sandissanti | verb | pr.3.pl | are agree with, live conformably with lit. 'is seen together with' |
 | niṭṭham- | noun | fem.acc.sg | end, conclusion, perfection, height, summit |
-| ettha | ind |  | here, in this place, in this regard |
+| ettha | ind | | here, in this place, in this regard |
 | gantabbaṃ | ptp | nt.nom.sg | should be made, lit. should be gone |
-| addhā | ind |  | certainly, surely |
+| addhā | ind | | certainly, surely |
 | idaṃ | pron | nt.nom.sg | this, this thing |
 | tassa | pron | masc.gen.sg | of that |
 | bhagavato | noun | masc.gen.sg | of the Buddha |
@@ -203,7 +203,7 @@ imassa ca bhikkhuno suggahitaṃ
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | imassa | pron | masc.gen.sg | of this, his |
-| ca | ind |  | and |
+| ca | ind | | and |
 | bhikkhuno | noun | masc.gen.sg | of monk |
 | suggahitaṃ | adj | nt.nom.sg | well learned, well grasped |
 

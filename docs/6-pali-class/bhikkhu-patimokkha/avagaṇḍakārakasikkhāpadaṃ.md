@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------- | :------- | :----------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | avagaṇḍakārakaṃ | ind | adv, nt acc sg of avagaṇḍakāraka | | stuffing the cheeks | making swelling | | | avagaṇḍa + kāraka + aṃ | | |
 | - avagaṇḍa | noun | masc | | swelling, stuffing | boil on the face | | | yuva > ava + gaṇḍa | | |
 | - kārakaṃ | adj | nt acc sg of kāraka | | making, doing | | √kar (do, make) | | √kar + *aka + aṃ | | |

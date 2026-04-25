@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :--------------- | :----------------------- | :-------------------------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | uppathena | noun | masc instr sg of uppatha | | not on the road | by the up-road | √path (go, move) | | ud + √path + a | | |
 | gacchanto | prp | masc nom sg of gacchanta | | (a monk) going | | √gam (go) | √gam + a > gaccha (irreg) | gaccha + nta | | |
 | pathena | noun | masc instr sg of patha | | on the road | by the road | √path (go, move) | | √path + a | | |

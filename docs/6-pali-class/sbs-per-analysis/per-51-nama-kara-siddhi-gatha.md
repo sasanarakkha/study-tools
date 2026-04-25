@@ -6,14 +6,14 @@ yo cakkhumā moha-mal'āpakaṭṭho, sāmaṃ va buddho sugato vimutto, mārass
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| [thai] |  |  |  |
+| [thai] | | | |
 | yo | pron | masc.nom.sg | one who, whoever |
 | cakkhumā | adj | masc.nom.sg | who has vision |
-| moha- | noun |  | illusion, delusion, confusion |
-| mala- | noun |  | dirt, impurity, stain, dross, filth, grime, tarnish |
+| moha- | noun | | illusion, delusion, confusion |
+| mala- | noun | | dirt, impurity, stain, dross, filth, grime, tarnish |
 | apakaṭṭho | pp | masc.nom.sg | drawn away, removed (from); loose |
-| sāmaṃ | ind |  | oneself, by oneself, for oneself |
-| va = eva | ind |  | only, just, so, even |
+| sāmaṃ | ind | | oneself, by oneself, for oneself |
+| va = eva | ind | | only, just, so, even |
 | buddho | pp | masc.nom.sg | awakened, woke up, understood |
 | sugato | pp | masc.nom.sg | epithet of the Buddha, lit. well gone |
 | vimutto | pp | masc.nom.sg | freed (from), liberated (from), emancipated (from) |
@@ -42,12 +42,12 @@ buddhaṃ varan'taṃ sirasā namāmi. lokassa nāthañ'ca vināyakañ'ca. tan't
 | taṃ- | pron | masc.acc.sg | that |
 | tejasā | noun | masc.ins.sg | by radiance, glory, splendor, power |
 | te | noun | masc.dat.sg | for you |
-| jaya- | noun |  | victory, conquest, winning |
+| jaya- | noun | | victory, conquest, winning |
 | siddhi | noun | fem.nom.sg | accomplishment, success, prosperity |
 | hotu | verb | pr.3.sg | may it be |
-| sabba- | adj |  | all, every, whole, entire, complete |
+| sabba- | adj | | all, every, whole, entire, complete |
 | antarāyā | noun | masc.nom.pl | obstacle, danger, lit. coming in-between |
-| ca | ind |  | and |
+| ca | ind | | and |
 | vināsamentu | verb | imp.3.pl | may they be destroyed |
 
 **I pay homage with my head to that excellent Buddha, the protector and guide for the world. By the power of this, may victory and success be for you, and may all dangers be destroyed.**
@@ -59,7 +59,7 @@ dhammo dhajo yo viya tassa satthu dassesi lokassa visuddhi-maggaṃ, niyyāniko 
 | dhammo | noun | masc.nom.sg | the Teaching |
 | dhajo | noun | masc.nom.sg | flag, banner, symbol, emblem |
 | yo | pron | masc.nom.sg | that which, whatever, whichever |
-| viya | ind |  | like, as |
+| viya | ind | | like, as |
 | tassa | pron | masc.gen.sg | of him, his, |
 | satthu | noun | masc.gen.sg | of master, teacher |
 | dassesi | verb | aor.3.sg | showed, exhibited, revealed, lit. caused to see |
@@ -69,9 +69,9 @@ dhammo dhajo yo viya tassa satthu dassesi lokassa visuddhi-maggaṃ, niyyāniko 
 | niyyāniko | adj | masc.nom.sg | redemptive, salvatory, leading to deliverance, lit leading out |
 | dhamma-dharassa | noun | masc.gen.sg | of those who knows the Dhamma by heart, who uphold the Dhamma, lit. Dhamma bearer, holder, upholder |
 | dhārī | adj | masc.nom.sg | holding, wearing, keeping, upholding |
-| sāta- | noun |  | pleasure, delight, comfort |
+| sāta- | noun | | pleasure, delight, comfort |
 | āvaho | adj | masc.nom.sg | bringing, conferring, causing |
-| santi- | noun |  | peace, calm, tranquillity |
+| santi- | noun | | peace, calm, tranquillity |
 | karo | adj | masc.nom.sg | doing, making, producing. |
 | suciṇṇo | noun | masc.nom.sg | well practised, made a habit of |
 
@@ -81,9 +81,9 @@ dhammaṃ varan'taṃ sirasā namāmi. mohappadālaṃ upasanta-dāhaṃ. tan'te
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| moha- | noun |  | illusion, delusion, confusion |
+| moha- | noun | | illusion, delusion, confusion |
 | padālaṃ | adj | masc.acc.sg | breaking, piercing, destroying |
-| upasanta- | adj |  | still, calm, at peace, tranquil |
+| upasanta- | adj | | still, calm, at peace, tranquil |
 | dāhaṃ | noun | masc.acc.sg | burning; fever; heat. |
 
 **I pay homage with my head to that excellent Dhamma, which pierces delusion and makes fever calm down. By the power of this, may victory and success be for you, and may all dangers be destroyed.**
@@ -92,21 +92,21 @@ saddhamma-senā sugatānugo, yo lokassa pāp'ūpakilesa-jetā, santo sayaṃ san
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| saddhamma- | noun |  | true Teaching, true Doctrine, true nature of things |
+| saddhamma- | noun | | true Teaching, true Doctrine, true nature of things |
 | senā | noun | fem.nom.sg | army |
-| sugata- | noun |  | epithet of the Buddha, lit. well gone |
-| anugo | adj |  | following, followed by, going after |
+| sugata- | noun | | epithet of the Buddha, lit. well gone |
+| anugo | adj | | following, followed by, going after |
 | yo | pron | masc.nom.sg | one who, whoever |
 | lokassa | noun | masc.gen.sg | of the world |
-| pāpa- | noun |  | evil action, crime, sin, wrongdoing, misdeed |
-| upakilesa- | noun |  | stain, soiling; blot, blemish, defilement; impurity |
+| pāpa- | noun | | evil action, crime, sin, wrongdoing, misdeed |
+| upakilesa- | noun | | stain, soiling; blot, blemish, defilement; impurity |
 | jetā | adj | fem.nom.sg | one who conquers, a victor. |
 | santo | adj | masc.nom.sg | virtuous, good, wise |
-| sayaṃ | ind |  | by one's own, oneself, one's own, it's own |
-| santi- | noun |  | peace, calm, tranquillity |
+| sayaṃ | ind | | by one's own, oneself, one's own, it's own |
+| santi- | noun | | peace, calm, tranquillity |
 | niyojako | adj | masc.nom.sg | joining down, uniting, providing |
-| ca | ind |  | and |
-| svākkhāta- | adj |  | well taught, well explained |
+| ca | ind | | and |
+| svākkhāta- | adj | | well taught, well explained |
 | dhammaṃ | noun | masc.acc.sg | the Teaching |
 | viditaṃ | pp | masc.acc.sg | known, understood, experienced |
 | karoti | verb | pr.3.sg | does, makes, acts, performs, builds |
@@ -117,10 +117,10 @@ saṅghaṃ varan'taṃ sirasā namāmi. buddh'ānubuddhaṃ sama-sīla-diṭṭ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| buddha- | pp |  | awakened, woke up, understood |
+| buddha- | pp | | awakened, woke up, understood |
 | anubuddhaṃ | adj | masc.acc.sg | after the Blessed One |
-| sama- | adj |  | level, even, harmonious |
-| sīla- | noun |  | behaviour, conduct, integrity |
+| sama- | adj | | level, even, harmonious |
+| sīla- | noun | | behaviour, conduct, integrity |
 | diṭṭhiṃ | noun | fem.acc.sg | view, belief, opinion, concept, theory, opinion attitude |
 
 **I pay homage with my head to that excellent Saṅgha, awakened after the awakened, harmonious in virtue & view. By the power of this, may victory and success be for you, and may all dangers be destroyed.**

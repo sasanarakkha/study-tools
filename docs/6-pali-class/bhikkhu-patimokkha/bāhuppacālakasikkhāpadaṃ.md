@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------------- | :----------------- | :---------------- | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | bāhuppacālakaṃ | ind | adv, acc sg of bāhuppacālaka, comp | | swaying the arms | | | | bāhu + pacālaka | accusative tappurisa | bāhavo + pacālaka |
 | - bāhu | noun | masc | | arm | | √bah (increase) | | √bah + *u | | |
 | - pacālakaṃ | adj | nt acc sg of pacālakaṃ | | swinging, swaying, shaking | | √cal (shake, tremble) | √cal + *e > cāle | pa + cāle + aka | | |
@@ -17,7 +17,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------- | :------- | :------------------ | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | bāhuppacālakaṃ | ind | adv, acc sg of bāhuppacālaka, comp | | swaying the arms | | | | bāhu + pacālaka | accusative tappurisa | bāhavo + pacālaka |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
 | nisīdissāmīti | comp | sandhi, fut + ind | | | | | | nisīdissāmi + iti | | |

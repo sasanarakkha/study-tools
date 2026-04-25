@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :----------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | satthapāṇissa | adj | masc dat sg of satthapāṇī, comp | | to (one) with sword in hand; carrying a knife | | | | sattha + pāṇī | kammadhāraya | sattha + pāṇī |
 | - sattha | noun | nt | | weapon, knife | | √sas (slaughter) | √sas + tha | | | |
 | - pāṇissa | adj | masc dat sg of pāṇī | | to (someone with something) in hand | to handed | | | pāṇi + ī | | |

@@ -27,7 +27,7 @@
 | - uttara | noun | nt | | upper robe | higher | √tar (cross) | | ud + √tar + a | | |
 | - paramaṃ | ind | adv, acc sg of parama | | at the most, for a maximum of | | | | para + ma + aṃ | | |
 | santaruttaraparamaṃ | (or) noun | (or) acc sg of santaruttaraparama | (or) | an underrobe and upper robe at most; not more than an inner and outer robe | | | | santara + uttara + parama | kammadhāraya | santaruttara + parama |
-| tena | pron | masc instr sg of ta |  | by him; by that |  |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | tato | pron | abl sg of ta | | from that; therefrom; from him | from that | | | ta + to | | |
 | cīvaraṃ | noun | nt nom sg of cīvara | | robe, robe-cloth | cloth | | | | | |
@@ -39,7 +39,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------------ | :------ | :------------------------ | :------- | :---------------------------------------------------------- | :--------------- | :------------------------------ | :------------------------------- | :------------------------ | :---------------- | :------------------------ |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | sādiyeyya | verb | opt 3rd sg of sādiyati | | he would accept | be tasted | √sād (taste, relish) | √sād + e + iya > sādiya (pass) | sādiya + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |

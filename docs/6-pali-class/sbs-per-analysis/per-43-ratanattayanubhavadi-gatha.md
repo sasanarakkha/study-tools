@@ -6,28 +6,28 @@ ratanattay'ānubhāvena ratanattaya-tejasā, dukkha-roga-bhayā-verā sokā satt
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| [thai] |  |  |  |
+| [thai] | | | |
 
 **anekā antarāyā pi vinassantu asesato.**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| ratanattaya- | noun |  | three jewels, triple gem, three treasures |
+| ratanattaya- | noun | | three jewels, triple gem, three treasures |
 | ānubhāvena | noun | masc.ins.sg | by splendor, majesty, magnificence, pomp |
-| ratanattaya- | noun |  | three jewels, triple gem, three treasures |
+| ratanattaya- | noun | | three jewels, triple gem, three treasures |
 | tejasā | noun | masc.ins.sg | by radiance, glory, splendor, power |
 | dukkha- | noun | discomfort, suffering, pain, unease, something | unsatisfactory, problem, trouble |
-| roga- | noun |  | disease, illness |
+| roga- | noun | | disease, illness |
 | bhayā- | noun | nt.nom.pl | fear, fright, terror, dismay |
 | verā | noun | masc.nom.pl | hatred, ill-will, animosity |
 | sokā | noun | masc.nom.pl | grief, sorrow, sadness |
-| sattu | noun |  | enemy, enmity |
+| sattu | noun | | enemy, enmity |
 | c'upaddavā | noun | masc.nom.pl | and accidents, misfortunes, calamities |
 | anekā | adj | masc.nom.pl | many, various, countless, lit. not one |
 | antarāyā | noun | masc.nom.pl | obstacle, danger, lit. coming in-between |
-| pi | ind |  | also, and also, even so |
+| pi | ind | | also, and also, even so |
 | vinassantu | verb | imp.3.pl | may they disappear, vanish, perish |
-| asesato | ind |  | completely, totally, without remain |
+| asesato | ind | | completely, totally, without remain |
 
 **By the majesty of three jewels, by the power of triple gem, may completely disappear various sufferings, diseases, fears, hatreds, sorrows, enmity, accidents and obstacles.**
 
@@ -35,7 +35,7 @@ jaya-siddhi dhanaṃ lābhaṃ sotthi bhāgyaṃ sukhaṃ balaṃ siri āyu ca v
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| jaya- | noun |  | victory, conquest, winning |
+| jaya- | noun | | victory, conquest, winning |
 | siddhi | noun | fem.nom.sg | accomplishment, success, prosperity |
 | dhanaṃ | noun | nt.nom.sg | wealth, riches, treasure |
 | lābhaṃ | noun | nt.nom.sg | gain, profit, acquisition |
@@ -45,19 +45,19 @@ jaya-siddhi dhanaṃ lābhaṃ sotthi bhāgyaṃ sukhaṃ balaṃ siri āyu ca v
 | balaṃ | noun | nt.nom.sg | strength, power, might |
 | siri | noun | fem.nom.sg | luck, glory, majesty, prosperity |
 | āyu | noun | nt.nom.sg | long life, longevity |
-| ca | ind |  | and |
+| ca | ind | | and |
 | vaṇṇo | noun | masc.nom.sg | beauty, good looks |
-| ca | ind |  | and |
+| ca | ind | | and |
 | bhogaṃ | noun | nt.nom.sg | wealth, possessions, property, riches |
 | vuḍḍhī | noun | fem.nom.sg | increase, growth, furtherance, prosperity |
-| ca | ind |  | and |
+| ca | ind | | and |
 | yasavā | adj | masc.nom.sg | famous, renowned, lit.: possessing fame' |
-| sata- | adj |  | 100 |
+| sata- | adj | | 100 |
 | vassā | noun | masc.nom.pl | years |
-| ca | ind |  | and |
+| ca | ind | | and |
 | āyū | noun | masc.nom.pl | duration of life, life-time |
-| ca | ind |  | and |
-| jīva- | noun |  | life |
+| ca | ind | | and |
+| jīva- | noun | | life |
 | siddhī | noun | fem.nom.pl | accomplishment, success, prosperity |
 | bhavantu | verb | imp.3.pl | may they be |
 | te | pron | 2.dat.sg | for you |

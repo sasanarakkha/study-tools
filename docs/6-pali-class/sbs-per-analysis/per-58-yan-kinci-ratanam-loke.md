@@ -6,19 +6,19 @@ yaṅ'kiñci ratanaṃ loke vijjati vividhaṃ puthu, ratanaṃ buddha-samaṃ n
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| [MJR] |  |  |  |
+| [MJR] | | | |
 | yaṃ- | pron | masc.acc.sg | which, whoever, whatever, that which |
 | kiñci | pron | masc.acc.sg | some, something, anything |
 | ratanaṃ | noun | nt.acc.sg | jewel, gem, gemstone |
 | loke | noun | masc.loc.sg | in the world |
 | vijjati | verb | pr.3.sg | exists (in), is found (in), is present (in) |
 | vividhaṃ | adj | masc.acc.sg | various kinds of |
-| puthu | ind |  | in many ways, in different ways |
+| puthu | ind | | in many ways, in different ways |
 | ratanaṃ | noun | nt.nom.sg | jewel, gem, gemstone |
-| buddha- | noun |  | the Buddha, Awakened One |
+| buddha- | noun | | the Buddha, Awakened One |
 | samaṃ | adj | nt.nom.sg | level, even, equal |
 | n'atthi | verb | pr.3.sg | is not, it is not, there is not, there is no |
-| tasmā | ind |  | therefore, that is why, lit. from that |
+| tasmā | ind | | therefore, that is why, lit. from that |
 | sotthī | noun | fem.nom.pl | safety, well-being |
 | bhavantu | verb | imp.3.pl | may they be |
 | te | pron | 2.dat.sg | for you |
@@ -38,14 +38,14 @@ sakkatvā buddha-ratanaṃ, osadhaṃ uttamaṃ varaṃ, hitaṃ deva-manussāna
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sakkatvā | verb | abs | having honoured; having treated with respect; having received hospitably. |
-| buddha- | noun |  | the Buddha, Awakened One |
+| buddha- | noun | | the Buddha, Awakened One |
 | ratanaṃ | noun | nt.acc.sg | jewel, gem, gemstone |
 | osadhaṃ | noun | nt.acc.sg | medicine, drug, medicinal herb |
 | uttamaṃ | adj | nt.acc.sg | best, highest, ultimate, supreme, top |
 | varaṃ | adj | nt.acc.sg | excellent, best, lit. select |
 | hitaṃ | noun | nt.acc.sg | welfare, good, benefit, blessing |
 | deva-manussānaṃ | noun | masc.gen.pl | of gods and men |
-| buddha- | noun |  | the Buddha, Awakened One |
+| buddha- | noun | | the Buddha, Awakened One |
 | tejena | noun | masc.ins.sg | by radiance, glory, splendour, power |
 | sotthinā | noun | masc.ins.sg | by safety, well-being |
 | nassantu- | verb | imp.3.pl | may they perish, end, get lost, be destroyed |
@@ -61,7 +61,7 @@ sakkatvā dhamma-ratanaṃ, osadhaṃ uttamaṃ varaṃ, pariḷāh'ūpasamana�
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| pariḷāha- | noun |  | discomfort, distress, lit. burning |
+| pariḷāha- | noun | | discomfort, distress, lit. burning |
 | upasamanaṃ | adj | masc.acc.sg | quieting, calming, appeasing. |
 | bhayā | noun | masc.nom.pl | fears, frights, terrors, dismays |
 

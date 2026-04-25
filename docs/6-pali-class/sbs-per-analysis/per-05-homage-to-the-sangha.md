@@ -6,9 +6,9 @@ handa mayaṃ saṅghābhitthutiṃ karomase
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| handa | ind |  | well then; now |
+| handa | ind | | well then; now |
 | mayaṃ | pron | 1.nom.pl | we |
-| saṅgha- | noun |  | the assembly |
+| saṅgha- | noun | | the assembly |
 | abhitthutiṃ | noun | fem.acc.sg | high praise |
 | karomase | verb | imp.ref.pr.1.pl | let us make; let us act; we must perform |
 
@@ -22,7 +22,7 @@ yo so supaṭipanno bhagavato sāvakasaṅgho
 | so | pron | masc.nom.sg | that |
 | supaṭipanno | adj | masc.nom.sg | going the right way, practiced well |
 | bhagavato | noun | masc.gen.sg | of Sublime One, Blessed One, Fortunate One, the Buddha |
-| sāvaka- | noun |  | disciple, pupil, lit. hearer |
+| sāvaka- | noun | | disciple, pupil, lit. hearer |
 | saṅgho | noun | masc.nom.sg | the Community, assembly |
 
 **that Community of disciples of the Blessed One which has practiced well,**

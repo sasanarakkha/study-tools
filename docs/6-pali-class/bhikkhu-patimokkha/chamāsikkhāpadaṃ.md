@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :------------------------- | :---------------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | chamāyaṃ | noun | fem loc sg of chamā | | on the earth | | √kham (endure) | | √kham > cham + ā | | |
 | nisīditvā | verb | abs of nisīdati | | having sat down | | √sad (sink, sit, settle) | √sad + a > sīda | ni + sīda + ti | | |
 | āsane | noun | nt loc sg of āsana | | on a seat | | √ās (sit) | | √ās + ana | | |

@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------------------- | :----------------------- | :------- | :------------------- | :------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | upāhanārūḷhassa | adj | masc dat sg of upāhanārūḷha, comp | | to (one) wearing sandals | to mounted sandals | | | upāhana + ārūḷha | locative tappurisa | upāhanesu + ārūḷha |
 | - upāhana | noun | nt | | sandals | tied onto | √nah (bind, arm) | | upa + ā + √nah + a | | |
 | - ārūḷhassa | pp | masc dat sg of ārūḷha | | to (a person) wearing | to a (person who has) ascended | √ruh (ascend, grow) | | ā + √ruh + ta | | |

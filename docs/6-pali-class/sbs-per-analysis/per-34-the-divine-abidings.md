@@ -9,7 +9,7 @@ mettā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| mettā- | noun |  | friendliness |
+| mettā- | noun | | friendliness |
 | sahagatena | pp | nt.i.sg | with full of |
 | cetasā | noun | nt.i.sg | with a mind |
 | ekaṃ | adj | fem.acc.sg | one |
@@ -36,7 +36,7 @@ iti uddhamadho tiriyaṃ sabbadhi sabbattatāya
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| iti | ind |  | thus |
+| iti | ind | | thus |
 | uddhamadho | ind | adv | above and below |
 | tiriyaṃ | ind | adv | across; transversely |
 | sabbadhi | ind | adv | everywhere |
@@ -48,7 +48,7 @@ sabbāvantaṃ lokaṃ mettā-sahagatena cetasā vipulena mahaggatena appamāṇ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| sabbāvantaṃ |  | adj | m.ac.s entire, whole |
+| sabbāvantaṃ | | adj | m.ac.s entire, whole |
 | lokaṃ | noun | masc.acc.sg | world, universe |
 | mettāsahagatena | pp | nt.ins.sg | full of friendliness; lit. going with benevolence |
 | cetasā | noun | nt.ins.sg | with a mind |
@@ -56,7 +56,7 @@ sabbāvantaṃ lokaṃ mettā-sahagatena cetasā vipulena mahaggatena appamāṇ
 | mahaggatena | adj | nt.ins.sg | become great; lofty |
 | appamāṇena | adj | nt.ins.sg | boundless; unlimited |
 | averena | adj | nt.ins.sg | kind, free from enmity |
-| abyāpajjena |  | adj | nt.ins.s without ill will, with goodwill |
+| abyāpajjena | | adj | nt.ins.s without ill will, with goodwill |
 | pharitvā | verb | abs | having pervaded; having suffused; having filled. |
 | viharati; | verb | pr.3.sg | he stays, lives, dwells |
 

@@ -24,7 +24,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :--------------------------------- | :------------------ | :------------------------------ | :------- | :-------------------- | :------------------- | :------------------------ |
-| tena | pron | masc instr sg of ta |  | by him; by that |  |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | patto | masc | masc nom sg of patta | | bowl | | √pā (drink) | | √pā + ta | | |
@@ -32,7 +32,7 @@
 | - bhikkhu | noun | masc, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | - parisāya | noun | fem dat sg of parisā | | to the group, assembly | sitting around | √sad (sink, sit, settle) | | pari + √sad + ā | | |
 | nissajitabbo | ptp | masc nom sg of nissajjitabba | | should be given up, relinquished | | √sajj (relinquish, let loose) | | nī + √sajj + itabba | | |
-| That bowl is to be relinquished by that monk to the assembly of monks |  |  |  |  |  |  |  |  |  |  |
+| That bowl is to be relinquished by that monk to the assembly of monks | | | | | | | | | | |
 
 ## yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo, ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo'ti
 
@@ -46,7 +46,7 @@
 | - patta 2 | noun | masc | | bowl | | √pā (drink) | | √pā + ta | | |
 | - pariyanto | adj | masc, nom sg of pariyanta | | worst | final | | | pari + [y] + anta | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
-| tassa | pron | masc dat sg of ta |  | to that |  |  |  |  |  |  |
+| tassa | pron | masc dat sg of ta | | to that | | | | | | |
 | bhikkhuno | noun | masc dat sg of bhikkhu, from bhikkhati | | for a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | padātabbo | ptp | masc nom sg of padātabba | +dat | should be given (to) | | √dā (give) | | pa + √dā + tabba | | |
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |

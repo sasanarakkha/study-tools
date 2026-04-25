@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :-------------------------- | :------------------------- | :----------------- | :--------------------- | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | kāyappacālakaṃ | ind | adv, acc sg of kāyappacālaka, comp | | shaking the body, swaying the body | causing to shake the body | | | kāya + pacālaka + aṃ | accusative tappurisa | kāyaṃ + pacālaka |
 | - kāya | noun | masc | | body | collection | √ci (gather, accumulate) | | √ci > ki > kāy + *a | | |
 | - pacālakaṃ | adj | nt acc sg of pacālakaṃ | | swinging, swaying, shaking | | √cal (shake, tremble) | √cal + *e > cāle | pa + cāle + aka | | |
@@ -17,7 +17,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :-------------------------- | :---------------- | :------- | :--------------------- | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | kāyappacālakaṃ | ind | adv, acc sg of kāyappacālaka, comp | | shaking the body, swaying the body | causing to shake the body | | | kāya + pacālaka + aṃ | accusative tappurisa | kāyaṃ + pacālaka |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
 | nisīdissāmīti | comp | sandhi, fut + ind | | | | | | nisīdissāmi + iti | | |

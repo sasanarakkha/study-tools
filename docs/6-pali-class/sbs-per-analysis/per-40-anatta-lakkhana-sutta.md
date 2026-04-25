@@ -8,7 +8,7 @@ evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evaṃ- | ind |  | thus; in this way |
+| evaṃ- | ind | | thus; in this way |
 | me | pron | masc.ins.sg | by me |
 | sutaṃ: | pp | masc.acc.sg | heard |
 | ekaṃ | adj | masc.acc.sg | one |
@@ -24,10 +24,10 @@ evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| tatra | ind |  | there, in that place |
-| kho | ind |  | indeed |
+| tatra | ind | | there, in that place |
+| kho | ind | | indeed |
 | bhagavā | noun | masc.nom.sg | the Sublime One, Blessed One, Fortunate One Buddha |
-| pañca- | adj |  | five (5) |
+| pañca- | adj | | five (5) |
 | vaggiye | adj | masc.acc.pl | part of a group, belonging to a collection |
 | bhikkhū | noun | masc.acc.pl | monks, mendicants, lit. beggars |
 | āmantesi | verb | aor.3.sg | addressed, said (to) |
@@ -49,24 +49,24 @@ evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
 | 'rūpaṃ | noun | nt.nom.sg | matter, material thing, materiality, experience of material world |
 | anattā | noun | masc.nom.sg | that which is impersonal, without an essence, non-self |
 | rūpañ'ca | noun | nt.nom.sg | and matter, material form, materiality, experience of material world |
-| h'idaṃ | idioṃ |  | that indeed |
+| h'idaṃ | idioṃ | | that indeed |
 | attā | noun | masc.nom.sg | self, oneself |
 | abhavissa, | verb | cond.3.sg | if would be, if could have been |
-| nayidaṃ | idiom |  | not that |
+| nayidaṃ | idiom | | not that |
 | rūpaṃ | noun | nt.nom.sg | matter, material form, materiality, experience of material world |
 | ābādhāya | noun | masc.dat.sg | to disease, sickness, illness, affliction |
 | saṃvatteyya, | verb | opt.3.sg | could lead (to), would lead |
 | labbhetha | v.pass | opt.refl.3.sg | it could be gained by onself, reached, got, obtained is be permitted, is be possible or proper |
-| ca | ind |  | and |
+| ca | ind | | and |
 | rūpe | noun | nt.loc.sg | with regard to matter, material form, materiality experience of material world |
-| evaṃ | ind |  | thus; in this way |
+| evaṃ | ind | | thus; in this way |
 | me | pron | 1.gen.sg | my |
 | rūpaṃ | noun | nt.nom.sg | matter, material form, materiality, experience of material world |
 | hotu | verb | imp.3.sg | may it be |
-| evaṃ | ind |  | thus; in this way |
+| evaṃ | ind | | thus; in this way |
 | me | pron | 1.gen.sg | my |
 | rūpaṃ | noun | nt.nom.sg | matter, material form, materiality, experience of material world |
-| mā | ind |  | not |
+| mā | ind | | not |
 | ahosī'ti | verb | aor.3.sg | but pr. - may it be, |
 
 **The form is non-self, if the form would be self, than form could not lead to affliction, and it could be gained by onself with regard to form : 'May my form be like this. May my form not be like this'**
@@ -75,11 +75,11 @@ yasmā ca kho, bhikkhave, rūpaṃ anattā, tasmā rūpaṃ ābādhāya saṃvat
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| yasmā | ind |  | because, since |
-| ca | ind |  | but |
-| kho | ind |  | indeed |
+| yasmā | ind | | because, since |
+| ca | ind | | but |
+| kho | ind | | indeed |
 | saṃvattati | verb | pr.3.sg | leads (to) |
-| tasmā | ind |  | therefore, that is why, lit. from that |
+| tasmā | ind | | therefore, that is why, lit. from that |
 | no labbhati | v.pass | pr.3.sg | is obtained, is acquired, is received, is possible, is proper |
 
 **But because form is non-self, therefore form leads to affliction, and it is not possible with regard to form: 'May my form be like this. May my form not be like this'**
@@ -149,9 +149,9 @@ yasmā ca kho, bhikkhave, viññāṇaṃ anattā, tasmā viññāṇaṃ ābād
 | maññatha | verb | pr.2.pl | you think |
 | rūpaṃ | noun | nt.nom.sg | matter, material form, materiality, experience of material world |
 | niccaṃ | adj | nt.nom.sg | permanent, constant, stable, reliable |
-| vā | ind |  | or |
+| vā | ind | | or |
 | aniccaṃ | adj | nt.nom.sg | impermanent, unstable, unreliable |
-| vā'ti? | ind |  | or |
+| vā'ti? | ind | | or |
 
 **Monks, what do you think: 'Is form permanent or impermanent?'**
 
@@ -164,7 +164,7 @@ aniccaṃ bhante.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | nt.nom.sg | which, whoever, whatever, that which |
-| pana- | ind |  | moreover, and now, but |
+| pana- | ind | | moreover, and now, but |
 | aniccaṃ | adj | nt.nom.sg | impermanent, unstable, unreliable |
 | dukkhaṃ | adj | nt.nom.sg | uncomfortable, painful, unpleasant |
 | taṃ | pron | nt.nom.sg | that |
@@ -177,15 +177,15 @@ aniccaṃ bhante.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | nt.nom.sg | which, whoever, whatever, that which |
-| pana- | ind |  | moreover, and now, but |
+| pana- | ind | | moreover, and now, but |
 | aniccaṃ | adj | nt.nom.sg | impermanent, unstable, unreliable |
 | dukkhaṃ | adj | nt.nom.sg | uncomfortable, painful, unpleasant |
-| vipariṇāma- | noun |  | change, alteration, lit. completely bending around |
+| vipariṇāma- | noun | | change, alteration, lit. completely bending around |
 | dhammaṃ | adj | nt.nom.sg | subject to, of nature, of character |
-| kallaṃ | ind |  | it is suitable (to), it is proper (to), it is fit (for) |
-| nu | ind |  | ? (integration) |
+| kallaṃ | ind | | it is suitable (to), it is proper (to), it is fit (for) |
+| nu | ind | | ? (integration) |
 | taṃ | pron | nt.nom.sg | that |
-| samanupassituṃ | verbinf |  | to see, to regard, to consider |
+| samanupassituṃ | verbinf | | to see, to regard, to consider |
 | etaṃ | pron | nt.nom.sg | this |
 | mama, | pron | 1.gen.sg | my, mine |
 | eso- | pron | masc.nom.sg | this |
@@ -201,8 +201,8 @@ no h'etaṃ, bhante.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| no | ind |  | not |
-| hi- | ind |  | indeed, certainly, truly, definitely |
+| no | ind | | not |
+| hi- | ind | | indeed, certainly, truly, definitely |
 | etaṃ | pron | nt.nom.sg | this |
 
 **'This is definitely not, venerable Sir.'**
@@ -280,41 +280,41 @@ no h'etaṃ bhante.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| tasmā-(t) | ind |  | therefore |
-| iha | ind |  | here |
+| tasmā-(t) | ind | | therefore |
+| iha | ind | | here |
 | bhikkhave | noun | masc.v.sg | o monks! |
 | yaṃ | pron | nt.nom.sg | whatever |
 | kiñci | pron | nt.nom.sg | something , anything |
 | rūpaṃ | noun | nt.nom.sg | form, matter |
-| atīta- | adj |  | past; gone by. (m.), the past |
-| anāgata- | adj |  | not come yet, the future |
+| atīta- | adj | | past; gone by. (m.), the past |
+| anāgata- | adj | | not come yet, the future |
 | paccuppannaṃ | adj | nt.nom.sg | existing; present |
 | ajjhattaṃ | ind | adv | internally |
-| vā |  | ind | or |
+| vā | | ind | or |
 | bahiddhā | ind | adv | externally |
-| vā |  | ind | or |
+| vā | | ind | or |
 | oḷārikaṃ | adj | nt.nom.sg | gross; coarse; ample |
-| vā |  | ind | or |
+| vā | | ind | or |
 | sukhumaṃ | adj | nt.nom.sg | subtle; minute; fine; exquisite |
-| vā |  | ind | or |
+| vā | | ind | or |
 | hīnaṃ | adj | nt.nom.sg | low; inferior |
-| vā |  | ind | or |
+| vā | | ind | or |
 | paṇītaṃ | adj | nt.nom.sg | excellent; delicious, superior |
-| vā |  | ind | or |
+| vā | | ind | or |
 | yaṃ | pron | nt.nom.sg | whatever |
 | dūre | ind | adv | away from, far away from |
 | santike | ind | adv | in the presence of, near to, nearby |
-| vā |  | ind | or |
+| vā | | ind | or |
 | sabbaṃ | adj | nt.nom.sg | all; every; whole; entire |
 | rūpaṃ | noun | nt.nom.sg | form, matter |
-| na- | ind |  | not |
+| na- | ind | | not |
 | etaṃ | pron | nt.nom.sg | this |
 | mama, | pron | 1.gen.sg | my, mine |
-| na- | ind |  | not |
+| na- | ind | | not |
 | eso- | pron | masc.nom.sg | this |
 | ahaṃ | pron | 1.nom.sg | I |
 | asmi, | verb | pr.1.sg | I am |
-| na | ind |  | not |
+| na | ind | | not |
 | me | pron | 1.gen.sg | my |
 | eso | pron | masc.nom.sg | this |
 | attā'ti | noun | masc.nom.sg | self |
@@ -362,7 +362,7 @@ yaṃ kiñci viññāṇaṃ atīt'ānāgata-paccuppannaṃ ajjhattaṃ vā bahi
 | vimuccati | v.pass | pr.3.sg | is released (from), becomes free (from) |
 | vimuttasmiṃ | pp | masc.loc.sg | when freed, liberated, emancipated |
 | vimuttaṃ- | pp | nt.nom.sg | freed, liberated, emancipated |
-| iti | ind |  | this is |
+| iti | ind | | this is |
 | ñāṇaṃ | noun | nt.nom.sg | knowledge, understanding, insight |
 | hoti | verb | pr.3.sg | there is |
 
@@ -405,8 +405,8 @@ imasmiñ'ca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhū
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| imasmiñ'ca | pron |  | while this |
-| pana | ind |  | moreover, and now, but |
+| imasmiñ'ca | pron | | while this |
+| pana | ind | | moreover, and now, but |
 | veyyākaraṇasmiṃ | noun | nt.loc.sg | while answer, explanation, exposition |
 | bhaññamāne | prp | nt.loc.sg | while being chanted, being preached, being recited |
 | pañcavaggiyānaṃ | adj | masc.gen.pl | of belonging to a group of five |

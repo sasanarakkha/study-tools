@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :-------------------------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | pacchato | ind | adv, abl sg of pacchā | | behind | | | | pacchā + to | | |
 | gacchanto | prp | masc nom sg of gacchanta | | (a monk) going | | √gam (go) | √gam + a > gaccha (irreg) | gaccha + nta | | |
 | purato | ind | adv, abl sg of pura | | in front | | | | pura + to | | |

@@ -6,7 +6,7 @@
 | :------------- | :------ | :------------------------------------- | :------- | :--------------------------------------- | :------------------- | :-------------------------- | :-------------------------- | :-------------------- | :---------------- | :------------------------ |
 | pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (teach, explain) | √dis + *e > dese | pati + dese + anīya | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
-| ime | pron | masc nom pl of ima |  | these |  |  |  |  |  |  |
+| ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
 | cattāro | card | masc nom pl of catu | | four | | | | | | |

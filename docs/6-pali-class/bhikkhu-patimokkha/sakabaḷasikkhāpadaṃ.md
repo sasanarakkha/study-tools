@@ -4,9 +4,9 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :---------------- | :---------------- | :-------------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sakabaḷena | adj | nt isntr sg of sakabaḷa | | with a (mouth) full of food | with lump | | | sa + kabaḷa | | |
-| mukhena | noun | nt instr sg of mukha |  | with a mouth |  |  |  |  |  |  |
+| mukhena | noun | nt instr sg of mukha | | with a mouth | | | | | | |
 | byāharissāmīti | comp | sandhi, fut + ind | | | | | | byāharissāmi + iti | | |
 | - byāharissāmi | verb | fut 1sg sg of byāharati | | I will speak | | √har (carry) | √har + a > hara | vi + ā + hara + issa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |

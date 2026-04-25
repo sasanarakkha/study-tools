@@ -7,7 +7,7 @@
 | sammatopi | comp | sandhi, pp + ind | | even authorized, even appointed | | | | sammato + api | | |
 | - sammato | pp | masc nom sg of sammata | | authorized, appointed | thought together | √man (think) | | saṃ + √man + ta | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | atthaṅgate | adj | masc loc sg of atthaṇgata, comp | | when set | in gone home | | | atthaṃ + gata | unelided accusative tappurisa | atthaṃ + gata |
 | - atthaṃ | noun | masc acc sg of attha | | home; rest; shelter | | | | | | |

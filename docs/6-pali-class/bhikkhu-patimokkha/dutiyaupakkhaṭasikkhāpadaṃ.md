@@ -26,7 +26,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------- | :------- | :---------------------------------------------------- | :------------------ | :----------------------- | :---------------------------- | :---------------------------- | :------------------------- | :------------------------ |
-| imehi | pron | nt instr pl of ima |  | with these |  |  |  |  |  |  |
+| imehi | pron | nt instr pl of ima | | with these | | | | | | |
 | mayaṃ | pron | 1st nom pl | | we | | | | | | |
 | paccekacīvaracetāpanehi | noun | nt isntr pl of paccekacīvaracetāpana, comp | | with individual robe funds, separate cloth accounts | | | | pacceka + cīvara + cetāpana | kammadhāraya | |
 | paccekacīvarāni | noun | nt acc pl of paccekacīvara, comp | | individual robes | | | | pacceka + cīvara | kammadhāraya | |
@@ -44,7 +44,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------ | :------------------ | :---------------------------- | :------------------ | :------------------------ | :---------------- | :------------------------ |
 | tatra | ind | adv, from ta | | there, in this case, in this regard | there | | | ta + tra | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | pubbe | ind | adv, loc sg of pubba | | before, previously | in front | | | pubba + e | | |
@@ -63,7 +63,7 @@
 | vata | ind | emph | | indeed, truly | | | | | | |
 | maṃ | pron | 1st acc sg of ahaṃ | | to me, for me, me | me | | | | | |
 | āyasmanto | noun | masc voc pl of āyasmant | | venerables | having long life | | | āyas + mant | | |
-| imehi | pron | nt instr pl of ima |  | with these |  |  |  |  |  |  |
+| imehi | pron | nt instr pl of ima | | with these | | | | | | |
 | paccekacīvaracetāpanehi | noun | nt isntr pl of paccekacīvaracetāpana, comp | | with individual robe funds, separate cloth accounts | | | | pacceka + cīvara + cetāpana | kammadhāraya | |
 | evarūpaṃ | adj | nt acc sg of evarūpa | | such, like this, of such quality | such form | | | eva + rūpa | | |
 | vā | ind | conj | | or, either or | | | | | | |

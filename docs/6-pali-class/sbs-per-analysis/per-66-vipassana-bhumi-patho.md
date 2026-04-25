@@ -7,7 +7,7 @@ pañcakkhandhā: rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakk
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| viññāṇakkhandho. |  |  |  |
+| viññāṇakkhandho. | | | |
 | pañcakkhandhā: | noun | masc.nom.pl | five aggregates |
 | rūpakkhandho, | noun | masc.nom.sg | aggregate of form, combination of matter |
 | vedanākkhandho | noun | masc.nom.sg | aggregate of sensations, combination of feelings |
@@ -22,20 +22,20 @@ dvādas'āyatanāni: cakkhv-āyatanaṃ, rūp'āyatanaṃ, sot'āyatanaṃ, sadd
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| dvādasa- | adj |  | twelve (12) |
+| dvādasa- | adj | | twelve (12) |
 | āyatanāni | noun | nt.nom.pl | sense organ, sense field, bases |
-| cakkhu- | noun |  | eye |
-| rūpa- | noun |  | (object of the eye) material form, shape, sight |
-| sota- | noun |  | ear |
-| sadda- | noun |  | sound |
-| ghāna- | noun |  | nose |
-| gandha- | noun |  | smell |
-| jivhā- | noun |  | tongue |
-| rasa- | noun |  | taste, flavor |
-| kāya- | noun |  | body |
-| phoṭṭhabba- | noun |  | touch, physical sensation |
-| mano- | noun |  | mind |
-| dhamma- | noun |  | mind-object, mental phenomena |
+| cakkhu- | noun | | eye |
+| rūpa- | noun | | (object of the eye) material form, shape, sight |
+| sota- | noun | | ear |
+| sadda- | noun | | sound |
+| ghāna- | noun | | nose |
+| gandha- | noun | | smell |
+| jivhā- | noun | | tongue |
+| rasa- | noun | | taste, flavor |
+| kāya- | noun | | body |
+| phoṭṭhabba- | noun | | touch, physical sensation |
+| mano- | noun | | mind |
+| dhamma- | noun | | mind-object, mental phenomena |
 
 **12 bases: the eye-base, the form base, the ear-base, the sound-base, the nose-base, the odour-base, the tongue-base, the flavor-base, the body-base, the tangible-base, the mind-base, the mind-object base.**
 
@@ -63,25 +63,25 @@ bāvīsat'indriyāni — cakkhu'ndriyaṃ, sot'indriyaṃ, ghān'indriyaṃ, jiv
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| bāvīsati- | adj |  | twenty-two (22) |
+| bāvīsati- | adj | | twenty-two (22) |
 | indriyāni | noun | nt.nom.pl | faculties, mental faculties, lit. belonging to Indra |
-| itthī- | noun |  | woman, female |
-| purisa- | noun |  | man |
-| jīvita- | noun |  | life, life span |
-| sukha- | noun |  | ease, comfort, happiness, pleasure |
-| dukkha- | noun |  | discomfort, suffering, pain, unease, something unsatisfactory, problem, trouble |
-| somanassa | noun |  | (mental) pleasure, happiness |
-| domanassa- | noun |  | (mental) suffering, distress, dissatisfaction |
-| upekkhā- | noun |  | mental poise, mental balance, equanimity, composure |
-| saddhā- | noun |  | faith, confidence |
-| viriya- | noun |  | effort, energy, might, power |
-| sati- | noun |  | memory, mindfulness, presence, awareness |
-| samādhi- | noun |  | perfect peace of mind, stability of mind, stillness of mind |
-| paññā- | noun |  | wisdom, knowledge, intelligence, intellect understanding, insight |
-| anaññāta- | pp |  | not understood, not known |
+| itthī- | noun | | woman, female |
+| purisa- | noun | | man |
+| jīvita- | noun | | life, life span |
+| sukha- | noun | | ease, comfort, happiness, pleasure |
+| dukkha- | noun | | discomfort, suffering, pain, unease, something unsatisfactory, problem, trouble |
+| somanassa | noun | | (mental) pleasure, happiness |
+| domanassa- | noun | | (mental) suffering, distress, dissatisfaction |
+| upekkhā- | noun | | mental poise, mental balance, equanimity, composure |
+| saddhā- | noun | | faith, confidence |
+| viriya- | noun | | effort, energy, might, power |
+| sati- | noun | | memory, mindfulness, presence, awareness |
+| samādhi- | noun | | perfect peace of mind, stability of mind, stillness of mind |
+| paññā- | noun | | wisdom, knowledge, intelligence, intellect understanding, insight |
+| anaññāta- | pp | | not understood, not known |
 | ñassāmi-iti- | verb | fut.1.sg | I will understand; know” |
-| aññā- | noun |  | gnosis, spiritual insight, enlightenment |
-| aññātāvī- | noun |  | one who knows or has insight |
+| aññā- | noun | | gnosis, spiritual insight, enlightenment |
+| aññātāvī- | noun | | one who knows or has insight |
 
 **twenty-two faculties: the eye faculty, ear faculty, nose faculty, tongue faculty, body faculty, mind faculty, faculty of femininity, faculty of masculinity, life faculty, pleasure faculty, pain faculty, happiness faculty, displeasure faculty, equanimity faculty, conviction faculty, energy faculty, mindfulness faculty, concentration faculty, wisdom faculty, the I am knowing the unknown' faculty, knowledge faculty, the faculty of one with complete knowledge.**
 
@@ -91,10 +91,10 @@ cattāri ariya-saccāni: dukkhaṃ ariya-saccaṃ, dukkha-samudayo ariya-sacca�
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | cattāri | adj | nt.nom.pl | four (4) |
-| dukkhaṃ |  | noun | nt.ac.s discomfort, suffering, pain, unease, something unsatisfactory, problem, trouble |
+| dukkhaṃ | | noun | nt.ac.s discomfort, suffering, pain, unease, something unsatisfactory, problem, trouble |
 | ariyasaccaṃ | noun | nt.nom.sg | truth of the Buddha, noble truth |
 | dukkhasamudayo | noun | masc.nom.sg | arising of suffering, source of suffering |
-| dukkhanirodho |  | noun | m.n.s cessation of suffering, disappearance of suffering |
+| dukkhanirodho | | noun | m.n.s cessation of suffering, disappearance of suffering |
 | dukkhanirodhagāminī | noun | fem.nom.sg | leading to the extinction of suffering |
 | paṭipadā | noun | fem.nom.sg | path, way, method |
 
@@ -130,15 +130,15 @@ vedanā-paccayā taṇhā; taṇhā-paccayā upādānaṃ; upādāna-paccayā bh
 | taṇhā | noun | fem.nom.sg | craving, desire; lit: thirst |
 | taṇhāpaccayā | noun | masc.abl.sg | from craving as condition |
 | upādānaṃ | noun | nt.nom.sg | grasping, clinging |
-| upādānapaccayā |  |  | from grasping as condition |
+| upādānapaccayā | | | from grasping as condition |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
 | bhavapaccayā | noun | masc.abl.sg | from becoming as condition |
 | jāti | noun | fem.nom.sg | birth |
 | jātipaccayā | noun | masc.abl.sg | from birth as condition |
 | jarāmaraṇaṃ | noun | nt.nom.sg | aging and death |
-| soka- | noun |  | grief, sorrow, sadness |
-| parideva- | noun |  | mourning, lament, wail, cry |
-| dukkhadomanass- | noun |  | pain and stress, physical pain and mental suffering |
+| soka- | noun | | grief, sorrow, sadness |
+| parideva- | noun | | mourning, lament, wail, cry |
+| dukkhadomanass- | noun | | pain and stress, physical pain and mental suffering |
 | upāyāsā | noun | masc.nom.pl | afflictions, agitations, troubles |
 | sambhavanti | verb | pr.3.pl | are produced, come together, arise together |
 
@@ -148,7 +148,7 @@ evam'etassa kevalassa dukkhakkhandhassa samudayo hoti.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evaṃ- | ind |  | thus, this, like this, just as, such |
+| evaṃ- | ind | | thus, this, like this, just as, such |
 | etassa | pron | masc.gen.sg | of this |
 | kevalassa | adj | masc.gen.sg | of whole, altogether, total, entire |
 | dukkhakkhandhassa | noun | masc.gen.sg | of heap of suffering, mountain of suffering |
@@ -163,8 +163,8 @@ saḷ-āyatana-nirodhā, phassa-nirodho, phassa-nirodhā, vedanā-nirodho, vedan
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | avijjāya | noun | fem.gen.sg | of ignorance |
-| tv'eva | ind |  | however, but, rather, rather than |
-| asesa-virāga-nirodhā | m.abl.s |  | from complete fading away and ending from remainderless dispassion and cessation |
+| tv'eva | ind | | however, but, rather, rather than |
+| asesa-virāga-nirodhā | m.abl.s | | from complete fading away and ending from remainderless dispassion and cessation |
 | nirodho | noun | masc.nom.sg | ending, termination, cessation, finishing |
 | nirujjhanti | verb | pr.3.pl | they finish, stop, cease, vanish, dissolve |
 

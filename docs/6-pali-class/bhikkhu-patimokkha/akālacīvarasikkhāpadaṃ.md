@@ -34,7 +34,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :----------------------------------- | :------------------ | :-------------- | :--------- | :-------------------- | :---------------- | :------------------------ |
-| no | ind | neg |  | not |  |  |  |  |  |  |
+| no | ind | neg | | not | | | | | | |
 | cassa | comp | sandhi, ind + opt | | if it would be | | | | ce + assa | | |
 | - ce | ind | cond | | if | | | | | | |
 | - assa 2 | verb | opt 3rd sg of atthi | +nom | should be; could be | | √as (be) | | √as + a | | |
@@ -42,7 +42,7 @@
 | māsaparamaṃ | ind | adv, acc sg of māsaparama | | for one month at the most | | | | māsa + parama + aṃ | abyayībhāva | māsa + paramaṃ |
 | - māsa | noun | masc, from mināti | | month | measure | √mā (measure) | | √mā + sa | | |
 | - paramaṃ | ind | adv, acc sg of parama | | at the most, for a maximum of | | | | para + ma + aṃ | | |
-| tena | pron | masc instr sg of ta |  | by him; by that |  |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | taṃ | pron | masc nom sg of ta | | that | | | | | | |
 | cīvaraṃ | noun | nt nom sg of cīvara | | robe, robe-cloth | cloth | | | | | |
@@ -58,7 +58,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :---------------------------------------------------------- | :--------------- | :------------------------------ | :------------------ | :------------------------ | :---------------- | :------------------------ |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | nikkhipeyya | verb | opt 3rd sg, from nikkhipati | | he should keep, store | throw down | √khip (throw) | √khip + a > khipa | ni + khipa + ti | | |
 | satiyāpi | comp | sandhi, prp + ind | | even when | | | | satiyā + api | | |

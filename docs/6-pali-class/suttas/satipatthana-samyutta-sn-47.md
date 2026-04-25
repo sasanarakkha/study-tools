@@ -61,7 +61,7 @@ sato, bhikkhave, bhikkhu vihareyya sampajāno. ayaṃ vo amhākaṃ anusāsanī.
 
 kathañca, bhikkhave, bhikkhu sampajāno hoti? idha, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti. evaṃ kho, bhikkhave, bhikkhu sampajānakārī hoti. sato, bhikkhave, bhikkhu vihareyya sampajāno. ayaṃ vo amhākaṃ anusāsanīti.
 
-|  | vihareyya |  |  |  |  |
+| | vihareyya | | | | |
 | --- | --- | --- | --- | --- | --- |
 | 12712 | ālokite | | | | |
 | 69076 | vilokite | | | | |

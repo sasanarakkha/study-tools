@@ -33,7 +33,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------- | :------- | :---------------------------------------------------------- | :-------------------- | :------------------------------ | :---------------- | :------------------------ | :---------------- | :------------------------ |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | hareyya | verb | opt 3rd sg of harati | | he could carry | | √har (carry) | √har + a > hara | hara + ti | | |
 | asantepi | comp | sandhi, prp + ind | | even when there is not | even when not being | | | asante + api | | |

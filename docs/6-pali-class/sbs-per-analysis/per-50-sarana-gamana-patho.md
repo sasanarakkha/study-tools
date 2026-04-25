@@ -15,7 +15,7 @@ dutiyam'pi buddhaṃ saraṇaṃ gacchāmi. dutiyam'pi dhammaṃ saraṇaṃ gac
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| dutiyam'pi | adv+ind |  | for the second time |
+| dutiyam'pi | adv+ind | | for the second time |
 
 **For the second time, to the Buddha I go for refuge. For the second time, to the Dhamma I go for refuge. For the second time, to the Saṅgha I go for refuge.**
 
@@ -23,7 +23,7 @@ tatiyam'pi buddhaṃ saraṇaṃ gacchāmi. tatiyam'pi dhammaṃ saraṇaṃ gac
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| tatiyam'pi | adv+ind |  | for the third time |
+| tatiyam'pi | adv+ind | | for the third time |
 
 **For the third time, to the Buddha I go for refuge. For the third time, to the Dhamma I go for refuge. For the third time, to the Saṅgha I go for refuge.**
 

@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------------------------ | :-------------------------- | :----------------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | chattapāṇissa | adj | masc dat sg of chattapāṇī, comp | | to (one) with an sunshade in the hand | to a (person with) covering in hand | | | chatta + pāṇī | kammadhāraya | chatta + pāṇī |
 | - chatta | noun | nt | | sunshade, umbrella | covering | √chad (cover, conceal) | | √chad + ra | | |
 | - pāṇissa | adj | masc dat sg of pāṇī | | to (someone with something) in hand | to handed | | | pāṇi + ī | | |

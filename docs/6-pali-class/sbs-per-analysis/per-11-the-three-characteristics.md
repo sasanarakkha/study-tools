@@ -13,7 +13,7 @@ atha nibbindati dukkhe, esa maggo visuddhiyā.
 | sabbe | adj | masc.nom.pl | all; every; whole; entire |
 | saṅkhārā | noun | masc.nom.pl | conditioned things, constructions, fabrications formations |
 | aniccā | adj | masc.nom.pl | not stable; impermanent |
-| iti | ind |  | thus, ” |
+| iti | ind | | thus, ” |
 | yadā | ind | adv | whenever; when |
 | paññāya | verb | abs | knowing, understanding (or) noun f.ins.s with understanding |
 | passati | verb | pr.3.sg | he sees |
@@ -70,12 +70,12 @@ athāyaṃ itarā pajā – tīram-evānudhāvati
 | ye | pron | masc.nom.pl | those who |
 | janā | noun | masc.nom.pl | the people |
 | pāragāmino | noun | masc.nom.pl | who going beyond, cross over, to the other shore |
-| atha- | ind |  | then; and also, but |
+| atha- | ind | | then; and also, but |
 | ayaṃ | pron | fem.nom.sg | this, the |
 | itarā | pron | fem.nom.sg | rest, common, ordinary |
 | pajā | noun | fem.nom.sg | people, population, generation, mankind |
 | tīram- | noun | nt | shore, bank |
-| eva- | ind |  | only, even, just |
+| eva- | ind | | only, even, just |
 | anudhāvati | verb | pr.3.sg | run along, run up and down, run back and forth |
 
 **Few are those among people, who are going to the other shore, but the rest of the people are just running along (this) shore.**
@@ -87,14 +87,14 @@ te janā pāram-essanti – maccu-dheyyaṃ sud'uttaraṃ
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | those who, whoever |
-| ca | ind |  | and |
-| kho | ind |  | indeed; really; surely |
+| ca | ind | | and |
+| kho | ind | | indeed; really; surely |
 | sammadakkhāte | adj | masc.loc.sg | in well preached , well-taught |
 | dhamme | noun | masc.loc.sg | in Dhamma, |
 | dhammānuvattino | noun | masc.nom.pl | following the Dhamma, acting according to the teaching |
 | te | pron | masc.nom.pl | those |
 | janā | noun | masc.nom.pl | men, people, population |
-| pāram- | ind |  | beyond, on the other side (of) |
+| pāram- | ind | | beyond, on the other side (of) |
 | essanti | verb | fut.3.pl | they will go (to), will come (to), will reach |
 | maccudheyyaṃ | noun | masc.acc.sg | realm of death, sphere of death, power of death |
 | sud'uttaraṃ | adj | masc.acc.sg | extremely difficult to cross, very hard to escape |
@@ -117,7 +117,7 @@ okā anokam-āgamma – viveke yattha dūramaṃ
 | anokam- | noun | nt.acc.sg | homelessness; independence |
 | āgamma | verb | ger | coming (to), arriving (at), meeting (with) |
 | viveke | noun | masc.loc.sg | in seclusion, solitude |
-| yattha | ind |  | wherever, where |
+| yattha | ind | | wherever, where |
 | dūramaṃ | adj | nt.acc.sg | difficult to delight (in), hard to enjoy |
 
 **Abandoning the bad states, a wise man should develop the good states. Coming from home into homelessness, into solitude, where it is difficult to (find) delight.**
@@ -127,7 +127,7 @@ tatr'ābhiratim'iccheyya – hitvā kāme akiñcano
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| tatra- | ind |  | there, in that place |
+| tatra- | ind | | there, in that place |
 | abhiratim- | noun | fem.acc.sg | pleasure, delight, contentment, happiness |
 | iccheyya | verb | opt.3.sg | should wish, want, desire |
 | hitvā | verb | abs | having left, having left behind, having abandoned |

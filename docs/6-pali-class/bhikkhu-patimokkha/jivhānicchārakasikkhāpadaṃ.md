@@ -5,7 +5,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :--------------------------- | :-------------------- | :------------------ | :------------------------ | :---------------- | :------------------------ |
 | SE 49 | | | | | | | | | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | jivhānicchārakaṃ | ind | adv, nt acc sg of jivhānicchāraka | | sticking out the tongue | making the tongue move out | | | jivhā + nicchāraka + aṃ | | |
 | - jivhā | noun | fem | | tongue | | | | | | |
 | - nicchārakaṃ | ind | adv, nt acc sg of nicchāraka | | sticking out | causing to move out | √car (walk, behave) | √car + *e > chāre | nī + chāre + aka + aṃ | | |

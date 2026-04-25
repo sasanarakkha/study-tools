@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------ | :---------------- | :------- | :--------------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | piṇḍukkhepakaṃ | ind | adv, nt acc sg of piṇḍukkhepaka | | tossing food | throwing up lumps | | | piṇḍa + ukkhepa + aka + aṃ | | |
 | - piṇḍa | noun | masc | | lump of food | | | | | | |
 | - ukkhepakaṃ | ind | adv, nt acc sg of ukkhepaka | | throwing up, tossing up | | √khip (throw) | | ud + √khip + *aka + aṃ | | |

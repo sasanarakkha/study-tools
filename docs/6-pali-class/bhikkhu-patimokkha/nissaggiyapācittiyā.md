@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :------------------------------------------ | :------------------- | :------------------------------ | :-------------------------- | :------------------------ | :---------------- | :------------------------ |
-| ime | pron | masc nom pl of ima |  | these |  |  |  |  |  |  |
+| ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
 | tiṃsa | card | fem nom sg of tiṃsā | | thirty | | | | ti + dasa | | |
@@ -60,7 +60,7 @@
 | pācittiyā | adj | masc nom pl of pācittiya | | requiring confession, involving expiation | | | | | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | niṭṭhitā | pp | masc nom pl of niṭṭhita | | finished | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
-| The cases involving expiation with forfeiture are finished |  |  |  |  |  |  |  |  |  |  |
+| The cases involving expiation with forfeiture are finished | | | | | | | | | | |
 
 
 [← previous](dutiyāniyatasikkhāpada.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=nissaggiyap%C4%81cittiy%C4%81) | [next →](kaṭhinasikkhāpadaṃ.md)

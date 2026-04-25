@@ -6,9 +6,9 @@ handa mayaṃ dhammābhitthutiṃ karomase
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| handa | ind |  | well then; now |
+| handa | ind | | well then; now |
 | mayaṃ | pron | 1.nom.pl | we |
-| dhamma- | noun |  | the Teaching |
+| dhamma- | noun | | the Teaching |
 | abhitthutiṃ | noun | fem.acc.sg | high praise |
 | karomase | verb | imp.ref.pr.1.pl | let us make; let us act; we must perform |
 

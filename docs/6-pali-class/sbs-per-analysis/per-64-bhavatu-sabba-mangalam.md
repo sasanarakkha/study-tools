@@ -7,22 +7,22 @@ rakkhantu sabba-devatā,
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| sabba-buddh-ānubhāvena, |  |  |  |
+| sabba-buddh-ānubhāvena, | | | |
 
 **sadā sotthī bhavantu te.**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhavatu | verb | imp.3.sg | may it be |
-| sabba- | adj |  | all; every; whole; entire |
+| sabba- | adj | | all; every; whole; entire |
 | maṅgalaṃ | noun | nt.nom.sg | blessing, luck, bliss |
 | rakkhantu | verb | imp.3.sg | may they protect; guard |
-| sabba- | adj |  | all; every; whole; entire |
+| sabba- | adj | | all; every; whole; entire |
 | devatā | noun | fem.nom.pl | deities |
-| sabba- | adj |  | all; every; whole; entire |
-| buddha- | noun |  | the Buddha |
+| sabba- | adj | | all; every; whole; entire |
+| buddha- | noun | | the Buddha |
 | ānubhāvena | noun | masc.ins.sg | by the power, splendour, majesty |
-| sadā | ind |  | ever; always |
+| sadā | ind | | ever; always |
 | sotthī | noun | fem.nom.pl | well-being; safety; blessing |
 | bhavantu | verb | imp.3.pl | may they be |
 | te | pron | 1.dat.sg | for you |

@@ -33,7 +33,7 @@ sabbo panāyaṃ piṇḍapāto ajigucchanīyo
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbo | adj | masc.nom.sg | all |
-| pana- | ind |  | and; yet; but; moreover. |
+| pana- | ind | | and; yet; but; moreover. |
 | ayaṃ | pron | masc.nom.sg | this |
 | piṇḍapāto | noun | masc.nom.sg | alms food, alms round, lit. lump dropping |
 | a'jigucchanīyo | ptp | masc.nom.sg | should not be shunned, should not be disgusted,should not be detested |
@@ -45,10 +45,10 @@ imaṃ pūti-kāyaṃ patvā ativiya jigucchanīyo jāyati
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | imaṃ | pron | masc.acc.sg | this |
-| pūti- | adj |  | rotten; putrid; stinking |
+| pūti- | adj | | rotten; putrid; stinking |
 | kāyaṃ | noun | masc.acc.sg | body |
 | patvā | verb | abs | having reached; attained or obtained |
-| ativiya | ind |  | very much |
+| ativiya | ind | | very much |
 | jigucchanīyāni | ptp | nt.nom.pl | should be shunned, should be disgusted should be detested |
 | jāyanti | verb | pr.3.pl | born; arises |
 

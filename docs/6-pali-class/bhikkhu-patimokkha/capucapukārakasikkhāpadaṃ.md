@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------------- | :------- | :--------------------------------------------------- | :---------------------- | :---------------- | :------- | :----------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | capucapukārakaṃ | ind | adv, nt acc sg of capucapukāraka | | munching loudly; making a chomping sound | making capucapu sound | | | capucapu + kāraka + aṃ | | |
 | - capucapu | ind | onom | | chomping sound; munching sound; lip-smacking sound | | | | capu + capu | | |
 | - kārakaṃ | adj | nt acc sg of kāraka | | making, doing | | √kar (do, make) | | √kar + *aka + aṃ | | |

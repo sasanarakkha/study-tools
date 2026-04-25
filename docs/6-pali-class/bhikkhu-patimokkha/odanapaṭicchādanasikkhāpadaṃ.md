@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :----------------------- | :------------------- | :------------------------ | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sūpaṃ | noun | masc acc sg of sūpa | | dahl; lentil curry | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | byañjanaṃ | noun | nt acc sg of byañjana | | curry | making distinct | √añj (distinguish) | | vi + √añj + ana | | |

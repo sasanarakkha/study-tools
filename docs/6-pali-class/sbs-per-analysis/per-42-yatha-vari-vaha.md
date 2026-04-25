@@ -7,8 +7,8 @@ yathā vāri-vahā pūrā paripūrenti sāgaraṃ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| yathā | ind |  | like, as |
-| vāri- | noun |  | water |
+| yathā | ind | | like, as |
+| vāri- | noun | | water |
 | vahā | noun | masc.nom.pl | currents, streams, lit: carrying |
 | pūrā | adj | masc.nom.pl | full (of), filled (with) |
 | paripūrenti | verb | pr.3.pl | they entirely fill up, completely suffuse |
@@ -20,8 +20,8 @@ evam'eva ito dinnaṃ petānaṃ upakappati
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evam'eva | ind |  | similarly, in the same way, so too, just so |
-| ito | ind |  | from this (place), from here |
+| evam'eva | ind | | similarly, in the same way, so too, just so |
+| ito | ind | | from this (place), from here |
 | dinnaṃ | adj | nt.nom.sg | given, offered |
 | petānaṃ | noun | masc.dat.pl | for departed, deceased, dead |
 | upakappati | verb | pr.3.sg | is beneficial to, is serve for, is accrue |
@@ -36,8 +36,8 @@ icchitaṃ patthitaṃ tumhaṃ khippam'eva samijjhatu
 | icchitaṃ | pp | nt.nom.sg | desired, wished; loved; allowed; prescribed |
 | patthitaṃ | pp | nt.nom.sg | wished for (by), sought after (by), desired (by) |
 | tumhaṃ | pron | 2.gen.pl | your |
-| khippaṃ- | ind |  | quickly, rapidly |
-| eva | ind |  | only, just, so, even |
+| khippaṃ- | ind | | quickly, rapidly |
+| eva | ind | | only, just, so, even |
 | samijjhatu | verb | imp.3.sg | may it achieves, succeeds, prospers |
 
 **May your desires and wishes be succeeds only quickly.**
@@ -58,7 +58,7 @@ cando paṇṇa-raso yathā
 | --- | --- | --- | --- |
 | cando | noun | masc.nom.sg | moon |
 | paṇṇa-raso | adj | masc.nom.sg | on fifteenth day, i.e. on full-moon day |
-| yathā | ind |  | like, as |
+| yathā | ind | | like, as |
 
 **Like the moon on the full-moon day.**
 
@@ -68,7 +68,7 @@ maṇi joti-raso yathā
 | --- | --- | --- | --- |
 | maṇi | noun | masc.nom.sg | jewel, gemstone, crystal |
 | joti-raso | noun | masc.nom.sg | certain jewel, wishing stone, wish-fulfilling gem |
-| yathā | ind |  | like, as |
+| yathā | ind | | like, as |
 
 **Like a wishing gemstone.**
 
@@ -76,7 +76,7 @@ sabb'ītiyo vivajjantu
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| sabba- | adj |  | all |
+| sabba- | adj | | all |
 | ītiyo | noun | fem.nom.pl | ills, calamities, plagues, distresses |
 | vivajjantu | verb | imp.3.pl | may they be avoided, abandoned, forsaked |
 
@@ -86,7 +86,7 @@ sabba-rogo vinassatu
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| sabba- | adj |  | all |
+| sabba- | adj | | all |
 | rogo | noun | masc.nom.sg | disease, illness |
 | vinassatu | verb | pr.3.sg | may disappear, vanish, perish |
 
@@ -96,7 +96,7 @@ mā te bhavatv'antarāyo
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| mā | ind |  | do not, may one not, don't let |
+| mā | ind | | do not, may one not, don't let |
 | te | pron | 2.dat.sg | for you |
 | bhavatu- | verb | imp.3.sg | may be, may exist, become |
 | antarāyo | noun | masc.nom.sg | obstacle, danger, lit. coming in-between |
@@ -121,7 +121,7 @@ abhivādana-sīlissa niccaṃ vuḍḍhāpacāyino cattāro dhammā vaḍḍhant
 | abhivādana- | noun | nt | salutation; bowing down, respectful greeting |
 | sīlissa | adj | masc.dat.sg | in the habit of, accustomed to, of such nature, of such character |
 | niccaṃ | ind | adv | constantly; always; perpetually |
-| vuḍḍha- | noun |  | old; venerable |
+| vuḍḍha- | noun | | old; venerable |
 | apacāyino | adj | masc.dat.sg | honoring, paying homage, revering |
 | cattāro | adj | masc.nom.pl | four |
 | dhammā | noun | masc.nom.pl | qualities |
@@ -135,22 +135,22 @@ abhivādana-sīlissa niccaṃ vuḍḍhāpacāyino cattāro dhammā vaḍḍhant
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| [Trad] |  |  |  |
+| [Trad] | | | |
 
 **bhavatu sabba-maṅgalaṃ rakkhantu sabba-devatā sabba-buddh'ānubhāvena sadā sotthī bhavantu te**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhavatu | verb | imp.3.sg | may it be |
-| sabba- | adj |  | all; every; whole; entire |
+| sabba- | adj | | all; every; whole; entire |
 | maṅgalaṃ | noun | nt.nom.sg | blessing, luck, bliss |
 | rakkhantu | verb | imp.3.sg | may they protect; guard |
-| sabba- | adj |  | all; every; whole; entire |
+| sabba- | adj | | all; every; whole; entire |
 | devatā | noun | fem.nom.pl | deities |
-| sabba- | adj |  | all; every; whole; entire |
-| buddha- | noun |  | the Buddha |
+| sabba- | adj | | all; every; whole; entire |
+| buddha- | noun | | the Buddha |
 | ānubhāvena, | noun | masc.ins.sg | by the power, splendor, majesty |
-| sadā | ind |  | ever; always |
+| sadā | ind | | ever; always |
 | sotthī | noun | fem.nom.sg | well-being; safety; blessing |
 | bhavantu | verb | imp.3.pl | may they be |
 | te | pron | 1.dat.sg | for you |

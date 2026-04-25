@@ -33,12 +33,12 @@ matt-aṭṭhiyaṃ abhuñjiṃsu, santuṭṭhā itarītare.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| sītavātaparittāṇaṃ | nt.n.s |  | protection from cold and wind |
-| \>sīta- | noun |  | cool; cold. |
-| \>vāta- | noun |  | wind |
+| sītavātaparittāṇaṃ | nt.n.s | | protection from cold and wind |
+| \>sīta- | noun | | cool; cold. |
+| \>vāta- | noun | | wind |
 | \>parittāṇaṃ | noun | nt.nom.sg | protection, refuge, safety |
-| hirikopīnachādanaṃ | nt.n.s |  | covering that which arouses shyness |
-| \>hirikopīna- | noun |  | that which arouses shyness, private parts |
+| hirikopīnachādanaṃ | nt.n.s | | covering that which arouses shyness |
+| \>hirikopīna- | noun | | that which arouses shyness, private parts |
 | \>chādanaṃ | noun | nt.nom.sg | covering; clothing |
 
 **(their robs) were protection from cold and wind, and covering of the private parts**
@@ -46,7 +46,7 @@ matt-aṭṭhiyaṃ abhuñjiṃsu, santuṭṭhā itarītare.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mattaṭṭhiyaṃ | ind | adv | in moderation; moderately; lit. measure seeking |
-| \>mattā- | noun |  | moderation |
+| \>mattā- | noun | | moderation |
 | \>aṭṭhiyaṃ | adj | masc.acc.sg | desirous of; seeking for, having a purpose of |
 | abhuñjiṃsu | verb | aor.3.pl | they ate |
 | santuṭṭhā | pp | masc.nom.pl | satisfied, pleased, content |
@@ -60,27 +60,27 @@ yāpan'atthaṃ abhuñjiṃsu, agiddhā n'ādhimucchitā.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | paṇītaṃ | adj | nt.nom.sg | (what is) excellent; delicious |
-| yadi | ind |  | if, even, even if, perhaps |
-| vā | ind |  | or, either |
+| yadi | ind | | if, even, even if, perhaps |
+| vā | ind | | or, either |
 | lūkhaṃ | adj | nt.nom.sg | (what is) rough, coarse, poor quality |
 | appaṃ | adj | nt.nom.sg | (what is) small; little; insignificant |
-| vā | ind |  | or, either |
-| yadi | ind |  | if, even, even if, perhaps |
-| vā | ind |  | or, either |
+| vā | ind | | or, either |
+| yadi | ind | | if, even, even if, perhaps |
+| vā | ind | | or, either |
 | bahuṃ | adj | nt.nom.sg | much; many |
 
 **if excellent or even poor quality, if much or only a little**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| yāpanatthaṃ |  |  |  |
+| yāpanatthaṃ | | | |
 | yāpanatthaṃ | ind | adv | to sustain oneself; to keep going; lit. for the sake of sustenance |
-| \> yāpana- | noun |  | nourishment, sustenance, preservation, upkeep, support (of the body), lit. cause to go |
+| \> yāpana- | noun | | nourishment, sustenance, preservation, upkeep, support (of the body), lit. cause to go |
 | \> atthaṃ | noun | masc.acc.sg | purpose, use, function |
 | abhuñjiṃsu, | verb | aor.3.pl | they ate |
 | agiddhā | adj | masc.nom.pl | without greed, without desire |
-| nādhimucchitā. |  |  |  |
-| \>na- | neg |  | not |
+| nādhimucchitā. | | | |
+| \>na- | neg | | not |
 | \>adhimucchitā | pp | masc.nom.pl | highly greedy, fixated on, infatuated with |
 
 **they ate for the purpose of nourishment (of the body), without greed and without infatuation.**
@@ -93,18 +93,18 @@ na bāḷhaṃ ussukā āsuṃ, yathā te āsavakkhaye.
 | jīvitānaṃ | noun | nt.gen.pl | of life, living, livelihood |
 | parikkhāre | noun | masc.acc.pl | requisites; accessories |
 | bhesajje | noun | nt.acc.pl | medicines |
-| atha | ind |  | then, also, and so, after that |
+| atha | ind | | then, also, and so, after that |
 | paccaye | noun | nt.acc.pl | supports, requisites, necessities |
 
 **requirements of life, medicines and also (other) supports**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| na | neg |  | not |
+| na | neg | | not |
 | bāḷhaṃ | ind | adv | strongly; excessively; overly |
 | ussukā | adj | masc.nom.pl | zealously desiring; ambitious; anxiously striving; anxious; agitated |
 | āsuṃ | verb | aor.3.pl | they were |
-| yathā | ind |  | as; like; in relation to; just as |
+| yathā | ind | | as; like; in relation to; just as |
 | te | pron | masc.nom.pl | those, they |
 | āsavakkhaye | adj | masc.acc.pl | extinction of the effluents, defilements |
 
@@ -119,7 +119,7 @@ vivekam'anubrūhantā, vihaṃsu tap'parāyanā.
 | rukkhamūlesu | noun | nt.loc.pl | nearthe foots of trees |
 | kandarāsu | noun | masc.loc.pl | in grottoes, gorges |
 | guhāsu | noun | fem.loc.pl | in caves; caverns. |
-| ca | conj |  | and |
+| ca | conj | | and |
 
 **in the forest, at the foots of trees, in grottos and caves,**
 
@@ -144,9 +144,9 @@ abyāsekā amukharā, attha-cintā vas'ānugā.
 | niviṭṭhā | adj | masc.nom.pl | established in, settled in, entrenched in |
 | subharā | adj | masc.nom.pl | easy to support |
 | mudū | adj | masc.nom.pl | flexible, pliable, malleable, plastic, soft, mild |
-| atthaddhamānasā | adj |  | not with arrogant mind |
-| \>na- | neg |  | not |
-| \>thaddha- | adj |  | proud, arrogant, selfish; lit. stiff, hard |
+| atthaddhamānasā | adj | | not with arrogant mind |
+| \>na- | neg | | not |
+| \>thaddha- | adj | | proud, arrogant, selfish; lit. stiff, hard |
 | \>mānasā | noun | masc.ins.sg | with mind |
 
 **humble, settled, easy to support and not with arrogant mind**
@@ -156,7 +156,7 @@ abyāsekā amukharā, attha-cintā vas'ānugā.
 | abyāsekā | adj | masc.nom.pl | un-defiled, untouched, unimpaired |
 | amukharā | adj | masc.nom.pl | not garrulous; not talkative |
 | atthacintā | adj | masc.nom.pl | intent on the goal; (or) thinking of the meaning |
-| attha- |  |  | goal, welfare, benefit |
+| attha- | | | goal, welfare, benefit |
 | cintā | noun | fem.nom.pl | "the act of thinking", thought |
 | vas'ānugā | adj | masc.nom.pl | obedient (to); subservient (to); under the control (of); subject (to) |
 
@@ -179,10 +179,10 @@ siniddhā tela-dhārā'va, ahosi iriyāpatho.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | siniddhā | pp | masc.nom.pl | smooth, pliable; soft |
-| teladhārāva |  |  | as stream of oil |
+| teladhārāva | | | as stream of oil |
 | \>tela- | noun | nt | oil |
 | \>dhārā- | noun | fem.nom.sg | stream, flow |
-| \>va | ind |  | like, as |
+| \>va | ind | | like, as |
 | ahosi | verb | aor.3.sg | it was |
 | iriyāpatho | noun | masc.nom.sg | way of carrying oneself, range of postures, mode of deportment |
 
@@ -193,8 +193,8 @@ satiṃ upaṭṭhapetvāna, evaṃ gāme munī care.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| yathā | ind |  | as; like; just as. |
-| kaṇṭaka- | noun |  | thorn, thorny |
+| yathā | ind | | as; like; just as. |
+| kaṇṭaka- | noun | | thorn, thorny |
 | ṭ'ṭhānamhi | noun | nt.loc.sg | in place; locality |
 | careyya | verb | opt.3.sg | could, would walk, move |
 | anupāhano | adj | masc.nom.sg | without shoes, barefoot |
@@ -205,7 +205,7 @@ satiṃ upaṭṭhapetvāna, evaṃ gāme munī care.
 | --- | --- | --- | --- |
 | satiṃ | noun | fem.acc.sg | mindfulness |
 | upaṭṭhapetvāna, | verb | abs | having caused to attend, having set up, having made sure is present |
-| evaṃ | ind |  | thus; in this way |
+| evaṃ | ind | | thus; in this way |
 | gāme | noun | masc.loc.sg | in village |
 | munī | noun | masc.nom.sg | sage, monk, hermit |
 | care | verb | opt.3.sg | could walk, should move |
@@ -221,14 +221,14 @@ kiñcāpi pacchimo kālo, phuseyya amataṃ padaṃ.
 | pubbake | adj | masc.acc.pl | ancient, of old, former |
 | yogī | noun | masc.acc.pl | meditators, practitioners |
 | tesaṃ | pron | masc.gen.pl | of them, their |
-| vattam- | noun |  | custom, practice, way of life, behavior |
+| vattam- | noun | | custom, practice, way of life, behavior |
 | anussaraṃ | prp | masc.nom.sg | remembering, recollecting |
 
 **having remembered former meditators, recollecting their behavior**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| kiñcāpi | ind |  | however much, even if, even though |
+| kiñcāpi | ind | | however much, even if, even though |
 | pacchimo | adj | masc.nom.pl | latest, last, final |
 | kālo | noun | masc.nom.sg | time, occasion |
 | phuseyya | verb | opt.3.sg | could touche; reach; attain |

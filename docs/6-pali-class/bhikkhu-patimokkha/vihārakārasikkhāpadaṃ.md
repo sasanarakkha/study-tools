@@ -22,7 +22,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------- | :------ | :------------------------- | :------- | :-------------------------------- | :--------------------------- | :-------------------------- | :----------------------------------- | :------------------------- | :---------------- | :------------------------ |
-| tehi | pron | masc instr pl of ta |  | by these |  |  |  |  |  |  |
+| tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | vatthu | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! |
 | desetabbaṃ | ptp | nt nom sg of desetabba | | should be appointed, designated | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese | dese + tabba | | |
@@ -35,7 +35,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :----------------------------------------------- | :-------------------------------------------------------------------- | :------------------- | :----------------------------------- | :----------------------- | :------------------- | :------------------------ |
 | sārambhe | adj | nt loc sg of sārambha, comp | | on harmful, injurious | in with harm | √rabh (be violent) | √rabh + a > rabha > rambha (irreg) | saṃ > sā + rambha + a | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | vatthusmiṃ | noun | nt loc sg of vatthu | | on a plot, site | | √vas (live) | | √vas + tu | | |
 | aparikkamane | adj | nt loc sg of aparikkamana, neg | | on not accessible, not approachable | in not with walking around | √kam (go) | | na + pari + √kam + ana | | |

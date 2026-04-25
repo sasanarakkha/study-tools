@@ -6,9 +6,9 @@ handa mayaṃ buddhābhitthutiṃ karomase
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| handa | ind |  | well then; now |
+| handa | ind | | well then; now |
 | mayaṃ | pron | 1.nom.pl | we |
-| buddha- | noun |  | the Buddha |
+| buddha- | noun | | the Buddha |
 | abhitthutiṃ | noun | fem.acc.sg | high praise |
 | karomase | verb | ref.pr.1.pl | we do, make, act, perform |
 
@@ -22,7 +22,7 @@ yo so tathāgato arahaṃ sammāsambuddho
 | so | pron | masc.nom.sg | he |
 | tathāgato | noun | masc.nom.sg | such become, realised, being in such a state such gone or such came |
 | arahaṃ | noun | masc.nom.sg | enlightened being, 4th stage of the path, lit. worthy one |
-| sammā- | ind |  | completely, thoroughly, fully, totally perfectly, rightly, correctly |
+| sammā- | ind | | completely, thoroughly, fully, totally perfectly, rightly, correctly |
 | sambuddho | noun | masc.nom.sg | one who has thoroughly understood, being enlightened, a Buddha, fully awakened one |
 
 **he, who is the realised, the worthy one, perfectly awakened one,**
@@ -31,16 +31,16 @@ vijjācaraṇa-sampanno, sugato, lokavidū, anuttaro purisadamma-sārathi satth�
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| vijjā- | noun |  | knowledge, wisdom, understanding |
-| caraṇa- | noun |  | behaviour, conduct |
+| vijjā- | noun | | knowledge, wisdom, understanding |
+| caraṇa- | noun | | behaviour, conduct |
 | sampanno | pp | masc.nom.sg | accomplished, fulfilled, completed, become endowed with |
 | sugato | noun | masc.nom.sg | Fortunate One, epithet of the Buddha, lit. well gone |
 | lokavidū | noun | masc.nom.sg | who understands the world; who knows the world; epithet of the Buddha |
 | anuttaro | adj | masc.nom.sg | highest, unsurpassed, unexcelled, superior |
-| purisadamma- | noun |  | person in training; person to be tamed |
+| purisadamma- | noun | | person in training; person to be tamed |
 | sārathi | noun | masc.nom.sg | charioteer, driver, leader |
 | satthā | noun | masc.nom.sg | master, teacher |
-| deva- | noun |  | deity(s), god(s) |
+| deva- | noun | | deity(s), god(s) |
 | manussānaṃ | noun | masc.gen.pl | of humans |
 | buddho | adj | masc.nom.sg | awakened, woke up, understood |
 | bhagavā | adj | masc.nom.sg | fortunate, illustrious, sublime, blessed, happy glorious, auspicious |
@@ -93,7 +93,7 @@ sātthaṃ sabyañjaṇaṃ kevala-paripuṇṇaṃ parisuddhaṃ brahmacariya�
 | --- | --- | --- | --- |
 | sātthaṃ | adj | masc.acc.sg | in meaning, in spirit; with meaning, meaningful |
 | sabyañjanaṃ | adj | masc.acc.sg | in letter; well phrased |
-| kevala- | adj |  | whole, altogether, totally, completly |
+| kevala- | adj | | whole, altogether, totally, completly |
 | paripuṇṇaṃ | pp | masc.acc.sg | completed, perfected, fulfilled, accomplished |
 | parisuddhaṃ | adj | masc.acc.sg | clean, pure, bright |
 | brahmacariyaṃ | noun | nt.acc.sg | spiritual path, holy life, celibacy |

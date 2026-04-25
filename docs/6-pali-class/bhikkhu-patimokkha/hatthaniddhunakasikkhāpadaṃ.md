@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :-------------------- | :------------------ | :------------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | hatthaniddhunakaṃ | ind | adv, nt acc sg of hatthaniddhunaka | | shaking (food) off the hand | hand shaking off | | | hattha + niddhunaka + aṃ | | |
 | - hattha | noun | masc | | hand | | | | | | |
 | - niddhunakaṃ | ind | adv, nt acc sg of niddhunaka | | shaking off | shaking away | √dhū (shake, smoke) | √dhū + nā > dhunā | nī + dhunā + aka + aṃ | | |

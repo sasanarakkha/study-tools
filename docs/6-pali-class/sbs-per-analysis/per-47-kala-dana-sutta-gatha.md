@@ -7,7 +7,7 @@ kāle dadanti sappaññā, vadaññū vītamaccharā. kālena dinnaṃ ariyesu, 
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| kāle | ind |  | at the right time, at the proper time |
+| kāle | ind | | at the right time, at the proper time |
 | dadanti | verb | pr.3.pl | they give, offer, donate |
 | sapaññā | adj | masc.nom.pl | wise, intelligent, lit. with wisdom |
 | vadaññū | adj | masc.nom.pl | generous, giving, liberal |
@@ -30,12 +30,12 @@ ye tattha anumodanti, veyyāvaccaṃ karonti vā. na tena dakkhiṇā onā, te'p
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whoever, whatever, whichever, those who |
-| tattha | ind |  | there, in that place |
+| tattha | ind | | there, in that place |
 | anumodanti | verb | pr.3.pl | they approve (of), appreciate, applaud, are pleased |
 | veyyāvaccaṃ | noun | nt.acc.sg | service, assistance |
 | karonti | verb | pr.3.pl | they make, do |
-| vā | ind |  | or |
-| na | ind |  | not |
+| vā | ind | | or |
+| na | ind | | not |
 | tena | pron | masc.ins.sg | by that |
 | dakkhiṇā | noun | fem.nom.sg | gift, donation |
 | onā | adj | fem.nom.sg | deficient, lacking, wanting |
@@ -49,11 +49,11 @@ tasmā dade appaṭivāna-citto, yattha dinnaṃ mahapphalaṃ. puññāni paral
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| tasmā | ind |  | therefore, that is why, lit. from that |
+| tasmā | ind | | therefore, that is why, lit. from that |
 | dade | verb | opt.3.sg | he should give |
 | appaṭivāna- | adj | with confidence, without regret, lit. not shrinking | back |
 | citto | adj | masc.nom.sg | with mind |
-| yattha | ind |  | wherever, where |
+| yattha | ind | | wherever, where |
 | dinnaṃ | pp | masc.acc.sg | given, offered |
 | mahapphalaṃ | adj | masc.acc.sg | of great fruit, yielding good results |
 | puññāni | noun | nt.nom.pl | merits, good deeds, lit. (mental) purity |

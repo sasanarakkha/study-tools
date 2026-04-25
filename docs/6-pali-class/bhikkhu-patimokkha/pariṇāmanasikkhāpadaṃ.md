@@ -11,7 +11,7 @@
 | saṅghikaṃ | adj | masc acc sg of saṅghika | | belonging to the community | related to community | √ghaṭ (join together) | | saṃ + √ghaṭ + a + ika | | |
 | lābhaṃ | noun | masc acc sg of lābha | | gain, acquisition | get | √labh (get) | | √labh + *a | | |
 | pariṇataṃ | adj | masc acc sg of pariṇata | | destined for, allocated | bent completely | √nam (bend) | | pari + √nam + ta | | |
-| puggalassa | noun | masc dat sg of puggala |  | to an individual |  |  |  |  |  |  |
+| puggalassa | noun | masc dat sg of puggala | | to an individual | | | | | | |
 | pariṇāmeyya | verb | opt 3rd sg of pariṇāmeti | | he would appropriate, transfer | cause to bend | √nam (bend) | √nam + *e > ṇāme | pari + ṇāme + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 

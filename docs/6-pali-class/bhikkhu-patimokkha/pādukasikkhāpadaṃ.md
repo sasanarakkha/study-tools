@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------------------- | :----------------------- | :------- | :----------------- | :------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | pādukārūḷhassa | adj | masc dat sg of pādukārūḷha, comp | | to (one) wearing shoes | to mounted shoes | | | pādukā + ārūḷha | locative tappurisa | pādukāyaṃ + ārūḷha |
 | - pādukā | noun | fem | | shoes | | √pad (go, step) | | √pad + *a + ukā | | |
 | - ārūḷhassa | pp | masc dat sg of ārūḷha | | to (a person) wearing | to a (person who has) ascended | √ruh (ascend, grow) | | ā + √ruh + ta | | |

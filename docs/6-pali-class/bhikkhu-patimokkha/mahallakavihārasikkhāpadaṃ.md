@@ -37,7 +37,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------ | :------- | :---------------------------------------------------------- | :---------------- | :------------- | :------------------- | :-------------------- | :---------------- | :------------------------ |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | appaharitepi | comp | sandhi, noun + ind | | even in few crops | | | | appa + harite + api | | |
 | - appaharite | noun | nt loc sg of appaharita, comp | | where few crops | in little green | | | appa + harita | kammadhāraya | appa + harita |

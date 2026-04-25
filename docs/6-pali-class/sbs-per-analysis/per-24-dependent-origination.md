@@ -34,14 +34,14 @@ vedanā-paccayā taṇhā; taṇhā-paccayā upādānaṃ; upādāna-paccayā bh
 | taṇhā | noun | fem.nom.sg | craving, desire; lit: thirst |
 | taṇhāpaccayā | noun | masc.abl.sg | from craving as condition |
 | upādānaṃ | noun | nt.nom.sg | grasping, clinging |
-| upādānapaccayā |  |  | from grasping as condition |
+| upādānapaccayā | | | from grasping as condition |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
 | bhavapaccayā | noun | masc.abl.sg | from becoming as condition |
 | jāti | noun | fem.nom.sg | birth |
 | jātipaccayā | noun | masc.abl.sg | from birth as condition |
 | jarāmaraṇaṃ | noun | nt.nom.sg | aging and death |
-| soka- | noun |  | grief, sorrow, sadness |
-| parideva- | noun |  | mourning, lament, wail, cry |
+| soka- | noun | | grief, sorrow, sadness |
+| parideva- | noun | | mourning, lament, wail, cry |
 | dukkhadomanass- | noun | pain and stress, physical pain and mental | suffering |
 | upāyāsā | noun | masc.nom.pl | afflictions, agitations, troubles |
 | sambhavanti | verb | pr.3.pl | are produced, come together, arise together |
@@ -52,7 +52,7 @@ evametassa kevalassa dukkhakkhandhassa samudayo hoti.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evaṃ- | ind |  | thus, this, like this, just as, such |
+| evaṃ- | ind | | thus, this, like this, just as, such |
 | etassa | pron | masc.gen.sg | of this |
 | kevalassa | adj | masc.gen.sg | of whole, altogether, total, entire |
 | dukkhakkhandhassa | noun | masc.gen.sg | of heap of suffering, mountain of suffering |
@@ -65,7 +65,7 @@ tattha katamā avijjā?
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| tattha | ind |  | in that regard, in that case |
+| tattha | ind | | in that regard, in that case |
 | katamā | pron | fem.nom.sg | what? which (of the many)? |
 | avijjā | noun | fem.nom.sg | ignorance |
 
@@ -105,11 +105,11 @@ puññ'ābhisaṅkhāro, apuññ'ābhisaṅkhāro, āneñj'ābhisaṅkhāro; kā
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| puñña- | adj |  | meritorious, good, wholesome |
+| puñña- | adj | | meritorious, good, wholesome |
 | abhisaṅkhāro | noun | masc.nom.sg | construction, fabrication, formation |
-| apuñña- | adj |  | demeritorious, bad, unwholesome |
+| apuñña- | adj | | demeritorious, bad, unwholesome |
 | abhisaṅkhāro, | noun | masc.nom.sg | construction, fabrication, formation |
-| āneñja- | adj |  | immovable, imperturbable |
+| āneñja- | adj | | immovable, imperturbable |
 | abhisaṅkhāro; | noun | masc.nom.sg | construction, fabrication, formation |
 | kāyasaṅkhāro | noun | masc.nom.sg | physical activity, bodily formations |
 | vacīsaṅkhāro | noun | masc.nom.sg | verbal formations (in the mind), thoughts in language, internal dialogue |
@@ -382,10 +382,10 @@ bhavo duvidhena – atthi kammabhavo, atthi upapattibhavo.
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
 | duvidhena – | ind | in two ways; as of two kinds; in a twofold | way. |
 | atthi | verb | pr.3.sg | there is, there exists |
-| kamma- | noun |  | action, deed, doing |
+| kamma- | noun | | action, deed, doing |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
 | atthi | verb | pr.3.sg | there is, there exists |
-| upapatti- | noun |  | rebirth, re-arising |
+| upapatti- | noun | | rebirth, re-arising |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
 
 **becoming is twofold – there is action-becoming, there is rebirth-becoming.**
@@ -398,11 +398,11 @@ puññābhisaṅkhāro, apuññābhisaṅkhāro, āneñjābhisaṅkhāro.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| puñña- | adj |  | meritorious, good, wholesome |
+| puñña- | adj | | meritorious, good, wholesome |
 | abhisaṅkhāro | noun | masc.nom.sg | construction, fabrication, formation |
-| apuñña- | adj |  | demeritorious, bad, unwholesome |
+| apuñña- | adj | | demeritorious, bad, unwholesome |
 | abhisaṅkhāro, | noun | masc.nom.sg | construction, fabrication, formation |
-| āneñja- | adj |  | immovable, imperturbable |
+| āneñja- | adj | | immovable, imperturbable |
 | abhisaṅkhāro; | noun | masc.nom.sg | construction, fabrication, formation |
 
 **wholesome formation, unwholesome formation, imperturbable formation**
@@ -416,11 +416,11 @@ sabbam'pi bhava-gāmi-kammaṃ kamma-bhavo.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbam- | adj | nt.nom.sg | all |
-| api | ind |  | just, only |
-| bhava- | noun |  | becoming, being, existence |
-| gāmi- | adj |  | leading to, going to, heading to |
+| api | ind | | just, only |
+| bhava- | noun | | becoming, being, existence |
+| gāmi- | adj | | leading to, going to, heading to |
 | kammaṃ | noun | nt.nom.sg | action, deed, doing |
-| kamma- | noun |  | action, deed, doing |
+| kamma- | noun | | action, deed, doing |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
 
 **all action(s) that leads to existence is 'action-becoming'.**
@@ -437,20 +437,20 @@ nevasaññānāsaññābhavo; ekavokārabhavo, catuvokārabhavo, pañcavokārabh
 | kāmabhavo | noun | masc.nom.sg | becoming in the realm of sense desire sensual sphere becoming |
 | rūpabhavo | noun | masc.nom.sg | becoming in the realm of (subtle material) form, (subtle material) form sphere becoming |
 | arūpabhavo | noun | masc.nom.sg | becoming in the immaterial realm, formless sphere becoming |
-| saññā- | noun |  | perception, conception, recognition |
+| saññā- | noun | | perception, conception, recognition |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
-| asaññā- | noun |  | non perception, non conception |
+| asaññā- | noun | | non perception, non conception |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
-| nevasaññānāsaññā- | noun |  | neither perception nor non-perception |
+| nevasaññānāsaññā- | noun | | neither perception nor non-perception |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
-| eka- | adj |  | one |
-| vokāra- | noun |  | detail, constituent, factor, component |
+| eka- | adj | | one |
+| vokāra- | noun | | detail, constituent, factor, component |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
-| catu- | adj |  | four |
-| vokāra- | noun |  | detail, constituent, factor, component |
+| catu- | adj | | four |
+| vokāra- | noun | | detail, constituent, factor, component |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
-| pañca- | adj |  | five |
-| vokāra- | noun |  | detail, constituent, factor, component |
+| pañca- | adj | | five |
+| vokāra- | noun | | detail, constituent, factor, component |
 | bhavo | noun | masc.nom.sg | becoming, being, existence |
 
 **existence in the realm of sense desire, existence in the realm of form, existence in the formless realm, becoming with perception, becoming with non-perseption, becoming with neither-perception-nor-non-perception; becoming with one-component, becoming with four-components, becoming with five-components.**
@@ -566,15 +566,15 @@ tattha katamo soko?
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| ñāti- | noun |  | family, relative, kinsman |
+| ñāti- | noun | | family, relative, kinsman |
 | byasanena | noun | masc.ins.sg | by misfortune, disaster, calamity, loss |
-| vā | ind |  | or |
+| vā | ind | | or |
 | phuṭṭhassa | pp | masc.gen.sg | of afflicted (with), suffering (from), lit touched (by) |
-| bhoga- | noun |  | wealth, possessions, property, riches |
+| bhoga- | noun | | wealth, possessions, property, riches |
 | byasanena | noun | masc.ins.sg | by misfortune, disaster, calamity, loss |
-| roga- | noun |  | disease, illness |
+| roga- | noun | | disease, illness |
 | byasanena | noun | masc.ins.sg | by misfortune, disaster, calamity, loss |
-| sīla- | noun |  | behaviour, conduct, integrity |
+| sīla- | noun | | behaviour, conduct, integrity |
 | byasanena | noun | masc.ins.sg | by misfortune, disaster, calamity, loss |
 | diṭṭhi- | noun | view, belief, opinion, concept, theory | opinion, attitude |
 | byasanena | noun | masc.ins.sg | by misfortune, disaster, calamity, loss |

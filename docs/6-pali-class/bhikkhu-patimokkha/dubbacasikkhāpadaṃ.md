@@ -45,7 +45,7 @@
 | - ahaṃ | pron | 1st nom sg | | I | | | | | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
 | - āyasmante | noun | masc acc pl of āyasmant | | venerables (object) | having long life | | | āyas + mant | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | kiñci | pron | masc acc sg of kaci | | some, any | | | | ka + ci | | |
 | vakkhāmi | verb | fut 1st sg of vakkhati, fut of vacati | +acc | I will say | | √vac (speak) | √vac + ssa > vakkha | vakkha + ti | | |
 | kalyāṇaṃ | adj | nt acc sg of kalyāṇa | | good, beneficial | | | | | | |
@@ -161,8 +161,8 @@
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | iccetaṃ | comp | sandhi, ind + pron | | that is | thus this | | | iti + etaṃ | | |
 | kusalaṃ | noun | nt nom sg of kusala | | something proper, good deed; doing good | | | | | | |
-| no | ind | neg |  | not |  |  |  |  |  |  |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| no | ind | neg | | not | | | | | | |
+| ce | ind | cond | | if | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | (if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence). | | | | | | | | | | |

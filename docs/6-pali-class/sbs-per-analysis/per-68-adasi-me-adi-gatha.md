@@ -13,12 +13,12 @@ adāsi me akāsi me, ñātimittā sakhā ca me. petānaṃ dakkhiṇaṃ dajjā,
 | me | pron | 1.dat.sg | to me |
 | ñāti-mittā | noun | masc.nom.pl | family and friends |
 | sakhā | noun | masc.nom.pl | friend, companion |
-| ca | ind |  | and |
+| ca | ind | | and |
 | me | pron | 1.gen.sg | my |
 | petānaṃ | adj | masc.dat.pl | to departed, deceased, dead |
 | dakkhiṇaṃ | noun | fem.acc.sg | gift, donation |
 | dajjā | verb | opt.3.sg | one would give, one should give |
-| pubbe | ind |  | before, previously, formerly, in the past |
+| pubbe | ind | | before, previously, formerly, in the past |
 | katam- | pp | masc.acc.sg | done |
 | anussaraṃ | prp | masc.nom.sg | remembering, recollecting, keeping in mind |
 
@@ -30,21 +30,21 @@ na hi ruṇṇaṃ vā soko vā, yā v'aññā paridevanā. na taṃ petānam'at
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| na | ind |  | not |
-| hi | ind |  | indeed, certainly, truly, definitely |
+| na | ind | | not |
+| hi | ind | | indeed, certainly, truly, definitely |
 | ruṇṇaṃ | noun | nt.nom.sg | weeping, crying lamentation |
-| vā | ind |  | or |
+| vā | ind | | or |
 | soko | noun | masc.nom.sg | grief, sorrow, sadness |
-| vā | ind |  | or |
+| vā | ind | | or |
 | yā | pron | fem.nom.sg | whatever, whichever |
-| vā- | ind |  | or |
+| vā- | ind | | or |
 | aññā | adj | fem.nom.sg | another, other, different, someone else, not oneself |
 | paridevanā | noun | fem.nom.sg | mourning, lament, wail, cry |
-| na | ind |  | not |
+| na | ind | | not |
 | taṃ | pron | masc.acc.sg | that |
-| petānam- |  | adj | m.gen.pl of departed, deceased, dead |
+| petānam- | | adj | m.gen.pl of departed, deceased, dead |
 | atthāya | noun | masc.dat.sg | for the purpose (of), for the sake (of), for the good |
-| evaṃ | ind |  | thus, this, like this, just as, such |
+| evaṃ | ind | | thus, this, like this, just as, such |
 | tiṭṭhanti | verb | pr.3.pl | last, remain, persist, lit. stand |
 | ñātayo | noun | masc.nom.pl | family, relatives, kinsmen |
 
@@ -55,15 +55,15 @@ ayañ'ca kho dakkhiṇā dinnā, saṅghamhi suppatiṭṭhitā. dīgharattaṃ 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ayañ'ca | pron | fem.nom.sg | but this |
-| kho | ind |  | indeed, surely, certainly, truly |
+| kho | ind | | indeed, surely, certainly, truly |
 | dakkhinā | noun | fem.nom.sg | gift, donation |
 | dinnā | pp | fem.nom.sg | given, offered |
 | saṅghamhi | noun | masc.loc.sg | in the Community |
 | supatiṭṭhitā | pp | fem.nom.sg | well placed, well established |
-| dīgharattaṃ | ind |  | for a long time |
+| dīgharattaṃ | ind | | for a long time |
 | hitāya- | noun | masc.dat.sg | for the welfare, good, benefit, blessing |
 | assa | verb | opt.3.sg | may be, could be, should be |
-| ṭhānaso | ind |  | on the spot, right there, immediately |
+| ṭhānaso | ind | | on the spot, right there, immediately |
 | upakappati | verb | pr.3.sg | is benefits, is serve, is accrue |
 
 **But indeed this gift that has been given, and well placed in the Sangha, could be for the welfare for a long time, it is benefits immediately**
@@ -74,12 +74,12 @@ so ñātidhammo ca ayaṃ nidassito, petāna'pūjā ca katā uḷārā. balañ'c
 | --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he, that |
 | ñāti-dhammo | noun | masc.nom.sg | the duty of relatives. |
-| ca | ind |  | and |
+| ca | ind | | and |
 | ayaṃ | pron | masc.nom.sg | this |
 | nidassito | pp | masc.nom.sg | pointed out, defined as, termed, shown |
 | petānaṃ- | adj | masc.gen.pl | of departed, deceased, dead |
 | pūjā | noun | fem.nom.sg | veneration, homage, honor |
-| ca | ind |  | and |
+| ca | ind | | and |
 | katā | pp | fem.nom.sg | done, made |
 | uḷārā | adj | fem.nom.sg | excellent, lofty, vast, extensive |
 | balañ'ca | noun | nt.nom.sg | and strength, power, might |

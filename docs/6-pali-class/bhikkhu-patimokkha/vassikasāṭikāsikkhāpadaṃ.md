@@ -20,7 +20,7 @@
 | tatridaṃ | comp | sandhi, adv + pron | | in this case this | | | | tatra + idaṃ | | |
 | pamāṇaṃ | noun | nt nom sg of pamāṇa, from pamiṇāti | | measurement, size | | √mā (measure) | | pa + √mā + aṇa | | |
 | dīghaso | ind | adv, abl sg of dīgha | | lengthwise, in length | from long | | | dīgha + so | | |
-| cha | card | x nom pl |  | six |  |  |  |  |  |  |
+| cha | card | x nom pl | | six | | | | | | |
 | vidatthiyo | noun | fem nom pl | | spans | hand-length | | | | | |
 | sugatavidatthiyā | noun | fem instr sg, comp | | according to the standard span | by well-gone span | | | sugata + vidatthi | kammadhāraya | sugata + vidatthi |
 | tiriyaṃ | ind | adv | | across, horizontally, width-wise | | √tir (cross) | | √tir + iya + aṃ | | |

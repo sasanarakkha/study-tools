@@ -18,7 +18,7 @@ atītaṃ n'ānvāgameyya, nappaṭikaṅkhe anāgataṃ. yad-atītam'pahīnan't
 | pahīnaṃ | pp | nt.nom.sg | abandoned, dispelled, eliminated, removed given up |
 | taṃ | pron | nt.nom.sg | that |
 | appattaṃ- | pp | nt.nom.sg | not attained, not reached, not gained, not found |
-| ca | ind |  | and |
+| ca | ind | | and |
 | anāgataṃ | noun | nt.nom.sg | future, lit. not come |
 
 **One should not follow the past, one should not wish for the future. Whatever is past that is given up, the future - not (yet) attained.**
@@ -28,7 +28,7 @@ paccuppannañ'ca yaṃ dhammaṃ, tattha tattha vipassati.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | paccuppannañ- | adj | masc.acc.sg | present, existing, current |
-| ca | ind |  | and |
+| ca | ind | | and |
 | yaṃ | pron | masc.acc.sg | whatever, whichever, that which |
 | dhammaṃ | noun | masc.acc.sg | (mental) state |
 | tattha tattha | ind | in each and every case, lit. there and there ind | right there, here and now, lit. there and there |
@@ -54,20 +54,20 @@ ajj'eva kiccam'ātappaṃ, ko jaññā maraṇaṃ suve. na hi no saṅgaran'ten
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| ajja- | ind |  | today, now |
+| ajja- | ind | | today, now |
 | eva | ind | emph | only, just, so, even |
 | kiccam- | ptp | nt.nom.sg | should be made, ought to be done |
 | ātappaṃ | noun | nt.nom.sg | effort, exertion |
 | ko | pron | masc.nom.sg | who? what? which? |
 | jaññā | verb | opt.3.sg | could know, must understand |
 | maraṇaṃ | noun | nt.acc.sg | death |
-| suve | ind |  | tomorrow |
-| na | ind |  | not |
+| suve | ind | | tomorrow |
+| na | ind | | not |
 | hi | ind | emph | indeed, certainly, truly, definitely |
-| no | ind |  | then, now, indeed |
+| no | ind | | then, now, indeed |
 | saṅgaran- | noun | nt.nom.sg. | promise, agreement |
 | tena | pron | masc.ins.sg | with him, with that, by that |
-| mahā- | adj |  | great, large, powerful, grand, vast, extensive |
+| mahā- | adj | | great, large, powerful, grand, vast, extensive |
 | senena | noun | masc.ins.sg | with army |
 | maccunā | noun | masc.ins.sg | with death, Death, Mara |
 
@@ -77,17 +77,17 @@ evaṃ vihārim'ātāpiṃ, ahorattam'atanditaṃ. taṃ ve bhadd'eka-ratto'ti, 
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evaṃ | ind |  | thus, this, like this, just as, such |
+| evaṃ | ind | | thus, this, like this, just as, such |
 | vihārim- | adj (as noun) | masc.acc.sg | one who lives (in a state of), (one) living |
 | ātāpiṃ | adj | masc.acc.sg | ardent, zealous, with continuous effort, lit. burning |
 | ahorattam- | ind | nt.acc.sg. | day and night; continuously; continually |
 | atanditaṃ | adj | masc.acc.sg | energetic, effortful, active, alert, lit. not lazy |
 | taṃ | pron | masc.acc.sg | that, him |
-| ve | ind |  | indeed, truly, really |
-| bhadda- | adj |  | good, lucky, auspicious |
-| eka- | adj |  | one |
-| ratto- | noun |  | night |
-| ti – | ind |  | ” |
+| ve | ind | | indeed, truly, really |
+| bhadda- | adj | | good, lucky, auspicious |
+| eka- | adj | | one |
+| ratto- | noun | | night |
+| ti – | ind | | ” |
 | santo | adj | masc.nom.sg | still, calm, at peace, tranquil |
 | ācikkhate | verb | reflex.opt.3.sg | would tell by himself, describes, points out, teaches |
 | muni | noun | masc.nom.sg | monk, sage, seer, hermit, silent sage |

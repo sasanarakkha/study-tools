@@ -9,11 +9,11 @@ ettāvatā ca amhehi sambhataṃ puñña-sampadaṃ sabbe devā anumodantu sabba
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| ettāvatā | ind |  | to this extent, to this degree, so far |
-| ca | ind |  | and |
+| ettāvatā | ind | | to this extent, to this degree, so far |
+| ca | ind | | and |
 | amhehi | pron | 1.ins.pl | by us, with us |
 | sambhataṃ | adj | fem.acc.sg | brought together, stored up, acquired |
-| puñña- | noun |  | meritorious, good, wholesome, lit. (mental) pure |
+| puñña- | noun | | meritorious, good, wholesome, lit. (mental) pure |
 | sampadaṃ | noun | fem.acc.sg | attainment, achievement |
 | sabbe | adj | masc.nom.pl | all |
 | devā | noun | masc.nom.pl | deities |

@@ -41,7 +41,7 @@
 | - samayaṃ | noun | masc acc sg of samaya | | time, occasion | coming together | √i (come, go) | | saṃ + √i + *a | | |
 | nikkhipitabbaṃ | ptp | nt nom sg of nikkhipitabba | | can be stored, kept | to be thrown down | √khip (throw) | | ni + √khip + itabba | | |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | nikkhipeyya | verb | opt 3rd sg, from nikkhipati | | he should keep, store | throw down | √khip (throw) | √khip + a > khipa | ni + khipa + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya, comp | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |

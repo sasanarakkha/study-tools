@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------ | :----------------------- | :------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | veṭhitasīsassa | adj | masc dat sg of veṭhitasīsa, comp | | to (one) with a wrapped head, with a turban | to a wrapped head | | | veṭhita + sīsa | kammadhāraya | veṭhita + sīsa |
 | - veṭhita | pp | of veṭheti | | wrapped, covered | | √veṭh (wind, twist) | | √veṭh + ita | | |
 | - sīsassa | adj | masc dat sg of sīssa | | to (a person with) a head | to the top | | | | | |

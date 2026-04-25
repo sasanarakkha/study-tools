@@ -787,7 +787,7 @@ In the future **vaca** is changed to **vakkha** which was derived from Skt. futu
 
 ***
 
-|  | <br>sg | pl | reflexive sg | reflexive pl |
+| | <br>sg | pl | reflexive sg | reflexive pl |
 | --------- | -------------- | --------------- | -------------- | --------------------------------- |
 | fut 3rd | vakkh**ati** | vakkh**anti** | vakkh**ate** | vakkh**ante** |
 | fut 2nd | vakkh**asi** | vakkh**atha** | vakkh**ase** | vakkh**avhe** |
@@ -1197,7 +1197,7 @@ Traditionally considered that sometimes √brū \> √āh (Kacc)
 
 
 
-|  | sg | pl | reflexive sg | reflexive pl |
+| | sg | pl | reflexive sg | reflexive pl |
 | --------- | ------------------ | ------------------------ | ----------------------------------- | -------------------------- |
 | aor 3rd | abravi<br>abravī | abraviṃsu<br>abravuṃ | abravatha<br>abravā<br>abravittha | abravū |
 | aor 2nd | abravi<br>abravo | abravittha | abravittho<br>abravise | abravivhaṃ |

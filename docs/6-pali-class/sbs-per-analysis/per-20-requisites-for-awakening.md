@@ -17,7 +17,7 @@ bhikkhave, ye te mayā dhammā abhiññā desitā, te vo sādhukaṃ uggahetvā 
 | desitā | pp | masc.nom.pl | preached, taught, explained, instructed |
 | te | pron | masc.nom.pl | they |
 | vo | pron | 2.ins.pl | by you all, with you all |
-| sādhukaṃ | ind |  | well, thoroughly, fully |
+| sādhukaṃ | ind | | well, thoroughly, fully |
 | uggahetvā | verb | abs | having learned, having grasped |
 | āsevitabbā | ptp | masc.nom.pl | should be practiced, should be pursued |
 | bhāvetabbā | ptp | masc.nom.pl | should be cultivated, should be developed |
@@ -36,7 +36,7 @@ yatha'y-idaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa ba
 | ciraṭṭhitikaṃ | adj | nt.nom.sg | long lasting, lit. long standing |
 | tad- | pron | nt.nom.sg | that |
 | assa | verb | opt.3.sg | it may be, it could be, it should be |
-| bahujana- | noun |  | multitude, many people, mass of people |
+| bahujana- | noun | | multitude, many people, mass of people |
 | hitāya | noun | nt.dat.sg | for welfare, good, benefit, blessing |
 | bahujanasukhāya | noun | nt.dat.sg | for the happiness of many people |
 | lokānukampāya | noun | fem.instr.sg | because of the compassion for the world |
@@ -55,7 +55,7 @@ seyyath'īdaṃ — cattāro satipaṭṭhānā cattāro sammappadhānā cattār
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| seyyathīdaṃ | ind |  | i.e., as follows, lit. (like) that like this |
+| seyyathīdaṃ | ind | | i.e., as follows, lit. (like) that like this |
 | cattāro | adj | masc.nom.pl | four |
 | satipaṭṭhānā | noun | masc.nom.pl | establishing mindfulness, setting up attention foundations of mindfulness |
 | cattāro | adj | masc.nom.pl | four |

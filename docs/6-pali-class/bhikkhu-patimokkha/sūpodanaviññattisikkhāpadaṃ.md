@@ -4,13 +4,13 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :---------------------- | :----------------------- | :----------------- | :------------------ | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sūpaṃ | noun | masc acc sg of sūpa | | dahl; lentil curry | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | odanaṃ | noun | nt acc sg of odana | | rice | wet, boiled | √ud (be wet) | | √ud > od + *ana | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | agilāno | adj | masc nom sg of agilāna | | is not ill | not sick | √gilā (be sick, tired) | | na + √gilā + na | | |
-| attano | noun | masc dat sg of atta |  | for oneself |  |  |  |  |  |  |
+| attano | noun | masc dat sg of atta | | for oneself | | | | | | |
 | atthāya | noun | masc dat sg of attha | +gen | for the sake of; for the purpose of | | √ar (move, attain) | | √ar + tha | | |
 | viññāpetvā | verb | abs of viññāpeti | +acc | having requested; having asked | having caused to know | √ñā (know) | √ñā + āpe > ñāpe | vi + ñāpe + tvā | | |
 | bhuñjissāmīti | comp | sandhi, fut + ind | | | | | | bhuñjissāmi + iti | | |

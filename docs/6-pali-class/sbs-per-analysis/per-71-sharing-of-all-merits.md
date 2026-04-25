@@ -10,9 +10,9 @@ puññass'idāni katassa yān'aññāni katāni me, tesañ'ca bhāgino hontu sat
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| [thai] |  |  |  |
+| [thai] | | | |
 | puññassa- | noun | masc.gen.sg | of merit, good deed, lit. (mental) purity |
-| idāni | ind |  | now, soon, at present |
+| idāni | ind | | now, soon, at present |
 | katassa | pp | masc.gen.sg | of done |
 | yāni-' | pron | nt.nom.pl | whichever |
 | aññāni | adj | nt.nom.pl | another, other, different, someone else, not oneself |
@@ -21,8 +21,8 @@ puññass'idāni katassa yān'aññāni katāni me, tesañ'ca bhāgino hontu sat
 | tesañ'ca | pron | masc.gen.pl | of them, to them, to those |
 | bhāgino | noun | masc.nom.p | shareholder, who shares (in), who partakes (in) |
 | hontu | verb | imp.3.pl | may they be |
-| satta- | noun |  | living being |
-| ananta- | adj |  | infinite, endless, boundless, without limit |
+| satta- | noun | | living being |
+| ananta- | adj | | infinite, endless, boundless, without limit |
 | appamāṇakā | adj | masc.nom.pl | immeasurable, unlimited, limitless, boundless |
 
 **Whichever merit at present done by me, may (all) living beings without limit, without measure partake of those (merits).**
@@ -34,16 +34,16 @@ ye piyā guṇavantā ca mayhaṃ mātāpit'ādayo, diṭṭhā me c'āpy'adiṭ
 | ye | pron | masc.nom.pl | whoever, whatever, whichever, those who |
 | piyā | adj | masc.nom.pl | dear (to), beloved (by), lovely (for) |
 | guṇavantā | adj | masc.nom.pl | who is virtuous, who has good qualities |
-| ca | ind |  | and |
+| ca | ind | | and |
 | mayhaṃ | pron | 1.gen.sg | my, mine |
 | mātāpitā- | noun | masc.nom.pl | mother and father, parents |
 | ādayo | adj | masc.nom.pl | beginning |
 | diṭṭhā | pp | masc.nom.pl | seen, found |
-| cāpy \< ca + api | ind |  | or even, and even, as well as |
+| cāpy \< ca + api | ind | | or even, and even, as well as |
 | adiṭṭhā | pp | masc.nom.pl | not seen, not found |
-| vā | ind |  | or, either or |
+| vā | ind | | or, either or |
 | aññe | pron | masc.nom.pl | others, other people, the rest |
-| majjhatta- | adj |  | neutral, impartial, indifferent |
+| majjhatta- | adj | | neutral, impartial, indifferent |
 | verino | adj | masc.nom.pl | unfriendly, inimical, hostile |
 
 **Those loved and virtuous, beginning with parents, beings seen and unseen, those neutral and averse.**
@@ -57,11 +57,11 @@ sattā tiṭṭhanti lokasmiṃ te bhummā catu-yonikā, pañc'eka-catu-vokārā
 | lokasmiṃ | noun | masc.loc.sg | in the world |
 | te | adj | masc.nom.pl | three |
 | bhummā | adj | masc.nom.pl | earthly, terrestrial |
-| catu- | adj |  | four |
+| catu- | adj | | four |
 | yonikā | noun | masc.nom.pl | place of birth, realm of existence |
-| pañca- | adj |  | five (5) |
-| eka- | adj |  | one |
-| catu- | adj |  | four |
+| pañca- | adj | | five (5) |
+| eka- | adj | | one |
+| catu- | adj | | four |
 | vokārā | noun | masc.nom.pl | details, constituents, factors |
 | saṃsarantā | prp | masc.nom.pl | wandering on, moving on continuously transmigrating |
 | bhavābhave | noun | masc.loc.sg | in any state of existence, repeated existence |
@@ -74,12 +74,12 @@ sattā tiṭṭhanti lokasmiṃ te bhummā catu-yonikā, pañc'eka-catu-vokārā
 | --- | --- | --- | --- |
 | ñātaṃ | pp | masc.acc.sg | known |
 | ye | pron | masc.nom.pl | whoever, whatever, whichever, those who |
-| patti- | noun |  | profit, share, lit. what is obtained |
+| patti- | noun | | profit, share, lit. what is obtained |
 | dānam- | noun | nt.acc.sg | alms, gift, giving, offering, charity |
 | me | pron | 1.gen.sg | my |
 | anumodantu | verb | imp.3.pl | may they rejoice in |
 | te | pron | masc.nom.pl | they |
-| sayaṃ | ind |  | by one's own, oneself, one's own |
+| sayaṃ | ind | | by one's own, oneself, one's own |
 | ye | pron | masc.nom.pl | whoever, whatever, whichever, those who |
 | c'imaṃ | pron | masc.acc.sg | and this |
 | nappajānanti | verb | pr.3.pl | they do not know, do not clearly understand |
@@ -101,15 +101,15 @@ khemappadañ'ca pappontu tesāsā sijjhataṃ subhā
 | hetunā | adj | masc.ins.sg | by reason, cause |
 | sabbe | adj | masc.nom.pl | all |
 | sattā | noun | masc.nom.pl | living beings |
-| sadā | ind |  | always, ever, all the time |
+| sadā | ind | | always, ever, all the time |
 | hontu | verb | imp.3.pl | may they be |
 | averā | adj | masc.nom.pl | kind, friendly, peaceful, free of ill-will |
-| sukha- | adj |  | ease, comfort, happiness, pleasure |
+| sukha- | adj | | ease, comfort, happiness, pleasure |
 | jīvino | noun | masc.nom.pl | who lives at |
-| khema- | adj |  | well, safe, secure, at peace, at rest |
+| khema- | adj | | well, safe, secure, at peace, at rest |
 | padañ'ca | noun | masc.acc.sg | and place, position, state |
 | pappontu | verb | imp.3.pl | may they obtain, attain, get, experience |
-| tesāsāṃ | ? |  |  |
+| tesāsāṃ | ? | | |
 | sijjhataṃ=sijjhanaṃ | noun | nt.acc.sg | happening; success. |
 | subhā | adj | nt.nom.pl | auspicious, lucky, pleasant |
 

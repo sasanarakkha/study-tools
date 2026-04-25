@@ -14,7 +14,7 @@
 | purisamatiṃ | noun | fem acc sg of purisamati, comp | | man’s intention, man’s proposal | man’s idea | | | purisa + mati | genitive tappurisa | purisassa + mati |
 | - purisa | noun | masc | | man, person | | | | | | |
 | - matiṃ | noun | fem acc sg of mati | | intention, proposal | thought, idea | √man (think) | | √man + ti | | |
-| purisassa | noun | masc dat sg of purisa |  | to a man |  |  |  |  |  |  |
+| purisassa | noun | masc dat sg of purisa | | to a man | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | itthimatiṃ | noun | fem acc sg of itthimati, comp | | woman’s intention, woman’s proposal | woman’s idea | | | itthi + mati | genitive tappurisa | itthiyā + mati |
 | - itthi | noun | fem | | woman | | | | | | |

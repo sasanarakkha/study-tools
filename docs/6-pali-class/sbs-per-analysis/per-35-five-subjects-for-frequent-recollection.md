@@ -59,24 +59,24 @@ yaṃ kammaṃ karissāmi - kalyāṇaṃ vā pāpakaṃ vā - tassa dāyādo bh
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | sako- | noun | masc.nom.sg | one's own (property, possessions, etc) |
 | amhi | verb | pr.1.sg | I am |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | dāyādo | noun | masc.nom.sg | heir, inheritor, lit. receiver of what is given |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | yoni | noun | fem.nom.sg | conception, birth, womb, origin |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | bandhu | noun | masc.nom.sg | relative, relation, lit. tied to |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | paṭisaraṇo | noun | masc.nom.sg | protection, shelter, refuge |
 | yaṃ | pron | nt.acc.sg | whatever |
 | kammaṃ | noun | nt.acc.sg | action, deed, work |
 | karissāmi | verb | fut.1.sg | I will do |
 | kalyāṇaṃ | adj | nt.acc.sg | good, favourable, propitious, beneficial |
-| vā | ind |  | or |
+| vā | ind | | or |
 | pāpakaṃ | adj | nt.acc.sg | evil, criminal, wrong, bad, vicious |
-| vā | ind |  | or |
+| vā | ind | | or |
 | tassa | pron | masc.gen.sg | of that |
 | dāyādo | noun | masc.nom.sg | heir, inheritor, lit. receiver of what is given |
 | bhavissāmi | verb | fut.1.sg | I will be |
@@ -87,7 +87,7 @@ evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evaṃ | ind |  | thus |
+| evaṃ | ind | | thus |
 | amhehi | pron | 1.ins.pl | by us |
 | abhiṇhaṃ | ind | adv | often; repeatedly |
 | paccavekkhitabbaṃ | ptp | nt.nom.sg | should be considered; contemplated |

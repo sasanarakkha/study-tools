@@ -12,7 +12,7 @@ buddhaṃ jīvita-pariyantaṃ saraṇaṃ gacchāmi.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | buddhaṃ | noun | masc.acc.sg | the Buddha, Awakened One |
-| jīvita- | noun |  | life, life span |
+| jīvita- | noun | | life, life span |
 | pariyantaṃ | noun | masc.acc.sg | end, limit |
 | saraṇaṃ | noun | nt.acc.sg | shelter, refuge, help, lit. protection |
 | gacchāmi | verb | pr.1.sg | I go, walk, move |
@@ -40,11 +40,11 @@ iminā puñña-kammena mā me bāla-samāgamo. sataṃ samāgamo hotu, yāva nib
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | iminā | pron | nt.ins.sg | with this, by this |
-| puñña- | noun |  | merit; righteousness |
+| puñña- | noun | | merit; righteousness |
 | kammena | noun | nt.ins.sg | by action, deed |
-| mā | ind |  | don't, may not |
+| mā | ind | | don't, may not |
 | me | pron | 1.g.sg | to me, for me |
-| bāla- | adj |  | ignorant; foolish |
+| bāla- | adj | | ignorant; foolish |
 | samāgamo | noun | masc.nom.sg | assembly, meeting |
 
 **by this righteous action, may I not have a foolish assembly**
@@ -54,8 +54,8 @@ iminā puñña-kammena mā me bāla-samāgamo. sataṃ samāgamo hotu, yāva nib
 | sataṃ | adj | masc.acc.sg | virtuous, good, true |
 | samāgamo | noun | masc.nom.sg | assembly, meeting |
 | hotu | verb | imp.3.sg | may it be |
-| yāva | ind |  | as long as, as far as, up to |
-| nibbāna- | noun |  | extinction, calmness, free from desire (āsava) |
+| yāva | ind | | as long as, as far as, up to |
+| nibbāna- | noun | | extinction, calmness, free from desire (āsava) |
 | pattiyā | noun | fem.dat.sg | to reaching, attainment, |
 
 **may I have a assembly with virtuous people, up to reaching freedom from desire.**
@@ -66,17 +66,17 @@ yo kho bhikkhu vā bhikkhunī vā upāsako vā upāsikā vā dhamm'ānudhamma-pp
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | whoever |
-| kho | ind |  | indeed |
+| kho | ind | | indeed |
 | bhikkhu | noun | masc.nom.sg | monk, mendicant, lit. beggar |
-| vā | ind |  | or |
+| vā | ind | | or |
 | bhikkhunī | noun | fem.nom.sg | Buddhist nun |
-| vā | ind |  | or |
+| vā | ind | | or |
 | upāsako | noun | masc.nom.sg | lay disciple, lay devotee, lit. who sits near |
-| vā | ind |  | or |
+| vā | ind | | or |
 | upāsikā | noun | fem.nom.sg | female disciple |
-| vā | ind |  | or |
-| dhamma- | noun |  | Dhamma |
-| anudhamma- | adj |  | according to, in line with |
+| vā | ind | | or |
+| dhamma- | noun | | Dhamma |
+| anudhamma- | adj | | according to, in line with |
 | paṭipanno | pp | masc.nom.sg | practicing (for), lit. following the way |
 | viharati | verb | pr.3.sg | lives, stays, remains, continues |
 | sāmīcippaṭipanno | adj | masc.nom.sg | following the right way |
@@ -106,7 +106,7 @@ imāya dhamm'ānudhamma-paṭipattiyā buddhaṃ pūjemi paramāya pūjāya
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | imāya | pron | fem.ins.sg | by this |
-| dhamm'ānudhamma- | adj |  | according to Teaching, in line with the Dhamma |
+| dhamm'ānudhamma- | adj | | according to Teaching, in line with the Dhamma |
 | paṭipattiyā | noun | fem.ins.sg | by practice, way, method |
 | buddhaṃ | noun | masc.acc.sg | the Buddha, Awakened One |
 | pūjemi | verb | pr.1.sg | I worship, offers (to), honour |
@@ -120,11 +120,11 @@ addhā imāya paṭipadāya jāti-jarā-byādhi-maraṇamhā parimuccissāmi
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| addhā | ind |  | most certainly! for sure! definitely! |
+| addhā | ind | | most certainly! for sure! definitely! |
 | imāya | pron | fem.ins.sg | by this |
 | paṭipadāya | noun | fem.ins.sg | by way, path of progress, practice |
-| jāti-jarā- | noun |  | birth and old age, being born and ageing |
-| byādhi- | noun |  | sickness, disease, lit. upset |
+| jāti-jarā- | noun | | birth and old age, being born and ageing |
+| byādhi- | noun | | sickness, disease, lit. upset |
 | maraṇamhā | noun | nt.abl.sg | from death |
 | parimuccissāmi | verb | fut.1.sg | I will be completely freed (from), totally liberated (from), escape (from) |
 

@@ -6,28 +6,28 @@ bāhuṃ sahassam'abhinimmita sāvudhan'taṃ, grīmekhalaṃ udita-ghora-sasena
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| [trad] |  |  |  |
+| [trad] | | | |
 | bāhuṃ | noun | masc.acc.sg | arm |
-| sahassam- | adj |  | one thousand (1000) |
-| abhinimmita | pp |  | created, produced, made (by magic) |
+| sahassam- | adj | | one thousand (1000) |
+| abhinimmita | pp | | created, produced, made (by magic) |
 | sāvudhan' | adj | masc.acc.sg | equipped with a weapon |
 | taṃ | pron | masc.acc.sg | that |
 | grīmekhalaṃ | noun | masc.acc.sg | Elephant Girimekhala |
-| udita- | pp |  | spoken, proclaimed, uttered |
-| ghora- | adj |  | terrible, awful, dreadful, lit. screaming! |
-| sasena- | adj |  | accompanied by an army. |
+| udita- | pp | | spoken, proclaimed, uttered |
+| ghora- | adj | | terrible, awful, dreadful, lit. screaming! |
+| sasena- | adj | | accompanied by an army. |
 | māraṃ | noun | masc.acc.sg | death, Death personified, evil one |
-| dāna- | noun |  | liberality, generosity |
-| ādi- | noun |  | etc, and so on, lit. beginning with |
-| dhamma- | noun |  | quality |
-| vidhinā | ind |  | in due method. |
+| dāna- | noun | | liberality, generosity |
+| ādi- | noun | | etc, and so on, lit. beginning with |
+| dhamma- | noun | | quality |
+| vidhinā | ind | | in due method. |
 | jitavā | verb | abs | having conquered; having subdued. |
 | mun'indo | noun | masc.nom.sg | the great sage. |
 | tan' | pron | masc.acc.sg | that |
 | tejasā | noun | masc.ins.sg | by radiance, glory, splendor, power |
 | bhavatu | verb | imp.3.sg | may it be |
 | te | pron | 2.dat.sg | for you |
-| jaya- | noun |  | victory, conquest, winning |
+| jaya- | noun | | victory, conquest, winning |
 | maṅgalāni | noun | nt.nom.pl | what is auspicious, blessings, good omens prosperity |
 
 **With thousand created arms, equipped with a weapon, on the elephant Girimekhala, uttered a frightening roar, accompanied by an army, the Evil One. The Great Sage defeated him by means of such qualities as generosity. By the power of that, may the victory and blessings be for you.**
@@ -38,18 +38,18 @@ mār'ātirekam'abhiyujjhita-sabba-rattiṃ, ghoram'pan'āḷavakam'akkhama-thadd
 | --- | --- | --- | --- |
 | māra- | noun | masc.acc.sg | death, Death personified, evil one |
 | atirekam- | adj | masc.acc.sg | more (than); superior, higher |
-| abhiyujjhita- | pp |  | fought; battled; made war |
-| sabba- | adj |  | all |
+| abhiyujjhita- | pp | | fought; battled; made war |
+| sabba- | adj | | all |
 | rattiṃ | noun | fem.acc.sg | night |
-| ghoram' | adj |  | terrible, awful, dreadful |
-| pana' | ind |  | moreover, and now, but |
+| ghoram' | adj | | terrible, awful, dreadful |
+| pana' | ind | | moreover, and now, but |
 | āḷavakam' | noun | masc.acc.sg | the yakkha of Āḷavī, Āḷavaka |
 | akkhama- | adj | impatient (with), intolerant (of), not able to | endure |
-| thaddha- | adj |  | proud, arrogant, lit. stiff |
+| thaddha- | adj | | proud, arrogant, lit. stiff |
 | yakkhaṃ | noun | masc.acc.sg | supernatural being, spirit, demon, yakkha |
-| khantī- | noun |  | patience, endurance, tolerance |
-| sudanta- | adj |  | well tamed, well trained, well controlled |
-| vidhinā | ind |  | in due method. |
+| khantī- | noun | | patience, endurance, tolerance |
+| sudanta- | adj | | well tamed, well trained, well controlled |
+| vidhinā | ind | | in due method. |
 | jitavā | verb | abs | having conquered; having subdued. |
 | mun'indo | noun | masc.nom.sg | the great sage. |
 
@@ -64,19 +64,19 @@ nāḷāgiriṃ gaja-varaṃ atimatta-bhūtaṃ, dāv'aggi-cakkam'asanī'va, sud
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | nāḷāgiriṃ | noun | masc.acc.sg | Nāḷāgiri |
-| gaja- | noun |  | elephant |
+| gaja- | noun | | elephant |
 | varaṃ | adj | masc.acc.sg | excellent, best, lit. select |
-| atimatta- | adj |  | maddened, over deluded |
+| atimatta- | adj | | maddened, over deluded |
 | bhūtaṃ | pp | masc.acc.sg | become |
-| dāv'aggi- | noun |  | forest-fire |
-| cakkam- | noun |  | a circular missile, a discus |
-| asanī'va | noun |  | like thunderbolt; a lightning flash. |
-| sudāruṇan' | adj |  | very brutal, savage, vicious, cruel |
+| dāv'aggi- | noun | | forest-fire |
+| cakkam- | noun | | a circular missile, a discus |
+| asanī'va | noun | | like thunderbolt; a lightning flash. |
+| sudāruṇan' | adj | | very brutal, savage, vicious, cruel |
 | taṃ | pron | masc.acc.sg | that |
-| metta' | noun |  | goodwill, friendliness, benevolence |
-| ambu- | noun |  | water |
-| seka- | noun |  | sprinkling |
-| vidhinā | ind |  | in due method. |
+| metta' | noun | | goodwill, friendliness, benevolence |
+| ambu- | noun | | water |
+| seka- | noun | | sprinkling |
+| vidhinā | ind | | in due method. |
 | jitavā | verb | abs | having conquered; having subdued. |
 | mun'indo | noun | masc.nom.sg | the great sage. |
 
@@ -90,19 +90,19 @@ ukkhitta-khaggam’atihattha-sudāruṇan'taṃ, dhāvan'ti-yojana-path'aṅguli
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| ukkhitta- | pp |  | lifted up, drawn up, raised, lit. thrown up |
+| ukkhitta- | pp | | lifted up, drawn up, raised, lit. thrown up |
 | khaggam- | noun | masc.acc.sg | sword |
-| atihattha- | adj |  | over-hand, expert hand |
-| sudāruṇan' | adj |  | very brutal, savage, vicious, cruel |
+| atihattha- | adj | | over-hand, expert hand |
+| sudāruṇan' | adj | | very brutal, savage, vicious, cruel |
 | taṃ | pron | masc.acc.sg | that |
 | dhāvaṃ- | prp | masc.nom.sg | running; racing; sprinting |
-| ti- | adj |  | three (3) |
+| ti- | adj | | three (3) |
 | yojana- | noun | measure of length; approximately twenty | kilometres |
-| patha- | noun |  | way, path |
-| aṅguli- | noun |  | finger |
+| patha- | noun | | way, path |
+| aṅguli- | noun | | finger |
 | mālavantaṃ | adj | masc.acc.sg | garlanded-with |
-| iddhī' | noun |  | psychic power |
-| abhisaṅkhata- | adj |  | prepared, fixed, made up, arranged, done |
+| iddhī' | noun | | psychic power |
+| abhisaṅkhata- | adj | | prepared, fixed, made up, arranged, done |
 | mano | noun | masc.nom.sg | mind |
 | jitavā | verb | abs | having conquered; having subdued. |
 | mun'indo | noun | masc.nom.sg | the great sage. |
@@ -118,18 +118,18 @@ katvāna kaṭṭham'udaraṃ iva gabbhinīyā, ciñcāya duṭṭha-vacanaṃ j
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | katvāna | verb | abs | having done, having made |
-| kaṭṭham' | noun |  | stick, plank, log, wood, timber |
+| kaṭṭham' | noun | | stick, plank, log, wood, timber |
 | udaraṃ | noun | nt.acc.sg | stomach, belly |
-| iva | ind |  | like, as |
+| iva | ind | | like, as |
 | gabbhiniyā | adj | fem.gen.sg | of pregnant |
 | ciñcāya | noun | fem.inst.sg | by Ciñca (tamarind tree) |
-| duṭṭha- | adj |  | wicked, evil, bad, corrupt |
+| duṭṭha- | adj | | wicked, evil, bad, corrupt |
 | vacanaṃ | noun | nt | word, utterance, talk, statement |
 | janakāya- | noun | masc | crowd of people, lit. people body |
-| majjhe | ind |  | in the middle, in the midst (of) |
+| majjhe | ind | | in the middle, in the midst (of) |
 | santena | adj | masc.ins.sg | still, calm, at peace, tranquil |
-| soma- | noun |  | ? (nectar) |
-| vidhinā | ind |  | in due method. |
+| soma- | noun | | ? (nectar) |
+| vidhinā | ind | | in due method. |
 | jitavā | verb | abs | having conquered; having subdued. |
 | mun'indo | noun | masc.nom.sg | the great sage. |
 
@@ -146,16 +146,16 @@ saccaṃ vihāya mati-saccaka-vāda-ketuṃ, vād’ābhiropita-manaṃ ati-andh
 | saccaṃ | noun | nt.acc.sg | truth |
 | vihāya | verb | ger | abandoning, forsaking, leaving; giving up |
 | mati- | noun | fem | intelligence; mind |
-| saccaka- | noun |  | Saccaka |
-| vāda- | noun |  | speech, statement, assertion, what is said |
-| ketuṃ | noun |  | pride, arrogance. (or)<br>wisdom; discernment |
-| vāda- | noun |  | debate, argument, disputation |
+| saccaka- | noun | | Saccaka |
+| vāda- | noun | | speech, statement, assertion, what is said |
+| ketuṃ | noun | | pride, arrogance. (or)<br>wisdom; discernment |
+| vāda- | noun | | debate, argument, disputation |
 | abhiropita- | adj | put on top, placed, (of an argument) refuted | debunked, disproved |
-| manaṃ | noun |  | mind, mental faculty, intellect |
-| atiandha | adj |  | thoroughly blind; absolutely sightless |
+| manaṃ | noun | | mind, mental faculty, intellect |
+| atiandha | adj | | thoroughly blind; absolutely sightless |
 | bhūtaṃ | pp | masc.acc.sg | become, born |
 | paññā- | noun | wisdom, knowledge, intelligence, intellect | understanding, insight |
-| padīpa- | noun |  | lamp, light, lighting |
+| padīpa- | noun | | lamp, light, lighting |
 | jalito | adj | masc.nom.sg | bright, shining, blazing |
 | jitavā | verb | abs | having conquered; having subdued. |
 | mun'indo | noun | masc.nom.sg | the great sage. |
@@ -170,18 +170,18 @@ nandopananda-bhujagaṃ vibudhaṃ mah'iddhiṃ, puttena thera-bhujagena dam'āp
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| nandopananda- | noun |  | Nandopananda |
+| nandopananda- | noun | | Nandopananda |
 | bhujagaṃ | noun | masc.acc.sg | snake |
-| vibudhaṃ | noun |  | with distorted wisdom |
-| mah'iddhiṃ | adj |  | of great supernatural power, magically powerful |
+| vibudhaṃ | noun | | with distorted wisdom |
+| mah'iddhiṃ | adj | | of great supernatural power, magically powerful |
 | puttena | noun | masc.ins.sg | by son |
-| thera- | adj |  | old, elderly, senior |
+| thera- | adj | | old, elderly, senior |
 | bhujagena | noun | masc.ins.sg | by snake |
-| dama- | noun |  | taming, restraint, self-control |
+| dama- | noun | | taming, restraint, self-control |
 | apayanto | prp | masc.nom.sg | going away; is retreating. |
-| iddhi- | noun |  | psychic power |
-| upadesa- | noun |  | pointing out, indication, instruction, advice |
-| vidhinā | ind |  | in due method. |
+| iddhi- | noun | | psychic power |
+| upadesa- | noun | | pointing out, indication, instruction, advice |
+| vidhinā | ind | | in due method. |
 | jitavā | verb | abs | having conquered; having subdued. |
 | mun'indo | noun | masc.nom.sg | the great sage. |
 
@@ -195,20 +195,20 @@ duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṃ, brahmaṃ visuddhi-jutim'i
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| duggāha- | adj |  | taking hold of wrongly; a bad seizing |
-| diṭṭhi- | noun |  | view, belief, opinion |
+| duggāha- | adj | | taking hold of wrongly; a bad seizing |
+| diṭṭhi- | noun | | view, belief, opinion |
 | bhujagena | noun | masc.ins.sg | by snake |
-| sudaṭṭha- | adj |  | well bitten |
+| sudaṭṭha- | adj | | well bitten |
 | hatthaṃ | noun | masc.acc.sg | hand |
 | brahmaṃ | noun | masc.acc.sg | God, creator god, Brahma |
-| visuddhi- | noun |  | purity (of), purification (of), holiness |
-| jutim- | noun |  | effulgence; brightness; splendor. |
-| iddhi- | noun |  | psychic power |
-| baka- | noun |  | Baka |
+| visuddhi- | noun | | purity (of), purification (of), holiness |
+| jutim- | noun | | effulgence; brightness; splendor. |
+| iddhi- | noun | | psychic power |
+| baka- | noun | | Baka |
 | abhidhānaṃ | noun | nt.acc.sg | name; appellation |
-| ñāṇā- | noun |  | knowledge, understanding, insight |
+| ñāṇā- | noun | | knowledge, understanding, insight |
 | gadena | noun | masc.ins.sg | by speech, sentence |
-| vidhinā | ind |  | in due method. |
+| vidhinā | ind | | in due method. |
 | jitavā | verb | abs | having conquered; having subdued. |
 | mun'indo | noun | masc.nom.sg | the great sage. |
 
@@ -223,20 +223,20 @@ etā pi buddha-jaya-maṅgala-aṭṭha-gāthā, yo vācano dina-dine sarate'm'a
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | etā | pron | fem.nom.pl | these |
-| pi | ind |  | also, and also |
-| buddha- | noun |  | the Buddha |
-| jaya- | noun |  | victory, conquest, winning |
-| maṅgala- | adj |  | auspicious, sacred, blessed |
-| aṭṭha- | adj |  | eight (8) |
+| pi | ind | | also, and also |
+| buddha- | noun | | the Buddha |
+| jaya- | noun | | victory, conquest, winning |
+| maṅgala- | adj | | auspicious, sacred, blessed |
+| aṭṭha- | adj | | eight (8) |
 | gāthā | noun | fem.nom.pl | verses, poems, stanzas |
 | yo | pron | masc.nom.sg | whoever |
 | vācano | noun | masc.nom.sg | recitation, reading |
-| dina- | noun |  | day |
+| dina- | noun | | day |
 | dine | noun | masc.acc.pl | days |
 | sarate-m' | verb | opt.3.sg | could remember |
-| atandī | adj |  | not lazy; active. |
+| atandī | adj | | not lazy; active. |
 | hitvāna | verb | abs | having left, having left behind, having abandoned |
-| aneka- | adj |  | many, various, countless, lit. not one |
+| aneka- | adj | | many, various, countless, lit. not one |
 | vividhāni | adj | nt.acc.pl | various kinds of |
 | c'upaddavāni | noun | nt.acc.pl | and accidents, misfortunes |
 | mokkhaṃ | noun | masc.acc.sg | release, freedom |

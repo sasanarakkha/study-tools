@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :--------------------------- | :------- | :------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | oguṇṭhitasīsassa | adj | masc dat sg of oguṇṭhitasīsa, comp | | to (one) with a covered head | | | | oguṇṭhita + sīsa | kammadhāraya | oguṇṭhita + sīsa |
 | - oguṇṭhita | pp | of oguṇṭheti | | covered, concealed | | √guṇṭh (enclose, envelope) | | ava + √guṇṭh + ita | | |
 | - sīsassa | adj | masc dat sg of sīssa | | to (a person with) a head | to the top | | | | | |

@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :---------------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ṭhito | pp | masc nom sg of ṭhita | | a (monk) standing | stood | √ṭhā (stand) | | √ṭhā + ita | | |
 | nisinnassa | pp | masc dat sg of nisinna | | to seated (a person), sitting | | √sad | √sad + a > sīda | ni + sīda + na | | |
 | agilānassa | adj | masc dat sg of agilāna | | to (someone who is) not sick | | √gilā (be sick, tired) | | na + √gilā + ana | | |

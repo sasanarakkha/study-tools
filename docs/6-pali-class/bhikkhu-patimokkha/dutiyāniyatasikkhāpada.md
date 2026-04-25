@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------------- | :-------------------------------------------------------------------------------------------- | :------------------ | :----------------------- | :------------- | :---------------------- | :------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | heva | comp | sandhi, ind + ind | | just indeed, most certainly | | | | hi + eva | | |
 | - hi | ind | emph | | indeed, truly, definitely, really, (or) because | | | | | | |
 | - eva | ind | emph | | just, only | | | | | | |
@@ -42,7 +42,7 @@
 | āsane | noun | nt loc sg of āsana | | on a seat | | √ās (sit) | | √ās + ana | | |
 | mātugāmena | noun | masc instr sg of mātugāma, comp | | with a woman | group of mothers | | | mātu + gāma | genitive tappurisa | mātūnaṃ + gāma |
 | saddhiṃ | ind | prep | +instr | together with | | | | | | |
-| eko | card | masc nom sg of eka |  | one |  |  |  |  |  |  |
+| eko | card | masc nom sg of eka | | one | | | | | | |
 | ekāya | card | fem instr sg of eka | | with one woman | with one (female) | | | | | |
 | raho | ind | adv, masc nom sg of rahas | | secretly, privately | | √rah (leave) | | √rah + as | | |
 | nisajjaṃ | noun | fem acc sg of nisajjā | | seat (or) sitting down | seating | √sad (sink, sit, settle) | | ni + √sad + ya + ā | | |
@@ -88,13 +88,13 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :--------------------------------------------------- | :----------------------------- | :---------------- | :------------------------ | :-------------------- | :---------------- | :------------------------ |
-| yena | pron | masc instr sg of ya |  | with whichever | by which |  |  |  |  |  |
+| yena | pron | masc instr sg of ya | | with whichever | by which | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | sā | pron | fem nom sg of ta | | she, that | | | | | | |
 | saddheyyavacasā | adj | fem nom sg of saddheyyavacasa, comp | | believable, trustworthy; whose word can be trusted | having speech to be believed | | | saddheyya + vacasa | kammadhāraya | saddheyya + vacasa |
 | upāsikā | noun | fem nom sg | | female disciple, devotee | sitting near | √ās (sit) | | upa + √ās + ikā | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
-| tena | pron | masc instr sg of ta |  | by him; by that |  |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | kāretabbo | ptp | masc nom sg of kāretabba | +instr | should be dealt with; should be made to do (by) | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |

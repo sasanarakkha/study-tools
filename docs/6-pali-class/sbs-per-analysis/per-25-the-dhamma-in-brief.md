@@ -11,17 +11,17 @@ mahāpajāpatī gotamī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavan
 | --- | --- | --- | --- |
 | mahāpajāpatī | noun | fem.nom.sg | Mahāpajāpatī |
 | gotamī | noun | fem.nom.sg | Gotamī |
-| yena | ind |  | where |
+| yena | ind | | where |
 | bhagavā | noun | masc.nom.sg | the Blessed One |
 | ten'upasaṅkami | idiom | aor.3.sg | approached there, went to that place |
 | upasaṅkamitvā | verb | abs | having approached |
 | bhagavantaṃ | noun | masc.acc.sg | Fortunate One, the Buddha |
 | abhivādetvā | verb | abs | having paid homage, saluted, greeted, |
-| ekaṃantaṃ | ind |  | on one side; aside |
+| ekaṃantaṃ | ind | | on one side; aside |
 | aṭṭhāsi | verb | aor.3.sg | stood; stayed |
-| ekamantaṃ | ind |  | on one side; aside |
+| ekamantaṃ | ind | | on one side; aside |
 | ṭhitā | pp | fem.nom.sg | stood, standing |
-| kho | ind |  | indeed |
+| kho | ind | | indeed |
 | sā | pron | fem.nom.sg | that, she |
 | mahāpajāpatī gotamī | noun | fem.nom.sg | Mahāpajāpatī Gotamī |
 | bhagavantaṃ | noun | masc.acc.sg | Fortunate One, the Buddha |
@@ -33,7 +33,7 @@ sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato 
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| sādhu | ind |  | it is good |
+| sādhu | ind | | it is good |
 | me | pron | 1.dat.sg | for me |
 | bhante | noun | masc.voc.sg | Venerable Sir |
 | bhagavā | noun | masc.nom.sg | the Buddha, Blessed One |
@@ -51,7 +51,7 @@ sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato 
 | ātāpinī | adj | fem.nom.sg | ardent; strenuous, active |
 | pahitattā | adj | fem.nom.sg | resolute, with intention |
 | vihareyyaṃ- | verb | opt.ref.1.sg | I could stay, I might dwell |
-| iti | ind |  | ” |
+| iti | ind | | ” |
 
 **Venerable Sir, It would be good if the Blessed One would teach me the Dhamma in brief, whatever having heard the Teaching of the Blessed One, I might dwell alone, secluded, vigilant, ardent and resolute**
 
@@ -60,8 +60,8 @@ ye ca kho tvaṃ, gotamī, dhamme jāneyyāsi
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ye | pron | masc.acc.pl | whichever, whatever |
-| ca | ind |  | but, and |
-| kho | ind |  | indeed, definitely |
+| ca | ind | | but, and |
+| kho | ind | | indeed, definitely |
 | tvaṃ | pron | 2.nom.sg | you |
 | gotamī | noun | fem.v.sg | Gotami |
 | dhamme | noun | masc.acc.pl | qualities |
@@ -156,7 +156,7 @@ subharatāya saṃvattanti, no dubbharatāyā'ti
 | saṃvattanti | verb | pr.3.pl | are lead (to) |
 | no | ind | neg | no |
 | dubbharatāya | noun | masc.dat.sg | to being difficult to support |
-| ti, | ind |  | '' |
+| ti, | ind | | '' |
 
 **lead to being easy to support, not to being difficult to support**
 
@@ -164,7 +164,7 @@ ekaṃsena, gotami, dhāreyyāsi — eso dhammo, eso vinayo, etaṃ satthusāsan
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| ekaṃsena, | ind |  | certainly, absolutely, definitely |
+| ekaṃsena, | ind | | certainly, absolutely, definitely |
 | gotami | noun | masc.voc.sg | o Gotami |
 | dhāreyyāsi | verb | opt.2.sg | you should bear in mind, could keep in mind remember |
 | eso | noun | masc.nom.sg | this |

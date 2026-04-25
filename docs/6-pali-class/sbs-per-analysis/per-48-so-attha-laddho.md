@@ -8,7 +8,7 @@ te atthaladdhā sukhitā, viruḷhā buddhasāsane. arogā sukhitā hotha, saha 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | te | pron | masc.nom.pl | those |
-| attha- | noun |  | benefit, profit, good, welfare, goal |
+| attha- | noun | | benefit, profit, good, welfare, goal |
 | laddhā | verb | ger | getting, obtaining |
 | sukhitā | adj | masc.nom.pl | pleased, delighted, blessed, comforted, happy |
 | viruḷhā | pp | masc.nom.pl | grown, spouted, developed |
@@ -16,7 +16,7 @@ te atthaladdhā sukhitā, viruḷhā buddhasāsane. arogā sukhitā hotha, saha 
 | arogā | adj | masc.nom.pl | healthy, free from disease |
 | sukhitā | adj | masc.nom.pl | pleased, delighted, blessed, comforted, happy |
 | hotha | verb | imp.2.pl | may you all be! |
-| saha | ind |  | with, together (with), accompanied (by) |
+| saha | ind | | with, together (with), accompanied (by) |
 | sabbehi | adj | masc.ins.pl | with all |
 | ñātibhi | noun | masc.ins.pl | with family, relatives, kinsmen |
 

@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------------- | :---------------- | :----------------- | :------------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ujjhānasaññī | adj | masc nom sg of ujjhānasaññī | | perceiving fault; with a critical mind | thinking down perception | | | ujjhāna + saññī | | |
 | - ujjhāna | noun | nt, from ujjhāyati | | finding fault; complaining | thinking down | √jhā (think) | | ava > o > u + √jhā + ana | | |
 | - saññī | adj | mac nom sg of saññī | | aware of, perceiving, attentive to | | √ñā (know) | | saṃ + √ñā + ī | | |

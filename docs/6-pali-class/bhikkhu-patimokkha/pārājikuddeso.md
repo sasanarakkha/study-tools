@@ -43,7 +43,7 @@
 | aññataraṃ | adj | masc acc sg of aññatara | +gen | one (of); either one (of) | more than another | | | añña + tara | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | āpajjitvā | verb | abs of āpajjati | | having committed | having reached | √pad (go, step) | √pad + ya > pajja | ā + pajja + itvā | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | labhati | verb | pr 3rd sg | | he gets, obtains | | √labh (get) | √labh + a > labha | labha + ti | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | saddhiṃ | ind | prep | +instr | together with | | | | | | |
@@ -112,7 +112,7 @@
 | pārājikā | adj | masc nom pl of pārājika | | related to defeat | | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
-| Four cases involving disqualification are finished |  |  |  |  |  |  |  |  |  |  |
+| Four cases involving disqualification are finished | | | | | | | | | | |
 
 
 [← previous](nidānuddeso.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=p%C4%81r%C4%81jikuddeso) | [next →](methunadhamma sikkhāpadaṃ.md)

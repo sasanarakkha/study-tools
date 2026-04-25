@@ -35,7 +35,7 @@ para-paṭibaddhā me jīvikā'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| para- | adj |  | other, another |
+| para- | adj | | other, another |
 | paṭibaddhā | adj | fem.nom.sg | dependent on, connected to, tied up with supported by |
 | me | pron | 1.gen.sg | my |
 | jīvikā'ti | noun | fem.nom.sg | livelihood, way of life |
@@ -57,12 +57,12 @@ kacci nu kho me attā sīlato na upavadatī'ti, pabbajitena abhiṇhaṃ paccave
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| kacci | ind |  | I hope, I trust, I doubt, I suspect, I wonder |
-| nu kho | ind |  | does? is? would? |
+| kacci | ind | | I hope, I trust, I doubt, I suspect, I wonder |
+| nu kho | ind | | does? is? would? |
 | me | pron | 1.acc.sg | me |
 | attā | noun | masc.nom.sg | self, myself |
 | sīlato | noun | masc.abl.sg | from (with regard to) moral practice, virtue |
-| na | ind |  | not |
+| na | ind | | not |
 | upavadatī'ti, | verb | pr.3.pl | blames, insults, criticizes, finds fault (with) |
 
 **I wonder, does the self not criticize me with regard to virtue?**
@@ -71,14 +71,14 @@ kacci nu kho maṃ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| kacci | ind |  | I hope, I trust, I doubt, I suspect, I wonder |
-| nu kho | ind |  | does? is? would? |
+| kacci | ind | | I hope, I trust, I doubt, I suspect, I wonder |
+| nu kho | ind | | does? is? would? |
 | maṃ | pron | 1.acc.sg | me |
 | anuvicca | verb | ger | investigating, finding out, learning about knowing about |
 | viññū | adj | masc.nom.pl | wise |
 | sabrahmacārī | noun | masc.nom.pl | fellow monks |
 | sīlato | noun | masc.abl.sg | from (with regard to) moral practice, virtue |
-| na | ind |  | not |
+| na | ind | | not |
 | upavadantī'ti | verb | pr.3.pl | blame, insult, criticize, find fault (with) |
 
 **I wonder, do wise fellow monks not criticize me, investigating with regard to virtue?**
@@ -107,10 +107,10 @@ kacci nu kho'haṃ suññ'āgāre abhiramāmī'ti,
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| kacci | ind |  | I hope, I trust, I doubt, I suspect, I wonder |
-| nu kho | ind |  | does? is? would? |
+| kacci | ind | | I hope, I trust, I doubt, I suspect, I wonder |
+| nu kho | ind | | does? is? would? |
 | ahaṃ | pron | 1.nom.sg | I |
-| suñña- | adj |  | empty, uninhabited |
+| suñña- | adj | | empty, uninhabited |
 | āgāre | noun | masc.loc.sg | in dwelling |
 | abhiramāmi iti | verb | pr.1.sg | I enjoy; find pleasure in |
 
@@ -121,14 +121,14 @@ atthi nu kho me uttari-manussa-dhammā alam'ariya-ñāṇa-dassana-viseso adhiga
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | atthi | verb | pr.3.sg | there is |
-| nu kho | ind |  | does? is? would? |
+| nu kho | ind | | does? is? would? |
 | me | pron | 1.instr.sg | by me |
-| uttari- |  |  | over; beyond; further; moreover; additional |
-| manussa- | noun |  | human being |
+| uttari- | | | over; beyond; further; moreover; additional |
+| manussa- | noun | | human being |
 | dhammā | noun | masc.nom.pl | mental states |
-| alaṃ' | ind |  | suitable |
-| ariya- | noun |  | noble |
-| ñāṇa-dassana- | noun |  | knowledge & vision |
+| alaṃ' | ind | | suitable |
+| ariya- | noun | | noble |
+| ñāṇa-dassana- | noun | | knowledge & vision |
 | viseso | noun | masc.nom.sg | attainment |
 | adhigato | pp | masc.nom.sg | attained; obtained; understood |
 | so- | pron | masc.nom.sg | that |
@@ -137,7 +137,7 @@ atthi nu kho me uttari-manussa-dhammā alam'ariya-ñāṇa-dassana-viseso adhiga
 | kāle | noun | masc.loc.sg | in time |
 | sabrahmacārīhi | noun | masc.ins.pl | by a fellow monks |
 | puṭṭho | pp | masc.nom.sg | asked, questioned |
-| na |  | ind | not |
+| na | | ind | not |
 | maṅku | adj | masc.nom.sg | confused; downcast; in low spirits, abashed |
 | bhavissāmī'ti, | verb | fut.1.sg | I will be |
 

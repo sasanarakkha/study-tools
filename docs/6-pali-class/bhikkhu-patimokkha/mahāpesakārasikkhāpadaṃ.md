@@ -22,7 +22,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------ | :------------------ | :---------------------------- | :--------------------------------- | :------------------------ | :--------------------- | :------------------------ |
 | tatra | ind | adv, from ta | | there, in this case, in this regard | there | | | ta + tra | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | pubbe | ind | adv, loc sg of pubba | | before, previously | in front | | | pubba + e | | |

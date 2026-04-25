@@ -10,11 +10,11 @@ ayam-eva ariyo aṭṭh'aṅgiko maggo seyyathīdaṃ sammā-diṭṭhi sammā-s
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ayaṃ- | pron | masc.nom.sg | this |
-| eva | ind |  | only, just, so, even |
+| eva | ind | | only, just, so, even |
 | ariyo | adj | masc.nom.sg | noble, distinguished |
 | aṭṭhaṅgiko | adj | masc.nom.sg | with eight parts; eight-limbed, eight-fold |
 | maggo | noun | masc.nom.sg | road, path, track |
-| seyyathīdaṃ | ind |  | as follows, i.e. |
+| seyyathīdaṃ | ind | | as follows, i.e. |
 | sammādiṭṭhi | noun | fem.nom.sg | correct outlook, right view |
 | sammāsaṅkappo | noun | masc.nom.sg | correct intention, right thoughts |
 | sammāvācā | noun | fem.nom.sg | correct speech |
@@ -37,7 +37,7 @@ yaṃ kho bhikkhave dukkhe ñāṇaṃ, dukkha-samudaye ñāṇaṃ, dukkha-niro
 | katamā ca | pron | fem.nom.sg | and what? |
 | sammādiṭṭhi | noun | fem.nom.sg | correct outlook, right view |
 | yaṃ | pron | nt.nom.sg | that which, what |
-| kho | ind |  | indeed |
+| kho | ind | | indeed |
 | dukkhe | noun | nt.loc.sg | in discomfort, suffering, pain, unease something unsatisfactory, problem, trouble |
 | ñāṇaṃ | noun | nt.nom.sg | knowledge, understanding, insight |
 | dukkhasamudaye | noun | masc.loc.sg | in origin of suffering, source of unsatisfactory |
@@ -62,11 +62,11 @@ nekkhamma-saṅkappo, abyāpāda-saṅkappo, avihiṃsā-saṅkappo, ayaṃ vucc
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| nekkhamma- | noun |  | renunciation, giving up (worldly things) |
+| nekkhamma- | noun | | renunciation, giving up (worldly things) |
 | saṅkappo | noun | masc.nom.sg | intention, volition, thought |
 | abyāpāda- | noun | goodwill, kindness, friendliness, benevolence | lit. not ill-will |
 | saṅkappo | noun | masc.nom.sg | intention, volition, thought, |
-| avihiṃsā- | noun |  | non-violence, non-cruelty, non-harm |
+| avihiṃsā- | noun | | non-violence, non-cruelty, non-harm |
 | saṅkappo | noun | masc.nom.sg | intention, volition, thought |
 
 **The intention of renunciation, the intention of non-ill-will, the intention of non-cruelty, this monks is called right intention.**
@@ -114,9 +114,9 @@ idha bhikkhave ariya-sāvako micchā-ājīvaṃ pahāya sammā-ājīvena jīvita
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| idha | ind |  | here, in this regard, in this case |
+| idha | ind | | here, in this regard, in this case |
 | ariyasāvako | noun | masc.nom.sg | disciple of the noble ones |
-| micchā- | ind |  | wrongly, falsely, incorrectly, improperly |
+| micchā- | ind | | wrongly, falsely, incorrectly, improperly |
 | ājīvaṃ | noun | masc.acc.sg | livelihood, way of earning a living |
 | pahāya | verb | ger | leaving behind, giving up, abandoning |
 | sammāājīvena | noun | masc.ins.sg | correct livelihood |
@@ -133,7 +133,7 @@ idha bhikkhave bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ 
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| idha | ind |  | here, in this regard, in this case |
+| idha | ind | | here, in this regard, in this case |
 | bhikkhu | noun | masc.nom.sg | monk |
 | anuppannānaṃ | pp | masc.gen.pl | of unborn; unarisen; not existing; nonexistent |
 | pāpakānaṃ | adj | masc.gen.pl | of bad, wicked, wrong, worthless |
@@ -204,10 +204,10 @@ idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satim
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| idha- | ind |  | here |
+| idha- | ind | | here |
 | bhikkhu | noun | masc.nom.sg | monk |
 | kāye | noun | masc.loc.sg | in body |
-| kāya- | noun |  | body |
+| kāya- | noun | | body |
 | anupassī | noun | masc.nom.sg | observer; one who contemplates |
 | viharati | verb | pr.3.sg | he stays |
 | ātāpī | adj | masc.nom.sg | ardent; strenuous , with continuous effort, lit. burning |
@@ -256,9 +256,9 @@ katamo ca bhikkhave sammā-samādhi
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | katamo | pron | masc.nom.sg | what? which (of the many)? |
-| ca | ind |  | and |
+| ca | ind | | and |
 | bhikkhave | noun | masc.voc.pl | o monks |
-| sammā- | ind |  | perfectly, rightly, correctly |
+| sammā- | ind | | perfectly, rightly, correctly |
 | samādhi | noun | masc.nom.sg | perfect peace of mind, stability of mind, stillness of mind |
 
 **and what monks is right stability of mind?**
@@ -267,11 +267,11 @@ idha bhikkhave bhikkhu vivicc'eva kāmehi vivicca akusalehi dhammehi,
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| idha | ind |  | here, in this regard, in this case |
+| idha | ind | | here, in this regard, in this case |
 | bhikkhave | noun | masc.voc.pl | o monks |
 | bhikkhu | noun | masc.nom.sg | monk |
 | vivicca- | verb | ger | separating oneself from, aloof from |
-| eva | ind |  | just |
+| eva | ind | | just |
 | kāmehi | noun | masc.abl.pl | from pleasures, sensual pleasures |
 | vivicca | verb | ger | separating oneself from, aloof from |
 | akusalehi | adj | masc.abl.pl | from unskillful, unbeneficial, useless |
@@ -320,16 +320,16 @@ pītiyā ca virāgā upekkhako ca viharati, sato ca sampajāno, sukhañ'ca kāye
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | pītiyā | noun | fem.gen.sg | of joy, delight |
-| ca | ind |  | and |
+| ca | ind | | and |
 | virāgā | noun | masc.abl.sg | from waning, fading, lit. discolouring |
 | upekkhako | adj | masc.nom.sg | mentally poised; mentally balanced; equanimous; looking on |
-| ca | ind |  | and |
+| ca | ind | | and |
 | viharati | verb | pr.3.sg | stays, dwells |
 | sato | adj | masc.nom.sg | mindful, present, attentive |
-| ca | ind |  | and |
+| ca | ind | | and |
 | sampajāno | adj | masc.nom.sg | clearly aware, attentive, knowing |
 | sukhaṃ- | noun | nt.acc.sg | ease; comfort |
-| ca | ind |  | and |
+| ca | ind | | and |
 | kāyena | noun | masc.ins.sg | with body, by body |
 | paṭisaṃvedeti | verb | pr.3.sg | feels, experiences, undergoes |
 | yaṃ | pron | masc.acc.sg | whoever, who, which |
@@ -351,10 +351,10 @@ sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassa-domanassānaṃ at
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sukhassa | noun | nt.gen.sg | of happiness; ease |
-| ca | ind |  | and |
+| ca | ind | | and |
 | pahānā | noun | nt.abl.sg | from giving up, letting go, removal abandoning |
 | dukkhassa | noun | nt.gen.sg | of suffering; pain; misery |
-| ca | ind |  | and |
+| ca | ind | | and |
 | pahānā | noun | nt.abl.sg | from giving up, letting go, removal abandoning |
 | pubb'eva | ind | just in front of, just before, previous | as before, as earlier |
 | somanassadomanassānaṃ | noun | nt.gen.pl | of (mental) pleasure and displeasure satisfaction and dissatisfaction |

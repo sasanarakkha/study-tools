@@ -19,7 +19,7 @@ passa cittakataṃ bimbaṃ – arukāyaṃ samussitaṃ
 | bahusaṅkappaṃ | adj | masc.acc.sg | full of plans, with many intentions |
 | yassa | pron | masc.dat.sg | for that, for whoever |
 | n'atthi | verb | pr.3.sg | is not, it is not, there is not, there is no, there is nothing |
-| dhuvaṃ | ind |  | permanently, continuously, constantly, always, at all |
+| dhuvaṃ | ind | | permanently, continuously, constantly, always, at all |
 | ṭhiti | noun | fem.nom.sg | stability, constancy, endurance, long lasting lit. standing |
 
 **Look at this mind-created image (adorned, painted puppet), a collection of wounds, propped up, diseased, . There is no stability for that at all.**
@@ -34,11 +34,11 @@ aṭṭhiṃ tacena onaddhaṃ – saha vatthehi sobhati
 | rūpaṃ | noun | nt.acc.sg | body, physical body, bodily form |
 | maṇinā | noun | masc.ins.sg | by gem; jewel |
 | kuṇḍalena | noun | nt.ins.sg | by ring, earring |
-| ca | ind |  | and |
+| ca | ind | | and |
 | aṭṭhiṃ | noun | nt.nom.sg | bone |
 | tacena | noun | masc.ins.sg | with skin |
 | onaddhaṃ | pp | nt.nom.sg | enveloped (with), covered (with), wrapped |
-| saha | ind |  | with, together (with), accompanied (by) |
+| saha | ind | | with, together (with), accompanied (by) |
 | vatthehi | noun | nt.ins.sg | because of cloth, clothes, robe |
 | sobhati | verb | pr.3.sg | shines, radiates, looks beautiful |
 
@@ -53,13 +53,13 @@ alaṃ bālassa mohāya – no ca pāragavesino
 | katā | pp | masc.nom.pl | done, made |
 | pādā | noun | masc.nom.pl | feet |
 | mukhaṃ | noun | nt.nom.sg | mouth, face |
-| cuṇṇaka- | noun |  | powder |
+| cuṇṇaka- | noun | | powder |
 | makkhitaṃ | pp | nt.nom.sg | smeared, stained |
-| alaṃ | ind |  | enough |
+| alaṃ | ind | | enough |
 | bālassa | noun | masc.gen.sg | of fool, idiot, immature person |
 | mohāya | noun | masc.dat.sg | for illusion, delusion, confusion |
-| no | ind |  | not |
-| ca | ind |  | but |
+| no | ind | | not |
+| ca | ind | | but |
 | pāragavesino | noun | masc.gen.sg | of who is looking for salvation, seeking the beyond, lit. seeking the far shore |
 
 **Feet adorned with henna dye, face smeared with powder. It is enough for the illusion of a fool, but not fora seeker of the far shore.**
@@ -69,12 +69,12 @@ alaṃ bālassa mohāya – no ca pāragavesino
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| aṭṭha- | adj |  | eight (8) |
-| pada- | noun |  | way, place, position |
+| aṭṭha- | adj | | eight (8) |
+| pada- | noun | | way, place, position |
 | katā | pp | masc.nom.pl | done, made, arranged |
 | kesā | noun | masc.nom.pl | hair |
 | nettā | noun | nt.nom.pl | eyes |
-| añjana- | noun |  | eyeliner, cosmetic for the eyes, made of antimony |
+| añjana- | noun | | eyeliner, cosmetic for the eyes, made of antimony |
 | makkhitā | pp | nt.nom.pl | smeared, stained |
 
 **Hair arranged in eight ways, eyes smeared with eyeliner. It is enough for the illusion of a fool, but not fora seeker ofthe far shore.**
@@ -111,7 +111,7 @@ bhiyyova kāme abhipatthayanti
 | dhanaṃ | noun | nt.acc.sg | wealth, riches, treasure |
 | sannicayaṃ | noun | masc.acc.sg | hoard, pile, cache, stash, accumulation |
 | karonti | verb | pr.3.pl | they make, do, arrange |
-| bhiyyo-eva | ind |  | even more (than), and just more (than) |
+| bhiyyo-eva | ind | | even more (than), and just more (than) |
 | kāme | noun | masc.acc.pl | pleasures, sensual pleasures |
 | abhipatthayanti | verb | pr.3.pl | they long (for), hope (for), crave (for), aspire |
 
@@ -125,9 +125,9 @@ kāmehi lokamhi na hatthi titti
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | rājā | noun | masc.nom.sg | king |
-| ca | ind |  | and |
+| ca | ind | | and |
 | aññe | pron | masc.nom.pl | others, other people, the rest |
-| ca | ind |  | and |
+| ca | ind | | and |
 | bahū | adj | masc.nom.pl | many |
 | manussā | noun | masc.nom.pl | human beings, men, people |
 | avītataṇhā | adj | masc.nom.pl | not free from desire , not free from passion, not without craving |
@@ -139,7 +139,7 @@ kāmehi lokamhi na hatthi titti
 | dehaṃ | noun | masc.acc.sg | body |
 | kāmehi | noun | masc.ins.pl | through pleasures, with sense pleasures |
 | lokamhi | noun | masc.loc.sg | in the world |
-| na | ind |  | not |
+| na | ind | | not |
 | h'atthi | verb | pr.3.sg | indeed there is |
 | titti | noun | fem.nom.sg | satisfaction (in), contentment (from) |
 
@@ -152,13 +152,13 @@ asassataṃ vippariṇāma-dhammaṃ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| na | ind |  | not |
+| na | ind | | not |
 | dīgham- | adj | nt.acc.sg | long (in space or time), tall |
 | āyuṃ | noun | nt.acc.sg | life |
 | labhate | verb | pr.refl.3.sg | one gets, one obtains |
 | dhanena | noun | nt.ins.sg | by wealth, riches, treasure |
-| na | ind |  | not |
-| cāpi | ind |  | or even, and even, as well as |
+| na | ind | | not |
+| cāpi | ind | | or even, and even, as well as |
 | vittena | noun | masc.ins.sg | by wealth, property, power |
 | jaraṃ | noun | masc.acc.sg | old age, growing old, decay |
 | vihanti | verb | pr.3.sg | strikes, wards off, banish |
@@ -180,17 +180,17 @@ pāpāni kammāni karoti mohā
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tasmā | ind | adv | from that, therefore, that is why, lit. from that |
-| hi | ind |  | indeed, certainly, truly, definitely |
+| hi | ind | | indeed, certainly, truly, definitely |
 | paññā- | noun | fem.nom.sg | wisdom, knowledge, intelligence, intellect understanding, insight |
-| eva | ind |  | only, just, so, even |
+| eva | ind | | only, just, so, even |
 | dhanena | noun | masc.ins.sg | with/than wealth, riches, treasure |
 | seyyā | adj | fem.nom.sg | better, better than, preferable |
 | yāya | pron | fem.ins.sg | by whichever, with which (woman) |
-| vosānaṃ- | noun |  | (relative) achievement, perfection, accomplishment |
-| idha- | ind |  | here, now, in this world |
+| vosānaṃ- | noun | | (relative) achievement, perfection, accomplishment |
+| idha- | ind | | here, now, in this world |
 | adhigacchati | verb | pr.3.sg | gets, finds, obtains, attains |
 | abyositattā | noun | nt.abl.sg | from (state) not perfected, not accomplished (comm) - not attained perfection |
-| hi | ind |  | indeed |
+| hi | ind | | indeed |
 | bhav'ābhavesu | noun | masc.loc.pl | in this or that life, any form of existence, some sort of existence |
 | pāpāni | adj | nt.acc.pl | evil, criminal, wrong, bad, vicious |
 | kammāni | noun | nt.acc.pl | actions, deeds, doing |
@@ -207,7 +207,7 @@ tasmā ahaṃ pabbajitomhi rāja
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | kāmā | noun | masc.nom.pl | pleasures, sensual pleasures |
-| hi | ind |  | indeed, certainly, truly, definitely |
+| hi | ind | | indeed, certainly, truly, definitely |
 | citrā | adj | masc.nom.pl | decorated, beautiful, adorned |
 | madhurā | adj | masc.nom.pl | sweet, lovely |
 | manoramā | adj | masc.nom.pl | delightful, attractive, lit. mind pleasing |
@@ -232,26 +232,26 @@ apaṇṇakaṃ sāmaññam'eva seyyo
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| duma- | noun |  | tree |
+| duma- | noun | | tree |
 | phalāni- | noun | nt.nom.pl | fruits |
-| iva | ind |  | like, as |
+| iva | ind | | like, as |
 | patanti | verb | pr.3.pl | they fall |
 | māṇavā | noun | masc.nom.pl | young men, young gentlemen, young Brahmans |
 | daharā | adj | masc.nom.pl | young |
-| ca | ind |  | and |
+| ca | ind | | and |
 | vuḍḍhā | adj | masc.nom.pl | old, elderly, senior |
-| ca | ind |  | and |
-| sarīra- | noun |  | body |
+| ca | ind | | and |
+| sarīra- | noun | | body |
 | bhedā | noun | masc.abl.sg | from breaking-up (of), breaking apart (of) |
 | etaṃ api | pron | masc.acc.sg | just this, this alone, this |
 | disvā | verb | abs | having seen, having understood, having found |
 | pabbajito- | pp/noun | masc.nom.sg | (one) gone forth, a monk, monastic, renunciant |
 | amhi | verb | pr.1.sg | I am |
 | rāja | noun | masc.voc.sg | o king |
-| apaṇṇakaṃ | ind |  | surely; certainly |
+| apaṇṇakaṃ | ind | | surely; certainly |
 | sāmaññaṃ- | noun | nt.nom.sg | monkhood, state of being a monk |
-| eva | ind |  | only, just, so, even, also |
-| seyyo | ind |  | better |
+| eva | ind | | only, just, so, even, also |
+| seyyo | ind | | better |
 
 **As fruits from a tree, people fall, young and old, from the breaking-up of the body, 
 just having seen this, I am a monk, o king. Certainly only monkhood is better.**

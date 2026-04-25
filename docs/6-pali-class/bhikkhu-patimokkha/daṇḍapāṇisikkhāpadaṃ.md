@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | daṇḍapāṇissa | adj | masc dat sg of daṇḍapāṇī, comp | | to (one) with a stick in hand, to a stick-holder | | | | daṇḍa + pāṇī | kammadhāraya | daṇḍa + pāṇī |
 | - daṇḍa | noun | masc | | stick, walking stick | | | | | | |
 | - pāṇissa | adj | masc dat sg of pāṇī | | to (someone with something) in hand | to handed | | | pāṇi + ī | | |

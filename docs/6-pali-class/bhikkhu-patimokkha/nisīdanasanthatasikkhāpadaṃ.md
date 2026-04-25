@@ -28,7 +28,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :------------------ | :------------------------------ | :--------------------- | :------------------------ | :--------------------- | :------------------------ |
 | anādā | verb | ger of na ādiyati | | not adding, not having included | not taking | √ādā (take, steal) | | na + √ādā + ya | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | purāṇasanthatassa | noun | nt gen sg of purāṇasanthata, comp | | of used rug; old felt | | | | purāṇa + santhata | kammadhāraya | purāṇa + santhata |
 | sāmantā | ind | adv, abl sg of sāmanta | | all around; surrounding; bordering | from all ends | | | saṃ + anta + *a + ā | | |

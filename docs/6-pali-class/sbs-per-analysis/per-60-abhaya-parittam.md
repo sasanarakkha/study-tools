@@ -6,7 +6,7 @@ yan'dunnimittaṃ avamaṅgalañ'ca, yo c'āmanāpo sakuṇassa saddo, pāpaggah
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| [trad] |  |  |  |
+| [trad] | | | |
 | yan' | pron | nt.nom.sg | which, whatever, that which |
 | dunnimittaṃ | noun | nt.nom.sg | bad omen |
 | avamaṅgalañ'ca | noun | nt.nom.sg | and bad luck, ill omen |
@@ -14,7 +14,7 @@ yan'dunnimittaṃ avamaṅgalañ'ca, yo c'āmanāpo sakuṇassa saddo, pāpaggah
 | c'āmanāpo | adj | masc.nom.sg | and unpleasant, disagreeable, detestable |
 | sakuṇassa | noun | masc.gen.sg | of bird |
 | saddo | noun | masc.nom.sg | sound, noise |
-| pāpa- | adj |  | evil, criminal, wrong, bad, vicious |
+| pāpa- | adj | | evil, criminal, wrong, bad, vicious |
 | gaho | noun | masc.nom.sg | planet |
 | dussupinaṃ | noun | nt.nom.sg | bad dream, nightmare |
 | akantaṃ | adj | nt.nom.sg | unpleasant, unwelcome, disagreeable |

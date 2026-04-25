@@ -5,7 +5,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------ | :------ | :-------------------------------------------- | :------- | :------------------------------------------------------------- | :-------------------------- | :------------------ | :------- | :------------------ | :---------------- | :------------------------ |
 | namo | ind | nom sg of namas | +dat | homage (to), respect (to) | bending (to), bowing (to) | √nam (bend) | | √nam + as | | |
-| tassa | pron | masc dat sg of ta |  | to him |  |  |  |  |  |  |
+| tassa | pron | masc dat sg of ta | | to him | | | | | | |
 | bhagavato | noun | masc dat sg of bhagavant | | to the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
 | arahato | noun | masc dat sg of arahant | | to the awakened being, enlightened person, to the worthy one | worthy one | √arah (be worthy) | | √arah + ant | | |
 | sammāsambuddhassa | noun | masc dat sg of sammāsambuddha, comp | | to the perfectly fully awakened being | | | | sammā + sambuddha | kammadhāraya | sammā + sambuddha |
@@ -53,7 +53,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------ | :------- | :---------------------------------------- | :---------------------------------------------- | :-------------------------- | :---------------- | :------------------------------------------- | :--------------------- | :------------------------ |
-| yadi | ind |  |  | if |  |  |  |  |  |  |
+| yadi | ind | | | if | | | | | | |
 | saṅghassa | noun | masc dat sg of saṅgha | | for the community, assembly, group | joined together | √ghaṭ (join together) | | saṃ + √ghaṭ + a | | |
 | pattakallaṃ | noun | nt nom sg of pattakalla, comp | | good time, suitable occasion | reached suitable time (or) reached legitimate | | | patta + kāla > kalla (or)<br>patta + kalla | accusative tappurisa | patta + kallaṃ |
 | - patta 1 | pp | pp of pāpuṇāti | +acc | reached, attained, accomplished | reached | √ap (reach, attain) | | pa + √ap + ta | | |
@@ -75,7 +75,7 @@
 | pubbakiccaṃ | noun | nt nom sg of pubbakicca, comp | | preliminary duty | what should be done before | | | pubba + kicca | kammadhāraya | pubba + kicca |
 | - pubba | adj | | | preliminary, preceding, earlier; former | before | | | | | |
 | - kiccaṃ | noun | nt nom sg of kicca, ptp of karoti | | duty, obligation | should be done | √kar (do, make) | | √kar + tya | | |
-| What is the preliminary duty for the Community? |  |  |  |  |  |  |  |  |  |  |
+| What is the preliminary duty for the Community? | | | | | | | | | | |
 
 ## pārisuddhiṃ āyasmanto ārocetha
 
@@ -110,7 +110,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :---------------------------------------- | :--------------------------------- | :---------------- | :----------------- | :--------------- | :---------------- | :------------------------ |
-| yassa | pron | masc dat sg of ya |  | for whoever |  |  |  |  |  |  |
+| yassa | pron | masc dat sg of ya | | for whoever | | | | | | |
 | siyā | verb | opt 3rd sg of atthi | +nom | there could be | | √as (be) | √as + a > siya | siya + a | | |
 | āpatti | noun | fem nom sg, from āpajjati | | offence, transgression, wrongdoing | go wrong | √pad (go, step) | | ā + √pad + ti | | |
 | yassa siyā āpatti | idiom | | | whoever has an offence | for whoever there may be offence | | | | | |

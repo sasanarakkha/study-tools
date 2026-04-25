@@ -10,15 +10,15 @@ ayaṃ kho me kāyo uddhaṃ pādatalā adho kesa-matthakā taca-pariyanto pūro
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | ayaṃ | pron | masc.nom.sg | this |
-| kho | ind |  | indeed |
+| kho | ind | | indeed |
 | me | pron | 1.gen.sg | my |
 | kāyo | noun | masc.nom.sg | body |
 | uddhaṃ | ind | prep | upwards (+ abl. ) |
 | pādatalā, | noun | nt.abl.sg | from the sole of the foot |
 | adho | ind | prep | downwards (+ abl. ) |
-| kesa- | noun |  | hair on head |
+| kesa- | noun | | hair on head |
 | matthakā, | noun | masc.abl.sg | from the top, head, crown |
-| taca- | noun |  | skin |
+| taca- | noun | | skin |
 | pariyantaṃ | adj | masc.acc.sg | enclosed with, surrounded by, encircled by |
 | pūro | adj | masc.nom.sg | full; full of |
 | nānappakārassa | adj | masc.gen.sg | of various, many different, manifold |

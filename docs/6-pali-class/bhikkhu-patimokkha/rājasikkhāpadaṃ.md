@@ -41,7 +41,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------- | :------ | :---------------------------- | :------- | :----------------------- | :------------------ | :-------------- | :---------------- | :------------------------ | :---------------- | :------------------------ |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | dūto | masc | masc nom sg of dūta | | messenger | runner | √dū (go, run) | | √dū + ta | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -72,19 +72,19 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :---------------------------------- | :------------------ | :-------------- | :------- | :--------------- | :---------------- | :------------------------ |
-| tena | pron | masc instr sg of ta |  | by him; by that |  |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | dūto | masc | masc nom sg of dūta | | messenger | runner | √dū (go, run) | | √dū + ta | | |
 | evamassa | comp | sandhi, adv + opt | | thus should be | | | | evaṃ + assa | | |
 | vacanīyo | ptp | masc nom sg of vacanīya | | should be spoken, told, addressed | to be said | √vac (speak) | | √vac + anīya | | |
-| by that monk that messenger should be spoken to thus: |  |  |  |  |  |  |  |  |  |  |
+| by that monk that messenger should be spoken to thus: | | | | | | | | | | |
 
 ## na kho mayaṃ, āvuso, cīvaracetāpanaṃ paṭiggaṇhāma, cīvarañ'ca kho mayaṃ paṭiggaṇhāma kālena kappiyan'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :--------------------------------- | :----------------- | :---------------------------- | :------------------- | :------------------ | :----------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | mayaṃ | pron | 1st nom pl | | we | | | | | | |
 | āvuso | noun | masc voc sg or pl of āyasmant | | friend(s), brother(s) | having long life | | | āyas + mant | | |
@@ -107,7 +107,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :--------------------------- | :------------------ | :----------------- | :---------------- | :--------------------------------------------- | :--------------------- | :------------------------ |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | dūto | masc | masc nom sg of dūta | | messenger | runner | √dū (go, run) | | √dū + ta | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -139,7 +139,7 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | upāsako | noun | masc nom of upāsaka | | devotee, disciple | sitting near | √ās (sit) | | upa + √ās + aka | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| eso | pron | masc nom sg of eta |  | this |  |  |  |  |  |  |
+| eso | pron | masc nom sg of eta | | this | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | āvuso | noun | masc voc sg or pl of āyasmant | | friend(s), brother(s) | having long life | | | āyas + mant | | |
 | bhikkhūnaṃ | noun | masc gen or dat pl of bhikkhu | | of the monks, for the monks | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -153,7 +153,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :----------------------------------- | :---------------------- | :-------------- | :----------------- | :------------------------ | :--------------------- | :------------------------ |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | dūto | masc | masc nom sg of dūta | | messenger | runner | √dū (go, run) | | √dū + ta | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | veyyāvaccakaraṃ | noun | masc acc sg of veyyāvaccakara, comp | | helper, assistant, steward | service maker | | | veyyāvacca + kara | accusative tappurisa | veyyāvaccaṃ + kara |
@@ -236,8 +236,8 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :-------------------------------------- | :------- | :------------------------------------------------------- | :---------------- | :-------------------------- | :------------------ | :----------------------- | :---------------- | :------------------------ |
-| no | ind | neg |  | not |  |  |  |  |  |  |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| no | ind | neg | | not | | | | | | |
+| ce | ind | cond | | if | | | | | | |
 | abhinipphādeyya | verb | opt 3rd sg of abhinipphādeti | | he should succeed in obtaining; have (him) bring forth | cause coming up | √pad (go, step) | √pad + *e > phāde | abhi + nī + phāde + ti | | |
 | catukkhattuṃ | ind | adv, comp | | four times | | | | catu + kkhattuṃ | abyayībhāva | catu + kkhattuṃ |
 | pañcakkhattuṃ | ind | adv, comp | | five times | | | | pañca + kkhattuṃ | abyayībhāva | pañca + kkhattuṃ |
@@ -273,7 +273,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------- | :------- | :---------------------------------------------------------- | :---------------- | :------------------------------ | :------------------ | :------------------------ | :---------------- | :------------------------ |
 | tato 2 | pron | masc abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | vāyamamāno | prp | masc nom sg of vāyamamāna, prp of vāyamati | | making an effort, trying | | √yam (control, strive) | √yam + a > yama | vi + ā + yama + māna | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
@@ -287,8 +287,8 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :------------------------------------------------------- | :-------------------- | :---------------- | :------------------ | :----------------------- | :----------------- | :------------------------ |
-| no | ind | neg |  | not |  |  |  |  |  |  |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| no | ind | neg | | not | | | | | | |
+| ce | ind | cond | | if | | | | | | |
 | abhinipphādeyya | verb | opt 3rd sg of abhinipphādeti | | he should succeed in obtaining; have (him) bring forth | cause coming up | √pad (go, step) | √pad + *e > phāde | abhi + nī + phāde + ti | | |
 | yatassa | comp | sandhi, adv + pron (or) opt | | from where for him (or)<br>from where would be | | | | yato + assa | | |
 | - yato | ind | adv, abl sg of ya | | from where, wherever | from which | | | ya + to | | |
@@ -317,7 +317,7 @@
 | uddissa | verb | ger of uddisati | +acc | in the name of, especially for, for the sake of | pointing up | √dis (point out, explain) | | ud + √dis + ya | | |
 | cīvaracetāpanaṃ | noun | nt acc sg of cīvaracetāpana | | robe fund, robe account | fund for robe | | | cīvara + cetāpana | dative tappurisa | cīvarassa + cetāpana |
 | pahiṇittha | verb | aor 2nd pl of pahiṇāti | | you sent | you all sent | √hi (send) | √hi + ṇā > hiṇā | pa + hiṇā + i | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | taṃ | pron | nt nom sg of ta | | that | | | | | | |
 | tassa | pron | masc dat or gen sg of ta | | to him (or) of that, his | | | | | | |
 | bhikkhuno | noun | masc dat or gen sg of bhikkhu, from bhikkhati | | for a monk (or) of monastic, monk's | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -354,7 +354,7 @@
 | - cīvara | noun | nt | | robe | cloth | | | | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | paṭhamo | ordin | masc nom sg of paṭhama | | first | most forward | | | pa + tama | | |
-| The chapter about robes is the first |  |  |  |  |  |  |  |  |  |  |
+| The chapter about robes is the first | | | | | | | | | | |
 
 
 [← previous](dutiyaupakkhaṭasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=r%C4%81jasikkh%C4%81pada%E1%B9%83) | [next →](kosiyasikkhāpadaṃ.md)

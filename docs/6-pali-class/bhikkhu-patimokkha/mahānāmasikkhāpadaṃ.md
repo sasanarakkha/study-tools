@@ -23,7 +23,7 @@
 | - nicca | adj | | | permanent; lasting | | | | ni + tya | | |
 | - pavāraṇāya | noun | fem abl sg | | from an invitation; offer | inviting | √var (wish, choose) | √var + *e > vāre | pa + vāre + anā | | |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | sādiyeyya | verb | opt 3rd sg of sādiyati | | he would accept | be tasted | √sād (taste, relish) | √sād + e + iya > sādiya (pass) | sādiya + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |

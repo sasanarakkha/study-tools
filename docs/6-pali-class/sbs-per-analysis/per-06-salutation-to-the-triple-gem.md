@@ -6,16 +6,16 @@ handa mayaṃ ratanattaya-paṇāma-gāthāyo ceva saṃvegaparikittana-pāṭha
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| handa | ind |  | well then; now |
+| handa | ind | | well then; now |
 | mayaṃ | pron | 1.nom.pl | we |
 | ratanattaya- | noun | nt. | the triad of gems, triple gem (the Buddha, the Dhamma & the Saṅgha) |
 | paṇāma- | noun | masc. | salutation; bending; adoration; bowing down |
 | gāthāyo | noun | fem.acc.pl | verses, poems, stanzas, lit. singing style |
-| ceva | idioṃ |  | and even, as well as |
+| ceva | idioṃ | | and even, as well as |
 | saṃvega- | noun | masc. | dismay, fear, anxiety, dread, shock, feeling of urgency |
-| parikittana- | noun |  | highly praising; (or) expounding; proclaiming, lit: praising all around |
+| parikittana- | noun | | highly praising; (or) expounding; proclaiming, lit: praising all around |
 | pāṭhaṃ | noun | masc.acc.sg | reading, text, passage; lit: utterance |
-| ca | ind |  | and |
+| ca | ind | | and |
 | bhaṇāmase | verb | imp.reflx.1.pl | we should speak, say, tell, let us preach, proclaim |
 
 **now let us proclaim salutation verses of the triple-gem as well as passage talking of a feeling of urgency**
@@ -26,19 +26,19 @@ buddho susuddho karuṇāmahaṇṇavo
 | --- | --- | --- | --- |
 | buddho | noun | masc.nom.sg | Buddha, the Awakened One |
 | susuddho | adj | masc.nom.sg | very clean, thoroughly pure |
-| karuṇā- | noun |  | compassion; sympathy; kindness |
+| karuṇā- | noun | | compassion; sympathy; kindness |
 | mahaṇṇavo | noun | masc.nom.sg | the great ocean |
 
 **the Buddha, thoroughly pure, (being) a great ocean of compassion,**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| yo'ccanta-suddhabbara-ñāṇa-locano |  |  |  |
+| yo'ccanta-suddhabbara-ñāṇa-locano | | | |
 | yo- | pron | masc.nom.sg | who, one who |
-| accanta- | adj |  | complete, absolute, ultimate, lit. "up to the end" |
-| suddha- | adj |  | clean, pure, white |
-| vara\>bara | adj |  | excellent, best, lit. select |
-| ñāṇa- | noun |  | knowledge, understanding, insight |
+| accanta- | adj | | complete, absolute, ultimate, lit. "up to the end" |
+| suddha- | adj | | clean, pure, white |
+| vara\>bara | adj | | excellent, best, lit. select |
+| ñāṇa- | noun | | knowledge, understanding, insight |
 | locano | adj | masc.nom.sg | having eyes, with vision |
 
 **one who has completely pure and excellent understanding and vision**
@@ -48,8 +48,8 @@ lokassa pāp'ūpakilesa-ghātako
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | lokassa | noun | masc.gen.sg | of the world |
-| pāpa- | noun |  | evil, criminal, wrong, bad, vicious |
-| upakilesa- | noun |  | impurity, defilement, blemish, corruption |
+| pāpa- | noun | | evil, criminal, wrong, bad, vicious |
+| upakilesa- | noun | | impurity, defilement, blemish, corruption |
 | ghātako | noun | masc.nom.sg | killer, slayer, destroyer |
 
 **destroyer of the evil corruptions of the world**
@@ -72,7 +72,7 @@ dhammo padīpo viya tassa satthuno
 | --- | --- | --- | --- |
 | dhammo | noun | masc.nom.sg | the Teaching, Doctrine |
 | padīpo | noun | masc.nom.sg | lamp, light, lighting |
-| viya | ind |  | like, as |
+| viya | ind | | like, as |
 | tassa | pron | masc.gen.sg | of him, his, that |
 | satthuno | noun | masc.gen.sg | of the master, teacher |
 
@@ -83,10 +83,10 @@ yo maggapākāmata-bheda-bhinnako
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | which, that which, |
-| magga- | noun |  | way, means, method, road, path |
-| pāka- | noun |  | effect, result; lit: ripening |
-| amata- | noun |  | deathless state |
-| bheda- | noun |  | breaking, rending, breach, disunion, dissension |
+| magga- | noun | | way, means, method, road, path |
+| pāka- | noun | | effect, result; lit: ripening |
+| amata- | noun | | deathless state |
+| bheda- | noun | | breaking, rending, breach, disunion, dissension |
 | bhinnako | adj | masc.nom.sg | broken, damaged, divided |
 
 **which is divided into the path to and the fruit of the deathless**
@@ -97,8 +97,8 @@ lokuttaro yo ca tadattha-dīpano
 | --- | --- | --- | --- |
 | lokuttaro | adj | masc.nom.sg | supra-mundane, transcendental, lit. beyond the world |
 | yo | pron | masc.nom.sg | which, that which, |
-| ca | ind |  | and, but |
-| tadattha- | noun |  | that meaning; meaning of that |
+| ca | ind | | and, but |
+| tadattha- | noun | | that meaning; meaning of that |
 | dīpano | adj | masc.nom.sg | illustrating, explaining |
 
 **and which is beyond the world, explaining the meaning of that.**
@@ -120,9 +120,9 @@ saṅgho sukhettābhyatikhetta-saññito
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saṅgho | noun | masc.nom.sg | Community, assembly |
-| sukhetta- | noun |  | a good soil, fertile land, field |
-| abhyatikhetta- | noun |  | supreme field of merit |
-| khetta- | noun |  | field, plot of land |
+| sukhetta- | noun | | a good soil, fertile land, field |
+| abhyatikhetta- | noun | | supreme field of merit |
+| khetta- | noun | | field, plot of land |
 | saññito | adj | masc.nom.sg | so-called, named, so-to-speak, known perceived |
 
 **the Community is known as the best field, supreme field of merit**
@@ -132,9 +132,9 @@ yo diṭṭhasanto sugatānubodhako
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | which, that which, who, one who |
-| diṭṭha- | pp |  | seen, found, understood |
+| diṭṭha- | pp | | seen, found, understood |
 | santo | adj | masc.nom.sg | still, calm, peaceful, tranquil |
-| sugata- | noun |  | epithet of the Buddha, who has reached the destination; lit. well gone |
+| sugata- | noun | | epithet of the Buddha, who has reached the destination; lit. well gone |
 | anubodhako | adj | masc.nom.sg | realized after (someone); who has understood in succession |
 
 **those who seen the peace, realized after the Buddha**
@@ -143,7 +143,7 @@ lolappahīno ariyo sumedhaso
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| lola- | adj |  | restless, hyperactive, agitated, (or)<br>longing, eager, greedy |
+| lola- | adj | | restless, hyperactive, agitated, (or)<br>longing, eager, greedy |
 | pahīno | pp | masc.nom.sg | abandoned, dispelled, eliminated, removed given up |
 | ariyo | adj | masc.nom.sg | noble, distinguished |
 | sumedhaso | adj | masc.nom.sg | wise |
@@ -155,7 +155,7 @@ vandāmi saṅghaṃ aham-ādarena taṃ
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | vandāmi | verb | pr.1.sg | I pay respect, honour |
-| saṅghaṃ |  | noun | m.ac.s Community, assembly |
+| saṅghaṃ | | noun | m.ac.s Community, assembly |
 | ahaṃ- | pron | 1.nom.sg | I |
 | ādarena | noun | masc.ins.sg | with consideration of, esteem, regard, respect reverence, honour |
 | taṃ | pron | masc.acc.sg | that, him |
@@ -164,15 +164,15 @@ vandāmi saṅghaṃ aham-ādarena taṃ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| icc'evam-ekant-abhipūjaneyyakaṃ |  |  |  |
+| icc'evam-ekant-abhipūjaneyyakaṃ | | | |
 
 **vatthuttayaṃ vandayatābhisaṅkhataṃ**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| icc' = iti | ind |  | thus |
-| evaṃ- | ind |  | thus, this, like this, just as, such |
-| ekanta- | adj |  | absolute, total, perfect, complete<br>(or)<br>only; merely; just |
+| icc' = iti | ind | | thus |
+| evaṃ- | ind | | thus, this, like this, just as, such |
+| ekanta- | adj | | absolute, total, perfect, complete<br>(or)<br>only; merely; just |
 | abhipūjaneyyakaṃ | adj | nt.acc.sg | to be highly worshiped, strongly venerated |
 | vatthu-ttayaṃ | noun | masc.acc.sg | Triple Gem (the Buddha, the Dhamma and the Saṅgha); lit. three things |
 | vandayatā | pp | masc.instr.sg. | by respected; revered; honoured |
@@ -191,20 +191,20 @@ this Triple Gem, the only thing that should be highly worshiped**
 | --- | --- | --- | --- |
 | puññaṃ | noun | nt.acc.sg | merit, good deed, lit. (mental) purity |
 | mayā | pron | 1.ins.sg | by me, with me |
-| yaṃ | ind |  | because, because of |
+| yaṃ | ind | | because, because of |
 | mama | pron | 1.dat.sg | to me, for me |
-| sabba- | adj |  | all, every, whole, entire, complete |
+| sabba- | adj | | all, every, whole, entire, complete |
 | upaddavā | noun | masc.nom.pl | accident, misfortune, calamity |
 
 **mā hontu ve tassa pabhāvasiddhiyā**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| mā | ind |  | may not |
+| mā | ind | | may not |
 | hontu | verb | imp.3.pl | may they be! they must be! |
-| ve | ind |  | indeed, truly, really |
+| ve | ind | | indeed, truly, really |
 | tassa | pron | masc.gen.sg | of this |
-| pabhāva- | noun |  | might, power, strength, majesty, dignity |
+| pabhāva- | noun | | might, power, strength, majesty, dignity |
 | siddhiyā | noun | fem.ins.sg | by/with accomplishment, success, prosperity |
 
 **because of merit created by me, may not be all misfortune for me, indeed by that powerful accomplishment**
@@ -218,7 +218,7 @@ idha tathāgato loke uppanno arahaṃ sammāsambuddho
 | loke | noun | masc.loc.sg | in the world |
 | uppanno | pp | masc.nom.sg | arisen, appeared, come into existence |
 | arahaṃ | noun | masc.nom.sg | enlightened being, 4th stage of the path, lit. worthy one |
-| sammā- | ind |  | completely, thoroughly, fully, totally perfectly, rightly, correctly |
+| sammā- | ind | | completely, thoroughly, fully, totally perfectly, rightly, correctly |
 | sambuddho | noun | masc.nom.sg | one who has thoroughly understood, being enlightened, a Buddha, fully awakened one |
 
 **here, in this world, tathāgata, come into existence, the worthy one, perfectly awakened one**
@@ -228,7 +228,7 @@ dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappaved
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | dhammo | noun | masc.nom.sg | the Teaching |
-| ca | ind |  | and |
+| ca | ind | | and |
 | desito | pp | masc.nom.sg | preached, taught, explained, instructed |
 | niyyāniko | adj | masc.nom.sg | leading out (of Saṃsāra), leading to salvation salutary, sanctifying, saving profitable |
 | upasamiko | adj | masc.nom.sg | calming, bringing peace, tranquilizing |
@@ -246,7 +246,7 @@ mayantaṃ dhammaṃ sutvā evaṃ jānāma
 | taṃ | pron | masc.acc.sg | that |
 | dhammaṃ | noun | masc.acc.sg | the Teaching |
 | sutvā | verb | abs | having heard, having listened to |
-| evaṃ | ind |  | thus, this, like this, just as, such |
+| evaṃ | ind | | thus, this, like this, just as, such |
 | jānāma | verb | pr.3.pl | we know, understand |
 
 **having heard that teaching we understand this**
@@ -256,20 +256,20 @@ jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṃ, soka-parideva-dukkha-do
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | jāti | noun | f.n.sg | birth, rebirth, conception |
-| pi | ind |  | also, and also, even so |
+| pi | ind | | also, and also, even so |
 | dukkhā | adj | fem.nom.sg | uncomfortable, painful, unpleasant, causing misery |
 | jarā | noun | fem.nom.sg | old age, growing old, decay, ageing |
-| pi | ind |  | also, and also, even so |
+| pi | ind | | also, and also, even so |
 | dukkhā | adj | fem.nom.sg | uncomfortable, painful, unpleasant, causing misery; unsatisfactory |
 | maraṇaṃ | noun | nt.nom.sg | death |
-| pi | ind |  | also, and also, even so |
+| pi | ind | | also, and also, even so |
 | dukkhaṃ | adj | nt.nom.sg | uncomfortable, painful, unpleasant; unsatisfactory |
-| soka- | noun |  | grief, sorrow, sadness |
-| parideva- | noun |  | mourning, lament, wail, cry |
+| soka- | noun | | grief, sorrow, sadness |
+| parideva- | noun | | mourning, lament, wail, cry |
 | dukkha- | noun | discomfort, suffering, pain, unease | something unsatisfactory, problem, trouble |
-| domanassa- | noun |  | (mental) suffering, distress, dissatisfaction |
+| domanassa- | noun | | (mental) suffering, distress, dissatisfaction |
 | upāyāsā | noun | masc.nom.pl | irritation, mental disturbance, mental affliction |
-| pi | ind |  | also, and also, even so |
+| pi | ind | | also, and also, even so |
 | dukkhā | adj | fem.nom.sg | uncomfortable, painful, unpleasant; unsatisfactory |
 
 **birth is unpleasant, ageing is unpleasant, death is painful, grief, mourning, pain, distress, mental affliction is unpleasant.**
@@ -298,10 +298,10 @@ yampicchaṃ na labhati tampi dukkhaṃ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| yam-(p)-icchaṃ | m.ac.s |  | what one is desiring |
+| yam-(p)-icchaṃ | m.ac.s | | what one is desiring |
 | \>yaṃ | pron | masc.acc.sg | which, that which, who, one who |
 | \>icchaṃ | prp | masc.acc.sg | wishing for, desiring, wanting |
-| na | ind |  | not |
+| na | ind | | not |
 | labhati | verb | pr.3.sg | gets, receives, obtains |
 | tam'pi | pron | masc.acc.sg | that too, even that, just that, that very thing |
 | dukkhaṃ | adj | nt.nom.sg | uncomfortable, painful, unpleasant unsatisfactory |
@@ -313,8 +313,8 @@ saṅkhittena pañcupādānakkhandhā dukkha
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | saṅkhittena | ind | adv | in brief, concisely, briefly |
-| pañca- | adj |  | five (5) |
-| upādāna- | noun |  | acquisition, grasping, clinging; fuel (for fire) |
+| pañca- | adj | | five (5) |
+| upādāna- | noun | | acquisition, grasping, clinging; fuel (for fire) |
 | khandhā | noun | masc.nom.pl | aggregates, combinations, conglomerations |
 | dukkhā | adj | fem.nom.sg | uncomfortable, painful, unpleasant unsatisfactory |
 
@@ -325,16 +325,16 @@ seyyathīdaṃ rūpūpādānakkhandho vedanūpādānakkhandho saññūpādānakk
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | seyyathidaṃ | ind | adv | i.e., as follows, lit. (like) that like this |
-| rūpa- |  |  | form, matter, material thing, materiality |
-| upādānakkhandho | m.n.s |  | aggregate of clinging |
-| vedan- |  |  | experience, feeling, sensation |
-| upādānakkhandho | m.n.s |  | aggregate of clinging |
-| saññā- |  |  | perception, conception, recognition |
-| upādānakkhandho | m.n.s |  | aggregate of clinging |
-| saṅkhāra- |  |  | intention, volitional formation |
-| upādānakkhandho | m.n.s |  | aggregate of clinging |
-| viññāṇa- |  |  | consciousness, awareness, sentience, knowing |
-| upādānakkhandho | m.n.s |  | aggregate of clinging |
+| rūpa- | | | form, matter, material thing, materiality |
+| upādānakkhandho | m.n.s | | aggregate of clinging |
+| vedan- | | | experience, feeling, sensation |
+| upādānakkhandho | m.n.s | | aggregate of clinging |
+| saññā- | | | perception, conception, recognition |
+| upādānakkhandho | m.n.s | | aggregate of clinging |
+| saṅkhāra- | | | intention, volitional formation |
+| upādānakkhandho | m.n.s | | aggregate of clinging |
+| viññāṇa- | | | consciousness, awareness, sentience, knowing |
+| upādānakkhandho | m.n.s | | aggregate of clinging |
 
 **they are: form aggregate of clinging, feeling aggregate of clinging, perception aggregate of clinging, volitional formation aggregate of clinging, consciousness aggregate of clinging.**
 
@@ -347,8 +347,8 @@ yesaṃ pariññāya dharamāno so bhagavā evaṃ bahulaṃ sāvake vineti
 | dharamāno | prp | masc.nom.sg | lasting; continuing; living |
 | so | pron | masc.nom.sg | he |
 | bhagavā | noun | masc.nom.sg | the Blessed One |
-| evaṃ | ind |  | thus, this, like this, just as, such, in this way |
-| bahulaṃ | adv |  | mostly; frequently, often |
+| evaṃ | ind | | thus, this, like this, just as, such, in this way |
+| bahulaṃ | adv | | mostly; frequently, often |
 | sāvake | noun | masc.acc.pl | disciples, pupils, lit. hearers |
 | vineti | verb | pr.3.sg | instructs |
 
@@ -359,11 +359,11 @@ evaṃ-bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | evaṃbhāgā | adj | fem.nom.sg | like this; lit. with such parts |
-| ca | ind |  | and |
-| pana- | ind |  | moreover, and now, but |
+| ca | ind | | and |
+| pana- | ind | | moreover, and now, but |
 | assa | pron | masc.gen.sg | his, of him, of this |
 | bhagavato | noun | masc.gen.sg | of the Sublime One, Blessed One, fortunate one, Buddha |
-| sāvakesu |  | noun | m.loc.pl among disciples, pupils, lit. hearers |
+| sāvakesu | | noun | m.loc.pl among disciples, pupils, lit. hearers |
 | anusāsanī | noun | fem.nom.sg | advice, instruction, teaching |
 | bahulā | adj | fem.nom.sg | general; usual; frequent |
 | pavattati | verb | pr.3.sg | happens; exists; takes place; occurs |
@@ -453,7 +453,7 @@ appevanāmimassa kevalassa dukkhakkhandhassa antakiriyā paññāyethā'ti
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| app”eva'nāma- | ind |  | it would be good if, perhaps, hopefully, if only |
+| app”eva'nāma- | ind | | it would be good if, perhaps, hopefully, if only |
 | imassa | pron | masc.gen.sg | of this |
 | kevalassa | adj | masc.gen.sg | of whole, total |
 | dukkhakkhandhassa | noun | masc.gen.sg | of heap of suffering, mass of suffering |
@@ -466,7 +466,7 @@ ciraparinibbutampi taṃ bhagavantaṃ uddissa arahantaṃ sammāsambuddhaṃ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| cira- | adj |  | having long since |
+| cira- | adj | | having long since |
 | parinibbutam'pi | pp | masc.acc.sg | who is completely extinguished, who's fire is out; gone out, attained liberation |
 | taṃ | noun | masc.acc.sg | that, he |
 | bhagavantaṃ | noun | masc.acc.sg | the Sublime One, Blessed One, fortunate one, the Buddha |
@@ -503,8 +503,8 @@ bhikkhūnaṃ sikkhāsājīva-samāpannā
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bhikkhūnaṃ | noun | masc.gen.pl | of monks, mendicants, lit. beggar |
-| sikkhā- | noun |  | training, practice |
-| sājīva- | noun |  | mode of living, lifestyle |
+| sikkhā- | noun | | training, practice |
+| sājīva- | noun | | mode of living, lifestyle |
 | samāpannā | pp | masc.nom.pl | undertaken, engaged in |
 
 **undertaken the lifestyle and training of mendicants**

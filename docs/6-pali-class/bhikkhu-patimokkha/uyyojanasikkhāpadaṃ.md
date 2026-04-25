@@ -26,7 +26,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------- | :------ | :-------------------------- | :------- | :------------------------------ | :-------------------------- | :------------------------- | :-------------------------- | :------------------- | :---------------- | :------------------------ |
-| tassa | pron | masc dat sg of ta |  | to him |  |  |  |  |  |  |
+| tassa | pron | masc dat sg of ta | | to him | | | | | | |
 | dāpetvā | verb | abs of dāpeti | | having got | having caused to give | √dā (give) | √dā + āpe > dāpe (caus) | dāpe + tva | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | adāpetvā | verb | abs of adāpeti | | having not got | having not caused to give | √dā (give) | √dā + āpe > dāpe (caus) | na + dāpe + tva | | |
@@ -35,7 +35,7 @@
 | gacchāvuso | comp | sandhi, imp + voc | | begone friend! go away friend | | | | gaccha + āvuso | | |
 | - gaccha | verb | imp 2nd sg of gacchatu | | go away! begone! | | √gam (go) | √gam + a > gaccha (irreg) | gaccha + a | | |
 | - āvuso | noun | voc of āyasmant | | friend(s), brother(s) | long liver | | | | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | me | pron | 1st dat sg of ahaṃ | | to me | | | | | | |
 | tayā | pron | 2nd instr sg of tvaṃ | | with you | | | | | | |
 | saddhiṃ | ind | prep | +instr | together with | | | | | | |

@@ -37,7 +37,7 @@
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | kulāni | noun | nt nom pl of kula | | families | | √kul (be close) | | √kul + a | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
-| tena | pron | masc instr sg of ta |  | by him; by that |  |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | duṭṭhāni | adj | nt nom pl of duṭṭha, pp of dussati | | corrupted, spoiled | | √dus (be angry, corrupt) | | √dus + ta | | |
 | dissanti | verb | pr 3rd pl of dissati, pass of passati | | they are seen | | √dis (see) | √dis + ya > dissa (pass) | dissa + ti | | |
 | ceva | comp | sandhi, ind + ind | | and just | | | | ca + eva | | |
@@ -54,13 +54,13 @@
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | evamassa | comp | sandhi, adv + opt | | thus should be | | | | evaṃ + assa | | |
 | vacanīyo | ptp | masc nom sg of vacanīya | | should be spoken, told, addressed | to be said | √vac (speak) | | √vac + anīya | | |
-| That monk should be spoken to by the monks thus: |  |  |  |  |  |  |  |  |  |  |
+| That monk should be spoken to by the monks thus: | | | | | | | | | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | evamassa | comp | sandhi, adv + opt | | thus should be | | | | evaṃ + assa | | |
 | vacanīyo | ptp | masc nom sg of vacanīya | | should be spoken, told, addressed | to be said | √vac (speak) | | √vac + anīya | | |
-| That monk should be spoken to by the monks thus: |  |  |  |  |  |  |  |  |  |  |
+| That monk should be spoken to by the monks thus: | | | | | | | | | | |
 
 ## āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti c'eva suyyanti ca, kulāni c'āyasmatā duṭṭhāni dissanti c'eva suyyanti ca
 
@@ -183,7 +183,7 @@
 | ekaccaṃ | pron | masc acc sg of ekacca | | some person | | | | eka + tya | | |
 | pabbājenti | verb | pr 3rd pl of pabbājeti | +acc | they banish, exile | cause to go away | √vaj (procede) | vaj + *e > vāje > bāje | pa + bāje + ti | | |
 | ekaccaṃ | pron | masc acc sg of ekacca | | some person | | | | eka + tya | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | pabbājentīti | comp | sandhi, pr + ind | | | | | | pabbājenti + iti | | |
 | - pabbājenti | verb | pr 3rd pl of pabbājeti | | they banish, exile | cause to go away | √vaj (procede) | vaj + *e > vāje > bāje | pa + bāje + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
@@ -197,19 +197,19 @@
 | āyasmā | noun | masc nom sg of āyasmant | | venerable | | | | āyas + mant | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | avaca | verb | imperf 3rd sg of vacati | | one says | one said | √vac (speak) | | a + √vac + a | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | chandagāmino | adj | masc nom pl of chandagāmī, comp | | motivated by self interest; driven by desire | | | | chanda + gāmī | instrumental tappurisa | chandena + gāmī |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | dosagāmino | adj | masc nom pl of dosagāmī, comp | | motivated by hate; driven by ill-will | | | | dosa + gāmī | instrumental tappurisa | dosena + gāmī |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | mohagāmino | adj | masc nom pl of mohagāmī, comp | | motivated by delusion; driven by ignorance | | | | moha + gāmī | instrumental tappurisa | mohena + gāmī |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | bhayagāmino | adj | masc nom pl of bhayagāmī, comp | | motivated by fear; driven by dread | | | | bhaya + gāmino | instrumental tappurisa | bhayena + gāmino |
@@ -245,8 +245,8 @@
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | iccetaṃ | comp | sandhi, ind + pron | | that is | thus this | | | iti + etaṃ | | |
 | kusalaṃ | noun | nt nom sg of kusala | | something proper, good deed; doing good | | | | | | |
-| no | ind | neg |  | not |  |  |  |  |  |  |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| no | ind | neg | | not | | | | | | |
+| ce | ind | cond | | if | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | (if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence). | | | | | | | | | | |

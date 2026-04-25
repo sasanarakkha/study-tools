@@ -51,21 +51,21 @@
 | :-------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :--------------------------------------------------------------------- | :------------------------- | :-------------- | :--------------- | :------------------------ | :---------------- | :------------------------ |
 | siyā | verb | opt 3rd sg of atthi | +nom | there could be | | √as (be) | √as + a > siya | siya + a | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
-| tassa | pron | masc dat sg of ta |  | for that |  |  |  |  |  |  |
+| tassa | pron | masc dat sg of ta | | for that | | | | | | |
 | bhikkhuno | noun | masc dat sg of bhikkhu, from bhikkhati | | for a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | kocideva | comp | sandhi, pron + ind | | just any, any whatsoever | | | | koci + [d] + eva | | |
 | - koci | pron | masc nom sg of kaci | | any | | | | ka + ci | | |
 | - eva | ind | emph | | just, only | | | | | | |
 | paccayo | noun | masc nom sg of paccaya | | reason, cause | | √i (come, go) | | pati + √i + *a | | |
-| tena | pron | masc instr sg of ta |  | from that | with that |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | from that | with that | | | | | |
 | cīvarena | noun | nt instr sg of cīvara | | from a robe | with cloth | | | | | |
 | vippavāsāya | noun | dat masc sg of vippāvāsa | +instr | for living apart (from); being away (from) | | √vas (live) | | vi + pa + √vas + *a | | |
 | chārattaparamaṃ | ind | ind, adv, acc sg of chārattaparama | | for a maximum of six days | six nights at most | | | chāratta + paramaṃ | abyayībhāva | chāratta + paramaṃ |
 | - chāratta | noun | nt | | six days | six nights | | | chaḷ + ratta | | |
 | - paramaṃ | ind | adv, acc sg of parama | | at the most, for a maximum of | | | | para + ma + aṃ | | |
-| tena | pron | masc instr sg of ta |  | by him; by that |  |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| tena | pron | masc instr sg of ta |  | from that | with that |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | from that | with that | | | | | |
 | cīvarena | noun | nt instr sg of cīvara | | from a robe | with cloth | | | | | |
 | vippavasitabbaṃ | ptp | nt nom sg of vippavasitabba | +instr | could be apart (from); can be absent (from); can be separated (from) | to be lived apart (with) | √vas (live) | | vi + pa + √vas + itabba | | |
 | And there being any reason for that monk to dwell apart from that robe, for six days at the most, that monk can dwell apart from that robe; | | | | | | | | | | |
@@ -75,7 +75,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------- | :------- | :---------------------------------------------------------- | :----------------------- | :------------------------------ | :--------- | :------------------------ | :------------------- | :------------------------ |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | vippavaseyya | verb | opt 3rd sg of vippavasati | +instr | he would live apart from, be separated from | | √vas (live) | √vas + a | vi + pa + vasa + ti | | |
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |

@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------- | :----------------------- | :------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sayanagatassa | adj | masc dat sg of sayanagata, comp | | to (one) lying down, on a bed | to (one) bed gone | | | sayana + gata | kammadhāraya | sayana + gata |
 | - sayana | noun | nt | | lying down, bed | | √sī (lie, sleep) | | √sī + *ana | | |
 | - gatassa | pp | masc dat sg of gata | | to (a person) on | to (a person) gone | √gam (go) | | √gam + ta | | |

@@ -4,9 +4,9 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :---------------- | :------- | :--------------------- | :----------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sāmisena | adj | masc instr sg of sāmisa | | with a dirty | with raw meat | | | sa + āma + isa | | |
-| hatthena | noun | masc instr sg of hattha |  | with a hand |  |  |  |  |  |  |
+| hatthena | noun | masc instr sg of hattha | | with a hand | | | | | | |
 | pānīyathālakaṃ | noun | nt acc sg of pānīyathālaka, comp | | water cup; drinking bowl | | | | pānīya + thālaka | dative tappurisa | pānīyassa + thālaka |
 | - pānīya | noun | nt, ptp of pivati | | water, drinking water | to be drunk | √pā (drink) | | √pā + anīya | | |
 | - thālakaṃ | noun | nt acc sg of thālaka | | bowl, vessel, cup | small pot | | | | | |

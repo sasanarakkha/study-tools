@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------------- | :----------------- | :---------------- | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sīsappacālakaṃ | ind | adv, acc sg of sīsappacālaka, comp | | swaying the head, shaking the head | | | | sīsa + pacālaka | accusative tappurisa | sīsaṃ + pacālaka |
 | - sīsa | noun | nt | | head | top | | | | | |
 | - pacālakaṃ | adj | nt acc sg of pacālakaṃ | | swinging, swaying, shaking | | √cal (shake, tremble) | √cal + *e > cāle | pa + cāle + aka | | |
@@ -17,7 +17,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------- | :------- | :------------------ | :--------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sīsappacālakaṃ | ind | adv, acc sg of sīsappacālaka, comp | | swaying the head, shaking the head | | | | sīsa + pacālaka | accusative tappurisa | sīsaṃ + pacālaka |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
 | nisīdissāmīti | comp | sandhi, fut + ind | | | | | | nisīdissāmi + iti | | |

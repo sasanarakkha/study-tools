@@ -63,9 +63,9 @@ sabbe sattā sabbadukkhā pamuccantu sabbe sattā laddha-sampattito mā vigaccha
 | pamuccantu | verb | imp.3.pl | may they be freed (from) be liberated (from) |
 | sabbe | adj | masc.nom.pl | all |
 | sattā | noun | masc.nom.pl | living beings |
-| laddha- | pp |  | obtained, gained, won, received |
+| laddha- | pp | | obtained, gained, won, received |
 | sampattito | noun | fem.abl.sg | from success, attainment; happiness, bliss fortune |
-| mā | ind |  | do not |
+| mā | ind | | do not |
 | vigacchantu | verb | imp.3.pl | may they disappear, lost, go to waste |
 
 **may all beings be freed from all suffering, may all beings do not lost gained fortune.**
@@ -76,23 +76,23 @@ sabbe sattā kammassakā kammadāyādā kammayonī kammabandhū kammapaṭisara�
 | --- | --- | --- | --- |
 | sabbe | adj | masc.nom.pl | all |
 | sattā | noun | masc.nom.pl | living beings |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | sakā- | noun | masc.nom.pl | one's own (property, possessions, etc) |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | dāyādā | noun | masc.nom.pl | heir, inheritor, lit. receiver of what is given |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | yonī | noun | fem.nom.pl | conception, birth, womb, origin |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | bandhū | noun | masc.nom.pl | relative, relation, lit. tied to |
-| kamma- | noun |  | action, deed, work |
+| kamma- | noun | | action, deed, work |
 | paṭisaraṇoā | noun | masc.nom.pl | protection, shelter, refuge |
 | yaṃ | pron | nt.acc.sg | whatever |
 | kammaṃ | noun | nt.acc.sg | action, deed, work |
 | karissanti | verb | fut.3.pl | they will do |
 | kalyāṇaṃ | adj | nt.acc.sg | good, favourable, propitious, beneficial |
-| vā | ind |  | or |
+| vā | ind | | or |
 | pāpakaṃ | adj | nt.acc.sg | evil, criminal, wrong, bad, vicious |
-| vā | ind |  | or |
+| vā | ind | | or |
 | tassa | pron | masc.gen.sg | of that |
 | dāyādā | noun | masc.nom.pl | heir, inheritor, lit. receiver of what is given |
 | bhavissanti | verb | fut.3.pl | they will be |

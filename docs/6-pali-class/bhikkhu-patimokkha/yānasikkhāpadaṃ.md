@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------- | :----------------------- | :------- | :----------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | yānagatassa | adj | masc dat sg of yānagata, comp | | to (one) travelling in a vehicle | to a vehicle gone | | | yāna + gata | kammadhāraya | yāna + gata |
 | - yāna | noun | nt | | vehicle | going | √yā (go) | | √yā + ana | | |
 | - gatassa | pp | masc dat sg of gata | | to (a person) on | to (a person) gone | √gam (go) | | √gam + ta | | |

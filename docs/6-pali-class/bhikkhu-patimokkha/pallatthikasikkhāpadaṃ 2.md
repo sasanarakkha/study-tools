@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------------- | :------- | :-------------------------------------------------------- | :-------------- | :----------------------- | :---------------- | :------------------------------------ | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | pallatthikāya | noun | fem instr sg of pallatthikā | | sitting posture with something clasped around the knees | thrown around | √as (throw) | | pari > pali > pall + √as + ta + ikā | | |
 | nisinnassa | pp | masc dat sg of nisinna | | to seated (a person), sitting | | √sad | √sad + a > sīda | ni + sīda + na | | |
 | agilānassa | adj | masc dat sg of agilāna | | to (someone who is) not sick | | √gilā (be sick, tired) | | na + √gilā + ana | | |

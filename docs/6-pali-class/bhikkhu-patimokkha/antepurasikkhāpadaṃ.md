@@ -8,7 +8,7 @@
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | rañño | noun | masc gen sg of rāja | | of the king | of the ruler | √rāj (rule) | | √rāj + a | | |
-| khattiyassa | noun | masc gen sg of khattiya |  | of ruling caste | of warrior |  |  |  |  |  |
+| khattiyassa | noun | masc gen sg of khattiya | | of ruling caste | of warrior | | | | | |
 | muddhābhisittassa | adj | masc gen sg of muddhābhisitta, comp | | head-anointed | head sprinkled down | | | muddha + abhisitta | locative tappurisa | muddhani + abhisitta |
 | - muddha | noun | masc | | head | | | | | | |
 | - abhisittassa | pp | masc gen sg of avasitta | | anointed, coronated | sprinkled on top | √sic (sprinkle, pour) | | abhi + √sic + ta | | |

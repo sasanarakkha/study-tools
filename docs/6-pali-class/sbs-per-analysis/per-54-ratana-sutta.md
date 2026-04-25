@@ -10,15 +10,15 @@ atho pi sakkacca suṇantu bhāsitaṃ.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| yānīdha |  |  |  |
+| yānīdha | | | |
 | \>yāni- | pron | nt.acc.pl | those who, whoever, whatever |
-| \>idha | ind |  | here |
+| \>idha | ind | | here |
 | bhūtāni | noun | nt.acc.pl | beings, ghosts, spirits |
 | samāgatāni | pp | nt.acc.pl | met together; assembled |
 | bhummāni | adj | nt.acc.pl | belonging to the earth, earthly, terrestrial |
-| vā | ind |  | or |
+| vā | ind | | or |
 | yāni | pron | nt.acc.pl | those who, whoever |
-| vā | ind |  | or |
+| vā | ind | | or |
 | antalikkhe | noun | nt.loc.sg | in the atmosphere or in the air |
 
 **whatever spirits have assembled here, belonging to the earth or in the sky**
@@ -26,13 +26,13 @@ atho pi sakkacca suṇantu bhāsitaṃ.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | sabbā | adj | masc.nom.pl | all |
-| eva | ind |  | just |
+| eva | ind | | just |
 | bhūtā | noun | masc.nom.pl | beings, ghosts, spirits |
 | sumanā | adj | masc.nom.pl | glad, happy, pleased, satisfied, cheerful |
 | bhavantu, | verb | imp.3.pl | may they be |
-| atho | ind |  | then; and also |
-| pi | ind |  | also: and also; even so |
-| sakkacca | ind |  | carefully, thoroughly, properly |
+| atho | ind | | then; and also |
+| pi | ind | | also: and also; even so |
+| sakkacca | ind | | carefully, thoroughly, properly |
 | suṇantu | verb | imp.3.pl | may they listen, hear |
 | bhāsitaṃ | noun | nt.acc.sg | saying, speech, statement, utterance, talk, words lit. what was said |
 
@@ -43,8 +43,8 @@ mettaṃ karotha mānusiyā pajāya.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| tasmā | ind |  | therefore |
-| hi | ind |  | indeed |
+| tasmā | ind | | therefore |
+| hi | ind | | indeed |
 | bhūtā | noun | masc.v.pl | o beings, ghosts, spirits |
 | nisāmetha | v.caus | imp.2.pl | may you attend, listen, observe, be careful of lit: cause to calm down (and listern) |
 | sabbe | pron | masc.nom.pl | all; every; whole; entire |
@@ -65,8 +65,8 @@ tasmā hi ne rakkhatha appamattā.
 | haranti | verb | pr.3.pl | they bring, carry |
 | ye | pron | masc.acc.pl | whatever |
 | baliṃ | noun | masc.acc.sg | religious offering, oblation |
-| tasmā | ind |  | therefore |
-| hi | ind |  | indeed |
+| tasmā | ind | | therefore |
+| hi | ind | | indeed |
 | ne | pron | masc.acc.pl | them, those |
 | rakkhatha | verb | imp.2.pl | may you protect |
 | appamattā | adj | masc.nom.pl | vigilant; careful; alert; diligent; not negligent |
@@ -82,8 +82,8 @@ na no samaṃ atthi tathāgatena,
 | yaṃ | pron | nt.nom.sg | whatever |
 | kiñci | pron | nt.nom.sg | some, something, anything |
 | vittaṃ | noun | nt.nom.sg | wealth; property |
-| idha vā | ind |  | here or |
-| huraṃ vā | ind |  | there, in the other world, in another existence or |
+| idha vā | ind | | here or |
+| huraṃ vā | ind | | there, in the other world, in another existence or |
 | saggesu vā | noun | masc.loc.pl | in heavens, places of happiness and long life |
 | yaṃ | pron | nt.nom.sg | whatever |
 | ratanaṃ | noun | nt.nom.sg | gem, jewel, treasure |
@@ -129,7 +129,7 @@ na tena dhammena sam-atthi kiñci,
 | na | ind | neg | not |
 | tena | pron | masc.ins.sg | by that |
 | dhammena | noun | masc.ins.sg | by teaching |
-| sama- | adj |  | even; equal; level; similar |
+| sama- | adj | | even; equal; level; similar |
 | atthi | verb | pr.3.sg | there is, it is, it does |
 | kiñci | pron | nt.nom.sg | some, something, anything |
 
@@ -139,14 +139,14 @@ yaṃ buddha-seṭṭho parivaṇṇayī suciṃ,
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| samādhim'ānantarikañ'ñam'āhu. |  |  |  |
+| samādhim'ānantarikañ'ñam'āhu. | | | |
 
 **samādhinā tena samo na vijjati,**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yaṃ | pron | masc.acc.sg | that what |
-| buddha- | noun |  | the Buddha |
+| buddha- | noun | | the Buddha |
 | seṭṭho | adj | masc.nom.sg | foremost; excellent, best |
 | parivaṇṇayi | verb | aor.3.sg | has praised all around, extolled, described |
 | suciṃ, | adj | masc.acc.sg | pure, clean, white |
@@ -208,7 +208,7 @@ laddhā mudhā nibbutiṃ bhuñjamānā.
 | amataṃ | noun | nt.acc.sg | deathless state |
 | vigayha, | verb | abs | having entered or plunged into |
 | laddhā | verb | abs | having got, received, or attained |
-| mudhā | ind |  | gratis; for nothing, freely |
+| mudhā | ind | | gratis; for nothing, freely |
 | nibbutiṃ | noun | fem.acc.sg | extinguishment; being quenched; being put out; going cold |
 | bhuñjamānā | prp | masc.nom.pl | enjoying |
 
@@ -221,7 +221,7 @@ yo ariya-saccāni avecca passati.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| yathā- | ind |  | as; like; just as |
+| yathā- | ind | | as; like; just as |
 | indakhīlo | noun | masc.nom.sg | Indra's column, gate post of a city |
 | pathaviṃ | noun | fem.acc.sg | (in) the earth, ground |
 | sito | pp | masc.nom.sg | planted (in); fixed (to); lying (in); lit. dependent |
@@ -229,13 +229,13 @@ yo ariya-saccāni avecca passati.
 | catubbhi | card | masc.ins.pl | by four |
 | vātehi | noun | masc.ins.pl | by winds |
 | asampakampiyo. | ptp | masc.nom.sg | not can be shaken, not can be moved |
-| tathā- | ind |  | thus; so; in that way; likewise |
+| tathā- | ind | | thus; so; in that way; likewise |
 | upamaṃ | adj | masc.acc.sg | like, similar, equal |
 | sappurisaṃ | noun | masc.acc.sg | righteous person, worthy man |
 | vadāmi, | verb | pr.1.sg | I speak, say |
 | yo | pron | masc.nom.sg | that who |
 | ariyasaccāni | noun | nt.acc.pl | noble truths. |
-| avecca | ind |  | certainly, definitely, absolutely, perfectly |
+| avecca | ind | | certainly, definitely, absolutely, perfectly |
 | passati | verb | pr.3.sg | sees, understands |
 
 **as the indra's post, planted in the ground, could not be shaken by the four winds, similar to that the worthy man, I say, who perfectly understands the noble truths**
@@ -250,10 +250,10 @@ na te bhavaṃ aṭṭhamam-ādiyanti.
 | ye | pron | masc.nom.pl | those who |
 | ariyasaccāni | noun | nt.acc.pl | noble truths. |
 | vibhāvayanti, | verb | pr.3.pl | they understand clearly |
-| gambhīra- | adj |  | deep, profound, unfathomable, well founded |
+| gambhīra- | adj | | deep, profound, unfathomable, well founded |
 | paññena | adj | masc.ins.sg | by wise, intelligent, learned, knowledgeable skilled |
 | sudesitāni | pp | nt.acc.pl | well preached |
-| kiñcāpi | ind |  | however much, even if, even though |
+| kiñcāpi | ind | | however much, even if, even though |
 | te | pron | masc.nom.pl | they |
 | honti | verb | pr.3.pl | they are |
 | bhusaṃ- | ind | adv | exceedingly, extremely |
@@ -273,20 +273,20 @@ sīlabbataṃ vā'pi yad'atthi kiñci.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| saha- | ind |  | with, together, accompanied by |
-| eva | ind |  | just |
+| saha- | ind | | with, together, accompanied by |
+| eva | ind | | just |
 | assa | pron | masc.gen.sg | his, one's |
-| dassana- | noun |  | insight, seeing, vision |
+| dassana- | noun | | insight, seeing, vision |
 | sampadāya, | noun | fem.ins.sg | with success; attainment |
-| tayo- | adj |  | three |
-| ssu | ind |  | certainly; definitely; exactly |
+| tayo- | adj | | three |
+| ssu | ind | | certainly; definitely; exactly |
 | dhammā | noun | masc.nom.pl | things |
 | jahitā | pp | masc.nom.pl | left; abandoned. |
 | bhavanti | verb | pr.3.pl | become |
 | sakkāyadiṭṭhi | noun | masc.nom.sg | view about self; identification with aggregates; identity-view; lit. view of existing body |
 | vicikicchitaṃ ca, | noun | nt.nom.sg | and doubt |
 | sīlabbataṃ | noun | nt.nom.sg | precepts and practices; ethics and observances; rites and rituals |
-| vā'pi | ind |  | definitely even |
+| vā'pi | ind | | definitely even |
 | yad- | pron | nt.nom.sg | whatever |
 | atthi | verb | pr.3.sg | there is |
 | kiñci | pron | nt.nom.sg | some, something, anything |
@@ -303,7 +303,7 @@ cha c'ābhiṭhānāni abhabbo kātuṃ
 | ca | ind | conj | and |
 | vippamutto, | pp | masc.nom.sg | released, set free, saved |
 | cha | adj | x.acc.pl | six (6) |
-| ca- | ind |  | and |
+| ca- | ind | | and |
 | abhiṭhānāni | noun | nt.acc.pl | great or deadly crimes |
 | abhabbo | adj | masc.nom.sg | impossible, not likely, unable, incapable |
 | kātuṃ | verb | inf | to do |
@@ -317,22 +317,22 @@ abhabbatā diṭṭha-padassa vuttā.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| kiñcāpi | ind |  | however much, even if, even though |
+| kiñcāpi | ind | | however much, even if, even though |
 | so | pron | masc.nom.sg | he |
 | kammaṃ | noun | nt.acc.sg | action, deed |
 | karoti | verb | pr.3.sg | done, performs, makes |
 | pāpakaṃ, | adj | nt.acc.sg | bad, wicked; sinful |
 | kāyena | noun | masc.ins.sg | by body |
 | vācāya | noun | fem.ins.sg | by word; speech; saying. |
-| uda | ind |  | or |
+| uda | ind | | or |
 | cetasā | noun | masc.ins.sg | by mind |
-| vā | ind |  | or |
+| vā | ind | | or |
 | abhabbo | adj | masc.nom.sg | impossible, not likely, unable, incapable |
 | so | pron | masc.nom.sg | he |
 | tassa | pron | masc.dat.sg | to this |
 | paṭicchadāya, | adj | masc.dat.sg | to hiding, covering, concealing |
 | abhabbatā | noun | fem.nom.sg | impossibility, unlikelihood |
-| diṭṭha- | pp |  | seen; found; understood |
+| diṭṭha- | pp | | seen; found; understood |
 | padassa | noun | masc.dat.sg | for way, path |
 | vuttā | pp | fem.nom.sg | said, ascribed |
 
@@ -345,16 +345,16 @@ nibbāna-gāmiṃ paramaṃ hitāya
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| vana- | noun |  | forest; wood |
+| vana- | noun | | forest; wood |
 | pagumbe | noun | masc.loc.sg | in thicket, bush, clump of trees |
-| yathā | ind |  | as; like; just as |
-| phussita- | pp |  | nourished, blossomed, flowering |
+| yathā | ind | | as; like; just as |
+| phussita- | pp | | nourished, blossomed, flowering |
 | agge, | adj | masc.loc.sg | in highest part, in top |
-| gimhāna- | noun |  | summer, summerly, the summer season |
+| gimhāna- | noun | | summer, summerly, the summer season |
 | māse | noun | masc.loc.sg | in month |
 | paṭhamasmiṃ | adj | masc.loc.sg | in first |
 | gimhe | noun | masc.loc.sg | in hot |
-| tathā- | ind |  | so, thus, in this way, likewise |
+| tathā- | ind | | so, thus, in this way, likewise |
 | upamaṃ | adj | masc.acc.sg | like; similar |
 | dhammavaraṃ | noun | masc.acc.sg | the excellent Doctrine |
 | adesayi, | verb | aor.3.sg | he taught a+ √dis (aya) + i |
@@ -392,16 +392,16 @@ nibbanti dhīrā yath'āyaṃ padīpo.
 | natthi | verb | pr.3.sg | there is no |
 | sambhavaṃ, | noun | nt.nom.sg | origin; birth |
 | viratta- | pp | detached (from); without desire (for); | become indifferent (to); lost interest (in) |
-| citta- | noun |  | mind |
+| citta- | noun | | mind |
 | āyatike | adj | masc.loc.sg | in future |
 | bhavasmiṃ | noun | masc.loc.sg | being, existence, becoming |
 | te | pron | masc.nom.pl | they |
 | khīṇa'bījā | adj | masc.nom.pl | who has destroyed the seed; with no possibility of rebirth |
-| avirūḷhi- | noun |  | absence of growth |
+| avirūḷhi- | noun | | absence of growth |
 | chandā, | noun | masc.nom.pl | interest (in); desire (for); wish (for); intention (to); impulse (for) |
 | nibbanti | verb | pr.3.pl | are completely quenched; are entirely emancipated; are completely cooled; lit. blow away |
 | dhīrā | noun | masc.nom.pl | wise people |
-| yathā- | ind |  | like, as |
+| yathā- | ind | | like, as |
 | ayaṃ- | pron | masc.acc.sg | this |
 | padīpo | noun | masc.nom.sg | lamp, light, lighting |
 
@@ -413,7 +413,7 @@ buddhaṃ namassāma suvatthi hotu.
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | tathāgataṃ | noun | masc.acc.sg | such become, realised, being in such a state thus gone or thus came |
-| devamanussa- | noun |  | gods and men |
+| devamanussa- | noun | | gods and men |
 | pūjitaṃ, | pp | masc.acc.sg | worshipped, venerated, honored |
 | buddhaṃ | noun | masc.acc.sg | the Buddha |
 | namassāma | verb | imp.1.pl | let us worship, venerate, honor, pay honor |

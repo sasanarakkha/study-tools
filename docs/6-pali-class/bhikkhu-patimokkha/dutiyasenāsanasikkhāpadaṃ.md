@@ -18,7 +18,7 @@
 | pakkamanto | prp | masc nom sg of pakkamanta | | leaving, going away | going forward | √kam (go) | √kam + a > kama | pa + kama + nta | | |
 | neva | comp | sandhi, ind + ind | | neither | not even; not just | | | na + eva | | |
 | uddhareyya | verb | opt 3rd sg of uddharati | | he would remove | carry up | √dhar (hold, carry) | √dhar + a | ud + dhara + ti | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | uddharāpeyya | verb | opt 3rd sg of uddharāpeti | | he would cause to remove | cause to carry up | √dhar (hold, carry) | √dhar + āpe > dharāpe | ud + dharāpe + ti | | |
 | anāpucchaṃ | prp | prp of na + āpucchati | | not informing, not taking leave | not asking | √pucch (ask) | √pucch + a > puccha | na + ā + puccha + nta | | |
 | vā | ind | conj | | or, either or | | | | | | |

@@ -13,7 +13,7 @@
 | - - eka | card | masc | | one | | | | | | |
 | - - rattaṃ | noun | nt acc sg of ratta, from ratti | | day | night | | | | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | ticīvarena | noun | nt instr sg of ticīvara, comp | | from the triple robe, set of three robes | with three cloth | | | ti + cīvara | digu | tīni + cīvarāni |
 | - ti | card | | | three | | | | | | |

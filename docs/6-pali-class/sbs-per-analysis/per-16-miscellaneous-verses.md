@@ -26,7 +26,7 @@ maṃsāni tassa vaḍḍhanti, paññā tassa na vaḍḍhati.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| appassuta- | adj |  | ignorant, uneducated, unlearned, lit. heard little |
+| appassuta- | adj | | ignorant, uneducated, unlearned, lit. heard little |
 | ayaṃ | pron | masc.nom.sg | this, this person |
 | puriso | noun | masc.nom.sg | man, person |
 | balibaddho'va | noun | masc.nom.sg | like an ox, bull |
@@ -36,7 +36,7 @@ maṃsāni tassa vaḍḍhanti, paññā tassa na vaḍḍhati.
 | vaḍḍhanti | verb | pr.3.pl | increase, grow, develop |
 | paññā | noun | fem.nom.sg | wisdom, knowledge, intelligence, intellect understanding, insight |
 | tassa | pron | masc.gen.sg | his |
-| na | ind |  | not |
+| na | ind | | not |
 | vaḍḍhati | verb | pr.3.sg | increases, grows, develops |
 
 **The man of little learning grows old like a bull. His flesh increases. His wisdom does not grow.**
@@ -49,7 +49,7 @@ haṃsā'va pallalaṃ hitvā, okam'okaṃ jahanti te.
 | --- | --- | --- | --- |
 | uyyuñjanti | verb | pr.3.pl | they strive, make effort |
 | satīmanto | adj as noun | masc.nom.sg | mindful, fully present, attentive |
-| na | ind |  | not |
+| na | ind | | not |
 | nikete | noun | nt.loc.sg | in a home, house |
 | ramanti | verb | pr.3.pl | they enjoy, find pleasure (in), take delight (in), like |
 | te | pron | masc.nom.pl | they, those |
@@ -72,13 +72,13 @@ majjhe ce no gahessasi, upasanto carissasi.
 | pubbe | ind | before, previously, formerly, in the past, in a | previous life |
 | taṃ | pron | masc.acc.sg | that |
 | visosehi | verb | imp.2.sg | you should dry up, desiccate, make wither evaporate |
-| pacchā | ind |  | afterwards, later, in the future |
+| pacchā | ind | | afterwards, later, in the future |
 | te | pron | 2.dat.sg | for you, to you |
 | m'āhu | v+ind | aor.3.sg | may there not be, don't let there be |
 | kiñcanaṃ | noun | nt.acc.sg | something, anything, a tiny bit |
 | majjhe | ind | from loc. sg. | in the present, lit. in the middle |
-| ce | ind |  | if |
-| no | ind |  | not |
+| ce | ind | | if |
+| no | ind | | not |
 | gahessasi | verb | fut.2.sg | you will grasp |
 | upasanto | adj | masc.nom.sg | still, calm, at peace, tranquil |
 | carissasi | verb | fut.2.sg | you will live, lead (your life), conduct yourself |
@@ -116,7 +116,7 @@ mā vo pamatte viññāya, maccurājā amohayittha vas'ānuge.
 | daḷhaṃ | ind | adv | firmly, strongly, unwaveringly |
 | sikkhatha | verb | imp.2.pl | train! (for the purpose of), practice! (for the sake of) |
 | santiyā; | verb | fem.dat.sg | for peace, calm, tranquility |
-| mā | ind |  | do not, may one not, don't let |
+| mā | ind | | do not, may one not, don't let |
 | vo | pron | 2.acc.pl | you all |
 | pamatte | pp as adj | masc.acc.pl | careless, heedless, negligent, inattentive |
 | viññāya | verb | ger | knowing, understanding, being conscious (of) |
@@ -136,7 +136,7 @@ khaṇ'ātītā hi socanti, nirayamhi samappitā.
 | yāya | pron | fem.ins.sg | by whichever, with which (woman) |
 | devā | noun | masc.nom.pl | deities |
 | manussā | noun | masc.nom.pl | people, human beings |
-| ca | ind |  | and |
+| ca | ind | | and |
 | sitā | pp | masc.nom.pl | bound, tied to, attached to |
 | tiṭṭhanti | verb | pr.3.pl | they last, remain, persist, lit. stand |
 | atthikā; | adj | masc.nom.pl | wanting, needing, desiring, seeking |
@@ -145,10 +145,10 @@ khaṇ'ātītā hi socanti, nirayamhi samappitā.
 | visattikaṃ | noun | fem.acc.sg | attachment, entanglement, ensnarement |
 | khaṇo | noun | masc.nom.sg | moment, instant, point in time |
 | vo | pron | 2.dat.pl | to you all, for you all |
-| mā | ind |  | do not, may one not, don't let |
+| mā | ind | | do not, may one not, don't let |
 | upaccagā | verb | imp.3.sg | it passed by, it escaped |
 | khaṇ'ātītā | adj | who has missed the chance, who lost the | opportunity, lit. moment passed by |
-| hi | ind |  | indeed |
+| hi | ind | | indeed |
 | socanti | verb | pr.3.pl | they sorrow, grief, mourn |
 | nirayamhi | noun | masc.loc.sg | in hell, lit. gone down |
 | samappitā | pp | masc.nom.pl | ended up (in), consigned (to), delivered (to) committed (to) |
@@ -164,7 +164,7 @@ appamādena vijjāya, abbahe sallam'attano'ti.
 | pamādo | noun | masc.nom.sg | carelessness, negligence, heedlessness |
 | rajo | noun | masc.nom.sg | (mental) impurity, defilement, lit: dust |
 | pamādo | noun | masc.nom.sg | carelessness, negligence, heedlessness |
-| pamāda- | noun |  | carelessness, negligence, heedlessness |
+| pamāda- | noun | | carelessness, negligence, heedlessness |
 | anupatito | pp | masc.nom.sg | fallen (into), immersed (in), afflicted (with) stricken (by) |
 | rajo | adj | masc.nom.sg | one with impurity, defiled |
 | appamādena | noun | masc.ins.sg | by carefulness, caution, vigilance, diligence, conscientiousness, heedfulness, lit. not heedless |
@@ -191,7 +191,7 @@ piyato vippamuttassa, n'atthi soko kuto bhayaṃ.
 | vippamuttassa | pp | masc.dat.sg | for freed (from), released (from), saved (from) |
 | natthi | verb | pr.3.sg | is not, it is not, there is not, there is no |
 | soko | noun | masc.nom.sg | grief, sorrow, sadness |
-| kuto | ind |  | let alone, not to mention, what to say of |
+| kuto | ind | | let alone, not to mention, what to say of |
 | bhayaṃ | noun | nt.nom.sg | fear, fright, terror, dismay |
 
 **From affliction arises grief, from affliction arises fear. For one who is released from affliction there is no grief, not to mention fear.**
@@ -253,9 +253,9 @@ etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. jhāyatha, bhikkhave
 | etāni | pron | nt.nom.pl | (there are) these |
 | suññāgārāni | noun | nt.nom.pl | empty dwellings, uninhabited places |
 | jhāyatha | verb | imp.2.pl | meditate!, contemplate! |
-| mā pamād'attha | ind+m+imp |  | don't be negligent! |
-| mā | ind |  | do not, may one not, don't let |
-| pacchā | ind |  | afterwards, later, in the future |
+| mā pamād'attha | ind+m+imp | | don't be negligent! |
+| mā | ind | | do not, may one not, don't let |
+| pacchā | ind | | afterwards, later, in the future |
 | vippaṭisārino | adj | masc.nom.pl | remorseful, regretful, sorry |
 | ahuvattha | verb | aor.2.pl | you all were |
 | ayaṃ | noun | fem.nom.sg | this |

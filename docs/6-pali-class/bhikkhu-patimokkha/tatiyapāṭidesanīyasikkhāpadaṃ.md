@@ -37,7 +37,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------------- | :------------------ | :---------------------- | :------------------ | :------------------------ | :---------------- | :------------------------ |
 | paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | | √dis (teach, explain) | √dis + *e > dese | pati + dese + tabba | | |
-| tena | pron | masc instr sg of ta |  | by him; by that |  |  |  |  |  |  |
+| tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | gārayhaṃ | ptp | masc acc sg of gārayha | | blameworthy | to be blamed | √garah (blame) | | √garah + *ya | | |
 | āvuso | noun | masc voc sg or pl of āyasmant | | friend(s), brother(s) | having long life | | | āyas + mant | | |

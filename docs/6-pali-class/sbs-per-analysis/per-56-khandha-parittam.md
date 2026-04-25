@@ -20,9 +20,9 @@ mettaṃ kaṇhā-gotamakehi ca;
 | me | pron | 1.gen.sg | my |
 | mettaṃ, | noun | nt.nom.sg | kindness, amity, sympathy, friendliness |
 | mettaṃ | noun | nt.nom.sg | kindness, amity, sympathy, friendliness |
-| kaṇhā- | adj |  | dark, black |
+| kaṇhā- | adj | | dark, black |
 | gotamakehi | noun | masc.ins.pl | with Gotamaka snakes – family of snakes |
-| ca; | ind |  | and |
+| ca; | ind | | and |
 
 **My friendliness with the Virūpakkha snakes, my friendliness with the Erapatha snakes, my friendliness with the Chabyaputta snakes, and my friendliness with the black Gotamaka snakes.**
 
@@ -55,19 +55,19 @@ mā maṃ hiṃsi bahuppado.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| mā | ind |  | may not |
+| mā | ind | | may not |
 | maṃ | pron | 1.acc.sg | me |
 | apādako | adj | masc.nom.sg | not having feet, footless, creeping |
 | hiṃsi, | verb | aor.3.sg | hurt; injured; teased |
-| mā | ind |  | may not |
+| mā | ind | | may not |
 | maṃ | pron | 1.acc.sg | me |
 | hiṃsi | verb | aor.3.sg | hurt; injured; teased |
 | dipādako; | adj | masc.nom.sg | having two feet |
-| mā | ind |  | may not |
+| mā | ind | | may not |
 | maṃ | pron | 1.acc.sg | me |
 | catuppado | adj | masc.nom.sg | having four feet, quadrupeds |
 | hiṃsi, | verb | aor.3.sg | hurt; injured; teased |
-| mā | ind |  | may not |
+| mā | ind | | may not |
 | maṃ | pron | 1.acc.sg | me |
 | hiṃsi | verb | aor.3.sg | hurt; injured; teased |
 | bahuppado | adj | masc.nom.sg | many-footed |
@@ -87,12 +87,12 @@ mā kiñci pāpam-āgamā.
 | pāṇā, | noun | masc.nom.pl | living beings, breathing beings |
 | sabbe | adj | masc.nom.pl | all; every |
 | bhūtā | noun | masc.nom.pl | beings, living beings |
-| ca | ind |  | and |
+| ca | ind | | and |
 | kevalā; | adj | masc.nom.pl | whole; entire |
 | sabbe | adj | masc.nom.pl | all; every |
 | bhadrāni | adj | nt.acc.pl | august; auspicious; lucky; good. |
 | passantu, | verb | imp.3.pl | may they see, find, understand |
-| mā | ind |  | may not |
+| mā | ind | | may not |
 | kiñci | pron | nt.nom.sg | some, something, anything |
 | pāpaṃ- | adj | nt.nom.sg | evil, bad |
 | agamā | v.refl | aor.3.sg | came (to), arrived (at), went |
@@ -116,7 +116,7 @@ uṇṇānābhī sarabhū mūsikā
 | saṅgho, | noun | masc.nom.sg | the Saṅgha |
 | pamāṇavantāni | adj | nt.nom.pl | measured, limited |
 | siriṃsapāni; | noun | nt.nom.pl | snake, reptile, creepy crawly |
-| ahi- | noun |  | snake |
+| ahi- | noun | | snake |
 | vicchikā | noun | masc.nom.pl | scorpions |
 | satapadī | noun | masc.nom.pl | centipedes |
 | uṇṇānābhī | noun | masc.nom.pl | spiders |
@@ -146,7 +146,7 @@ namo sattannaṃ sammā-sambuddhānaṃ.
 | bhagavato | noun | masc.dat.sg | to the Blessed One |
 | namo | noun | masc.nom.sg | homage, veneration |
 | sattannaṃ | adj | masc.dat.pl | to seven |
-| sammā- | ind |  | properly; rightly; thoroughly |
+| sammā- | ind | | properly; rightly; thoroughly |
 | sambuddhānaṃ | noun | masc.dat.pl | to those who has thoroughly understood, fully enlightened, Buddhas |
 
 **Protection done by me; safeguard done by me. May the beings step backwards. I pay homage to the Blessed One, homage to the seven rightly self-awakened ones.**

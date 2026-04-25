@@ -5,7 +5,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :---------------------------- | :-------------------- | :-------------------------- | :----------------------- | :--------------------- | :------------------------ |
 | dirattatirattaṃ | ind | adv, acc sg of dirattatiratta | | for two or three nights | | | | diratta + tiratta + aṃ | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | senāya | noun | fem instr sg of senā | | with the army | | | | | | |
 | vasamāno | prp | masc nom sg of vasamāna | | living, staying | | √vas (live) | √vas + a > vasa | vasa + māna | | |

@@ -9,7 +9,7 @@
 | - samaṇa | noun | masc | | ascetic; renunciant; monk | | √sam (exert, strive) | | √sam + aṇa | | |
 | - uddeso | noun | masc nom sg of uddesa, from uddisati | | designated, appearing to be | pointed up | √dis (point out, explain) | | ud + √dis + *a | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
 | tathāhaṃ | comp | sandhi, adv + pron | | like I; as I; such as I | | | | tathā + ahaṃ | | |
@@ -50,12 +50,12 @@
 | mā | ind | neg | | don't! may not! | | | | | | |
 | bhagavantaṃ | noun | masc acc sg of bhagavant | | the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
 | abbhācikkhi | verb | aor 2nd sg of abbhācikkhi | | misrepresent, slander | misrepresented, slandered | √cikkh (show, tell) | | abhi + ā + √cikkh + i | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | hi | ind | excl | | certainly, indeed (or) because; for | | | | | | |
 | sādhu | ind | excl | +dat | it is good (for); it would be good (if) | good | √sādh (accomplish) | | √sādh + u | | |
 | bhagavato 2 | noun | masc gen sg of bhagavant | | of the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
 | abbhakkhānaṃ | noun | nt nom sg of abbhakkhāna | +gen | misrepresenting, slandering | | √khā (tell, announce) | | abhi + ā + √khā + ana | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | hi | ind | excl | | certainly, indeed (or) because; for | | | | | | |
 | bhagavā | noun | masc nom sg of bhagavant | | the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
@@ -107,7 +107,7 @@
 | te 2 | pron | 2nd instr sg | | by you | | | | | | |
 | āvuso | noun | masc voc sg or pl of āyasmant | | friend(s), brother(s) | having long life | | | āyas + mant | | |
 | samaṇuddesa | noun | masc voc sg of samaṇuddesa | | novice | designated ascetic | | | samaṇa + uddesa | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ceva | comp | sandhi, ind + ind | | and just | | | | ca + eva | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhagavā | noun | masc nom sg of bhagavant | | the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |

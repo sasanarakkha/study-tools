@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :------- | :--------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | āvudhapāṇissa | adj | masc dat sg of āvudhapāṇī, comp | | to (one) with a weapon in hand | | | | āvudha + pāṇī | kammadhāraya | āvudha + pāṇī |
 | - āvudha | noun | nt | | weapon | | √yudh (fight) | | ā + √yudh > vudh + a | | |
 | - pāṇissa | adj | masc dat sg of pāṇī | | to (someone with something) in hand | to handed | | | pāṇi + ī | | |

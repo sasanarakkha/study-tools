@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------------------- | :------------------------------ | :---------------- | :---------------------- | :------------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | anāhaṭe | pp | masc loc sg of anāhaṭa | | not brought | | √har (carry) | | na + ā + √har + ta | | |
 | kabaḷe | noun | masc loc sg of kabaḷa | | lump of food | | | | | | |
 | mukhadvāraṃ | noun | nt acc sg of mukhadvāra, comp | | mouth, (comm) throat | face entrance, mouth door | | | mukha + dvāra | genitive tappurisa | mukhassa + dvāra |

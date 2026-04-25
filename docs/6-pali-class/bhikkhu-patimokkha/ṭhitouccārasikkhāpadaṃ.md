@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :------- | :---------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ṭhito | pp | masc nom sg of ṭhita | | a (monk) standing | stood | √ṭhā (stand) | | √ṭhā + ita | | |
 | agilāno | adj | masc nom sg of agilāna | | is not ill | not sick | √gilā (be sick, tired) | | na + √gilā + na | | |
 | uccāraṃ | noun | masc acc sg of uccāra | | excrement | discharge | √car (walk, behave) | | ud + √car + *a | | |

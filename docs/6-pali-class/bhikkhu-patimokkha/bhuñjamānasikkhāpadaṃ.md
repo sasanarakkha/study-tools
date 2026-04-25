@@ -4,12 +4,12 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :------------------- | :-------------------- | :----------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | bhuñjamāno | prp | masc nom sg of bhuñjamāna | | eating | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + māna | | |
 | sabbahatthaṃ | noun | masc acc sg of sabbahattha | | whole hand; entire hand | | | | | | |
 | - sabba | pron | | | entire; whole | all | | | | | |
 | - hatthaṃ | noun | masc acc sg of hattha | | hand | | | | | | |
-| mukhe | noun | nt loc sg of mukha |  | into the mouth | in mouth |  |  |  |  |  |
+| mukhe | noun | nt loc sg of mukha | | into the mouth | in mouth | | | | | |
 | pakkhipissāmīti | comp | sandhi, fut + ind | | | | | | pakkhipissāmi + iti | | |
 | - pakkhipissāmi | verb | fut 1st sg of pakkhipati | | I will put, place | | √khip (throw) | √khip + a > khipa | pa + khipa + issa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |

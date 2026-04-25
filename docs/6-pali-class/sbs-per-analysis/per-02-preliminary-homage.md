@@ -6,15 +6,15 @@ handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| handa | ind |  | well then; now |
+| handa | ind | | well then; now |
 | mayaṃ | pron | 1.nom.pl | we |
 | buddhassa | noun | masc.dat.sg | to the Buddha, awakened one |
 | bhagavato | noun | masc.dat.sg | to Sublime One, Blessed One, Fortunate One |
-| pubbabhāga- | adj |  | former part, preliminary |
-| \>pubba- | adj |  | previous, earlier, before, former |
-| \>bhāga | noun |  | part, portion, share |
+| pubbabhāga- | adj | | former part, preliminary |
+| \>pubba- | adj | | previous, earlier, before, former |
+| \>bhāga | noun | | part, portion, share |
 | namakāraṃ | noun | nt.acc.sg | action of homage, act of veneration, homage- paying |
-| \>nama | noun |  | homage, veneration |
+| \>nama | noun | | homage, veneration |
 | \>kāraṃ | noun | nt.acc.sg | deed, action, service |
 | karomase | verb | ref.imp.1.pl | we should do, let us make, act, perform |
 
@@ -24,7 +24,7 @@ namo tassa bhagavato arahato sammāsambuddhassa
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| namo | ind |  | reverence to, veneration, homage |
+| namo | ind | | reverence to, veneration, homage |
 | tassa | pron | masc.dat.sg | to him |
 | bhagavato | noun | masc.dat.sg | to Sublime One, Blessed One, Fortunate One |
 | arahato | noun | masc.dat.sg | to enlightened being, 4th stage of the path, lit. worthy one |

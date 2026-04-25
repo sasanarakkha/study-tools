@@ -10,7 +10,7 @@ yo so bhagavā arahaṃ sammāsambuddho
 | so | pron | masc.nom.sg | he |
 | bhagavā | noun | masc.nom.sg | Sublime One, Blessed One, Fortunate One the Buddha |
 | arahaṃ | noun | masc.nom.sg | enlightened being, 4th stage of the path, lit. worthy one |
-| sammā- | ind |  | completely, thoroughly, fully, totally perfectly, rightly, correctly |
+| sammā- | ind | | completely, thoroughly, fully, totally perfectly, rightly, correctly |
 | sambuddho | noun | masc.nom.sg | one who has thoroughly understood, being enlightened, a Buddha, fully awakened one |
 
 **He who is the Blessed One, the Worthy One, perfectly awakened one,**
@@ -33,7 +33,7 @@ supaṭipanno yassa bhagavato sāvakasaṅgho
 | supaṭipanno | adj | masc.nom.sg | going the right way, practiced well |
 | yassa | pron | masc.gen.sg | of which, whose (that which, who, one who) |
 | bhagavato | noun | masc.gen.sg | of Sublime One, Blessed One, Fortunate One, the Buddha |
-| sāvaka- | noun |  | disciple, pupil, lit. hearer |
+| sāvaka- | noun | | disciple, pupil, lit. hearer |
 | saṅgho | noun | masc.nom.sg | Community, assembly |
 
 **the Community of disciples of the Blessed One, who practiced well.**
@@ -45,9 +45,9 @@ tam'mayaṃ bhagavantaṃ sadhammaṃ sasaṅghaṃ
 | taṃ- | pron | masc.acc.sg | that |
 | mayaṃ | pron | 1.nom. | we |
 | bhagavantaṃ | noun | masc.acc.sg | the Blessed One |
-| sa- | pron |  | one's own, his own OR with |
+| sa- | pron | | one's own, his own OR with |
 | dhammaṃ | noun | masc.acc.sg | the Teaching |
-| sa- | pron |  | one's own, his own OR with |
+| sa- | pron | | one's own, his own OR with |
 | saṅghaṃ | noun | masc.acc.sg | Community, assembly |
 
 **to the Blessed One, with his teaching and his Community, we**
@@ -70,11 +70,11 @@ sādhu no bhante bhagavā sucira-parinibbuto'pi
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| sādhu | ind |  | it is good, would be good, please |
+| sādhu | ind | | it is good, would be good, please |
 | no | pron | 1.dat.pl | for us |
 | bhante | noun | masc.voc.sg | o sir, lord, reverend! |
 | bhagavā | noun | masc.nom.sg | Sublime One, Blessed One, Fortunate One the Buddha |
-| sucira-<br>(or)<br>suciraṃ | adj |  | very long, long time ago<br>(or)<br>after a very long time; eventually |
+| sucira-<br>(or)<br>suciraṃ | adj | | very long, long time ago<br>(or)<br>after a very long time; eventually |
 | parinibbuto- | pp | masc.nom.sg | who is completely extinguished, who's fire is out; gone out, attained liberation |
 | api | ind | emphat | even, even though |
 
@@ -84,10 +84,10 @@ o lord! it is good for us, even though the Blessed One eventually became complet
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| pacchimā-janatānukampa-mānasā |  |  |  |
-| pacchimā- | adj |  | latest , later |
-| janatā- | noun |  | the people, generation, populace |
-| anukampa- | noun |  | compassion, pity; lit: trembling with |
+| pacchimā-janatānukampa-mānasā | | | |
+| pacchimā- | adj | | latest , later |
+| janatā- | noun | | the people, generation, populace |
+| anukampa- | noun | | compassion, pity; lit: trembling with |
 | mānasā | noun | nt.abl/instr.sg | from (with) a mind, intention |
 
 **having a mind full of compassion for the later generations.**
@@ -98,8 +98,8 @@ ime sakkāre duggata-paṇṇākāra-bhūte paṭiggaṇhātu
 | --- | --- | --- | --- |
 | ime | pron | masc.acc.pl | these |
 | sakkāre | noun | masc.acc.pl | honour, accolade, respect, offerings |
-| duggata- | adj |  | poor, miserable, inferior, humble |
-| paṇṇākāra- | noun |  | gift, present |
+| duggata- | adj | | poor, miserable, inferior, humble |
+| paṇṇākāra- | noun | | gift, present |
 | bhūte | pp | masc.acc.pl | that have come to be, became |
 | paṭiggaṇhātu | verb | imp.3.sg | may he take, accept, receive |
 
@@ -164,7 +164,7 @@ supaṭipanno bhagavato sāvakasaṅgho
 | --- | --- | --- | --- |
 | supaṭipanno | adj | masc.nom.sg | going the right way, practiced well |
 | bhagavato | noun | masc.gen.sg | of Sublime One, Blessed One, fortunate one, the Buddha |
-| sāvaka- | noun |  | disciple, pupil, lit. hearer |
+| sāvaka- | noun | | disciple, pupil, lit. hearer |
 | saṅgho | noun | masc.nom.sg | the Community, assembly |
 
 **the Community of disciples of the Blessed One, who practiced well.**

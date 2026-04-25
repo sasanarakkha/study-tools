@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------------------ | :------------------------- | :------- | :----------------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sitthāvakārakaṃ | ind | adv, nt acc sg of sitthāvakāraka | | scattering grains of rice | grain of rice sprinkling down | | | sittha + avakāraka + aṃ | | |
 | - sittha | noun | nt | | rice grain; grain of rice | | | | | | |
 | - avakārakaṃ | ind | adv, nt acc sg of avakāraka | | scattering down | sprinkling down | √kir (scatter, sprinkle) | | ava + √kir > kār + *aka + aṃ | | |

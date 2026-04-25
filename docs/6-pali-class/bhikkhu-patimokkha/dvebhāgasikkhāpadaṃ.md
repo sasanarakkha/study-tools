@@ -9,7 +9,7 @@
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | santhataṃ | noun | nt acc sg of santhata | | (felt) rug; coverlet | spread | √thar (spread, expand) | | saṃ + √thar + ta | | |
 | kārayamānena | prp | masc instr sg of kārayamāna, from kāreti | | by (the monk) making, having (someone else) make | causing to make | √kar (do, make) | √kar + *aya > kāraya (caus) | kāraya + māna | | |
-| dve | card | x nom pl |  | two |  |  |  |  |  |  |
+| dve | card | x nom pl | | two | | | | | | |
 | bhāgā | noun | masc nom pl of bhāga | | parts, portions | share | √bhaj (divide, distribute) | | √bhaj + *a | | |
 | suddhakāḷakānaṃ | adj | masc gen pl of suddhakāḷaka | | of pure black | | | | suddha + kāḷaka | kammadhāraya | suddha + kāḷaka |
 | eḷakalomānaṃ | noun | masc gen pl of eḷakaloma, comp | | of sheep's wool | of goat hairs | | | eḷaka + loma | genitive tappurisa | eḷaka + loma |
@@ -25,9 +25,9 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------------------ | :--------------------- | :------------------------ | :------------------- | :------------------------ |
 | anādā | verb | ger of na ādiyati | | not adding, not having included | not taking | √ādā (take, steal) | | na + √ādā + ya | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| dve | card | x acc pl |  | two |  |  |  |  |  |  |
+| dve | card | x acc pl | | two | | | | | | |
 | bhāge | noun | masc acc pl of bhāga | | parts, portions | shares | √bhaj (divide, distribute) | | √bhaj + *a | | |
 | suddhakāḷakānaṃ | adj | masc gen pl of suddhakāḷaka | | of pure black | | | | suddha + kāḷaka | kammadhāraya | suddha + kāḷaka |
 | eḷakalomānaṃ | noun | masc gen pl of eḷakaloma, comp | | of sheep's wool | of goat hairs | | | eḷaka + loma | genitive tappurisa | eḷaka + loma |

@@ -19,7 +19,7 @@
 | ahaṃ | pron | 1st nom sg | | I | | | | | | |
 | ājānāmi | verb | pr 1st sg of ājānāti | | I know, I understand | I am knowing | √ñā (know) | √ña + a > jānā | ā + jānā + ti | | |
 | ayampi | comp | sandhi, pron + ind | | he too | | | | ayaṃ + api | | |
-| kira | ind | adv |  | really |  |  |  |  |  |  |
+| kira | ind | adv | | really | | | | | | |
 | dhammo 2 | noun | masc nom sg of dhamma | | case, law, rule | | √dhar (hold) | | √dhar + ma | | |
 | suttāgato | adj | masc nom sg of suttāgata, comp | | handed down in scripture; passed down as rule | | | | sutta + āgata | locative tappurisa | suttesu + āgata |
 | - sutta | noun | nt | | rule | string | | | | | |
@@ -50,7 +50,7 @@
 | dvattikkhattuṃ | ind | adv, comp | | two or three times | | | | dve + ti + kkhattuṃ | | |
 | pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | in leading to liberation | √mokkh (be free) | | pa + ati + √mokkh + a | | |
 | uddissamāne | prp | masc loc sg of uddissamāna | | when being recited | in being pointed up | √dis (point out, explain) | √dis + ya > dissa (pass) | ud + dissa + māna | | |
-| ko | pron | masc nom sg |  | what? |  |  |  |  |  |  |
+| ko | pron | masc nom sg | | what? | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | vādo | noun | masc nom sg of vāda | | speaking; talking | | √vad (speak) | | √vad + *a | | |
 | bhiyyoti | comp | sandhi, adv + ind | | | | | | bhiyyo + iti | | |
@@ -61,9 +61,9 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------- | :------ | :--------------------------------------- | :------- | :------------------------------------------------ | :----------------------- | :---------------------------- | :------------------------------- | :--------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
-| tassa | pron | masc dat sg of ta |  | to him |  |  |  |  |  |  |
+| tassa | pron | masc dat sg of ta | | to him | | | | | | |
 | bhikkhuno | noun | masc dat sg of bhikkhu, from bhikkhati | | for a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | aññāṇakena | noun | nt instr sg of aññāṇaka | | by not knowing | | √ñā (know) | | na  + √ñā + aṇa + ka | | |
 | mutti | noun | fem nom sg | | escape; getting free | freedom | √muc (free) | | √muc + ti | | |
@@ -100,7 +100,7 @@
 | tvaṃ | pron | 2nd nom sg | | you | | | | | | |
 | pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | in leading to liberation | √mokkh (be free) | | pa + ati + √mokkh + a | | |
 | uddissamāne | prp | masc loc sg of uddissamāna | | when being recited | in being pointed up | √dis (point out, explain) | √dis + ya > dissa (pass) | ud + dissa + māna | | |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | sādhukaṃ | ind | adv | | well, carefully, thoroughly | | | | sādhu + ka + aṃ | | |
 | aṭṭhikatvā | verb | abs of aṭṭhiṃ karoti, comp vb | | having given importance; having focused | purpose having made | | | aṭṭhaṃ > aṭṭhiṃ + katvā | | |
 | - aṭṭhi | noun | masc | | purpose, goal | | √ar  (move, attain) | | √ar + tha > aṭṭhi | | |

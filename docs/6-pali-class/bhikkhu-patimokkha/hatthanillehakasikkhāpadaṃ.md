@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------- | :------- | :---------------------------- | :---------------- | :------------------------ |
-| na | ind | neg |  | not |  |  |  |  |  |  |
+| na | ind | neg | | not | | | | | | |
 | hatthanillehakaṃ | ind | adv, nt acc sg of hatthanillehaka | | licking the hand | | | | hattha + nillehaka + aṃ | | |
 | - hattha | noun | masc | | hand | | | | | | |
 | - nillehakaṃ | ind | adv, nt acc sg of nillehaka | | licking, lapping | | √lih (lick, lap) | | nī + √lih > leha + aka + aṃ | | |

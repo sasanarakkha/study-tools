@@ -6,13 +6,13 @@
 | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :----------------------- | :-------------------- | :------------------- | :------------------- | :------------------------ |
 | agilānena | adj | masc instr sg of agilāna | | by a healthy | not sick | √gilā (be sick, tired) | | na + √gilā + ana | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| eko | card | masc nom sg of eka |  | one |  |  |  |  |  |  |
+| eko | card | masc nom sg of eka | | one | | | | | | |
 | āvasathapiṇḍo | noun | masc nom sg, comp | | meal in a rest house; food in a traveller’s lodge | | | | āvasatha + piṇḍa | locative tappurisa | āvasathe + piṇḍa |
 | - āvasatha | noun | masc | | rest house, public house, guest house | living place | √vas (live) | | ā + √vas + a + tha | | |
 | - piṇḍo | noun | masc nom sg of piṇḍa | | food | lump | √piṇḍ (collect) | | √piṇḍ + a | | |
 | bhuñjitabbo | ptp | masc nom sg of bhuñjitabba | | can be eaten | to be eaten | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + itabba | | |
 | tato 2 | ind | adv, abl sg of ta | | than that | from that | | | ta + to | | |
-| ce | ind | cond |  | if |  |  |  |  |  |  |
+| ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | bhuñjeyya | verb | opt 3rd sg of bhuñjati | | he would eat | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |

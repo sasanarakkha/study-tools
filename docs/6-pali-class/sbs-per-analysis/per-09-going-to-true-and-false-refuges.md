@@ -11,14 +11,14 @@ bahuṃ ve saraṇaṃ yanti – pabbatāni vanāni ca
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | bahuṃ | adj | nt.acc.sg | many, much, lots (of), a lot (of) |
-| ve | ind |  | indeed, truly, really |
+| ve | ind | | indeed, truly, really |
 | saraṇaṃ | noun | nt.acc.sg | shelter, refuge, help, lit. protection |
 | yanti | verb | pr.3.pl | they go, go to, go forward, proceed, travel |
 | pabbatāni | noun | nt.acc.pl | mountains, hills |
 | vanāni | noun | nt.acc.pl | woods, forests, jungles |
-| ca | ind |  | and |
-| ārāma- | noun |  | park, parkland, nature reserve |
-| rukkha- | noun |  | tree |
+| ca | ind | | and |
+| ārāma- | noun | | park, parkland, nature reserve |
+| rukkha- | noun | | tree |
 | cetyāni | noun | nt.acc.pl | shrines |
 | manussā | noun | masc.nom.pl | human beings, men, people |
 | bhayatajjitā | adj | masc.nom.pl | startled by fear, threatened by danger |
@@ -32,7 +32,7 @@ n'etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | n'etaṃ | pron | nt.nom.sg | this not |
-| kho | ind |  | indeed, surely, certainly, truly |
+| kho | ind | | indeed, surely, certainly, truly |
 | saraṇaṃ | noun | nt.nom.sg | shelter, refuge, help, lit. protection |
 | khemaṃ | adj | nt.nom.sg | safe, secure |
 | n'etaṃ | pron | nt.nom.sg | this not |
@@ -53,7 +53,7 @@ cattāri ariya-saccāni – sammappaññāya passati
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | whoever, whatever, whichever |
-| ca | ind |  | but |
+| ca | ind | | but |
 | buddhañ'ca | noun | masc.acc.sg | and the Buddha |
 | dhammañ'ca | noun | masc.acc.sg | and the Dhamma, Teaching |
 | saṅghañ'ca | noun | masc.acc.sg | and the Saṅgha, Community |
@@ -75,13 +75,13 @@ ariyañ-c'aṭṭh'aṅgikaṃ maggaṃ – dukkhūpasama-gāminaṃ
 | dukkhaṃ | noun | nt.acc.sg | suffering, pain, unease, unsatisfactory, problem, trouble |
 | dukkha-samuppādaṃ | noun | masc.acc.sg | origin of suffering, arising of discomfort |
 | dukkhassa | noun | nt.gen.sg | of suffering, pain, unease, unsatisfactory, problem |
-| ca | ind |  | and |
+| ca | ind | | and |
 | atikkamaṃ | noun | masc.acc.sg | surpassing, transcending, going beyond, overcoming |
 | ariyaṃ- | adj | nom.acc.sg | noble, distinguished |
-| ca- | ind |  | and |
+| ca- | ind | | and |
 | aṭṭh'aṅgikaṃ | adj | masc.acc.sg | with eight parts; eight-limbed |
 | maggaṃ | noun | masc.acc.sg | road, path, way |
-| dukkhūpasama- | noun |  | calming of suffering, relief from suffering, alleviation of suffering |
+| dukkhūpasama- | noun | | calming of suffering, relief from suffering, alleviation of suffering |
 | gāminaṃ | adj | masc.acc.sg | going, leading to |
 
 **Suffering and its origin, and that which is going beyond suffering, the noble eightfold path leading to relief from suffering.**
@@ -93,7 +93,7 @@ etaṃ saraṇam-āgamma – sabba-dukkhā pamuccati
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | etaṃ | pron | nt.nom.sg | this |
-| kho | ind |  | indeed, surely, certainly, truly |
+| kho | ind | | indeed, surely, certainly, truly |
 | saraṇaṃ | noun | nt.nom.sg | shelter, refuge, help, lit. protection |
 | khemaṃ | adj | nt.nom.sg | safe, secure |
 | etaṃ | pron | nt.nom.sg | this |

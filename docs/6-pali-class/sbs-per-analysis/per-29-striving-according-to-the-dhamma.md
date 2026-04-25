@@ -10,7 +10,7 @@ evaṃ svākkhāto bhikkhave mayā dhammo
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evaṃ | ind |  | thus; in this way |
+| evaṃ | ind | | thus; in this way |
 | svākkhāto | adj | masc.nom.sg | well preached |
 | bhikkhave | noun | masc.voc.pl | o monks |
 | mayā | pron | 1.ins.sg | by me |
@@ -25,7 +25,7 @@ uttāno vivaṭo pakāsito chinnapilotiko.
 | uttāno | adj | masc.nom.sg | clear, manifest, open, evident |
 | vivaṭo | adj | masc.nom.sg | uncovered, open |
 | pakāsito | pp | masc.nom.sg | explained, manifested, made known |
-| chinna- | pp |  | cut; destroyed, stripped |
+| chinna- | pp | | cut; destroyed, stripped |
 | pilotiko | noun | masc.nom.sg | a small piece of cloth, a rag a bandage, patchwork |
 
 **PTS: with torn rags, or without rags**
@@ -36,9 +36,9 @@ alam-eva saddhā-pabbajitena kula-puttena vīriyaṃ ārabhituṃ
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| alam- | ind |  | enough |
-| eva | ind |  | just, only |
-| saddhā- | adj |  | faithful; with confidence |
+| alam- | ind | | enough |
+| eva | ind | | just, only |
+| saddhā- | adj | | faithful; with confidence |
 | pabbajitena | pp | masc.ins.sg | has gone forth |
 | kulaputtena | noun | masc.ins.sg | by young man of a good family. |
 | vīriyaṃ | noun | nt.acc.sg | energy; effort; strength |
@@ -52,11 +52,11 @@ kāmaṃ taco ca nahāru ca aṭṭhi ca avasissatu
 | --- | --- | --- | --- |
 | kāmaṃ | ind | adv | surely; certainly, willingly |
 | taco | noun | masc.nom.sg | skin |
-| ca | ind |  | and |
+| ca | ind | | and |
 | nahāru | noun | masc.nom.sg | a sinew; a tendon |
-| ca | ind |  | and |
+| ca | ind | | and |
 | aṭṭhi | noun | nt.nom.sg | bone |
-| ca | ind |  | and |
+| ca | ind | | and |
 | avasissatu | verb | imp.3.sg | let left over; may remain over |
 
 **willingly let skin sinews and bones remain**
@@ -67,7 +67,7 @@ sarīre upasussatu maṃsa-lohitaṃ
 | --- | --- | --- | --- |
 | sarīre | noun | nt.loc.sg | in the body |
 | upasussatu | verb | imp.3.sg | let become dry |
-| maṃsa- | noun |  | flesh |
+| maṃsa- | noun | | flesh |
 | lohitaṃ | noun | nt.acc.sg | blood |
 
 **let the flesh and blood in this body become dry**
@@ -78,14 +78,14 @@ yaṃ taṃ purisa-thāmena purisa-vīriyena purisa-parakkamena pattabbaṃ na t
 | --- | --- | --- | --- |
 | yaṃ | pron | masc.acc.sg | whatever |
 | taṃ | pron | masc.acc.sg | that |
-| purisa- | noun |  | man, human |
+| purisa- | noun | | man, human |
 | thāmena | noun | masc.ins.sg | by strength; power; vigour |
-| purisa- | noun |  | man, human |
+| purisa- | noun | | man, human |
 | vīriyena | noun | nt.ins.sg | by vigour; energy; effort; strength |
-| purisa- | noun |  | man, human |
+| purisa- | noun | | man, human |
 | parakkamena | noun | masc.ins.sg | by exertion; endeavour; effort |
 | pattabbaṃ | ptp | masc.acc.sg | what should be gained, attained or reached |
-| na | ind |  | not |
+| na | ind | | not |
 | taṃ | pron | masc.acc.sg | that |
 | a'pāpuṇitvā | verb | abs | having not reached; having not attained; having not arrived at. |
 | vīriyassa | noun | nt.gen.sg | of vigour; energy; effort; strength. |
@@ -121,7 +121,7 @@ mahantañ-ca sadatthaṃ parihāpeti
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mahantañ- | adj | masc.acc.sg | great, extensive, big, important, large |
-| ca | ind |  | and |
+| ca | ind | | and |
 | sadatthaṃ | noun | masc.acc.sg | one's own benefit, personal welfare |
 | parihāpeti | verb | pr.3.sg | sets aside, abandons, neglects, omits |
 
@@ -132,10 +132,10 @@ mahantañ-ca sadatthaṃ parihāpeti
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | āraddhavīriyo | adj | masc.nom.sg | with energy aroused, applying energy making an effort |
-| ca |  | ind | but |
-| kho | ind |  | indeed |
+| ca | | ind | but |
+| kho | ind | | indeed |
 | bhikkhave | noun | masc.voc.pl | o monks! |
-| sukhaṃ | ind |  | easily, comfortably, without difficulty |
+| sukhaṃ | ind | | easily, comfortably, without difficulty |
 | viharati | verb | pr.3.sg | lives; abides; dwells; |
 
 **but one with energy aroused dwells comfortably**
@@ -156,7 +156,7 @@ mahantañ-ca sadatthaṃ paripūreti
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | mahantañ- | adj | masc.acc.sg | great, extensive, big, important, large |
-| ca | ind |  | and |
+| ca | ind | | and |
 | sadatthaṃ | noun | masc.acc.sg | one's own benefit, personal welfare |
 | paripūreti | verb | pr.3.sg | is swelling, is filling up, is increasing |
 
@@ -166,7 +166,7 @@ na bhikkhave hīnena aggassa patti hoti
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| na | ind |  | not |
+| na | ind | | not |
 | bhikkhave | noun | masc.voc.pl | o monks! |
 | hīnena | adj | masc.ins.sg | by low, inferior, deficient |
 | aggassa | adj | masc.gen.sg | of highest, topmost, foremost |
@@ -180,8 +180,8 @@ aggena ca kho bhikkhave aggassa patti hoti
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | aggena | adj | masc.ins.sg | by highest, topmost, foremost, supreme |
-| ca | ind |  | but, rather |
-| kho | ind |  | indeed |
+| ca | ind | | but, rather |
+| kho | ind | | indeed |
 | bhikkhave | noun | masc.voc.pl | o monks! |
 | aggassa | adj | masc.gen.sg | of highest, topmost, foremost, supreme |
 | patti | noun | fem.nom.sg | reaching, attainment (of), getting |
@@ -213,7 +213,7 @@ tasmā'tiha bhikkhave vīriyaṃ ārabhatha
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| tasmātiha | ind |  | therefore here |
+| tasmātiha | ind | | therefore here |
 | bhikkhave | noun | masc.voc.pl | o monks! |
 | vīriyaṃ | noun | nt.acc.sg | vigour; energy; effort; strength. |
 | ārabhatha | verb | imp.2.pl | you should begin, start, arouse oneself |
@@ -251,8 +251,8 @@ evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avaññā bhavissati saphalā 
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evaṃ | ind |  | so in this way; in such a way; like this |
-| no | ind |  | then, now, indeed |
+| evaṃ | ind | | so in this way; in such a way; like this |
+| no | ind | | then, now, indeed |
 | ayaṃ | pron | masc.nom.sg | this |
 | amhākaṃ | pron | 1.gen.sg | our |
 | pabbajjā | noun | fem.nom.sg | ordination, renunciation, becoming a monastic, going forth' |
@@ -271,12 +271,12 @@ yesaṃ mayaṃ paribhuñjāma cīvara-piṇḍapāta-senāsana-gilānappaccaya-
 | yesaṃ | pron | masc.gen.pl | of whoever, those who |
 | mayaṃ | pron | 1.nom.pl | we |
 | paribhuñjāma | verb | pr.1.pl | we eat; use; enjoy |
-| cīvara- | noun |  | robe of a Buddhist monk |
-| piṇḍapāta- | noun |  | alms food, alms round, lit. lump dropping |
-| senāsana- | noun |  | housing, living place, lodging lit. bed and chair |
-| gilāna- | adj |  | sick; unwell |
-| paccaya- | noun |  | support, requisite |
-| bhesajja- | noun |  | medicament, medicine |
+| cīvara- | noun | | robe of a Buddhist monk |
+| piṇḍapāta- | noun | | alms food, alms round, lit. lump dropping |
+| senāsana- | noun | | housing, living place, lodging lit. bed and chair |
+| gilāna- | adj | | sick; unwell |
+| paccaya- | noun | | support, requisite |
+| bhesajja- | noun | | medicament, medicine |
 | parikkhāraṃ | noun | nt.acc.sg | requisite; accessory; equipment; utensil |
 | tesaṃ | pron | masc.gen.pl | of theṃ |
 | te | pron | masc.nom.pl | those |
@@ -292,8 +292,8 @@ evaṃ hi vo bhikkhave sikkhitabbaṃ. attatthaṃ vā hi bhikkhave sampassamān
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| evaṃ | ind |  | thus, this, like this, just as, such |
-| hi | ind |  | indeed, certainly, truly, definitely |
+| evaṃ | ind | | thus, this, like this, just as, such |
+| hi | ind | | indeed, certainly, truly, definitely |
 | vo | pron | 2.ins.pl | by you all |
 | bhikkhave | noun | voc.pl | o monks! |
 | sikkhitabbaṃ | ptp | nt.nom.sg | should be learned, should be practised should be trained |
@@ -303,12 +303,12 @@ evaṃ hi vo bhikkhave sikkhitabbaṃ. attatthaṃ vā hi bhikkhave sampassamān
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | attatthaṃ | noun | masc.acc.sg | one's own welfare, personal benefit personal profit |
-| vā | ind |  | or |
-| hi | ind |  | indeed, certainly, truly, definitely |
+| vā | ind | | or |
+| hi | ind | | indeed, certainly, truly, definitely |
 | bhikkhave | noun | voc.pl | o monks! |
 | sampassamānena | prp | masc.ins.sg | with seeing, considering |
-| alam- | ind |  | enough |
-| eva | ind |  | only, just, so, even |
+| alam- | ind | | enough |
+| eva | ind | | only, just, so, even |
 | appamādena | noun | masc.ins.sg | with carefulness, caution, vigilance diligence, conscientiousness, heedfulness |
 | sampādetuṃ | verb | inf | to presse on, cause to accomplish, strive to achieve, trie to accomplish one's purpose |
 
@@ -326,7 +326,7 @@ ubhaya'tthaṃ vā hi bhikkhave sampassamānena alam-eva appamādena sampādetun
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
-| ubhaya- | pron |  | both, referring to two things |
+| ubhaya- | pron | | both, referring to two things |
 | atthaṃ | noun | masc.acc.sg | benefit, profit, good, welfare, goal |
 
 **indeed or considering benefit of both, it is just enough to strive with heedfulness.**
