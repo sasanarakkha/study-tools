@@ -39,3 +39,7 @@ Replace `{date}` with the release date in `DD-MM` format. You can check the date
 ---
 
 If the standard method fails, see the [Advanced CSV Update](csv-update.md) method.
+
+---
+
+Back to the index of [Anki Decks](../../index.md).

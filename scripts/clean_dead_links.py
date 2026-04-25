@@ -45,7 +45,7 @@ def clean_dead_links_in_file(file_path: Path) -> bool:
         # If the line is just a list item with a dead link, we skip the entire line
         if line_has_dead_link and line.strip().startswith('- '):
             changed = True
-            pr.blue(f"Removing dead link item in {file_path}: {line.strip()}")
+            pr.warning(f"Removing dead link item in {file_path}: {line.strip()}")
             continue
             
         new_lines.append(line)

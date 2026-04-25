@@ -28,6 +28,7 @@ Developers maintaining the study-tools website.
 
 ## Quality Assurance & Maintenance
 
+- **Asset Verification:** Every build runs `scripts/verify_assets.py` (via `web_preprocessing.sh`) to ensure no broken image references in markdown files.
 - **Data Preservation:** Before mass reformatting or structural changes, use `scripts/compare_pali_sources.py --commit <baseline_hash> --dir <path>` to ensure no data loss.
 - **Automation First:** Prefer scripts over manual edits for large-scale formatting changes to ensure consistency and repeatability.
 

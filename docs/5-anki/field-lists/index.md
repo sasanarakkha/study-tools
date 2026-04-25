@@ -22,3 +22,8 @@ Here the names correspond the names of the Note Type in Anki Decks
 - [Vibhanga](field-list-vibhanga.md)
 - [Advanced Suttas](field-list-suttas-class.md)
 - [Paritta](field-list-parittas.md)
+
+
+---
+
+Back to the index of [Anki Decks](../../index.md).

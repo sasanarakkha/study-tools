@@ -1,7 +1,6 @@
 """Comparison tool to identify changes between current Pāḷi study Markdown files and a past Git commit."""
 
 import argparse
-import difflib
 import os
 import re
 import subprocess

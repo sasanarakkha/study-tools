@@ -1,6 +1,5 @@
 """Update mkdocs.yaml navigation based on the actual directory structure and first headings."""
 import yaml
-import os
 import re
 from pathlib import Path
 from typing import List, Dict, Union, Any
@@ -54,8 +53,6 @@ def get_nav_for_dir(dir_path: Path, is_root: bool = False) -> Union[List[Any], D
             return get_nav_for_dir(child, is_root=False)
 
     items = []
-    # If root, we handle Home separately, otherwise we might include index.md as first item
-    index_file = dir_path / "index.md"
     
     # Use digit children first
     for child in digit_children:

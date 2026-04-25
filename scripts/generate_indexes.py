@@ -2,7 +2,7 @@
 import os
 import re
 from pathlib import Path
-from typing import List, Tuple, Optional
+from typing import Tuple, Optional
 from tools.printer import printer as pr
 
 # Configuration

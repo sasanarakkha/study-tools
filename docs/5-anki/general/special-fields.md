@@ -27,3 +27,7 @@ also, if you like to protect fields which you edit yourself, like **native** or 
 For more details how to use this add-on see small [video](https://youtu.be/TTHpODHBk3U).
 
 Now you can update your decks.
+
+---
+
+Back to the index of [Anki Decks](../../index.md).

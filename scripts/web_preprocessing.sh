@@ -17,3 +17,6 @@ uv run python scripts/generate_indexes.py
 
 # Generate mkdocs.yaml
 uv run python scripts/generate_mkdocs_yaml.py
+
+# Verify all image assets are intact
+uv run python scripts/verify_assets.py

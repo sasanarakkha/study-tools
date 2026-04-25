@@ -42,4 +42,4 @@ After importing, don't forget to [remove outdated words](updating.md#removing-ou
 
 ---
 
-Back to [Anki Decks Overview](../../index.md).
+Back to the index of [Anki Decks](../../index.md).

@@ -29,3 +29,7 @@ Here the names correspond the names of the Note Type in Anki Decks
 - DHP Vocab: [Front](dhp-front.md)|[Back](dhp-back.md)
 - Vibhanga: [Front](vibhanga-front.md)|[Back](vibhanga-back.md)
 - Advanced Suttas: [Front](suttas-front.md)|[Back](suttas-back.md)
+
+---
+
+Back to the index of [Anki Decks](../../index.md).

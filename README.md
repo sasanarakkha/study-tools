@@ -43,6 +43,8 @@ These scripts are used for content generation, maintenance, and data integrity:
 
 - `scripts/web_preprocessing.sh`: Main entry point for site generation prep — runs localization, link repair, heading normalization, and index generation.
   - Usage: `bash scripts/web_preprocessing.sh`
+- `scripts/verify_assets.py`: Verifies that all image references in documentation point to existing files.
+  - Usage: `uv run python scripts/verify_assets.py`
 - `scripts/compare_pali_sources.py`: Identifies data loss between current Markdown files and a past Git commit.
   - Usage: `uv run scripts/compare_pali_sources.py --commit <hash> --dir <path>`
 - `scripts/generate_patimokkha.py`: Generates word-by-word Pāṭimokkha analysis pages from an Excel spreadsheet.

@@ -13,7 +13,7 @@
 
 Обычно достаточно просто дважды щелкнуть по загруженному файлу ru-pali-vocab.apkg, и он обновится в Анки.
 
-<img width="895" height="382" alt="image" src="../../assets/images/asset-7a09c7f7.png" />
+![Anki Russian Pali import settings](../../assets/images/anki-ru-pali-import-settings.png)
 
 - также нужно [удалить повторяющиеся слова](ru-test.md)
 
@@ -31,7 +31,7 @@
 
 - выберите загруженный файл ru-pali-vocab.apkg
 
-![pali](../../assets/images/asset-61687980.png)
+![pali](../../assets/images/anki-ru-pali-csv-import.png)
 
 - выберите Тип - Pali; Колода - Pali; Обновить существующие записи, когда первое поле совпадает ; Разрешить HTML в полях
 

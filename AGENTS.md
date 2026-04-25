@@ -21,3 +21,6 @@ If a script is intended to be run regularly (e.g., generators, verifiers, cleanu
 
 ## CLI Scripts (`scripts/cl/`)
 All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immediately after creation.
+
+## One-Time Scripts
+Scripts that run once (like data migrations or one-time transformations) MUST be moved to `scripts/archive/` after they complete successfully. This distinguishes them from permanent preprocessing or maintenance scripts. Place them in the active `scripts/` directory during development, then move to `scripts/archive/` during the finalize step.

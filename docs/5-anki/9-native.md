@@ -1,4 +1,4 @@
-# Cloumn for Your Native Language
+# Column for Your Native Language
 
 If English is not your first language, it’s recommended to translate words into your native language. For this, in almost all SBS Anki decks there is an empty field called "native" that you can fill in.
 
@@ -20,7 +20,7 @@ The update process is slightly different since these CSV files contain all words
 
 - in Anki, click on **File > Import**
 
-![image](../assets/images/cloumn-for-your-native-language.png)
+![image](../assets/images/anki-import-file-dialog.png)
 
 - Select the downloaded CSV file.
 
@@ -28,16 +28,16 @@ The update process is slightly different since these CSV files contain all words
 
 - Scroll down to the beginning of the **Field Mapping** section and switch the positions of *pali* and *native*, so that *native* maps to the second column in the CSV file, while *pali* remains unmapped (Nothing).
   
-![2024-10-25_16-36](../assets/images/2024-10-25-16-36.png)
+![2024-10-25_16-36](../assets/images/anki-import-field-mapping-native.png)
 
 - Double-check everything with the image above, then click  **import**
 
 - In the window **Overview**, you’ll see that along with updated existing cards, many new notes have been imported. We need to remove these. Click on **Show** to display the new notes.
   
-![2024-10-25_16-38](../assets/images/2024-10-25-16-38.png)
+![2024-10-25_16-38](../assets/images/anki-import-overview-new-notes.png)
 
 - In the window **Browse**, you’ll see all these new notes. Select them all (**Ctrl + A**) and delete (**Ctrl + del**).
   
-![2024-10-25_16-40](../assets/images/2024-10-25-16-40.png)
+![2024-10-25_16-40](../assets/images/anki-browse-extra-notes-delete.png)
 
 - Now you have the latest native meaning.
