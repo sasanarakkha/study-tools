@@ -16,6 +16,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Fetch printer.py from dpd-db
+        run: |
+          rm -f tools/printer.py
+          curl -fsSL "https://raw.githubusercontent.com/sasanarakkha/dpd-db-sbs/main/tools/printer.py" -o tools/printer.py
+
       - uses: astral-sh/setup-uv@v5
         with:
           enable-cache: true

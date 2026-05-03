@@ -15,6 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Fetch printer.py from dpd-db
+        run: |
+          rm -f tools/printer.py
+          curl -fsSL "https://raw.githubusercontent.com/sasanarakkha/dpd-db-sbs/main/tools/printer.py" -o tools/printer.py
       - uses: astral-sh/setup-uv@v5
         with:
           enable-cache: true
