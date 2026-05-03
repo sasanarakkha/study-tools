@@ -13,7 +13,7 @@
 
 Обычно достаточно просто дважды щелкнуть по загруженному файлу ru-pali-vocab.apkg, и он обновится в Анки.
 
-![Anki Russian Pali import settings](../../assets/images/anki-ru-pali-import-settings.png)
+![Anki Russian Pāli import settings](../../assets/images/anki-ru-pali-import-settings.png)
 
 - также нужно [удалить повторяющиеся слова](ru-test.md)
 

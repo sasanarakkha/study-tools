@@ -6,7 +6,6 @@ Files that may be usefull with this analysis:
 
 - [Analysis of SBS Pāḷi-English Recitations](sbs-per-analysis.md)
 - [SBS Pāḷi-English Recitations](../2-sbs-book.md)
-- [SBS Pāḷi Dictionary](../4-dictionaries/sbs-pali-dictionary.md)
 
 # **SBS Pāḷi-English Recitations**
 

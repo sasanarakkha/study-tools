@@ -17,5 +17,5 @@ These Learning Tools are licensed under a [Creative Commons Attribution-NonComme
 - [Pāṭimokkha Book](3-patimokkha.md)
 - [Dictionaries](4-dictionaries/index.md)
 - [Anki Decks](5-anki/index.md)
-- [Pali Classes](6-pali-class/index.md)
+- [Pāli Classes](6-pali-class/index.md)
 - [Notebook LM](7-notebook-lm.md)

@@ -1,6 +1,6 @@
-# Pali Classes
+# Pāli Classes
 
-To provide a more systematic approach to your Pali education, we offer various levels of Pali courses.
+To provide a more systematic approach to your Pāli education, we offer various levels of Pāli courses.
 
 - [Beginner Pāḷi Course](https://digitalpalidictionary.github.io/dpd-pali-courses/bpc/)
 

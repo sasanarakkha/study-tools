@@ -8,14 +8,14 @@ Here the names correspond the names of the Note Type in Anki Decks
 
 ![Verify Note Type](../../assets/images/anki/card-settings-check-b.png)
 
-## For Pali Class
+## For Pāli Class
 
-- Pali Class Vocab: [Front](class-front.md)|[Back](class-back.md)
-- Pali Class Grammar: 
+- Pāli Class Vocab: [Front](class-front.md)|[Back](class-back.md)
+- Pāli Class Grammar: 
 - - Forth: [Front](grammar-gramm-forth-front.md)|[Back](grammar-gramm-forth-back.md)
 - - Back: [Front](grammar-gramm-back-front.md)|[Back](grammar-gramm-back-back.md) 
-- Pali Class Abbrev: [Front](grammar-abbrev-front.md)|[Back](grammar-abbrev-back.md)
-- Pali Class Sandhi:
+- Pāli Class Abbrev: [Front](grammar-abbrev-front.md)|[Back](grammar-abbrev-back.md)
+- Pāli Class Sandhi:
 - - Forth: [Front](grammar-sandhi-forth-front.md)|[Back](grammar-sandhi-forth-back.md)
 - - Back: [Front](grammar-sandhi-back-front.md)|[Back](grammar-sandhi-back-back.md) 
 - Common Roots: [Front](common-roots-front.md)|[Back](common-roots-back.md)

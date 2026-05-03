@@ -1,12 +1,11 @@
 # Dictionaries
 
-In studying Pali digital dictionaries are invaluable resources. Here is a list of them.
+In studying Pāli digital dictionaries are invaluable resources. Here is a list of them.
 
 - [Digital Pali Dictionary](https://dpdict.org)
 
 - [Other Pali and Sanskrit dictionaries](https://github.com/digitalpalidictionary/other-dictionaries/releases/latest)
 
-- [Russian version of DPD](https://devamitta.github.io/dpd.rus/)
-
-- [Digital Pāḷi Dictionary with SBS examples](sbs-pali-dictionary.md)
-
+- [Digital Pāḷi Dictionary with SBS examples](1-sbs-pali-dictionary.md)
+- [Digital Pāḷi Dictionary with Russian language](2-ru-pali-dictionary.md)
+- [Digital Pāḷi Dictionary with Tamil language](3-ta-pali-dictionary copy.md)

@@ -4,7 +4,6 @@ Made for better gramatical understanding of suttas and passages from 'SBS Pāḷ
 
 Files that may be usefull with this analysis:
 - [SBS Pāḷi-English Recitations](../2-sbs-book.md)
-- [DPD with SBS examples](../4-dictionaries/sbs-pali-dictionary.md)
 
 # **SBS Pāḷi-English Recitations**
 

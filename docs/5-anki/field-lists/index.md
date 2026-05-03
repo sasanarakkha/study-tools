@@ -4,7 +4,7 @@ Here the names correspond the names of the Note Type in Anki Decks
 
 ![Manage Note Types](../../assets/images/anki/manage-note-types-b.png)
 
-## For Pali Class
+## For Pāli Class
 
 - [Pali Class Vocab](field-list-vocab-class.md)
 - [Pali Class Grammar](field-list-grammar-gramm.md)

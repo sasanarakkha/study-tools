@@ -49,5 +49,4 @@ Feel free to [contact us](mailto:studytools@sasanarakkha.org) if you need any as
 
 ----
 
-We recommend using the latest [SBS Pāli Dictionary](../4-dictionaries/sbs-pali-dictionary.md). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.
-
+We recommend using the latest [SBS Pāli Dictionary](../4-dictionaries/1-sbs-pali-dictionary.md). All exercises and vocabulary used in the course are labeled in the dictionary, highlighting the intended meanings of words in specific course examples. Many helpful links lead directly to grammatical analysis.

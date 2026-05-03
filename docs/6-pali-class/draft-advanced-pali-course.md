@@ -24,11 +24,11 @@ or by commenting directly in this document
 
 ***
 
-• New Pali Course - Ven. A.P. Buddhadatta
+• New Pāli Course - Ven. A.P. Buddhadatta
 
 ***
 
-• Introduction to Pali - A.K. Warder
+• Introduction to Pāli - A.K. Warder
 
 ***
 
@@ -36,7 +36,7 @@ or by commenting directly in this document
 
 ***
 
-• Pali Grammar - V. Perniola
+• Pāli Grammar - V. Perniola
 
 ***
 
@@ -52,15 +52,15 @@ or by commenting directly in this document
 
 ***
 
-• Pali Roots in Saddaniti - Sayadaw U Silananda
+• Pāli Roots in Saddaniti - Sayadaw U Silananda
 
 ***
 
-• The Pali Dhatupatha and the Dhatumañjusa - Dines Andersen
+• The Pāli Dhatupatha and the Dhatumañjusa - Dines Andersen
 
 ***
 
-• Syntax of the Cases in the Pali Nikayas - Prof. O.H. de A. Wijesekera
+• Syntax of the Cases in the Pāli Nikayas - Prof. O.H. de A. Wijesekera
 
 ***
 
@@ -1374,7 +1374,7 @@ Each preceding number is multiplied by ten million to give the succeeding number
 
 ***
 
-The 1st Person singular of the Future Reflexive is often found in the Past sense. The Pali Grammar, Saddanīti, states it as a change of the Aorist inflection. Mostly can be found in verse.
+The 1st Person singular of the Future Reflexive is often found in the Past sense. The Pāli Grammar, Saddanīti, states it as a change of the Aorist inflection. Mostly can be found in verse.
 
 ***
 
@@ -1400,7 +1400,7 @@ anekajātisaṃsāraṃ, **sandhāvissaṃ** anibbisaṃ
 
 ***
 
-There are no true reflexive pronouns in Pali; instead of them personal pronouns are used together with the Instrumental singular of atta (i.e. attanā), which does not care about the case or number of its antecedent.
+There are no true reflexive pronouns in Pāli; instead of them personal pronouns are used together with the Instrumental singular of atta (i.e. attanā), which does not care about the case or number of its antecedent.
 
 ***
 
@@ -3801,7 +3801,7 @@ Vaddhakinã geho kariyati.
 
 ***
 
-It should be noted here that in Pali vaddhakina is
+It should be noted here that in Pāli vaddhakina is
 
 ***
 

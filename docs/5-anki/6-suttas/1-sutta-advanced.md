@@ -1,6 +1,6 @@
 # Suttas Advanced Pāli Class
 
-For those interested in memorizing words from actual suttas as part of Advanced Pali education, there’s an Anki deck called “Suttas Advanced Pāli Class.” This deck includes MN 107 and other suttas analyzed in **Reading the Buddha’s Discourses in Pāli** by Venerable Bhikkhu Bodhi.
+For those interested in memorizing words from actual suttas as part of Advanced Pāli education, there’s an Anki deck called “Suttas Advanced Pāli Class.” This deck includes MN 107 and other suttas analyzed in **Reading the Buddha’s Discourses in Pāli** by Venerable Bhikkhu Bodhi.
 
 Detailed analysis of those sutta passages can be found in the [Advanced Pali](../../6-pali-class/1-pali-class-adv.md) secton.
 
