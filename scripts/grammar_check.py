@@ -25,7 +25,7 @@ def load_exceptions() -> set[str]:
         try:
             return set(json.loads(EXCEPTIONS_FILE.read_text()))
         except Exception as e:
-            pr.warning(f"Failed to load exceptions: {e}")
+            pr.amber(f"Failed to load exceptions: {e}")
             return set()
     return set()
 
@@ -146,7 +146,7 @@ def process_file(path: Path, tool, exceptions: set):
     try:
         content = path.read_text()
     except Exception as e:
-        pr.error(f"Could not read {path}: {e}")
+        pr.red(f"Could not read {path}: {e}")
         return
 
     chunks = split_into_chunks_lossless(content)
@@ -193,7 +193,7 @@ def process_file(path: Path, tool, exceptions: set):
                     break
                 elif key.lower() == "q":
                     print("quit")
-                    pr.warning("Quit — file saved with changes so far.")
+                    pr.amber("Quit — file saved with changes so far.")
                     return
                 elif key.lower() == "s":
                     print("skip")
@@ -216,7 +216,7 @@ def main():
     try:
         tool = language_tool_python.LanguageTool('en-US')
     except Exception as e:
-        pr.error(f"Failed to initialize LanguageTool: {e}")
+        pr.red(f"Failed to initialize LanguageTool: {e}")
         sys.exit(1)
         
     if target.is_file():
@@ -226,7 +226,7 @@ def main():
         for file in files:
             process_file(file, tool, exceptions)
     else:
-        pr.error(f"Target not found: {target}")
+        pr.red(f"Target not found: {target}")
         sys.exit(1)
 
 if __name__ == "__main__":

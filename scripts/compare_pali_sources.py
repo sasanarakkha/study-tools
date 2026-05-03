@@ -63,7 +63,7 @@ def main():
                     md_files.append(os.path.join(root, file))
 
     if not md_files:
-        pr.warning(f"No .md files found in {args.dir}")
+        pr.amber(f"No .md files found in {args.dir}")
         return
 
     pr.green(f"Comparing {len(md_files)} files vs {args.commit[:8]}")
@@ -78,7 +78,7 @@ def main():
             with open(file_path, "r", encoding="utf-8") as f:
                 new_content = f.read()
         except Exception as e:
-            pr.warning(f"Error reading {file_path}: {e}")
+            pr.amber(f"Error reading {file_path}: {e}")
             continue
 
         old_tokens = get_tokens(old_content)
@@ -110,15 +110,15 @@ def main():
         if missing_words or added_words:
             files_with_losses += 1
             if missing_words:
-                pr.warning(
+                pr.amber(
                     f"[DATA LOSS] {file_path}: {len(missing_words)} words missing"
                 )
                 for mw in missing_words[:5]:
-                    pr.warning(f"  '{mw}'")
+                    pr.amber(f"  '{mw}'")
             if added_words:
-                pr.warning(f"[DATA GAIN] {file_path}: {len(added_words)} words added")
+                pr.amber(f"[DATA GAIN] {file_path}: {len(added_words)} words added")
                 for aw in added_words[:5]:
-                    pr.warning(f"  '{aw}'")
+                    pr.amber(f"  '{aw}'")
 
     if files_with_losses == 0:
         pr.yes("ok")

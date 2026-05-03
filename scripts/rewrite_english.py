@@ -53,7 +53,7 @@ def load_state() -> set[str]:
         try:
             return set(json.loads(STATE_FILE.read_text()))
         except Exception as e:
-            pr.warning(f"Failed to load state: {e}")
+            pr.amber(f"Failed to load state: {e}")
             return set()
     return set()
 
@@ -154,9 +154,9 @@ def rewrite_paragraph(text: str) -> str:
             if "choices" in data and len(data["choices"]) > 0:
                 return data["choices"][0]["message"]["content"].strip()
             else:
-                pr.warning(f"Model {model} returned no choices.")
+                pr.amber(f"Model {model} returned no choices.")
         except Exception as e:
-            pr.warning(f"Model {model} failed: {e}")
+            pr.amber(f"Model {model} failed: {e}")
             continue
             
     raise RuntimeError("All models failed to provide a suggestion.")
@@ -167,7 +167,7 @@ def process_file(path: Path, state: set):
     try:
         content = path.read_text()
     except Exception as e:
-        pr.error(f"Could not read {path}: {e}")
+        pr.red(f"Could not read {path}: {e}")
         return
 
     chunks = split_into_chunks_lossless(content)
@@ -211,7 +211,7 @@ def process_file(path: Path, state: set):
                 print("\r" + " " * 40 + "\r", end="", flush=True)
         
         if action == "q":
-            pr.warning("Quit — file saved with changes so far.")
+            pr.amber("Quit — file saved with changes so far.")
             break
         
         if action == "k":
@@ -226,7 +226,7 @@ def process_file(path: Path, state: set):
             if chunk["text"].endswith("\n"):
                 suggestion += "\n"
         except Exception as e:
-            pr.error(f"Failed to get suggestion: {e}")
+            pr.red(f"Failed to get suggestion: {e}")
             continue
 
         print("\n--- Suggestion ---")
@@ -252,7 +252,7 @@ def process_file(path: Path, state: set):
                 print("\r" + " " * 40 + "\r", end="", flush=True)
 
         if decision == "q":
-            pr.warning("Quit — file saved with changes so far.")
+            pr.amber("Quit — file saved with changes so far.")
             break
         
         # Mark as reviewed regardless of accept/reject
@@ -274,7 +274,7 @@ def main():
     target = Path(target_str)
     
     if not OPENROUTER_API_KEY:
-        pr.error("OPENROUTER_API_KEY not found in .env")
+        pr.red("OPENROUTER_API_KEY not found in .env")
         sys.exit(1)
         
     state = load_state()
@@ -286,7 +286,7 @@ def main():
         for file in files:
             process_file(file, state)
     else:
-        pr.error(f"Target not found: {target}")
+        pr.red(f"Target not found: {target}")
         sys.exit(1)
 
 if __name__ == "__main__":

@@ -28,7 +28,7 @@ def main() -> None:
     if broken:
         pr.no(f"{len(broken)} broken")
         for item in broken:
-            pr.warning(item)
+            pr.amber(item)
         sys.exit(1)
 
     pr.yes("ok")
