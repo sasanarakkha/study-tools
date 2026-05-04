@@ -32,8 +32,8 @@
 | vassānassa | noun | masc gen sg of vassāna | | of the rainy season | of the rain | √vass (rain) | | √vass + āna | | |
 | paṭhamo | ordin | masc nom sg of paṭhama | | first | most forward | | | pa + tama | | |
 | māso | noun | masc nom sg of māsa | | month | | √mā (measure) | | √mā + sa | | |
-| iccete | comp | sandhi, ind + pron | | thus these | | | | iti + ete | | |
-| - icc | ind | adv | | thus | | | | iti > ity > icc | | |
+| iccete | comp | sandhi, ind + pron | | thus these; " these | | | | iti + ete | | |
+| - icc | ind | adv | | thus; " | | | | iti > ity > icc | | |
 | - ete | pron | masc nom pl of eta | | these | | | | | | |
 | aḍḍhateyyamāsā | noun | masc nom pl of aḍḍhateyyamāsa, comp | | two and half months | three minus half months | | | aḍḍhateyya + māsa | digu | aḍḍhateyya + māsa |
 | - aḍḍhateyya | adj | | | two and half | three minus half | | | aḍḍha + teyya | kammadhāraya | aḍḍha + teyya |

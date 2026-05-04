@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā apaccuddhārakaṃ paribhuñjeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :--------------------------------------- | :------------ | :---------------------------------------------------------- | :-------------------------- | :---------------------------- | :-------------------------- | :----------------------------------- | :---------------- | :------------------------ |
+| :---------------- | :------ | :--------------------------------------- | :------------ | :---------------------------------------------------------- | :----------------------------- | :---------------------------- | :-------------------------- | :----------------------------------- | :---------------- | :------------------------ |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -19,7 +19,7 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | sāmaṃ | ind | adv, acc sg of sa | | by oneself | | | | sa + āmaṃ | | |
 | cīvaraṃ | noun | nt nom sg of cīvara | | robe, robe-cloth | cloth | | | | | |
-| vikappetvā | verb | abs of vikappeti | +acc & +dat | having shared ownership, assigned ownership | having made very suitable | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | vi + kappe + tvā | | |
+| vikappetvā | verb | abs of vikappeti | +acc & +dat | having shared ownership, assigned ownership | having caused to be suitable | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | vi + kappe + tvā | | |
 | apaccuddhārakaṃ | ind | adv, acc sg of apaccuddhāraka | | without withdrawing (the assignment) | not carrying back out | √dhar (hold, carry) | | na + pati + ud + √dhar + *a + akaṃ | | |
 | paribhuñjeyya | verb | opt 3rd sg of paribhuñjati | | he would use, make use of | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | pari + bhuñja + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
