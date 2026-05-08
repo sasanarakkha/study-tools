@@ -1,4 +1,4 @@
-# Pat — Back Template
+# Pātimokkha word by word — Back Template
 
 ```html
 <div style=" word-wrap:break-word;"><b>{{pali}}</b></div>

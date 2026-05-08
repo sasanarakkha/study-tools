@@ -1,4 +1,4 @@
-# Class — Back Template
+# pali class Vocab — Back Template
 
 ```html
 {{FrontSide}}
@@ -29,7 +29,7 @@
     {{#native}}
     <tr valign="top">
         <td class="another_color">Native:</td>
-        <td><b>{{native}}</b></td>
+        <td>{{native}}</td>
     </tr>
     {{/native}}
 

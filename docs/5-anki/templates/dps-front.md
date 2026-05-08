@@ -1,4 +1,4 @@
-# Dps — Front Template
+# Pāli — Front Template
 
 ```html
 <div class="small indent"><i>{{source_1}} {{sutta_1}}</i></div>

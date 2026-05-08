@@ -1,7 +1,7 @@
-# Pat — Front Template
+# Pātimokkha word by word — Front Template
 
 ```html
-<div style="max-width:525px; word-wrap:break-word;"><b>{{pali_1}}</b></div>
+<div style="max-width:525px; word-wrap:break-word;"><b>{{pali}}</b></div>
 <br>
 {{#variant}}
 <div>Variant: {{variant}} </div>
@@ -9,6 +9,8 @@
 {{/variant}}
 <div>{{sentence}}</div>
 <div class=myclass>{{abbrev}} {{source}}</div>
+
+
 
 
 

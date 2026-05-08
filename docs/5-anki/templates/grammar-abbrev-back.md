@@ -1,4 +1,4 @@
-# Grammar Abbrev — Back Template
+# pali class abbrev — Back Template
 
 ```html
 {{FrontSide}}

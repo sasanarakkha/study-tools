@@ -5,92 +5,139 @@
 
 <hr id=answer>
 
-{{#marks}}
+<table>
 
-<div class=notesclass><i>{{marks}}</i></div>
-<div class=brclass><br></div> 
+    {{#marks}}
+    <tr valign="top">
+        <td class="another_color">My notes:</td>
+        <td class="another_color"><i>{{marks}}</i></td>
+    </tr>
+    {{/marks}}
 
-{{/marks}}
+    {{#root}}
+    <tr valign="top">
+        <td class="another_color">Root:</td>
+        <td>{{root}}{{root_has_verb}}{{root_group}} {{root_sign}} ({{root_meaning}})</td>
+    </tr>
+    {{/root}}
 
-{{#root}}
+    {{#root_base}}
+    <tr valign="top">
+        <td class="another_color">Base:</td>
+        <td>{{root_base}}</td>
+    </tr>
+    {{/root_base}}
 
-<div class=myclass><div style='font-size: 110%;'>  {{root}}{{root_has_verb}}{{root_group}} {{root_sign}} ({{root_meaning}})</div>
-<div class=brclass><br></div></div>
-{{/root}}
+    {{#construction}}
+    <tr valign="top">
+        <td class="another_color">Constr.:</td>
+        <td>{{construction}}</td>
+    </tr>
+    {{/construction}}
 
-<div class=myclass><div style='font-size: 110%;'> 
-{{#root_base}} {{root_base}} <div class=brclass><br></div> {{/root_base}}{{construction}}
-</div></div>
+    {{#phonetic}}
+    <tr valign="top">
+        <td class="another_color">Phonetic:</td>
+        <td><i>{{phonetic}}</i></td>
+    </tr>
+    {{/phonetic}}
 
-{{#phonetic}}
-<div class=brclass><br></div>
-<div class=myclass><div style='font-size: 90%;'>  <i>{{phonetic}}</i></div></div>
- {{/phonetic}}
+    {{#derivative}}
+    <tr valign="top">
+        <td class="another_color">Deriv.:</td>
+        <td class="small">{{derivative}} ({{suffix}})</td>
+    </tr>
+    {{/derivative}}
 
-{{#derivative}}
-<div class=brclass><br></div>
-<div style='font-size: 90%;'> <i>Deriv: </i> {{derivative}} ({{suffix}})
-</div>
-{{/derivative}}
+    {{#grammar}}
+    <tr valign="top">
+        <td class="another_color">Grammar:</td>
+        <td><i>{{grammar}}{{#neg}}, {{neg}}{{/neg}}{{#verb}}, {{verb}}{{/verb}}{{#trans}}, {{trans}}{{/trans}}{{#plus_case}} ({{plus_case}}){{/plus_case}}</i></td>
+    </tr>
+    {{/grammar}}
 
-<div class=brclass><br></div>
+    {{#meaning}}
+    <tr valign="top">
+        <td class="another_color">Meaning:</td>
+        <td><b>{{meaning}}</b>{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}}</td>
+    </tr>
+    {{/meaning}}
 
-<div style='font-size: 85%;'>
-<i>{{grammar}}{{#neg}}, {{neg}}{{/neg}}{{#verb}}, {{verb}}{{/verb}}{{#trans}}, {{trans}}{{/trans}}{{#plus_case}} ({{plus_case}}){{/plus_case}}</i></div>
+    {{#native}}
+    <tr valign="top">
+        <td class="another_color">Native:</td>
+        <td>{{native}}</td>
+    </tr>
+    {{/native}}
 
-<div class=brclass><br></div>
+    {{#compound_type}}
+    <tr valign="top">
+        <td class="another_color">Compound:</td>
+        <td>{{compound_type}} ({{compound_construction}})</td>
+    </tr>
+    {{/compound_type}}
 
-<div> <b> {{meaning}}</b>{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}} </div>
-<div class=brclass><br></div>
+    {{#sanskrit}}
+    <tr valign="top">
+        <td class="another_color">Sanskrit:</td>
+        <td class="small">{{sanskrit}}</td>
+    </tr>
+    {{/sanskrit}}
 
-<div> {{native}}</div>
+    {{#sanskrit_root}}
+    <tr valign="top">
+        <td class="another_color">Sanskrit Root:</td>
+        <td class="small">{{sanskrit_root}} {{sanskrit_root_class}} ({{sanskrit_root_meaning}})</td>
+    </tr>
+    {{/sanskrit_root}}
 
-<div class=brclass><br></div>
-{{#compound_type}}
-<div style='font-size: 90%;'> <i>Comp: </i> {{compound_type}} ({{compound_construction}}) </div>
-{{/compound_type}}
+    {{#commentary}}
+    <tr valign="top">
+        <td class="another_color">Comm.:</td>
+        <td class="small"><i>{{commentary}}</i></td>
+    </tr>
+    {{/commentary}}
 
-{{#sanskrit}}
-<div class=brclass><br></div>
-<div style='font-size: 90%;'> <i>Sk:</i> {{sanskrit}} </div>
-{{/sanskrit}}
+    {{#notes}}
+    <tr valign="top">
+        <td class="another_color">Notes:</td>
+        <td class="small"><i>{{notes}}</i></td>
+    </tr>
+    {{/notes}}
 
-<div style='font-size: 90%;'> {{#sanskrit_root}} <i>Sk:</i>  {{sanskrit_root}} {{sanskrit_root_class}} ({{sanskrit_root_meaning}}){{/sanskrit_root}}
- </div>
+    {{#variant}}
+    <tr valign="top">
+        <td class="another_color">Variant:</td>
+        <td class="small">{{variant}}</td>
+    </tr>
+    {{/variant}}
 
-{{#commentary}}
-<div class=brclass><br></div>
-<div class=smallclass> <i>{{commentary}}</i></div>
-{{/commentary}}
+    {{#antonym}}
+    <tr valign="top">
+        <td class="another_color">Antonym:</td>
+        <td class="small">{{antonym}}</td>
+    </tr>
+    {{/antonym}}
 
-{{#notes}}
-<div class=brclass><br></div>
-<div class=smallclass> <i>{{notes}}</i></div>
- {{/notes}}
+    {{#synonym}}
+    <tr valign="top">
+        <td class="another_color">Synonym:</td>
+        <td class="small">{{synonym}}</td>
+    </tr>
+    {{/synonym}}
 
-{{#variant}}
-<div class=brclass><br></div>
-<div class=smallclass> <i>Var:</i> {{variant}}</div>
- {{/variant}}
+    {{#link}}
+    <tr valign="top">
+        <td class="another_color">Wiki:</td>
+        <td class="small">{{link}}</td>
+    </tr>
+    {{/link}}
 
+</table>
 
-{{#antonym}}
-<div class=brclass><br></div>
-<div class=smallclass> <i>Ant:</i> {{antonym}}</div>
- {{/antonym}}
+<div class="audio-block">{{audio}}</div>
 
-{{#synonym}}
-<div class=brclass><br></div>
-<div class=smallclass> <i>Syn:</i> {{synonym}}</div>
- {{/synonym}}
-
-<div>{{audio}}</div>
-<div class=brclass><br></div>
-
-<div style='font-size: 70%;'>{{link}}</div>
-<div style='font-size: 70%; text-align: left;'>{{feedback}}</div>
-<br>
-
-
-<br>
+<hr>
+<div style="font-size: 70%; text-align: left;">{{feedback}}</div>
+<span class="spacer"></span>
 ```

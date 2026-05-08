@@ -1,7 +1,6 @@
-# Dhp — Front Template
+# DHP Vocab — Front Template
 
 ```html
-
 <div class="small indent"><i>{{source}} {{sutta}}</i></div>
 
 <div>{{example}}</div>

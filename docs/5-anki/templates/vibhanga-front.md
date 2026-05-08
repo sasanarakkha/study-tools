@@ -1,12 +1,10 @@
 # Vibhanga — Front Template
 
 ```html
-
-<div style='font-size: 80%;'><i>{{sutta}}</i></div>
-
-<div style='font-size: 65%;'><i>{{source}}</i></div>
+<div class="small indent"><i>{{source}} {{sutta}}</i></div>
 
 <div>{{example}}</div>
+<span class="spacer"></span>
 
 <hr>
 

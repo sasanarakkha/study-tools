@@ -1,4 +1,4 @@
-# Grammar Gramm Forth — Back Template
+# pali class Grammar — Forth — Back Template
 
 ```html
 {{FrontSide}}
@@ -44,7 +44,7 @@
     {{#marks}}
     <tr valign="top">
         <td class="another_color">My notes:</td>
-        <td><i>{{marks}}</i></td>
+        <td class="another_color"><i>{{marks}}</i></td>
     </tr>
     {{/marks}}
 

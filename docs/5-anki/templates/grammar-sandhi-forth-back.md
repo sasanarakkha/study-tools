@@ -1,4 +1,4 @@
-# Grammar Sandhi Forth — Back Template
+# pali class Sandhi — Forth — Back Template
 
 ```html
 {{FrontSide}}

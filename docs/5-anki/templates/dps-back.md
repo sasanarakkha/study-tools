@@ -1,4 +1,4 @@
-# Dps — Back Template
+# Pāli — Back Template
 
 ```html
 {{FrontSide}}

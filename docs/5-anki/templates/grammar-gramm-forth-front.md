@@ -1,4 +1,4 @@
-# Grammar Gramm Forth — Front Template
+# pali class Grammar — Forth — Front Template
 
 ```html
 <table>

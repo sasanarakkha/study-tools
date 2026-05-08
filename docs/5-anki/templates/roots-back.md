@@ -1,4 +1,4 @@
-# Roots — Back Template
+# Roots Class — Back Template
 
 ```html
 {{FrontSide}}
@@ -24,17 +24,10 @@
         <td>
             <details>
             <summary><i>show</i></summary>
-            <div>{{meaning}} {{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}}</div>
+            <div>{{meaning}} {{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}}{{#native}}<br>{{native}}{{/native}}</div>
             </details>
         </td>
     </tr>
-
-    {{#native}}
-    <tr valign="top">
-        <td class="another_color">Native:</td>
-        <td><b>{{native}}</b></td>
-    </tr>
-    {{/native}}
 
 
     {{#root}}

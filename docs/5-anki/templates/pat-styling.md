@@ -1,4 +1,4 @@
-# Pat Styling
+# Pātimokkha word by word — Styling
 
 ```css
 .card {

@@ -1,4 +1,4 @@
-# Grammar Abbrev — Front Template
+# pali class abbrev — Front Template
 
 ```html
 <table>

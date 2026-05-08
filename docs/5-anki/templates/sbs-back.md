@@ -1,4 +1,4 @@
-# Back Template - SBS Vocab
+# SBS Vocab — Back Template
 
 ```html
 {{FrontSide}}

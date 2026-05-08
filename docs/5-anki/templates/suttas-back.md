@@ -1,4 +1,4 @@
-# Suttas — Back Template
+# Advanced Suttas — Back Template
 
 ```html
 {{FrontSide}}

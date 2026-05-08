@@ -1,4 +1,4 @@
-# Roots — Front Template
+# Roots Class — Front Template
 
 ```html
 <div class="small indent"><i> {{#sbs_class_anki}} class {{sbs_class_anki}} {{/sbs_class_anki}}</i></div>

@@ -1,4 +1,4 @@
-# Grammar Gramm — Front Template
+# pali class Grammar — Back — Front Template
 
 ```html
 <table>

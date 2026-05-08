@@ -1,4 +1,4 @@
-# Front Template - SBS Vocab
+# SBS Vocab — Front Template
 
 ```html
 
