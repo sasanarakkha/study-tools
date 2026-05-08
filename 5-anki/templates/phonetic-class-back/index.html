@@ -21,7 +21,7 @@
     
     
       
-        <title>Phonetic class back - SBS DhammaVinaya Learning Tools</title>
+        <title>Phonetic Class — Back Template - SBS DhammaVinaya Learning Tools</title>
       
     
     
@@ -73,6 +73,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#phonetic-class-back-template" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -105,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Phonetic class back
+              Phonetic Class — Back Template
             
           </span>
         </div>
@@ -1210,6 +1215,8 @@
   
   
   
+    
+  
   
 </nav>
                   </div>
@@ -1226,74 +1233,135 @@
 
 
 
-  <h1>Phonetic class back</h1>
+<h1 id="phonetic-class-back-template">Phonetic Class — Back Template<a class="headerlink" href="#phonetic-class-back-template" title="Permanent link">&para;</a></h1>
+<pre><code class="language-html">{{FrontSide}}
 
-<p>{{FrontSide}}</p>
-<hr id=answer>
+&lt;hr id=answer&gt;
 
-<p>{{#marks}}</p>
-<div class=notesclass><i>{{marks}}</i></div>
-<div class=brclass><br></div>
+&lt;table&gt;
 
-<p>{{/marks}}</p>
-<p>{{#root}}</p>
-<div class=myclass> {{root}} </div>
-<div class=brclass><br></div>
-<p>{{/root}}</p>
-<div class=myclass>
-{{#base}} <b>{{base}}</b> <div class=brclass><br></div> {{/base}}<b>{{constr}}</b>
-</div>
+    {{#marks}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;My notes:&lt;/td&gt;
+        &lt;td class=&quot;another_color&quot;&gt;&lt;i&gt;{{marks}}&lt;/i&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/marks}}
 
-<p>{{#phonetic}}</p>
-<div class=brclass><br></div>
-<div class=myclass><div style='font-size: 80%;'>  <b><i>{{phonetic}}</i></b></div></div>
-<p>{{/phonetic}}</p>
-<p>{{#derivative}}</p>
-<div class=brclass><br></div>
-<div style='font-size: 90%;'> <i>Deriv: </i> {{derivative}} ({{suffix}})
-</div>
-<p>{{/derivative}}</p>
-<div class=brclass><br></div>
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Grammar:&lt;/td&gt;
+        &lt;td&gt;{{grammar}}{{#neg}}, {{neg}}{{/neg}}{{#verb}}, {{verb}}{{/verb}}{{#trans}}, {{trans}}{{/trans}}{{#plus_case}} ({{plus_case}}){{/plus_case}}&lt;/td&gt;
+    &lt;/tr&gt;
 
-<div style='font-size: 85%;'>
-<i>{{pos}}{{#gram}}, {{gram}}{{/gram}}{{#derived}}, from  {{derived}}{{/derived}}{{#neg}}, {{neg}}{{/neg}}{{#verb}}, {{verb}}{{/verb}}{{#trans}}, {{trans}}{{/trans}}{{#case}} ({{case}}){{/case}}</i></div>
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Meaning:&lt;/td&gt;
+        &lt;td&gt;
+            &lt;details&gt;
+            &lt;summary&gt;&lt;i&gt;show&lt;/i&gt;&lt;/summary&gt;
+            &lt;div&gt;{{meaning}} {{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}}{{#native}}&lt;br&gt;{{native}}{{/native}}&lt;/div&gt;
+            &lt;/details&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
 
-<div class=brclass><br></div>
+    {{#root}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Root:&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;{{root}}{{root_has_verb}}{{root_group}} {{root_sign}} ({{root_meaning}})&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/root}}
 
-<div>  {{eng}}  </div>
-<div class=brclass><br></div>
+    {{#root_base}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Base:&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;{{root_base}}&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/root_base}}
 
-<div> {{native}} </div>
+    {{#construction}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Constr.:&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;{{construction}}&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/construction}}
 
-<p>{{#comp}}</p>
-<div class=brclass><br></div>
-<div style='font-size: 90%;'> <i>Comp: </i> {{comp}} ({{comp_constr}}) </div>
-<p>{{/comp}}</p>
-<p>{{#sk}}</p>
-<div class=brclass><br></div>
-<div style='font-size: 90%;'> <i>Sk:</i> {{sk}} </div>
-<p>{{/sk}}</p>
-<div style='font-size: 90%;'> {{#skroot}} <i>Sk:</I> {{/skroot}} {{skroot}} </div>
+    {{#phonetic}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Phonetic:&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;{{phonetic}}&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/phonetic}}
 
-<p>{{#comment}}</p>
-<div class=brclass><br></div>
-<div class=smallclass> <i>{{comment}}</i></div>
-<p>{{/comment}}</p>
-<p>{{#notes}}</p>
-<div class=brclass><br></div>
-<div class=smallclass> <i>{{notes}}</i></div>
-<p>{{/notes}}</p>
-<div class=brclass><br></div>
-<div class=smallclass> <i></i></div>
+    {{#derivative}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Deriv.:&lt;/td&gt;
+        &lt;td&gt;{{derivative}} ({{suffix}})&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/derivative}}
 
-<p>{{#var}}</p>
-<div class=brclass><br></div>
-<div class=smallclass> <i>Var:</i> {{var}}</div>
-<p>{{/var}}</p>
-<div>{{audio}}</div>
-<div class=brclass><br></div>
-<div style='font-size: 70%; text-align: left;'>{{feedback}}</div>
-<p><br></p>
+    {{#compound_type}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Compound:&lt;/td&gt;
+        &lt;td&gt;{{compound_type}} ({{compound_construction}})&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/compound_type}}
+
+    {{#sanskrit}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Sanskrit:&lt;/td&gt;
+        &lt;td class=&quot;small&quot;&gt;{{sanskrit}} {{#sanskrit_root}} {{sanskrit_root}} {{sanskrit_root_class}} ({{sanskrit_root_meaning}}){{/sanskrit_root}} &lt;/td&gt;
+    &lt;/tr&gt;
+    {{/sanskrit}}
+
+
+    {{#commentary}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Comm.:&lt;/td&gt;
+        &lt;td class=&quot;small&quot;&gt;{{commentary}}&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/commentary}}
+
+    {{#notes}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Notes:&lt;/td&gt;
+        &lt;td class=&quot;small&quot;&gt;{{notes}}{{sbs_notes}}&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/notes}}
+
+    {{#variant}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Variant:&lt;/td&gt;
+        &lt;td class=&quot;small&quot;&gt;{{variant}}&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/variant}}
+
+        {{#antonym}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Antonym:&lt;/td&gt;
+        &lt;td class=&quot;small&quot;&gt;{{antonym}}&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/antonym}}
+
+    {{#synonym}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Synonym:&lt;/td&gt;
+        &lt;td class=&quot;small&quot;&gt;{{synonym}}&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/synonym}}
+
+    {{#link}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Wiki:&lt;/td&gt;
+        &lt;td class=&quot;small&quot;&gt;{{link}}&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/link}}
+
+&lt;/table&gt;
+
+&lt;hr&gt;
+&lt;div class=&quot;small&quot;&gt;{{feedback}}&lt;/div&gt;
+
+&lt;span class=&quot;spacer&quot;&gt;&lt;/span&gt;
+
+</code></pre>
 
 
 

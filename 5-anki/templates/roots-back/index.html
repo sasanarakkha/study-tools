@@ -21,7 +21,7 @@
     
     
       
-        <title>Roots — Back Template - SBS DhammaVinaya Learning Tools</title>
+        <title>Roots Class — Back Template - SBS DhammaVinaya Learning Tools</title>
       
     
     
@@ -74,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#roots-back-template" class="md-skip">
+        <a href="#roots-class-back-template" class="md-skip">
           Skip to content
         </a>
       
@@ -110,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Roots — Back Template
+              Roots Class — Back Template
             
           </span>
         </div>
@@ -1233,7 +1233,7 @@
 
 
 
-<h1 id="roots-back-template">Roots — Back Template<a class="headerlink" href="#roots-back-template" title="Permanent link">&para;</a></h1>
+<h1 id="roots-class-back-template">Roots Class — Back Template<a class="headerlink" href="#roots-class-back-template" title="Permanent link">&para;</a></h1>
 <pre><code class="language-html">{{FrontSide}}
 
 &lt;hr id=answer&gt;
@@ -1257,17 +1257,10 @@
         &lt;td&gt;
             &lt;details&gt;
             &lt;summary&gt;&lt;i&gt;show&lt;/i&gt;&lt;/summary&gt;
-            &lt;div&gt;{{meaning}} {{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}}&lt;/div&gt;
+            &lt;div&gt;{{meaning}} {{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}}{{#native}}&lt;br&gt;{{native}}{{/native}}&lt;/div&gt;
             &lt;/details&gt;
         &lt;/td&gt;
     &lt;/tr&gt;
-
-    {{#native}}
-    &lt;tr valign=&quot;top&quot;&gt;
-        &lt;td class=&quot;another_color&quot;&gt;Native:&lt;/td&gt;
-        &lt;td&gt;&lt;b&gt;{{native}}&lt;/b&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    {{/native}}
 
 
     {{#root}}

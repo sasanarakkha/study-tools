@@ -8,7 +8,7 @@
       
       
       
-        <link rel="canonical" href="https://sasanarakkha.github.io/study-tools/5-anki/templates/suttas-front/">
+        <link rel="canonical" href="https://sasanarakkha.github.io/study-tools/5-anki/templates/paritta-back/">
       
       
       
@@ -21,7 +21,7 @@
     
     
       
-        <title>Advanced Suttas — Front Template - SBS DhammaVinaya Learning Tools</title>
+        <title>Paritta — Back Template - SBS DhammaVinaya Learning Tools</title>
       
     
     
@@ -74,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#advanced-suttas-front-template" class="md-skip">
+        <a href="#paritta-back-template" class="md-skip">
           Skip to content
         </a>
       
@@ -110,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Advanced Suttas — Front Template
+              Paritta — Back Template
             
           </span>
         </div>
@@ -1233,18 +1233,57 @@
 
 
 
-<h1 id="advanced-suttas-front-template">Advanced Suttas — Front Template<a class="headerlink" href="#advanced-suttas-front-template" title="Permanent link">&para;</a></h1>
-<pre><code class="language-html">&lt;div class=&quot;small indent&quot;&gt;&lt;i&gt;{{source}} {{sutta}}&lt;/i&gt;&lt;/div&gt;
+<h1 id="paritta-back-template">Paritta — Back Template<a class="headerlink" href="#paritta-back-template" title="Permanent link">&para;</a></h1>
+<pre><code class="language-html">{{FrontSide}}
 
-&lt;div&gt;{{example}}&lt;/div&gt;
+&lt;hr id=answer&gt;
 
-&lt;span class=&quot;spacer&quot;&gt;&lt;/span&gt;
+&lt;table&gt;
+
+    {{#marks}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;My notes:&lt;/td&gt;
+        &lt;td class=&quot;another_color&quot;&gt;&lt;i&gt;{{marks}}&lt;/i&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/marks}}
+
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Grammar:&lt;/td&gt;
+        &lt;td&gt;{{grammar}}&lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Meaning:&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;{{meaning}}&lt;/b&gt;{{#meaning_lit}}; lit. {{meaning_lit}}{{/meaning_lit}}&lt;/td&gt;
+    &lt;/tr&gt;
+
+    {{#root}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Root:&lt;/td&gt;
+        &lt;td&gt;{{root}}{{root_group}} {{root_sign}} ({{root_meaning}})&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/root}}
+
+    {{#root_base}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Base:&lt;/td&gt;
+        &lt;td&gt;{{root_base}}&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/root_base}}
+
+    {{#construction}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Constr.:&lt;/td&gt;
+        &lt;td&gt;{{construction}}&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/construction}}
+
+&lt;/table&gt;
 
 &lt;hr&gt;
+&lt;div class=&quot;small&quot;&gt;{{feedback}}&lt;/div&gt;
 
-&lt;div&gt;{{audio}}&lt;/div&gt;
-
-&lt;div&gt;&lt;b&gt;{{pali}}&lt;/b&gt;&lt;/div&gt;
+&lt;span class=&quot;spacer&quot;&gt;&lt;/span&gt;
 
 </code></pre>
 
