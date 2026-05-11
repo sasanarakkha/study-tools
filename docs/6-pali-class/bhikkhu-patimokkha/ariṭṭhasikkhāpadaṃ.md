@@ -25,12 +25,12 @@
 | vuttā | pp | masc nom pl of vutta | | said, spoken | | √vac (speak) | | √vac > vuc + ta | | |
 | bhagavatā | noun | masc instr sg of bhagavant | | by the Blessed One, Fortunate One | having luck, fortune | √bhaj (divide) | | √bhaj > bhag + avant | | |
 | te | pron | masc nom pl of ta | | they, those | | | | | | |
-| paṭisevato | prp | masc gen sg of paṭisevanta | | when engaging, indulging | when associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
-| nālaṃ | comp | sandhi, ind + ind | +dat | not enough (to); it is not enough (for) | not enough (for) | | | na + alaṃ | | |
+| paṭisevato | prp | masc dat sg of paṭisevanta | | for (one) engaging, indulging | for associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
+| nālaṃ | comp | sandhi, ind + ind | +dat | they are not enough (for); not able (to) | not enough (for) | | | na + alaṃ | | |
 | - na | ind | neg | | not | | | | | | |
-| - alaṃ | ind | acc sg of ala | +dat or +inf | enough; it is enough (for) | enough | | | ala + aṃ | | |
+| - alaṃ | ind | acc sg of ala | +dat or +inf | they are enough (for); able (to) | enough | | | ala + aṃ | | |
 | antarāyāyāti | comp | sandhi, masc + ind | | | | | | antarāyāya + iti | | |
-| - antarāyāya | noun | masc dat sg of antarāya | | for obstruction | for coming inbetween | | | antara + aya | | |
+| - antarāyāya | noun | masc dat sg of antarāya | | for obstruction, obstacle, danger | for coming inbetween | | | antara + aya | | |
 | - iti | ind | | | “” | thus | | | | | |
 
 ## so bhikkhu bhikkhūhi evam'assa vacanīyo, mā āyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ
@@ -58,7 +58,7 @@
 ## na hi bhagavā evaṃ vadeyya, anekapariyāyena āvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañ'ca pana te paṭisevato antarāyāyā'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------- | :------- | :----------------------------------------- | :-------------------------- | :------------------------ | :---------------- | :--------------------- | :---------------- | :------------------------ |
+| :---------------- | :------ | :------------------------------------- | :------- | :--------------------------------------- | :-------------------------- | :------------------------ | :---------------- | :--------------------- | :---------------- | :------------------------ |
 | na | ind | neg | | not | | | | | | |
 | hi | ind | excl | | certainly, indeed (or) because; for | | | | | | |
 | bhagavā | noun | masc nom sg of bhagavant | | the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
@@ -71,10 +71,10 @@
 | antarāyikā | adj | masc nom pl of antarāyika | | obstructive | coming in-betweeen | | | anatra + aya + ika | | |
 | vuttā | pp | masc nom pl of vutta | | said, spoken | | √vac (speak) | | √vac > vuc + ta | | |
 | bhagavatā | noun | masc instr sg of bhagavant | | by the Blessed One, Fortunate One | having luck, fortune | √bhaj (divide) | | √bhaj > bhag + avant | | |
-| alañca | comp | sadnhi, ind + ind | | but (it is) enough; but (it ts) suitable | | | | alaṃ + ca | | |
+| alañca | comp | sadnhi, ind + ind | | but (these are) enough, suitable, able | | | | alaṃ + ca | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | te | pron | masc nom pl of ta | | they, those | | | | | | |
-| paṭisevato | prp | masc gen sg of paṭisevanta | | when engaging, indulging | when associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
+| paṭisevato | prp | masc dat sg of paṭisevanta | | for (one) engaging, indulging | for associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
 | antarāyāyāti | comp | sandhi, masc + ind | | | | | | antarāyāya + iti | | |
 
 ## evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya.

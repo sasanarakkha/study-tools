@@ -23,7 +23,7 @@
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | gārayhā | ptp | masc nom pl of gārayha | | blameworthy | to be blamed | √garah (blame) | | √garah + *ya | | |
 | idaṃ | pron | nt nom sg of ima | | this | | | | | | |
-| tasmiṃ | pron | masc loc sg of ta | | in this case, in this situation | in that | | | | | |
+| tasmiṃ | pron | masc loc sg of ta | | in that (case), in that (situation) | in that | | | | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 

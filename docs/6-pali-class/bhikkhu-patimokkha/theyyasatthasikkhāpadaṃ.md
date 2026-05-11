@@ -10,7 +10,7 @@
 | jānaṃ | ind | adv, from jānanta | | knowingly, consciously, wittingly | knowing | √ñā (know) | √ñā + nā > jānā | jānā + aṃ | | |
 | theyyasatthena | noun | masc instr sg of theyyasattha, comp | | with a caravan of thieves, party of thieves | | | | theyya + sattha | genitive tappurisa | theyyānaṃ + sattha |
 | - theyya | noun | masc | | thief, robber | stealer | √then (steal) | | √then + ya | | |
-| - satthena | noun | masc instr sg of sattha | | with a caravan | | √ar (move, attain) | | sa + √ar + tha | | |
+| - satthena | noun | masc instr sg of sattha | | with a caravan, company | | √ar (move, attain) | | sa + √ar + tha | | |
 | saddhiṃ | ind | prep | +instr | together with | | | | | | |
 | saṃvidhāya | verb | ger of saṃvidahati | | arranging, having organized | | √dhā (place, support) | | saṃ + vi  + √dhā + ya | | |
 | ekaddhānamaggaṃ | noun | masc acc sg of ekaddhānamagga, comp | | single road journey | one distance road | | | eka + addhāna + magga | digu | eko + addhānamaggo |

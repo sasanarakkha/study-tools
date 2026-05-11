@@ -110,7 +110,7 @@
 | karosi | verb | pr 2nd sg of karoti | | you make | | √kar (do, make) | √kar + o > karo | karo + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 | idaṃ | pron | nt nom sg of ima | | this | | | | | | |
-| tasmiṃ | pron | masc loc sg of ta | | in this case, in this situation | in that | | | | | |
+| tasmiṃ | pron | masc loc sg of ta | | in that (case), in that (situation) | in that | | | | | |
 | mohanake | noun | masc loc sg of mahanka | | in pretending not to know | in making confusion | √muh (be deluded, confused) | √muh + *e > mohe (caus) | mohe + ana + ka | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 

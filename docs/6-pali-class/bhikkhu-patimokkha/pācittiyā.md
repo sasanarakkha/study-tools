@@ -14,7 +14,7 @@
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | uddesaṃ | noun | masc acc sg of uddesa, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | āgacchanti | verb | pr 3rd pl of āgacchati | +acc | they arrive, they are coming up (for) | arrive | √gam (go) | √gam + a > gaccha (irreg) | ā + gaccha + ti | | |
-| Venerables, these ninety-two cases involving confession come up for recitation. | | | | | | | | | | |
+| Venerables, these ninety-two cases requiring confession come up for recitation. | | | | | | | | | | |
 
 ## PC 1 ... 92
 

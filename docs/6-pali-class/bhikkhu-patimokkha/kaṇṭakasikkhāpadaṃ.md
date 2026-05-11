@@ -3,7 +3,7 @@
 ## samaṇ'uddeso'pi ce evaṃ vadeyya, tath'āhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā ye'me antarāyikā dhammā vuttā bhagavatā, te paṭisevato n'ālaṃ antarāyāyā'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------------- | :------- | :---------------------------------------- | :--------------------- | :-------------------------- | :------------------------ | :--------------------- | :---------------- | :------------------------ |
+| :-------------- | :------ | :------------------------------------- | :------- | :----------------------------------------- | :--------------------- | :-------------------------- | :------------------------ | :--------------------- | :---------------- | :------------------------ |
 | samaṇuddesopi | comp | sandhi, masc + ind | | even (if) a novice | | | | samaṇuddeso + api | | |
 | - samaṇuddeso | noun | masc nom sg of samaṇuddesa | | novice | designated ascetic | | | samaṇa + uddesa | | |
 | - samaṇa | noun | masc | | ascetic; renunciant; monk | | √sam (exert, strive) | | √sam + aṇa | | |
@@ -24,8 +24,8 @@
 | vuttā | pp | masc nom pl of vutta | | said, spoken | | √vac (speak) | | √vac > vuc + ta | | |
 | bhagavatā | noun | masc instr sg of bhagavant | | by the Blessed One, Fortunate One | having luck, fortune | √bhaj (divide) | | √bhaj > bhag + avant | | |
 | te | pron | masc nom pl of ta | | they, those | | | | | | |
-| paṭisevato | prp | masc gen sg of paṭisevanta | | when engaging, indulging | when associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
-| nālaṃ | comp | sandhi, ind + ind | +dat | not enough (to); it is not enough (for) | not enough (for) | | | na + alaṃ | | |
+| paṭisevato | prp | masc dat sg of paṭisevanta | | for (one) engaging, indulging | for associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
+| nālaṃ | comp | sandhi, ind + ind | +dat | they are not enough (for); not able (to) | not enough (for) | | | na + alaṃ | | |
 | antarāyāyāti | comp | sandhi, masc + ind | | | | | | antarāyāya + iti | | |
 
 ## so samaṇ'uddeso bhikkhūhi evam'assa vacanīyo, m'āvuso, samaṇ'uddesa evaṃ avaca
@@ -76,7 +76,7 @@
 | alañca | comp | sadnhi, ind + ind | | but (it is) enough; but (it ts) suitable | | | | alaṃ + ca | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | te | pron | masc nom pl of ta | | they, those | | | | | | |
-| paṭisevato | prp | masc gen sg of paṭisevanta | | when engaging, indulging | when associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
+| paṭisevato | prp | masc dat sg of paṭisevanta | | for (one) engaging, indulging | for associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
 | antarāyāyāti | comp | sandhi, masc + ind | | | | | | antarāyāya + iti | | |
 
 ## evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya
