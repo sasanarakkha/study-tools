@@ -2,7 +2,7 @@
 
 In studying Pāli digital dictionaries are invaluable resources. Here is a list of them.
 
-- [Digital Pali Dictionary](https://dpdict.org)
+- [Digital Pali Dictionary](https://dpdict.net)
 
 - [Other Pali and Sanskrit dictionaries](https://github.com/digitalpalidictionary/other-dictionaries/releases/latest)
 

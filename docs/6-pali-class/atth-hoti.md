@@ -57,3 +57,29 @@ While *atthi* anchors the practitioner in the factual reality of what is current
 Saying this, it is improtant to remember:
 
 While *atthi* and *hoti* can have distinct meanings in certain contexts, they can also be completely interchangeable in others. This is similar to the usage of words like *mano*, *citta*, and *viññāṇa*. There are some variations in their usage, counter-examples, and instances where they are direct synonyms.
+
+----
+
+The provided sources **do not support** the theory that there is a fundamental split where *hoti* exclusively represents distant, objective facts and *atthi* exclusively represents immediate, present-moment sensory perception. Instead, the texts contain clear counter-examples showing both verbs being used interchangeably to describe both philosophical/objective claims and immediate, subjective states. 
+
+Here is an analysis of the evidence from the texts:
+
+**Clear Counter-Examples: *Hoti* used for immediate, present-moment experience**
+*Hoti* is frequently used throughout the texts to describe the direct, present-moment internal and mental states of a person, rather than distant facts:
+*   It is used to describe someone who is actively and presently mindful or wise: ***satimā hoti*** (is mindful) and ***paññavā hoti*** (is wise).
+*   It describes immediate emotional reactions, such as when a person is currently delighted (***attamanā hoti***) or when a maid becomes angry and displeased (***kupitā anattamanā... hoti***).
+*   In the core meditation instructions for establishing present-moment awareness, *hoti* describes the active presence of mindfulness itself: ***sati paccupaṭṭhitā hoti*** (mindfulness is established).
+
+**Clear Counter-Examples: *Atthi* used for distant, cosmological, or objective facts**
+Conversely, *atthi* is frequently used to declare objective, abstract, or distant philosophical concepts that cannot be felt as a sensory perception on the skin:
+*   It is used to philosophically claim the existence of a metaphysical soul: ***Atthi kho bho añño attā dibbo*** (There is another divine self).
+*   It is used to assert the existence of distant realms: ***atthi ekantasukho loko*** (there is an exclusively happy world).
+*   It is the primary verb used in the standard doctrinal formula asserting the objective laws of karma and the universe, stating that there is a fruit and result of good and bad deeds (***atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko***) and that there is a next world (***atthi paro loko***). These are statements of objective truth, not immediate sensory experiences. 
+
+**Partial Support: *Atthi* used for present-moment perception**
+The theory likely originates from specific meditative contexts where *atthi* is indeed used to ground the practitioner in immediate, present-moment observation. 
+*   In the *Satipaṭṭhāna Sutta* (The Foundations of Mindfulness), the meditator observes their direct experience by noting: ***atthi kāyo*** (there is a body), ***atthi vedanā*** (there is feeling), ***atthi cittaṃ*** (there is mind), and ***atthi dhammā*** (there are mental phenomena). 
+*   It is also used to acknowledge a present internal state, such as noticing an immediate mental blemish: ***atthi me ajjhattaṃ aṅgaṇan*** (there is a blemish in me).
+
+**Conclusion**
+While *atthi* is a crucial word used to anchor a meditator in present-moment observation, it is demonstrably false that the early Buddhist texts restrict *atthi* to this usage or that they restrict *hoti* to distant facts. The sources clearly show *atthi* being used to state objective, cosmological facts, and *hoti* being routinely used to describe immediate, present-moment experiences.
