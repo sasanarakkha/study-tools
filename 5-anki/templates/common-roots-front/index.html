@@ -1238,9 +1238,15 @@
 &lt;table&gt;
 
     &lt;tr valign=&quot;top&quot;&gt;
-        &lt;td class=&quot;another_color&quot;&gt;Root:&lt;/td&gt;
-        &lt;td&gt;&lt;b&gt;{{root}}&lt;/b&gt;&lt;/td&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Pāli Root:&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;{{root_clean}}&lt;/b&gt;&lt;/td&gt;
     &lt;/tr&gt;
+    {{#sanskrit_root}}
+    &lt;tr valign=&quot;top&quot;&gt;
+        &lt;td class=&quot;another_color&quot;&gt;Sk Root:&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;{{sanskrit_root}}&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    {{/sanskrit_root}}
 
     {{#main_verb}}
     &lt;tr valign=&quot;top&quot;&gt;
