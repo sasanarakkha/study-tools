@@ -15,3 +15,5 @@ temp/
 archive
 dpd_operations.log
 .env
+output/pdf/
+output/docs/

@@ -1,7 +1,7 @@
 # Field List: Patimokkha
 
 ```
-pali_1
+pali
 pos
 grammar
 case

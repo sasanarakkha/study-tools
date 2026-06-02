@@ -28,3 +28,19 @@ Scripts that run once (like data migrations or one-time transformations) MUST be
 
 ## Python Coding Standards
 - Always import the printer instance from `tools.printer`: `from tools.printer import printer as pr`. Never import the `Printer` class directly for standard logging.
+- Use `icecream` (`from icecream import ic`) for debug output, not `print()`.
+
+## Pre-Completion Validation (MANDATORY)
+
+**Before reporting ANY Python code changes as complete, run ALL of:**
+
+1. `uv run ruff check --fix <file>`
+2. `uv run ruff format <file>`
+3. `uv run pyright <file>`
+4. `uv run --with pyrefly pyrefly check --min-severity warn <file>`
+5. `uv run pytest tests/test_<feature>.py -v` (for affected tests)
+
+**Do NOT report completion until all checks pass.** This is non-negotiable. Do not skip or defer these. Pyrefly warnings count as failures unless explicitly approved by the user. Type safety is mandatory, not optional.
+- **Verification:** Write tests for accurate data output (not UI components). Readme MUST be updated.
+- **Research:** Always perform Google Search for framework/OS quirks.
+- **Sync Tracking:** Only track and update exporters in the sync registry that contain localized data (Russian, SBS, or DPS-specific).
