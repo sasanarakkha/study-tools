@@ -5,9 +5,15 @@
 <table>
 
     <tr valign="top">
-        <td class="another_color">Root:</td>
-        <td><b>{{root}}</b></td>
+        <td class="another_color">Pāli Root:</td>
+        <td><b>{{root_clean}}</b></td>
     </tr>
+    {{#sanskrit_root}}
+    <tr valign="top">
+        <td class="another_color">Sk Root:</td>
+        <td><b>{{sanskrit_root}}</b></td>
+    </tr>
+    {{/sanskrit_root}}
 
     {{#main_verb}}
     <tr valign="top">

@@ -10,6 +10,7 @@ root_meaning
 main_verb
 examples_or_words
 native
+test
 feedback
 marks
 ```
