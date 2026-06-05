@@ -34,7 +34,7 @@
 | cha | card | x nom pl | | six | | | | | | |
 | vidatthiyo | noun | fem nom pl | | spans | hand-length | | | | | |
 
-## idaṃ sugatassa sugatacīvarappamāṇanti.
+## idaṃ sugatassa sugatacīvarappamāṇaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------------- | :------ | :--------------------------------------- | :------- | :-------------------------------------------------- | :-------------- | :---------- | :------- | :------------------------- | :------------------- | :------------------------- |
@@ -46,7 +46,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------- | :------ | :------------------------------- | :------- | :-------------------- | :-------------- | :------------ | :------- | :--------------- | :---------------- | :------------------------ |
-| rājavaggo | noun | comp, masc nom sg of rājavagga | | chapter about rings | | | | rāja + vagga | kammadhāraya | rāja + vagga |
+| rājavaggo | noun | comp, masc nom sg of rājavagga | | chapter about kings | | | | rāja + vagga | kammadhāraya | rāja + vagga |
 | - rāja | noun | masc | | king, ruler | | √rāj (rule) | | √rāj + ā | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | navamo | ordin | masc nom sg of navama | | ninth (9th) | | | | nava + ma | | |

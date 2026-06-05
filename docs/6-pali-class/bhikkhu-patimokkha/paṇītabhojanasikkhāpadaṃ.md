@@ -10,7 +10,7 @@
 | tāni | pron | nt nom pl of ta | | those | | | | | | |
 | paṇītabhojanāni | noun | nt nom pl of paṇītabhojana, comp | | fine food; excellent food; delicious food | brought forward food | | | paṇīta + bhojana | kammadhāraya | paṇīta + bhojana |
 | - paṇīta | adj | | | fine; delicious; excellent | brought forward | √nī (lead) | | pa + √nī + ta | | |
-| - bhojanāni | noun | nt nom pl of bhojana | | foods, foodstuff | enjoying | √bhuj (eat, enjoy) | | √bhoj + *ana | | |
+| - bhojanāni | noun | nt nom pl of bhojana | | food, foodstuff | enjoying | √bhuj (eat, enjoy) | | √bhoj + *ana | | |
 | seyyathīdaṃ | comp | sandhi, pron + adv + pron | | as follows, such as, namely, i.e. | that (is) like this | | | se + yathā + idaṃ | | |
 | sappi | noun | nt nom sg | | ghee | | | | | | |
 | navanītaṃ | noun | nt nom sg, comp | | fresh butter | fresh extracted | | | nava + nīta | kammadhāraya | nava + nīta |

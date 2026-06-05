@@ -7,19 +7,20 @@
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | in leading to liberation | √mokkh (be free) | | pa + ati + √mokkh + a | | |
+| pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | | | | | | |
 | uddissamāne | prp | masc loc sg of uddissamāna | | when being recited | in being pointed up | √dis (point out, explain) | √dis + ya > dissa (pass) | ud + dissa + māna | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
 | kiṃ | pron | nt nom sg of ka | | what? | | | | | | |
-| panimehi | comp | sandhi, ind + pron | | and with these | | | | pana + imehi | | |
+| panimehi | comp | sandhi, ind + pron | | then with these; but with this | | | | pana + imehi | | |
+| - pana | ind | | | then, now, so, but | | | | | | |
 | - imehi | pron | nt instr pl of ima | | with these | | | | | | |
 | khuddānukhuddakehi | adj | nt instr pl of khuddānukhuddaka, comp | | with lesser and minor | small and even smaller | | | khudda + anukhuddaka | dvanda | khudda ca anukhuddaka ca |
 | - khudda | adj | | | small | | | | | | |
 | - anukhuddakehi | adj | nt instr pl of anukhuddaka | | with lesser, minor | following small, even small | | | anu + khuda + ka | | |
 | sikkhāpadehi | noun | nt instr pl of sikkhāpada, comp | | with the training rules, precepts | with training steps | | | sikkhā + pada | genitive tappurisa | sikkhāya + pada |
 | uddiṭṭhehi | pp | nt instr sg of uddiṭṭha | | with recited (rules) | with pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
-| yāvadeva | comp | sandhi, ind + ind | | just as far as, just to | | | | yāva + eva | | |
+| yāvadeva | comp | sandhi, ind + ind | | just as far as, just to; only up to | | | | yāva + eva | | |
 | - yāva | ind | prep | | as far as, up to, until | | | | | | |
 | - eva | ind | emph | | just, only | | | | | | |
 | kukkuccāya | noun | nt dat sg of kukkucca | | to uneasiness; anxiety; worry | to fidgeting | √kar (do, make) | | ku + √kar + ta + ya | | |

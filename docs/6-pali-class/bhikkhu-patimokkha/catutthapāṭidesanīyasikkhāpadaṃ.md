@@ -15,7 +15,7 @@
 | - sammatāni | adj | nt nom pl of sammata | | considered to be, regarded as | thought together | √man (think) | | saṃ + √man + ta | | |
 | sappaṭibhayāni | adj | nt nom pl of sappaṭibhaya | | dangerous, perilous | with personal danger | √bhī (fear) | | sa + pati + √bhī + *a | | |
 
-## yo pana bhikkhu tathārūpesu sen'āsanesu viharanto pubbe appaṭisaṃviditaṃ khādanīyaṃ vā, bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā
+## yo pana bhikkhu tathārūpesu sen'āsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā, bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------------- | :------ | :---------------------------------- | :------- | :------------------------------ | :-------------------------- | :------------------- | :------------------ | :----------------------------- | :---------------- | :------------------------ |
@@ -24,7 +24,6 @@
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | tathārūpesu | adj | nt loc pl of tathārūpa | | in such kind | in such forms | | | tathā + rūpa | | |
 | senāsanesu | noun | nt loc pl of senāsana, comp | | in dwellings, in kuṭis | lying down and sitting | | | sena + āsana | dvanda | sena ca āsana ca |
-| viharanto | prp | masc nom sg of viharanta | | living | | √har (live) | √har + a > hara | vi + hara + nta | | |
 | pubbe | ind | adv, loc sg of pubba | | before, previously | in front | | | pubba + e | | |
 | appaṭisaṃviditaṃ | pp | nt nom sg of appaṭisaṃvidita | | unannounced; not alerted | | √vid (know, sense) | | na + pati + saṃ + √vid + ita | | |
 | khādanīyaṃ | noun | nt acc sg of khādaniya | | edible food; not staple food | to be chewed | √khād (chew) | | √khād + anīya | | |

@@ -43,12 +43,12 @@ When the suttas discuss **abstract views** or speculative theories about existen
 
 ### **Summary of Differences**
 
-|Feature|*Atthi* (root *as*)|*Hoti* (root *bhū*)|
+| Feature | *Atthi* (root *as*) | *Hoti* (root *bhū*) |
 | --- | --- | --- |
-|**Primary Meaning**|Is, exists, is present.|Becomes, comes to be, happens.|
-|**Temporal Context**|Specifically the **present**.|Often used for **future** or **generalized** states.|
-|**Experiential Context**|**Direct experience**; used in mindfulness and the recognition of taints.|**Conceptual/Speculative**; used in philosophical views and causal formulas.|
-|**Manifestation**|Arisen and **manifested** now.|**Arising** or **becoming** into a state.|
+| **Primary Meaning** | Is, exists, is present. | Becomes, comes to be, happens. |
+| **Temporal Context** | Specifically the **present**. | Often used for **future** or **generalized** states. |
+| **Experiential Context** | **Direct experience**; used in mindfulness and the recognition of taints. | **Conceptual/Speculative**; used in philosophical views and causal formulas. |
+| **Manifestation** | Arisen and **manifested** now. | **Arising** or **becoming** into a state. |
 
 While *atthi* anchors the practitioner in the factual reality of what is currently present (such as “this is suffering”), *hoti* describes the dynamic process by which those realities arise or the abstract ways they are conceived by the mind.
 

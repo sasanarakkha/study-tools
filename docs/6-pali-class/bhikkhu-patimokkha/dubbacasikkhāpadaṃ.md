@@ -3,7 +3,7 @@
 ## bhikkhu pan'eva dubbacajātiko hoti uddesapariyāpannesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :---------------------------------------------------------------------------- | :----------------------------------- | :-------------------------- | :------------------------- | :--------------------- | :------------------- | :------------------------ |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :---------------------------------------------------------------------------- | :----------------------------------- | :-------------------------- | :------------------------- | :--------------------- | :------------------- | :------------------------ |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paneva | comp | sandhi, ind + ind | | and just, and now | | | | pana + eva | | |
 | - pana | ind | | | then, now, so, but | | | | | | |
@@ -26,7 +26,7 @@
 | attānaṃ | noun | masc acc sg of atta | | oneself | | | | | | |
 | avacanīyaṃ | ptp | masc acc sg of avacanīya | | unadmonishable | not to be spoken to | √vac (speak) | | a + √vac + anīya | | |
 | karoti | verb | pr 3rd sg | | he makes | he does | √kar (do, make) | √kar + o > karo | karo + ti | | |
-| Now, a monk is of a nature difficult to be spoken to, being justly spoken to by the monks on the training rules included in the recitation, he makes himself unadmonishable | | | | | | | | | | |
+| Now, a monk is of a nature difficult to be spoken to, being rightfully spoken to by the monks on the training rules included in the recitation, he makes himself unadmonishable | | | | | | | | | | |
 
 ## mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, aham'p'āyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā
 

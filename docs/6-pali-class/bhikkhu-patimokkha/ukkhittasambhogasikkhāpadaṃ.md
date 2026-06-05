@@ -10,18 +10,18 @@
 | jānaṃ | ind | adv, from jānanta | | knowingly, consciously, wittingly | knowing | √ñā (know) | √ñā + nā > jānā | jānā + aṃ | | |
 | tathāvādinā | adj | masc instr sg of tathāvādī, comp | | with (a monk) who has such a view | | | | tathā + vādī | kammadhāraya | tathā + vādī |
 | - tathā | ind | adv | | like that, such | | | | ta + thā | | |
-| - vādinā | adj | masc instr sg of vādī | | with a view | | √vad (speak) | | √vad + *ī | | |
+| - vādinā | adj | masc instr sg of vādī | | with a view | speaking | √vad (speak) | | √vad + *ī | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | akaṭānudhammena | adj | masc instr sg of akaṭānudhamma, comp | | (by a monk) who has not completed the legal procedure; not dealt with according to the rule | not done according to dhamma | | | akaṭa + anudhamma | kammadhāraya | akaṭa + anudhamma |
 | - akaṭa | pp | | | not dealt with | not done | √kar (do, make) | | na + √kar + ta | | |
-| - anudhammena | adj | masc instr sg of anudhamma | | according to the rule | by the vinaya | | | anu + dhamma | | |
+| - anudhammena | adj | masc instr sg of anudhamma | | according to the rule; by the vinaya | by the Dhamma | | | anu + dhamma | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | diṭṭhiṃ | noun | fem acc sg of diṭṭhi | | view, opinion | | √dis (see) | | √dis + ti | | |
 | appaṭinissaṭṭhena | pp | masc nom sg of appaṭinissaṭṭha | +acc | by (a monk who has) not relinquished | | √sajj (relinquish, let loose) | | na + pati + nī + √sajj + ta | | |
 | saddhiṃ | ind | prep | +instr | together with | | | | | | |
-| sambhuñjeyya | verb | opt 3rd sg of sambhuñjati | | he would associate | eat together | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | saṃ + bhuñja + ti | | |
+| sambhuñjeyya | verb | opt 3rd sg of sambhuñjati | | he would associate, commune | eat together | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | saṃ + bhuñja + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| saṃvaseyya | verb | opt 3rd sg of saṃvasati | | he would live together with | | √vas (live) | √vas + a > vasa | sam + vasa + ti | | |
+| saṃvaseyya | verb | opt 3rd sg of saṃvasati | | he would live together with; affiliate | | √vas (live) | √vas + a > vasa | sam + vasa + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | saha | ind | prep | +instr | with | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |

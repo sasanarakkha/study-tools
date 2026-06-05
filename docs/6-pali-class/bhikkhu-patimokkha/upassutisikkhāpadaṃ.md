@@ -3,21 +3,21 @@
 ## yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivād'āpannānaṃ upassutiṃ tiṭṭheyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :---------------------------------- | :------- | :------------------------------------- | :-------------------- | :------------------------ | :-------------------- | :---------------- | :--------------------- | :------------------------ |
+| :---------------- | :------ | :---------------------------------- | :------- | :------------------------------------- | :-------------------- | :------------------------ | :-------------------- | :---------------- | :------------------------ | :------------------------ |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhūnaṃ | noun | masc dat pl of bhikkhu | | to the monks | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| bhaṇḍanajātānaṃ | adj | masc dat pl of bhaṇḍanajāta, comp | | to (monks) who are blaming, accusing | blaming arisen | | | bhaṇḍana + jāta | kammadhāraya | bhaṇḍana + jāta |
+| bhaṇḍanajātānaṃ | adj | masc dat pl of bhaṇḍanajāta, comp | | to (monks) who are blaming, accusing | blaming arisen | | | bhaṇḍana + jāta | kammadhāraya > bahubīhi | bhaṇḍana + jāta |
 | - bhaṇḍana | noun | nt | | blaming, accusing | | √bhaṇḍ (blame, accuse) | | √bhaṇḍ + ana | | |
 | - jātānaṃ | pp | masc dat pl of jāta | | (to) arisen, happening, occurring | born | √jan (be born, produce) | | √jan + ta | | |
-| kalahajātānaṃ | adj | masc dat pl of kalahajāta, comp | | to (monks) who are arguing | argument arisen | | | kalaha + jāta | kammadhāraya | kalaha + jāta |
+| kalahajātānaṃ | adj | masc dat pl of kalahajāta, comp | | to (monks) who are arguing | argument arisen | | | kalaha + jāta | kammadhāraya > bahubīhi | kalaha + jāta |
 | - kalaha | noun | masc | | argument, quarrel, dispute | | √kalah (argue) | | √kalah + a | | |
 | - jātānaṃ | pp | masc dat pl of jāta | | (to) arisen, happening, occurring | born | √jan (be born, produce) | | √jan + ta | | |
 | vivādāpannānaṃ | noun | masc dat pl of vivādāpanna, comp | | engaged in arguing | fallen into dispute | | | vivāda + āpanna | accusative tappurisa | vivādaṃ + āpanna |
 | - vivāda | noun | masc | | quarrel, dispute, argument | | √vad (speak) | | vi + √vad + *a | | |
 | - āpannānaṃ | pp | masc dat pl of āpanna | | fallen into, engaged in | | √pad (go, step) | | ā + √pad + na | | |
-| upassutiṃ | ind | adv, fem acc sg of upassuti | | eavesdropping | | √su (hear) | | upa + √su + ti | | |
+| upassutiṃ | ind | adv, fem acc sg of upassuti | | eavesdropping | listening near | √su (hear) | | upa + √su + ti | | |
 | tiṭṭheyya | verb | opt 3rd sg of tiṭṭhati | | he would stand | | √ṭhā (stand) | √ṭhā + ṭhā > tiṭṭha | tiṭṭha + ti | | |
 
 ## yaṃ ime bhaṇissanti, taṃ sossāmī’ti etad'eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
@@ -25,7 +25,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------- | :------- | :---------------------------------------------------------- | :-------------- | :-------------------- | :----------------------- | :------------------ | :---------------- | :------------------------ |
 | yaṃ | pron | masc acc sg of ya | | whichever; which | | | | | | |
-| ime | pron | masc nom pl of ima | | these | | | | | | |
+| ime | pron | masc nom pl of ima | | they | | | | | | |
 | bhaṇissanti | verb | fut 3rd pl of bhaṇati | | they will speak | | √bhaṇ (talk, speak) | √bhaṇ + a > bhaṇa | bhaṇa + issa + ti | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | sossāmīti | comp | sandhi, fut + ind | | | | | | sossāmi + iti | | |

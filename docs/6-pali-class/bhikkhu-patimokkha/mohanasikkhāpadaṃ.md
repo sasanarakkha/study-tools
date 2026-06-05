@@ -3,12 +3,12 @@
 ## yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :-------------------------------------- | :------- | :---------------------------------------------- | :------------------------- | :-------------------------- | :-------------------------- | :---------------------- | :------------------- | :------------------------ |
+| :----------------- | :------ | :-------------------------------------- | :------- | :---------------------------------------------- | :--------------------- | :-------------------------- | :-------------------------- | :--------------------- | :------------------- | :------------------------ |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | anvaḍḍhamāsaṃ | ind | adv, acc sg of anvaḍḍhamāsa, comp | | every fortnight | following half month | | | anu  + aḍḍha + māsa | abyayībhāva | |
-| pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | in leading to liberation | √mokkh (be free) | | pa + ati + √mokkh + a | | |
+| pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | | | | | | |
 | uddissamāne | prp | masc loc sg of uddissamāna | | when being recited | in being pointed up | √dis (point out, explain) | √dis + ya > dissa (pass) | ud + dissa + māna | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
@@ -17,9 +17,9 @@
 | - eva | ind | emph | | just, only | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | ahaṃ | pron | 1st nom sg | | I | | | | | | |
-| ājānāmi | verb | pr 1st sg of ājānāti | | I know, I understand | I am knowing | √ñā (know) | √ña + a > jānā | ā + jānā + ti | | |
-| ayampi | comp | sandhi, pron + ind | | he too | | | | ayaṃ + api | | |
-| kira | ind | adv | | really | | | | | | |
+| ājānāmi | verb | pr 1st sg of ājānāti | | I find out; I learn | I am knowing | √ñā (know) | √ña + a > jānā | ā + jānā + ti | | |
+| ayampi | comp | sandhi, pron + ind | | this too | | | | ayaṃ + api | | |
+| kira | ind | adv | | really, truly | | | | | | |
 | dhammo 2 | noun | masc nom sg of dhamma | | case, law, rule | | √dhar (hold) | | √dhar + ma | | |
 | suttāgato | adj | masc nom sg of suttāgata, comp | | handed down in scripture; passed down as rule | | | | sutta + āgata | locative tappurisa | suttesu + āgata |
 | - sutta | noun | nt | | rule | string | | | | | |
@@ -36,19 +36,19 @@
 ## tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------- | :--------------------------- | :-------------------------- | :------------------------- | :---------------------- | :---------------- | :------------------------ |
+| :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------- | :--------------------------- | :-------------------------- | :------------------------- | :-------------------- | :---------------- | :------------------------ |
 | tañce | comp | sandhi, pron + ind | | if that; if him | | | | taṃ + ce | | |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | aññe | pron | masc nom pl of añña | | other | | | | | | |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
-| jāneyyuṃ | verb | opt 3rd pl of jānāti | | they would find out | know | √ñā (know) | √ñā + nā > jānā | jānā + ti | | |
-| nisinnapubbaṃ | noun | nt acc sg of nisinnapubba, comp | | a sitting before | seated previously, earlier | | | nisinna + pubba | kammadhāraya | nisinna + pubba |
+| jāneyyuṃ | verb | opt 3rd pl of jānāti | | they would know | know | √ñā (know) | √ñā + nā > jānā | jānā + ti | | |
+| nisinnapubbaṃ | noun | nt nom sg of nisinnapubba, comp | | a sitting before | seated previously, earlier | | | nisinna + pubba | kammadhāraya | nisinna + pubba |
 | - nisinna | pp | pp of nisīdati | | seated, sat | | √sad (sink, sit, settle) | √sad + a > sīda | ni + sīda + na | | |
 | - pubbaṃ | adj | nt acc sg of pubba | | earlier, before, previously | | | | | | |
 | iminā | pron | nt instr sg ima | | with this | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | dvattikkhattuṃ | ind | adv, comp | | two or three times | | | | dve + ti + kkhattuṃ | | |
-| pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | in leading to liberation | √mokkh (be free) | | pa + ati + √mokkh + a | | |
+| pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | | | | | | |
 | uddissamāne | prp | masc loc sg of uddissamāna | | when being recited | in being pointed up | √dis (point out, explain) | √dis + ya > dissa (pass) | ud + dissa + māna | | |
 | ko | pron | masc nom sg | | what? | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
@@ -60,10 +60,10 @@
 ## na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :--------------------------------------- | :------- | :------------------------------------------------ | :----------------------- | :---------------------------- | :------------------------------- | :--------------------- | :---------------- | :------------------------ |
+| :------------- | :------ | :--------------------------------------- | :------- | :--------------------------------------------------- | :----------------------- | :---------------------------- | :------------------------------- | :--------------------- | :---------------- | :------------------------ |
 | na | ind | neg | | not | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
-| tassa | pron | masc dat sg of ta | | to him | | | | | | |
+| tassa | pron | masc dat sg of ta | | to that | | | | | | |
 | bhikkhuno | noun | masc dat sg of bhikkhu, from bhikkhati | | for a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | aññāṇakena | noun | nt instr sg of aññāṇaka | | by not knowing | | √ñā (know) | | na  + √ñā + aṇa + ka | | |
 | mutti | noun | fem nom sg | | escape; getting free | freedom | √muc (free) | | √muc + ti | | |
@@ -75,43 +75,44 @@
 | āpattiṃ | noun | fem acc sg of āpatti, from āpajjati | | offence, transgression, wrongdoing | go wrong | √pad (go, step) | | ā + √pad + ti | | |
 | āpanno | pp | masc nom sg of āpanna, from āpajjati | | who has committed | entered, reached | √pad (go, step) | | ā + √pad + na | | |
 | tañca | comp | sandhi, pron + ind | | and that | | | | taṃ + ca | | |
-| - taṃ | pron | masc acc sg of ta | | that | | | | | | |
+| - taṃ | pron | fem acc sg of ta | | that | | | | | | |
 | - ca | ind | conj | | and (or) but, and if | | | | | | |
-| yathādhammo | adj | masc nom sg of yathādhamma, comp | | according to the law, legally | | | | yathā + dhamma | kammadhāraya | yathā + dhamma |
+| yathādhammo | adj | masc nom sg of yathādhamma, comp | | according to the rule, in accordance with the case | like Dhamma | | | yathā + dhamma | kammadhāraya | yathā + dhamma |
 | kāretabbo | ptp | masc nom sg of kāretabba | +instr | should be dealt with; should be made to do (by) | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
-| uttariñcassa | ind | sandhi, ind + ind + opt | | if it would be beyond | | | | uttariṃ + ca + assa | | |
+| uttariñcassa | ind | sandhi, ind + ind + opt | | and further his; (or) and further to him | | | | uttariṃ + ca + assa | | |
 | - uttariṃ | ind | ind, adv, comp form of uttara | | beyond, further | higher | | | ud + tara + i | | |
-| - cassa | comp | sandhi, ind + opt | | if it would be | | | | ce + assa | | |
+| - cassa | comp | sandhi, ind + pron | | and to him; (or) and his | | | | ca + assa | | |
 | moho | noun | masc nom sg | | deceiving; causing delusion | deluding | √muh (be deluded, confused) | √muh + *e > mohe | mohe + a | | |
-| āropetabbo | ptp | masc nom sg of āropetabba | | should be impeached | to cause to be mounted | √ruh (ascend, grow) | √ruh + *e > rohe > rope (caus) | ā + rope + tabba | | |
+| āropetabbo | ptp | masc nom sg of āropetabba | | should be impeached, challenged, charged | to cause to be mounted | √ruh (ascend, grow) | √ruh + *e > rohe > rope (caus) | ā + rope + tabba | | |
 
-## tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasi karosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.
+## tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasikarosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :----------------------------------- | :------- | :---------------------------------------------------------- | :------------------------- | :---------------------------- | :------------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--------------- | :------ | :----------------------------------- | :------- | :---------------------------------------------------------- | :-------------------- | :---------------------------- | :------------------------- | :------------------------ | :---------------- | :------------------------ |
 | tassa 3 | ind | adv, masc & nt gen sg | | regarding that; because of that | of that | | | | | |
 | te 3 | pron | 2nd dat sg of tvaṃ | | for you | | | | | | |
 | āvuso | noun | masc voc sg or pl of āyasmant | | friend(s), brother(s) | having long life | | | āyas + mant | | |
-| alābhā | ind | | +dat | it is a loss (for) | losses | √labh (get) | | na + √labh + *ā | | |
+| alābhā | ind | excl, from na labhati | +dat | it is a loss (for) | losses | √labh (get) | | na + √labh + *ā | | |
 | tassa 3 | ind | adv, masc & nt gen sg | | regarding that; because of that | of that | | | | | |
-| te 3 | pron | 2nd dat sg of tvaṃ | | for you | | | | | | |
-| dulladdhaṃ | ind | nt nom sg of dulladdha | | it is unfortunate (for)!; it is unlucky (for) | | √labh (get) | | dur + √labh + ta | | |
+| te 3 | pron | 2nd dat, instr sg of tvaṃ | | for you (or) by you | | | | | | |
+| dulladdhaṃ | ind | nt nom sg of dulladdha | | it is unfortunate (for)!; it is unlucky (for) | ill-gotten | √labh (get) | | dur + √labh + ta | | |
 | yaṃ | pron | masc acc sg of ya | | whichever; which | | | | | | |
 | tvaṃ | pron | 2nd nom sg | | you | | | | | | |
-| pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | in leading to liberation | √mokkh (be free) | | pa + ati + √mokkh + a | | |
+| pātimokkhe | noun | masc loc sg of pātimokkha, loc abs | | when the disciplinary code, precepts | | | | | | |
 | uddissamāne | prp | masc loc sg of uddissamāna | | when being recited | in being pointed up | √dis (point out, explain) | √dis + ya > dissa (pass) | ud + dissa + māna | | |
 | na | ind | neg | | not | | | | | | |
 | sādhukaṃ | ind | adv | | well, carefully, thoroughly | | | | sādhu + ka + aṃ | | |
-| aṭṭhikatvā | verb | abs of aṭṭhiṃ karoti, comp vb | | having given importance; having focused | purpose having made | | | aṭṭhaṃ > aṭṭhiṃ + katvā | | |
+| aṭṭhikatvā | verb | abs of aṭṭhiṃ karoti, comp vb | | having given importance; having focused | having made purpose | | | aṭṭhaṃ > aṭṭhiṃ + katvā | | |
 | - aṭṭhi | noun | masc | | purpose, goal | | √ar  (move, attain) | | √ar + tha > aṭṭhi | | |
 | - katvā | verb | abs of karoti | | having made | | √kar (do, make) | | √kar + tvā | | |
-| manasi | noun | masc loc sg of manas | | in mind | | √man (think) | | √man + as | | |
-| karosīti | comp | sandhi, pr + ind | | | | | | karosi + iti | | |
-| karosi | verb | pr 2nd sg of karoti | | you make | | √kar (do, make) | √kar + o > karo | karo + ti | | |
+| manasikarosīti | comp | sandhi, pr + ind | | | | | | manasi + karosi + iti | | |
+| - manasikarosi | verb | pr 2nd sg of manasikaroti, comp vb | | pay attention; bring to mind | make in mind | | | manasi + karoti | | |
+| - - manasi | noun | masc loc sg of manas | | in mind | | √man (think) | | √man + as | | |
+| - - karosi | verb | pr 2nd sg of karoti | | you make | | √kar (do, make) | √kar + o > karo | karo + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 | idaṃ | pron | nt nom sg of ima | | this | | | | | | |
 | tasmiṃ | pron | masc loc sg of ta | | in that (case), in that (situation) | in that | | | | | |
-| mohanake | noun | masc loc sg of mahanka | | in pretending not to know | in making confusion | √muh (be deluded, confused) | √muh + *e > mohe (caus) | mohe + ana + ka | | |
+| mohanake | noun | masc loc sg of mahanka | | in pretending not to know; deception | in making confusion | √muh (be deluded, confused) | √muh + *e > mohe (caus) | mohe + ana + ka | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 

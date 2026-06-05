@@ -3,13 +3,13 @@
 ## yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------ | :------- | :----------------------------------------------------------- | :---------------------------------------------------------------------------------- | :---------------------------- | :---------------------------- | :-------------------- | :------------------ | :------------------------ |
+| :--------------- | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :-------------------------------------------------------------------- | :---------------------------- | :---------------------------- | :-------------------- | :------------------ | :------------------------ |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | amūlakena | adj | masc instr sg of amūlaka, from mūla | | with groundless, baseless, unfounded | with no root | √mūl (support) | | na + √mūl + a + ka | | |
-| saṅghādisesena | adj | masc instr sg of saṅghādisesa, comp | | with (a matter) related to an offence requiring suspension | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādisesena | noun | masc instr sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | anuddhaṃseyya | verb | opt 3rd sg of anuddhaṃseti | +acc | he would accuse, denounce | cause to fall | √dhaṃs (fall down, destroy) | √dhaṃs + *e > dhaṃse (caus) | anu + dhaṃse + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 

@@ -12,6 +12,9 @@ uv run python scripts/clean_dead_links.py
 # Fix heading hierarchy
 uv run python scripts/fix_heading_hierarchy.py
 
+# Fix tables
+uv run python scripts/fix_pali_tables.py
+
 # Generate index pages
 uv run python scripts/generate_indexes.py
 

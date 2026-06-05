@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhuṃ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :----------------------- | :------------------------ | :------------------- | :---------------- | :------------------------ |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :----------------------- | :------------------------ | :------------------- | :---------------- | :------------------------ |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -17,7 +17,7 @@
 | nikkaḍḍhāpeyya | verb | opt 3rd sg of nikkaḍḍhāpeti | | he would make drag out, expel, remove | | √kaḍḍh (drag) | √kaḍḍh + āpe > kaḍḍhāpe | nī + kaḍḍhāpe + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk, being angry and displeased, should drag out or cause to drag out a monk from a dwelling belonging to the community, there is an offence requiring confession.<br> | | | | | | | | | | |
+| If any monk, who is angry (and) displeased, should drag out or cause to drag out a monk from a dwelling belonging to the community, there is an offence requiring confession.<br> | | | | | | | | | | |
 
 
 [← previous](anupakhajjasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=nikka%E1%B8%8D%E1%B8%8Dhanasikkh%C4%81pada%E1%B9%83) | [next →](vehāsakuṭisikkhāpadaṃ.md)

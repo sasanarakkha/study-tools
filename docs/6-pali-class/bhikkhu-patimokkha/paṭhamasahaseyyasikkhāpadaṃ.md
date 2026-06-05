@@ -16,7 +16,7 @@
 | - tirattaṃ | noun | nt, comp | | three nights | | | | ti + ratta | digu | tīṇi + rattāni |
 | - - ti | card | masc fem nt pl | | three | | | | | | |
 | - - rattaṃ | noun | nt acc sg of ratta | | night | | | | | | |
-| sahaseyyaṃ | noun | fem acc sg of sahaseyyā | | sharing a room | sleeping together | | | saha + seyyā | | |
+| sahaseyyaṃ | noun | fem acc sg of sahaseyyā | | sharing a room, (use) sleeping place together with | sleeping together | | | saha + seyyā | | |
 | - saha | ind | | | together, with | | | | | | |
 | - seyyaṃ | noun | fem acc sg of seyyā | | sleeping place | | √sī (lie, sleep) | | √sī > se + *yā | | |
 | kappeyya | verb | opt 3rd sg of kappeti | +acc | should take, use | make suitable | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | kappe + ti | | |

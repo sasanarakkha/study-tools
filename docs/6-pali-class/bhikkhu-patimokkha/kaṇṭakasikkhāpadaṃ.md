@@ -7,7 +7,7 @@
 | samaṇuddesopi | comp | sandhi, masc + ind | | even (if) a novice | | | | samaṇuddeso + api | | |
 | - samaṇuddeso | noun | masc nom sg of samaṇuddesa | | novice | designated ascetic | | | samaṇa + uddesa | | |
 | - samaṇa | noun | masc | | ascetic; renunciant; monk | | √sam (exert, strive) | | √sam + aṇa | | |
-| - uddeso | noun | masc nom sg of uddesa, from uddisati | | designated, appearing to be | pointed up | √dis (point out, explain) | | ud + √dis + *a | | |
+| - uddeso | noun | masc nom sg of uddesa, from uddisati | | destined for; on the way to be a | pointed up | √dis (point out, explain) | | ud + √dis + *a | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
 | ce | ind | cond | | if | | | | | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
@@ -117,7 +117,7 @@
 ## yam'pi c'aññe samaṇ'uddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, s'āpi te n'atthi, cara pi're, vinassā'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------- | :------- | :------------------------------------------- | :------------------------------------- | :-------------------------- | :------------------ | :------------------------------------ | :---------------- | :------------------------ |
+| :---------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------------- | :-------------------- | :-------------------------- | :------------------ | :------------------------------------ | :---------------- | :------------------------ |
 | yampi | comp | sandhi, pron + ind | | and whichever | whichever and | | | yaṃ + api | | |
 | - yaṃ | pron | fem acc sg of ya | | whichever | | | | | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
@@ -129,19 +129,19 @@
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | saddhiṃ | ind | prep | +instr | together with | | | | | | |
 | dirattatirattaṃ | ind | adv, acc sg of dirattatiratta | | for two or three nights | | | | diratta + tiratta + aṃ | | |
-| sahaseyyaṃ | noun | fem acc sg of sahaseyyā | | sharing a room | sleeping together | | | saha + seyyā | | |
+| sahaseyyaṃ | noun | fem acc sg of sahaseyyā | | sharing a room, (use) sleeping place together with | sleeping together | | | saha + seyyā | | |
 | sāpi | comp | sandhi, pron + ind | | even that; or that; that is just | | | | sā + api | | |
-| - sā | pron | fem nom sg of ta | | that; she | | | | | | |
+| - sā | pron | fem nom sg of ta | | that | | | | | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
 | te 3 | pron | 2nd dat sg | | for you | | | | | | |
 | natthi | verb | pr 3rd sg na atthi | | there is not | it is not | √as (be) | | na + √as + ti | | |
 | carapire | comp | sandhi, imp + ind + excl | | just go!; begone with you!; away with you! | | | | cara + api + re | | |
 | cara | verb | imp 2nd sg of caratu, imp of carati | | go! begone! | you must walk | √car (walk, behave) | √car + a > cara | cara + a | | |
-| pire | comp | sandhi, ind + excl | | | (comm) alien; another; not one of us | | | api + re | | |
-| - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
-| - are | ind | excl | | hah! ah! hey! | | | | | | |
+| pire | comp | sandhi, ind + excl | | hey, just (go)! ; (comm) alien; another; not one of us | | | | api + re<br>(comm) pare > pire | | |
+| - pi | ind | | | only; also; too | | | | api > pi | | |
+| - re | ind | excl | | (expressing contempt) hey!; oh! | | | | are > (a)re | | |
 | vinassāti | comp | sandhi, imp + ind <br>(or) aor + ind | | | | | | vinassa + iti<br>(or) vinassā + iti | | |
-| - vinassa | verb | imp 2nd sg | | let (it) disappear | disappear! | √nas (be lost, disappear) | √nas + ya > nassa | vi + nassa + ti | | |
+| - vinassa | verb | imp 2nd sg | | get lost! | disappear! | √nas (be lost, disappear) | √nas + ya > nassa | vi + nassa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 
 ## yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇ'uddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
@@ -156,11 +156,11 @@
 | - tathā | ind | adv | | like that, such | | | | ta + thā | | |
 | - nāsitaṃ | pp | masc acc sg of nāsita | | dismissed, banished, expelled | caused to disappear | √nas (be lost, disappear) | √nas + *e > nāse | nāse + ita | | |
 | samaṇuddesaṃ | noun | masc acc sg of samaṇuddesa | | novice | designated ascetic | | | samaṇa + uddesa | | |
-| upalāpeyya | verb | opt 3rd sg of upalāpeti, caus of upalapati | | he would sympathize, support | talk near | √lap (chat) | √lap + *e > lāpe | upa + lāpe + ti | | |
+| upalāpeyya | verb | opt 3rd sg of upalāpeti, caus of upalapati | | he would befriend, support | talk near | √lap (chat) | √lap + *e > lāpe | upa + lāpe + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | upaṭṭhāpeyya | verb | opt 3rd sg of upaṭṭhāpeti | | he would make him attend | cause to stand near | √ṭhā (stand) | √ṭhā + āpe > ṭhāpe | upa + ṭhāpe + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| sambhuñjeyya | verb | opt 3rd sg of sambhuñjati | | he would associate | eat together | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | saṃ + bhuñja + ti | | |
+| sambhuñjeyya | verb | opt 3rd sg of sambhuñjati | | he would associate, commune | eat together | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | saṃ + bhuñja + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | saha | ind | prep | +instr | with | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |

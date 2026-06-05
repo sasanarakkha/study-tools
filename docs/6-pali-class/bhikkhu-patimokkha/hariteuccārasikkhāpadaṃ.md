@@ -5,7 +5,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :------- | :--------------------- | :---------------- | :------------------------ |
 | na | ind | neg | | not | | | | | | |
-| harite | noun | nt loc sg of harita | | onto plants, on vegetables | greens | | | | | |
+| harite | noun | nt loc sg of harita | | onto crops, on vegetables | greens | | | | | |
 | agilāno | adj | masc nom sg of agilāna | | is not ill | not sick | √gilā (be sick, tired) | | na + √gilā + na | | |
 | uccāraṃ | noun | masc acc sg of uccāra | | excrement | discharge | √car (walk, behave) | | ud + √car + *a | | |
 | vā | ind | conj | | or, either or | | | | | | |

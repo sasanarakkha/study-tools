@@ -7,7 +7,7 @@
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| bhikkhussa | noun | masc gen sg of bhikkhu, from bhikkhati | | of a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
+| bhikkhussa | noun | masc dat sg of bhikkhu, from bhikkhati | | to a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | kupito | pp | masc nom sg of kuppati | | angered, upset, annoyed | shaken | √kup (shake, be angry) | | √kup + ita | | |
 | anattamano | adj | masc nom sg of anattamana, comp | | displeased, annoyed, unhappy | not own mind | | | na + atta + mana | kammadhāraya | na + attamana |
 | pahāraṃ | noun | masc acc sg of pahāra | | punch; blow | carrying forward | √har (carry) | | pa + √har + *a | | |
