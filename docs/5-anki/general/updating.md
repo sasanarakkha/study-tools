@@ -42,4 +42,4 @@ If the standard method fails, see the [Advanced CSV Update](csv-update.md) metho
 
 ---
 
-Back to the index of [Anki Decks](../../index.md).
+Back to the index of [Anki Decks](../index.md).

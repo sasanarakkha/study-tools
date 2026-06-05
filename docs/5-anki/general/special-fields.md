@@ -30,4 +30,4 @@ Now you can update your decks.
 
 ---
 
-Back to the index of [Anki Decks](../../index.md).
+Back to the index of [Anki Decks](../index.md).
