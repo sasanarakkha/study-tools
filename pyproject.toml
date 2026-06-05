@@ -15,6 +15,9 @@ dependencies = [
     "beautifulsoup4>=4.14.3",
     "python-dotenv>=1.2.2",
     "language-tool-python>=3.3.0",
+    "pyright>=1.1.410",
+    "ruff>=0.15.16",
+    "pyrefly>=1.0.0",
 ]
 
 

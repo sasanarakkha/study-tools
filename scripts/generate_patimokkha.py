@@ -2,6 +2,7 @@
 
 import argparse
 from pathlib import Path
+from typing import TypedDict, cast
 from urllib.parse import quote
 
 import pandas as pd
@@ -39,6 +40,11 @@ HEADERS = [
 ]
 
 
+class SourceRow(TypedDict):
+    source: str
+    abbrev: str
+
+
 def load_data(xlsx_path: Path) -> pd.DataFrame:
     df = pd.read_excel(xlsx_path, engine="openpyxl")
     # Forward fill source and abbrev to handle sparse columns and preserve order
@@ -47,17 +53,22 @@ def load_data(xlsx_path: Path) -> pd.DataFrame:
     return df.fillna("")
 
 
-def get_sources(df: pd.DataFrame) -> list[dict]:
+def get_sources(df: pd.DataFrame) -> list[SourceRow]:
     # drop_duplicates preserves the order of the first occurrence by default.
-    return (
-        df[["source", "abbrev"]]
-        .drop_duplicates(subset="source")
-        .query("source != ''")
-        .to_dict("records")
-    )
+    source_series = cast(pd.Series, df["source"])
+    abbrev_series = cast(pd.Series, df["abbrev"])
+    sources: list[SourceRow] = []
+    seen: set[str] = set()
+    for source_value, abbrev_value in zip(source_series, abbrev_series, strict=True):
+        source = cast(str, source_value)
+        if source and source not in seen:
+            row: SourceRow = {"source": source, "abbrev": cast(str, abbrev_value)}
+            sources.append(row)
+            seen.add(source)
+    return sources
 
 
-def generate_index(sources: list[dict], output_dir: Path) -> None:
+def generate_index(sources: list[SourceRow], output_dir: Path) -> None:
     lines = ["# Bhikkhu Pātimokkha - Word by Word Analysis\n"]
     for s in sources:
         lines.append(f"- [{s['abbrev']} {s['source']}]({s['source']}.md)")
@@ -65,18 +76,26 @@ def generate_index(sources: list[dict], output_dir: Path) -> None:
 
 
 def generate_rule_page(
-    source: dict, df: pd.DataFrame, output_dir: Path, sources: list[dict], idx: int
+    source: SourceRow,
+    df: pd.DataFrame,
+    output_dir: Path,
+    sources: list[SourceRow],
+    idx: int,
 ) -> None:
     rule, abbrev = source["source"], source["abbrev"]
     rule_df = df[df["source"] == rule]
     lines = [f"# {abbrev} {rule}\n"]
 
-    sentences = rule_df["sentence"].drop_duplicates()
+    sentence_series = cast(pd.Series, rule_df["sentence"])
+    sentences = sentence_series.drop_duplicates()
     for sentence in sentences:
         if not sentence:
             continue
         lines.append(f"## {sentence}\n")
-        sent_df = rule_df[rule_df["sentence"] == sentence][COLS].copy()
+        sent_df = cast(
+            pd.DataFrame,
+            rule_df.loc[sentence_series == sentence, COLS].copy(),
+        )
         sent_df = sent_df.replace(0, "").replace("\n", "<br>", regex=True)
         sent_df.columns = HEADERS
         lines.append(sent_df.to_markdown(index=False))
