@@ -2,7 +2,7 @@
 
 Based on the suttas, there is a distinction between **atthi** and **hoti** in the Pāḷi suttas. While both can be translated as “is” or “exists,” their usage patterns suggest that **atthi** (from the root *as*) frequently denotes **immediate presence** or **direct experience**, whereas **hoti** (from the root *bhū*) often refers to **becoming**, **happening**, or **conceptual/speculative existence**.
 
-### **1. *Atthi* and Direct Experience (The “Visible Here and Now”)**
+## **1. *Atthi* and Direct Experience (The “Visible Here and Now”)**
 
 The term *atthi* is consistently used in the context of **mindfulness (*satipaṭṭhāna*)** to describe things as they are directly experienced in the present moment.
 

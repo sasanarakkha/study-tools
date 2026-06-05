@@ -19,7 +19,7 @@ Before importing, you must ensure your local field names exactly match the curre
 
 ![Manage Note Types](../../assets/images/anki/manage-note-types-b.png)
 
-Compare your current field list with the [most recent list](../../index.md) associated with the deck you’re updating.
+Compare your current field list with the [most recent list](../templets/index.md) associated with the deck you’re updating.
 
 ## Step 3: Check Card Settings
 
