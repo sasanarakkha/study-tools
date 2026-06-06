@@ -5,7 +5,7 @@
 
 <hr id=answer>
 
-<div><i>{{example_translation}}</i></div>
+<div><i>{{translation}}</i></div>
 
 <table>
 

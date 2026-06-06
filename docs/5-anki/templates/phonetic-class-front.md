@@ -1,7 +1,7 @@
 # Phonetic Class — Front Template
 
 ```html
-<div class="small indent"><i> {{#sbs_class_anki}} class {{sbs_class_anki}} {{/sbs_class_anki}}</i></div>
+<div class="small indent"><i> {{#class_anki}} class {{class_anki}} {{/class_anki}}</i></div>
 
 <div class="another_color indent"><i>{{source_1}} {{sutta_1}}</i></div>
 
