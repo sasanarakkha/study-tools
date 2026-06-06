@@ -8,7 +8,7 @@ root_group
 root_sign
 root_meaning
 main_verb
-examples_or_words
+examples
 native
 test
 feedback
