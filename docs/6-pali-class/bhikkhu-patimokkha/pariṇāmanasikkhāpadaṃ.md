@@ -18,8 +18,8 @@
 ## sahadhammikavaggo aṭṭhamo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :--------------------------------------- | :------- | :--------------------------- | :------------------ | :------------- | :------- | :--------------------- | :---------------- | :------------------------ |
-| sahadhammikavaggo | noun | comp, masc nom sg of sahadhammikavagga | | chapter about legitimately | | | | sahadhammika + vagga | kammadhāraya | sahadhammika + vagga |
+| :------------------ | :------ | :--------------------------------------- | :------- | :------------------------- | :------------------ | :------------- | :------- | :--------------------- | :---------------- | :------------------------ |
+| sahadhammikavaggo | noun | comp, masc nom sg of sahadhammikavagga | | chapter about legitimate | | | | sahadhammika + vagga | kammadhāraya | sahadhammika + vagga |
 | - sahadhammika | adj | masc | | legal; legitimate | | | | saha + dhammika | | |
 | - - saha | ind | prep | | with, together with | | | | | | |
 | - - dhammika | adj | masc | | legal, legitimate | related to dhamma | √dhar (hold) | | √dhar + ma + ika | | |

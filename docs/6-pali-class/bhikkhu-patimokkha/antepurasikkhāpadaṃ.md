@@ -12,9 +12,9 @@
 | muddhābhisittassa | adj | masc gen sg of muddhābhisitta, comp | | head-anointed | head sprinkled down | | | muddha + abhisitta | locative tappurisa | muddhani + abhisitta |
 | - muddha | noun | masc | | head | | | | | | |
 | - abhisittassa | pp | masc gen sg of avasitta | | anointed, coronated | sprinkled on top | √sic (sprinkle, pour) | | abhi + √sic + ta | | |
-| anikkhantarājake | adj | masc loc sg of anikkhantarājaka, loc abs, comp | | when the king has not departed | | | | na + nikkhanta + rājaka | kammadhāraya | na + nikkhantarājaka |
+| anikkhantarājake | noun | masc loc sg of anikkhantarājaka, comp | | in the room from which the king has not departed | | | | na + nikkhanta + rājaka | kammadhāraya > bb | anikkhanta + rājaka |
 | - anikkhanta | pp | pp of na nikkhamati | | not gone, departed, left | | √kam (go) | | na + nī + √kam + ta | | |
-| - rājake | adj | masc loc sg of rājaka | | when the king | | √rāj (rule) | | √rāj + a + ka | | |
+| - rājake | adj | masc loc sg of rājaka | | when the king | in the king | √rāj (rule) | | √rāj + a + ka | | |
 | - aniggata | pp | of na niggacchati | | not gone away | | √gam (go) | | na + nī + √gam + ta | | |
 | - ratanake | adj | masc loc sg of ratanaka | | when the queen | in the jewel | | | ratana + ka | | |
 | pubbe | ind | adv, loc sg of pubba | | before, previously | in front | | | pubba + e | | |
@@ -29,8 +29,8 @@
  pubbe appaṭisaṃvidito indakhīlaṃ atikkameyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :----------------------------------------------- | :------- | :-------------------------------- | :------------------ | :------- | :------- | :------------------------ | :---------------- | :------------------------ |
-| aniggataratanake | adj | masc loc sg of aniggataratanaka, loc abs, comp | | when the queen has not gone out | in jewel not gone | | | na + niggata + ratanaka | kammadhāraya | aniggata + ratanaka |
+| :----------------- | :------ | :-------------------------------------- | :------- | :-------------------------------------------------- | :------------------ | :------- | :------- | :------------------------ | :------------------ | :------------------------ |
+| aniggataratanake | noun | masc loc sg of aniggataratanaka, comp | | in the room from which the queen has not gone out | in jewel not gone | | | na + niggata + ratanaka | kammadhāraya > bb | aniggata + ratanaka |
 
 
 [← previous](pariṇāmanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=antepurasikkh%C4%81pada%E1%B9%83) | [next →](ratanasikkhāpadaṃ.md)
