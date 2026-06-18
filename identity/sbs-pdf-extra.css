@@ -1,0 +1,108 @@
+@media print {
+    @page {
+        margin-left: 10mm;
+        margin-right: 10mm;
+        @footnote {
+            border-top: 1px solid black;
+            padding-top: 0.5em;
+            text-align: left;
+        }
+    }
+
+    .pdf-footnote {
+        float: footnote;
+        text-align: left;
+        font-size: 0.9em;
+        font-style: italic;
+        font-weight: normal !important;
+        line-height: 1.2;
+    }
+
+    .pdf-footnote::footnote-call,
+    .pdf-footnote::footnote-marker {
+        content: "";
+    }
+
+    .pdf-footnote-label {
+        font-weight: bold;
+        font-style: normal;
+        margin-right: 0.3em;
+    }
+
+    sup.manual-fn-ref a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .pdf-footnote-backref {
+        font-style: normal;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .standalone-image {
+        text-align: center;
+        margin: 1em 0;
+    }
+
+    .standalone-image img {
+        display: block !important;
+        height: auto !important;
+        width: auto !important;
+        max-width: 90% !important;
+        margin: 0 auto !important;
+    }
+
+    table {
+        break-inside: avoid;
+        break-before: avoid;
+    }
+
+    table.long-table {
+        break-inside: auto;
+    }
+
+    .content table.cols-7 td, .content table.cols-7 th {
+        font-size: 0.9rem !important;
+        padding: 4px 3px !important;
+    }
+
+    .content table.cols-8 td, .content table.cols-8 th {
+        font-size: 0.85rem !important;
+        padding: 3px 2px !important;
+    }
+
+    .content table.cols-9 td, .content table.cols-9 th {
+        font-size: 0.8rem !important;
+        padding: 3px 2px !important;
+    }
+
+    .content table.cols-10 td, .content table.cols-10 th {
+        font-size: 0.7rem !important;
+        padding: 3px 2px !important;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 2;
+        widows: 2;
+    }
+
+    /* SBS folders: allow all tables to flow freely across pages */
+    body.bhikkhu-patimokkha table,
+    body.sbs-per-analysis table,
+    body.suttas table {
+        break-inside: auto;
+        break-before: auto;
+    }
+
+    /* Exclude cover and TOC sub-headings from PDF bookmark sidebar */
+    .pdf-title-page h1,
+    .pdf-toc-page h2,
+    .pdf-toc-page h3 {
+        bookmark-level: none;
+    }
+}

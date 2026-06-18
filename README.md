@@ -69,6 +69,10 @@ These scripts are used for content generation, maintenance, and data integrity:
 - `scripts/grammar_check.py`: Grammar and spelling check for markdown files using LanguageTool (offline, no API key needed).
   - Usage: `uv run scripts/grammar_check.py <file_or_folder>`
   - Pāḷi terms with diacritics are automatically ignored.
+- `scripts/generate_pdfs.py`: Generates PDF for bhikkhu-patimokkha, sbs-per-analysis, and suttas content folders. Output: `output/pdf/`.
+  - Usage: `uv run python scripts/generate_pdfs.py` (all folders) or `uv run python scripts/generate_pdfs.py <folder>` (single folder). Use `--html-only` for debug HTML output without running WeasyPrint.
+- `scripts/generate_docx.py`: Generates DOCX for the same three folders. Output: `output/docs/`.
+  - Usage: `uv run python scripts/generate_docx.py` (all) or `uv run python scripts/generate_docx.py --folder <name>` (single).
 
 ## Project Structure
 

@@ -17,7 +17,12 @@ dependencies = [
     "language-tool-python>=3.3.0",
     "pyright>=1.1.410",
     "ruff>=0.15.16",
+    "pre-commit>=3.7.1",
     "pyrefly>=1.0.0",
+    "weasyprint>=68.1",
+    "markdown>=3.10.2",
+    "pypandoc>=1.17",
+    "python-docx>=1.2.0",
 ]
 
 

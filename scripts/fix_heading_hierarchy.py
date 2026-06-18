@@ -4,6 +4,7 @@ import re
 import glob
 from tools.printer import printer as pr
 
+
 def process_file(filepath: str) -> bool:
     """Process a single markdown file. Returns True if changes were made."""
     with open(filepath, "r", encoding="utf-8") as f:

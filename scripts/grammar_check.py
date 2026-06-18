@@ -16,8 +16,19 @@ import language_tool_python
 from tools.printer import printer as pr
 
 # Constants
-PALI_ASCII_TERMS = ["Sutta", "Nibbana", "Dhamma", "Vinaya", "Nikaya", "Bhikkhu", "Pali", "SBS", "Majjhima"]
+PALI_ASCII_TERMS = [
+    "Sutta",
+    "Nibbana",
+    "Dhamma",
+    "Vinaya",
+    "Nikaya",
+    "Bhikkhu",
+    "Pali",
+    "SBS",
+    "Majjhima",
+]
 EXCEPTIONS_FILE = Path("temp/grammar_exceptions.json")
+
 
 def load_exceptions() -> set[str]:
     """Load ignored rule-word combinations from disk."""
@@ -29,6 +40,7 @@ def load_exceptions() -> set[str]:
             return set()
     return set()
 
+
 def save_exception(exceptions: set, rule_id: str, matched_text: str):
     """Save a new rule-word combination to the ignore list."""
     key = f"{rule_id}::{matched_text}"
@@ -36,11 +48,13 @@ def save_exception(exceptions: set, rule_id: str, matched_text: str):
     EXCEPTIONS_FILE.parent.mkdir(parents=True, exist_ok=True)
     EXCEPTIONS_FILE.write_text(json.dumps(sorted(list(exceptions)), indent=2))
 
+
 def extract_pali_words(text: str) -> list[str]:
     """Find all words containing Pāḷi diacritics."""
     # This regex matches words containing at least one non-ASCII character (Pāḷi diacritics)
-    diacritic_words = re.findall(r'\b\w*[^\x00-\x7F]\w*\b', text)
+    diacritic_words = re.findall(r"\b\w*[^\x00-\x7F]\w*\b", text)
     return list(set(diacritic_words + PALI_ASCII_TERMS))
+
 
 def get_key() -> str:
     """Read a single keypress from stdin."""
@@ -53,16 +67,17 @@ def get_key() -> str:
         termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
     return ch
 
+
 def split_into_chunks_lossless(text: str) -> list[dict]:
     """Split markdown text into chunks (paragraphs, headings, code blocks) losslessly."""
     chunks = []
     lines = text.splitlines(keepends=True)
     in_code_block = False
     current_prose = []
-    
+
     for line in lines:
         stripped = line.strip()
-        
+
         # Markdown triple backtick code blocks
         if stripped.startswith("```"):
             if in_code_block:
@@ -77,11 +92,11 @@ def split_into_chunks_lossless(text: str) -> list[dict]:
                 chunks.append({"text": line, "type": "skip"})
                 in_code_block = True
             continue
-            
+
         if in_code_block:
             chunks.append({"text": line, "type": "skip"})
             continue
-            
+
         # Headings, empty lines, or indented code blocks (4 spaces)
         if stripped.startswith("#") or not stripped or line.startswith("    "):
             if current_prose:
@@ -90,19 +105,20 @@ def split_into_chunks_lossless(text: str) -> list[dict]:
             chunks.append({"text": line, "type": "skip"})
         else:
             current_prose.append(line)
-            
+
     if current_prose:
         chunks.append({"text": "".join(current_prose), "type": "prose"})
-        
+
     return chunks
+
 
 def check_paragraph(tool, text: str, exceptions: set) -> list:
     """Check a paragraph for errors, filtering out Pāḷi and exceptions."""
     matches = tool.check(text)
     filtered_matches = []
-    
+
     pali_words = extract_pali_words(text)
-    
+
     # Pre-calculate spans for Pāḷi words in this text (case-insensitive for ASCII terms)
     pali_spans = []
     for word in pali_words:
@@ -110,14 +126,14 @@ def check_paragraph(tool, text: str, exceptions: set) -> list:
         # Actually, let's just use re.IGNORECASE for everything in pali_words for safety
         for m in re.finditer(re.escape(word), text, re.IGNORECASE):
             pali_spans.append((m.start(), m.end()))
-    
+
     for match in matches:
         # Rule 1: Must have replacements
         if not match.replacements:
             continue
-            
+
         matched_text = text[match.offset : match.offset + match.error_length]
-        
+
         # Rule 2: Must not be a Pāḷi word
         is_pali = False
         for start, end in pali_spans:
@@ -126,19 +142,25 @@ def check_paragraph(tool, text: str, exceptions: set) -> list:
                 break
         if is_pali:
             continue
-            
+
         # Rule 3: Must not be in exceptions
         exception_key = f"{match.rule_id}::{matched_text}"
         if exception_key in exceptions:
             continue
-            
+
         filtered_matches.append(match)
-        
+
     return filtered_matches
+
 
 def apply_fix(text: str, match) -> str:
     """Apply the first suggested fix to the text."""
-    return text[:match.offset] + match.replacements[0] + text[match.offset + match.error_length:]
+    return (
+        text[: match.offset]
+        + match.replacements[0]
+        + text[match.offset + match.error_length :]
+    )
+
 
 def process_file(path: Path, tool, exceptions: set):
     """Interactively process a single markdown file for grammar/spelling errors."""
@@ -165,11 +187,19 @@ def process_file(path: Path, tool, exceptions: set):
 
             # Process one match at a time
             match = matches[0]
-            matched_text = chunk["text"][match.offset : match.offset + match.error_length]
+            matched_text = chunk["text"][
+                match.offset : match.offset + match.error_length
+            ]
 
             # Show context
-            before = chunk["text"][max(0, match.offset - 40) : match.offset].replace("\n", " ")
-            after = chunk["text"][match.offset + match.error_length : match.offset + match.error_length + 40].replace("\n", " ")
+            before = chunk["text"][max(0, match.offset - 40) : match.offset].replace(
+                "\n", " "
+            )
+            after = chunk["text"][
+                match.offset + match.error_length : match.offset
+                + match.error_length
+                + 40
+            ].replace("\n", " ")
 
             print(f"\n  Rule:    {match.rule_id}")
             print(f"  Message: {match.message}")
@@ -178,7 +208,9 @@ def process_file(path: Path, tool, exceptions: set):
             print()
 
             while True:
-                print("[enter] accept  [e]xception  [q]uit  [s]kip: ", end="", flush=True)
+                print(
+                    "[enter] accept  [e]xception  [q]uit  [s]kip: ", end="", flush=True
+                )
                 key = get_key()
                 if key == "\r":
                     print("accept")
@@ -202,23 +234,24 @@ def process_file(path: Path, tool, exceptions: set):
                 else:
                     print("\r" + " " * 40 + "\r", end="", flush=True)
 
+
 def main():
     if len(sys.argv) < 2 or sys.argv[1] in ["--help", "-h"]:
         print("Usage: uv run scripts/grammar_check.py <file_or_folder>")
         sys.exit(0)
-        
+
     target_str = sys.argv[-1]
     target = Path(target_str)
-    
+
     exceptions = load_exceptions()
-    
+
     pr.green("Initializing LanguageTool (en-US)...")
     try:
-        tool = language_tool_python.LanguageTool('en-US')
+        tool = language_tool_python.LanguageTool("en-US")
     except Exception as e:
         pr.red(f"Failed to initialize LanguageTool: {e}")
         sys.exit(1)
-        
+
     if target.is_file():
         process_file(target, tool, exceptions)
     elif target.is_dir():
@@ -228,6 +261,7 @@ def main():
     else:
         pr.red(f"Target not found: {target}")
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()

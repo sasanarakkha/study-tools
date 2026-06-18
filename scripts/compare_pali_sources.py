@@ -110,9 +110,7 @@ def main():
         if missing_words or added_words:
             files_with_losses += 1
             if missing_words:
-                pr.amber(
-                    f"[DATA LOSS] {file_path}: {len(missing_words)} words missing"
-                )
+                pr.amber(f"[DATA LOSS] {file_path}: {len(missing_words)} words missing")
                 for mw in missing_words[:5]:
                     pr.amber(f"  '{mw}'")
             if added_words:
