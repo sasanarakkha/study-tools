@@ -3,20 +3,20 @@
 ## yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. 
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :-------------- | :--------------------------- | :------------------ | :---------------- | :------------------------ |
+| :--------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :--------------- | :--------------------------- | :-------------------------- | :---------------- | :------------------------ |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| ratanaṃ | noun | nt acc sg of ratana | | jewel | | | | | | |
+| ratanaṃ | noun | nt acc sg of ratana | | jewel, a valuable | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | ratanasammataṃ | noun | nt acc sg of ratanasammata, comp | | considered valuable | | | | ratana + sammata | kammadhāraya | ratana + sammata |
-| - ratana | noun | nt | | jewel | | | | | | |
+| - ratana | noun | nt | | jewel, a valuable | | | | | | |
 | - sammataṃ | pp | nt acc sg of sammata | | considered to be, thought to be, regarded as | thought together | √man (think) | | saṃ + √man + ta | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
-| ajjhārāmā | noun | masc abl sg of ajjhārāma, comp | | (apart) from inside the monastery | | | | adhi + ārāma | kammadhāraya | adhi + ārāma |
+| ajjhārāmā | noun | masc abl sg of ajjhārāma | | (apart) from inside the monastery | | √ram (delight) | | adhi + ā + √ram + *a | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| ajjhāvasathā | noun | masc abl sg of ajjhāvasatha, comp | | (apart) from inside the dwelling | | | | adhi + āvasatha | kammadhāraya | adhi + āvasatha |
+| ajjhāvasathā | noun | masc abl sg of ajjhāvasatha | | (apart) from inside the dwelling | | √vas (live) | | adhi + ā + √vas + a + tha | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | uggaṇheyya | verb | opt 3rd sg of uggaṇhāti | | he should take, accept | pick up | √gah (grasp) | √gah + ṇhā > gaṇhā | ud + gaṇhā + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
@@ -28,7 +28,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------- | :------------------------- | :-------------- | :--------------------------- | :-------------------- | :---------------- | :------------------------ |
-| ratanaṃ | noun | nt acc sg of ratana | | jewel | | | | | | |
+| ratanaṃ | noun | nt acc sg of ratana | | jewel, a valuable | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -48,9 +48,9 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :----------------------- | :------- | :---------------------------------------------------- | :-------------- | :------------- | :----------------- | :----------------- | :---------------- | :------------------------ |
-| yassa | pron | masc gen sg of ya | | whoever's | of whoever | | | | | |
-| bhavissati | verb | fut 3rd sg of bhavati | | there will be | | √bhū (be) | √bhū + a > bhava | bhava + ti | | |
-| so | pron | masc nom sg of ta | | he, that | | | | | | |
+| yassa | pron | masc dat sg of ya | | to whoever | | | | | | |
+| bhavissati | verb | fut 3rd sg of bhavati | | it will be | | √bhū (be) | √bhū + a > bhava | bhava + ti | | |
+| so | pron | masc nom sg of ta | | he | | | | | | |
 | harissatīti | comp | sandhi, fut + ind | | | | | | harissati + iti | | |
 | - harissati | verb | fut 3rd sg of harati | | he will take | he will carry | √har (carry) | √har + a > hara | hara + issa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |

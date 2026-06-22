@@ -34,7 +34,7 @@
 | :------------- | :------ | :--------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :------------------- | :---------------------------- | :------------------- | :---------------- | :------------------------ |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | atikkāmayato | prp | masc dat sg of atikkāmanta | | for (one) going beyond, exceeding | causing to go too far | √kam (go) | √kam + *aya > kāmaya (caus) | ati + kāmaya + nta | | |
-| chedanakaṃ | ind | adv, acc sg of chedanaka | | having cut | having cut | √chid (cut, steal) | √chid + *e > chede | chede + ana + akaṃ | | |
+| chedanakaṃ | ind | adv, acc sg of chedanaka | | involving cutting up | cutting up | √chid (cut, steal) | √chid + *e > chede | chede + ana + akaṃ | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 

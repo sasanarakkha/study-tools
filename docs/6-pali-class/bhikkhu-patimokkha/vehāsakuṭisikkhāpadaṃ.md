@@ -18,7 +18,7 @@
 | - pādakaṃ | adj | masc acc sg of pādaka | | having legs, with feet | | √pad (go, step) | | √pad + *a + ka | | |
 | mañcaṃ | noun | masc acc sg of mañca | | bed, couch | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| pīṭhaṃ | noun | nt acc sg of pīṭha | | chair | | | | | | |
+| pīṭhaṃ | noun | nt acc sg of pīṭha | | bench; low bench | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | abhinisīdeyya | verb | opt 3rd sg of abhinisīdati | | he would sit down hard | | √sad (sink, sit, settle) | √sad + a > sīda | abhi + ni + sīda + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |

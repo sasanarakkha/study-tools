@@ -9,13 +9,13 @@
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | aṭṭhimayaṃ | adj | nt acc sg of aṭṭhimaya | | made of bone | | | | aṭṭhi + maya | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| dantamayaṃ | adj | nt acc sg of dantamaya | | made of ivory | tooth made | | | danta + maya | | |
+| dantamayaṃ | adj | nt acc sg of dantamaya | | made of ivory | tusk made | | | danta + maya | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | visāṇamayaṃ | adj | nt acc sg of visāṇamaya | | made of horn | horn made | | | visāṇa + maya | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | sūcigharaṃ | noun | nt acc sg of sūcighara, comp | | needle case | needle home | | | sūci + ghara | genitive tappurisa | sūciyā + ghara |
 | kārāpeyya | verb | opt 3rd sg of kārāpeti | | he should make | cause to make | √kar (do, make) | √kar + *āpe > kārāpe | kārāpe + ti | | |
-| bhedanakaṃ | ind | adv | | to be broken up | having broken up | √bhid (break) | √bhid + *e > bheda | bheda + ana + akaṃ | | |
+| bhedanakaṃ | ind | adv, acc sg of bhedanaka | | involving breaking up; with dismantling | causing to break | √bhid (break) | √bhid + *e > bheda | bheda + ana + akaṃ | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 

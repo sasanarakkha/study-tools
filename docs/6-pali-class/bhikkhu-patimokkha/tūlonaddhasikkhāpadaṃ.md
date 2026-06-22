@@ -9,7 +9,7 @@
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | mañcaṃ | noun | masc acc sg of mañca | | bed, couch | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| pīṭhaṃ | noun | nt acc sg of pīṭha | | chair | | | | | | |
+| pīṭhaṃ | noun | nt acc sg of pīṭha | | bench; low bench | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | tūlonaddhaṃ | adj | nt acc sg of tūlonaddha, comp | | cotton-covered, upholstered | cotton twisted down around | | | tūla + onaddha | instrumental tappurisa | tūlena + onaddha |
 | - tūla | noun | nt | | cotton | | √tūl (be light) | | √tūl + a | | |

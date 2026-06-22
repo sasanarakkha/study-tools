@@ -10,7 +10,7 @@
 | saṅghikaṃ | adj | masc acc sg of saṅghika | | belonging to the community | related to community | √ghaṭ (join together) | | saṃ + √ghaṭ + a + ika | | |
 | mañcaṃ | noun | masc acc sg of mañca | | bed, couch | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| pīṭhaṃ | noun | nt acc sg of pīṭha | | chair | | | | | | |
+| pīṭhaṃ | noun | nt acc sg of pīṭha | | bench; low bench | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | bhisiṃ | fem | fem acc sg of bhisi | | cushion, pillow, mattress | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |

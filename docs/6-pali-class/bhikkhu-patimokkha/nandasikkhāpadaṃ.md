@@ -16,7 +16,7 @@
 | kārāpeyya | verb | opt 3rd sg of kārāpeti | | he should make | cause to make | √kar (do, make) | √kar + *āpe > kārāpe | kārāpe + ti | | |
 | atirekaṃ | adj | nt acc sg of atireka | | more, greater than | | √ric (be empty) | | ati + √ric > rek + *a | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| chedanakaṃ | ind | adv, acc sg of chedanaka | | to be cut, sawed | having cut | √chid (cut, steal) | √chid + *e > chede | chede + ana + akaṃ | | |
+| chedanakaṃ | ind | adv, acc sg of chedanaka | | involving cutting up | cutting up | √chid (cut, steal) | √chid + *e > chede | chede + ana + akaṃ | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 ## tatr'idaṃ sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo

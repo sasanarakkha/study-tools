@@ -9,20 +9,20 @@
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | mañcaṃ | noun | masc acc sg of mañca | | bed, couch | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| pīṭhaṃ | noun | nt acc sg of pīṭha | | chair | | | | | | |
+| pīṭhaṃ | noun | nt acc sg of pīṭha | | bench; low bench | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| kārayamānena | prp | masc instr sg of kārayamāna, from kāreti | | by (the monk) building | causing to make | √kar (do, make) | √kar + *aya > kāraya (caus) | kāraya + māna | | |
-| aṭṭhaṅgulapādakaṃ | adj | masc or nt acc sg of aṭṭhaṅgulapādaka, comp | | with legs eight fingers long, with legs measuring eight inches | eight finger legged | | | aṭṭha + aṅgula + pādaka | kammadhāraya | aṭṭhaṅgula + pādaka |
+| kārayamānena | prp | masc instr sg of kārayamāna, from kāreti | | by (the monk) making | causing to make | √kar (do, make) | √kar + *aya > kāraya (caus) | kāraya + māna | | |
+| aṭṭhaṅgulapādakaṃ | adj | nt nom sg of aṭṭhaṅgulapādaka, comp | | with legs eight fingers long, with legs measuring eight inches | eight finger legged | | | aṭṭha + aṅgula + pādaka | kammadhāraya | aṭṭhaṅgula + pādaka |
 | - aṭṭha | card | masc | | eight | | | | | | |
 | - aṅgula | noun | masc | | finger-measure, inch | finger | √añc (bend) | | √añc > aṅg  + a + ula | | |
 | - pādakaṃ | adj | masc acc sg of pādaka | | having legs, with feet | | √pad (go, step) | | √pad + *a + ka | | |
 | kāretabbaṃ | ptp | nt nom sg of kāretabba | | should be made | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
-| sugataṅgulena | noun | masc instr sg of sugataṅgula, comp | | with a triple-inch measure, by the standard measure | | | | sugata + aṅgula | kammadhāraya | sugata + aṅgula |
+| sugataṅgulena | noun | masc instr sg of sugataṅgula, comp | | with a sugata fingerbreadth, by the standard fingerbreadth | | | | sugata + aṅgula | kammadhāraya | sugata + aṅgula |
 | - sugata | adj | | | standard; commonly accepted | well gone | √gam (go) | | su + √gam + ta | | |
 | - aṅgulena | noun | masc isntr sg of aṅgula | | with finger-measure, by inch | with finger | √añc (bend) | | √añc > aṅg  + a + ula | | |
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
-| heṭṭhimāya | adj | fem abl sg of heṭṭhima | | (apart) from lower, under | | | | heṭṭha + ima | | |
-| aṭaniyā | noun | fem abl sg of aṭani | | bed-frame | | | | | | |
+| heṭṭhimāya | adj | fem abl sg of heṭṭhima | | (apart) from lower | most below | | | heṭṭhā + ima | | |
+| aṭaniyā | noun | fem abl sg of aṭani | | frame of a bed; frame of a chair | | | | | | |
 
 ## taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
 
@@ -30,7 +30,7 @@
 | :------------- | :------ | :--------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :------------------- | :---------------------------- | :------------------- | :---------------- | :------------------------ |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | atikkāmayato | prp | masc dat sg of atikkāmanta | | for (one) going beyond, exceeding | causing to go too far | √kam (go) | √kam + *aya > kāmaya (caus) | ati + kāmaya + nta | | |
-| chedanakaṃ | ind | adv, acc sg of chedanaka | | to be cut, sawed | having cut | √chid (cut, steal) | √chid + *e > chede | chede + ana + akaṃ | | |
+| chedanakaṃ | ind | adv, acc sg of chedanaka | | involving cutting up | cutting up | √chid (cut, steal) | √chid + *e > chede | chede + ana + akaṃ | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 

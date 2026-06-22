@@ -7,7 +7,7 @@
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| santaṃ | prp | masc acc sg of santa | | being present; existing | | √as (be) | √as + a > sa | sa + nta | | |
+| santaṃ | prp | masc acc sg of santa | | being present; existing; available | | √as (be) | √as + a > sa | sa + nta | | |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | anāpucchā | abs | abs of na āpucchati | +acc | having not asked; having not informed | | √pucch (ask, question) | | na + ā + √pucch + tvā | | |
 | vikāle | ind | adv, loc sg of vikāla | | at the wrong time, in the afternoon, at the inappropriate time | in wrong time | √kal (spend time) | | vi + √kal + *a | | |
@@ -16,8 +16,8 @@
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
 | tathārūpā | adj | nt abl sg of tathārūpa, comp | | suitable, appropriate | such form | | | tathā + rūpa | kammadhāraya | tathā + rūpa |
 | - tathā | ind | adv | | like that, such | | | | ta + thā | | |
-| - rūpā | noun | nt abl sg of rūpa | | kind | form | √rūp (produce) | | √rūp + a | | |
-| accāyikā | adj | nt abl sg of accāyika | | urgent | gone past | √i (come, go) | | ati + √i + *a + *ika | | |
+| - rūpā | noun | nt abl sg of rūpa | | kind, type | form | √rūp (produce) | | √rūp + a | | |
+| accāyikā | adj | nt abl sg of accāyika | | urgent | going beyond | √i (come, go) | | ati + √i + *a + *ika | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 

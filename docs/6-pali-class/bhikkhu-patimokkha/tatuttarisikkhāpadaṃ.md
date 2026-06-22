@@ -26,7 +26,7 @@
 | - santara | noun | nt | | inner robe, under robe | inside | | | sa + anta + ra | | |
 | - uttara | noun | nt | | upper robe | higher | √tar (cross) | | ud + √tar + a | | |
 | - paramaṃ | ind | adv, acc sg of parama | | at the most, for a maximum of | | | | para + ma + aṃ | | |
-| santaruttaraparamaṃ | (or) noun | (or) acc sg of santaruttaraparama | (or) | an underrobe and upper robe at most; not more than an inner and outer robe | | | | santara + uttara + parama | kammadhāraya | santaruttara + parama |
+| santaruttaraparamaṃ | (or) noun | (or) acc sg of santaruttaraparama | | an underrobe and upper robe at most; not more than an inner and outer robe | | | | santara + uttara + parama | kammadhāraya | santaruttara + parama |
 | tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | tato | pron | abl sg of ta | | from that; therefrom; from him | from that | | | ta + to | | |
