@@ -101,15 +101,26 @@ def make_heading_slug(text: str) -> str:
 
 
 def build_manual_toc(files_data: list[tuple[str, str]]) -> str:
-    """Build a Table of Contents from H1 and H2 headings across all source files."""
+    """Build a Table of Contents from H1 and H2 headings, tracking duplicates to match Pandoc's suffix format (-1, -2, etc)."""
     lines = ["# Table of Contents", ""]
+    used_slugs: dict[str, int] = {}  # Track how many times each slug appears
+
     for _file_path, content in files_data:
         for line in content.split("\n"):
             m = re.match(r"^(#{1,2}) (.+)", line)
             if m:
                 level = len(m.group(1))
                 text = re.sub(r"\s*\{[^}]+\}\s*$", "", m.group(2).strip())
-                slug = make_heading_slug(text)
+                base_slug = make_heading_slug(text)
+
+                # Track duplicate slugs and append -1, -2, etc. to match Pandoc's format
+                if base_slug in used_slugs:
+                    used_slugs[base_slug] += 1
+                    slug = f"{base_slug}-{used_slugs[base_slug]}"
+                else:
+                    used_slugs[base_slug] = 0
+                    slug = base_slug
+
                 indent = "    " if level == 2 else ""
                 lines.append(f"{indent}- [{text}](#{slug})")
     lines.append("")
@@ -131,7 +142,13 @@ def aggregate_markdown(
         aggregated += f"{lit_content}\n\n"
 
     if folder.endswith(("_ex", "_key")) or folder in SBS_FOLDERS:
-        aggregated += build_manual_toc(files_data) + PAGEBREAK
+        if folder == "suttas":
+            toc_source = extract_suttas_toc_source([f for f, _ in files_data])
+            aggregated += (
+                build_suttas_toc(toc_source, [f for f, _ in files_data]) + PAGEBREAK
+            )
+        else:
+            aggregated += build_manual_toc(files_data) + PAGEBREAK
 
     needs_file_pagebreaks = (
         folder in SBS_FOLDERS
@@ -195,6 +212,13 @@ def post_process_docx(docx_path: str, folder: str) -> None:
     doc.save(docx_path)
 
 
+def _is_within(path: str, base_dir: str) -> bool:
+    """Check if path is within base_dir (inclusive)."""
+    base_abs = os.path.abspath(base_dir)
+    path_abs = os.path.abspath(path)
+    return path_abs == base_abs or path_abs.startswith(base_abs + os.sep)
+
+
 def parse_md_links(md_content: str, base_dir: str) -> list[str]:
     """Extract ordered .md file paths from markdown link syntax in document order."""
     paths = []
@@ -208,6 +232,41 @@ def parse_md_links(md_content: str, base_dir: str) -> list[str]:
     return paths
 
 
+def extract_suttas_toc_source(suttas_files: list[str]) -> str:
+    """Curated TOC markdown: the 'Suttas and passages' section of
+    1-pali-class-adv.md, limited to links we actually kept."""
+    index_path = INDEX_FILES["suttas"]
+    index_base = os.path.dirname(os.path.abspath(index_path))
+    with open(index_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    m = re.search(r"## \*\*Suttas and passages\*\*\n(.*?)(?=\n## )", content, re.DOTALL)
+    section = m.group(1) if m else ""
+    kept = {os.path.abspath(p) for p in suttas_files}
+
+    def keep_link(match):
+        href = match.group(2)
+        if href.startswith("http"):
+            return match.group(0)
+        abs_path = os.path.normpath(os.path.join(index_base, href))
+        return match.group(0) if abs_path in kept else match.group(1)
+
+    return re.sub(r"\[([^\]]+)\]\(([^)#\s]+\.md)\)", keep_link, section)
+
+
+def build_suttas_toc(toc_source: str, suttas_files: list[str]) -> str:
+    """File-level-anchor TOC for suttas, built from the curated index section."""
+    lines = ["# Table of Contents", ""]
+    by_name = {os.path.basename(p): p for p in suttas_files}
+    for m in re.finditer(r"\[([^\]]+)\]\(([^)#\s]+\.md)\)", toc_source):
+        text, href = m.group(1), m.group(2)
+        basename = os.path.basename(href)
+        if basename in by_name:
+            anchor_id = basename.replace(".", "_")
+            lines.append(f"- [{text}](#{anchor_id})")
+    lines.append("")
+    return "\n".join(lines)
+
+
 def get_markdown_files() -> dict[str, list[str]]:
     """Discover content files for each folder by parsing markdown links in index files."""
     result: dict[str, list[str]] = {}
@@ -217,14 +276,17 @@ def get_markdown_files() -> dict[str, list[str]]:
             index_content = f.read()
 
         if folder_key == "suttas":
+            suttas_dir = FOLDER_DIRS["suttas"]
             files: list[str] = []
             for top_file in parse_md_links(index_content, index_base):
+                if not _is_within(top_file, suttas_dir):
+                    continue
                 files.append(top_file)
                 with open(top_file, "r", encoding="utf-8") as f:
                     sub_content = f.read()
                 top_base = os.path.dirname(top_file)
                 for child in parse_md_links(sub_content, top_base):
-                    if child not in files:
+                    if _is_within(child, suttas_dir) and child not in files:
                         files.append(child)
             result[folder_key] = files
         else:

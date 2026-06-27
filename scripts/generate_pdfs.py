@@ -333,8 +333,11 @@ def build_html_document(
         else ""
     )
 
-    full_course_html = ""
-    for file_path, content in files_data:
+    # Sentinel-marker approach: convert all files in one pass to fix TOC dedup
+    SENTINEL = "<!--FILE-BOUNDARY:{idx}-->"
+    raw_chunks = []
+    file_metadata = []
+    for idx, (file_path, content) in enumerate(files_data):
         is_idx = os.path.basename(file_path) == "index.md"
         c = clean_markdown_content(content)
         c = resolve_image_paths(c, file_path)
@@ -344,34 +347,57 @@ def build_html_document(
         ):
             c = re.sub(r"^# Class \d+.*?\n", "", c, flags=re.MULTILINE)
 
-        md.reset()
-        topic_html = md.convert(pre_process_content(c))
+        raw_chunks.append(SENTINEL.format(idx=idx) + "\n\n" + pre_process_content(c))
+        file_metadata.append({"file_path": file_path, "is_idx": is_idx})
+
+    # Convert all files' markdown in a single pass so toc extension dedup sees all headings
+    combined_md = "\n\n".join(raw_chunks)
+    md.reset()
+    combined_html = md.convert(combined_md)
+    combined_toc = getattr(md, "toc", "")  # Capture TOC before it may be overwritten
+
+    # Split on sentinel markers to recover per-file HTML
+    pattern = r"<!--FILE-BOUNDARY:(\d+)-->"
+    parts = re.split(pattern, combined_html)
+    # parts[0]=leading content, parts[1]='0', parts[2]=file0 html, parts[3]='1', parts[4]=file1 html...
+
+    full_course_html = ""
+    for i in range(1, len(parts), 2):
+        file_idx = int(parts[i])
+        chunk_html = parts[i + 1] if i + 1 < len(parts) else ""
+
+        metadata = file_metadata[file_idx]
+        is_idx = metadata["is_idx"]
+        file_path = metadata["file_path"]
+
+        # Apply per-file heading shift for bpc/ipc non-index files
         if not is_idx and folder_type in ("bpc", "ipc"):
-            topic_html = re.sub(
+            chunk_html = re.sub(
                 r"<(/?)h([1-5])",
                 lambda m: f"<{m.group(1)}h{int(m.group(2)) + 1}",
-                topic_html,
+                chunk_html,
             )
+
+        # Compute file id and div class
         if is_idx:
             parent = os.path.basename(os.path.dirname(file_path))
             file_id = f"{parent}_index_md"
         else:
             file_id = os.path.basename(file_path).replace(".", "_")
         div_class = "pdf-class-header" if is_idx else "pdf-topic-page"
+
         full_course_html += (
-            f"<div class='{div_class}' id='{file_id}'>{topic_html}</div>"
+            f"<div class='{div_class}' id='{file_id}'>{chunk_html}</div>"
         )
 
-    md.reset()
     if root_index_content:
+        md.reset()
         toc_html = f'<div class="pdf-toc-page" id="toc-page">{md.convert(pre_process_content(root_index_content))}</div>'
     else:
-        all_md = ""
-        for file_path, content in files_data:
-            all_md += pre_process_content(clean_markdown_content(content)) + "\n\n"
-        md.convert(all_md)
-        toc = getattr(md, "toc", "")
-        toc_html = f'<div class="pdf-toc-page"><h1>Table of Contents</h1>{toc}</div>'
+        # Use the correctly de-duplicated TOC from the combined conversion above
+        toc_html = (
+            f'<div class="pdf-toc-page"><h1>Table of Contents</h1>{combined_toc}</div>'
+        )
 
     full_body_html = f"{title_html}{about_html}{lit_html}{toc_html}<div class='content'>{full_course_html}</div>"
     full_body_html = post_process_html(full_body_html)
@@ -397,6 +423,13 @@ def generate_pdf(html_content, output_pdf, css_paths=None):
     )
 
 
+def _is_within(path: str, base_dir: str) -> bool:
+    """Check if path is within base_dir (inclusive)."""
+    base_abs = os.path.abspath(base_dir)
+    path_abs = os.path.abspath(path)
+    return path_abs == base_abs or path_abs.startswith(base_abs + os.sep)
+
+
 def parse_md_links(md_content: str, base_dir: str) -> list[str]:
     """Extract ordered .md file paths from markdown link syntax in document order."""
     paths = []
@@ -410,6 +443,27 @@ def parse_md_links(md_content: str, base_dir: str) -> list[str]:
     return paths
 
 
+def extract_suttas_toc_source(suttas_files: list[str]) -> str:
+    """Curated TOC markdown: the 'Suttas and passages' section of
+    1-pali-class-adv.md, limited to links we actually kept."""
+    index_path = INDEX_FILES["suttas"]
+    index_base = os.path.dirname(os.path.abspath(index_path))
+    with open(index_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    m = re.search(r"## \*\*Suttas and passages\*\*\n(.*?)(?=\n## )", content, re.DOTALL)
+    section = m.group(1) if m else ""
+    kept = {os.path.abspath(p) for p in suttas_files}
+
+    def keep_link(match):
+        href = match.group(2)
+        if href.startswith("http"):
+            return match.group(0)
+        abs_path = os.path.normpath(os.path.join(index_base, href))
+        return match.group(0) if abs_path in kept else match.group(1)
+
+    return re.sub(r"\[([^\]]+)\]\(([^)#\s]+\.md)\)", keep_link, section)
+
+
 def get_markdown_files() -> dict[str, list[str]]:
     """Discover content files for each folder by parsing markdown links in index files."""
     result: dict[str, list[str]] = {}
@@ -419,14 +473,17 @@ def get_markdown_files() -> dict[str, list[str]]:
             index_content = f.read()
 
         if folder_key == "suttas":
+            suttas_dir = FOLDER_DIRS["suttas"]
             files: list[str] = []
             for top_file in parse_md_links(index_content, index_base):
+                if not _is_within(top_file, suttas_dir):
+                    continue
                 files.append(top_file)
                 with open(top_file, "r", encoding="utf-8") as f:
                     sub_content = f.read()
                 top_base = os.path.dirname(top_file)
                 for child in parse_md_links(sub_content, top_base):
-                    if child not in files:
+                    if _is_within(child, suttas_dir) and child not in files:
                         files.append(child)
             result[folder_key] = files
         else:
@@ -476,13 +533,17 @@ def main() -> None:
             with open(file_path, "r", encoding="utf-8") as f:
                 data.append((file_path, f.read()))
 
+        root_index = ""
+        if fld == "suttas":
+            root_index = extract_suttas_toc_source(files)
+
         html = build_html_document(
             title=FOLDER_NAMES[fld],
             files_data=data,
             title_md_content="",
             literature_md_content="",
             folder_type=fld,
-            root_index_content="",
+            root_index_content=root_index,
         )
 
         if args.html_only:

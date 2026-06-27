@@ -38,8 +38,8 @@ jobs:
       - name: Generate PDFs
         run: uv run python scripts/generate_pdfs.py
 
-      - name: Generate DOCX files
-        run: uv run python scripts/generate_docx.py
+      # - name: Generate DOCX files
+      #   run: uv run python scripts/generate_docx.py
 
       - name: Upload to release
         env:
