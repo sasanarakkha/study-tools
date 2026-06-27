@@ -1,0 +1,98 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+p {
+    line-height: 150%;
+    margin: 0.8em 0;
+    vertical-align: middle;
+    text-align: left;
+}
+
+b {
+    font-weight: 700;
+}
+
+a {
+    color: var(--primary);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--dark);
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-top: 1px solid var(--gray);
+    border-bottom: 1px solid var(--gray);
+    margin-bottom: 1em;
+}
+
+td, th {
+    font-size: 1rem;
+    padding: 8px;
+    vertical-align: middle;
+    text-align: left;
+    border-bottom: 1px solid var(--gray-transparent);
+}
+
+th {
+    font-weight: 700;
+    background-color: var(--light-shade);
+}
+
+code {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+    background-color: var(--light-shade);
+    padding: 1px 4px;
+    border-radius: 3px;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid var(--gray-transparent);
+    margin: 1em 0;
+}
+
+.pdf-title-page h1 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 40%;
+    color: var(--primary);
+}
+
+.pdf-toc-page h1 {
+    font-size: 1.8em;
+    color: var(--primary);
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 0.3em;
+}
+
+.pdf-toc-page nav ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.pdf-toc-page nav ul li {
+    margin: 0.3em 0;
+}
+
+.pdf-toc-page nav ul ul {
+    padding-left: 1.5em;
+}
+
+.content h1 {
+    font-size: 1.6em;
+    color: var(--primary);
+    border-bottom: 1px solid var(--gray-transparent);
+    padding-bottom: 0.2em;
+}
+
+.content h2 {
+    font-size: 1.3em;
+    color: var(--primary-alt);
+}

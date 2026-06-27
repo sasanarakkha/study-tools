@@ -1,0 +1,16 @@
+:root {
+    --light: hsl(30, 30%, 96%);
+    --light-shade: hsl(30, 30%, 92%);
+    --dark: hsl(25, 40%, 10%);
+    --dark-shade: hsl(25, 40%, 14%);
+    --primary: #593e26;
+    --primary-alt: #3d2614;
+    --primary-text: #593e26;
+    --shadow-default: 2px 2px 4px hsla(0, 0%, 20%, 0.4);
+    --shadow-hover: 2px 2px 4px hsla(0, 0%, 20%, 0.5);
+    --gray: hsl(0, 0%, 50%);
+    --gray-light: hsl(0, 0%, 75%);
+    --gray-dark: hsl(0, 0%, 25%);
+    --gray-transparent: hsla(0, 0%, 50%, 0.25);
+    --secondary: hsl(25, 60%, 45%);
+}
