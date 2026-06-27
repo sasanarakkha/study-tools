@@ -13,6 +13,7 @@ It includes the following sources:
 - Analysis of the Bhikkhupātimokkha available in the [Google Sheet](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/).
 
 - If you are using a mobile device, there is an [HTML version](bhikkhu-patimokkha/index.md) of the same analysis available.
+- [Download bhikkhu-patimokkha.pdf](https://github.com/sasanarakkha/study-tools/releases/latest/download/bhikkhu-patimokkha.pdf)
 
 # Anki decks
 

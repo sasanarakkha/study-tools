@@ -52,6 +52,8 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 6) Compilation from  Asaṅkhata Saṁyutta [(SN 43)](suttas/asankhata-samyutta-sn-43.md)
 
+[Download suttas.pdf](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas.pdf)
+
 ---
 
 ## **Advanced Pāli Course**
