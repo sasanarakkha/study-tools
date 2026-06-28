@@ -21,3 +21,10 @@ repos:
         language: system
         types: [python]
         pass_filenames: true
+
+      - id: pyrefly
+        name: pyrefly
+        entry: uv run --with pyrefly pyrefly check --min-severity warn
+        language: system
+        types: [python]
+        pass_filenames: true
