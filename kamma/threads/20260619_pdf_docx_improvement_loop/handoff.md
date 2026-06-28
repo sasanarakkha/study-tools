@@ -2,26 +2,33 @@
 
 ## Status
 
-**Cycle D COMPLETE** — DOCX generation disabled from all active triggers.
+**Cycle D COMPLETE** — DOCX generation disabled; release upload fixed; PDF download links added.
 
-Implementation:
-- Commented out the DOCX generation step in `.github/workflows/generate_documents.yaml` (lines 41-42).
-- PDF generation, workflow triggers (push to `docs/6-pali-class/**`, `workflow_dispatch`), and release upload remain fully active.
-- `scripts/generate_docx.py` is untouched — available for future re-enabling.
+### What was done
 
-Validation:
-- ✓ No active `.sh`, `.py`, `.yaml`, `.yml` file outside the script itself calls `generate_docx.py`.
-- ✓ Only reference is now commented out in the workflow.
+1. **Disabled DOCX generation** — Commented out the `uv run python scripts/generate_docx.py` step in `.github/workflows/generate_documents.yaml`. The workflow triggers (push + dispatch), PDF generation, and release upload remain fully active. `scripts/generate_docx.py` is untouched.
+
+2. **Fixed release upload step** — Removed `output/docs/*.docx` glob from the upload commands (both `gh release create` and `gh release upload`), and removed `.docx` from the asset existence check. Release now only operates on PDFs.
+
+3. **Added PDF download links** — Inserted download links pointing to GitHub Releases latest assets in 3 class index pages:
+   - `2-patimokkha-class.md` — `bhikkhu-patimokkha.pdf`
+   - `sbs-per-analysis.md` — `sbs-per-analysis.pdf`
+   - `1-pali-class-adv.md` — `suttas.pdf`
+
+### Validation
+
+- ✓ Workflow re-triggered successfully via `workflow_dispatch`
+- ✓ No active `.sh`, `.py`, `.yaml`, `.yml` file outside the script itself calls `generate_docx.py`
+- ✓ Release upload globs no longer reference `.docx` files
 
 ## Next Action
 
 **User action required:**
-1. Test the PDF-only workflow by triggering a manual run from Actions UI, or pushing to `docs/6-pali-class/`.
-2. Confirm PDFs generate and upload correctly without the DOCX step.
-3. If everything looks good, run `/kamma:3-review` to review this thread.
+1. Confirm the latest workflow run completed successfully with PDF-only upload.
+2. Verify the download links work from the live site.
+3. Run `/kamma:3-review` to review this thread.
 
 ## Known Backlog
 
-- Pandoc image warning on `suttas.docx` generation (benign, now moot)
 - `verify_pdf_content.py` / `verify_docx_content.py` not yet implemented
 - Leftover `output/pdf/suttas_debug.html` from manual debugging (gitignored, safe to delete)
