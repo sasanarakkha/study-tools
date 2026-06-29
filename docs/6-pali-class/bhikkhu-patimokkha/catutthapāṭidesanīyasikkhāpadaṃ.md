@@ -30,7 +30,7 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | bhojanīyaṃ | noun | nt acc sg of bhojanīya | | staple food | to be enjoyed | √bhuj (eat, enjoy) | | √bhuj + *anīya | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| ajjhārāme | noun | masc loc sg of ajjhārāma, comp | | inside the monastery | | | | adhi + ārāma | kammadhāraya | adhi + ārāma |
+| ajjhārāme | noun | masc loc sg of ajjhārāma, comp | | inside the monastery | | √ram (delight) | | adhi + ā + √ram + *a | | |
 | sahatthā | ind | adv, instr sg of sahattha | | by one's own hand, personally | with own hand | | | | | |
 | paṭiggahetvā | abs | abs of paṭiggaṇhāti | | having accepted, taken | having personally grabbed | √gah (grasp) | √gah + ṇhā > gahe | paṭi + gahe + tvā | | |
 

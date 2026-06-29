@@ -3,18 +3,18 @@
 ## yo pana bhikkhu sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ 
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------- | :------ | :--------------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------- | :--------------------- | :------------------------- | :------------------- | :------------------------- |
+| :--------------------- | :------ | :--------------------------------------- | :------- | :------------------------------------------------------------------------ | :------------------ | :------------------- | :--------------------- | :------------------------- | :------------------- | :------------------------- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| sugatacīvarappamāṇaṃ | adj | nt acc sg of sugatacīvarappamāṇa, comp | | according to the measurement of the Buddha's robe | | | | sugata + cīvara + pamāṇa | genitive tappurisa | sugatassa + cīvarapamāṇa |
-| - sugatacīvara | noun | nt, comp | | Buddha's robe | | | | sugata + cīvara | genitive tappurisa | sugatassa + cīvara |
+| sugatacīvarappamāṇaṃ | adj | nt acc sg of sugatacīvarappamāṇa, comp | | according to the measurement of the Well Gone One robe (or) sugata-robe | | | | sugata + cīvara + pamāṇa | genitive tappurisa | sugatassa + cīvarapamāṇa |
+| - sugatacīvara | noun | nt, comp | | sugata robe; (or) standard robe | | | | sugata + cīvara | genitive tappurisa | sugatassa + cīvara |
 | - - sugata | noun | masc | | Well Gone One | well gone | √gam (go) | | su + √gam + ta | | |
 | - - cīvara | noun | nt | | robe | cloth | | | | | |
 | - pamāṇaṃ | noun | nt acc sg of pamāṇa, from pamiṇāti | | measurement, size | | √mā (measure) | | pa + √mā + aṇa | | |
 | cīvaraṃ | noun | nt nom sg of cīvara | | robe, robe-cloth | cloth | | | | | |
 | kārāpeyya | verb | opt 3rd sg of kārāpeti | | he should make | cause to make | √kar (do, make) | √kar + *āpe > kārāpe | kārāpe + ti | | |
-| atirekaṃ | adj | nt acc sg of atireka | | more, greater than | | √ric (be empty) | | ati + √ric > rek + *a | | |
+| atirekaṃ | adj | nt acc sg of atireka | | surplus; excess, greater than | | √ric (be empty) | | ati + √ric > rek + *a | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | chedanakaṃ | ind | adv, acc sg of chedanaka | | involving cutting up | cutting up | √chid (cut, steal) | √chid + *e > chede | chede + ana + akaṃ | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
@@ -22,10 +22,10 @@
 ## tatr'idaṃ sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------- | :------ | :--------------------------------------- | :------- | :-------------------------------------------------- | :------------------ | :------------- | :------- | :------------------------- | :------------------- | :------------------------- |
+| :--------------------- | :------ | :--------------------------------------- | :------- | :----------------------------------------------------------- | :------------------ | :------------- | :------- | :------------------------- | :------------------- | :------------------------- |
 | tatridaṃ | comp | sandhi, adv + pron | | in this case this | | | | tatra + idaṃ | | |
 | sugatassa | noun | masc gen sg of sugata | | of the Well Gone One | of well gone | √gam (go) | | su + √gam + ta | | |
-| sugatacīvarappamāṇaṃ | adj | nt acc sg of sugatacīvarappamāṇa, comp | | according to the measurement of the Buddha's robe | | | | sugata + cīvara + pamāṇa | genitive tappurisa | sugatassa + cīvarapamāṇa |
+| sugatacīvarappamāṇaṃ | noun | nt acc sg of sugatacīvarappamāṇa, comp | | the measurement of the Well Gone One robe (or) sugata-robe | | | | sugata + cīvara + pamāṇa | genitive tappurisa | sugatassa + cīvarapamāṇa |
 | dīghaso | ind | adv, abl sg of dīgha | | lengthwise, in length | from long | | | dīgha + so | | |
 | nava | card | x nom pl | | nine | | | | | | |
 | vidatthiyo | noun | fem nom pl | | spans | hand-length | | | | | |
@@ -37,10 +37,10 @@
 ## idaṃ sugatassa sugatacīvarappamāṇaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------- | :------ | :--------------------------------------- | :------- | :-------------------------------------------------- | :-------------- | :---------- | :------- | :------------------------- | :------------------- | :------------------------- |
+| :--------------------- | :------ | :--------------------------------------- | :------- | :----------------------------------------------------------- | :-------------- | :---------- | :------- | :------------------------- | :------------------- | :------------------------- |
 | idaṃ | pron | nt nom sg of ima | | this | | | | | | |
 | sugatassa | noun | masc gen sg of sugata | | of the Well Gone One | of well gone | √gam (go) | | su + √gam + ta | | |
-| sugatacīvarappamāṇaṃ | adj | nt acc sg of sugatacīvarappamāṇa, comp | | according to the measurement of the Buddha's robe | | | | sugata + cīvara + pamāṇa | genitive tappurisa | sugatassa + cīvarapamāṇa |
+| sugatacīvarappamāṇaṃ | noun | nt acc sg of sugatacīvarappamāṇa, comp | | the measurement of the Well Gone One robe (or) sugata-robe | | | | sugata + cīvara + pamāṇa | genitive tappurisa | sugatassa + cīvarapamāṇa |
 
 ## rājavaggo navamo
 

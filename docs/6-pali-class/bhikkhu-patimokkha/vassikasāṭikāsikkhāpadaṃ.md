@@ -3,8 +3,8 @@
 ## vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------------- | :------- | :--------------------------------------------------------- | :-------------------- | :---------------- | :---------------------------- | :--------------------- | :---------------- | :------------------------ |
-| vassikasāṭikaṃ | noun | fem acc sg of vassikasāṭikā, comp | | rain cloth, raincoat | | | | vassika + sāṭika | kammadhāraya | vassika + sāṭika |
+| :--------------- | :------ | :----------------------------------------------- | :------- | :--------------------------------------------------------- | :---------------------- | :---------------- | :---------------------------- | :--------------------- | :---------------- | :------------------------ |
+| vassikasāṭikaṃ | noun | fem acc sg of vassikasāṭikā, comp | | rain cloth, raincoat | cloth related to rain | | | vassika + sāṭika | kammadhāraya | vassika + sāṭika |
 | - vassika | adj | from vassa | | related to the rainy season | | √vass (rain) | | √vass + a + ika | | |
 | - sāṭikaṃ | noun | fem acc sg of sāṭikā | | cloth, cloak, coat | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
@@ -16,7 +16,7 @@
 ## tatr'idaṃ pamāṇaṃ, dīghaso cha vidatthiyo sugatavidatthiyā, tiriyaṃ aḍḍhateyyā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :----------------------------------- | :------- | :--------------------------------- | :------------------ | :-------------- | :------- | :------------------ | :---------------- | :------------------------ |
+| :----------------- | :------ | :----------------------------------- | :------- | :--------------------------------- | :------------------ | :-------------- | :------- | :---------------------- | :---------------- | :------------------------ |
 | tatridaṃ | comp | sandhi, adv + pron | | in this case this | | | | tatra + idaṃ | | |
 | pamāṇaṃ | noun | nt nom sg of pamāṇa, from pamiṇāti | | measurement, size | | √mā (measure) | | pa + √mā + aṇa | | |
 | dīghaso | ind | adv, abl sg of dīgha | | lengthwise, in length | from long | | | dīgha + so | | |
@@ -24,9 +24,9 @@
 | vidatthiyo | noun | fem nom pl | | spans | hand-length | | | | | |
 | sugatavidatthiyā | noun | fem instr sg, comp | | according to the standard span | by well-gone span | | | sugata + vidatthi | kammadhāraya | sugata + vidatthi |
 | tiriyaṃ | ind | adv | | across, horizontally, width-wise | | √tir (cross) | | √tir + iya + aṃ | | |
-| aḍḍhateyyā | adj | fem nom pl of aḍḍhateyya, comp | | two and half | three minus half | | | aḍḍha + teyya | kammadhāraya | aḍḍha + teyya |
-| - aḍḍha | adj | | | half | | | | | | |
-| - teyyā | adj | fem nom pl of teyya | | three-ish | related to three | | | ti + *ya | | |
+| aḍḍhateyyā | adj | fem nom pl of aḍḍhateyya, comp | | two and half | three minus half | | | aḍḍha + ti > te + *ya | | |
+| - aḍḍha | adj | | | minus half | | | | | | |
+| - ti | card | | | three | | | | | | |
 
 ## taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
 

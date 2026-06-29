@@ -3,14 +3,14 @@
 ## ime kho pan'āyasmanto cattāro pāṭidesanīyā dhammā uddesaṃ āgacchanti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :------------------------------------- | :------- | :--------------------------------------- | :------------------- | :-------------------------- | :-------------------------- | :-------------------- | :---------------- | :------------------------ |
-| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (teach, explain) | √dis + *e > dese | pati + dese + anīya | | |
+| :------------- | :------ | :------------------------------------- | :------- | :--------------------------------------- | :------------------- | :-------------------------- | :-------------------------- | :--------------------- | :---------------- | :------------------------ |
+| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (point out, explain) | √dis + *e > dese | pati + dese + *anīya | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
 | cattāro | card | masc nom pl of catu | | four | | | | | | |
-| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (teach, explain) | √dis + *e > dese | pati + dese + anīya | | |
+| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (point out, explain) | √dis + *e > dese | pati + dese + *anīya | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | uddesaṃ | noun | masc acc sg of uddesa, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | āgacchanti | verb | pr 3rd pl of āgacchati | +acc | they arrive, they are coming up (for) | arrive | √gam (go) | √gam + a > gaccha (irreg) | ā + gaccha + ti | | |
@@ -24,12 +24,12 @@
 ## uddiṭṭhā kho āyasmanto cattāro pāṭidesanīyā dhammā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------------------- | :------- | :--------------------------------------- | :------------------- | :-------------------------- | :----------------- | :-------------------- | :---------------- | :------------------------ |
+| :------------- | :------ | :---------------------------------------- | :------- | :--------------------------------------- | :------------------- | :-------------------------- | :----------------- | :--------------------- | :---------------- | :------------------------ |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | āyasmanto | noun | masc voc pl of āyasmant | | venerables | having long life | | | āyas + mant | | |
 | cattāro | card | masc nom pl of catu | | four | | | | | | |
-| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (teach, explain) | √dis + *e > dese | pati + dese + anīya | | |
+| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (point out, explain) | √dis + *e > dese | pati + dese + *anīya | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
 ## tatthāyasmante pucchāmi, kaccittha parisuddhā
@@ -72,9 +72,9 @@
 ## cattāro pāṭidesanīyā dhammā niṭṭhitā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------- | :------- | :--------------------------------------- | :------------------- | :---------------------- | :----------------- | :-------------------- | :---------------- | :------------------------ |
+| :------------- | :------ | :---------------------------- | :------- | :--------------------------------------- | :------------------- | :-------------------------- | :----------------- | :--------------------- | :---------------- | :------------------------ |
 | cattāro | card | masc nom pl of catu | | four | | | | | | |
-| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (teach, explain) | √dis + *e > dese | pati + dese + anīya | | |
+| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (point out, explain) | √dis + *e > dese | pati + dese + *anīya | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 

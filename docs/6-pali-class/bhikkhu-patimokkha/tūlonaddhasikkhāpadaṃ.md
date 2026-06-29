@@ -15,7 +15,7 @@
 | - tūla | noun | nt | | cotton | | √tūl (be light) | | √tūl + a | | |
 | - onaddhaṃ | pp | nt acc sg of onaddha | | wrapped, covered | twisted down around | √nadh (wrap, twist around, envelop) | | ava + √nadh + ta | | |
 | kārāpeyya | verb | opt 3rd sg of kārāpeti | | he should make | cause to make | √kar (do, make) | √kar + *āpe > kārāpe | kārāpe + ti | | |
-| uddālanakaṃ | adj | nt acc sg of uddālanaka | | involving tearing off; with ripping off | | √dal (split, tear apart) | √dal + *e > dāle | ud + dāle + ana + ka | | |
+| uddālanakaṃ | ind | adv, acc sg of uddālanaka | | involving tearing off; with ripping off | with tearing up | √dal (split, tear apart) | √dal + *e > dāle | ud + dāle + ana + ka | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
 

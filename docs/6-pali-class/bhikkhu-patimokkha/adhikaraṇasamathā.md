@@ -178,10 +178,10 @@
 ## uddiṭṭhā cattāro pāṭidesanīyā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------------------- | :------- | :--------------------------------------- | :------------------- | :-------------------------- | :----------------- | :-------------------- | :---------------- | :------------------------ |
+| :------------- | :------ | :---------------------------------------- | :------- | :--------------------------------------- | :------------------- | :-------------------------- | :----------------- | :--------------------- | :---------------- | :------------------------ |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | cattāro | card | masc nom pl of catu | | four | | | | | | |
-| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (teach, explain) | √dis + *e > dese | pati + dese + anīya | | |
+| pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to be declared | √dis (point out, explain) | √dis + *e > dese | pati + dese + *anīya | | |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
 ## uddiṭṭhā sekhiyā dhammā

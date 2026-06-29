@@ -7,7 +7,7 @@
 | nisīdanaṃ | noun | nt nom sg of nidsīdana | | sitting cloth | sinking down | √sad (sink, sit, settle) | √sad + a > sīda | ni + sīda + ana | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
-| kārayamānena | prp | masc instr sg of kārayamāna, from kāreti | | by (the monk) building | causing to make | √kar (do, make) | √kar + *aya > kāraya (caus) | kāraya + māna | | |
+| kārayamānena | prp | masc instr sg of kārayamāna, from kāreti | | by (the monk) making | causing to make | √kar (do, make) | √kar + *aya > kāraya (caus) | kāraya + māna | | |
 | pamāṇikaṃ | adj | nt nom sg of pamāṇika | | according to the measure | | √mā (measure) | | pa + √mā + aṇa + ika | | |
 | kāretabbaṃ | ptp | nt nom sg of kāretabba | | should be made | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
 
@@ -24,7 +24,7 @@
 | tiriyaṃ | ind | adv | | across, horizontally, width-wise | | √tir (cross) | | √tir + iya + aṃ | | |
 | diyaḍḍhaṃ | card | nt nom sg of diyaḍḍha, comp | | one and a half | two minus half | | | dvi > di + aḍḍha | | |
 | - di | card | adj | | two | | | | dvi > di | | |
-| - aḍḍhaṃ | adj | | | half | | | | | | |
+| - aḍḍhaṃ | adj | | | minus half; less half | half | | | | | |
 | dasā | noun | fem nom sg | | border, fringe | | | | | | |
 | vidatthi | noun | fem nom sg | | span, hand span | | | | | | |
 

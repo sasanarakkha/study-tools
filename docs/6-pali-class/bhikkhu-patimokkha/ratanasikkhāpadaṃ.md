@@ -27,16 +27,16 @@
 ## ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------- | :------------------------- | :-------------- | :--------------------------- | :-------------------- | :---------------- | :------------------------ |
+| :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------- | :------------------------- | :--------------- | :--------------------------- | :-------------------------- | :---------------- | :------------------------ |
 | ratanaṃ | noun | nt acc sg of ratana | | jewel, a valuable | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | ratanasammataṃ | noun | nt acc sg of ratanasammata, comp | | considered valuable | | | | ratana + sammata | kammadhāraya | ratana + sammata |
 | vā | ind | conj | | or, either or | | | | | | |
-| ajjhārāme | noun | masc loc sg of ajjhārāma, comp | | inside the monastery | | | | adhi + ārāma | kammadhāraya | adhi + ārāma |
+| ajjhārāme | noun | masc loc sg of ajjhārāma, comp | | inside the monastery | | √ram (delight) | | adhi + ā + √ram + *a | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| ajjhāvasathe | noun | masc loc sg of ajjhāvasatha, comp | | inside the dwelling | | | | adhi + āvasatha | kammadhāraya | adhi + āvasatha |
+| ajjhāvasathe | noun | masc loc sg of ajjhāvasatha, comp | | inside the dwelling | | √vas (live) | | adhi + ā + √vas + a + tha | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | uggahetvā | verb | abs of uggaṇhāti | | having picked up | having taken up | √gah (grasp) | √gah + ṇhā > gaṇhe | ud + gaṇhe + tvā | | |
 | vā | ind | conj | | or, either or | | | | | | |
