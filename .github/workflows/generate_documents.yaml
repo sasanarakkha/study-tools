@@ -46,19 +46,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           LATEST_TAG=$(gh release list --limit 1 --json tagName -q '.[0].tagName')
-          echo "Latest release tag: $LATEST_TAG"
-
-          HAS_PDFS=$(gh release view "$LATEST_TAG" --json assets \
-            -q '[.assets[].name | select(endswith(".pdf"))] | length > 0')
-
-          if [ "$HAS_PDFS" = "true" ]; then
-            echo "Latest release already has PDF assets — creating new release"
-            NEW_TAG="artifacts-$(date +'%d.%m.%Y_%H-%M-%S')"
-            gh release create "$NEW_TAG" \
-              --title "Build $(date +'%d.%m.%Y %H:%M UTC')" \
-              --notes "PDF documents generated from latest Pāli class source files." \
-              output/pdf/*.pdf
-          else
-            echo "Appending PDFs to existing release: $LATEST_TAG"
-            gh release upload "$LATEST_TAG" output/pdf/*.pdf
-          fi
+          echo "Uploading PDFs to existing release: $LATEST_TAG"
+          gh release upload "$LATEST_TAG" output/pdf/*.pdf --clobber
