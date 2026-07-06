@@ -16,7 +16,7 @@
 | vosāsamānarūpā | adj | fem nom sg of vosāsamānarūpa, comp | | as if ordering; like commanding | ordering form | | | vosāsamāna + rūpā | kammadhāraya | vosāsamāna + rūpā |
 | - vosāsamāna | prp | of vosāsati | | ordering; commanding | | √sās (teach) | √sās + a > sāsa | vi + ava + sāsa + māna | | |
 | - rūpā | adj | fem nom sg of rūpa | | like, as if | form | √rūp (produce) | | √rūp + a | | |
-| ṭhitā | pp | fem nom sg of ṭhita | | standing | stood | √ṭhā (stand) | | √ṭhā + ita | | |
+| ṭhitā | pp | fem nom sg of ṭhita | | standing; situated; remaining | stood | √ṭhā (stand) | | √ṭhā + ita | | |
 | hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
 
 ## idha sūpaṃ detha, idha odanaṃ dethā’ti.
@@ -34,12 +34,12 @@
 ## tehi bhikkhūhi sā bhikkhunī apasādetabbā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :------------------------------- | :------- | :--------------------------------------------- | :-------------------------- | :------------------------- | :------------------ | :---------------------- | :---------------- | :------------------------ |
+| :------------- | :------ | :------------------------------- | :------- | :---------------------------------------------------------------- | :-------------------- | :------------------------- | :------------------ | :---------------------- | :---------------- | :------------------------ |
 | tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu, comp | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | sā | pron | fem nom sg of ta | | she, that | | | | | | |
 | bhikkhunī | noun | fem nom sg of bhikkhunī | | nun | female beggar | √bhikkh (beg) | | √bhikkh + u + [n] + ī | | |
-| apasādetabbā | ptp | fem nom sg of apasādetabba | | should be discouraged; should be reprimanded | to be caused to sink away | √sad (sink, sit, settle) | √sad + *e  > sāde | apa + sāde + tabba | | |
+| apasādetabbā | ptp | fem nom sg of apasādetabba | | should be rebuked; should be reprimanded; should be discouraged | to cause to be sunk | √sad (sink, sit, settle) | √sad + *e  > sāde | apa + sāde + tabba | | |
 
 ## apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.
 
@@ -83,8 +83,8 @@
 ## paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------ | :------- | :------------------------------------------- | :----------------- | :-------------------------- | :------------------ | :------------------------ | :---------------- | :------------------------ |
-| paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | | √dis (teach, explain) | √dis + *e > dese | pati + dese + tabba | | |
+| :--------------- | :------ | :------------------------------------ | :------- | :------------------------------------------- | :--------------------------- | :-------------------------- | :------------------ | :------------------------ | :---------------- | :------------------------ |
+| paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese | pati + dese + tabba | | |
 | tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu, comp | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | gārayhaṃ | ptp | masc acc sg of gārayha | | blameworthy | to be blamed | √garah (blame) | | √garah + *ya | | |
@@ -92,7 +92,7 @@
 | dhammaṃ | noun | masc acc sg of dhamma | | act, practice, behaviour | | √dhar (hold) | | √dhar + ma | | |
 | āpajjimhā | verb | aor 1st pl of āpajji, from āpajjati | | we committed, did | | √pad (go, step) | √pad + ya > pajja | ā + pajja + ti | | |
 | asappāyaṃ | adj | masc acc sg of asappāya | | unsuitable; unwholesome | unhealthy | √i (come, go) | | na + saṃ + pa + √i + *a | | |
-| pāṭidesanīyaṃ | ptp | masc acc sg of pāṭidesanīya | | should be admitted; should be acknowledged | | √dis (teach, explain) | √dis + *e > dese | pati + dese + anīya | | |
+| pāṭidesanīyaṃ | ptp | masc acc sg of pāṭidesanīya | | should be admitted; should be acknowledged | to cause to be pointed out | √dis (teach, explain) | √dis + *e > dese | pati + dese + anīya | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | paṭidesemāti | comp | sandhi, pr + ind | | | | | | paṭidesema + iti | | |
 | - paṭidesema | verb | pr 1st pl of paṭidesati | | we admit; acknowledge | | √dis (point out, explain) | √dis + *e > dese | pati + dese + ti | | |
