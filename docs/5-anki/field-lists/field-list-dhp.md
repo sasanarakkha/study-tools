@@ -30,6 +30,7 @@ compound_construction
 source
 sutta
 example
+translation
 link
 audio
 test

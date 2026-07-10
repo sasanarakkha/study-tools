@@ -36,8 +36,8 @@ ASSETS = [
     "vibhanga.csv",
     "vocab-pali-class.apkg",
     "vocab-pali-class.csv",
-    "ru_common_roots.csv",
-    "ru_cl_sum_gramm.csv",
+    "ru-common-roots.csv",
+    "ru-grammar-pali-class-gramm.csv",
 ]
 
 # Formatting constants

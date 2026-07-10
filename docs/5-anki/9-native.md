@@ -9,8 +9,8 @@ Download the CSV files below and import them into most SBS decks. Note that the 
 - [sbs_russian.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/sbs-rus.csv)
 
 For Pāli Class decks:
-- [ru_common_roots.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-common-roots.csv) (Grammar Deck; Grammar Note Type)
-- [ru_grammar_pali_class_gramm.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-grammar-pali-class-gramm.csv) (Common Roots Deck)
+- [ru-common-roots.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-common-roots.csv) (Grammar Deck; Grammar Note Type)
+- [ru-grammar-pali-class-gramm.csv](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-grammar-pali-class-gramm.csv) (Common Roots Deck)
 
 --- 
 

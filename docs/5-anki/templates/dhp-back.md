@@ -5,6 +5,12 @@
 
 <hr id=answer>
 
+<details>
+  <summary>AI translation</summary>
+  {{translation}}
+</details>
+
+
 <table>
 
     {{#marks}}
