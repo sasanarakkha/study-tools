@@ -185,7 +185,7 @@
 | sampajānamusāvādassa | comp | sandhi, masc + pron | | (that is) a deliberate lie for him | | | | sampajānamusāvādo + assa | | |
 | - sampajānamusāvādo | masc | nom sg of sampajānamusāvāda, comp | | deliberate lying; intentional lie | | | | sampajāna + musāvāda | kammadhāraya | sampajāna + musāvāda |
 | - - sampajāna | adj | from sampajānāti | | deliberate, intentional | knowing, being aware, with full understanding | √ñā (know) | √ñā + nā > jānā | saṃ + pa + jānā + a | | |
-| - - musāvāda | noun | comp | | lying | false speech | | | musā + vāda | abyayībhāva | musā + vāda |
+| - - musāvāda | noun | comp | | lying | false speech | | | musā + vāda | kammadhāraya | musā + vāda |
 | - - - musā | ind | adv, instr sg | | false, falsely, wrongly | | √mus (lie, forget) | | √mus + ā | | |
 | - - - vāda | noun | masc, from vadati | | speech, statement, word | | √vad (speak) | | √vad + *a | | |
 | - assa | pron | masc dat sg of ta | | for him, to him | | | | | | |

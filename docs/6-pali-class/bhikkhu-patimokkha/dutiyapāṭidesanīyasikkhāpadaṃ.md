@@ -83,8 +83,8 @@
 ## paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------ | :------- | :------------------------------------------- | :--------------------------- | :-------------------------- | :------------------ | :------------------------ | :---------------- | :------------------------ |
-| paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese | pati + dese + tabba | | |
+| :--------------- | :------ | :------------------------------------ | :------- | :------------------------------------------- | :--------------------------- | :-------------------------- | :------------------------ | :------------------------ | :---------------- | :------------------------ |
+| paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + tabba | | |
 | tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu, comp | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | gārayhaṃ | ptp | masc acc sg of gārayha | | blameworthy | to be blamed | √garah (blame) | | √garah + *ya | | |
@@ -92,10 +92,10 @@
 | dhammaṃ | noun | masc acc sg of dhamma | | act, practice, behaviour | | √dhar (hold) | | √dhar + ma | | |
 | āpajjimhā | verb | aor 1st pl of āpajji, from āpajjati | | we committed, did | | √pad (go, step) | √pad + ya > pajja | ā + pajja + ti | | |
 | asappāyaṃ | adj | masc acc sg of asappāya | | unsuitable; unwholesome | unhealthy | √i (come, go) | | na + saṃ + pa + √i + *a | | |
-| pāṭidesanīyaṃ | ptp | masc acc sg of pāṭidesanīya | | should be admitted; should be acknowledged | to cause to be pointed out | √dis (teach, explain) | √dis + *e > dese | pati + dese + anīya | | |
+| pāṭidesanīyaṃ | ptp | masc acc sg of pāṭidesanīya | | should be admitted; should be acknowledged | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + anīya | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | paṭidesemāti | comp | sandhi, pr + ind | | | | | | paṭidesema + iti | | |
-| - paṭidesema | verb | pr 1st pl of paṭidesati | | we admit; acknowledge | | √dis (point out, explain) | √dis + *e > dese | pati + dese + ti | | |
+| - paṭidesema | verb | pr 1st pl of paṭidesati | | we admit; acknowledge | | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 
 

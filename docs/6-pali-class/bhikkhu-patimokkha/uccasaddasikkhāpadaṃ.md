@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------- | :------- | :---------------- | :---------------- | :------------------------ |
-| appasaddo | adj | mac nom sg of appasadda, comp | | quiet | little sound | | | appa + sadda | kammadhāraya | appa + sadda |
+| appasaddo | adj | mac nom sg of appasadda, comp | | quiet, with little noise | little sound | | | appa + sadda | kammadhāraya | appa + sadda |
 | - appa | adj | | | little, few | | | | | | |
 | - saddo | noun | masc nom sg of sadda | | sound | | √sadd (sound) | | √sadd + a | | |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
@@ -16,7 +16,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------- | :------- | :------------------ | :---------------- | :------------------------ |
-| appasaddo | adj | mac nom sg of appasadda, comp | | quiet | little sound | | | appa + sadda | kammadhāraya | appa + sadda |
+| appasaddo | adj | mac nom sg of appasadda, comp | | quiet, with little noise | little sound | | | appa + sadda | kammadhāraya | appa + sadda |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
 | nisīdissāmīti | comp | sandhi, fut + ind | | | | | | nisīdissāmi + iti | | |
 | sikkhā | noun | fem nom sg | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |

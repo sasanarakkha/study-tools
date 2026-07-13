@@ -19,12 +19,12 @@
 ## eḷakalomavaggo dutiyo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------- | :------ | :--------------------------------- | :------- | :------------------- | :-------------- | :------- | :------- | :------------------ | :------------------- | :------------------------ |
-| eḷakalomavaggo | noun | comp, masc nom sg of kosiyavagga | | chapter about silk | | | | eḷakaloma + vagga | kammadhāraya | eḷakaloma + vagga |
-| - eḷakaloma | noun | comp | | of sheep's wool | of goat hairs | | | eḷaka + loma | genitive tappurisa | eḷaka + loma |
+| :------------------------------------------ | :------ | :--------------------------------- | :------- | :--------------------------- | :-------------- | :------- | :------- | :------------------ | :------------------- | :------------------------ |
+| eḷakalomavaggo | noun | comp, masc nom sg of kosiyavagga | | chapter about sheep's wool | | | | eḷakaloma + vagga | kammadhāraya | eḷakaloma + vagga |
+| - eḷakaloma | noun | comp | | of sheep's wool | of ram-hair | | | eḷaka + loma | genitive tappurisa | eḷaka + loma |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | dutiyo | card | masc nom sg of dutiya | | second | | | | dvi > du + tiya | | |
-| The chapter about silk is second. | | | | | | | | | | |
+| The chapter about sheep's wool is second. | | | | | | | | | | |
 
 
 [← previous](rūpiyasaṃvohārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=kayavikkayasikkh%C4%81pada%E1%B9%83) | [next →](pattasikkhāpadaṃ.md)

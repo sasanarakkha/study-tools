@@ -3,7 +3,7 @@
 ## na chattapāṇissa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------------------------ | :-------------------------- | :----------------- | :----------------- | :---------------- | :------------------------ |
+| :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------------------------ | :-------------------------- | :------------------------ | :----------------- | :---------------- | :------------------------ |
 | na | ind | neg | | not | | | | | | |
 | chattapāṇissa | adj | masc dat sg of chattapāṇī, comp | | to (one) with an sunshade in the hand | to a (person with) covering in hand | | | chatta + pāṇī | kammadhāraya | chatta + pāṇī |
 | - chatta | noun | nt | | sunshade, umbrella | covering | √chad (cover, conceal) | | √chad + ra | | |
@@ -11,7 +11,7 @@
 | agilānassa | adj | masc dat sg of agilāna | | to (someone who is) not sick | | √gilā (be sick, tired) | | na + √gilā + ana | | |
 | dhammaṃ | noun | masc acc sg of dhamma | | teaching, doctrine | | √dhar (hold) | | √dhar + ma | | |
 | desessāmīti | comp | sandhi, fut + ind | | | | | | desissāmi + iti | | |
-| - desessāmi | verb | fut 1st sg of deseti | | I will preach, teach | I will point out | √dis (point out, explain) | √dis + *e > dese | dese + issa + ti | | |
+| - desessāmi | verb | fut 1st sg of deseti | | I will preach, teach | cause to point out | √dis (point out, explain) | √dis + *e > dese (caus) | dese + issa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |

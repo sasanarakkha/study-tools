@@ -79,7 +79,7 @@
 | - ca | ind | conj | | and (or) but, and if | | | | | | |
 | yathādhammo | adj | masc nom sg of yathādhamma, comp | | according to the rule, in accordance with the case | like Dhamma | | | yathā + dhamma | kammadhāraya | yathā + dhamma |
 | kāretabbo | ptp | masc nom sg of kāretabba | +instr | should be dealt with; should be made to do (by) | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
-| uttariñcassa | ind | sandhi, ind + ind + opt | | and further his; (or) and further to him | | | | uttariṃ + ca + assa | | |
+| uttariñcassa | ind | sandhi, adv + ind + pron | | and further his; (or) and further to him | | | | uttariṃ + ca + assa | | |
 | - uttariṃ | ind | ind, adv, comp form of uttara | | beyond, further | higher | | | ud + tara + i | | |
 | - cassa | comp | sandhi, ind + pron | | and to him; (or) and his | | | | ca + assa | | |
 | moho | noun | masc nom sg | | deceiving; causing delusion | deluding | √muh (be deluded, confused) | √muh + *e > mohe | mohe + a | | |

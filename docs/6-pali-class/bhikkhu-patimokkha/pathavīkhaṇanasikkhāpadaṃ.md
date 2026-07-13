@@ -20,7 +20,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :-------------------------------------------- | :------ | :----------------------------------- | :------- | :-------------------- | :-------------- | :------- | :------- | :----------------- | :---------------- | :------------------------ |
 | musāvādavaggo | noun | comp, masc nom sg of musāvādavagga | | chapter about lying | | | | musāvāda + vagga | kammadhāraya | musāvāda + vagga |
-| - musāvāda | noun | comp | | lying | false speech | | | musā + vāda | abyayībhāva | musā + vāda |
+| - musāvāda | noun | comp | | lying | false speech | | | musā + vāda | kammadhāraya | musā + vāda |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | paṭhamo | ordin | masc nom sg of paṭhama | | first | most forward | | | pa + tama | | |
 | The chapter about false speech is the first | | | | | | | | | | |

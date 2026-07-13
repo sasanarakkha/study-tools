@@ -3,7 +3,7 @@
 ## yo pana bhikkhu mātugāmassa uttariṃ chappañcavācāhi dhammaṃ deseyya aññatra viññunā purisaviggahena, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :-------------------------- | :----------------- | :------------------- | :--------------------- | :------------------------ |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :-------------------------- | :------------------------ | :------------------- | :--------------------- | :------------------------ |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -15,7 +15,7 @@
 | - - pañca | ordin | x pl | | five | | | | | | |
 | - vācāhi | noun | fem instr pl of vācā | | with words; with sentences | | √vac (speak) | | √vac + *ā | | |
 | dhammaṃ | noun | masc acc sg of dhamma | | teaching, doctrine | | √dhar (hold) | | √dhar + ma | | |
-| deseyya | verb | opt 3rd sg of deseti | | he could preach, speak | | √dis (point out, explain) | √dis + *e > dese | dese + ti | | |
+| deseyya | verb | opt 3rd sg of deseti | | he could preach, speak | cause to point out | √dis (point out, explain) | √dis + *e > dese (caus) | dese + ti | | |
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
 | viññunā | adj | masc instr sg of viññū | | with knowledgeable | with wise | √ñā (know) | | vi + √ñā + ū | | |
 | purisaviggahena | noun | masc instr sg of purisaviggaha, comp | | with a male human being | taken man form | | | purisa + viggaha | accusative tappurisa | purisaṃ + viggaha |
