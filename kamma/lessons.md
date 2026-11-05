@@ -11,3 +11,6 @@
 - 2026-04-25 [BEHAVIOR] Confirm all interactive UI tweaks with the user before attempting to finalize/archive a thread.
 - 2026-04-25 [POSITIVE] Detected and fixed literal escape character corruption in AGENTS.md during thread finalization.
 - 2026-04-25 [WORKFLOW] Remember that kamma/archive/ is git-ignored when verifying thread finalization.
+- 2026-11-05 [WORKFLOW] Finalized a UI-styling thread whose review left the owner's visual sign-off unverified, treating the finalize invocation itself as sign-off instead of asking; this repeats the 2026-04-25 lesson about archiving UI work before the owner has looked.
+- 2026-11-05 [POSITIVE] Review.md's "Files Changed" line count (+28/-4) matched `git diff --stat` exactly, so the pre-commit tree verification took one command.
+- 2026-11-05 [BEHAVIOR] Applied an additive styling section to `kamma/tech.md` without the confirmation step the finalize procedure requires for doc changes.

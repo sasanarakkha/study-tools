@@ -30,6 +30,10 @@ Scripts that run once (like data migrations or one-time transformations) MUST be
 - Always import the printer instance from `tools.printer`: `from tools.printer import printer as pr`. Never import the `Printer` class directly for standard logging.
 - Use `icecream` (`from icecream import ic`) for debug output, not `print()`.
 
+## Visual Changes (MANDATORY)
+
+**Never finalize or archive a thread that changes appearance (CSS, theme, layout, colours) until the owner has explicitly confirmed the look.** Programmatic checks (contrast ratios, computed styles, screenshots inspected by the agent) are evidence, not sign-off. Ask, wait for a yes, then archive.
+
 ## Pre-Completion Validation (MANDATORY)
 
 **Before reporting ANY Python code changes as complete, run ALL of:**

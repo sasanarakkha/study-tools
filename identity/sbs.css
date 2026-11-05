@@ -1,11 +1,23 @@
+/* Header, tabs and primary colours stay brown in both schemes */
 :root,
 [data-md-color-scheme="default"],
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color: #593e26 !important;
     --md-primary-fg-color--light: #7a5c43 !important;
     --md-primary-fg-color--dark: #3d2614 !important;
-    --md-accent-fg-color: #593e26 !important;
-    --md-typeset-a-color: #593e26 !important;
+}
+
+/* Light scheme: amber-brown links, visibly distinct from neutral body text */
+:root,
+[data-md-color-scheme="default"] {
+    --md-accent-fg-color: #8a4b00 !important;
+    --md-typeset-a-color: #9c5a12 !important;
+}
+
+/* Dark scheme: must come after the light block, equal specificity otherwise */
+[data-md-color-scheme="slate"] {
+    --md-accent-fg-color: #efcfa0 !important;
+    --md-typeset-a-color: #d7b98e !important;
 }
 
 :root {
@@ -23,10 +35,22 @@
     background-color: #4a3018 !important;
 }
 .md-nav__link--active {
-    color: #593e26 !important;
+    color: #9c5a12 !important;
 }
 .md-typeset a:hover {
-    color: #7a5c43 !important;
+    color: #8a4b00 !important;
+}
+[data-md-color-scheme="slate"] .md-nav__link--active {
+    color: #d7b98e !important;
+}
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+    color: #efcfa0 !important;
+}
+
+/* Bold links: the non-colour cue for WCAG 1.4.1. The hover rules above set
+   colour only, so they must never reset the weight. */
+.md-typeset a {
+    font-weight: 700 !important;
 }
 
 /* Compact header height */
