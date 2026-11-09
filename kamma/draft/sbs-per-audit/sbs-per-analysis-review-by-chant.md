@@ -6,7 +6,7 @@ Date: 2026-11-09. Source of every suggestion: (1) the original audit `sbs-per-an
 
 1. **Policies first** (next section): each policy affects many rows. Delete the policy line you reject, or for an A/B policy pair keep one. Rows belonging to a policy carry its tag in the *Source* column.
 2. **Then read chant by chant.** Delete any row you disagree with. Rows marked ⚔ are conflicts: delete the option you do not want from inside the row (or the whole row to reject both). Rows marked ✗ are my recommended rejections of Reviewer B suggestions — they are kept so nothing is lost, and are **not** implemented unless you delete the ✗ mark.
-3. Hand the file to an implementing agent. **Agent rules:** match on quoted current text and grep before every edit; stop and report on mismatch; never change Pāḷi chant lines unless a row says so explicitly; implement nothing from a policy whose line was deleted; where two rows touch the same cell, the specific row beats the bulk-policy row; never implement a ✗ row; if a ⚔ row still lists both options, stop and ask.
+3. Hand the file to an implementing agent. **Agent rules:** match on quoted current text and grep before every edit; stop and report on mismatch; never change Pāḷi chant lines unless a row says so explicitly; implement nothing from a policy whose line was deleted; where two rows touch the same cell, the specific row beats the bulk-policy row; never implement a ✗ or ⚑ row; if a ⚔ row still lists both options, stop and ask.
 
 **Source column legend**
 
@@ -22,6 +22,7 @@ Date: 2026-11-09. Source of every suggestion: (1) the original audit `sbs-per-an
 | B-Pn, B-11.n | Reviewer B bulk policy (see policy list) |
 | B-Qn | Reviewer B change to Pāḷi chant text (decision) |
 | B-Xn ✗ | Reviewer B suggestion I recommend rejecting |
+| B-X2 ⚑ | `na` Grammar `neg` → ∅ — weak rejection, left for your decision; not implemented unless you remove the ⚑ |
 | B=A | Reviewer B proposes the same as the audit (no extra action) |
 | ✔ | appended to an audit row when Reviewer B proposes the identical change |
 
@@ -31,10 +32,10 @@ Date: 2026-11-09. Source of every suggestion: (1) the original audit `sbs-per-an
 |---|---|---|---|
 | **A5.1** | Audit 5.1 | `1st`/`2nd`/`3rd` → `1`/`2`/`3` in Grammar | 19 |
 | **A5.2** | Audit 5.2 | `instr`/`inst` → `ins` | 20 |
-| **A5.3** | Audit 5.3 | reflexive notation → `refl`, mood first (`imp.refl.1.pl`). **Pair with B-11.2 — keep one.** | 12 |
+| **A5.3** | Audit 5.3 | reflexive notation → `refl`, mood first (`imp.refl.1.pl`). **Pair with B-11.2 — keep one.** | 14 |
 | **A5.4** | Audit 5.4 | `emphat`/`emph.`/`emp` → `emph` | 1 |
 | **A5.5** | Audit 5.5 | `pres` → `pr` | 0 |
-| **A5.6** | Audit 5.6 | compressed one-letter tags (`m.n.s`, `nt.i.sg` …) → full form | 7 |
+| **A5.6** | Audit 5.6 | compressed one-letter tags (`m.n.s`, `nt.i.sg` …) → full form | 14 |
 | **A5.7** | Audit 5.7 | strip trailing periods in tags (bare `masc.`→`masc`; **keeps** bare gender on compound members — pair with B-11.3) | 50 |
 | **A5.8** | Audit 5.8 | composite POS (`verbinf`, `verbaor.1.s`, …) → POS + Grammar | 3 |
 | **A5.9** | Audit 5.9 | `v.pass`/`v.caus`/`v.refl`/`prp.caus` → `verb`/`prp` + tag in Grammar | 12 |
@@ -146,7 +147,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 05-02 | 13 | `karomase` | Grammar `imp.ref.pr.1.pl` → `imp.refl.1.pl` | A5.3 |
 | 05-03 | 13 | `karomase` | Grammar `imp.ref.pr.1.pl` → `imp.1.pl` (reviewer drops `refl`; audit 5.3 keeps it: `imp.refl.1.pl`) — policy 11.2 | B-11.2 |
 | 05-04 | 58 | `yadidaṃ` | POS `adv` → `ind`; Grammar `ind` → `adv` | A5.10 |
-| 05-05 | 58 | `yadidaṃ` | POS `ind` → `sandhi` (leave Grammar empty) | B-P7 |
+| 05-05 | 58 | `yadidaṃ` | ⚔ **same cells as the A5.10 row above — keep ONE:** **Option A (A5.10)** POS `adv` → `ind`, Grammar `ind` → `adv`  ·  **Option B (B-P7)** POS `adv` → `sandhi`, Grammar `ind` → ∅ (reviewer himself wrote `sandhi` in both POS and Grammar; I recommend Grammar empty)  ·  *Do not apply both.* | B-P7 |
 | 05-06 | 59 | `cattāri` | `masc.nom.pl` → `nt.nom.pl` — agrees with neuter `purisayugāni` | A4 |
 | 05-07 | 59 | `cattāri` | POS `adj` → `card` | B-P8 |
 | 05-08 | 61 | `aṭṭha` | POS `adj` → `card` | B-P8 |
@@ -155,7 +156,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 
 ## 06 — Salutation to The Triple Gem
 
-`per-06-salutation-to-the-triple-gem.md` — 41 suggestion(s)
+`per-06-salutation-to-the-triple-gem.md` — 47 suggestion(s)
 
 | ID | Line | Word | Suggestion | Source |
 |---|---|---|---|---|
@@ -187,19 +188,25 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 06-26 | 250 | `jānāma` | `pr.3.pl` → `pr.1.pl` — "we know" is 1st person  ✔ *Reviewer B proposes the same.* | A4 |
 | 06-27 | 258 | `jāti` | Grammar `f.n.sg` → `fem.nom.sg` | A5.6 |
 | 06-28 | 269 |  | Rebuild row: `\| dukkha- \| noun \| \| discomfort, suffering, pain, unease, something unsatisfactory, problem, trouble \|` | A3 |
-| 06-29 | 350 | `evaṃ` | Grammar ∅ → `adv` | B-P1 |
-| 06-30 | 351 | `bahulaṃ` | POS `adv` → `ind`; Grammar `` → `adv` | A5.10 |
-| 06-31 | 355 |  | `during his live` → `during his life` | A6 |
-| 06-32 | 362 | `ca` | Grammar ∅ → `conj` | B-P2 |
-| 06-33 | 366 |  | Rebuild row: `\| sāvakesu \| noun \| masc.loc.pl \| among disciples, pupils, lit. hearers \|`  ✔ *Reviewer B proposes the same.* | A2 |
-| 06-34 | 384 | `aniccā` | Gr `fem.nom.sg` → `masc.nom.pl` — *`aniccā` agrees with `saṅkhārā` (masc.pl)* | B-N31 |
-| 06-35 | 394 | `anattā` | POS `noun` → `adj`; Gr `masc.nom.pl` → `masc.nom.sg` — *reviewer wrote `masc.nom.s`; converted to repo canonical* | B-N90 |
-| 06-36 | 414 |  | Grammar `masc.nom.sg` → `masc.nom.s` — **recommended reject:** Notation-only, against the `.sg` canon. | **B-X4✗** |
-| 06-37 | 461 | `paññāyethā'ti` | Grammar `opt.ref.3.sg` → `opt.refl.3.sg` | A5.3 |
-| 06-38 | 470 |  | `who's fire is out` → `whose fire is out` *(same fix at: per-01:78, per-06:470)* | A6 |
-| 06-39 | 473 | `uddissa` | Gr `ind` → ∅ — *gerund: no inflectional grammar* | B-N77 |
-| 06-40 | 496 | `brahmacariyaṃ` | Gr `masc.acc.sg` → `nt.acc.sg` — *`brahmacariya` neuter* | B-N32 |
-| 06-41 | 499 |  | `under  the` → `under the` | A6 |
+| 06-29 | 301 | `yam-(p)-icchaṃ` | POS `m.ac.s` → `noun`; Grammar ∅ → `masc.acc.sg` (tag sits in POS column; `noun` is my inference — confirm) | A5.6 |
+| 06-30 | 329 | `upādānakkhandho` | POS `m.n.s` → `noun`; Grammar ∅ → `masc.nom.sg` (tag sits in POS column; `noun` is my inference — confirm) | A5.6 |
+| 06-31 | 331 | `upādānakkhandho` | POS `m.n.s` → `noun`; Grammar ∅ → `masc.nom.sg` (tag sits in POS column; `noun` is my inference — confirm) | A5.6 |
+| 06-32 | 333 | `upādānakkhandho` | POS `m.n.s` → `noun`; Grammar ∅ → `masc.nom.sg` (tag sits in POS column; `noun` is my inference — confirm) | A5.6 |
+| 06-33 | 335 | `upādānakkhandho` | POS `m.n.s` → `noun`; Grammar ∅ → `masc.nom.sg` (tag sits in POS column; `noun` is my inference — confirm) | A5.6 |
+| 06-34 | 337 | `upādānakkhandho` | POS `m.n.s` → `noun`; Grammar ∅ → `masc.nom.sg` (tag sits in POS column; `noun` is my inference — confirm) | A5.6 |
+| 06-35 | 350 | `evaṃ` | Grammar ∅ → `adv` | B-P1 |
+| 06-36 | 351 | `bahulaṃ` | POS `adv` → `ind`; Grammar `` → `adv` | A5.10 |
+| 06-37 | 355 |  | `during his live` → `during his life` | A6 |
+| 06-38 | 362 | `ca` | Grammar ∅ → `conj` | B-P2 |
+| 06-39 | 366 |  | Rebuild row: `\| sāvakesu \| noun \| masc.loc.pl \| among disciples, pupils, lit. hearers \|`  ✔ *Reviewer B proposes the same.* | A2 |
+| 06-40 | 384 | `aniccā` | Gr `fem.nom.sg` → `masc.nom.pl` — *`aniccā` agrees with `saṅkhārā` (masc.pl)* | B-N31 |
+| 06-41 | 394 | `anattā` | POS `noun` → `adj`; Gr `masc.nom.pl` → `masc.nom.sg` — *reviewer wrote `masc.nom.s`; converted to repo canonical* | B-N90 |
+| 06-42 | 414 |  | Grammar `masc.nom.sg` → `masc.nom.s` — **recommended reject:** Notation-only, against the `.sg` canon. | **B-X4✗** |
+| 06-43 | 461 | `paññāyethā'ti` | Grammar `opt.ref.3.sg` → `opt.refl.3.sg` | A5.3 |
+| 06-44 | 470 |  | `who's fire is out` → `whose fire is out` *(same fix at: per-01:78, per-06:470)* | A6 |
+| 06-45 | 473 | `uddissa` | Gr `ind` → ∅ — *gerund: no inflectional grammar* | B-N77 |
+| 06-46 | 496 | `brahmacariyaṃ` | Gr `masc.acc.sg` → `nt.acc.sg` — *`brahmacariya` neuter* | B-N32 |
+| 06-47 | 499 |  | `under  the` → `under the` | A6 |
 
 ## 07 — The Buddha's First Exclamation
 
@@ -218,9 +225,9 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 |---|---|---|---|---|
 | 08-01 | 14 | `ca` | Grammar ∅ → `conj` | B-P2 |
 | 08-02 | 18 | `ca` | Grammar ∅ → `conj` | B-P2 |
-| 08-03 | 22 | `c'etarahi` | POS `ind` → `sandhi` (leave Grammar empty) | B-P7 |
+| 08-03 | 22 | `c'etarahi` | POS `ind` → `sandhi` (leave Grammar empty; reviewer also wrote `sandhi` in Grammar — not recommended) | B-P7 |
 | 08-04 | 40 | `ca` | Grammar ∅ → `conj` | B-P2 |
-| 08-05 | 41 | `atha-api` | POS `ind` → `sandhi` (leave Grammar empty) | B-P7 |
+| 08-05 | 41 | `atha-api` | POS `ind` → `sandhi` (leave Grammar empty; reviewer also wrote `sandhi` in Grammar — not recommended) | B-P7 |
 | 08-06 | 43 | `esā` | POS `noun` → `pron` — *DPD: pron, fem.nom.sg of eta* | B-N91 |
 | 08-07 | 55 | `hi` | Grammar ∅ → `emph` | B-P3 |
 | 08-08 | 57 | `mahattam-` | Rebuild row as `\| mahattam- \| noun \| nt.acc.sg \| greatness; illustriousness \|` — *gender tag was in POS column* | B-N1 |
@@ -458,7 +465,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 17-02 | 12 | `atītaṃ` | POS `adj (as noun)` → `adj` — *D4: unify `adj (as noun)` → `adj`* | B-N106 |
 | 17-03 | 21 | `ca` | Grammar ∅ → `conj` | B-P2 |
 | 17-04 | 31 | `ca` | Grammar ∅ → `conj` | B-P2 |
-| 17-05 | 34 |  | Rebuild row: `\| tattha tattha \| ind \| adv \| right there, here and now, in each and every case, lit. there and there \|`  ✔ *Reviewer B proposes the same.* | A3 |
+| 17-05 | 34 |  | Rebuild row: `\| tattha tattha \| ind \| adv \| right there, here and now, in each and every case, lit. there and there \|`  ✔ *Reviewer B proposes the same row; his gloss order differs.* | A3 |
 | 17-06 | 44 | `asaṃhiraṃ` | POS `adj (or as noun)` — unify to one form (see policy D4) | A8-D4 |
 | 17-07 | 44 | `asaṃhiraṃ` | POS `adj (or as noun)` → `adj` — *same* | B-N107 |
 | 17-08 | 45 | `asaṅkuppaṃ` | POS `adj (or as noun)` — unify to one form (see policy D4) | A8-D4 |
@@ -471,7 +478,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 17-15 | 81 | `vihārim-` | POS `adj (as noun)` — unify to one form (see policy D4) | A8-D4 |
 | 17-16 | 81 | `vihārim-` | POS `adj (as noun)` → `adj` — *same* | B-N109 |
 | 17-17 | 83 | `ahorattam-` | Grammar `nt.acc.sg.` → `nt.acc.sg` | A5.7 |
-| 17-18 | 83 | `ahorattam-` | Grammar ∅ → `adv` | B-P1 |
+| 17-18 | 83 | `ahorattam-` | ⚔ **same cell as A5.7 row above — keep ONE:** **Option A (A5.7)** Grammar `nt.acc.sg.` → `nt.acc.sg`  ·  **Option B (B-P1)** Grammar `nt.acc.sg.` → `adv` (reviewer wrote `adv`; current cell is `nt.acc.sg.`, not empty) | B-P1 |
 | 17-19 | 86 | `ve` | Grammar ∅ → `emph` | B-P3 |
 | 17-20 | 90 | `ti –` | Grammar ∅ → `adv` | B-P1 |
 | 17-21 | 92 | `ācikkhate` | Grammar `reflex.opt.3.sg` → `opt.refl.3.sg` | A5.3 |
@@ -491,7 +498,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 18-07 | 158 | `piyehi` | POS `adj (as noun)` — unify to one form (see policy D4) | A8-D4 |
 | 18-08 | 158 | `piyehi` | POS `adj (as noun)` → `adj` — *same* | B-N110 |
 | 18-09 | 168 | `yam-(p)-icchaṃ` | Grammar `m.acc.sg` → `masc.acc.sg` | A5.6 |
-| 18-10 | 171 | `na` | reviewer: Grammar `neg` → ∅ — **recommended reject** (corpus keeps `ind \| neg`) | **B-X2✗** |
+| 18-10 | 171 | `na` | reviewer: Grammar `neg` → ∅ — **⚑ user decision, not implemented unless you remove the ⚑** (for the word `na` the corpus has 33 rows with empty Grammar vs 7 `neg`) | **B-X2⚑** |
 | 18-11 | 245 | `dukkhaṃ` | ⚔ **C4 — keep ONE:** **Option A (audit)** Part 2: rebuilt row `noun` / `nt.nom.sg` (subject of `idaṃ dukkhaṃ ariyasaccaṃ`)  ·  **Option B (reviewer)** Rebuilt row `noun` / `nt.acc.sg` (reviewer just fixed the `nt.ac.s` typo)  ·  *Row is column-shifted: both options rebuild the same row, only the case differs. Reviewer's meaning/POS fix is identical to A.* | B-C4 |
 | 18-12 | 247 |  | Rebuild row: `\| me \| pron \| 1.dat.sg \| to me, for me \|`  ✔ *Reviewer B proposes the same.* | A2 |
 | 18-13 | 248 | `pubbe` | Grammar `from loc.sg` → `adv`  ✔ *Reviewer B proposes the same.* | A5.11 |
@@ -566,7 +573,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 |---|---|---|---|---|
 | 20-01 | 20 | `sādhukaṃ` | reviewer wrote `ind` into Grammar of this `ind` row — **recommended reject** (duplicate) | **B-X1✗** |
 | 20-02 | 42 | `lokānukampāya` | Grammar `fem.instr.sg` → `fem.ins.sg` | A5.2 |
-| 20-03 | 58 | `seyyathīdaṃ` | POS `ind` → `sandhi` (leave Grammar empty) | B-P7 |
+| 20-03 | 58 | `seyyathīdaṃ` | POS `ind` → `sandhi` (leave Grammar empty; reviewer also wrote `sandhi` in Grammar — not recommended) | B-P7 |
 
 ## 21 — The Seven Factors of Awakening
 
@@ -601,7 +608,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | ID | Line | Word | Suggestion | Source |
 |---|---|---|---|---|
 | 22-01 | 13 | `eva` | reviewer wrote `ind` into Grammar of this `ind` row — **recommended reject** (duplicate) | **B-X1✗** |
-| 22-02 | 17 | `seyyathīdaṃ` | POS `ind` → `sandhi` (leave Grammar empty) | B-P7 |
+| 22-02 | 17 | `seyyathīdaṃ` | POS `ind` → `sandhi` (leave Grammar empty; reviewer also wrote `sandhi` in Grammar — not recommended) | B-P7 |
 | 22-03 | 40 | `kho` | reviewer wrote `ind` into Grammar of this `ind` row — **recommended reject** (duplicate) | **B-X1✗** |
 | 22-04 | 47 |  | Rebuild row: `\| dukkhanirodha- \| noun \| \| cessation of suffering, disappearance of suffering \|` | A3 |
 | 22-05 | 67 |  | Rebuild row: `\| abyāpāda- \| noun \| \| goodwill, kindness, friendliness, benevolence, lit. not ill-will \|` | A3 |
@@ -728,10 +735,10 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 27-03 | 68 |  | `for a monks` → `for a monk` | A6 |
 | 27-04 | 80 |  | Rebuild row: `\| antamaso \| ind \| \| even so much as, even with, even down to, with as little as \|`  ✔ *Reviewer B proposes the same.* | A3 |
 | 27-05 | 82 |  | Rebuild row: `\| pariyāpanna- \| adj \| \| gone completely into, included in, belonging to, got into \|` (also drop the stray `”`)  ✔ *Reviewer B proposes the same.* | A3 |
-| 27-06 | 89 |  | Rebuild row: `\| appaṭivibhatta- \| adj \| \| not dividing for oneself, without reservations, not without sharing with others \|` (also fixes typo "onself")  ✔ *Reviewer B proposes the same.* | A3 |
+| 27-06 | 89 |  | Rebuild row: `\| appaṭivibhatta- \| adj \| \| not dividing for oneself, without reservations, not without sharing with others \|` (also fixes typo "onself")  ✔ *Reviewer B proposes the same row, but keeps the gloss "not for oneself dividing".* | A3 |
 | 27-07 | 111 |  | Rebuild row: `\| samādhi- \| noun \| \| perfect peace of mind, stability of mind, stillness of mind \|`  ✔ *Reviewer B proposes the same.* | A3 |
 | 27-08 | 119 |  | POS `idioṃ` → `idiom` | A1 |
-| 27-09 | 138 |  | Rebuild row: `\| diṭṭhi- \| noun \| \| view, belief, opinion, concept, theory, attitude \|` (drop duplicated "opinion")  ✔ *Reviewer B proposes the same.* | A3 |
+| 27-09 | 138 |  | Rebuild row: `\| diṭṭhi- \| noun \| \| view, belief, opinion, concept, theory, attitude \|` (drop duplicated "opinion")  ✔ *Reviewer B proposes the same row but keeps the duplicated "opinion".* | A3 |
 | 27-10 | 142 |  | POS `idioṃ` → `idiom` | A1 |
 | 27-11 | 157 | `cha` | `Grammar pl` → `x.nom.pl` — match corpus numeral convention | A4 |
 | 27-12 | 170 | `no` | Gr `interr` → ∅ — *DPD: `no` is plain ind* | B-N81 |
@@ -1117,7 +1124,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 |---|---|---|---|---|
 | 49-01 | 3 |  | **D2** Title `Devā-ārādhanāi` carries a stray trailing `i` (standard: `Devā-ārādhanā`). Recommend: fix the visible title only, keep the filename (renaming would need nav links in per-48/per-50, index and feedback URL). | A8-D2 |
 | 49-02 | 27 | `ca` | Grammar ∅ → `conj` | B-P2 |
-| 49-03 | 32 | `c'antalikkhe` | POS `ind` → `sandhi` (leave Grammar empty) | B-P7 |
+| 49-03 | 32 | `c'antalikkhe` | POS `ind` → `sandhi` (leave Grammar empty; reviewer also wrote `conj + loc` in Grammar) | B-P7 |
 | 49-04 | 36 | `ca` | Grammar ∅ → `conj` | B-P2 |
 | 49-05 | 61 | `santike` | Grammar ∅ → `adv` | B-P1 |
 | 49-06 | 66 |  | **D6** `sādhavo` tagged ind — looks like masc.nom.pl of `sādhu` ("good sirs"); verify against chant context. | A8-D6 |
@@ -1234,7 +1241,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 53-48 | 254 | `ca` | Grammar ∅ → `conj` | B-P2 |
 | 53-49 | 257 |  | Rebuild row: `\| nibbāna- \| noun \| \| going out (of a lamp), extinguishment (of a fire), quenching, peace \|` | A3 |
 | 53-50 | 259 | `ca` | Grammar ∅ → `conj` | B-P2 |
-| 53-51 | 273 | `na` | reviewer: Grammar `neg` → ∅ — **recommended reject** (corpus keeps `ind \| neg`) | **B-X2✗** |
+| 53-51 | 273 | `na` | reviewer: Grammar `neg` → ∅ — **⚑ user decision, not implemented unless you remove the ⚑** (for the word `na` the corpus has 33 rows with empty Grammar vs 7 `neg`) | **B-X2⚑** |
 | 53-52 | 287 |  | **D5** Pāḷi chant line is bolded like a translation → unbold (policy D5; per-39's deva-refrain block is systematic — decide once) | A8-D5 |
 | 53-53 | 295 | `sabbattha'm-` | Grammar ∅ → `adv` | B-P1 |
 | 53-54 | 297 | `sabbattha` | Grammar ∅ → `adv` | B-P1 |
@@ -1256,13 +1263,13 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 54-07 | 68 | `tasmā` | Grammar ∅ → `adv` | B-P1 |
 | 54-08 | 69 | `hi` | Grammar ∅ → `emph` | B-P3 |
 | 54-09 | 74 |  | translation `protect theṃ` → `protect them` | A1 |
-| 54-10 | 91 | `na` | reviewer: Grammar `neg` → ∅ — **recommended reject** (corpus keeps `ind \| neg`) | **B-X2✗** |
+| 54-10 | 91 | `na` | reviewer: Grammar `neg` → ∅ — **⚑ user decision, not implemented unless you remove the ⚑** (for the word `na` the corpus has 33 rows with empty Grammar vs 7 `neg`) | **B-X2⚑** |
 | 54-11 | 110 |  | Rebuild row: `\| suvatthi \| noun \| fem.nom.sg \| safety, well-being, blessing; su+[v]+√as+ti \|` (grammar cell held the gloss; root note kept at end) | A3 |
 | 54-12 | 126 | `ajjhagā` | `imperf.3.sg` → `aor.3.sg` — same form | A4 |
 | 54-13 | 128 |  | gloss `firṃ attentive` → `firm, attentive` | A1 |
-| 54-14 | 129 | `na` | reviewer: Grammar `neg` → ∅ — **recommended reject** (corpus keeps `ind \| neg`) | **B-X2✗** |
+| 54-14 | 129 | `na` | reviewer: Grammar `neg` → ∅ — **⚑ user decision, not implemented unless you remove the ⚑** (for the word `na` the corpus has 33 rows with empty Grammar vs 7 `neg`) | **B-X2⚑** |
 | 54-15 | 144 |  | **D5** Pāḷi chant line is bolded like a translation → unbold (policy D5; per-39's deva-refrain block is systematic — decide once) | A8-D5 |
-| 54-16 | 160 | `na` | reviewer: Grammar `neg` → ∅ — **recommended reject** (corpus keeps `ind \| neg`) | **B-X2✗** |
+| 54-16 | 160 | `na` | reviewer: Grammar `neg` → ∅ — **⚑ user decision, not implemented unless you remove the ⚑** (for the word `na` the corpus has 33 rows with empty Grammar vs 7 `neg`) | **B-X2⚑** |
 | 54-17 | 202 | `nikkāmino` | `masc.ins.sg` → `masc.nom.pl` — nom. pl. agreeing with `ye … nikkāmino`; gloss stays | A4 |
 | 54-18 | 203 |  | Rebuild row: `\| gotama- \| adj \| \| family name of the Buddha; lit. of the Gotama clan \|` | A3 |
 | 54-19 | 206 | `patti-` | Grammar `fem` → ∅ (reviewer blanks bare gender on compound member; audit 5.7 keeps it) — policy 11.3 | B-11.3 |
@@ -1271,7 +1278,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 54-22 | 232 | `tathā-` | Grammar ∅ → `adv` | B-P1 |
 | 54-23 | 238 | `avecca` | Grammar ∅ → `adv` | B-P1 |
 | 54-24 | 256 | `kiñcāpi` | POS `ind` → `sandhi` (leave Grammar empty) | B-P7 |
-| 54-25 | 261 | `na` | reviewer: Grammar `neg` → ∅ — **recommended reject** (corpus keeps `ind \| neg`) | **B-X2✗** |
+| 54-25 | 261 | `na` | reviewer: Grammar `neg` → ∅ — **⚑ user decision, not implemented unless you remove the ⚑** (for the word `na` the corpus has 33 rows with empty Grammar vs 7 `neg`) | **B-X2⚑** |
 | 54-26 | 276 | `saha-` | Grammar ∅ → `prep` | B-P5 |
 | 54-27 | 277 | `eva` | Grammar ∅ → `emph` | B-P3 |
 | 54-28 | 306 | `ca-` | Grammar ∅ → `conj` | B-P2 |
@@ -1285,7 +1292,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 
 ## 55 — Karaṇīya-Metta-Sutta
 
-`per-55-karaniya-metta-sutta.md` — 31 suggestion(s)
+`per-55-karaniya-metta-sutta.md` — 33 suggestion(s)
 
 | ID | Line | Word | Suggestion | Source |
 |---|---|---|---|---|
@@ -1297,29 +1304,31 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 55-06 | 55 | `ca` | Grammar ∅ → `conj` | B-P2 |
 | 55-07 | 63 | `ca` | Grammar ∅ → `conj` | B-P2 |
 | 55-08 | 65 | `ca,` | Grammar ∅ → `conj` | B-P2 |
-| 55-09 | 79 | `na` | reviewer: Grammar `neg` → ∅ — **recommended reject** (corpus keeps `ind \| neg`) | **B-X2✗** |
+| 55-09 | 79 | `na` | reviewer: Grammar `neg` → ∅ — **⚑ user decision, not implemented unless you remove the ⚑** (for the word `na` the corpus has 33 rows with empty Grammar vs 7 `neg`) | **B-X2⚑** |
 | 55-10 | 80 | `ca` | Grammar ∅ → `conj` | B-P2 |
 | 55-11 | 125 | `atthi` | `pr.3.pl` → `pr.3.sg` — atthi is singular (used distributively: "there are") | A4 |
 | 55-12 | 174 |  | `whoever , that which` → `whoever, that which` | A6 |
 | 55-13 | 176 | `dūre` | Grammar ∅ → `adv` | B-P1 |
 | 55-14 | 178 | `avidūre` | Grammar ∅ → `adv` | B-P1 |
-| 55-15 | 214 | `katthaci` | POS `adv` → `ind`; Grammar `` → `adv` | A5.10 |
-| 55-16 | 215 |  | gloss `that, hiṃ` → `that, him` | A1 |
-| 55-17 | 226 |  | `(throught)` → `(through)` | A6 |
-| 55-18 | 232 |  | gloss `…unease, probleṃ` → `…unease, problem` (row also merged in Part 3) | A1 |
-| 55-19 | 235 |  | `one to anothershould not wish` → `one to another should not wish` | A6 |
-| 55-20 | 257 | `evam-` | Grammar ∅ → `adv` | B-P1 |
-| 55-21 | 260 | `bhūtesu` | `masc.loc.sg` → `masc.loc.pl` — `-esu` plural | A4 |
-| 55-22 | 280 | `ca` | Grammar ∅ → `conj` | B-P2 |
-| 55-23 | 284 |  | **D5** Pāḷi chant line is bolded like a translation → unbold (policy D5; per-39's deva-refrain block is systematic — decide once) | A8-D5 |
-| 55-24 | 292 | `ca` | Grammar ∅ → `conj` | B-P2 |
-| 55-25 | 319 | `yāvatā-` | Grammar ∅ → `adv` | B-P1 |
-| 55-26 | 320 |  | gloss `to hiṃ` → `to him` | A1 |
-| 55-27 | 339 | `āhu` | `pref.p.3.pl` → `perf.3.pl` — typo `pref.p` | A4 |
-| 55-28 | 351 | `ca` | Grammar ∅ → `conj` | B-P2 |
-| 55-29 | 370 | `hi` | Grammar ∅ → `emph` | B-P3 |
-| 55-30 | 371 | `jātu` | Grammar ∅ → `emph` | B-P3 |
-| 55-31 | 374 | `puna-` | Grammar ∅ → `adv` | B-P1 |
+| 55-15 | 207 | `nikubbetha` | Grammar `opt.3.sg refl` → `opt.refl.3.sg` (reviewer did not touch this row; B-11.2 does not apply) | A5.3 |
+| 55-16 | 213 | `na-atimaññetha` | Grammar `opt.3.sg refl` → `opt.refl.3.sg` (reviewer did not touch this row; B-11.2 does not apply) | A5.3 |
+| 55-17 | 214 | `katthaci` | POS `adv` → `ind`; Grammar `` → `adv` | A5.10 |
+| 55-18 | 215 |  | gloss `that, hiṃ` → `that, him` | A1 |
+| 55-19 | 226 |  | `(throught)` → `(through)` | A6 |
+| 55-20 | 232 |  | gloss `…unease, probleṃ` → `…unease, problem` (row also merged in Part 3) | A1 |
+| 55-21 | 235 |  | `one to anothershould not wish` → `one to another should not wish` | A6 |
+| 55-22 | 257 | `evam-` | Grammar ∅ → `adv` | B-P1 |
+| 55-23 | 260 | `bhūtesu` | `masc.loc.sg` → `masc.loc.pl` — `-esu` plural | A4 |
+| 55-24 | 280 | `ca` | Grammar ∅ → `conj` | B-P2 |
+| 55-25 | 284 |  | **D5** Pāḷi chant line is bolded like a translation → unbold (policy D5; per-39's deva-refrain block is systematic — decide once) | A8-D5 |
+| 55-26 | 292 | `ca` | Grammar ∅ → `conj` | B-P2 |
+| 55-27 | 319 | `yāvatā-` | Grammar ∅ → `adv` | B-P1 |
+| 55-28 | 320 |  | gloss `to hiṃ` → `to him` | A1 |
+| 55-29 | 339 | `āhu` | `pref.p.3.pl` → `perf.3.pl` — typo `pref.p` | A4 |
+| 55-30 | 351 | `ca` | Grammar ∅ → `conj` | B-P2 |
+| 55-31 | 370 | `hi` | Grammar ∅ → `emph` | B-P3 |
+| 55-32 | 371 | `jātu` | Grammar ∅ → `emph` | B-P3 |
+| 55-33 | 374 | `puna-` | Grammar ∅ → `adv` | B-P1 |
 
 ## 56 — Khandha-Parittaṃ
 
@@ -1341,7 +1350,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 57-01 | 14 | `sammā-` | Grammar ∅ → `adv` | B-P1 |
 | 57-02 | 43 | `paccattaṃ` | POS `adv` → `ind`; Grammar `ind` → `adv`  ✔ *Reviewer B proposes the same.* | A5.10 |
 | 57-03 | 60 | `yadidaṃ` | POS `adv` → `ind`; Grammar `ind` → `adv` | A5.10 |
-| 57-04 | 60 | `yadidaṃ` | POS `ind` → `sandhi` (leave Grammar empty) | B-P7 |
+| 57-04 | 60 | `yadidaṃ` | ⚔ **same cells as the A5.10 row above — keep ONE:** **Option A (A5.10)** POS `adv` → `ind`, Grammar `ind` → `adv`  ·  **Option B (B-P7)** POS `adv` → `sandhi`, Grammar `ind` → ∅ (reviewer himself wrote `sandhi` in both POS and Grammar; I recommend Grammar empty)  ·  *Do not apply both.* | B-P7 |
 | 57-05 | 61 | `cattāri` | `masc.nom.pl` → `nt.nom.pl` — same passage | A4 |
 
 ## 58 — Yaṅ Kiñci Ratanaṃ Loke
@@ -1460,7 +1469,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 
 ## 66 — Vipassanā-Bhūmi-Pāṭho
 
-`per-66-vipassana-bhumi-patho.md` — 8 suggestion(s)
+`per-66-vipassana-bhumi-patho.md` — 9 suggestion(s)
 
 | ID | Line | Word | Suggestion | Source |
 |---|---|---|---|---|
@@ -1472,6 +1481,7 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | 66-06 | 110 | `\>paccayā` | Grammar `masc` → ∅ (reviewer blanks bare gender on compound member; audit 5.7 keeps it) — policy 11.3 | B-11.3 |
 | 66-07 | 145 |  | `becoming arise` → `becoming arises`; `birth arise` → `birth arises` *(same fix at: per-24:49, per-66:145)* | A6 |
 | 66-08 | 166 | `tv'eva` | POS `ind` → `sandhi` (leave Grammar empty) | B-P7 |
+| 66-09 | 167 | `asesa-virāga-nirodhā` | POS `m.abl.s` → `noun`; Grammar ∅ → `masc.abl.sg` (tag sits in POS column; `noun` is my inference — confirm) | A5.6 |
 
 ## 67 — Paṭṭhāna-Mātikā-Pāṭho
 
@@ -1696,4 +1706,4 @@ Note: P-tagged rows of the **BP** policies are written in the tables with source
 | pubbakicca-71 | 528 | `\#bhikkhu` | Grammar `masc.` → `masc` | A5.7 |
 | pubbakicca-72 | 530 | `anumatiyā` | Grammar `fem.instr.sg` → `fem.ins.sg` | A5.2 |
 | pubbakicca-73 | 534 | `karomi` | Grammar `pr.1st.sg` → `pr.1.sg` | A5.1 |
-| pubbakicca-74 | 538 |  | **D7** No footer nav (no `[index]` link) and not referenced from `docs/6-pali-class/sbs-per-analysis.md` (post-patimokkha.md is, at index line 114). Recommend: add a footer index link and an index entry. | A8-D7 |
+| pubbakicca-74 | 537 |  | **D7** No footer nav (no `[index]` link) and not referenced from `docs/6-pali-class/sbs-per-analysis.md` (post-patimokkha.md is, at index line 114). Recommend: add a footer index link and an index entry. | A8-D7 |
