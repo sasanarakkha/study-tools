@@ -20,7 +20,7 @@
 | upassutiṃ | ind | adv, fem acc sg of upassuti | | eavesdropping | listening near | √su (hear) | | upa + √su + ti | | |
 | tiṭṭheyya | verb | opt 3rd sg of tiṭṭhati | | he would stand | | √ṭhā (stand) | √ṭhā + ṭhā > tiṭṭha | tiṭṭha + ti | | |
 
-## yaṃ ime bhaṇissanti, taṃ sossāmī’ti etad'eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+## yaṃ ime bhaṇissanti, taṃ sossāmī’ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------ | :------ | :------------------------- | :------- | :---------------------------------------------------------- | :-------------- | :-------------------- | :----------------------- | :------------------ | :---------------- | :------------------------ |

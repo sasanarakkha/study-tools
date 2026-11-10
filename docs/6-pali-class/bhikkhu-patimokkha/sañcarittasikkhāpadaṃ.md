@@ -24,7 +24,7 @@
 ## jāyattane vā jārattane vā, antamaso taṃ'khaṇikāya'pi, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------ | :-------------------------------------------------------------------- | :------------------------ | :------- | :----------------------- | :------------------ | :------------------------ |
+| :----------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------------------ | :------- | :----------------------- | :------------------ | :------------------------ |
 | jāyattane | noun | nt loc sg of jāyattana | | for being a wife, about marriage | in wifehood | √jan (be born, produce) | | √jan > jā + yā + ttana | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | jārattane | noun | nt loc sg of jārattana | | for being a mistress | in lover state | | | jāra + ttana | | |
@@ -34,7 +34,7 @@
 | - taṃ | pron | masc acc sg of ta | | that | | | | | | |
 | - khaṇikāya | noun | fem loc sg of khaṇikā | | in related to moment; temporary | | | | khaṇa + ikā | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | for being a wife or for being a mistress, even for being a momentary sexual partner, is a saṅghādisesa (offence) | | | | | | | | | | |
 
 

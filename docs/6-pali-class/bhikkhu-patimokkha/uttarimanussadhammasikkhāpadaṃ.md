@@ -55,7 +55,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------------------------------------------- | :------ | :-------------------------------------- | :------- | :----------------------------------- | :------------------ | :------------------- | :----------------- | :---------------- | :---------------- | :------------------------ |
-| ajānamevāhaṃ | comp | sandhi, prp + ind | | not knowing thus | | | | ajānaṃ + evaṃ | | |
+| ajānamevāhaṃ | comp | sandhi, prp + ind | | not knowing thus I | | | | ajānaṃ + evaṃ | | |
 | - ajānaṃ | prp | masc nom sg of ajānanta, from ājānāti | | not knowing, not understanding | | √ñā (know) | √ñā + nā > jānā | na + jānā + nta | | |
 | - evaṃ | ind | adv | | thus, like this, as | | | | | | |
 | - ahaṃ | pron | 1st nom sg | | I | | | | | | |

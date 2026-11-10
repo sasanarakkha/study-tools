@@ -4,7 +4,7 @@
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------------- | :---------------- | :------- | :--------------------- | :--------------------- | :------------------------ |
-| pattasaññī | adj | masc nom sg of pattasaññī, comp | | attentive to the bowl; aware of the bowl | perceiving the bowl | | | patta + saññī | accusative tappurisa | pattaṃ + saññī |
+| pattasaññī | adj | masc nom sg of pattasaññī, comp | | attentive to the bowl; percipient of the bowl | perceiving the bowl | | | patta + saññī | accusative tappurisa | pattaṃ + saññī |
 | - patta 2 | noun | masc | | bowl | | √pā (drink) | | √pā + ta | | |
 | - saññī | adj | mac nom sg of saññī | | aware of, perceiving, attentive to | | √ñā (know) | | saṃ + √ñā + ī | | |
 | piṇḍapātaṃ | noun | masc acc sg of piṇḍapāta, comp | | alms food | lump dropping | | | piṇḍa + pāta | accusative tappurisa | piṇḍaṃ + pāta |

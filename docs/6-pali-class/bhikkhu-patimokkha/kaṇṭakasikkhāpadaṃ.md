@@ -7,7 +7,7 @@
 | samaṇuddesopi | comp | sandhi, masc + ind | | even (if) a novice | | | | samaṇuddeso + api | | |
 | - samaṇuddeso | noun | masc nom sg of samaṇuddesa | | novice | designated ascetic | | | samaṇa + uddesa | | |
 | - samaṇa | noun | masc | | ascetic; renunciant; monk | | √sam (exert, strive) | | √sam + aṇa | | |
-| - uddeso | noun | masc nom sg of uddesa, from uddisati | | destined for; on the way to be a | pointed up | √dis (point out, explain) | | ud + √dis + *a | | |
+| - uddeso 2 | noun | masc nom sg of uddesa, from uddisati | | destined for; on the way to be a | pointed up | √dis (point out, explain) | | ud + √dis + *a | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
 | ce | ind | cond | | if | | | | | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |

@@ -3,14 +3,14 @@
 ## ime kho pan'āyasmanto terasa saṅghādisesā dhammā uddesaṃ āgacchanti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :-------------------------- | :--------------------------- | :------------------ | :------------------------ |
+| :---------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :-------------------------- | :--------------------------- | :------------------ | :------------------------ |
 | ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
 | terasa | card | x nom pl, comp | | thirteen | | | | ti > te + dasa > rasa + *a | dvanda | ti ca dasa ca |
 | - te | card | in comps, from ti | | three | | | | ti > te | | |
 | - rasa | card | in comps, from dasa | | ten | | | | dasa > rasa | | |
-| saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring suspension | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring communal rehabilitation; related to an offence entailing demotion | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | - saṅgha | noun | masc | | community, assembly, group | joined together | √ghaṭ (join together) | | saṃ + √ghaṭ + a | | |
 | - ādi | noun | masc | | beginning, starting with | | | | | | |
 | - sesa | noun | nt | | the remainder, the rest | leftover | √sis (remain) | | √sis + *a | | |
@@ -28,12 +28,12 @@
 ## uddiṭṭhā kho āyasmanto terasa saṅghādisesā dhammā nava paṭham'āpattikā, cattāro yāvatatiyakā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :----------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :------- | :--------------------------- | :------------------------ | :------------------------ |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :------- | :--------------------------- | :------------------------ | :------------------------ |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | āyasmanto | noun | masc voc pl of āyasmant | | venerables | having long life | | | āyas + mant | | |
 | terasa | card | x nom pl, comp | | thirteen | | | | ti > te + dasa > rasa + *a | dvanda | ti ca dasa ca |
-| saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring suspension | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring communal rehabilitation; related to an offence entailing demotion | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | nava | card | x nom pl | | nine | | | | | | |
 | paṭhamāpattikā | adj | masc nom pl of paṭhamāpattika, comp | | established on the first offence; which is an immediate offence | related to the first offence | | | paṭhama + āpatti + ka | kammadhāraya > bahubīhi | paṭhama + āpattika |

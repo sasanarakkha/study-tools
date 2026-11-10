@@ -19,7 +19,7 @@
 ## yathā taṃ yuvā yuvatiṃ methun'ūpasaṃhitāhi, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------------------------------------- | :-------------------------------------------------------------------- | :---------------------- | :------- | :------------------------ | :----------------------- | :------------------------ |
+| :---------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :---------------------- | :------- | :------------------------ | :----------------------- | :------------------------ |
 | yathā | ind | adv | | like, as | | | | ya + thā | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | yuvā | noun | masc nom sg of yuva | | young man, youngster, youth | | | | | | |
@@ -27,7 +27,7 @@
 | methunūpasaṃhitāhi | adj | fem instr pl of methunūpasaṃhita, comp | | with related to sexual intercourse, concerned with sexual activity | | | | methuna + upasaṃhita | instrumental tappurisa | methunena + upasaṃhita |
 | - methuna | noun | nt | | sexual intercourse, sex | related to couples | √mith (pair) | | √mith > meth + una + *a | | |
 | - upasaṃhitāhi | pp | fem instr pl of upasaṃhita, pp of upasaṃdahati | | with connected with, related to | placed together near | √dhā (place, support) | | upa + saṃ + √dhā + ita | | |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | like that of a young man to a young woman, concerned with sexual intercourse, is a saṅghādisesa (offence) | | | | | | | | | | |
 
 

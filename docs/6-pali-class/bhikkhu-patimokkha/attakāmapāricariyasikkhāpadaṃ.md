@@ -35,7 +35,7 @@
 ## yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyā'ti methun'upasaṃhitena, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :------------------------------------------------------------------- | :-------------------------------------------------------------------- | :----------------------- | :---------------- | :--------------------- | :------------------------------ | :------------------------ |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :----------------------- | :---------------- | :--------------------- | :------------------------------ | :------------------------ |
 | yā | pron | fem nom sg of ya | | whoever, she, she who | | | | | | |
 | mādisaṃ | adj | masc acc sg of mādisa, comp | | like me, resembling me | | | | maṃ > mā + disa + *a | unelided accusative tappurisa | maṃ + disa |
 | - maṃ | pron | 1st acc sg of ahaṃ | | me | | | | maṃ > mā | | |
@@ -53,7 +53,7 @@
 | - paricareyya | verb | opt 3rd sg of paricarati | | she should serve, administer | walking around | √car (walk, behave) | √car + a > cara | pari + cara + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 | methunūpasaṃhitena | adj | masc instr sg of methunūpasaṃhita, comp | | with related to sexual intercourse, concerned with sexual activity | | | | methuna + upasaṃhita | instrumental tappurisa | methunena + upasaṃhita |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | she who would serve a virtuous, good natured celibate person like me with this act,” concerned with sexual intercourse, is a saṅghādisesa (offence) | | | | | | | | | | |
 
 

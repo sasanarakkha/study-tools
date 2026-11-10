@@ -24,7 +24,7 @@
 | :------------------------------------------------------------------------------------------- | :------ | :------------------------- | :------- | :-------------------------------- | :--------------------------- | :-------------------------- | :----------------------------------- | :------------------------- | :---------------- | :------------------------ |
 | tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
-| vatthu | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! | #REF! |
+| vatthu | noun | nt nom sg | | plot, site, location | | √vas (live) | | √vas + tu | | |
 | desetabbaṃ | ptp | nt nom sg of desetabba | | should be appointed, designated | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese | dese + tabba | | |
 | anārambhaṃ | adj | nt nom sg | | not harmful, not injurious | without violence | √rabh (be violent) | √rabh + a > rabha > rambha (irreg) | na > an + ā + rambha + a | | |
 | saparikkamanaṃ | adj | nt nom sg | | accessible, approachable | with walking around | √kam (go) | | sa + pari + √kam + ana | | |
@@ -33,7 +33,7 @@
 ## sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :----------------------------------------------- | :-------------------------------------------------------------------- | :------------------- | :----------------------------------- | :----------------------- | :------------------- | :------------------------ |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------------- | :----------------------------------- | :----------------------- | :------------------- | :------------------------ |
 | sārambhe | adj | nt loc sg of sārambha, comp | | on harmful, injurious | in with harm | √rabh (be violent) | √rabh + a > rabha > rambha (irreg) | saṃ > sā + rambha + a | | |
 | ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -46,7 +46,7 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | anabhineyya | verb | opt 3rd sg of abhineti, neg | +acc | he would not bring; not invite | | √nī (lead) | √nī + a > ne | abhi + ne + ti | | |
 | vatthudesanāya | noun | fem dat sg, comp | | for designating the site; appointing the place | | | | vatthu + desanā | genitive tappurisa | vatthuno + desanā |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | If a monk on a harmful site, without surrounding space, would have a large dwelling built, or (if) he would not bring monks for appointing the site, it is a saṅghādisesa (offence). | | | | | | | | | | |
 
 

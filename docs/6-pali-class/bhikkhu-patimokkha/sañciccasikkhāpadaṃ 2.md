@@ -22,7 +22,7 @@
 | - bhavissati | verb | fut 3rd sg of bhavati | | it will be | | √bhū (be) | √bhū + a > bhava | bhava + issa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 
-## etad'eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+## etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :----------- | :------ | :----------------------- | :------- | :---------------------------------------------------------- | :-------------- | :---------------- | :------- | :--------------- | :---------------- | :------------------------ |

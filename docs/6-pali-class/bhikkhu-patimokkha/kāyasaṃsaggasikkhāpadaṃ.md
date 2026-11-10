@@ -23,7 +23,7 @@
 ## hatthagāhaṃ vā veṇigāhaṃ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṃ, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :----------------------------------- | :-------------------------------------------------------------------- | :------------------- | :------- | :-------------------- | :------------------- | :------------------------ |
+| :------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------------- | :------- | :-------------------- | :------------------- | :------------------------ |
 | hatthagāhaṃ | noun | masc acc sg of hatthagāha, comp | | grabbing the hand, holding hands | | | | hattha + gāha | genitive tappurisa | hatthassa + gāha |
 | - hattha | noun | masc | | hand | | | | | | |
 | - gāhaṃ | adj | masc acc sg of gāha | | grabbing, grasping, holding | | √gah (grasp) | | √gah + *a | | |
@@ -38,7 +38,7 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | aṅgassa | noun | nt gen sg of aṅga | | of a limb, part of the body | distinguished | √añc (distinguish) | | √añc > aṅg + a | | |
 | parāmasanaṃ | noun | nt acc sg of parāmasana, from parāmasati | +gen | stroking, touching, rubbing | rubbing over | √mas (touch, rub) | | parā + √mas + ana | | |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | either holding of a hand, or holding a braid, or stroking any of the limb is a saṅghādisesa (offence) | | | | | | | | | | |
 
 

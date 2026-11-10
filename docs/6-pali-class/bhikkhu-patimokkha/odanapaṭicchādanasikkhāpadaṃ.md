@@ -15,7 +15,7 @@
 | - bhiyyo | ind | ind, adv | | more (than) | | | | | | |
 | - kamyataṃ | noun | fem acc sg of kamyatā | | wish, desire | | √kam (desire) | | √kam + ya + tā | | |
 | upādāyāti | comp | sandhi, ger + ind | | | | | | upādāya + iti | | |
-| - upādāya | ind | ger of upādiyati | | on account (of); because (of) | taking near | √ādā (take, steal) | | upa + √ādā + ya | | |
+| - upādāya | ind | ger of upādiyati | +acc | on account (of); because (of) | taking near | √ādā (take, steal) | | upa + √ādā + ya | | |
 | - iti | ind | | | “” | thus | | | | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |

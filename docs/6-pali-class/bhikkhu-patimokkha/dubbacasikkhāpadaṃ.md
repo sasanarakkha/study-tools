@@ -3,7 +3,7 @@
 ## bhikkhu pan'eva dubbacajātiko hoti uddesapariyāpannesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :---------------------------------------------------------------------------- | :----------------------------------- | :-------------------------- | :------------------------- | :--------------------- | :------------------- | :------------------------ |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :----------------------------------------------------------------- | :----------------------------------- | :-------------------------- | :------------------------- | :--------------------- | :------------------- | :------------------------ |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paneva | comp | sandhi, ind + ind | | and just, and now | | | | pana + eva | | |
 | - pana | ind | | | then, now, so, but | | | | | | |
@@ -12,8 +12,8 @@
 | - dubbaca | adj | from vacati | | obstinate, stubborn | hard to talk to | √vac (speak) | | dur + √vac + a | | |
 | - jātiko | adj | masc nom sg of jātika | | of the type, of the nature | of birth | √jan (be born, produce) | | √jan > jā + ti + ka | | |
 | hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
-| uddesapariyāpannesu | adj | nt loc pl of uddesapariyāpanna, comp | | included in the Pātimokkha recitation, contained in the Pātimokkha chanting | | | | uddesa + pariyāpanna | locative tappurisa | uddese + pariyāpanna |
-| - uddesa | noun | masc, from uddisati | | Pātimokkha recitation, Pātimokkha chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
+| uddesapariyāpannesu | adj | nt loc pl of uddesapariyāpanna, comp | | included in the Pātimokkha recitation, contained in the chanting | | | | uddesa + pariyāpanna | locative tappurisa | uddese + pariyāpanna |
+| - uddesa | noun | masc, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | - pariyāpannesu | adj | nt loc pl of pariyāpanna, pp of pariyāpajjati | | included in, part of, contained in | | √pad (go, step) | | pari + ā + √pad + na | | |
 | sikkhāpadesu | noun | nt loc pl of sikkhāpada, comp | | in training rules | in training path | | | sikkhā + pada | kammadhāraya | sikkhā + pada |
 | - sikkhā | noun | fem, from sikkhati | | training (in sīla) | | √sikkh (train) | | √sikkh + ā | | |
@@ -154,7 +154,7 @@
 ## yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------- | :------- | :-------------------------------------------------- | :-------------------------------------------------------------------- | :----------------------------- | :----------------------------- | :--------------------------- | :------------------ | :------------------------ |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :----------------------------- | :----------------------------- | :--------------------------- | :------------------ | :------------------------ |
 | yāvatatiyañce | comp | sandhi, adv + ind | | if up to the third time | | | | yāvatatiyaṃ + ce | | |
 | samanubhāsiyamāno | prp | masc nom sg of samanubhāsiyamāna, prp of samanubhāsiyati | +instr | being admonished (by), being sternly advised (by) | | √bhās (shine, speak) | √bhās + iya > bhāsiya (pass) | saṃ + anu + bhāsiya + māna | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
@@ -164,7 +164,7 @@
 | no | ind | neg | | not | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | (if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence). | | | | | | | | | | |
 
 

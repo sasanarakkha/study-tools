@@ -14,7 +14,7 @@
 | assāmikaṃ | adj | fem acc sg of assāmika, from sāmī | | without a benefactor | no owner | | | na + sāmī + ka | | |
 | attuddesaṃ | adj | fem acc sg of attuddesa, comp | | designated for oneself | | | | atta + uddesa | dative tappurisa | attano + uddesa |
 | - atta | noun | masc | | self, oneself | | | | | | |
-| - uddesaṃ | noun | masc acc sg of uddesa, from uddisati | | designation, appointing | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
+| - uddesaṃ | adj | masc acc sg of uddesa, from uddisati | | intended for; designated for | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | pamāṇikā | adj | fem nom sg | | according to the measurement, with the right measurement | with measure | √mā (measure) | | pa + √mā + aṇa + ikā | | |
 | kāretabbā | ptp | fem nom sg of kāretabba | | should be built | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
 | Through one's own begging, by a monk who is having a hut built, without an owner, designated for himself, (it) is to be built according to the measurement. | | | | | | | | | | |
@@ -80,7 +80,7 @@
 ## bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------- | :------- | :----------------------------------------------- | :-------------------------------------------------------------------- | :-------------- | :---------------- | :-------------------- | :------------------- | :------------------------ |
+| :----------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :-------------- | :---------------- | :-------------------- | :------------------- | :------------------------ |
 | bhikkhū 2 | noun | masc acc pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | anabhineyya | verb | opt 3rd sg of abhineti, neg | +acc | he would not bring; not invite | | √nī (lead) | √nī + a > ne | abhi + ne + ti | | |
@@ -88,7 +88,7 @@
 | pamāṇaṃ | noun | nt nom sg of pamāṇa, from pamiṇāti | | measurement, size | | √mā (measure) | | pa + √mā + aṇa | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | atikkāmeyya | verb | opt 3rd sg of atikkāmeti | | he would exceed, go beyond | cause to go too far | √kam (go) | √kam + e > kāme | ati + kāme + ti | | |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | or (if) he would not bring monks for appointing the site, or (if) he would exceed the measurement, it is a saṅghādisesa (offence). | | | | | | | | | | |
 
 

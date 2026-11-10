@@ -58,12 +58,12 @@
 ## bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------- | :-------------------------------------------------------------------- | :------------------------- | :------- | :-------------------- | :------------------ | :------------------------ |
+| :----------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------------------- | :------- | :-------------------- | :------------------ | :------------------------ |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | ca 2 | ind | conj | | and if | | | | | | |
 | dosaṃ | noun | masc acc sg of dosa | | fault, mistake, corruption | | √dus (be angry, corrupt) | | √dus + *a | | |
 | patiṭṭhāti | verb | pr 3rd sg | | he admits, confesses, confirms | stands back | √ṭhā (stand) | | pati + √ṭhā + ti | | |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | and if the monk confirms the fault (or malice), is a saṅghādisesa (offence). | | | | | | | | | | |
 
 

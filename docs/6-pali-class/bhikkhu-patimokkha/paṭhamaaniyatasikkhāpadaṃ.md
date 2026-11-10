@@ -24,7 +24,7 @@
 ## tam'enaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya pārājikena vā saṅghādisesena vā pācittiyena vā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :----------------------------------------------------------- | :---------------------------------------------------------------------------------- | :---------------------- | :---------------- | :------------------------- | :------------------ | :------------------------ |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- | :---------------------- | :---------------- | :------------------------- | :------------------ | :------------------------ |
 | tamenaṃ | comp | sandhi, pron + pron | | that one; that thing | that this | | | taṃ + enaṃ | kammadhāraya | taṃ + enaṃ |
 | - taṃ | pron | fem acc sg of ta | | that | | | | | | |
 | - enaṃ | pron | masc acc sg of eta | | this | | | | | | |
@@ -39,7 +39,7 @@
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
 | pārājikena | adj | masc instr sg of pārājika | | with (a matter) related to defeat | | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| saṅghādisesena | adj | masc instr sg of saṅghādisesa, comp | | with (a matter) related to an offence requiring suspension | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādisesena | adj | masc instr sg of saṅghādisesa, comp | | with (a matter) related to an offence requiring communal rehabilitation; related to an offence entailing demotion | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | vā | ind | conj | | or, either or | | | | | | |
 | pācittiyena | adj | masc instr sg of pācittiya | | with (a matter) requiring confession, involving expiation | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
@@ -48,7 +48,7 @@
 ## nisajjaṃ bhikkhu paṭijānamāno tiṇṇaṃ dhammānaṃ aññatarena kāretabbo pārājikena vā saṅghādisesena vā pācittiyena vā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :--------------------------------------------- | :------- | :----------------------------------------------------------- | :---------------------------------------------------------------------------------- | :------------------------- | :------------------------ | :------------------------- | :------------------ | :------------------------ |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :--------------------------------------------- | :------- | :------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- | :------------------------- | :------------------------ | :------------------------- | :------------------ | :------------------------ |
 | nisajjaṃ | noun | fem acc sg of nisajjā | | seat (or) sitting down | seating | √sad (sink, sit, settle) | | ni + √sad + ya + ā | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paṭijānamāno | prp | masc nom sg of paṭijānamāna, from paṭijānāti | | agreeing, admitting | | √ñā (know) | √ñā + nā > jānā | paṭi + jānā + māna | | |
@@ -58,7 +58,7 @@
 | kāretabbo | ptp | masc nom sg of kāretabba | +instr | should be dealt with; should be made to do (by) | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
 | pārājikena | adj | masc instr sg of pārājika | | with (a matter) related to defeat | | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| saṅghādisesena | adj | masc instr sg of saṅghādisesa, comp | | with (a matter) related to an offence requiring suspension | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādisesena | adj | masc instr sg of saṅghādisesa, comp | | with (a matter) related to an offence requiring communal rehabilitation; related to an offence entailing demotion | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | vā | ind | conj | | or, either or | | | | | | |
 | pācittiyena | adj | masc instr sg of pācittiya | | with (a matter) requiring confession, involving expiation | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |

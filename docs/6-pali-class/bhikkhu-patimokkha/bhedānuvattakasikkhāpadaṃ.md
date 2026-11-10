@@ -168,7 +168,7 @@
 ## yāvatatiyañ'ce samanubhāsiyamānā taṃ paṭinissajeyyuṃ, icc'etaṃ kusalaṃ, no ce paṭinissajeyyuṃ, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------- | :------- | :-------------------------------------------------- | :-------------------------------------------------------------------- | :----------------------------- | :----------------------------- | :--------------------------- | :------------------ | :------------------------ |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :----------------------------- | :----------------------------- | :--------------------------- | :------------------ | :------------------------ |
 | yāvatatiyañce | comp | sandhi, adv + ind | | if up to the third time | | | | yāvatatiyaṃ + ce | | |
 | samanubhāsiyamānā | prp | masc nom pl of samanubhāsiyamāna, prp of samanubhāsiyati | +instr | being admonished (by), being sternly advised (by) | | √bhās (shine, speak) | √bhās + iya > bhāsiya (pass) | saṃ + anu + bhāsiya + māna | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
@@ -178,7 +178,7 @@
 | no | ind | neg | | not | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | paṭinissajeyyuṃ | verb | opt 3rd pl of paṭinissajjati | +acc | they would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | (if) being admonished up to three times, they should relinquish that (legal issue), that is good, (but) if they should not relinquish (it), is a saṅghādisesa (offence). | | | | | | | | | | |
 
 

@@ -1,6 +1,6 @@
 # PC 24 āmisasikkhāpadaṃ
 
-## yo pana bhikkhu evaṃ vadeyya, āmisahetu therā bhikkhū bhikkhuniyo ovadantī'ti, pācittiyaṃ.
+## yo pana bhikkhu evaṃ vadeyya, āmisahetu bhikkhū bhikkhuniyo ovadantī'ti, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :------------------------------------------------------------------------------------------------------------------------------------ | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :-------------------- | :-------------- | :---------------- | :----------------- | :---------------- | :------------------------ |
@@ -12,7 +12,6 @@
 | āmisahetu | ind | adv, comp | | for the sake of material gain | meaty cause | | | āmisa + hetu | abyayībhāva | āmisa + hetu |
 | - āmisa | noun | nt | | worldly gain, profit | meat | | | āma + isa | | |
 | - hetu | ind | ind, adv | | for the sake of | cause | √hi (impel) | | √hi + *tu | | |
-| therā | adj | masc nom pl, from thera | | old; elderly; senior | lasting | √ṭhā (stand) | | √ṭhā + ira | | |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhuniyo | noun | fem acc pl of bhikkhunī | | nuns | | √bhikkh (beg) | | √bhikkh + u + nī | | |
 | ovadantīti | comp | sandhi, pr + ind | | | | | | ovadanti + iti | | |

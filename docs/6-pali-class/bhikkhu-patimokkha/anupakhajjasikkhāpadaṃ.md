@@ -1,6 +1,6 @@
 # PC 16 anupakhajjasikkhāpadaṃ
 
-## yo pana bhikkhu saṅghike vihāre jānaṃ pubb'upagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya yassa sambādho bhavissati, so pakkamissatī'ti etad'eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+## yo pana bhikkhu saṅghike vihāre jānaṃ pubb'upagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya yassa sambādho bhavissati, so pakkamissatī'ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------------ | :---------------------------- | :-------------------------- | :----------------------- | :-------------------- | :------------------------ |

@@ -141,10 +141,10 @@
 ## uddiṭṭhā terasa saṅghādisesā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------------------- | :------- | :------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :------- | :--------------------------- | :------------------ | :------------------------ |
+| :------------- | :------ | :---------------------------------------- | :------- | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :------- | :--------------------------- | :------------------ | :------------------------ |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | terasa | card | x nom pl, comp | | thirteen | | | | ti > te + dasa > rasa + *a | dvanda | ti ca dasa ca |
-| saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring suspension | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring communal rehabilitation; related to an offence entailing demotion | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
 ## uddiṭṭhā dve aniyatā dhammā
@@ -236,10 +236,10 @@
 ## vitthār'uddeso pañcamo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------ | :------- | :------------------------------------------- | :-------------- | :-------------------------- | :------- | :------------------ | :---------------- | :------------------------ |
+| :-------------- | :------ | :------------------------------ | :------- | :-------------------------------------- | :-------------- | :-------------------------- | :------- | :------------------ | :---------------- | :------------------------ |
 | vitthāruddeso | noun | comp, nom sg of vitthāruddesa | | detailed recitation; chanting in full | | | | vitthāra + uddesa | kammadhāraya | vitthāra + uddesa |
 | - vitthāra | adj | masc | | detailed; full | | √thar (spread, expand) | | vi + √thar + *a | | |
-| - uddesa | noun | masc, from uddisati | | Pātimokkha recitation, Pātimokkha chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
+| - uddesa | noun | masc, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | pañcamo | ordin | masc nom sg of pañcama | | fifth (5th) | | | | pañca + ma | | |
 
 ## bhikkhupātimokkhaṃ niṭṭhitaṃ

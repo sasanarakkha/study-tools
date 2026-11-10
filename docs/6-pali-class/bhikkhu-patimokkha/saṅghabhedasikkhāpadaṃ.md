@@ -67,7 +67,7 @@
 | avivadamāno | prp | masc nom sg of avivadamāna, prp of vivadati | | not arguing, disputing | | √vad (speak) | √vad + a > vada | vi + vada + māna | | |
 | ekuddeso | adj | masc nom sg of ekuddesa, comp | | following one Patimokkha | with one recitation | | | eka + uddesa | digu > bahubbīhi | eko + uddeso |
 | - eka | card | masc | | one | | | | | | |
-| - uddeso | noun | masc nom sg of uddesa, from uddisati | | designated, appearing to be | pointed up | √dis (point out, explain) | | ud + √dis + *a | | |
+| - uddeso | noun | masc nom sg of uddesa, from uddisati | | recitation; chanting | pointed up | √dis (point out, explain) | | ud + √dis + *a | | |
 | phāsu | noun | masc nom sg, from phusati | | ease, comfort | touch, contact | √phus (touch) | | √phus > phās + *u | | |
 | viharatīti | comp | sandhi, pr + ind | | | | | | viharati + iti | | |
 | - viharati | verb | pr 3rd sg | | (Saṅgha) lives | | √har (live) | √har + a > hara | vi + hara + ti | | |
@@ -107,7 +107,7 @@
 ## yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------- | :------- | :-------------------------------------------------- | :-------------------------------------------------------------------- | :------------------------------ | :----------------------------- | :--------------------------- | :------------------ | :------------------------ |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------------------------ | :----------------------------- | :--------------------------- | :------------------ | :------------------------ |
 | yāvatatiyañce | comp | sandhi, adv + ind | | if up to the third time | | | | yāvatatiyaṃ + ce | | |
 | - yāvatatiyaṃ | ind | adv, comp | | up to the third time | | | | yāva + tatiyaṃ | abyayībhāva | yāva + tatiyaṃ |
 | - ce | ind | cond | | if | | | | | | |
@@ -121,7 +121,7 @@
 | no | ind | neg | | not | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | could give up; should abandon | | √sajj (relinquish, let loose) | √sajj + a > sajja | pati + nī + sajja + ti | | |
-| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring suspension | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | (if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence). | | | | | | | | | | |
 
 
