@@ -57,11 +57,11 @@ Locations are `stem:line`, where the stem is the file name without `sikkhāpada�
 7. **Rows that belong elsewhere:**
    - `ariṭṭha:110`: `no` ends the table of `yāvatatiyañce … kusalaṃ`; it belongs to `no ce paṭinissajeyya` (`:112`), whose table starts at `ce`.
    - `ariṭṭha:85` and the parallel row in `kaṇṭaka`: `pana` after `evañca` is not in the heading.
-   - `dutiyāniyata:7–11`: `na h'eva` is analysed twice (`na` + `heva`, then `naheva`).
+   - `dutiyāniyata:7–11`: `na h'eva` is analysed twice (`na` + `heva`, then `naheva`). (?)
    - `pāṭidesanīyā:7–8`: `pāṭidesanīyā`, `dhammā` appear before `ime` and again at `:13–14`.
    - `dutiyapāṭidesanīya:32`: an extra `detha` row after `dethāti`, without prefix or `iti` row.
    - `jivhānicchāraka:7`: a one-cell row `SE 49` before the first word.
-   - `sannidhikāraka:10–11`: one heading word, two rows (`sannidhikārakaṃ` adverb and `sannidhikārakaṃ 2` adjective); `dutiyapāṭidesanīya:66–67` likewise for `nappaṭibhāseyya`.
+   - `sannidhikāraka:10–11`: one heading word, two rows (`sannidhikārakaṃ` adverb and `sannidhikārakaṃ 2` adjective); `dutiyapāṭidesanīya:66–67` likewise for `nappaṭibhāseyya`. (?)
 8. **Raw `<br>` in 14 files, 25 occurrences.** The project's clean-Markdown rule forbids it.
    - Ending a translation row: `paṭhamaupakkhaṭa:20`, `bhūtārocana:15`, `nikkaḍḍhana:20`, `mahallakavihāra:33`, `saṃvidhāna:28`, `paripācita:22`, `gaṇabhojana:13`, `paṭhamapavāraṇā:22`.
    - Joining two alternative translations: `adinnādāna:20`, `bhedānuvattaka:87`.
