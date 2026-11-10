@@ -1,10 +1,13 @@
 #!/bin/bash
-# Run the pat preprocessing scripts to prepare the documentation for building.
+# Locally regenerate the Pātimokkha pages exactly as regen_patimokkha.yaml does, minus git steps.
 set -e
 
 # Change to the project root
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$PROJECT_ROOT"
+
+# Download the latest spreadsheet from Google Sheets
+bash scripts/download_patimokkha.sh
 
 # Generate patimokkha
 uv run python scripts/generate_patimokkha.py

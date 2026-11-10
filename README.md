@@ -58,6 +58,8 @@ These scripts are used for content generation, maintenance, and data integrity:
   - Usage: `uv run scripts/generate_patimokkha.py`
 - `scripts/download_patimokkha.sh`: Downloads the Pātimokkha Word by Word spreadsheet from Google Sheets.
   - Usage: `bash scripts/download_patimokkha.sh`
+- `scripts/pat_preprocessing.sh`: Local equivalent of the `regen_patimokkha.yaml` workflow — downloads the latest spreadsheet, regenerates the Pātimokkha pages, and fixes tables (no git operations).
+  - Usage: `bash scripts/pat_preprocessing.sh`
 - `scripts/upload.sh`: Creates a new GitHub release and uploads assets from `temp-push/`.
   - Usage: `bash scripts/upload.sh`
 - `scripts/upload_asset.sh`: Uploads a single specific asset to the latest draft release.
