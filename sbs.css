@@ -174,7 +174,3 @@ body {
     min-width: 100px !important;
     text-align: left !important;
 }
-/* translation rows: bold */
-.patimokkha-translation td {
-    font-weight: bold !important;
-}
