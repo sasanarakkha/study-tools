@@ -60,7 +60,9 @@ Detailed analysis of those sutta passages can be found in the **Reading the Budd
 
 ---
 
-This material based on the New Pāli Course Part 3 - Ven. A.P. Buddhadatta.
+materials in the proccess of development, if you want to see drafts, please contact us.
+
+<!--This material based on the New Pāli Course Part 3 - Ven. A.P. Buddhadatta.
 
 Can be found in the class folder on the server:
 
@@ -74,7 +76,7 @@ Draft of the [class material](draft-advanced-pali-course.md).
 
 - [Key to Exercises 40 - 50](advanced/apc-key-to-exercises-40-50.md)
 
-- [Key to idioms and difficult passages](advanced/apc-key-to-idioms.md)
+- [Key to idioms and difficult passages](advanced/apc-key-to-idioms.md)-->
 
 ---
 
