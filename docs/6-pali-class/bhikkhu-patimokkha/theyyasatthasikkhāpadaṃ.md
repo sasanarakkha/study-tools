@@ -3,7 +3,7 @@
 ## yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ek'addhānamaggaṃ paṭipajjeyya antamaso gāmantaram'pi, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :------------------ | :---------------------- | :------------------ | :---------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -19,5 +19,7 @@
 | gāmantarampi | comp | sandhi, nt + ind | | even as much as between villages | | | | gāma + antaraṃ + api | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk, having arranged, should knowingly travel together with a company of thieves on the same road journey, even just the distance between villages, there is an offence requiring confession.**
 
-[← previous](ūnavīsativassasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=theyyasatthasikkh%C4%81pada%E1%B9%83) | [next →](saṃvidhānasikkhāpadaṃ 2.md)
+
+[← previous](ūnavīsativassasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=theyyasatthasikkh%C4%81pada%E1%B9%83) | [next →](saṃvidhānasikkhāpadaṃ-2.md)

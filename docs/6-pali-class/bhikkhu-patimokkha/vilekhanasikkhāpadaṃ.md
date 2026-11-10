@@ -3,7 +3,7 @@
 ## yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya, kiṃ pan'imehi khudd'ānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāva'd'eva kukkuccāya vihesāya vilekhāya saṃvattantī'ti, sikkhāpadavivaṇṇake pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------- | :------ | :--------------------------------------- | :------- | :--------------------------------------------------------------------- | :---------------------------- | :-------------------------- | :------------------------- | :----------------------- | :------------------- | :-------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -33,6 +33,8 @@
 | - sikkhāpada | noun | nt, comp | | training rules | training path | | | sikkhā + pada | genitive tappurisa | sikkhāya + pada |
 | - vivaṇṇake | noun | nt loc sg of vivaṇṇaka | | in dispraising, disrespecting | | √vaṇṇ (praise) | | vi + √vaṇṇ + a + ka | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk, when the Disciplinary Code is being recited, should say thus, “But what with these small and minute training rules that are recited? They just lead up to worry, annoyance, uncertainty.” In the disparaging of training rules, [there is a case] requiring confession.**
 
 
 [← previous](sahadhammikasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=vilekhanasikkh%C4%81pada%E1%B9%83) | [next →](mohanasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā vā taṃ pakkamanto n'eva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :---------------------------- | :----------------------- | :-------------------------- | :---------------------- | :-------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -24,7 +24,8 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | gaccheyya | verb | opt 3rd sg of gacchati | | he would go | | √gam (go) | √gam + a > gaccha (irreg) | gaccha + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk, having put out or caused to put out a bedding in a dwelling belonging to the community, (when) leaving that, should he not remove (it) or cause to remove (it) or should he go without taking leave, there is an offence requiring confession. | | | | | | | | | | |
+
+**If any monk, having put out or caused to put out a bedding in a dwelling belonging to the community, (when) leaving that, should he not remove (it) or cause to remove (it) or should he go without taking leave, there is an offence requiring confession.**
 
 
 [← previous](paṭhamasenāsanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=dutiyasen%C4%81sanasikkh%C4%81pada%E1%B9%83) | [next →](anupakhajjasikkhāpadaṃ.md)

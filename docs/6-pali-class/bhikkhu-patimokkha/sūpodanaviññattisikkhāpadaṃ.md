@@ -3,7 +3,7 @@
 ## na sūpaṃ vā odanaṃ vā agilāno attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :---------------------- | :----------------------- | :----------------- | :------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | sūpaṃ | noun | masc acc sg of sūpa | | dahl; lentil curry | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
@@ -16,6 +16,8 @@
 | bhuñjissāmīti | comp | sandhi, fut + ind | | | | | | bhuñjissāmi + iti | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not eat curry or rice, [when] not ill, having requested [it] for sake of oneself, the training is to be done.**
 
 
 [← previous](odanapaṭicchādanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=s%C5%ABpodanavi%C3%B1%C3%B1attisikkh%C4%81pada%E1%B9%83) | [next →](ujjhānasaññīsikkhāpadaṃ.md)

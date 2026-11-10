@@ -3,7 +3,7 @@
 ## yāni kho pana tāni paṇītabhojanāni, seyyathīdaṃ, sappi, navanītaṃ, telaṃ, madhu, phāṇitaṃ, maccho, maṃsaṃ, khīraṃ, dadhi.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :--------------------------------- | :------- | :------------------------------------------ | :--------------------- | :------------------- | :------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yāni | pron | nt nom pl of ya | | whichever | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
@@ -22,10 +22,12 @@
 | khīraṃ | noun | nt nom sg of khīra | | milk | | | | | | |
 | dadhi | noun | nt nom sg of dadhi | | curd | | √dhe (drink, suck) | | √dhe + √dhe > dadhe + i | | |
 
+**There are these fine food, namely: ghee, butter, oil, honey, molasses, fish, meat, milk, curd;**
+
 ## yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :----------------------- | :-------------------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -39,6 +41,8 @@
 | viññāpetvā | verb | abs of viññāpeti | +acc | having requested; having asked | having caused to know | √ñā (know) | √ñā + āpe > ñāpe | vi + ñāpe + tvā | | |
 | bhuñjeyya | verb | opt 3rd sg of bhuñjati | | he would eat | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**whichever monk, who is not ill, having requested such fine foods for himself, should eat, there is an offence requiring confession.**
 
 
 [← previous](sannidhikārakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pa%E1%B9%87%C4%ABtabhojanasikkh%C4%81pada%E1%B9%83) | [next →](dantaponasikkhāpadaṃ.md)

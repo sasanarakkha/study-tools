@@ -3,7 +3,7 @@
 ## yo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ att'ūpanāyikaṃ alam'ariyañāṇadassanaṃ samudācareyya iti jānāmi, iti passāmī'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------ | :------- | :------------------------------------------------------------- | :---------------------------- | :-------------------- | :----------------- | :------------------------- | :------------------------- | :--------------------------------------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -30,12 +30,13 @@
 | passāmīti | comp | sandhi, pr + ind | | | | | | passāmi + iti | | |
 | - passāmi | verb | pr 1st sg of passati | +acc | I see, I understand | | √dis (see) | √dis + a > passa | passa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
-| If any monk, not directly knowing, should claim a superhuman state with knowledge and vision suitable for a noble one, referring to oneself, (saying): “Thus I know! Thus I see!,” | | | | | | | | | | |
+
+**If any monk, not directly knowing, should claim a superhuman state with knowledge and vision suitable for a noble one, referring to oneself, (saying): “Thus I know! Thus I see!,”**
 
 ## tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā āpanno visuddh'āpekkho evaṃ vadeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------------------------ | :------- | :----------------------------------------- | :------------------------- | :-------------------- | :--------------------------- | :------------------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato | ind | adv, abl sg of ta | | after, then | from that | | | ta + to | | |
 | aparena | adj | instr sg of apara | | at another, at a later | with another | | | apa + ra | | |
 | samayena | noun | masc instr sg of samaya | | at time, at occasion | with time, come together | √i (come, go) | | saṃ + √i > ay + *a | | |
@@ -49,12 +50,13 @@
 | - apekkho | adj | masc nom sg of apekkha, from apekkhati | +loc | seeking, wanting | looking out | √ikkh (see) | | apa + √ikkha + a | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
-| after that, on another occasion, being interrogated or not being interrogated, (monk) who has committed (the offence), looking for purity, would say thus: | | | | | | | | | | |
+
+**after that, on another occasion, being interrogated or not being interrogated, (monk) who has committed (the offence), looking for purity, would say thus:**
 
 ## ajānam'ev'āhaṃ āvuso avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapin'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------- | :------ | :-------------------------------------- | :------- | :----------------------------------- | :------------------ | :------------------- | :----------------- | :---------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ajānamevāhaṃ | comp | sandhi, prp + ind | | not knowing thus I | | | | ajānaṃ + evaṃ | | |
 | - ajānaṃ | prp | masc nom sg of ajānanta, from ājānāti | | not knowing, not understanding | | √ñā (know) | √ñā + nā > jānā | na + jānā + nta | | |
 | - evaṃ | ind | adv | | thus, like this, as | | | | | | |
@@ -69,19 +71,21 @@
 | vilapinti | comp | sandhi, aor + ind | | | | | | vilapiṃ + iti | | |
 | - vilapiṃ | verb | aor 1st sg of vilapi | +acc | I talked nonsense, spoke rubbish | I chatted wrongly | √lap (chat) | | vi + √lap + i | | |
 | - iti | ind | | | “” | thus | | | | | |
-| “Not knowing thus, friend(s), I spoke: 'I know,' not seeing (thus, I spoke:) 'I see.' I talked nonsense vainly (and) falsely,” | | | | | | | | | | |
+
+**“Not knowing thus, friend(s), I spoke: 'I know,' not seeing (thus, I spoke:) 'I see.' I talked nonsense vainly (and) falsely,”**
 
 ## aññatra adhimānā, ayam'pi pārājiko hoti asaṃvāso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------ | :------ | :---------------------------------------- | :------- | :--------------------------------------- | :-------------------- | :-------------- | :------------- | :------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
 | adhimānā | noun | masc abl sg of adhimāna | | from over-estimation, from over-rating | thinking too highly | √man (think) | | adhi + √man + *a | | |
 | ayampi | comp | sandhi, pron + ind | | he too | | | | ayaṃ + api | | |
 | pārājiko | adj | masc nom sg of pārājika | | defeated, destroyed, disqualified | conquered | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
 | asaṃvāso | adj | masc nom sg of asaṃvāsa, from saṃvasati | | unaffiliated, excommunicated | not living together | √vas (live) | | na + saṃ + √vas + *a | | |
-| except for overestimation, he also is defeated, not in communion. | | | | | | | | | | |
+
+**except for overestimation, he also is defeated, not in communion.**
 
 
 [← previous](manussaviggahasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=uttarimanussadhammasikkh%C4%81pada%E1%B9%83) | [next →](saṅghādisesuddeso.md)

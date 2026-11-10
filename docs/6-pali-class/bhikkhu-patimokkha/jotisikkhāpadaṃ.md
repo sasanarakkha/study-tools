@@ -3,7 +3,7 @@
 ## yo pana bhikkhu agilāno visibban'āpekkho jotiṃ samādaheyya vā samādahāpeyya vā aññatra tathārūpapaccayā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :--------------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :----------------------- | :-------------------------------- | :---------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -19,6 +19,8 @@
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
 | tathārūpapaccayā | noun | masc abl sg of tathārūpapaccaya, comp | | suitable reason, appropriate cause | such form condition | | | tathārūpa + paccaya | kammadhāraya | tathārūpa + paccaya |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk who is not ill, wishing for warmth, should put together or cause to put together a fire, apart from an appropriate reason, there is an offence requiring confession.**
 
 
 [← previous](bhiṃsāpanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=jotisikkh%C4%81pada%E1%B9%83) | [next →](nahānasikkhāpadaṃ.md)

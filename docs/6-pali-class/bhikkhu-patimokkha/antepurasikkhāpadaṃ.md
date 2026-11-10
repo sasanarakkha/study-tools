@@ -3,7 +3,7 @@
 ## yo pana bhikkhu rañño khattiyassa muddh'ābhisittassa anikkhantarājake aniggataratanake pubbe appaṭisaṃvidito indakhīlaṃ atikkameyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :--------------------------------------------------------- | :------- | :---------------------------------------------------------- | :-------------------- | :---------------------- | :---------------- | :----------------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -25,11 +25,13 @@
 | atikkameyya | verb | opt 3rd sg of atikkamati | | he would exceed, go beyond | goes too far | √kam (go) | √kam + a > kama | ati + kama + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk, without having been announced beforehand, should go beyond the entrance in the room of a noble consecrated king, from which the king has not departed, [and] the queen has not left, there is an offence requiring confession.**
+
 ## yo pana bhikkhu rañño khattiyassa muddh'ābhisittassa anikkhantarājake aniggataratanake
  pubbe appaṭisaṃvidito indakhīlaṃ atikkameyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :-------------------------------------- | :------- | :-------------------------------------------------- | :------------------ | :------- | :------- | :----------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | aniggataratanake | noun | masc loc sg of aniggataratanaka, comp | | in the room from which the queen has not gone out | in jewel not gone | | | aniggata + ratana + ka | kammadhāraya > bb | aniggata + ratanaka |
 
 

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------- | :------- | :----------------------------------- | :------------------------ | :---------------------- | :-------------------- | :------------------------ | :----------------- | :------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -19,12 +19,13 @@
 | samādāya | verb | ger of samādāti | | undertaking; taking up | taking together | √ādā (take, steal) | | saṃ + √ādā + ya | | |
 | paggayha | verb | ger of paggaṇhāti | | supporting | holding forward | √gah (grasp) | | pa + √gah + ya | | |
 | tiṭṭheyya | verb | opt 3rd sg of tiṭṭhati | | he would remain, persist, continue | stand | √ṭhā (stand) | √ṭhā + ṭhā > tiṭṭha | tiṭṭha + ti | | |
-| If any monk should strive for the schism of a united community, or undertaking, should persist in upholding a legal issue conducive to schism | | | | | | | | | | |
+
+**If any monk should strive for the schism of a united community, or undertaking, should persist in upholding a legal issue conducive to schism**
 
 ## so bhikkhu bhikkhūhi evam'assa vacanīyo
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------ | :------ | :---------------------------- | :------- | :---------------------------------- | :------------------ | :-------------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
@@ -32,12 +33,13 @@
 | - evaṃ | ind | adv | | thus, like this, as | | | | | | |
 | - assa 2 | verb | opt 3rd sg of atthi | +nom | should be; could be | | √as (be) | | √as + a | | |
 | vacanīyo | ptp | masc nom sg of vacanīya | | should be spoken, told, addressed | to be said | √vac (speak) | | √vac + anīya | | |
-| that monk should be spoken to by the monks thus | | | | | | | | | | |
+
+**that monk should be spoken to by the monks thus**
 
 ## mā āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------- | :------- | :------------------------------------ | :------------------------ | :---------------------- | :---------------- | :----------------------- | :----------------- | :------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | mā | ind | neg | | don't! may not! | | | | | | |
 | āyasmā | noun | masc nom sg of āyasmant | | venerable | | | | āyas + mant | | |
 | samaggassa | adj | masc gen sg of samagga | | of unified, harmonious | together (in one) place | | | saṃ + agga | | |
@@ -50,12 +52,13 @@
 | samādāya | verb | ger of samādāti | | undertaking; taking up | taking together | √ādā (take, steal) | | saṃ + √ādā + ya | | |
 | paggayha | verb | ger of paggaṇhāti | | supporting | holding forward | √gah (grasp) | | pa + √gah + ya | | |
 | aṭṭhāsi | verb | aor 3rd sg of tiṭṭhati | | remained; persisted; continued | stood | √ṭhā (stand) | | a + √ṭhā + si | | |
-| “Let the venerable one not strive for the schism of a united community, or undertaking, persist in upholding a legal issue conducive to schism | | | | | | | | | | |
+
+**“Let the venerable one not strive for the schism of a united community, or undertaking, persist in upholding a legal issue conducive to schism**
 
 ## samet'āyasmā saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ek'uddeso phāsu viharatī'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------- | :------- | :----------------------------------------------------------- | :-------------------- | :-------------------------- | :----------------- | :------------------ | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sametāyasmā | comp | sandhi, imp + noun | +instr | may the venerable agree (with); venerable be united (with) | | | | sametu + āyasmā | | |
 | - sametu | verb | imp 3rd sg of sameti | +instr | one must agree, may he be united with | go together | √i (come, go) | √i + a > e | saṃ + e + ti | | |
 | - āyasmā | noun | masc nom sg of āyasmant | | venerable | | | | āyas + mant | | |
@@ -72,12 +75,13 @@
 | viharatīti | comp | sandhi, pr + ind | | | | | | viharati + iti | | |
 | - viharati | verb | pr 3rd sg | | (Saṅgha) lives | | √har (live) | √har + a > hara | vi + hara + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
-| Let the venerable one agree with the community, because the united, friendly and undisputing community, which has a single recitation, dwells in comfort,” | | | | | | | | | | |
+
+**Let the venerable one agree with the community, because the united, friendly and undisputing community, which has a single recitation, dwells in comfort,”**
 
 ## evañ'ca so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :------------------------------------- | :------------------ | :-------------- | :------------------------- | :---------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | evañca | comp | sandhi, adv + ind | | and thus, and if like this, but thus | | | | evaṃ + ca | | |
 | - evaṃ | ind | adv | | thus, like this, as | | | | | | |
 | - ca | ind | conj | | and (or) but, and if | | | | | | |
@@ -89,12 +93,13 @@
 | - tathā | ind | adv | | like that, such | | | | ta + thā | | |
 | - eva | ind | emph | | just, only | | | | | | |
 | paggaṇheyya | verb | opt 3rd sg of paggaṇhāti | | he would support, uphold | hold forward | √gah (grasp) | | pa + gaṇhā + ti | | |
-| and if that monk being spoken to thus by the monks should uphold in the same way, | | | | | | | | | | |
+
+**and if that monk being spoken to thus by the monks should uphold in the same way,**
 
 ## so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------------------ | :------- | :----------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
@@ -102,12 +107,13 @@
 | samanubhāsitabbo | ptp | masc nom sg of samanubhāsitabba | +instr | should be admonished (by), should be sternly advised (by) | | √bhās (shine, speak) | | saṃ + anu + √bhās + itabba | | |
 | tassa 2 | pron | masc gen sg of ta | | of that; his | | | | | | |
 | paṭinissaggāya | noun | masc dat sg paṭinissagga, from paṭinissajjati | +gen | for the giving up (of), relinquishing (of) | | √sajj (relinquish, let loose) | | pati + nī + √sajj > sagg + a | | |
-| (then) that monk is to be admonished up to three times by the monks for the relinquishment of that (legal issue) | | | | | | | | | | |
+
+**(then) that monk is to be admonished up to three times by the monks for the relinquishment of that (legal issue)**
 
 ## yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------------------------ | :----------------------------- | :--------------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yāvatatiyañce | comp | sandhi, adv + ind | | if up to the third time | | | | yāvatatiyaṃ + ce | | |
 | - yāvatatiyaṃ | ind | adv, comp | | up to the third time | | | | yāva + tatiyaṃ | abyayībhāva | yāva + tatiyaṃ |
 | - ce | ind | cond | | if | | | | | | |
@@ -122,7 +128,8 @@
 | ce | ind | cond | | if | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | could give up; should abandon | | √sajj (relinquish, let loose) | √sajj + a > sajja | pati + nī + sajja + ti | | |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
-| (if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence). | | | | | | | | | | |
+
+**(if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence).**
 
 
 [← previous](aññabhāgiyasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sa%E1%B9%85ghabhedasikkh%C4%81pada%E1%B9%83) | [next →](bhedānuvattakasikkhāpadaṃ.md)

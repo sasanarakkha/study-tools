@@ -3,7 +3,7 @@
 ## yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathīdaṃ, sappi navanītaṃ telaṃ madhu phāṇitaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------- | :------ | :------------------------------ | :------- | :---------------------------------- | :-------------------- | :----------------------- | :------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yāni | pron | nt nom pl of ya | | whichever | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
@@ -23,12 +23,13 @@
 | telaṃ | noun | nt nom sg of tela | | oil | from sesame | | | tila + *a | | |
 | madhu | noun | nt nom sg of madhu | | honey | sweet | | | | | |
 | phāṇitaṃ | noun | nt nom sg of phāṇita | | sugar treacle; jaggery; molasses | extracted | √phaṇ (extract) | | √phaṇ + *ita | | |
-| Now, those palatable medicines which are for sick monks, namely: ghee, butter, oil, honey, jaggery | | | | | | | | | | |
+
+**Now, those palatable medicines which are for sick monks, namely: ghee, butter, oil, honey, jaggery**
 
 ## tāni paṭiggahetvā satt'āhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :-------------------------- | :------------------------------ | :---------------------------- | :-------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tāni | pron | nt acc pl of ta | | those | | | | | | |
 | paṭiggahetvā | abs | abs of paṭiggaṇhāti | | having accepted, taken | having personally grabbed | √gah (grasp) | √gah + ṇhā > gahe | paṭi + gahe + tvā | | |
 | sattāhaparamaṃ | ind | adv, acc sg of sattāhaparama | | seven days at the most | | | | satta + aha + parama + aṃ | abyayībhāva | sattāha + paramaṃ |
@@ -43,7 +44,8 @@
 | atikkāmayato | prp | masc dat sg of atikkāmanta | | for (one) going beyond, exceeding | causing to go too far | √kam (go) | √kam + *aya > kāmaya (caus) | ati + kāmaya + nta | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| having been accepted, they can be used, storing for seven days at the most. For one exceeding that, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**having been accepted, they can be used, storing for seven days at the most. For one exceeding that, this is an offence requiring relinquishment and confession.**
 
 
 [← previous](ūnapañcabandhanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=bhesajjasikkh%C4%81pada%E1%B9%83) | [next →](vassikasāṭikasikkhāpadaṃ.md)

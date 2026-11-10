@@ -3,7 +3,7 @@
 ## yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya aññatra pārivattakā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :-------------------- | :-------------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -14,7 +14,8 @@
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
 | pārivattakā | noun | masc abl sg of pārivattaka | | from exchange, trade | turning around | √vatt (be, proceed) | | pari + √vatt + *aka | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should give a robe [-cloth] to an unrelated nun, apart from exchange, there is an offence requiring confession. | | | | | | | | | | |
+
+**If any monk should give a robe [-cloth] to an unrelated nun, apart from exchange, there is an offence requiring confession.**
 
 
 [← previous](āmisasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=c%C4%ABvarad%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](cīvarasibbanasikkhāpadaṃ.md)

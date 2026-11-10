@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------- | :------------------ | :---------------------------- | :---------------------------- | :------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -24,24 +24,26 @@
 | pārājikena | adj | masc instr sg of pārājika | | with (a matter) related to defeat | | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | dhammena 2 | noun | masc instr sg of dhamma | | with matter; case | | √dhar (hold) | | √dhar + ma | | |
 | anuddhaṃseyya | verb | opt 3rd sg of anuddhaṃseti | +acc | he would accuse, denounce | cause to fall | √dhaṃs (fall down, destroy) | √dhaṃs + *e > dhaṃse (caus) | anu + dhaṃse + ti | | |
-| If any monk, corrupted, angry (and) upset, taking up some point, which is a mere pretext, of a legal issue belonging to another class, would accuse a monk with a case involving disqualification | | | | | | | | | | |
+
+**If any monk, corrupted, angry (and) upset, taking up some point, which is a mere pretext, of a legal issue belonging to another class, would accuse a monk with a case involving disqualification**
 
 ## app'eva nāma naṃ imamhā brahmacariyā cāveyyan'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------- | :------ | :-------------------------------- | :------- | :------------------------------- | :-------------- | :------- | :------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | appeva | comp | sandhi, ind + ind | | if only, please may, hopefully | | | | api > apy > app + eva | | |
 | nāma | ind | emph | | certainly, indeed | | | | | | |
 | naṃ | pron | masc acc sg | | him | | | | | | |
 | imamhā | pron | nt abl sg of ima | | from this | | | | ima + mhā | | |
 | brahmacariyā | noun | nt abl sg of brahmacariya, comp | | from holy life, spiritual path | divine walk | | | brahma + cariya | kammadhāraya | brahma + cariya |
 | cāveyyanti | comp | sandhi, opt + ind | | | | | | cāveyyaṃ + iti | | |
-| “If only I could make him fall away from this holy life!,” | | | | | | | | | | |
+
+**“If only I could make him fall away from this holy life!,”**
 
 ## tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā aññabhāgiyañ'c'eva taṃ adhikaraṇaṃ hoti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------------------------ | :------- | :------------------------------------- | :------------------------- | :--------------------------- | :--------------------------- | :------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato | ind | adv, abl sg of ta | | after, then | from that | | | ta + to | | |
 | aparena | adj | instr sg of apara | | at another, at a later | with another | | | apa + ra | | |
 | samayena | noun | masc instr sg of samaya | | at time, at occasion | with time, come together | √i (come, go) | | saṃ + √i > ay + *a | | |
@@ -58,12 +60,13 @@
 | taṃ | pron | nt nom sg of ta | | that | | | | | | |
 | adhikaraṇaṃ | noun | nt nom of adhikaraṇa | | legal case, issue | | √kar (do, make) | | adhi + √kar + aṇa | | |
 | hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
-| then, on another occasion, being interrogated or not being interrogated, only if that legal issue is belonging to another class | | | | | | | | | | |
+
+**then, on another occasion, being interrogated or not being interrogated, only if that legal issue is belonging to another class**
 
 ## koci deso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :-------------------------- | :------- | :-------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | koci | pron | masc nom sg of kaci | | some, any | | | | | | |
 | deso | noun | masc nom sg of desa | | item; detail; fact | point | √dis (point out, explain) | | √dis + *a | | |
 | lesamatto | adj | masc nom sg of lesamatta, comp | | which is a mere ploy; as a mere pretext | | | | lesa + matta | kammadhāraya | lesa + matta |
@@ -73,7 +76,8 @@
 | dosaṃ | noun | masc acc sg of dosa | | fault, mistake, corruption | | √dus (be angry, corrupt) | | √dus + *a | | |
 | patiṭṭhāti | verb | pr 3rd sg | | he admits, confesses, confirms | stands back | √ṭhā (stand) | | pati + √ṭhā + ti | | |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
-| some point, which a mere pretext, has been taken up, and if the monk confirms the fault (or malice), is a saṅghādisesa (offence). | | | | | | | | | | |
+
+**some point, which a mere pretext, has been taken up, and if the monk confirms the fault (or malice), is a saṅghādisesa (offence).**
 
 
 [← previous](duṭṭhadosasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=a%C3%B1%C3%B1abh%C4%81giyasikkh%C4%81pada%E1%B9%83) | [next →](saṅghabhedasikkhāpadaṃ.md)

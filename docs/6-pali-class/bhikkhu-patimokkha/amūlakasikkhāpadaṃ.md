@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :-------------------------------------------------------------------- | :---------------------------- | :---------------------------- | :-------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -13,5 +13,7 @@
 | anuddhaṃseyya | verb | opt 3rd sg of anuddhaṃseti | +acc | he would accuse, denounce | cause to fall | √dhaṃs (fall down, destroy) | √dhaṃs + *e > dhaṃse (caus) | anu + dhaṃse + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk should accuse a monk with a groundless offence requiring suspension, there is an offence requiring confession.**
 
-[← previous](talasattikasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=am%C5%ABlakasikkh%C4%81pada%E1%B9%83) | [next →](sañciccasikkhāpadaṃ 2.md)
+
+[← previous](talasattikasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=am%C5%ABlakasikkh%C4%81pada%E1%B9%83) | [next →](sañciccasikkhāpadaṃ-2.md)

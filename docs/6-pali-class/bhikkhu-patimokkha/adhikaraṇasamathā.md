@@ -3,7 +3,7 @@
 ## ime kho pan'āyasmanto satta adhikaraṇasamathā uddesaṃ āgacchanti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :--------------------------------------- | :------- | :-------------------------------------- | :------------------- | :-------------------------- | :-------------------------- | :--------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
@@ -15,10 +15,12 @@
 | uddesaṃ | noun | masc acc sg of uddesa, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | āgacchanti | verb | pr 3rd pl of āgacchati | +acc | they arrive, they are coming up (for) | arrive | √gam (go) | √gam + a > gaccha (irreg) | ā + gaccha + ti | | |
 
+**Venerables, these seven cases that are settlements of legal issues come up for recitation.**
+
 ## uppann'uppannānaṃ adhikaraṇānaṃ samathāya vūpasamāya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :--------------------------- | :------- | :--------------------------------------------- | :-------------------------- | :---------------------- | :------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uppannuppannānaṃ | adj | nt gen pl of uppannuppanna | | of whatever arisen | | | | uppanna + uppanna | | |
 | - uppanna | pp | of uppajjati | | arisen | | √pad (go, step) | | ud + √pad + na | | |
 | - uppannānaṃ | pp | nt gen pl of uppanna | | of arisen | | √pad (go, step) | | ud + √pad + na | | |
@@ -26,10 +28,12 @@
 | samathāya | noun | masc dat sg of samatha | +gen | for the settling (of) | for the stilling, calming | √sam (be calm, tired) | | √sam  + a + tha | | |
 | vūpasamāya | noun | masc dat sg of vūpasama | +gen | for the resolving, finalizing (of) | | √sam (be calm, tired) | | vi + upa + √sam + a | | |
 
-## sammukhāvinayo dātabbo, sativinayo dātabbo, amūḷhavinayo dātabbo
+**For the calming, for the stilling of whichever legal issues have arisen**
+
+## sammukhāvinayo dātabbo, sativinayo dātabbo, amūḷhavinayo dātabbo, paṭiññāya kāretabbo, yebhuyyasikā, tassapāpiyyasikā, tiṇ'avatthārako'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------ | :------- | :------------------------------------------------- | :------------------- | :---------------------------- | :------- | :-------------------- | :----------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sammukhāvinayo | noun | masc nom sg of sammukhāvinaya, comp | | verdict in the presence; face to face resolution | | | | sammukhā + vinayo | kammadhāraya | sammukhā + vinaya |
 | - sammukhā | ind | adv, abl sg of samukhā | | face to face, in front of | | | | sa + mukha + ā | | |
 | - vinayo | noun | masc nom sg of vinaya | | verdict, resolution, judgement | removing | √nī (lead) | | vi + √nī > nay + *a | | |
@@ -42,14 +46,10 @@
 | - amūḷha | pp | pp of muyhati | | no (longer) insane, not mad | not deluded | √muh (be deluded, confused) | | na + √muh + ta | | |
 | - vinayo | noun | masc nom sg of vinaya | | verdict, resolution, judgement | removing | √nī (lead) | | vi + √nī > nay + *a | | |
 | dātabbo | ptp | masc nom sg of dātabba | | should be given | | √dā (give) | | √dā + tabba | | |
-
-## paṭiññāya kāretabbo, yebhuyyasikā, tassapāpiyyasikā, tiṇ'avatthārako'ti.
-
-| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------ | :------- | :------------------------------------------------ | :------------------------- | :----------------------- | :------------------------ | :------------------------ | :----------------- | :------------------------ |
 | paṭiññāya | noun | fem instr sg of paṭiññā | | acknowledging; admitting; confirming | with acknowledgement | | | pati + √ñā + ā | | |
 | kāretabbo | ptp | masc nom sg of kāretabba | +instr | should be dealt with; should be made to do (by) | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
 | yebhuyyasikā | noun | fem nom sg of yebhuyyasikā | | majority vote | state of whoever is more | | | ye + bhuyya + [s] + ikā | | |
+| tassapāpiyyasikā | noun | fem nom sg tassapāpiyyasikā | | fact of his continued bad behaviour | his worseness | | | tassa + pāpiya > pāpiyya + [s] + ikā | | |
 | - tassa | pron | masc gen sg of ta | | of him, of that | | | | | | |
 | - pāpiyyasikā | noun | fem nom sg of pāpiyyasikā | | state of being worse | worseness | | | pāpa + iya + [s] + ikā | | |
 | tiṇavatthārako | noun | masc nom sg of tiṇavatthāraka, comp | | covering with grass; sweeping under the carpet | | | | tiṇa + avatthāraka | tatiyā tappurisa | tiṇena + avatthāraka |
@@ -57,16 +57,24 @@
 | - avatthārako | noun | masc nom sg of avatthāraka | | spreading over; covering over; strewing down | | √thar (spread, expand) | | ava + √thar + a + ka | | |
 | - iti | ind | | | “” | thus | | | | | |
 
-## paṭiññāya kāretabbaṃ, yebhuyyasikā, tassapāpiyyasikā, tiṇ'avatthārako'ti.
+**the removal through the presence [of the monk] is to be given**
 
-| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :---------------------------- | :------- | :------------------------------------ | :-------------- | :------- | :------- | :------------------------------------- | :---------------- | :------------------------ |
-| tassapāpiyyasikā | noun | fem nom sg tassapāpiyyasikā | | fact of his continued bad behaviour | his worseness | | | tassa + pāpiya > pāpiyya + [s] + ikā | | |
+**the removal [of the accusation] through remembrance is to be given**
+
+**the removal [of the accusation] through not [being] insane is to be given**
+
+**he is to be made to do [the offence procedure] through admitting [the offence]**
+
+**the [decision of the] majority**
+
+**[the decision making it] worse for him**
+
+**[the decision] covering [the offences as if] with grass.**
 
 ## uddiṭṭhā kho āyasmanto satta adhikaraṇasamathā dhammā. 
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :---------------------------------------- | :------- | :-------------------------------- | :------------------- | :-------------------------- | :------- | :--------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | āyasmanto | noun | masc voc pl of āyasmant | | venerables | having long life | | | āyas + mant | | |
@@ -74,137 +82,167 @@
 | adhikaraṇasamathā | adj | masc nom pl of adhikaraṇasamatha, comp | | related to settling legal cases | settling lawsuits | | | adhikaraṇa + samatha | genitive tappurisa | adhikaraṇassa + samatha |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
+**Venerables, the seven cases related to settling legal issues have been recited.**
+
 ## tatthāyasmante, pucchāmi kaccittha parisuddhā, 
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :---------------------------------------------- | :------- | :----------------------------------------------- | :-------------- | :---------------- | :-------------------- | :------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatthāyasmante | comp | sandhi, adv + masc | | in that case the venerables | | | | tattha + āyasmante | | |
 | pucchāmi | verb | pr 1st sg of pucchati | | I ask, I am asking | | √pucch (ask) | √pucch + a > puccha | puccha + ti | | |
 | kaccittha | comp | sandhi, ind + adv (or) ind + pr | | I trust in this case, (or) I trust you all are | | | | kacci + ettha or kacci + attha | | |
 | parisuddhā | pp | masc nom pl of parisuddha, pp of parisujjhati | | pure, innocent | purified | √sudh (be pure) | | pari + √sudh + ta | | |
 
+**In that case I ask the Venerables: I hope in this (you all are) pure ? (or) I hope you all are pure ?**
+
 ## dutiyampi pucchāmi, kaccittha parisuddhā, 
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------- | :------ | :---------------------------------------------- | :------- | :----------------------------------------------- | :-------------- | :---------------- | :-------------------- | :------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | dutiyampi | comp | sandhi, adv + ind | | and for the second time | | | | dutiyaṃ + api | | |
 | pucchāmi | verb | pr 1st sg of pucchati | | I ask, I am asking | | √pucch (ask) | √pucch + a > puccha | puccha + ti | | |
 | kaccittha | comp | sandhi, ind + adv (or) ind + pr | | I trust in this case, (or) I trust you all are | | | | kacci + ettha or kacci + attha | | |
 | parisuddhā | pp | masc nom pl of parisuddha, pp of parisujjhati | | pure, innocent | purified | √sudh (be pure) | | pari + √sudh + ta | | |
 
+**And for the second time I ask: I hope in this (you all are) pure ?**
+
 ## tatiyampi pucchāmi, kaccittha parisuddhā, 
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------- | :------ | :---------------------------------------------------- | :------- | :----------------------------------------------- | :-------------- | :---------------- | :-------------------- | :------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatiyampi | comp | sandhi, adv + ind | | and for the third time | | | | tatiyaṃ + api | | |
 | pucchāmi | verb | pr 1st sg of pucchati, comp | | I ask, I am asking | | √pucch (ask) | √pucch + a > puccha | puccha + ti | | |
 | kaccittha | comp | sandhi, ind + adv (or) ind + pr, comp | | I trust in this case, (or) I trust you all are | | | | kacci + ettha or kacci + attha | | |
 | parisuddhā | pp | masc nom pl of parisuddha, pp of parisujjhati, comp | | pure, innocent | purified | √sudh (be pure) | | pari + √sudh + ta | | |
 
+**And for the third time I ask: I hope in this (you all are) pure ?**
+
 ## parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmi.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------- | :------ | :------------------------ | :------- | :----------------------------------------- | :---------------------------------- | :-------------------------- | :----------------------- | :------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | parisuddhetthāyasmanto | comp | sandhi, pp + adv + masc | | the venerables (are) pure in this regard | the long lived ones are pure here | | | parisuddhā + ettha + āyasmanto | | |
 | tasmā | ind | adv, abl sg of ta | | therefore | from that | | | ta + smā | | |
 | tuṇhī | ind | adv | | silent, silence, silently | | | | | | |
 | evametaṃ | comp | sandhi, adv + pron | | therefore this | thus this | | | evaṃ + etaṃ | | |
 | dhārayāmi | verb | pr 1st sg of dhārayati | +acc | I take, I believe, I keep in mind | I bear, carry | √dhar (wear, hold, carry) | √dhar + *aya > dhāraya | dhāraya + ti | | |
 
+**In this case the venerables are pure, therefore (there is) silence, so I keep this (in mind).**
+
 ## satta adhikaraṇasamathā dhammā niṭṭhitā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :--------------------------------------- | :------- | :-------------------------------- | :------------------- | :------------- | :------- | :--------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | satta | card | x pl | | seven | | | | | | |
 | adhikaraṇasamathā | adj | masc nom pl of adhikaraṇasamatha, comp | | related to settling legal cases | settling lawsuits | | | adhikaraṇa + samatha | genitive tappurisa | adhikaraṇassa + samatha |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 
+**The recitation of the  cases related to settling legal issues is finished**
+
 ## uddiṭṭhaṃ kho āyasmanto nidānaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------- | :------ | :-------------------------------------- | :------- | :-------------------- | :----------------- | :-------------------------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhaṃ | pp | nt nom sg of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | āyasmanto | noun | masc voc pl of āyasmant | | venerables | having long life | | | āyas + mant | | |
 | nidānaṃ | noun | nt nom sg of nidāna | | introduction | tying down | √dā (tie) | | ni + √dā + ana | | |
 
+**Venerables, the introduction has been recited.**
+
 ## uddiṭṭhā cattāro pārājikā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------- | :------ | :---------------------------------------- | :------- | :------------------- | :------------------- | :-------------------------- | :------- | :------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | cattāro | card | masc nom pl of catu | | four | | | | | | |
 | pārājikā | adj | masc nom pl of pārājika | | related to defeat | | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
+**The four cases involving disqualification have been recited.**
+
 ## uddiṭṭhā terasa saṅghādisesā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------------------- | :------- | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :------- | :--------------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | terasa | card | x nom pl, comp | | thirteen | | | | ti > te + dasa > rasa + *a | dvanda | ti ca dasa ca |
 | saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring communal rehabilitation; related to an offence entailing demotion | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
+**The thirteen cases [involving] the community in the beginning and in the rest have been recited.**
+
 ## uddiṭṭhā dve aniyatā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------- | :------ | :---------------------------------------- | :------- | :------------------------------- | :------------------- | :-------------------------- | :------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | dve | card | x nom pl | | two | | | | | | |
 | aniyatā | adj | masc nom pl of aniyata | | uncertain; undecided; variable | not fixed down | √yam (control) | | na + ni + √yam + ta | | |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
+**The two indefinite cases have been recited.**
+
 ## uddiṭṭhā tiṃsa nissaggiyā pācittiyā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------- | :------ | :---------------------------------------- | :------- | :------------------------------------------ | :------------------- | :------------------------------ | :------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | tiṃsa | card | fem nom sg of tiṃsā | | thirty | | | | ti + dasa | | |
 | nissaggiyā | ptp | masc nom pl of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyā | adj | masc nom pl of pācittiya | | requiring confession, involving expiation | | | | | | |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
+**The thirty cases involving expiation with forfeiture have been recited.**
+
 ## uddiṭṭhā dvenavuti pācittiyā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------- | :------ | :---------------------------------------- | :------- | :------------------------------------------ | :------------------- | :-------------------------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | dvenavuti | card | fem nom sg, comp | | ninety two | | | | dve + navuti | dvanda | dve ca navuti ca |
 | pācittiyā | adj | masc nom pl of pācittiya | | requiring confession, involving expiation | | | | | | |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
+**The ninety-two cases involving expiation have been recited.**
+
 ## uddiṭṭhā cattāro pāṭidesanīyā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------------------- | :------- | :--------------------------------------- | :--------------------------- | :-------------------------- | :------------------------ | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | cattāro | card | masc nom pl of catu | | four | | | | | | |
 | pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + *anīya | | |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
+**The four cases that are to be acknowledged have been recited.**
+
 ## uddiṭṭhā sekhiyā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------- | :------ | :---------------------------------------- | :------- | :------------------------------------- | :------------------- | :-------------------------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | sekhiyā | ptp | masc nom pl of sekhiya | | related to training; to be practised | to be trained | √sikkh (learn, train) | | √sikkh + *iya | | |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
+**The cases related to the training have been recited.**
+
 ## uddiṭṭhā satta adhikaraṇasamathā dhammā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :---------------------------------------- | :------- | :-------------------------------- | :------------------- | :-------------------------- | :------- | :--------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | satta | card | x pl | | seven | | | | | | |
 | adhikaraṇasamathā | adj | masc nom pl of adhikaraṇasamatha, comp | | related to settling legal cases | settling lawsuits | | | adhikaraṇa + samatha | genitive tappurisa | adhikaraṇassa + samatha |
 | dhammā | noun | masc nom pl of dhamma, comp | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 
+**The seven cases that are settlements of legal issues have been recited.**
+
 ## ettakaṃ tassa bhagavato sutt'āgataṃ suttapariyāpannaṃ anvaḍḍhamāsaṃ uddesaṃ āgacchati
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :-------------------------------------- | :------- | :------------------------------------------- | :-------------------------- | :-------------------------- | :-------------------------- | :--------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ettakaṃ | adj | masc acc sg of ettaka | | this many, this much | | | | ima + tta + ka | | |
 | tassa 2 | pron | masc gen sg of ta | | of that; his | | | | | | |
 | bhagavato 2 | noun | masc gen sg of bhagavant | | of the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
@@ -218,10 +256,12 @@
 | uddesaṃ | noun | masc acc sg of uddesa, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | āgacchati | verb | pr 3rd sg | +acc | comes (for); comes up (for); arrives (for) | arrives | √gam (go) | √gam + a > gaccha (irreg) | ā + gaccha + ti | | |
 
+**This much [of the training-rules] of the Fortunate One has been handed down in the Sutta, has been included in the Sutta, [and] comes up for recitation half-monthly.**
+
 ## tattha sabbeh'eva samaggehi sammodamānehi avivadamānehi sikkhitabban'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------- | :------- | :--------------------------------------- | :---------------------- | :---------------------- | :----------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | sabbeheva | comp | sandhi, pron + ind | | by all just; with all indeed | | | | sabbehi + eva | | |
 | - sabbehi | pron | masc instr pl of sabba | | by all (monks) | | | | | | |
@@ -233,26 +273,32 @@
 | - sikkhitabbaṃ | ptp | nt nom sg of sikkhitabba | | it should be trained | | √sikkh (train) | | √sikkh + itabba | | |
 | - iti | ind | | | “” | thus | | | | | |
 
+**Herein is to be trained by all who are united, who are on friendly terms, who are not disputing.**
+
 ## vitthār'uddeso pañcamo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------ | :------- | :-------------------------------------- | :-------------- | :-------------------------- | :------- | :------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | vitthāruddeso | noun | comp, nom sg of vitthāruddesa | | detailed recitation; chanting in full | | | | vitthāra + uddesa | kammadhāraya | vitthāra + uddesa |
 | - vitthāra | adj | masc | | detailed; full | | √thar (spread, expand) | | vi + √thar + *a | | |
 | - uddesa | noun | masc, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | pañcamo | ordin | masc nom sg of pañcama | | fifth (5th) | | | | pañca + ma | | |
 
+**Detailed recitation is fifth.**
+
 ## bhikkhupātimokkhaṃ niṭṭhitaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------------------- | :-------------- | :------- | :------- | :--------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhupātimokkhaṃ | noun | nt nom sg of bhikkhupātimokkha, comp | | 227 precepts for Buddhist monks; disciplinary code for monks | | | | bhikkhu + pātimokkha | genitive tappurisa | bhikkhūnaṃ + pātimokkha |
 | niṭṭhitaṃ | pp | nt nom sg of niṭṭhita | | finished; completed; accomplished; lit. stood down | | | | ni + √ṭhā + ita | | |
+
+**The Disciplinary Code of the Bhikkhu has been finished**
 
 ## sādhu sādhu sādhu!
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------- | :------ | :---------- | :------- | :---------------------------------------- | :-------------- | :------------------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sādhu | ind | excl | +dat | it is good (for); it would be good (if) | good | √sādh (accomplish) | | √sādh + u | | |
 
 

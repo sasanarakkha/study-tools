@@ -3,7 +3,7 @@
 ## bhikkhuṃ pan'eva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :--------------------- | :------------------------------ | :------------------ | :---------------------- | :-------------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paneva | comp | sandhi, ind + ind | | and just, and now | | | | pana + eva | | |
 | kulaṃ | noun | nt nom sg of kula | | household, family | close together | √kul (be close) | | √kul + a | | |
@@ -22,12 +22,13 @@
 | - - patta | noun | masc | | bowl | | √pā (drink) | | √pā + ta | | |
 | - - pūrā | adj | | | full; filled up | | √pūr (fill) | | √pūr + a | | |
 | paṭiggahetabbā | ptp | masc nom pl of paṭigahetabba | | can be accepted, can be taken | | √gah (grasp) | gah + ṇhā  > gahe (irreg) | pati + gahe + tabba | | |
-| Now, should an approached family invite, with cakes and biscuits, a monk to take away, by a wishing monk two or three bowls full can be accepted; | | | | | | | | | | |
+
+**Now, should an approached family invite, with cakes and biscuits, a monk to take away, by a wishing monk two or three bowls full can be accepted;**
 
 ## tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :---------------------------------------------------------- | :-------------------------- | :--------------------------- | :------------------- | :-------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
 | ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
@@ -43,7 +44,8 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | sāmīci | noun | fem nom sg | | right thing to do, correct course, proper procedure | | | | | | |
-| if he should accept more than that, there is an offence requiring confession. Having accepted two or three bowls full, having taken [it] away from there, [it] is to be shared together with monks. This is the proper procedure there. | | | | | | | | | | |
+
+**if he should accept more than that, there is an offence requiring confession. Having accepted two or three bowls full, having taken [it] away from there, [it] is to be shared together with monks. This is the proper procedure there.**
 
 
 [← previous](paramparabhojanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=k%C4%81%E1%B9%87am%C4%81tusikkh%C4%81pada%E1%B9%83) | [next →](paṭhamapavāraṇāsikkhāpadaṃ.md)

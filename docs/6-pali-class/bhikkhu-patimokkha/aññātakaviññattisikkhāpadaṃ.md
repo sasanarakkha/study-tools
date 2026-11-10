@@ -3,7 +3,7 @@
 ## yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya aññatra samayā, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :------------------------------ | :----------------- | :------------------------ | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -22,12 +22,13 @@
 | samayā | noun | masc abl sg of samaya | | from the right time, proper occasion | from come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should request a robe-cloth from an unrelated male householder or female householder, except at the right occasion, this is an offence requiring relinquishment and confession | | | | | | | | | | |
+
+**If any monk should request a robe-cloth from an unrelated male householder or female householder, except at the right occasion, this is an offence requiring relinquishment and confession**
 
 ## tatth'āyaṃ samayo, acchinnacīvaro vā hoti bhikkhu, naṭṭhacīvaro vā, ayaṃ tattha samayo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :-------------------------------- | :--------------------- | :-------------------------- | :------------- | :------------------- | :------------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatthāyaṃ | comp | sandhi, adv + pron | | in this case this | there this | | | tattha + ayaṃ | | |
 | - tattha | ind | adv, from ta | | in that case, in that regard | there, in that place | | | ta + tha | | |
 | - ayaṃ | pron | masc nom sg of ima | | this, he | this person | | | ima + aṃ | | |
@@ -45,7 +46,8 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
-| In that case this is the right occasion: a monk is one whose robe has been robbed or whose robe has been lost; this is the right occasion in that case. | | | | | | | | | | |
+
+**In that case this is the right occasion: a monk is one whose robe has been robbed or whose robe has been lost; this is the right occasion in that case.**
 
 
 [← previous](cīvarapaṭiggahaṇasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=a%C3%B1%C3%B1%C4%81takavi%C3%B1%C3%B1attisikkh%C4%81pada%E1%B9%83) | [next →](tatuttarisikkhāpadaṃ.md)

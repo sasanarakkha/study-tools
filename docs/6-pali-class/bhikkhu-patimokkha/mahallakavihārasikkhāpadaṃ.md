@@ -3,7 +3,7 @@
 ## mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :----------------------------------------------- | :--------------------- | :----------------------- | :---------------------------- | :--------------------------- | :------------------- | :-------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | mahallakaṃ | adj | masc acc sg of mahallaka | | large, big | | √mah (increase) | | √mah + ā + la + ka | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -30,12 +30,13 @@
 | - harite | noun | nt loc sg of harita | | (in) crop, vegetable | in green | | | hari + ta | | |
 | ṭhitena | pp | masc instr sg of ṭhita | | by a (monk) standing | | √ṭhā (stand) | | √ṭhā + ita | | |
 | adhiṭṭhātabbaṃ | ptp | nt nom sg of adhiṭṭhātabba | | can be ordered, should be arranged | to be stood | √ṭhā (stand) | | adhi + √ṭhā + tabba | | |
-| By a monk who is having a large dwelling built, a layer of two or three coverings can be arranged, by [a monk] standing on a few crops, upto the frame of the door for fixing the bolt, [and] for preparing the window.<br> | | | | | | | | | | |
+
+**By a monk who is having a large dwelling built, a layer of two or three coverings can be arranged, by [a monk] standing on a few crops, upto the frame of the door for fixing the bolt, [and] for preparing the window.<br>**
 
 ## tato ce uttariṃ appaharite'pi ṭhito adhiṭṭhaheyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------ | :------- | :---------------------------------------------------------- | :---------------- | :------------- | :------------------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
 | ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
@@ -45,7 +46,8 @@
 | ṭhito | pp | masc nom sg of ṭhita | | a (monk) standing | stood | √ṭhā (stand) | | √ṭhā + ita | | |
 | adhiṭṭhaheyya | verb | opt 3rd sg of adhiṭṭhahati | | he would arrange | determine | √ṭhā (stand) | √ṭhā + ṭhā > ṭhaha | adhi + ṭhaha + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If he should arrange more than that, even standing on a few crops, there is an offence requiring confession. | | | | | | | | | | |
+
+**If he should arrange more than that, even standing on a few crops, there is an offence requiring confession.**
 
 
 [← previous](vehāsakuṭisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=mahallakavih%C4%81rasikkh%C4%81pada%E1%B9%83) | [next →](sappāṇakasikkhāpadaṃ.md)

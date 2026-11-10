@@ -3,7 +3,7 @@
 ## yo pana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :------------------ | :------------------- | :-------------------- | :----------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -18,6 +18,8 @@
 | bhuñjeyya | verb | opt 3rd sg of bhuñjati | | he would eat | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk, should chew or eat non-staple or staple food, storing (it) up, there is an offence requiring confession.**
 
 
 [← previous](vikālabhojanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sannidhik%C4%81rakasikkh%C4%81pada%E1%B9%83) | [next →](paṇītabhojanasikkhāpadaṃ.md)

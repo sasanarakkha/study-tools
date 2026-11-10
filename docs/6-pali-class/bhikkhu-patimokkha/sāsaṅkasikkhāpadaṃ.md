@@ -3,7 +3,7 @@
 ## upavassaṃ kho pana kattikapuṇṇamaṃ yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------- | :------- | :-------------------------------------------- | :----------------------- | :------------------- | :------- | :-------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | upavassaṃ | ind | abs, from upavassati | | having spent, having lived; having observed | living near | √vas (live) | | upa + √vas + yaṃ | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
@@ -22,12 +22,13 @@
 | - sāsaṅka | adj | | | dodgy, risky, unsafe | with doubt | √saṃk (doubt) | | sa + ā + √saṃk + ā + a | | |
 | - sammatāni | adj | nt nom pl of sammata | | considered to be, regarded as | thought together | √man (think) | | saṃ + √man + ta | | |
 | sappaṭibhayāni | adj | nt nom pl of sappaṭibhaya | | dangerous, perilous | with personal danger | √bhī (fear) | | sa + pati + √bhī + *a | | |
-| Now, the Kattika-full-moon has been observed. There are those wilderness lodgings which are considered risky (and) dangerous. | | | | | | | | | | |
+
+**Now, the Kattika-full-moon has been observed. There are those wilderness lodgings which are considered risky (and) dangerous.**
 
 ## tathārūpesu bhikkhu sen'āsanesu viharanto ākaṅkhamāno tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ antaraghare nikkhipeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :-------------------------------------- | :----------------------- | :------------------ | :--------------------- | :------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tathārūpesu | adj | nt loc pl of tathārūpa | | in such kind | in such forms | | | tathā + rūpa | | |
 | - tathā | ind | adv | | like that, such | | | | ta + thā | | |
 | - rūpesu | adj | nt loc pl of rūpa | | of type; of kind | in forms | √rūp (produce) | | √rūp + a | | |
@@ -43,12 +44,13 @@
 | - antara | adj | | | inside; internal; within | between | | | anta + ra | | |
 | - ghare | noun | nt loc sg of ghara | | in house; home; household | | | | | | |
 | nikkhipeyya | verb | opt 3rd sg, from nikkhipati | | he should keep, store | throw down | √khip (throw) | √khip + a > khipa | ni + khipa + ti | | |
-| A monk dwelling in such kind of lodgings, who is wishing, could keep any robe of the three robes inside a village. | | | | | | | | | | |
+
+**A monk dwelling in such kind of lodgings, who is wishing, could keep any robe of the three robes inside a village.**
 
 ## siyā ca tassa bhikkhuno koci'd'eva paccayo tena cīvarena vippavāsāya, chārattaparamaṃ tena bhikkhunā tena cīvarena vippavasitabbaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :--------------------------------------------------------------------- | :------------------------- | :-------------- | :--------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | siyā | verb | opt 3rd sg of atthi | +nom | there could be | | √as (be) | √as + a > siya | siya + a | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | tassa | pron | masc dat sg of ta | | for that | | | | | | |
@@ -68,12 +70,13 @@
 | tena | pron | masc instr sg of ta | | from that | with that | | | | | |
 | cīvarena | noun | nt instr sg of cīvara | | from a robe | with cloth | | | | | |
 | vippavasitabbaṃ | ptp | nt nom sg of vippavasitabba | +instr | could be apart (from); can be absent (from); can be separated (from) | to be lived apart (with) | √vas (live) | | vi + pa + √vas + itabba | | |
-| And there being any reason for that monk to dwell apart from that robe, for six days at the most, that monk can dwell apart from that robe; | | | | | | | | | | |
+
+**And there being any reason for that monk to dwell apart from that robe, for six days at the most, that monk can dwell apart from that robe;**
 
 ## tato ce uttariṃ vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------- | :------- | :---------------------------------------------------------- | :----------------------- | :------------------------------ | :--------- | :------------------------ | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
 | ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
@@ -82,7 +85,8 @@
 | bhikkhusammutiyā | noun | fem abl sg of bhikkhusammuti, comp | | from permission from the monks; consent of the monastics | agreement of the monks | | | bhikkhu + sammuti | genitive tappurisa | bhikkhūnaṃ + sammuti |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya, comp | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| if he should dwell apart for more than that, apart from permission from the monks, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**if he should dwell apart for more than that, apart from permission from the monks, this is an offence requiring relinquishment and confession.**
 
 
 [← previous](accekacīvarasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=s%C4%81sa%E1%B9%85kasikkh%C4%81pada%E1%B9%83) | [next →](pariṇatasikkhāpadaṃ.md)

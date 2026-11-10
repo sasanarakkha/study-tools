@@ -3,7 +3,7 @@
 ## bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpanaṃ upakkhaṭaṃ hoti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------ | :---------------------- | :-------------------------- | :---------------------------- | :----------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paneva | comp | sandhi, ind + ind | | and just, and now | | | | pana + eva | | |
 | uddissa | verb | ger of uddisati | +acc | in the name of, especially for, for the sake of | pointing up | √dis (point out, explain) | | ud + √dis + ya | | |
@@ -17,12 +17,13 @@
 | - cetāpanaṃ | noun | nt nom sg of cetāpana | | fund, account | exchanging; bartering | √cit (mark) | √cit + *āpe > cetāpe (caus) | cetāpe + ana | | |
 | upakkhaṭaṃ | pp | nt nom sg of upakkhaṭa | | arranged, prepared | made near | √kar (do, make) | | upa + √kar > khar + ta | | |
 | hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
-| Now, the robe-fund of an unrelated male householder or female householder has been set up for the sake of a monk<br> | | | | | | | | | | |
+
+**Now, the robe-fund of an unrelated male householder or female householder has been set up for the sake of a monk<br>**
 
 ## iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------------ | :----------------------------- | :------------------ | :----------------------- | :---------------------------- | :------------------- | :------------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | iminā | pron | nt instr sg ima | | with this | | | | | | |
 | cīvaracetāpanena | noun | nt instr sg of cīvaracetāpana, comp | | with robe fund, robe account | fund for robe | | | cīvara + cetāpana | dative tappurisa | cīvarassa + cetāpana |
 | cīvaraṃ | noun | nt nom sg of cīvara | | robe, robe-cloth | cloth | | | | | |
@@ -35,12 +36,13 @@
 | acchādessāmīti | comp | sandhi, fut + ind | | | | | | acchādessāmi + iti | | |
 | - acchādessāmi | verb | fut 1st sg of acchādeti | +acc +instr | I will clothe | I will cover | √chad (cover, conceal) | √chad + *e > chāde | ā + chāde + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
-| "Having bought a robe with this robe-fund, I shall clothe the monk named so and so with a robe," | | | | | | | | | | |
+
+**"Having bought a robe with this robe-fund, I shall clothe the monk named so and so with a robe,"**
 
 ## tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------ | :------------------ | :---------------------------- | :------------------ | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatra | ind | adv, from ta | | there, in this case, in this regard | there | | | ta + tra | | |
 | ce | ind | cond | | if | | | | | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
@@ -51,12 +53,13 @@
 | cīvare | noun | nt loc sg of cīvara | | of robe | in the cloth | | | | | |
 | vikappaṃ | noun | masc acc sg of vikappa | +loc | alteration, change | | √kapp (be fit, be suitable) | | vi + √kapp + a | | |
 | āpajjeyya | verb | opt 3rd sg of āpajjati | | would cause; engage in | | √pad (go, step) | √pad + ya > pajja | ā + pajja + ti | | |
-| and then if that monk, previously uninvited, having approached, should cause an alteration in the robe | | | | | | | | | | |
+
+**and then if that monk, previously uninvited, having approached, should cause an alteration in the robe**
 
 ## sādhu vata maṃ āyasmā iminā cīvaracetāpanena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :---------------------------------------- | :-------------- | :----------------------- | :---------------------------- | :------------------ | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sādhu | ind | excl | +dat | it is good (for); it would be good (if) | good | √sādh (accomplish) | | √sādh + u | | |
 | vata | ind | emph | | indeed, truly | | | | | | |
 | maṃ | pron | 1st acc sg of ahaṃ | | to me, for me, me | me | | | | | |
@@ -74,19 +77,21 @@
 | acchādehīti | comp | sandhi, imp + ind | | | | | | acchādehi + iti | | |
 | - acchādehi | verb | imp 2nd sg of acchādeti | | you must clothe | cover! | √chad (cover, conceal) | √chad + *e > chāde | ā + chāde + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
-| “It would be good indeed, Sir, having bought a such-and-such robe with this robe-fund, please clothe me.” | | | | | | | | | | |
+
+**“It would be good indeed, Sir, having bought a such-and-such robe with this robe-fund, please clothe me.”**
 
 ## kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------ | :------ | :----------------------------------- | :------- | :---------------------------------------------------------- | :--------------- | :------------------------------ | :------- | :------------------------ | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | kalyāṇakamyataṃ | noun | fem acc sg of kalyāṇakamyatā, comp | | desire for something good | desire good | | | kalyāṇa + kamyatā | dative tappurisa | kalyāṇassa + kamyatā |
 | - kalyāṇa | adj | | | good | | | | | | |
 | - kamyataṃ | noun | fem acc sg of kamyatā | | wish, desire | | √kam (desire) | | √kam + ya + tā | | |
 | upādāya | ind | adv, ger of upādiyati | +acc | based on, on account of, using | taking near | √ādā (take, steal) | | upa + √ādā + ya | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| out of a desire for something good, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**out of a desire for something good, this is an offence requiring relinquishment and confession.**
 
 
 [← previous](tatuttarisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pa%E1%B9%ADhamaupakkha%E1%B9%ADasikkh%C4%81pada%E1%B9%83) | [next →](dutiyaupakkhaṭasikkhāpadaṃ.md)

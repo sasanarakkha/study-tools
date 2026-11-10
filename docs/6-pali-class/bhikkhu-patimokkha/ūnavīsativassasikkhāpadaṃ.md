@@ -3,7 +3,7 @@
 ## yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :----------------------- | :---------------- | :----------------- | :--------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -25,6 +25,8 @@
 | idaṃ | pron | nt nom sg of ima | | this | | | | | | |
 | tasmiṃ | pron | masc loc sg of ta | | in that (case), in that (situation) | in that | | | | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk should knowingly ordain a person who is less than twenty years (old), that person is unordained and those monks are to be blamed. In that (case) this is an offence requiring confession.**
 
 
 [← previous](duṭṭhullasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=%C5%ABnav%C4%ABsativassasikkh%C4%81pada%E1%B9%83) | [next →](theyyasatthasikkhāpadaṃ.md)

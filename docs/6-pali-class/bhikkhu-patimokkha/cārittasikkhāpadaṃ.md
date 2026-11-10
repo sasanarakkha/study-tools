@@ -3,7 +3,7 @@
 ## yo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya aññatra samayā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------- | :--------------------------- | :------------------ | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -24,10 +24,12 @@
 | samayā | noun | masc abl sg of samaya | | from the right time, proper occasion | from come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk being invited, with (expectation of) a meal, having not asked a monk who is present, before the meal or after the meal, should engage in visiting families, except at the right occasion, there is an offence requiring confession.**
+
 ## tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :-------------------------------------- | :------- | :-------------------------------- | :-------------- | :-------------- | :------- | :----------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatthāyaṃ | comp | sandhi, adv + pron | | in this case this | there this | | | tattha + ayaṃ | | |
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 | cīvaradānasamayo | noun | masc nom sg of cīvaradānasamaya, comp | | time offering robe (cloth) | | | | cīvara + dāna + samaya | genitive tappurisa | cīvaradānassa + samaya |
@@ -36,5 +38,7 @@
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 
+**In that case this is the right occasion: the occasion of a giving of robe[-cloth]s; the occasion of a making of robes; this is the right occasion in that case.**
 
-[← previous](rahonisajjasikkhāpadaṃ 2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=c%C4%81rittasikkh%C4%81pada%E1%B9%83) | [next →](mahānāmasikkhāpadaṃ.md)
+
+[← previous](rahonisajjasikkhāpadaṃ-2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=c%C4%81rittasikkh%C4%81pada%E1%B9%83) | [next →](mahānāmasikkhāpadaṃ.md)

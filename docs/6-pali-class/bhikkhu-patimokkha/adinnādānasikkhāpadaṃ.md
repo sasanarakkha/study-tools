@@ -3,7 +3,7 @@
 ## yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :-------------------------------------------- | :------- | :---------------------------------------------------------------------- | :------------------ | :---------------------- | :-------------------------- | :------------------- | :----------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -17,12 +17,13 @@
 | -  theyya | noun | nt | | theft, thieving | state of thief | √then (steal) | | √then + ya | | |
 | - saṅkhātaṃ | pp | nt acc sg of saṅkhāta, pp of sankhāyati | | reckoned, so called, considered | | √khā (tell, announce) | | saṃ + √khā + ta | | |
 | ādiyeyya | verb | opt 3rd sg of ādiyati | | he should steal | take | √ādā (take, steal) | √āda + ya > ādāya > ādiya | ādiya + ti | | |
-| If any monk from a village or wilderness area, should take what has not been given, in a way that is reckoned as theft.<br>If any monk from a village or wilderness area, should take what has not been given(and) what is reckoned as theft. | | | | | | | | | | |
+
+**If any monk from a village or wilderness area, should take what has not been given, in a way that is reckoned as theft.<br>If any monk from a village or wilderness area, should take what has not been given(and) what is reckoned as theft.**
 
 ## yathārūpe adinn'ādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------ | :------- | :--------------------------------- | :---------------------- | :------------------- | :-------------------------- | :----------------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yathārūpe | adj | nt loc sg of yathārūpa, comp | | in such kind, of such value | such form, such shape | | | yathā + rūpa | kammadhāraya | yathā + rūpa |
 | - yathā | ind | adv | | like, as | | | | ya + thā | | |
 | - rūpe | noun | nt loc sg of rūpa | | in form | shape | √rūp (produce) | | √rūp + a | | |
@@ -38,12 +39,13 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | pabbājeyyuṃ | verb | opt 3rd pl of pabbājeti | | they would banish, exile | cause to go away | √vaj (procede) | vaj + *e > vāje > bāje | pa + bāje + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| in (that) the kind of taking what is not given, (where) king's men, having caught the robber, would beat or bind or banish (him), | | | | | | | | | | |
+
+**in (that) the kind of taking what is not given, (where) king's men, having caught the robber, would beat or bind or banish (him),**
 
 ## coro'si bālo'si mūḷho'si theno'sī'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------- | :------ | :------------------------ | :------- | :------------------------------ | :-------------- | :---------------------------- | :------- | :-------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | corosi | comp | sandhi, masc + pr | | you are a robber | | | | coro + asi | | |
 | - coro | noun | masc nom sg of cora | | thief, robber | | √cur (steal) | | √cur + *a | | |
 | - asi | verb | pr 2nd sg of atthi | +nom | you are | | √as (be) | | √as + si | | |
@@ -57,12 +59,13 @@
 | - theno | noun | masc nom sg of thena | | thief, robber | | √then (steal) | | √then + a | | |
 | - asi | verb | pr 2nd sg of atthi | +nom | you are | | √as (be) | | √as + si | | |
 | - iti | ind | | | “” | thus | | | | | |
-| “You are a robber! You are a immature! You are deluded! You are a thief!,” | | | | | | | | | | |
+
+**“You are a robber! You are a immature! You are deluded! You are a thief!,”**
 
 ## tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayam'pi pārājiko hoti asaṃvāso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------ | :------ | :-------------------------------------------- | :------- | :---------------------------------- | :-------------------- | :------------------- | :-------------------------- | :------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tathārūpaṃ | adj | nt acc sg of tathārupa | | that kind, that value | | | | tathā + rūpa | kammadhāraya | tathā + rūpa |
 | - tathā | ind | adv | | like that, such | | | | ta + thā | | |
 | - rūpaṃ | noun | nt acc sg of rūpa | | form | shape | √rūp (produce) | | √rūp + a | | |
@@ -75,7 +78,8 @@
 | pārājiko | adj | masc nom sg of pārājika | | defeated, destroyed, disqualified | conquered | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
 | asaṃvāso | adj | masc nom sg of asaṃvāsa, from saṃvasati | | unaffiliated, excommunicated | not living together | √vas (live) | | na + saṃ + √vas + *a | | |
-| a monk taking something what has not been given of such a kind, he is also defeated (and) not in communion. | | | | | | | | | | |
+
+**a monk taking something what has not been given of such a kind, he is also defeated (and) not in communion.**
 
 
-[← previous](methunadhamma sikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=adinn%C4%81d%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](manussaviggahasikkhāpadaṃ.md)
+[← previous](methunadhamma-sikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=adinn%C4%81d%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](manussaviggahasikkhāpadaṃ.md)

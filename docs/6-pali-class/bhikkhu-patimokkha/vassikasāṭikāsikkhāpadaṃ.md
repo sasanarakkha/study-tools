@@ -3,7 +3,7 @@
 ## vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------------- | :------- | :--------------------------------------------------------- | :---------------------- | :---------------- | :---------------------------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | vassikasāṭikaṃ | noun | fem acc sg of vassikasāṭikā, comp | | rain cloth, raincoat | cloth related to rain | | | vassika + sāṭika | kammadhāraya | vassika + sāṭika |
 | - vassika | adj | from vassa | | related to the rainy season | | √vass (rain) | | √vass + a + ika | | |
 | - sāṭikaṃ | noun | fem acc sg of sāṭikā | | cloth, cloak, coat | | | | | | |
@@ -13,10 +13,12 @@
 | pamāṇikā | adj | fem nom sg | | according to the measurement, with the right measurement | with measure | √mā (measure) | | pa + √mā + aṇa + ikā | | |
 | kāretabbā | ptp | fem nom sg of kāretabba | | should be built | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
 
+**By a monk who is having a rain's bathing-cloth made, [a bathing-cloth] which has the [proper] measure is to be made.**
+
 ## tatr'idaṃ pamāṇaṃ, dīghaso cha vidatthiyo sugatavidatthiyā, tiriyaṃ aḍḍhateyyā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :----------------------------------- | :------- | :--------------------------------- | :------------------ | :-------------- | :------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatridaṃ | comp | sandhi, adv + pron | | in this case this | | | | tatra + idaṃ | | |
 | pamāṇaṃ | noun | nt nom sg of pamāṇa, from pamiṇāti | | measurement, size | | √mā (measure) | | pa + √mā + aṇa | | |
 | dīghaso | ind | adv, abl sg of dīgha | | lengthwise, in length | from long | | | dīgha + so | | |
@@ -28,14 +30,18 @@
 | - aḍḍha | adj | | | minus half | | | | | | |
 | - ti | card | | | three | | | | | | |
 
+**This is the measure here, lengthwise: six spans of the sugata-span; across: two and a half  (spans).**
+
 ## taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :--------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :------------------- | :---------------------------- | :------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | atikkāmayato | prp | masc dat sg of atikkāmanta | | for (one) going beyond, exceeding | causing to go too far | √kam (go) | √kam + *aya > kāmaya (caus) | ati + kāmaya + nta | | |
 | chedanakaṃ | ind | adv, acc sg of chedanaka | | involving cutting up | cutting up | √chid (cut, steal) | √chid + *e > chede | chede + ana + akaṃ | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**For one exceeding that, there is an offence requiring confession involving cutting [off the cloth].**
 
 
 [← previous](kaṇḍupaṭicchādisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=vassikas%C4%81%E1%B9%ADik%C4%81sikkh%C4%81pada%E1%B9%83) | [next →](nandasikkhāpadaṃ.md)

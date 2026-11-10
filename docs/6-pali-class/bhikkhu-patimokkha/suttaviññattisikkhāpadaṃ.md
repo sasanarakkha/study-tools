@@ -3,7 +3,7 @@
 ## yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------- | :------- | :---------------------------------------------------------- | :------------------------------ | :------------------------------ | :-------------------- | :------------------------ | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -17,7 +17,8 @@
 | vāyāpeyya | verb | opt 3rd sg of vāyāpeti, caus of vāyati | | he would make weave | cause to weave | √ve (weave) | √ve + *āpe > vāyāpe | vāyāpe + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk, having himself requested the thread, should make cloth-makers weave a robe-cloth, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**If any monk, having himself requested the thread, should make cloth-makers weave a robe-cloth, this is an offence requiring relinquishment and confession.**
 
 
 [← previous](cīvaraacchindanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=suttavi%C3%B1%C3%B1attisikkh%C4%81pada%E1%B9%83) | [next →](mahāpesakārasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## na sīsappacālakaṃ antaraghare gamissāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------------- | :----------------- | :---------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | sīsappacālakaṃ | ind | adv, acc sg of sīsappacālaka, comp | | swaying the head, shaking the head | | | | sīsa + pacālaka | accusative tappurisa | sīsaṃ + pacālaka |
 | - sīsa | noun | nt | | head | top | | | | | |
@@ -13,10 +13,12 @@
 | sikkhā | noun | fem nom sg | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 
+**"I shall not go swaying the head inside an inhabited area," the training is to be done.**
+
 ## na sīsappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------- | :------- | :------------------ | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | sīsappacālakaṃ | ind | adv, acc sg of sīsappacālaka, comp | | swaying the head, shaking the head | | | | sīsa + pacālaka | accusative tappurisa | sīsaṃ + pacālaka |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
@@ -24,14 +26,18 @@
 | sikkhā | noun | fem nom sg | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 
+**"I shall not sit swaying the head inside an inhabited area," the training is to be done.**
+
 ## ujjagghikavaggo dutiyo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------- | :------- | :---------------------------- | :-------------- | :--------------- | :------- | :------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ujjagghikavaggo | noun | comp, masc nom sg of ujjagghikavagga | | chapter about loud laughter | | | | ujjagghikā + vagga | kammadhāraya | ujjagghikā + vagga |
 | - ujjagghikā | noun | fem | | loud laughter | | √jaggh (laugh) | | ud + √jaggh + ikā | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | dutiyo | card | masc nom sg of dutiya | | second | | | | dvi > du + tiya | | |
+
+**The chapter about loud laughter  is second**
 
 
 [← previous](bāhuppacālakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=s%C4%ABsappac%C4%81lakasikkh%C4%81pada%E1%B9%83) | [next →](khambhakatasikkhāpadaṃ.md)

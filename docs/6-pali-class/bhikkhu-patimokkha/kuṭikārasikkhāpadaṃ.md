@@ -3,7 +3,7 @@
 ## saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ att'uddesaṃ pamāṇikā kāretabbā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :--------------------------------------------------------- | :-------------------- | :-------------------------- | :---------------------------- | :--------------------- | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | saññācikāya | noun | fem instr sg, comp | | by one’s own begging | | | | saṃ + yācikā | | |
 | - saṃ | pron | | | one’s own | | | | sayaṃ > saṃ | | |
 | - yācikāya | noun | fem instr sg | | by asked for; begging | | √yāc (beg) | | √yāc + a + ikā | | |
@@ -17,12 +17,13 @@
 | - uddesaṃ | adj | masc acc sg of uddesa, from uddisati | | intended for; designated for | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | pamāṇikā | adj | fem nom sg | | according to the measurement, with the right measurement | with measure | √mā (measure) | | pa + √mā + aṇa + ikā | | |
 | kāretabbā | ptp | fem nom sg of kāretabba | | should be built | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
-| Through one's own begging, by a monk who is having a hut built, without an owner, designated for himself, (it) is to be built according to the measurement. | | | | | | | | | | |
+
+**Through one's own begging, by a monk who is having a hut built, without an owner, designated for himself, (it) is to be built according to the measurement.**
 
 ## tatr'idaṃ pamāṇaṃ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt'antarā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------- | :------ | :----------------------------------- | :------- | :-------------------------------------------- | :--------------------- | :-------------- | :------- | :------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatridaṃ | comp | sandhi, adv + pron | | in this case this | | | | tatra + idaṃ | | |
 | - tatra | ind | adv | | therein, in that regard, in that connection | there, in that place | | | ta + tra | | |
 | - idaṃ | pron | nt nom sg of ima | | this | | | | | | |
@@ -39,12 +40,13 @@
 | sattantarā | comp | sandhi, card + ind | | seven inside | | | | satta + antarā | | |
 | - satta | card | x pl | | seven | | | | | | |
 | - antarā | ind | adv, abl sg of antara | | inside, within | from the inside | | | anta + ra | | |
-| This is the measure here, lengthwise: twelve spans of the sugata-span; across: seven (spans) within. | | | | | | | | | | |
+
+**This is the measure here, lengthwise: twelve spans of the sugata-span; across: seven (spans) within.**
 
 ## bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthuṃ desetabbaṃ anārambhaṃ saparikkamanaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------- | :------- | :----------------------------------------------- | :--------------------------- | :-------------------------- | :----------------------------------- | :------------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | abhinetabbā | ptp | masc nom pl of abhinetabba | | should be brought (to); be invited | to be lead all the way | √nī (lead) | √nī + a > ne | abhi + ne + tabba | | |
 | vatthudesanāya | noun | fem dat sg, comp | | for designating the site; appointing the place | | | | vatthu + desanā | genitive tappurisa | vatthuno + desanā |
@@ -55,18 +57,19 @@
 | desetabbaṃ | ptp | nt nom sg of desetabba | | should be appointed, designated | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese | dese + tabba | | |
 | anārambhaṃ | adj | nt nom sg | | not harmful, not injurious | without violence | √rabh (be violent) | √rabh + a > rabha > rambha (irreg) | na > an + ā + rambha + a | | |
 | saparikkamanaṃ | adj | nt nom sg | | accessible, approachable | with walking around | √kam (go) | | sa + pari + √kam + ana | | |
-| Monks are to be brought for appointing the site. By those monks a site is to be appointed which is not harmful, having a surrounding space. | | | | | | | | | | |
+
+**Monks are to be brought for appointing the site. By those monks a site is to be appointed which is not harmful, having a surrounding space.**
 
 ## bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthuṃ  desetabbaṃ anārambhaṃ saparikkamanaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------- | :------ | :--------------------- | :------- | :------------------------------------------------------------ | :------------------------- | :-------------------------- | :----------------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | - desanāya | noun | fem dat sg of desanā | | to appointing; allocating; indicating; designating; showing | for causing to point out | √dis (point out, explain) | √dis + *e > dese | dese + anā | | |
 
 ## sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------- | :------ | :------------------------------- | :------- | :------------------------------------ | :--------------------------- | :------------------- | :----------------------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sārambhe | adj | nt loc sg of sārambha, comp | | on harmful, injurious | in with harm | √rabh (be violent) | √rabh + a > rabha > rambha (irreg) | saṃ > sā + rambha + a | | |
 | ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -75,12 +78,13 @@
 | saññācikāya | noun | fem instr sg, comp | | by one’s own begging | | | | saṃ + yācikā | | |
 | kuṭiṃ | noun | fem acc sg of kuti | | hut, house | bent | √kuṭ (bend) | | √kuṭ + i | | |
 | kāreyya | verb | opt 3rd sg of kāreti | | he would build, make | cause to make | √kar (do, make) | √kar + *e > kāre (caus) | kāre + ti | | |
-| If a monk on a harmful site, without surrounding space, through one's own begging, would have a hut built | | | | | | | | | | |
+
+**If a monk on a harmful site, without surrounding space, through one's own begging, would have a hut built**
 
 ## bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :-------------- | :---------------- | :-------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhū 2 | noun | masc acc pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | anabhineyya | verb | opt 3rd sg of abhineti, neg | +acc | he would not bring; not invite | | √nī (lead) | √nī + a > ne | abhi + ne + ti | | |
@@ -89,7 +93,8 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | atikkāmeyya | verb | opt 3rd sg of atikkāmeti | | he would exceed, go beyond | cause to go too far | √kam (go) | √kam + e > kāme | ati + kāme + ti | | |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
-| or (if) he would not bring monks for appointing the site, or (if) he would exceed the measurement, it is a saṅghādisesa (offence). | | | | | | | | | | |
+
+**or (if) he would not bring monks for appointing the site, or (if) he would exceed the measurement, it is a saṅghādisesa (offence).**
 
 
 [← previous](sañcarittasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ku%E1%B9%ADik%C4%81rasikkh%C4%81pada%E1%B9%83) | [next →](vihārakārasikkhāpadaṃ.md)

@@ -1,12 +1,12 @@
 # Dhammayuttika Pubba-kicca analysis
 
 | Pāli | POS | Grammar | English | Root |
-| ------ | ----- | --------- | --------- | ------ |
+| --- | --- | --- | --- | --- |
 
 okāsaṃ me bhante thero detu pāṭimokkhaṃ uddesituṃ.
 
 | okāsaṃ | noun | masc.acc.sg | permission | |
-| ----------------------------------------------------------------------------- | ------ | ------------- | ------------------- | ------------------------------------------------------------ |
+| --- | --- | --- | --- | --- |
 | me | pron | 1st.acc.sg | me | |
 | bhante | noun | masc.voc.sg | venerable sir | |
 | thero | noun | masc.nom.sg | elder | |
@@ -20,7 +20,7 @@ okāsaṃ me bhante thero detu pāṭimokkhaṃ uddesituṃ.
 [thera: karomi āyasmato okāsaṃ.]
 
 | thera | noun | masc.voc.sg? | elder monk | |
-| ----------------------------------------------------------------- | ------ | -------------- | ------------------------ | --- |
+| --- | --- | --- | --- | --- |
 | karomi | verb | pr.1st.sg | I make; I do | |
 | āyasmato | noun | masc.dat.sg | to the venerable (one) | |
 | okāsaṃ | noun | masc.acc.sg | permission | |
@@ -31,7 +31,7 @@ okāsaṃ me bhante thero detu pāṭimokkhaṃ uddesituṃ.
 uposathakaraṇato pubbe navavidhaṃ pubbakiccaṃ kātabbaṃ hoti:
 
 | uposathakaraṇato | noun | nt.abl.sg | performance of the observance day ceremony | |
-| ------------------------------------------------------------------------------------------------------- | ------ | ------------ | -------------------------------------------- | --- |
+| --- | --- | --- | --- | --- |
 | \#uposatha | noun | - | observance day ceremony | |
 | \#karaṇato | noun | nt.abl.sg | performance | |
 | pubbe | ind | adv (+abl) | before | |
@@ -46,7 +46,7 @@ uposathakaraṇato pubbe navavidhaṃ pubbakiccaṃ kātabbaṃ hoti:
 taṇ'ṭhānasammajjanañ'ca; tattha padīp'ujjalanañ'ca; āsanapaññapanañ'ca; pānīyaparibhojanīy'ūpaṭṭhapanañ'ca; chand'ārahānaṃ bhikkhūnaṃ chand'āharaṇañ'ca;
 
 | taṇ'ṭhānasammajjanañ'ca | sandhi | | and sweeping that place | |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------- | --- |
+| --- | --- | --- | --- | --- |
 | \#taṃ | pron | nt. | that | |
 | \#ṭhāna | noun | nt. | place | |
 | \#sammajjanaṃ | noun | nt.nom.sg | sweeping | |
@@ -77,7 +77,7 @@ taṇ'ṭhānasammajjanañ'ca; tattha padīp'ujjalanañ'ca; āsanapaññapanañ'
 tesaññ'eva akat'uposathānaṃ pārisuddhiyā'pi āharaṇañ'ca; utu'kkhānañ'ca; bhikkhugaṇanā ca; bhikkhunīnam'ovādo cā'ti.
 
 | tesaññ'eva | sandhi | | just of those | |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------- | ------------------------------------------------------- | --- |
+| --- | --- | --- | --- | --- |
 | \#tesaṃ | pron | masc.gen.pl | of those | |
 | \#eva | ind | emph | just | |
 | akat'uposathānaṃ | sandhi | | who do not participate in the Observance Day ceremony | |
@@ -112,7 +112,7 @@ tesaññ'eva akat'uposathānaṃ pārisuddhiyā'pi āharaṇañ'ca; utu'kkhāna�
 tattha purimesu catūsu kiccesu padīpakiccaṃ idāni suriy'ālokassa atthitāya n'atthi, aparāni tīṇi bhikkhūnaṃ vattaṃ jānantehi bhikkhūhi katāni pariniṭṭhitāni honti.
 
 | tattha | ind | adv | in that regard; regarding the matter | |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------- | -------------------------------------------------------- | ------------------------------------------ |
+| --- | --- | --- | --- | --- |
 | purimesu | adj | nt.loc.pl | in regard to the former (earlier) | |
 | catūsu | card | nt.loc.pl | in regard to the four | |
 | kiccesu | noun | nt.loc.pl | in regard to the duties | |
@@ -141,7 +141,7 @@ tattha purimesu catūsu kiccesu padīpakiccaṃ idāni suriy'ālokassa atthitāy
 chand'āharaṇa pārisuddhiāharaṇāni pana imissaṃ sīmāyaṃ hatthapāsaṃ vijahitvā nisinnānaṃ bhikkhūnaṃ abhāvato n'atthi.
 
 | chand'āharaṇa | noun | nt. | conveying consent | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------- | -------------------- | ---------------------------------------------------------------- |
+| --- | --- | --- | --- | --- |
 | \#chanda | noun | masc. | consent; approval | |
 | \#āharaṇa | noun | nt. | bringing; carrying | |
 | pārisuddhiāharaṇāni | noun | nt.nom.pl | bringing purity | |
@@ -163,7 +163,7 @@ chand'āharaṇa pārisuddhiāharaṇāni pana imissaṃ sīmāyaṃ hatthapāsa
 utu'kkhānaṃ nāma ettakaṃ atikkantaṃ ettakaṃ avasiṭṭhan'ti;
 
 | utu'kkhānaṃ | noun | nt.nom.sg | announcing the season | |
-| ---------------------------------------------------------------------------------------------------------------------- | -------- | ---------------- | ----------------------- | ------------------------------------------ |
+| --- | --- | --- | --- | --- |
 | \#utuṃ | noun | masc.acc.sg | the season | |
 | \#akkhānaṃ | noun | nt.nom.sg | announcing | |
 | nāma | ind | adv | namely | |
@@ -180,7 +180,7 @@ utu'kkhānaṃ nāma ettakaṃ atikkantaṃ ettakaṃ avasiṭṭhan'ti;
 evaṃ utuācikkhanaṃ. utūn'īdha pana sāsane hemantagimhavassānānaṃ vasena tīṇi honti.
 
 | evaṃ | ind | adv | like this | |
-| ---------------------------------------------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------- | --- |
+| --- | --- | --- | --- | --- |
 | utuācikkhanaṃ | noun | nt.nom.sg | stating the season | |
 | \#utu | noun | masc | the season | |
 | \#ācikkhanaṃ | noun | nt.nom.sg | stating; announcing | |
@@ -203,7 +203,7 @@ evaṃ utuācikkhanaṃ. utūn'īdha pana sāsane hemantagimhavassānānaṃ vas
 ayaṃ [hemanto'tu / gimho'tu /vassāno'tu], asmiñ'ca utumhi aṭṭha uposathā, iminā pakkhena: eko uposatho sampatto, satta uposathā atikkantā, [\#] uposathā avasiṭṭhā. [aṭṭha uposathā paripuṇṇā].
 
 | ayaṃ | pron | masc.nom.sg | this | |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------- | ---------------------- | ------------------------------------------------------------------------ |
+| --- | --- | --- | --- | --- |
 | hemanto'tu | noun | masc.nom.sg | winter season | |
 | \#hemanto | noun | masc.nom.sg | winter; cold | |
 | \#utu | noun | masc.nom.sg | season | |
@@ -239,7 +239,7 @@ ayaṃ [hemanto'tu / gimho'tu /vassāno'tu], asmiñ'ca utumhi aṭṭha uposath�
 iti evaṃ sabbehi āyasmantehi utu'kkhānaṃ dhāretabbaṃ.
 
 | iti | ind | adv | thus; like this | |
-| ------------------------------------------------------------------------------------------ | ------ | --------------- | -------------------------------------------- | ------------------------------------------------------------------- |
+| --- | --- | --- | --- | --- |
 | evaṃ | ind | adv | thus | |
 | sabbehi | pron | masc.instr.pl | by all | |
 | āyasmantehi | noun | masc.instr.pl | by the venerab les | |
@@ -254,7 +254,7 @@ iti evaṃ sabbehi āyasmantehi utu'kkhānaṃ dhāretabbaṃ.
 bhikkhugaṇanā nāma imasmiṃ uposath'agge uposath'atthāya sannipatitā bhikkhū ettakā'ti, bhikkhūnaṃ gaṇanā.
 
 | bhikkhugaṇanā | noun | fem.nom.sg | counting the monks | |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------- | -------------------------------- | ------------------------------------------ |
+| --- | --- | --- | --- | --- |
 | \#bhikkhu | noun | masc. | the monks | |
 | \#gaṇanā | noun | fem.nom.sg | counting | |
 | nāma | ind | adv | the [so-]called | |
@@ -277,7 +277,7 @@ bhikkhugaṇanā nāma imasmiṃ uposath'agge uposath'atthāya sannipatitā bhik
 imasmiṃ pana uposath'agge [cattāro] bhikkhū sannipatitā honti.
 
 | imasmiṃ | pron | nt.loc.sg | in this | |
-| ---------------------------------------------------------------------------- | ------ | ------------- | --------------------- | --- |
+| --- | --- | --- | --- | --- |
 | pana | ind | | and so | |
 | uposath'agge | noun | nt.loc.sg | observance day hall | |
 | \#uposatha | noun | masc. | observance day | |
@@ -291,7 +291,7 @@ imasmiṃ pana uposath'agge [cattāro] bhikkhū sannipatitā honti.
 iti sabbehi āyasmantehi bhikkhugaṇanā'pi dhāretabbā.
 
 | iti | ind | | thus | |
-| ------------------------------------------------------------------------------------- | -------- | --------------- | ---------------------- | --- |
+| --- | --- | --- | --- | --- |
 | sabbehi | pron | masc.instr.pl | by all | |
 | āyasmantehi | noun | masc.instr.pl | by the venerab les | |
 | bhikkhugaṇanā'pi | sandhi | | | |
@@ -305,7 +305,7 @@ iti sabbehi āyasmantehi bhikkhugaṇanā'pi dhāretabbā.
 bhikkhunīnam'ovādo pana samīpe tāsaṃ n'atthitāya n'atthi.
 
 | bhikkhunīnam'ovādo | noun | masc.nom.sg | instruction of the nuns; exhortation of the nuns | |
-| ----------------------------------------------------------------------------------- | ------ | ------------- | -------------------------------------------------- | ------------------------------------------ |
+| --- | --- | --- | --- | --- |
 | \#bhikkhunīnaṃ | noun | fem.gen.pl | of the nuns | |
 | \#ovādo | noun | masc.nom.sg | instruction; exhortation | |
 | pana | | | | |
@@ -320,7 +320,7 @@ bhikkhunīnam'ovādo pana samīpe tāsaṃ n'atthitāya n'atthi.
 iti sakaraṇ'okāsānaṃ pubbakiccānaṃ katattā nikkaraṇ'okāsānaṃ pubbakiccānaṃ pakatiyā pariniṭṭhitattā evan'taṃ navavidhaṃ pubbakiccaṃ pariniṭṭhitaṃ hoti.
 
 | iti | ind | | thus | |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ----------------------------------------- | --- |
+| --- | --- | --- | --- | --- |
 | sakaraṇ'okāsānaṃ | adj | masc.gen.pl | of the opportunities of doing | |
 | \#sa | ind | prefix | with | |
 | \#karaṇa | adj | masc. | (of) doing | |
@@ -355,7 +355,7 @@ iti sakaraṇ'okāsānaṃ pubbakiccānaṃ katattā nikkaraṇ'okāsānaṃ pub
 niṭṭhite ca pubbakicce: sace so divaso cātuddasī-paṇṇarasī-sāmaggīnam'aññataro yath'ājja uposatho paṇṇaraso/cātuddaso/sāmaggo.
 
 | niṭṭhite | pp | nt.loc.sg (loc abs) | has been completed | |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------- | ------------------------------------------ | --- |
+| --- | --- | --- | --- | --- |
 | ca | ind | conj | and; and if | |
 | pubbakicce | noun | nt.loc.sg | preliminary duty | |
 | sace | ind | | when; if | |
@@ -380,7 +380,7 @@ niṭṭhite ca pubbakicce: sace so divaso cātuddasī-paṇṇarasī-sāmaggīn
 1\. yāvatikā ca bhikkhū kammappattā saṅgh'uposath'ārahā cattāro vā tato vā atirekā pakatattā pārājikaṃ anāpannā saṅghena vā anukkhittā.
 
 | yāvatikā | adj | masc.nom.pl | however many | |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- | --------------------------------------------------------------------------- | ----------------------------------------- |
+| --- | --- | --- | --- | --- |
 | ca | ind | conj | and | |
 | bhikkhū | noun | masc.nom.pl | monks | |
 | kammappattā | adj | masc.nom.pl | entitled to participate in the formal act | |
@@ -410,7 +410,7 @@ niṭṭhite ca pubbakicce: sace so divaso cātuddasī-paṇṇarasī-sāmaggīn
 2\. te ca kho hatthapāsaṃ avijahitvā ekasīmāyaṃ ṭhitā.
 
 | te | pron | masc.nom.pl | they | |
-| -------------------------------------------------------------------------------------- | ------ | ------------- | ----------------------- | -------------------------------------------------------------- |
+| --- | --- | --- | --- | --- |
 | ca | ind | and | and | |
 | kho | ind | emph | indeed | |
 | hatthapāsaṃ | noun | masc.acc.sg | hand’s reach | |
@@ -424,7 +424,7 @@ niṭṭhite ca pubbakicce: sace so divaso cātuddasī-paṇṇarasī-sāmaggīn
 3\. tesañ'ca vikālabhojan'ādi-vasena-vatthu-sabhāg'āpattiyo ce na vijjanti.
 
 | tesañ'ca | sandhi | | and for them | |
-| --------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------- | ------------------------------------------------------------------------------ | --------------------------------------------- |
+| --- | --- | --- | --- | --- |
 | \#tesaṃ | pron | masc.dat.pl | for them | |
 | \#ca | ind | conj | and | |
 | vikālabhojan'ādi | noun | nt.nom.sg | eating between midday and dawn and so on; eating at the wrong time and so on | |
@@ -446,7 +446,7 @@ niṭṭhite ca pubbakicce: sace so divaso cātuddasī-paṇṇarasī-sāmaggīn
 4\. tesañ'ca hatthapāse hatthapāsato bahikaraṇavasena vajjetabbo koci vajjanīyapuggalo ce n'atthi.
 
 | tesañ'ca | sandhi | | and for them | |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------- | --- |
+| --- | --- | --- | --- | --- |
 | \#tesaṃ | pron | masc.dat.pl | for them | |
 | \#ca | ind | conj | and | |
 | hatthapāse | noun | masc.loc.sg | in hand’s reach | |
@@ -469,7 +469,7 @@ niṭṭhite ca pubbakicce: sace so divaso cātuddasī-paṇṇarasī-sāmaggīn
 5\. evan'taṃ uposathakammaṃ imehi catūhi lakkhaṇehi saṅgahitaṃ pattakallaṃ nāma hoti, kātuṃ yuttarūpaṃ.
 
 | evan'taṃ | sandhi | | thus that; in this way that | |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | -------------------------------------------- | -------------------------------------------- |
+| --- | --- | --- | --- | --- |
 | \#evaṃ | ind | adv | thus | |
 | \#taṃ | pron | nt.nom.sg | that | |
 | uposathakammaṃ | noun | nt.nom.sg | performance of the observance day ceremony | |
@@ -495,7 +495,7 @@ niṭṭhite ca pubbakicce: sace so divaso cātuddasī-paṇṇarasī-sāmaggīn
 6\. uposathakammassa pattakallattaṃ viditvā idāni kariyamāno uposatho saṅghena anumānetabbo.
 
 | uposathakammassa | noun | nt.gen.sg | of the performance of the observance day ceremony | |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- | -------------------------------------------------------------------------- | ------------------------------------------------------ |
+| --- | --- | --- | --- | --- |
 | \#uposatha | noun | masc. | observance day ceremony | |
 | \#kammassa | noun | nt.gen.sg | of the performance (of); of the procedure (of) | |
 | pattakallattaṃ | noun | nt.nom.sg | the fact of being the right time (lit: reached time state) | |
@@ -514,7 +514,7 @@ niṭṭhite ca pubbakicce: sace so divaso cātuddasī-paṇṇarasī-sāmaggīn
 [thera: pubbakaraṇa-pubbakiccāni samāpetvā, imassa nisinnassa bhikkhusaṅghassa anumatiyā pāṭimokkhaṃ uddesituṃ ajjhesanaṃ karomi.]
 
 | thera | noun | masc.voc.sg | elder monk | |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------- | ---------------------------------------- | ----------------------------------------------------------- |
+| --- | --- | --- | --- | --- |
 | pubbakaraṇa | noun | nt. | preliminary work | |
 | \#pubba | adj | nt. | previous | |
 | \#karaṇa | adj | nt. | doing | |

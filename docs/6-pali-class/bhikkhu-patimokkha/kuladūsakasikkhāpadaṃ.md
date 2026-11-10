@@ -3,7 +3,7 @@
 ## bhikkhu pan'eva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsako pāpasamācāro
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :----------------------------------------------- | :------------------ | :-------------------------------- | :---------------- | :--------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paneva | comp | sandhi, ind + ind | | and just, and now | | | | pana + eva | | |
 | aññataraṃ 2 | adj | masc acc sg of aññatara | | certain, one | more than another | | | añña + tara | | |
@@ -19,12 +19,13 @@
 | pāpasamācāro | adj | masc nom sg of pāpasamācāra, comp | | of bad conduct, badly behaved | | | | pāpa + samācāra | kammadhāraya | pāpa + samācāra |
 | - pāpa | adj | | | evil, bad, wicked | | | | | | |
 | - samācāro | noun | masc nom sg of samācāra, from samācarati | | behaviour, conduct | | √car (walk, behave) | | saṃ + ā + √car + *a | | |
-| Now, a monk lives depending on a certain village or town who is a corrupter of families, who is of bad behaviour. | | | | | | | | | | |
+
+**Now, a monk lives depending on a certain village or town who is a corrupter of families, who is of bad behaviour.**
 
 ## tassa kho pāpakā samācārā dissanti c'eva suyyanti ca, kulāni ca tena duṭṭhāni dissanti c'eva suyyanti ca
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :--------------------- | :-------------- | :------------------------- | :------------------------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tassa 2 | pron | masc gen sg of ta | | of that; his | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | pāpakā | adj | masc nom pl of pāpaka | | evil, bad, wicked | | | | pāpa + ka | | |
@@ -43,29 +44,32 @@
 | ceva | comp | sandhi, ind + ind | | and just | | | | ca + eva | | |
 | suyyanti | verb | pr 3rd pl of suyyati, pass of suṇāti | | they are heard | | √su (hear) | √su + ya > suyya (pass) | suyya + ti | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
-| His bad actions are seen and heard, and the families corrupted by him are seen and heard. | | | | | | | | | | |
+
+**His bad actions are seen and heard, and the families corrupted by him are seen and heard.**
 
 ## so bhikkhu bhikkhūhi evam'assa vacanīyo
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------- | :------------------ | :-------------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | evamassa | comp | sandhi, adv + opt | | thus should be | | | | evaṃ + assa | | |
 | vacanīyo | ptp | masc nom sg of vacanīya | | should be spoken, told, addressed | to be said | √vac (speak) | | √vac + anīya | | |
-| That monk should be spoken to by the monks thus: | | | | | | | | | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | evamassa | comp | sandhi, adv + opt | | thus should be | | | | evaṃ + assa | | |
 | vacanīyo | ptp | masc nom sg of vacanīya | | should be spoken, told, addressed | to be said | √vac (speak) | | √vac + anīya | | |
-| That monk should be spoken to by the monks thus: | | | | | | | | | | |
+
+**That monk should be spoken to by the monks thus:**
+
+**That monk should be spoken to by the monks thus:**
 
 ## āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti c'eva suyyanti ca, kulāni c'āyasmatā duṭṭhāni dissanti c'eva suyyanti ca
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :----------------------------------------------- | :-------------- | :------------------------- | :------------------------- | :-------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | āyasmā | noun | masc nom sg of āyasmant | | venerable | | | | āyas + mant | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | kuladūsako | noun | masc nom sg of kuladūsaka, comp | | who corrupts families; who subverts households | | | | kula + dūsaka | accusative tappurisa | kulāni + dūsaka |
@@ -87,7 +91,6 @@
 | ceva | comp | sandhi, ind + ind | | and just | | | | ca + eva | | |
 | suyyanti | verb | pr 3rd pl of suyyati, pass of suṇāti | | they are heard | | √su (hear) | √su + ya > suyya (pass) | suyya + ti | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
-| “The venerable one is a corrupter of families, who is of bad behaviour. Bad actions of the venerable one are seen and heard, and the families corrupted by the venerable one are seen and heard. | | | | | | | | | | |
 | āyasmā | noun | masc nom sg of āyasmant | | venerable | | | | āyas + mant | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | kuladūsako | noun | masc nom sg of kuladūsaka, comp | | who corrupts families; who subverts households | | | | kula + dūsaka | accusative tappurisa | kulāni + dūsaka |
@@ -108,10 +111,14 @@
 | suyyanti | verb | pr 3rd pl of suyyati, pass of suṇāti | | they are heard | | √su (hear) | √su + ya > suyya (pass) | suyya + ti | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 
+**“The venerable one is a corrupter of families, who is of bad behaviour. Bad actions of the venerable one are seen and heard, and the families corrupted by the venerable one are seen and heard.**
+
+**The venerable one is a corrupter of families, who is of bad behaviour. Bad actions of the venerable one are seen and heard, and the families corrupted by the venerable one are seen and heard.**
+
 ## pakkamat'āyasmā imamhā āvāsā, alaṃ te idha vāsenā'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------- | :------ | :----------------------------------- | :------- | :------------------------------ | :-------------- | :------------ | :---------------- | :------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | pakkamatāyasmā | comp | sandhi, imp + masc | | may the venerable go away! | | | | pakkamatu + āyasmā | | |
 | - pakkamatu | verb | imp 3rd sg of pakkamati | | he must go away! may he leave | step forward | √kam (go) | √kam + a > kama | pa + kama + ti | | |
 | - āyasmā | noun | masc nom sg of āyasmant | | venerable | | | | āyas + mant | | |
@@ -123,7 +130,6 @@
 | vāsenāti | comp | sandhi, masc + ind | | | | | | vāsena + iti | | |
 | - vāsena | noun | masc instr sg of vāsa, from vasati | | with living, with staying | | √vas (live) | | √vas + *a | | |
 | - iti | ind | | | “” | thus | | | | | |
-| Let the venerable one depart from this dwelling! Enough for you of dwelling here!” | | | | | | | | | | |
 | pakkamatāyasmā | comp | sandhi, imp + masc | | may the venerable go away! | | | | pakkamatu + āyasmā | | |
 | imamhā | pron | nt abl sg of ima | | from this | | | | ima + mhā | | |
 | āvāsā | noun | masc abl sg of āvāsa, from āvasati | | from living place, dwelling | | √vas (live) | | ā + √vas + *a | | |
@@ -131,12 +137,15 @@
 | te 3 | pron | 2nd dat sg of tvaṃ | | for you | | | | | | |
 | idha | ind | adv | | here | | | | ima + dha | | |
 | vāsenāti | comp | sandhi, masc + ind | | | | | | vāsena + iti | | |
-| Let the venerable one depart from this dwelling! Enough for you of dwelling here!” | | | | | | | | | | |
+
+**Let the venerable one depart from this dwelling! Enough for you of dwelling here!”**
+
+**Let the venerable one depart from this dwelling! Enough for you of dwelling here!”**
 
 ## evañ'ca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṃ vadeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :------------------------------------- | :-------------------- | :-------------- | :------------------------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | evañca | comp | sandhi, adv + ind | | and thus, and if like this, but thus | | | | evaṃ + ca | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -146,12 +155,13 @@
 | bhikkhū 2 | noun | masc acc pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
-| and (if) that monk being spoken to thus by the monks should say thus to those monks: | | | | | | | | | | |
+
+**and (if) that monk being spoken to thus by the monks should say thus to those monks:**
 
 ## chandagāmino ca bhikkhū, dosagāmino ca bhikkhū, mohagāmino ca bhikkhū, bhayagāmino ca bhikkhū
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :------ | :-------------------------------- | :------- | :--------------------------------------------- | :-------------------- | :---------------------------- | :------- | :--------------- | :----------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | chandagāmino | adj | masc nom pl of chandagāmī, comp | | motivated by self interest; driven by desire | | | | chanda + gāmī | instrumental tappurisa | chandena + gāmī |
 | - chanda | noun | masc | | interest, desire | | √chand (desire) | | √chand + a | | |
 | - gāmino | adj | masc nom pl of gāmī | | motivated by | going by | √gam (go) | | √gam + *ī | | |
@@ -172,12 +182,13 @@
 | - gāmino | adj | masc nom pl of gāmī | | motivated by | going by | √gam (go) | | √gam + *ī | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
-| “The monks are driven by desire; the monks are driven by anger; the monks are driven by delusion; the monks are driven by fear. | | | | | | | | | | |
+
+**“The monks are driven by desire; the monks are driven by anger; the monks are driven by delusion; the monks are driven by fear.**
 
 ## tādisikāya āpattiyā ekaccaṃ pabbājenti, ekaccaṃ na pabbājentī'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------- | :------ | :-------------------------------------- | :------- | :---------------------------------------- | :----------------- | :---------------- | :----------------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tādisikāya | adj | fem instr sg of tādisaka, comp | | with such kind, with such sort | | | | taṃ > tā + disa + ikā | | |
 | āpattiyā | noun | fem instr sg of āpatti, from āpajjati | | when offence, transgression, wrongdoing | in go wrong | √pad (go, step) | | ā + √pad + ti | | |
 | ekaccaṃ | pron | masc acc sg of ekacca | | some person | | | | eka + tya | | |
@@ -187,12 +198,13 @@
 | pabbājentīti | comp | sandhi, pr + ind | | | | | | pabbājenti + iti | | |
 | - pabbājenti | verb | pr 3rd pl of pabbājeti | | they banish, exile | cause to go away | √vaj (procede) | vaj + *e > vāje > bāje | pa + bāje + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
-| Because of this kind offence they banish some person, (but) some person they do not banish.” | | | | | | | | | | |
+
+**Because of this kind offence they banish some person, (but) some person they do not banish.”**
 
 ## mā āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :-------------------------------- | :------- | :--------------------------------------------- | :-------------------- | :-------------- | :------- | :--------------- | :----------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | mā | ind | neg | | don't! may not! | | | | | | |
 | āyasmā | noun | masc nom sg of āyasmant | | venerable | | | | āyas + mant | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
@@ -213,12 +225,13 @@
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | bhayagāmino | adj | masc nom pl of bhayagāmī, comp | | motivated by fear; driven by dread | | | | bhaya + gāmino | instrumental tappurisa | bhayena + gāmino |
-| “Let the venerable one not speak thus! “The monks are not driven by desire; the monks are not driven by anger; the monks are not driven by delusion; the monks are not driven by fear. | | | | | | | | | | |
+
+**“Let the venerable one not speak thus! “The monks are not driven by desire; the monks are not driven by anger; the monks are not driven by delusion; the monks are not driven by fear.**
 
 ## evañ'ca so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------------------ | :------------------------- | :----------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | evañca | comp | sandhi, adv + ind | | and thus, and if like this, but thus | | | | evaṃ + ca | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -233,12 +246,13 @@
 | samanubhāsitabbo | ptp | masc nom sg of samanubhāsitabba | +instr | should be admonished (by), should be sternly advised (by) | | √bhās (shine, speak) | | saṃ + anu + √bhās + itabba | | |
 | tassa 2 | pron | masc gen sg of ta | | of that; his | | | | | | |
 | paṭinissaggāya | noun | masc dat sg paṭinissagga, from paṭinissajjati | +gen | for the giving up (of), relinquishing (of) | | √sajj (relinquish, let loose) | | pati + nī + √sajj > sagg + a | | |
-| and if that monk being spoken to thus by the monks should uphold in the same way, (then) that monk is to be admonished up to three times by the monks for the relinquishment of that | | | | | | | | | | |
+
+**and if that monk being spoken to thus by the monks should uphold in the same way, (then) that monk is to be admonished up to three times by the monks for the relinquishment of that**
 
 ## yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajeyya, icc'etaṃ kusalaṃ, no ce paṭinissajeyya, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :----------------------------- | :----------------------------- | :--------------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yāvatatiyañce | comp | sandhi, adv + ind | | if up to the third time | | | | yāvatatiyaṃ + ce | | |
 | samanubhāsiyamāno | prp | masc nom sg of samanubhāsiyamāna, prp of samanubhāsiyati | +instr | being admonished (by), being sternly advised (by) | | √bhās (shine, speak) | √bhās + iya > bhāsiya (pass) | saṃ + anu + bhāsiya + māna | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
@@ -249,7 +263,8 @@
 | ce | ind | cond | | if | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
-| (if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence). | | | | | | | | | | |
+
+**(if) being admonished up to three times, he should relinquish it, that is good, (but) if he should not relinquish (it), is a saṅghādisesa (offence).**
 
 
 [← previous](dubbacasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=kulad%C5%ABsakasikkh%C4%81pada%E1%B9%83) | [next →](aniyatuddeso.md)

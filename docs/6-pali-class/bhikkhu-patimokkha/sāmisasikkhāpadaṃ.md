@@ -3,7 +3,7 @@
 ## na sāmisena hatthena pānīyathālakaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :---------------- | :------- | :--------------------- | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | sāmisena | adj | masc instr sg of sāmisa | | with a dirty | with raw meat | | | sa + āma + isa | | |
 | hatthena | noun | masc instr sg of hattha | | with a hand | | | | | | |
@@ -13,6 +13,8 @@
 | paṭiggahessāmīti | comp | sandhi, fut + ind | | | | | | paṭiggahessāmi + iti | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not accept a drinking-water cup with a hand which is [soiled] with food," the training is to be done.**
 
 
 [← previous](oṭṭhanillehakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=s%C4%81misasikkh%C4%81pada%E1%B9%83) | [next →](sasitthakasikkhāpadaṃ.md)

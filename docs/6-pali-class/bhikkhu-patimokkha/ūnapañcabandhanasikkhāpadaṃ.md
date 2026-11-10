@@ -3,7 +3,7 @@
 ## yo pana bhikkhu ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :---------------------------------------------------------- | :-------------------- | :------------------------------ | :------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -18,12 +18,13 @@
 | cetāpeyya | verb | opt 3rd sg of cetāpeti | | he would exchange | | | | | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should exchange a bowl with less than five mends for another new bowl, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**If any monk should exchange a bowl with less than five mends for another new bowl, this is an offence requiring relinquishment and confession.**
 
 ## tena bhikkhunā so patto bhikkhuparisāya nissajitabbo
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :--------------------------------- | :------------------ | :------------------------------ | :------- | :-------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
@@ -32,12 +33,13 @@
 | - bhikkhu | noun | masc, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | - parisāya | noun | fem dat sg of parisā | | to the group, assembly | sitting around | √sad (sink, sit, settle) | | pari + √sad + ā | | |
 | nissajitabbo | ptp | masc nom sg of nissajjitabba | | should be given up, relinquished | | √sajj (relinquish, let loose) | | nī + √sajj + itabba | | |
-| That bowl is to be relinquished by that monk to the assembly of monks | | | | | | | | | | |
+
+**That bowl is to be relinquished by that monk to the assembly of monks**
 
 ## yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo, ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------- | :------- | :------------------------- | :------------------ | :-------------- | :------------------- | :------------------ | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | tassā | pron | fem gen sg of ta | | of that (community) | | | | | | |
@@ -58,15 +60,18 @@
 | dhāretabboti | comp | sandhi, ptp + ind | | | | | | dhāretabbo + iti | | |
 | - dhāretabbo | ptp | masc nom sg of dhāretabba | | should be kept, stored | to be held | √dhar (hold) | √dhar + *e > dhāre | dhāre + tabba | | |
 | - iti | ind | | | “” | thus | | | | | |
-| and whichever is the last bowl of that assembly of monks, that is to be given to that monk: "monk, this bowl is for you, it is to be kept until breaking." | | | | | | | | | | |
+
+**and whichever is the last bowl of that assembly of monks, that is to be given to that monk: "monk, this bowl is for you, it is to be kept until breaking."**
 
 ## ayaṃ tattha sāmīci.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------- | :------ | :----------------------- | :------- | :---------------------------------------------------- | :-------------- | :------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | sāmīci | noun | fem nom sg | | right thing to do, correct course, proper procedure | | | | | | |
+
+**This is the proper procedure there.**
 
 
 [← previous](pattasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=%C5%ABnapa%C3%B1cabandhanasikkh%C4%81pada%E1%B9%83) | [next →](bhesajjasikkhāpadaṃ.md)

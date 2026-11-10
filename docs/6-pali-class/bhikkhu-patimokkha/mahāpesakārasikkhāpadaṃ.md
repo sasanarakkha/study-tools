@@ -3,7 +3,7 @@
 ## bhikkhuṃ pan'eva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------- | :------- | :------------------------------------------------ | :------------------------------ | :-------------------------- | :-------------------- | :------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paneva | comp | sandhi, ind + ind | | and just, and now | | | | pana + eva | | |
 | uddissa | verb | ger of uddisati | +acc | in the name of, especially for, for the sake of | pointing up | √dis (point out, explain) | | ud + √dis + ya | | |
@@ -15,12 +15,13 @@
 | tantavāyehi | noun | masc instr pl of tantavāya, comp | | by weavers; cloth makers | those who are weaving threads | | | tanta + vāya | accusative tappurisa | tantaṃ + vāya |
 | cīvaraṃ | noun | nt nom sg of cīvara | | robe, robe-cloth | cloth | | | | | |
 | vāyāpeyya | verb | opt 3rd sg of vāyāpeti, caus of vāyati | | he/she would make weave | cause to weave | √ve (weave) | √ve + *āpe > vāyāpe | vāyāpe + ti | | |
-| Now, an unrelated male householder or female householder should make cloth-makers weave a robe-cloth for the sake of a monk, | | | | | | | | | | |
+
+**Now, an unrelated male householder or female householder should make cloth-makers weave a robe-cloth for the sake of a monk,**
 
 ## tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya, idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------ | :------------------ | :---------------------------- | :--------------------------------- | :------------------------ | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatra | ind | adv, from ta | | there, in this case, in this regard | there | | | ta + tra | | |
 | ce | ind | cond | | if | | | | | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
@@ -39,12 +40,13 @@
 | maṃ | pron | 1st acc sg of ahaṃ | | me | | | | | | |
 | uddissa | verb | ger of uddisati | +acc | in the name of, especially for, for the sake of | pointing up | √dis (point out, explain) | | ud + √dis + ya | | |
 | viyyati | verb | pr 3rd sg, pass of vāyati | | it is woven | | √ve (weave) | √ve + iya > vīya  > viyya (pass) | viyya + ti | | |
-| In that case, if that monk, previously uninvited, having approached the cloth-makers, would cause a change in the robe-cloth: "Friends, this robe-cloth is being woven for the sake of me: | | | | | | | | | | |
+
+**In that case, if that monk, previously uninvited, having approached the cloth-makers, would cause a change in the robe-cloth: "Friends, this robe-cloth is being woven for the sake of me:**
 
 ## āyatañ'ca karotha, vitthatañ'ca, appitañ'ca, suvītañ'ca, suppavāyitañ'ca, suvilekhitañ'ca, suvitacchitañ'ca karotha
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------- | :------ | :-------------------------- | :------- | :-------------------------------- | :-------------- | :------------------------ | :------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | āyatañca | comp | sandhi, adj + ind | | | | | | āyataṃ + ca | | |
 | - āyataṃ | adj | nt acc sg of āyata | | long | stretched | √yam (support, stretch) | | ā + √yam + ta | | |
 | - ca | ind | conj | | and (or) but, and if | | | | | | |
@@ -68,12 +70,13 @@
 | - suvitacchitaṃ | adj | nt acc sg of suvitacchita | | well brushed, well cleaned | well cut | √tacch (cut, chop) | | su + vi + √tacch + ita | | |
 | - ca | ind | conj | | and (or) but, and if | | | | | | |
 | karotha | verb | imp 2nd pl of karoti | | you all must make; please make! | | √kar (do, make) | √kar + o > karo | karo + ti | | |
-| please make (it) long, wide, thick, well woven, tightly woven, well scraped, and well brushed! | | | | | | | | | | |
+
+**please make (it) long, wide, thick, well woven, tightly woven, well scraped, and well brushed!**
 
 ## app'eva nāma mayam'pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------- | :------ | :------------------------------ | :------- | :---------------------------------------- | :------------------- | :-------------- | :--------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | appeva | comp | sandhi, ind + ind | | if only, please may, hopefully | | | | api > apy > app + eva | | |
 | nāma | ind | emph | | certainly, indeed | | | | | | |
 | mayampi | comp | sandhi, pron + ind | | we too | | | | mayaṃ + api | | |
@@ -86,12 +89,13 @@
 | anupadajjeyyāmāti | comp | sandhi, opt + ind | | | | | | anupadajjeyyāma + iti | | |
 | - anupadajjeyyāma | verb | opt 1st pl of anupadajjeyya | | I could give | we could give | √dā (give) | √dā + dā + a > dajja | anu + pa + dajja + eyya | | |
 | - iti | ind | | | “” | thus | | | | | |
-| Perhaps I could also give to the venerables a little something," | | | | | | | | | | |
+
+**Perhaps I could also give to the venerables a little something,"**
 
 ## evañ'ca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattam'pi, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :------------------ | :------------------------------ | :--------------------- | :------------------------ | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | evañca | comp | sandhi, adv + ind | | and thus, and if like this, but thus | | | | evaṃ + ca | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -108,7 +112,8 @@
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya, comp | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| and that monk, having said so, would give a little something, even as much as a bit of alms-food, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**and that monk, having said so, would give a little something, even as much as a bit of alms-food, this is an offence requiring relinquishment and confession.**
 
 
 [← previous](suttaviññattisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=mah%C4%81pesak%C4%81rasikkh%C4%81pada%E1%B9%83) | [next →](accekacīvarasikkhāpadaṃ.md)

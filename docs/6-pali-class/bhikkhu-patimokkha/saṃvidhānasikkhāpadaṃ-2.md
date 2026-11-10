@@ -3,7 +3,7 @@
 ## yo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :------------------ | :---------------------- | :------------------ | :---------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -15,6 +15,8 @@
 | antamaso | ind | adv, abl sg of antama | | even so much as; even with | as last | | | anta + ma + so | | |
 | gāmantarampi | comp | sandhi, nt + ind | | even as much as between villages | | | | gāma + antaraṃ + api | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk, having arranged, should travel together with a woman on the same road journey, even just the distance between villages, there is an offence requiring confession.**
 
 
 [← previous](theyyasatthasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sa%E1%B9%83vidh%C4%81nasikkh%C4%81pada%E1%B9%83%202) | [next →](ariṭṭhasikkhāpadaṃ.md)

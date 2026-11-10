@@ -3,7 +3,7 @@
 ## na sayanagatassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------- | :----------------------- | :------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | sayanagatassa | adj | masc dat sg of sayanagata, comp | | to (one) lying down, on a bed | to (one) bed gone | | | sayana + gata | kammadhāraya | sayana + gata |
 | - sayana | noun | nt | | lying down, bed | | √sī (lie, sleep) | | √sī + *ana | | |
@@ -14,5 +14,7 @@
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 
+**"I shall not teach Dhamma to one who is on a couch, [and] who is not ill," the training is to be done.**
 
-[← previous](yānasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sayanasikkh%C4%81pada%E1%B9%83) | [next →](pallatthikasikkhāpadaṃ 2.md)
+
+[← previous](yānasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sayanasikkh%C4%81pada%E1%B9%83) | [next →](pallatthikasikkhāpadaṃ-2.md)

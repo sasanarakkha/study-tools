@@ -29,7 +29,7 @@ def normalize_cell_padding(line: str) -> str:
 
 
 def normalize_separator_row(line: str) -> str:
-    """Normalize |---| to | --- |."""
+    """Normalize |---| to | --- | and collapse long dash runs to `---`."""
     if not line.startswith("|"):
         return line
     # A separator row contains only |, -, :, and whitespace
@@ -44,7 +44,7 @@ def normalize_separator_row(line: str) -> str:
                 continue
         stripped = part.strip()
         if re.match(r"^:?-+:?$", stripped):
-            new_parts.append(f" {stripped} ")
+            new_parts.append(f" {re.sub(r'-{3,}', '---', stripped)} ")
         else:
             new_parts.append(f" {stripped} ")
     return "|".join(new_parts)

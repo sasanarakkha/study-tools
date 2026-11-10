@@ -3,7 +3,7 @@
 ## yo pana bhikkhu aṭṭhimayaṃ vā dantamayaṃ vā visāṇamayaṃ vā sūcigharaṃ kārāpeyya, bhedanakaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :---------------- | :--------------------- | :------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -17,6 +17,8 @@
 | kārāpeyya | verb | opt 3rd sg of kārāpeti | | he should make | cause to make | √kar (do, make) | √kar + *āpe > kārāpe | kārāpe + ti | | |
 | bhedanakaṃ | ind | adv, acc sg of bhedanaka | | involving breaking up; with dismantling | causing to break | √bhid (break) | √bhid + *e > bheda | bheda + ana + akaṃ | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk should have a needle-case made, which is made of bone, or made of ivory, or made of horn, there is an offence requiring confession involving dismantling.**
 
 
 [← previous](vikālagāmappavesanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=s%C5%ABcigharasikkh%C4%81pada%E1%B9%83) | [next →](mañcapīṭhasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :---------------------- | :-------------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -19,17 +19,19 @@
 | siñcāpeyya | verb | opt 3rd sg of siñcāpeti | | he would make pour | cause to sprinkle | √sic (sprinkle, pour) | √sic + ṃa + āpe > siñcāpe | siñcāpe + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should knowingly pour out, or should cause to pour out, water containing living beings on grass or clay, there is an offence requiring confession. | | | | | | | | | | |
+
+**If any monk should knowingly pour out, or should cause to pour out, water containing living beings on grass or clay, there is an offence requiring confession.**
 
 ## bhūtagāmavaggo dutiyo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------- | :------ | :------------------------------------ | :------- | :--------------------- | :-------------------------- | :------- | :------- | :------------------ | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhūtagāmavaggo | noun | comp, masc nom sg of bhūtagāmavagga | | chapter about plants | | | | bhūtagāma + vagga | kammadhāraya | bhūtagāma + vagga |
 | - bhūtagāma | noun | masc, comp | | plants, vegetation | become group; being group | | | bhūta + gāma | genitive tappurisa | bhūtānaṃ + gāma |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | dutiyo | card | masc nom sg of dutiya | | second | | | | dvi > du + tiya | | |
-| The chapter about plants is the second | | | | | | | | | | |
+
+**The chapter about plants is the second**
 
 
 [← previous](mahallakavihārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sapp%C4%81%E1%B9%87akasikkh%C4%81pada%E1%B9%83) | [next →](ovādasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :------------------- | :-------------------- | :----------------------- | :----------------------- | :------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -19,7 +19,8 @@
 | - gihī | noun | masc | | householder | | | | geha + ī | | |
 | - samārambhā | noun | masc abl sg of samārambha | | through the initiative | from the undertaking | √rabh (begin) | √rabh + a > rambha | saṃ + ā + rambha + a | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should knowingly eat alms-food which a nun has caused to be prepared, apart from previous initiative of the householder, there is an offence requiring confession.<br> | | | | | | | | | | |
+
+**If any monk should knowingly eat alms-food which a nun has caused to be prepared, apart from previous initiative of the householder, there is an offence requiring confession.<br>**
 
 
 [← previous](nāvābhirūhanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=parip%C4%81citasikkh%C4%81pada%E1%B9%83) | [next →](rahonisajjasikkhāpadaṃ.md)

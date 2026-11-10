@@ -3,7 +3,7 @@
 ## yo pana bhikkhu jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------------------ | :------------------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -21,7 +21,8 @@
 | sādiyeyya | verb | opt 3rd sg of sādiyati | | he would accept, consent | be tasted | √sād (taste, relish) | √sād + e + iya > sādiya (pass) | sādiya + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should accept gold or money, or should have (it) accepted, or should consent to (it) being deposited (for him), this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**If any monk should accept gold or money, or should have (it) accepted, or should consent to (it) being deposited (for him), this is an offence requiring relinquishment and confession.**
 
 
 [← previous](eḷakalomadhovāpanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=r%C5%ABpiyasikkh%C4%81pada%E1%B9%83) | [next →](rūpiyasaṃvohārasikkhāpadaṃ.md)

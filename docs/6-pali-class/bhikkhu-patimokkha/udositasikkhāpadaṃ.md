@@ -3,7 +3,7 @@
 ## niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine ekarattam'pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :----------------------------------------------------------- | :----------------------- | :------------------------------ | :--------- | :------------------------ | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | niṭṭhitacīvarasmiṃ | noun | nt loc sg of niṭṭhitacīvara, comp | | when the robe-cloth is complete; when the robe is finished | | | | niṭṭhita + cīvara | kammadhāraya | niṭṭhita + cīvara |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | ubbhatasmiṃ | pp | nt loc sg of ubbhata | | when withdrawn, when suspended | in lifted up | √dhar (hold) | | ud + √dhar + ta | | |
@@ -25,7 +25,8 @@
 | - sammutiyā | noun | fem abl sg of sammuti | | from permission, agreement, consent | thinking together | √mun (think) | | saṃ + √mun + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, even for one night if a monk should stay apart from the three robes, apart from permission from the monks, this is an offence requiring relinquishment and confession | | | | | | | | | | |
+
+**When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, even for one night if a monk should stay apart from the three robes, apart from permission from the monks, this is an offence requiring relinquishment and confession**
 
 
 [← previous](kaṭhinasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=udositasikkh%C4%81pada%E1%B9%83) | [next →](akālacīvarasikkhāpadaṃ.md)

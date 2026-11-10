@@ -3,7 +3,7 @@
 ## pattasaññī piṇḍapātaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------------- | :---------------- | :------- | :--------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | pattasaññī | adj | masc nom sg of pattasaññī, comp | | attentive to the bowl; percipient of the bowl | perceiving the bowl | | | patta + saññī | accusative tappurisa | pattaṃ + saññī |
 | - patta 2 | noun | masc | | bowl | | √pā (drink) | | √pā + ta | | |
 | - saññī | adj | mac nom sg of saññī | | aware of, perceiving, attentive to | | √ñā (know) | | saṃ + √ñā + ī | | |
@@ -11,6 +11,8 @@
 | paṭiggahessāmīti | comp | sandhi, fut + ind | | | | | | paṭiggahessāmi + iti | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall accept alms-food percipient of the bowl," the training is to be done.**
 
 
 [← previous](sakkaccapaṭiggahaṇasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pattasa%C3%B1%C3%B1%C4%ABpa%E1%B9%ADiggaha%E1%B9%87asikkh%C4%81pada%E1%B9%83) | [next →](samasūpakapaṭiggahaṇasikkhāpadaṃ.md)

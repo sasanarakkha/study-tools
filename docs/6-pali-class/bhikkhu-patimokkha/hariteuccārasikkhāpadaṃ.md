@@ -3,7 +3,7 @@
 ## na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | harite | noun | nt loc sg of harita | | onto crops, on vegetables | greens | | | | | |
 | agilāno | adj | masc nom sg of agilāna | | is not ill | not sick | √gilā (be sick, tired) | | na + √gilā + na | | |
@@ -16,6 +16,8 @@
 | karissāmīti | comp | sandhi, fut + ind | | | | | | karissāmi + iti | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not excrete or urinate or spit on crops, [while] not ill," the training is to be done.**
 
 
 [← previous](ṭhitouccārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=hariteucc%C4%81rasikkh%C4%81pada%E1%B9%83) | [next →](udakeuccārasikkhāpadaṃ.md)

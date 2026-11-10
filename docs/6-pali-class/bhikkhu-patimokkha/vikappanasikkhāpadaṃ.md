@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā apaccuddhārakaṃ paribhuñjeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :--------------------------------------- | :------------ | :---------------------------------------------------------- | :----------------------------- | :---------------------------- | :-------------------------- | :----------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -23,6 +23,8 @@
 | apaccuddhārakaṃ | ind | adv, acc sg of apaccuddhāraka | | without withdrawing (the assignment) | not carrying back out | √dhar (hold, carry) | | na + pati + ud + √dhar + *a + akaṃ | | |
 | paribhuñjeyya | verb | opt 3rd sg of paribhuñjati | | he would use, make use of | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | pari + bhuñja + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk, having himself assigned a robe to a monk or a nun or a female trainee or a male novice or a female novice, should use [it] without withdrawing [the assignment], there is an offence requiring confession.**
 
 
 [← previous](dubbaṇṇakaraṇasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=vikappanasikkh%C4%81pada%E1%B9%83) | [next →](apanidhānasikkhāpadaṃ.md)

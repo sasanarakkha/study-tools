@@ -3,7 +3,7 @@
 ## māso seso gimhānan'ti, bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ, aḍḍhamāso seso gimhānan'ti katvā nivāsetabbaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :-------------------------------------------------- | :------------------ | :------------------- | :----------------- | :-------------------------- | :----------------- | :------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | māso | noun | masc nom sg of māsa | | month | | √mā (measure) | | √mā + sa | | |
 | seso | adj | masc nom sg of sesa | | remaining, left | | √sis (remain) | | √sis > ses + *a | | |
 | gimhānanti | comp | sandhi, masc + ind | | | | | | gimhānaṃ + iti | | |
@@ -22,12 +22,13 @@
 | gimhānanti | comp | sandhi, masc + ind | | | | | | gimhānaṃ + iti | | |
 | katvā | verb | abs of karoti | | having made | having done | √kar (do, make) | | √kar + tvā | | |
 | nivāsetabbaṃ | ptp | nt nom sg of nivāsetabba | | should be worn; can be put on | to be worn | √vas (wear) | √vas + *e > vāse | ni + vāse + tabba | | |
-| "One month is left of the hot season," (then) by a monk the robe-cloth for the rain's cloth can be sought . "A half month is left of the hot season," (then) having made (it), (it) can be worn. | | | | | | | | | | |
+
+**"One month is left of the hot season," (then) by a monk the robe-cloth for the rain's cloth can be sought . "A half month is left of the hot season," (then) having made (it), (it) can be worn.**
 
 ## orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, oren'aḍḍhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :--------------------------------------- | :---------- | :---------------------------------------------------------- | :------------------ | :------------------------------ | :----------------- | :-------------------------- | :----------------- | :------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | orena | ind | adv, instr sg of ora | +gen | before; sooner than | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | māso | noun | masc nom sg of māsa | | month | | √mā (measure) | | √mā + sa | | |
@@ -44,7 +45,8 @@
 | nivāseyya | verb | opt 3rd sg of nivāseti | | he would wear | | √vas (wear) | √vas + *e > vāse | ni + vāse + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If sooner (than) "One month is left of the hot season," should he seek robe-cloth for the rain's bathing-cloth, (if) sooner than "A half month is left of the hot season," having made (it), should he wear (it), this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**If sooner (than) "One month is left of the hot season," should he seek robe-cloth for the rain's bathing-cloth, (if) sooner than "A half month is left of the hot season," having made (it), should he wear (it), this is an offence requiring relinquishment and confession.**
 
 
 [← previous](bhesajjasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=vassikas%C4%81%E1%B9%ADikasikkh%C4%81pada%E1%B9%83) | [next →](cīvaraacchindanasikkhāpadaṃ.md)

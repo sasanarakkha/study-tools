@@ -3,7 +3,7 @@
 ## na bhuñjamāno sabbahatthaṃ mukhe pakkhipissāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :------------------- | :-------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | bhuñjamāno | prp | masc nom sg of bhuñjamāna | | eating | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + māna | | |
 | sabbahatthaṃ | noun | masc acc sg of sabbahattha | | whole hand; entire hand | | | | | | |
@@ -15,6 +15,8 @@
 | - iti | ind | | | “” | thus | | | | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**I shall not put the whole hand onto the mouth while eating," the training is to be done.**
 
 
 [← previous](anāhaṭasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=bhu%C3%B1jam%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](sakabaḷasikkhāpadaṃ.md)

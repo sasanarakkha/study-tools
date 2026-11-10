@@ -3,7 +3,7 @@
 ## yāni kho pana tāni sekhasammatāni kulāni, yo pana bhikkhu tathārūpesu sekhasammatesu kulesu pubbe animantito agilāno khādanīyaṃ vā, bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā, bhuñjeyya vā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------------------------------------- | :-------------------------- | :------------------------ | :-------------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yāni | pron | nt nom pl of ya | | whichever | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
@@ -32,10 +32,12 @@
 | bhuñjeyya | verb | opt 3rd sg of bhuñjati | | he would eat | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 
+**Now, [there are] those families which are agreed upon as trainees: if any monk previously uninvited, who is not ill,  should chew or eat non-staple or staple food having accepted [it] with his own hand in families who are of such a kind, considered trainees**
+
 ## paṭidesetabbaṃ tena bhikkhunā, gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------------- | :--------------------------- | :-------------------------- | :------------------------ | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + tabba | | |
 | tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -47,6 +49,8 @@
 | pāṭidesanīyaṃ | ptp | masc acc sg of pāṭidesanīya | | should be admitted; should be acknowledged | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + anīya | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | paṭidesemīti | comp | sandhi, pr + ind | | | | | | paṭidesemi + iti | | |
+
+**[it] is to be acknowledged by that monk, "Friend[s], I have committed a blameworthy, unsuitable act, to be acknowledged; That I acknowledge."**
 
 
 [← previous](dutiyapāṭidesanīyasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=tatiyap%C4%81%E1%B9%ADidesan%C4%AByasikkh%C4%81pada%E1%B9%83) | [next →](catutthapāṭidesanīyasikkhāpadaṃ.md)

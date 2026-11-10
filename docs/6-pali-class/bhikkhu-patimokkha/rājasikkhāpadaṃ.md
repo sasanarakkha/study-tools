@@ -3,7 +3,7 @@
 ## bhikkhuṃ pan'eva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpanaṃ pahiṇeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------ | :------------------- | :-------------------------- | :---------------- | :------------------ | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paneva | comp | sandhi, ind + ind | | and just, and now | | | | pana + eva | | |
 | uddissa | verb | ger of uddisati | +acc | in the name of, especially for, for the sake of | pointing up | √dis (point out, explain) | | ud + √dis + ya | | |
@@ -20,12 +20,13 @@
 | dūtena | masc | masc instr sg of dūta | | by messenger | runner | √dū (go, run) | | √dū + ta | | |
 | cīvaracetāpanaṃ | noun | nt nom sg of cīvaracetāpana, comp | | robe fund, robe account | fund for robe | | | cīvara + cetāpana | dative tappurisa | cīvarassa + cetāpana |
 | pahiṇeyya | verb | opt 3rd sg of pahiṇāti | | he should send | | √hi (send) | √hi + ṇā > hiṇā | pa + hiṇā + ti | | |
-| Now, should a king or a royal official or a brahmin or householder send by messenger a robe-fund for the sake of a monk, | | | | | | | | | | |
+
+**Now, should a king or a royal official or a brahmin or householder send by messenger a robe-fund for the sake of a monk,**
 
 ## iminā cīvaracetāpanena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādehī'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :----------------------------- | :------------------ | :-------------- | :---------------------------- | :------------------ | :------------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | iminā | pron | nt instr sg ima | | with this | | | | | | |
 | cīvaracetāpanena | noun | nt instr sg of cīvaracetāpana, comp | | with robe fund, robe account | fund for robe | | | cīvara + cetāpana | dative tappurisa | cīvarassa + cetāpana |
 | cīvaraṃ | noun | nt nom sg of cīvara | | robe, robe-cloth | cloth | | | | | |
@@ -34,12 +35,13 @@
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | cīvarena | noun | nt instr sg of cīvara | | with a robe | cloth | | | | | |
 | acchādehīti | comp | sandhi, imp + ind | | | | | | acchādehi + iti | | |
-| "Having bought a robe with this robe-fund, clothe the monk named so and so with a robe," | | | | | | | | | | |
+
+**"Having bought a robe with this robe-fund, clothe the monk named so and so with a robe,"**
 
 ## so ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------- | :------ | :---------------------------- | :------- | :----------------------- | :------------------ | :-------------- | :---------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | dūto | masc | masc nom sg of dūta | | messenger | runner | √dū (go, run) | | √dū + ta | | |
@@ -48,12 +50,13 @@
 | upasaṅkamitvā | verb | abs of upasaṅkamati | | having approached | having gone near | √kam (go) | | upa + saṃ + √kam + itvā | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
-| and if that messenger, having approached that monk, should say so: | | | | | | | | | | |
+
+**and if that messenger, having approached that monk, should say so:**
 
 ## idaṃ kho, bhante, āyasmantaṃ uddissa cīvaracetāpanaṃ ābhataṃ, paṭiggaṇhātu āyasmā cīvaracetāpanan'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------ | :-------------- | :-------------------------- | :------------------- | :---------------------- | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | idaṃ | pron | nt nom sg of ima | | this | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | bhante | noun | masc voc sg or pl of bhavant | | venerable(s), lord(s), reverend(s) | | √bhū (be) | √bhū + a > bhava | bhava + nta | | |
@@ -66,24 +69,26 @@
 | cīvaracetāpananti | comp | sandhi, nt + ind | | | | | | cīvaracetāpanaṃ + iti | | |
 | - cīvaracetāpanaṃ | noun | nt nom sg of cīvaracetāpana, comp | | robe fund, robe account | fund for robe | | | cīvara + cetāpana | dative tappurisa | cīvarassa + cetāpana |
 | - iti | ind | | | “” | thus | | | | | |
-| "Venerable Sir, this robe-fund has been brought for the sake of the venerable one. Let the venerable one accept the robe-fund!" | | | | | | | | | | |
+
+**"Venerable Sir, this robe-fund has been brought for the sake of the venerable one. Let the venerable one accept the robe-fund!"**
 
 ## tena bhikkhunā so dūto evam'assa vacanīyo
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :---------------------------------- | :------------------ | :-------------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | dūto | masc | masc nom sg of dūta | | messenger | runner | √dū (go, run) | | √dū + ta | | |
 | evamassa | comp | sandhi, adv + opt | | thus should be | | | | evaṃ + assa | | |
 | vacanīyo | ptp | masc nom sg of vacanīya | | should be spoken, told, addressed | to be said | √vac (speak) | | √vac + anīya | | |
-| by that monk that messenger should be spoken to thus: | | | | | | | | | | |
+
+**by that monk that messenger should be spoken to thus:**
 
 ## na kho mayaṃ, āvuso, cīvaracetāpanaṃ paṭiggaṇhāma, cīvarañ'ca kho mayaṃ paṭiggaṇhāma kālena kappiyan'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :--------------------------------- | :----------------- | :---------------------------- | :------------------- | :------------------ | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | mayaṃ | pron | 1st nom pl | | we | | | | | | |
@@ -100,12 +105,13 @@
 | kappiyanti | comp | sandhi, pr + ind | | | | | | kappiyaṃ + iti | | |
 | - kappiyaṃ | adj | nt acc sg kappiya | | allowable, suitable, appropriate | | √kapp (be fit, be suitable) | | √kapp + iya | | |
 | - iti | ind | | | “” | thus | | | | | |
-| "Friend, we do not accept a robe-fund, but we do accept a robe at the right time, (which) is suitable" | | | | | | | | | | |
+
+**"Friend, we do not accept a robe-fund, but we do accept a robe at the right time, (which) is suitable"**
 
 ## so ce dūto taṃ bhikkhuṃ evaṃ vadeyya, atthi pan'āyasmato koci veyyāvaccakaro'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :--------------------------- | :------------------ | :----------------- | :---------------- | :--------------------------------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | dūto | masc | masc nom sg of dūta | | messenger | runner | √dū (go, run) | | √dū + ta | | |
@@ -122,12 +128,13 @@
 | - veyyāvacca | noun | nt | | service, assistance, help | various activity | √par (be active) | | vi + ā > vyā > veyya + √par > var + ta + *ya | | |
 | - karo | noun | masc nom sg of kara, agent of karoti | | doer, maker | maker | √kar (do, make) | | √kar + a | | |
 | - iti | ind | | | “” | thus | | | | | |
-| If that messenger should say thus to that monk: "Is there any steward for the venerable one?" | | | | | | | | | | |
+
+**If that messenger should say thus to that monk: "Is there any steward for the venerable one?"**
 
 ## cīvar'atthikena, bhikkhave, bhikkhunā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā, eso kho, āvuso, bhikkhūnaṃ veyyāvaccakaro'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :------------------------------------------------ | :------------------- | :-------------------------- | :------- | :--------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | cīvaratthikena | adj | masc instr sg of cīvaratthika, comp | | by (a monk) who wants a robe, in need of a robe | | | | cīvara + atthika | accusative tappurisa | cīvaraṃ + atthika |
 | - cīvara | noun | nt | | robe | cloth | | | | | |
 | - atthikena | adj | masc instr sg of atthika | | by (a monk) desiring, in need (of) | | √atth (wish for) | | √atth + a + ika | | |
@@ -146,12 +153,13 @@
 | veyyāvaccakaroti | comp | sandhi, masc + ind | | | | | | veyyāvaccakaro + iti | | |
 | - veyyāvaccakaro | noun | masc nom sg of veyyāvaccakara, comp | | helper, assistant, steward | service maker | | | veyyāvacca + kara | accusative tappurisa | veyyāvaccaṃ + kara |
 | - iti | ind | | | “” | thus | | | | | |
-| monks, by a monk needing a robe, a steward can be appointed: a monastery worker or a devotee (saying): "Friend, this is the monks' steward." | | | | | | | | | | |
+
+**monks, by a monk needing a robe, a steward can be appointed: a monastery worker or a devotee (saying): "Friend, this is the monks' steward."**
 
 ## so ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :----------------------------------- | :---------------------- | :-------------- | :----------------- | :------------------------ | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | dūto | masc | masc nom sg of dūta | | messenger | runner | √dū (go, run) | | √dū + ta | | |
@@ -163,12 +171,13 @@
 | upasaṅkamitvā | verb | abs of upasaṅkamati | | having approached | having gone near | √kam (go) | | upa + saṃ + √kam + itvā | | |
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
-| If that messenger having instructed that steward, having approached that monk, should say so: | | | | | | | | | | |
+
+**If that messenger having instructed that steward, having approached that monk, should say so:**
 
 ## yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :----------------------------------- | :--------------- | :-------------------------- | :----------------- | :------------------ | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yaṃ | pron | masc acc sg of ya | | whichever; which | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | bhante | noun | masc voc sg or pl of bhavant | | venerable(s), lord(s), reverend(s) | | √bhū (be) | √bhū + a > bhava | bhava + nta | | |
@@ -178,12 +187,13 @@
 | saññatto | pp | masc nom sg of saññatta | | instructed, informed | caused to know | √ñā (know) | √ñā + āpe > ñāpe | saṃ + ñāpe + ta | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | mayā | pron | 1st instr sg of ahaṃ | | by me | | | | | | |
-| "Venerable Sir, the steward whom the venerable one has appointed has been instructed by me. | | | | | | | | | | |
+
+**"Venerable Sir, the steward whom the venerable one has appointed has been instructed by me.**
 
 ## upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessatī'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------- | :------ | :--------------------------- | :------- | :------------------ | :---------------- | :----------------------- | :------------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | upasaṅkamatu | verb | imp 3rd sg of upasaṅkamati | | please approach | he must go near | √kam (go) | √kam + a > kama | upa + saṃ + kama + ti | | |
 | āyasmā | noun | masc nom sg of āyasmant | | venerable | | | | āyas + mant | | |
 | kālena | ind | adv, masc instr sg kāla | | at the right time | with time | √kal (spend time) | | √kal + *a | | |
@@ -192,12 +202,13 @@
 | acchādessatīti | comp | sandhi, fut + ind | | | | | | acchādessati + iti | | |
 | - acchādessati | verb | fut 3rd sg of acchādeti | | he will clothe | will cover | √chad (cover, conceal) | √chad + *e > chāde | ā + chāde + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
-| Let the venerable one approach at the right time, he will clothe you with a robe," | | | | | | | | | | |
+
+**Let the venerable one approach at the right time, he will clothe you with a robe,"**
 
 ## cīvar'atthikena, bhikkhave, bhikkhunā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo, attho me, āvuso, cīvarenā'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | :----------------------------------------- | :------- | :------------------------------------------------ | :-------------------------- | :--------------------- | :----------------- | :------------------------ | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | cīvaratthikena | adj | masc instr sg of cīvaratthika, comp | | by (a monk) who wants a robe, in need of a robe | | | | cīvara + atthika | accusative tappurisa | cīvaraṃ + atthika |
 | bhikkhave | noun | masc voc pl of bhikkhu, from bhikkhati | | o monks! | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -216,12 +227,13 @@
 | cīvarenāti | comp | sandhi, nt + ind | | | | | | cīvarena + iti | | |
 | - cīvarena | noun | nt instr sg of cīvara | | from a robe | with a cloth | | | | | |
 | - iti | ind | | | “” | thus | | | | | |
-| Monks, the steward having (been) approached by the monk needing a robe, can be prompted (and) can be reminded two or three times: "Friend, there is a need of a robe for me." | | | | | | | | | | |
+
+**Monks, the steward having (been) approached by the monk needing a robe, can be prompted (and) can be reminded two or three times: "Friend, there is a need of a robe for me."**
 
 ## dvattikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya, icc'etaṃ kusalaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------------- | :-------------------- | :--------------------- | :---------------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | dvattikkhattuṃ | ind | adv, comp | | two or three times | | | | dve + ti + kkhattuṃ | | |
 | codayamāno | prp | masc nom sg of codayamāna, prp of codayati | | prompting, urging | | √cud (impel, accuse) | √cud + *aya > codaya | codaya + māna | | |
 | sārayamāno | prp | masc nom sg of sārayamāna, prp of sārayati | | reminding | causing to remember | √sar (remember) | √sar + *aya > sāraya (caus) | sāraya + māna | | |
@@ -230,12 +242,13 @@
 | abhinipphādeyya | verb | opt 3rd sg of abhinipphādeti | | he should succeed in obtaining; have (him) bring forth | cause coming up | √pad (go, step) | √pad + *e > phāde | abhi + nī + phāde + ti | | |
 | iccetaṃ | comp | sandhi, ind + pron | | that is | thus this | | | iti + etaṃ | | |
 | kusalaṃ | noun | nt nom sg of kusala | | something proper, good deed; doing good | | | | | | |
-| (if) prompting (and) reminding two or three times, he would succeed in obtaining that robe, that is good. | | | | | | | | | | |
+
+**(if) prompting (and) reminding two or three times, he would succeed in obtaining that robe, that is good.**
 
 ## no ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtena uddissa ṭhātabbaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :-------------------------------------- | :------- | :------------------------------------------------------- | :---------------- | :-------------------------- | :------------------ | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | no | ind | neg | | not | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | abhinipphādeyya | verb | opt 3rd sg of abhinipphādeti | | he should succeed in obtaining; have (him) bring forth | cause coming up | √pad (go, step) | √pad + *e > phāde | abhi + nī + phāde + ti | | |
@@ -249,12 +262,13 @@
 | - bhūtena | pp | masc instr sg, pp of bhavati | | by being | become | √bhū (be) | | √bhū + ta | | |
 | uddissa | verb | ger of uddisati | +acc | in the name of, especially for, for the sake of | pointing up | √dis (point out, explain) | | ud + √dis + ya | | |
 | ṭhātabbaṃ | ptp | nt nom sg of ṭhātabba | +instr | should stand | to be stood | √ṭhā (stand) | | √ṭhā + tabba | | |
-| If he would not succeed in obtaining, (then) four times, five times, six times at the most, by (a monk) who has become silent (it) can be stood for the sake of (it). | | | | | | | | | | |
+
+**If he would not succeed in obtaining, (then) four times, five times, six times at the most, by (a monk) who has become silent (it) can be stood for the sake of (it).**
 
 ## catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, icc'etaṃ kusalaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------------- | :---------------- | :-------------------------- | :-------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | catukkhattuṃ | ind | adv, comp | | four times | | | | catu + kkhattuṃ | abyayībhāva | catu + kkhattuṃ |
 | pañcakkhattuṃ | ind | adv, comp | | five times | | | | pañca + kkhattuṃ | abyayībhāva | pañca + kkhattuṃ |
 | chakkhattuparamaṃ | ind | adv, acc sg of chakkhattuparama, comp | | six times at the most, maximum of six times | | | | chakkhattuṃ + paramaṃ | abyayībhāva | chakkhattuṃ + paramaṃ |
@@ -266,12 +280,13 @@
 | abhinipphādeyya | verb | opt 3rd sg of abhinipphādeti | | he should succeed in obtaining; have (him) bring forth | cause coming up | √pad (go, step) | √pad + *e > phāde | abhi + nī + phāde + ti | | |
 | iccetaṃ | comp | sandhi, ind + pron | | that is | thus this | | | iti + etaṃ | | |
 | kusalaṃ | noun | nt nom sg of kusala | | something proper, good deed; doing good | | | | | | |
-| (If) standing silently for the sake of (it) four times, five times, six times at the most, he would succeed in obtaining that robe, that is good. | | | | | | | | | | |
+
+**(If) standing silently for the sake of (it) four times, five times, six times at the most, he would succeed in obtaining that robe, that is good.**
 
 ## tato ce uttariṃ vāyamamāno taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------- | :------- | :---------------------------------------------------------- | :---------------- | :------------------------------ | :------------------ | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato 2 | pron | masc abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
 | ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
@@ -281,12 +296,13 @@
 | abhinipphādeyya | verb | opt 3rd sg of abhinipphādeti | | he should succeed in obtaining; have (him) bring forth | cause coming up | √pad (go, step) | √pad + *e > phāde | abhi + nī + phāde + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| if making an effort more than that, he would succeed in obtaining that robe, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**if making an effort more than that, he would succeed in obtaining that robe, this is an offence requiring relinquishment and confession.**
 
 ## no ce abhinipphādeyya, yat'assa cīvaracetāpanaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :------------------------------------------------------- | :-------------------- | :---------------- | :------------------ | :----------------------- | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | no | ind | neg | | not | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | abhinipphādeyya | verb | opt 3rd sg of abhinipphādeti | | he should succeed in obtaining; have (him) bring forth | cause coming up | √pad (go, step) | √pad + *e > phāde | abhi + nī + phāde + ti | | |
@@ -303,12 +319,13 @@
 | dūto | masc | masc nom sg of dūta | | messenger | runner | √dū (go, run) | | √dū + ta | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | pāhetabbo | ptp | masc nom sg of pāhetabba, ptp of pāheti | | should be sent | to cause to be sent | √hi (send) | √hi + *e > he | pa + he + tabba | | |
-| If he would succeed in obtaining, (then) from wherever the robe-fund may have been brought, there (he) should go himself, or a messenger should be sent | | | | | | | | | | |
+
+**If he would succeed in obtaining, (then) from wherever the robe-fund may have been brought, there (he) should go himself, or a messenger should be sent**
 
 ## yaṃ kho tumhe āyasmanto bhikkhuṃ uddissa cīvaracetāpanaṃ pahiṇittha, na taṃ tassa bhikkhuno kiñci atthaṃ anubhoti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :------------------------------------------------ | :------------------ | :-------------------------- | :---------------- | :------------------ | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yaṃ | pron | masc acc sg of ya | | whichever; which | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | tumhe | pron | nom 2nd pl of tvaṃ | | you (royal) | you all | | | | | |
@@ -324,12 +341,13 @@
 | kiñci | pron | masc acc sg of kaci | | some, any | | | | ka + ci | | |
 | atthaṃ | noun | masc acc sg of attha | | benefit, purpose, goal, need | | √ar (move, attain) | | √ar + tha | | |
 | anubhoti | verb | pr 3rd sg | | fulfils, benefits | | √bhū (be) | √bhū + a > bho | anu + bho + ti | | |
-| "Sir, whichever robe-fund you conveyed for the sake of the monk, that does not fulfil any need of that monk. | | | | | | | | | | |
+
+**"Sir, whichever robe-fund you conveyed for the sake of the monk, that does not fulfil any need of that monk.**
 
 ## yuñjant'āyasmanto sakaṃ, mā vo sakaṃ vinassā'ti, ayaṃ tattha sāmīci.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :---------------------------------------------------- | :---------------------- | :-------------------------- | :------------------ | :------------------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yuñjantāyasmanto | comp | sandhi, imp + masc | | may the good sir make an effort | venerables must yoke | | | yuñjantu + āyasmanto | | |
 | - yuñjantu | verb | imp 3rd pl of yuñjati | | may (venerable) get back; regain | yoke | √yuj (yoke, join) | √yuj + ṃa > yuñja | yuñja + ti | | |
 | - āyasmanto 2 | noun | masc nom pl of āyasmant | | venerable (royal plural) | having long life | | | āyas + mant | | |
@@ -344,17 +362,19 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | sāmīci | noun | fem nom sg | | right thing to do, correct course, proper procedure | | | | | | |
-| Let the sir get back what is his. Don't let what is yours be lost!" This is the proper procedure there. | | | | | | | | | | |
+
+**Let the sir get back what is his. Don't let what is yours be lost!" This is the proper procedure there.**
 
 ## cīvaravaggo paṭhamo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------- | :------ | :--------------------------------- | :------- | :-------------------- | :-------------- | :------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | cīvaravaggo | noun | comp, masc nom sg of cīvaravagga | | chapter about robes | cloth chapter | | | cīvara + vagga | kammadhāraya | cīvara + vagga |
 | - cīvara | noun | nt | | robe | cloth | | | | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | paṭhamo | ordin | masc nom sg of paṭhama | | first | most forward | | | pa + tama | | |
-| The chapter about robes is the first | | | | | | | | | | |
+
+**The chapter about robes is the first**
 
 
 [← previous](dutiyaupakkhaṭasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=r%C4%81jasikkh%C4%81pada%E1%B9%83) | [next →](kosiyasikkhāpadaṃ.md)

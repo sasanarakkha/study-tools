@@ -3,7 +3,7 @@
 ## yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khiyyanadhammaṃ āpajjeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------ | :------- | :-------------------------------- | :------------------- | :---------------------- | :------------------ | :------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -18,7 +18,7 @@
 ## yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------- | :------- | :---------------------------------------------------------- | :--------------------- | :--------------------------- | :----------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yathāsanthutaṃ | ind | adv, acc sg of yathāsanthuta, comp | | according to familiarity, friendship | | | | yathā + santhuta + aṃ | abyayībhāva | yathā + santhutaṃ |
 | - yathā | ind | adv | | like, as | | | | ya + thā | | |
 | - santhutaṃ | noun | nt acc sg of santhuta | | acquaintance; familiarity; friendship | | √thu (be familiar, praise) | | saṃ + √thu + ta | | |
@@ -29,6 +29,8 @@
 | - pariṇāmenti | verb | pr 3rd pl of pariṇāmeti | | they divert, allocate | they bend around | √nam (bend) | √nam + *e > ṇāme | pari + ṇāme + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk, with a united community, having given a robe, should afterwards engage in the act of criticism: "The monks allocate communal gain according to familiarity," there is an offence requiring confession.**
 
 
 [← previous](chandaṃadatvāgamanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=dubbalasikkh%C4%81pada%E1%B9%83) | [next →](pariṇāmanasikkhāpadaṃ.md)

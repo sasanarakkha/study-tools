@@ -3,7 +3,7 @@
 ## na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | udake | noun | nt loc sg of udaka | | in water | | √ud (be wet) | | √ud + aka | | |
 | agilāno | adj | masc nom sg of agilāna | | is not ill | not sick | √gilā (be sick, tired) | | na + √gilā + na | | |
@@ -17,14 +17,18 @@
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 
+**"I shall not excrete or urinate or spit in water, [while] not ill," the training is to be done.**
+
 ## pādukavaggo sattamo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :----------------------------------- | :------- | :-------------------- | :-------------- | :---------------- | :------- | :---------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | pādukavaggo | noun | comp, masc nom sg of surusuruvagga | | chapter about shoes | | | | pādukā + vagga | kammadhāraya | pādukā + vagga |
 | - pādukā | noun | fem | | shoes | | √pad (go, step) | | √pad + *a + ukā | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | sattamo | ordin | masc nom sg of sattama | | seventh (7th) | | | | satta + ma | | |
+
+**The chapter about shoes is seventh**
 
 
 [← previous](hariteuccārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=udakeucc%C4%81rasikkh%C4%81pada%E1%B9%83) | [next →](adhikaraṇasamathā.md)

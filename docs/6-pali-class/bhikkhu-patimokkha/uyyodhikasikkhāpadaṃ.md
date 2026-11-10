@@ -3,7 +3,7 @@
 ## dirattatirattaṃ ce bhikkhu senāya vasamāno uyyodhikaṃ vā bal'aggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :---------------------------- | :-------------------- | :-------------------------- | :----------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | dirattatirattaṃ | ind | adv, acc sg of dirattatiratta | | for two or three nights | | | | diratta + tiratta + aṃ | | |
 | ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -26,14 +26,18 @@
 | gaccheyya | verb | opt 3rd sg of gacchati | | he would go | | √gam (go) | √gam + a > gaccha (irreg) | gaccha + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If a monk staying two or three nights with an army should go to a battle-field, or a review, or military manoeuvres, or an inspection of units, there is an offence requiring confession.**
+
 ## acelakavaggo pañcamo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------------- | :------- | :----------------------------- | :-------------- | :------------- | :------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | acelakavaggo | noun | comp, masc nom sg of acelakavagga | | chapter about naked ascetics | | | | acelaka + vagga | kammadhāraya | acelaka + vagga |
 | - acelaka | noun | masc | | naked ascetic | no clothes | √cil (cloth) | | na + √cil + *aka | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | pañcamo | ordin | masc nom sg of pañcama | | fifth (5th) | | | | pañca + ma | | |
+
+**The chapter about naked ascetics is the fifth.**
 
 
 [← previous](senāvāsasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=uyyodhikasikkh%C4%81pada%E1%B9%83) | [next →](surāpānasikkhāpadaṃ.md)

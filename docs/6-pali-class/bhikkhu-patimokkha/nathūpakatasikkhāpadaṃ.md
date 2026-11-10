@@ -3,7 +3,7 @@
 ## na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------------- | :--------------------- | :------- | :------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | thūpakato | ind | adv, abl sg of thūpaka | | from the top of the pile; from the centre | from a small pagoda | | | thūpa + ka + to | | |
 | omadditvā | verb | abs of omaddati | | having pressed down, made a lump | having crushed down | √madd (crush, grind) | | ava + √madd + itvā | | |
@@ -11,6 +11,8 @@
 | bhuñjissāmīti | comp | sandhi, fut + ind | | | | | | bhuñjissāmi + iti | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**I shall not eat alms-food, having pressed [it] down into a shall heap," the training is to be done.**
 
 
 [← previous](samasūpakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=nath%C5%ABpakatasikkh%C4%81pada%E1%B9%83) | [next →](odanapaṭicchādanasikkhāpadaṃ.md)

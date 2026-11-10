@@ -3,7 +3,7 @@
 ## das'āh'ānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuno pan'eva accekacīvaraṃ uppajjeyya, accekaṃ maññamānena bhikkhunā paṭiggahetabbaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------- | :------- | :----------------------------------------------------------------- | :------------------------- | :---------------- | :------------------ | :----------------------------- | :------------------------- | :---------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | dasāhānāgataṃ | adj | fem acc sg of dasāhānāgata, comp | | for ten days coming up to; ten days before | ten days not come | | | dasa + aha + anāgata | kammadhāraya > bahubbīhi | dasāha + anāgata |
 | - dasa | card | x pl | | ten | | | | | | |
 | - aha | noun | nt | | days | day | | | | | |
@@ -26,12 +26,13 @@
 | maññamānena | prp | masc instr sg of maññamāna | | by thinking, by perceiving | | √man (think) | √man + ya > mañña | mañña + māna | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paṭiggahetabbaṃ | ptp | nt nom sg of paṭiggahetabba | | (it) can be accepted, acceptable | to be personally grasped | √gah (grasp) | √gah + ṇhā > gahe | paṭi + gahe + tabba | | |
-| Ten days before the three-month-Kattikā-full-moon-day: an extraordinary robe-cloth would become available to a monk. By (that) monk perceiving (it as) extraordinary, (it) can be accepted. | | | | | | | | | | |
+
+**Ten days before the three-month-Kattikā-full-moon-day: an extraordinary robe-cloth would become available to a monk. By (that) monk perceiving (it as) extraordinary, (it) can be accepted.**
 
 ## paṭiggahetvā yāva cīvarakālasamayaṃ nikkhipitabbaṃ. tato ce uttariṃ nikkhipeyya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :-------------------------------------- | :------- | :---------------------------------------------------------- | :-------------------------- | :------------------------------ | :------------------ | :------------------------ | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | paṭiggahetvā | abs | abs of paṭiggaṇhāti | | having accepted, taken | having personally grabbed | √gah (grasp) | √gah + ṇhā > gahe | paṭi + gahe + tvā | | |
 | yāva | ind | adv, prep | +dat | until, as long as | | | | | | |
 | cīvarakālasamayaṃ | noun | masc acc sg of cīvarakālasamaya, comp | | occasion of the robe-season | | | | cīvarakāla + samaya | genitive tappurisa | cīvarakālassa + samaya |
@@ -46,7 +47,8 @@
 | nikkhipeyya | verb | opt 3rd sg, from nikkhipati | | he should keep, store | throw down | √khip (throw) | √khip + a > khipa | ni + khipa + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya, comp | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| having been accepted, it could be kept as long as the robe-season (last); if he would keep (it) longer than that, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**having been accepted, it could be kept as long as the robe-season (last); if he would keep (it) longer than that, this is an offence requiring relinquishment and confession.**
 
 
 [← previous](mahāpesakārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=accekac%C4%ABvarasikkh%C4%81pada%E1%B9%83) | [next →](sāsaṅkasikkhāpadaṃ.md)

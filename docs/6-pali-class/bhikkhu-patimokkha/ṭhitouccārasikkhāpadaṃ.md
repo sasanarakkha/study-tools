@@ -3,7 +3,7 @@
 ## na ṭhito agilāno uccāraṃ vā passāvaṃ vā karissāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :------- | :---------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | ṭhito | pp | masc nom sg of ṭhita | | a (monk) standing | stood | √ṭhā (stand) | | √ṭhā + ita | | |
 | agilāno | adj | masc nom sg of agilāna | | is not ill | not sick | √gilā (be sick, tired) | | na + √gilā + na | | |
@@ -14,10 +14,12 @@
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 
+**"I shall not excrete or urinate [while] standing [and while] not ill," the training is to be done.**
+
 ## na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------- | :------ | :----------------------- | :------- | :---------- | :-------------- | :--------------- | :------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | passāvaṃ | noun | masc acc sg of passāva | | urine | flowing out | √su (go, flow) | | pa + √su  > sav + *a | | |
 
 

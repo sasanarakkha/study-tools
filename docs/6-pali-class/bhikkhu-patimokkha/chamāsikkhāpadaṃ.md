@@ -3,7 +3,7 @@
 ## na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :------------------------- | :---------------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | chamāyaṃ | noun | fem loc sg of chamā | | on the earth | | √kham (endure) | | √kham > cham + ā | | |
 | nisīditvā | verb | abs of nisīdati | | having sat down | | √sad (sink, sit, settle) | √sad + a > sīda | ni + sīda + ti | | |
@@ -15,5 +15,7 @@
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 
+**"Having sat down on the ground, I shall not teach Dhamma, to one who is sitting on a seat, [and] who is not ill," the training is to be done.**
 
-[← previous](oguṇṭhitasikkhāpadaṃ 2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=cham%C4%81sikkh%C4%81pada%E1%B9%83) | [next →](nīcāsanasikkhāpadaṃ.md)
+
+[← previous](oguṇṭhitasikkhāpadaṃ-2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=cham%C4%81sikkh%C4%81pada%E1%B9%83) | [next →](nīcāsanasikkhāpadaṃ.md)

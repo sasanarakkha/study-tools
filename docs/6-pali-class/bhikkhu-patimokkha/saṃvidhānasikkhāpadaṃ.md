@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ek'addhānamaggaṃ paṭipajjeyya antamaso gām'antaram'pi aññatra samayā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :-------------------------- | :---------------------- | :------------------ | :---------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -25,12 +25,13 @@
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
 | samayā | noun | masc abl sg of samaya | | from the right time, proper occasion | from come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk, having arranged, should travel together with a nun on the same road journey, even just the distance between villages, except at the right occasion, there is an offence requiring confession. <br> | | | | | | | | | | |
+
+**If any monk, having arranged, should travel together with a nun on the same road journey, even just the distance between villages, except at the right occasion, there is an offence requiring confession. <br>**
 
 ## tatth'āyaṃ samayo, satthagamanīyo hoti maggo, sāsaṅkasammato, sappaṭibhayo, ayaṃ tattha samayo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :--------------------------------------- | :---------------------- | :--------------------- | :------------- | :----------------------- | :----------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatthāyaṃ | comp | sandhi, adv + pron | | in this case this | there this | | | tattha + ayaṃ | | |
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 | satthagamanīyo | adj | masc nom sg of satthagamanīya, comp | | should be travelled in convoy | to be gone with group | | | sattha + gamanīya | instrumental tappurisa | satthena + gamanīya |
@@ -45,7 +46,8 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
-| In that case this is the right occasion: the road is considered risky (and) dangerous, which has to be gone with a company; this is the right occasion in that case. | | | | | | | | | | |
+
+**In that case this is the right occasion: the road is considered risky (and) dangerous, which has to be gone with a company; this is the right occasion in that case.**
 
 
 [← previous](cīvarasibbanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sa%E1%B9%83vidh%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](nāvābhirūhanasikkhāpadaṃ.md)

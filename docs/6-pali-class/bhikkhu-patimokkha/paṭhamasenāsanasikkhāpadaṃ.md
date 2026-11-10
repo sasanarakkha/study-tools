@@ -3,7 +3,7 @@
 ## yo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto n'eva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :---------------------------- | :------------------------- | :-------------------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -33,7 +33,8 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | gaccheyya | verb | opt 3rd sg of gacchati | | he would go | | √gam (go) | √gam + a > gaccha (irreg) | gaccha + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk, having put out or caused to put out a communal bed or seat or mattress or stool in the open air, (when) leaving that, should he not remove (it) or cause to remove (it) or should he go without taking leave, there is an offence requiring confession. | | | | | | | | | | |
+
+**If any monk, having put out or caused to put out a communal bed or seat or mattress or stool in the open air, (when) leaving that, should he not remove (it) or cause to remove (it) or should he go without taking leave, there is an offence requiring confession.**
 
 
 [← previous](ujjhāpanakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pa%E1%B9%ADhamasen%C4%81sanasikkh%C4%81pada%E1%B9%83) | [next →](dutiyasenāsanasikkhāpadaṃ.md)

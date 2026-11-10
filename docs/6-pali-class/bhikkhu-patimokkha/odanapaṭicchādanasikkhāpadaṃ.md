@@ -3,7 +3,7 @@
 ## na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyā'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :----------------------- | :------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | sūpaṃ | noun | masc acc sg of sūpa | | dahl; lentil curry | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
@@ -19,6 +19,8 @@
 | - iti | ind | | | “” | thus | | | | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not cover curry or sauce with rice out of wish for more," the training is to be done.**
 
 
 [← previous](nathūpakatasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=odanapa%E1%B9%ADicch%C4%81danasikkh%C4%81pada%E1%B9%83) | [next →](sūpodanaviññattisikkhāpadaṃ.md)

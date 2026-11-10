@@ -3,7 +3,7 @@
 ## bhikkhuno pan'eva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṃ, ākaṅkhamānena bhikkhunā paṭiggahetabbāni, paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :-------------------------------------------- | :------- | :---------------------------------------------------- | :-------------------------- | :--------------------- | :--------------------- | :---------------------------- | :--------------------- | :-------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhuno | noun | masc dat sg of bhikkhu, from bhikkhati | | for a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paneva | comp | sandhi, ind + ind | | and just, and now | | | | pana + eva | | |
 | addhānamaggappaṭipannassa | adj | masc dat sg of addhānamaggapgaṭipanna, comp | | for (a monk) who has undertaken a long road journey | | | | addhāna + magga + paṭipanna | accusative tappurisa | addhānamaggaṃ + paṭipanna |
@@ -26,12 +26,13 @@
 | haritabbāni | ptp | nt nom pl of haritabba | | can be carried | | √har (carry) | | √har + itabba | | |
 | asante | prp | masc loc sg of asanta, loc abs | | when not present, not existing, when there is no | in not being | √as (be) | √as + a > sa | na + sa + nta | | |
 | hārake | noun | masc loc sg of hāraka, agent of harati | | when a bearer, porter | in carrier | √har (carry) | | √har + *aka | | |
-| Now, if sheep-wool should become available to a monk who is travelling on a long journey, by a monk who is wishing, it can be accepted, having accepted, (it) can be carried with his own hand for three yojanas at the most when there is no carrier; | | | | | | | | | | |
+
+**Now, if sheep-wool should become available to a monk who is travelling on a long journey, by a monk who is wishing, it can be accepted, having accepted, (it) can be carried with his own hand for three yojanas at the most when there is no carrier;**
 
 ## tato ce uttariṃ hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------- | :------- | :---------------------------------------------------------- | :-------------------- | :------------------------------ | :---------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
 | ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
@@ -42,7 +43,8 @@
 | hārake | noun | in not being | | when a bearer, porter | in carrier | √har (carry) | | √har + *aka | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| if he should carry it more than that, even when there is no carrier, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**if he should carry it more than that, even when there is no carrier, this is an offence requiring relinquishment and confession.**
 
 
 [← previous](nisīdanasanthatasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=e%E1%B8%B7akalomasikkh%C4%81pada%E1%B9%83) | [next →](eḷakalomadhovāpanasikkhāpadaṃ.md)

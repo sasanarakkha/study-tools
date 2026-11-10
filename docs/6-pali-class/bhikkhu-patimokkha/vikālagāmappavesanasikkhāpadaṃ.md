@@ -3,7 +3,7 @@
 ## yo pana bhikkhu santaṃ bhikkhuṃ anāpucchā vikāle gāmaṃ paviseyya aññatra tathārūpā accāyikā karaṇīyā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------- | :------ | :------------------------------------- | :------- | :--------------------------------------------------------------- | :------------------ | :----------------------- | :---------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -20,6 +20,8 @@
 | accāyikā | adj | nt abl sg of accāyika | | urgent | going beyond | √i (come, go) | | ati + √i + *a + *ika | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk, not having asked an available monk, should enter a village at the wrong time, apart from an appropriate, urgent duty, there is an offence requiring confession**
 
 
 [← previous](ratanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=vik%C4%81lag%C4%81mappavesanasikkh%C4%81pada%E1%B9%83) | [next →](sūcigharasikkhāpadaṃ.md)

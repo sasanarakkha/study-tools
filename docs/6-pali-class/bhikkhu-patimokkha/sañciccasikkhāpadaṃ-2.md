@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya iti'ssa muhuttam'pi aphāsu bhavissatī'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :--------------------------------------- | :------- | :------------------------------------- | :------------------ | :---------------------- | :----------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -22,15 +22,19 @@
 | - bhavissati | verb | fut 3rd sg of bhavati | | it will be | | √bhū (be) | √bhū + a > bhava | bhava + issa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 
+**If any monk should intentionally cause worry for a monk, “Thus there will be discomfort for him, even for a moment,”**
+
 ## etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------- | :------ | :----------------------- | :------- | :---------------------------------------------------------- | :-------------- | :---------------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | etadeva | comp | sandhi, pron + ind | | just this, only this | | | | | | |
 | paccayaṃ | noun | masc acc sg of paccaya | | cause, reason | | √i (come, go) | | pati + √i + *a | | |
 | karitvā | abs | abs of karoti | | having done | | √kar (do, make) | | √kar + itvā | | |
 | anaññaṃ | pron | masc acc sg of anaññā | | not another | | | | na + añña | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**having done [it] only for this reason, not another; there is an offence requiring confession.**
 
 
 [← previous](amūlakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sa%C3%B1ciccasikkh%C4%81pada%E1%B9%83%202) | [next →](upassutisikkhāpadaṃ.md)

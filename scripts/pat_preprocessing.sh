@@ -13,5 +13,5 @@ bash scripts/download_patimokkha.sh
 uv run python scripts/generate_patimokkha.py
 
 # Fix tables
-uv run python scripts/fix_pali_tables.py
+uv run python scripts/fix_pali_tables.py --dir docs/6-pali-class/bhikkhu-patimokkha
 

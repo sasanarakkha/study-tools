@@ -3,7 +3,7 @@
 ## yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. 
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :--------------- | :--------------------------- | :-------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -24,10 +24,12 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk should pick up, or should cause to pick up, a valuable or what is considered a valuable, except within a monastery or within a dwelling, there is an offence requiring confession.**
+
 ## ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------- | :------------------------- | :--------------- | :--------------------------- | :-------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ratanaṃ | noun | nt acc sg of ratana | | jewel, a valuable | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
@@ -44,10 +46,12 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | nikkhipitabbaṃ | ptp | nt nom sg of nikkhipitabba | | can be stored, kept | to be thrown down | √khip (throw) | | ni + √khip + itabba | | |
 
+**However, by a monk having picked up, or having caused to pick up, a valuable or what is considered a valuable within a monastery or within a dwelling, [it] is to be kept aside.**
+
 ## yassa bhavissati, so harissatī’ti, ayaṃ tattha sāmīci.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :----------------------- | :------- | :---------------------------------------------------- | :-------------- | :------------- | :----------------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yassa | pron | masc dat sg of ya | | to whoever | | | | | | |
 | bhavissati | verb | fut 3rd sg of bhavati | | it will be | | √bhū (be) | √bhū + a > bhava | bhava + ti | | |
 | so | pron | masc nom sg of ta | | he | | | | | | |
@@ -57,6 +61,8 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | sāmīci | noun | fem nom sg | | right thing to do, correct course, proper procedure | | | | | | |
+
+**"To whom it will be, he will take it." This is the proper procedure there.**
 
 
 [← previous](antepurasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ratanasikkh%C4%81pada%E1%B9%83) | [next →](vikālagāmappavesanasikkhāpadaṃ.md)

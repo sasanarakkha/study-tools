@@ -3,7 +3,7 @@
 ## ime kho pan'āyasmanto tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchanti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :------------------------------------------ | :------------------- | :------------------------------ | :-------------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
@@ -13,18 +13,13 @@
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | uddesaṃ | noun | masc acc sg of uddesa, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | āgacchanti | verb | pr 3rd pl of āgacchati | +acc | they arrive, they are coming up (for) | arrive | √gam (go) | √gam + a > gaccha (irreg) | ā + gaccha + ti | | |
-| Now, venerables, these thirty cases requiring relinquishment and confession come up for recitation. | | | | | | | | | | |
 
-## NP 1 ... 30
-
-| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------- | :------ | :---------- | :------- | :---------- | :-------------- | :------- | :------- | :--------------- | :---------------- | :------------------------ |
-|  |  |  |  |  |  |  |  |  |  |  |
+**Now, venerables, these thirty cases requiring relinquishment and confession come up for recitation.**
 
 ## uddiṭṭhā kho āyasmanto tiṃsa nissaggiyā pācittiyā dhammā. tatth'āyasmante pucchāmi, kacci'ttha parisuddhā, dutiyam'pi pucchāmi, kacci'ttha parisuddhā, tatiyam'pi pucchāmi, kacci'ttha parisuddhā, parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :----------------------------------------------- | :---------------------------------- | :------------------------------ | :----------------------- | :------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | āyasmanto | noun | masc voc pl of āyasmant | | venerables | having long life | | | āyas + mant | | |
@@ -49,18 +44,20 @@
 | tuṇhī | ind | adv | | silent, silence, silently | | | | | | |
 | evametaṃ | comp | sandhi, adv + pron | | therefore this | thus this | | | evaṃ + etaṃ | | |
 | dhārayāmi | verb | pr 1st sg of dhārayati | +acc | I take, I believe, I keep in mind | I bear, carry | √dhar (wear, hold, carry) | √dhar + *aya > dhāraya | dhāraya + ti | | |
-| Venerables, the thirty cases requiring confessing and involving relinquishment have been recited. In that case I ask the Venerables: I hope in this (you all are) pure ? (or) I hope you all are pure ? And for the second time I ask: I hope in this (you all are) pure ? And for the third time I ask: I hope in this (you all are) pure ? In this case the venerables are pure, therefore (there is) silence, so I keep this (in mind). | | | | | | | | | | |
+
+**Venerables, the thirty cases requiring confessing and involving relinquishment have been recited. In that case I ask the Venerables: I hope in this (you all are) pure ? (or) I hope you all are pure ? And for the second time I ask: I hope in this (you all are) pure ? And for the third time I ask: I hope in this (you all are) pure ? In this case the venerables are pure, therefore (there is) silence, so I keep this (in mind).**
 
 ## tiṃsa nissaggiyā pācittiyā dhammā niṭṭhitā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------ | :------ | :-------------------------- | :------- | :------------------------------------------ | :------------------- | :------------------------------ | :------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tiṃsa | card | fem nom sg of tiṃsā | | thirty | | | | ti + dasa | | |
 | nissaggiyā | ptp | masc nom pl of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyā | adj | masc nom pl of pācittiya | | requiring confession, involving expiation | | | | | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | niṭṭhitā | pp | masc nom pl of niṭṭhita | | finished | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
-| The cases requiring confession with forfeiture are finished | | | | | | | | | | |
+
+**The cases requiring confession with forfeiture are finished**
 
 
 [← previous](dutiyāniyatasikkhāpada.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=nissaggiyap%C4%81cittiy%C4%81) | [next →](kaṭhinasikkhāpadaṃ.md)

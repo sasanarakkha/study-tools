@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya, na tāv'āhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī'ti, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------- | :------- | :---------------------------------------------------------- | :----------------------------------- | :-------------------- | :------------------------- | :------------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -34,10 +34,12 @@
 | paripucchāmi | verb | pr 1st sg of paripucchati | | I ask | I ask all around | √pucch (ask) | √pucch + a > puccha | pari + puccha + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk when being rightfully spoken to by monks should say thus, “Friends, I shall not train in this training rule for as long as I will not question another monk, a learned upholder of the discipline,” there is an offence requiring confession.**
+
 ## sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------------------------ | :------------------ | :---------------------- | :-------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sikkhamānena | prp | masc instr sg of sikkhamāna | | by a training (monk) | | √sikkh (train) | √sikkh + a > sikkha | sikkha + māna | | |
 | bhikkhave | noun | masc voc pl of bhikkhu, from bhikkhati | | o monks! | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -47,6 +49,8 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | sāmīci | noun | fem nom sg | | right thing to do, correct course, proper procedure | | | | | | |
+
+**Monks, (that rule) is to be understood, to be questioned about, to be investigated by a monk who is training. This is the proper procedure there.**
 
 
 [← previous](kaṇṭakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sahadhammikasikkh%C4%81pada%E1%B9%83) | [next →](vilekhanasikkhāpadaṃ.md)

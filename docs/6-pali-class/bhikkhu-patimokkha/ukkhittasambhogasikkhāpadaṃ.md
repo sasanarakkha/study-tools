@@ -3,7 +3,7 @@
 ## yo pana bhikkhu jānaṃ tathāvādinā bhikkhunā akaṭ'ānudhammena taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ sambhuñjeyya vā saṃvaseyya vā saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :----------------------------------------------- | :------- | :-------------------------------------------------------------------------------------------- | :----------------------------- | :------------------------------ | :-------------------------- | :---------------------------- | :-------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -28,6 +28,8 @@
 | seyyaṃ | noun | fem acc sg of seyyā, comp | | bedding | | √sī (lie, sleep) | | √sī > se + *yā | fem acc sg of seyyā | |
 | kappeyya | verb | opt 3rd sg of kappeti | +acc | should take, use | make suitable | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | kappe + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk should knowingly associate with, or should affiliate with, or should make use of a sleeping place together with a monk who is speaking thus, not dealt with according to the rule, who has not relinquished that view, there is an offence requiring confession.**
 
 
 [← previous](ariṭṭhasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ukkhittasambhogasikkh%C4%81pada%E1%B9%83) | [next →](kaṇṭakasikkhāpadaṃ.md)

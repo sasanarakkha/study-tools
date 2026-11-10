@@ -3,7 +3,7 @@
 ## na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------ | :-------------------------- | :-------------------- | :------------------ | :----------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | sasitthakaṃ | adj | nt acc sg of sasitthaka | | containing grains of rice | with small grains | | | sa + sittha + ka | | |
 | pattadhovanaṃ | noun | nt acc sg of pattadhovana, comp | | bowl washing water, bowl rinsing water | | | | patta + dhovana | dative tappurisa | pattassa + dhovana |
@@ -15,6 +15,8 @@
 | - iti | ind | | | “” | thus | | | | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not throw away bowl-washing water which has rice-grains [in it] in an inhabited area," the training is to be done.**
 
 
 [← previous](sāmisasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sasitthakasikkh%C4%81pada%E1%B9%83) | [next →](chattapāṇisikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine das'āhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :----------------------------------------------------------- | :---------------------- | :------------------------------ | :---------------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | niṭṭhitacīvarasmiṃ | noun | nt loc sg of niṭṭhitacīvara, comp | | when the robe-cloth is complete; when the robe is finished | | | | niṭṭhita + cīvara | kammadhāraya | niṭṭhita + cīvara |
 | - niṭṭhita | pp | pp of niṭṭhāti | | finished, complete | stood down | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 | - cīvarasmiṃ | noun | nt loc sg of cīvara | | when a robe; robe-cloth | in cloth | | | | | |
@@ -22,7 +22,8 @@
 | atikkāmayato | prp | masc dat sg of atikkāmanta | | for (one) going beyond, exceeding | causing to go too far | √kam (go) | √kam + *aya > kāmaya (caus) | ati + kāmaya + nta | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, for ten days at the most extra robe can be kept.  For one exceeding that, there is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, for ten days at the most extra robe can be kept.  For one exceeding that, there is an offence requiring relinquishment and confession.**
 
 
 [← previous](nissaggiyapācittiyā.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ka%E1%B9%ADhinasikkh%C4%81pada%E1%B9%83) | [next →](udositasikkhāpadaṃ.md)

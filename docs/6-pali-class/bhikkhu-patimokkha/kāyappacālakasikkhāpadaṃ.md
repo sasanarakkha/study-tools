@@ -3,7 +3,7 @@
 ## na kāyappacālakaṃ antaraghare gamissāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :-------------------------- | :------------------------- | :----------------- | :--------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | kāyappacālakaṃ | ind | adv, acc sg of kāyappacālaka, comp | | shaking the body, swaying the body | causing to shake the body | | | kāya + pacālaka + aṃ | accusative tappurisa | kāyaṃ + pacālaka |
 | - kāya | noun | masc | | body | collection | √ci (gather, accumulate) | | √ci > ki > kāy + *a | | |
@@ -13,16 +13,20 @@
 | sikkhā | noun | fem nom sg | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 
+**"I shall not go swaying the body inside an inhabited area," the training is to be done.**
+
 ## na kāyappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :-------------------------- | :---------------- | :------- | :--------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | kāyappacālakaṃ | ind | adv, acc sg of kāyappacālaka, comp | | shaking the body, swaying the body | causing to shake the body | | | kāya + pacālaka + aṃ | accusative tappurisa | kāyaṃ + pacālaka |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
 | nisīdissāmīti | comp | sandhi, fut + ind | | | | | | nisīdissāmi + iti | | |
 | sikkhā | noun | fem nom sg | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not sit swaying the body inside an inhabited area," the training is to be done.**
 
 
 [← previous](uccasaddasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=k%C4%81yappac%C4%81lakasikkh%C4%81pada%E1%B9%83) | [next →](bāhuppacālakasikkhāpadaṃ.md)

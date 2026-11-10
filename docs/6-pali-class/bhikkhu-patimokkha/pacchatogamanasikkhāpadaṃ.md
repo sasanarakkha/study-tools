@@ -3,7 +3,7 @@
 ## na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :-------------------------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | pacchato | ind | adv, abl sg of pacchā | | behind | | | | pacchā + to | | |
 | gacchanto | prp | masc nom sg of gacchanta | | (a monk) going | | √gam (go) | √gam + a > gaccha (irreg) | gaccha + nta | | |
@@ -14,6 +14,8 @@
 | desessāmīti | comp | sandhi, fut + ind | | | | | | desissāmi + iti | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not teach Dhamma [while] walking behind, to one who is going in front, [and] who is not ill," the training is to be done.**
 
 
 [← previous](ṭhitasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pacchatogamanasikkh%C4%81pada%E1%B9%83) | [next →](uppathenagamanasikkhāpadaṃ.md)

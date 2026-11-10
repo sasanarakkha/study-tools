@@ -3,7 +3,7 @@
 ## yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpapaccayā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :-------------------------------------- | :------- | :---------------------------------------------------------- | :-------------------- | :------------------ | :-------------------------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -18,6 +18,8 @@
 | - - rūpa | noun | nt | | matter, material, form | | √rūp (produce) | | √rūp + a | | |
 | - paccayā | noun | masc abl sg of paccaya | | from reason, cause | | √i (come, go) | | pati + √i + *a | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk should go to see an army in action; apart from an appropriate reason, there is an offence requiring confession.**
 
 
 [← previous](mahānāmasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=uyyuttasen%C4%81sikkh%C4%81pada%E1%B9%83) | [next →](senāvāsasikkhāpadaṃ.md)

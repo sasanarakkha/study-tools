@@ -3,7 +3,7 @@
 ## na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :------------------------- | :---------------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | nīce | adj | nt loc sg of nīca | | on a low | | | | ni + tya | | |
 | āsane | noun | nt loc sg of āsana | | on a seat | | √ās (sit) | | √ās + ana | | |
@@ -16,6 +16,8 @@
 | desessāmīti | comp | sandhi, fut + ind | | | | | | desissāmi + iti | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"Having sat down on a low seat, I shall not teach Dhamma to one who is sitting on a high seat [and] who is not ill," the training is to be done.**
 
 
 [← previous](chamāsikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=n%C4%ABc%C4%81sanasikkh%C4%81pada%E1%B9%83) | [next →](ṭhitasikkhāpadaṃ.md)

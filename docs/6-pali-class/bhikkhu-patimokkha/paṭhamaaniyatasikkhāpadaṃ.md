@@ -3,7 +3,7 @@
 ## yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṃ kappeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------------- | :--------------------------------------------------------------------------------------- | :------------------ | :---------------------------- | :-------------------------- | :------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -19,12 +19,13 @@
 | - kammaniye | adj | nt loc of kammaniya | | (on) suitable for use, fit for doing, workable | doable | √kar (do, make) | | √kar + ma + aniya | | |
 | nisajjaṃ | noun | fem acc sg of nisajjā | | seat (or) sitting down | seating | √sad (sink, sit, settle) | | ni + √sad + ya + ā | | |
 | kappeyya | verb | opt 3rd sg of kappeti | +acc | should take, use | make suitable | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | kappe + ti | | |
-| If any monk should take a seat together with a woman, one to one, privately, on a concealed seat (that is) sufficiently fit for doing (it) | | | | | | | | | | |
+
+**If any monk should take a seat together with a woman, one to one, privately, on a concealed seat (that is) sufficiently fit for doing (it)**
 
 ## tam'enaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya pārājikena vā saṅghādisesena vā pācittiyena vā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- | :---------------------- | :---------------- | :------------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tamenaṃ | comp | sandhi, pron + pron | | that one; that thing | that this | | | taṃ + enaṃ | kammadhāraya | taṃ + enaṃ |
 | - taṃ | pron | fem acc sg of ta | | that | | | | | | |
 | - enaṃ | pron | masc acc sg of eta | | this | | | | | | |
@@ -43,12 +44,13 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | pācittiyena | adj | masc instr sg of pācittiya | | with (a matter) requiring confession, involving expiation | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| having seen that, a female lay-follower whose words can be trusted, would speak in accordance to one of the three cases:  related to defeat, related to saṅghādisesa or requiring confession | | | | | | | | | | |
+
+**having seen that, a female lay-follower whose words can be trusted, would speak in accordance to one of the three cases:  related to defeat, related to saṅghādisesa or requiring confession**
 
 ## nisajjaṃ bhikkhu paṭijānamāno tiṇṇaṃ dhammānaṃ aññatarena kāretabbo pārājikena vā saṅghādisesena vā pācittiyena vā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :--------------------------------------------- | :------- | :------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- | :------------------------- | :------------------------ | :------------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | nisajjaṃ | noun | fem acc sg of nisajjā | | seat (or) sitting down | seating | √sad (sink, sit, settle) | | ni + √sad + ya + ā | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paṭijānamāno | prp | masc nom sg of paṭijānamāna, from paṭijānāti | | agreeing, admitting | | √ñā (know) | √ñā + nā > jānā | paṭi + jānā + māna | | |
@@ -62,12 +64,13 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | pācittiyena | adj | masc instr sg of pācittiya | | with (a matter) requiring confession, involving expiation | | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
-| the monk who is admitting the sitting down should be dealt in accordance to one of the three cases:  related to defeat, related to saṅghādisesa or requiring confession | | | | | | | | | | |
+
+**the monk who is admitting the sitting down should be dealt in accordance to one of the three cases:  related to defeat, related to saṅghādisesa or requiring confession**
 
 ## yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayaṃ dhammo aniyato.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------ | :------- | :--------------------------------------------------- | :----------------------------- | :---------------- | :------------------------ | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yena | pron | masc instr sg of ya | | with whichever | by which | | | | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | sā | pron | fem nom sg of ta | | she, that | | | | | | |
@@ -81,7 +84,8 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | dhammo 2 | noun | masc nom sg of dhamma | | case, law, rule | | √dhar (hold) | | √dhar + ma | | |
 | aniyato | adj | masc nom sg of aniyata | | uncertain, undecided, doubtful | not fixed down | √yam (control) | | na + ni + √yam + ta | | |
-| or whatever that female lay-follower whose words can be trusted would say, with that the monk is to be dealt with. This is an uncertain case. | | | | | | | | | | |
+
+**or whatever that female lay-follower whose words can be trusted would say, with that the monk is to be dealt with. This is an uncertain case.**
 
 
 [← previous](aniyatuddeso.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pa%E1%B9%ADhamaaniyatasikkh%C4%81pada%E1%B9%83) | [next →](dutiyāniyatasikkhāpada.md)

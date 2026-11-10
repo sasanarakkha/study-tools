@@ -3,7 +3,7 @@
 ## niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :----------------------------------------------------------- | :------------------ | :------------------ | :------------------ | :------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | niṭṭhitacīvarasmiṃ | noun | nt loc sg of niṭṭhitacīvara, comp | | when the robe-cloth is complete; when the robe is finished | | | | niṭṭhita + cīvara | kammadhāraya | niṭṭhita + cīvara |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | ubbhatasmiṃ | pp | nt loc sg of ubbhata | | when withdrawn, when suspended | in lifted up | √dhar (hold) | | ud + √dhar + ta | | |
@@ -14,12 +14,13 @@
 | - akāla | adj | | | out of season | not time | √kal (spend time) | | na + √kal + *a | | |
 | - cīvaraṃ | noun | nt nom sg of cīvara | | robe, robe-cloth | cloth | | | | | |
 | uppajjeyya | verb | opt 3rd sg of uppajjati | | (robe) could appear, becomes available | come up | √pad (go, step) | √pad + ya > pajja | ud + pajja + ti | | |
-| When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, should out of season robe-cloth become available to a monk, | | | | | | | | | | |
+
+**When the robe is finished by a monk, (and) when the kaṭhina privilege is withdrawn, should out of season robe-cloth become available to a monk,**
 
 ## ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippam'eva kāretabbaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :---------------------------- | :-------------------------- | :------------------ | :------------------------ | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ākaṅkhamānena | prp | masc instr sg of ākaṅkhamāna | | by desiring, who wants | | √kaṅkh (wish for) | √kaṅkh + ṃa > kaṅkha | ā + kaṅkha + māna | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | paṭiggahetabbaṃ | ptp | nt nom sg of paṭiggahetabba | | can be accepted, acceptable | to be personally grasped | √gah (grasp) | √gah + ṇhā > gahe | paṭi + gahe + tabba | | |
@@ -28,12 +29,13 @@
 | - khippaṃ | ind | adv, acc sg of khippa | | quickly, rapidly | | √khip (throw) | | √khip + ra + aṃ | | |
 | - eva | ind | emph | | just, only | | | | | | |
 | kāretabbaṃ | ptp | nt nom sg of kāretabba | | should be made | to cause to be done | √kar (do, make) | √kar + *e > kāre (caus) | kāre + tabba | | |
-| by a monk who is wishing (it) can be accepted; having accepted (it) should be made very quickly. | | | | | | | | | | |
+
+**by a monk who is wishing (it) can be accepted; having accepted (it) should be made very quickly.**
 
 ## no c'assa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :----------------------------------- | :------------------ | :-------------- | :--------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | no | ind | neg | | not | | | | | | |
 | cassa | comp | sandhi, ind + opt | | if it would be | | | | ce + assa | | |
 | - ce | ind | cond | | if | | | | | | |
@@ -51,12 +53,13 @@
 | pāripūriyā | noun | fem dat or loc sg, from paripūreti | +gen | for fulfilment, (or) in completion | | √pūr (fill) | | pari + √pūr + *i | | |
 | satiyā | prp | fem loc sg of santa | | when there exists | in existing | √as (be) | √as > sa | sa + nta | | |
 | paccāsāya | noun | fem loc sg of paccāsā, from paccāsiṃsati | | when expectation | in expectation | | | pati + āsā | | |
-| If there would be not enough, for a month at the most that robe-cloth can be stored by that monk, when there is an expectation for the completion of deficiency. | | | | | | | | | | |
+
+**If there would be not enough, for a month at the most that robe-cloth can be stored by that monk, when there is an expectation for the completion of deficiency.**
 
 ## tato ce uttariṃ nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :---------------------------------------------------------- | :--------------- | :------------------------------ | :------------------ | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
 | ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
@@ -67,7 +70,8 @@
 | paccāsāya | noun | fem loc sg of paccāsā, from paccāsiṃsati | | when expectation | in expectation | | | pati + āsā | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| if he should store more than that, even when there is an expectation, this is an offence requiring relinquishment and confession | | | | | | | | | | |
+
+**if he should store more than that, even when there is an expectation, this is an offence requiring relinquishment and confession**
 
 
 [← previous](udositasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ak%C4%81lac%C4%ABvarasikkh%C4%81pada%E1%B9%83) | [next →](purāṇacīvarasikkhāpadaṃ.md)

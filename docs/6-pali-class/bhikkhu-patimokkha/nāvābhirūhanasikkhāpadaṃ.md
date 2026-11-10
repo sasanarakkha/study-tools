@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃ abhirūheyya uddhaṃgāminiṃ vā adhogāminiṃ vā aññatra tiriyaṃtaraṇāya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :---------------------- | :----------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -26,7 +26,8 @@
 | - tiriyaṃ | ind | adv | | across, horizontally, width-wise | | √tir (cross) | | √tir + iya + aṃ | | |
 | - taraṇāya | noun | nt dat sg of taraṇa | | for the purpose of crossing | for crossing | √tar (cross) | | √tar + aṇa | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk, having arranged, should board together with a nun on the same boat, going up-stream or going down-stream, except for crossing across, there is an offence requiring confession. | | | | | | | | | | |
+
+**If any monk, having arranged, should board together with a nun on the same boat, going up-stream or going down-stream, except for crossing across, there is an offence requiring confession.**
 
 
 [← previous](saṃvidhānasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=n%C4%81v%C4%81bhir%C5%ABhanasikkh%C4%81pada%E1%B9%83) | [next →](paripācitasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu anupasampannena uttariṃ dirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :---------------------------- | :-------------------------- | :--------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -21,7 +21,8 @@
 | - seyyaṃ | noun | fem acc sg of seyyā | | sleeping place | | √sī (lie, sleep) | | √sī > se + *yā | | |
 | kappeyya | verb | opt 3rd sg of kappeti | +acc | should take, use | make suitable | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | kappe + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should make use of a sleeping place for more than two nights or three nights together with an unordained person, there is an offence requiring confession. | | | | | | | | | | |
+
+**If any monk should make use of a sleeping place for more than two nights or three nights together with an unordained person, there is an offence requiring confession.**
 
 
 [← previous](padasodhammasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pa%E1%B9%ADhamasahaseyyasikkh%C4%81pada%E1%B9%83) | [next →](dutiyasahaseyyasikkhāpada.md)

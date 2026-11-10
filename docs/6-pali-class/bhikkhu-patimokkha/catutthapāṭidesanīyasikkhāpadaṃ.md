@@ -3,7 +3,7 @@
 ## yāni kho pana tāni āraññakāni sen'āsanāni sāsaṅkasammatāni sappaṭibhayāni
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :---------------------------------- | :------- | :-------------------------------------------- | :----------------------- | :------------------- | :------- | :-------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yāni | pron | nt nom pl of ya | | whichever | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
@@ -15,10 +15,12 @@
 | - sammatāni | adj | nt nom pl of sammata | | considered to be, regarded as | thought together | √man (think) | | saṃ + √man + ta | | |
 | sappaṭibhayāni | adj | nt nom pl of sappaṭibhaya | | dangerous, perilous | with personal danger | √bhī (fear) | | sa + pati + √bhī + *a | | |
 
+**There are those wilderness lodgings which are considered risky (and) dangerous.**
+
 ## yo pana bhikkhu tathārūpesu sen'āsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā, bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :---------------------------------- | :------- | :------------------------------ | :-------------------------- | :------------------- | :------------------ | :----------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -34,20 +36,24 @@
 | sahatthā | ind | adv, instr sg of sahattha | | by one's own hand, personally | with own hand | | | | | |
 | paṭiggahetvā | abs | abs of paṭiggaṇhāti | | having accepted, taken | having personally grabbed | √gah (grasp) | √gah + ṇhā > gahe | paṭi + gahe + tvā | | |
 
+**if any monk, in such lodgings, having accepted previously unannounced staple or non-staple food with his own hand inside the monastery,**
+
 ## agilāno khādeyya vā, bhuñjeyya vā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------- | :------ | :----------------------- | :------- | :-------------- | :-------------- | :----------------------- | :-------------------- | :---------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | agilāno | adj | masc nom sg of agilāna | | is not ill | not sick | √gilā (be sick, tired) | | na + √gilā + na | | |
 | khādeyya | verb | opt 3rd sg of khādati | | he would eat | chew | √khād (chew) | √khād + a > khāda | khāda + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | bhuñjeyya | verb | opt 3rd sg of bhuñjati | | he would eat | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 
+**not being sick should chew or eat (it)**
+
 ## paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------------- | :--------------------------- | :-------------------------- | :------------------------ | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + tabba | | |
 | tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -59,6 +65,8 @@
 | pāṭidesanīyaṃ | ptp | masc acc sg of pāṭidesanīya | | should be admitted; should be acknowledged | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + anīya | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | paṭidesemīti | comp | sandhi, pr + ind | | | | | | paṭidesemi + iti | | |
+
+**[it] is to be acknowledged by that monk, "Friend[s], I have committed a blameworthy, unsuitable act, to be acknowledged; That I acknowledge."**
 
 
 [← previous](tatiyapāṭidesanīyasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=catutthap%C4%81%E1%B9%ADidesan%C4%AByasikkh%C4%81pada%E1%B9%83) | [next →](sekhiyā.md)

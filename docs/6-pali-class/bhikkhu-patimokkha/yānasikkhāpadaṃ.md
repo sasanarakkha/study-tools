@@ -3,7 +3,7 @@
 ## na yānagatassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------- | :----------------------- | :------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | yānagatassa | adj | masc dat sg of yānagata, comp | | to (one) travelling in a vehicle | to a vehicle gone | | | yāna + gata | kammadhāraya | yāna + gata |
 | - yāna | noun | nt | | vehicle | going | √yā (go) | | √yā + ana | | |
@@ -13,6 +13,8 @@
 | desessāmīti | comp | sandhi, fut + ind | | | | | | desissāmi + iti | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not teach Dhamma to one who is in a vehicle, [and] who is not ill," the training is to be done.**
 
 
 [← previous](upāhanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=y%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](sayanasikkhāpadaṃ.md)

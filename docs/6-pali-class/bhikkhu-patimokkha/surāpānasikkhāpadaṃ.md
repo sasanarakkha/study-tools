@@ -3,12 +3,14 @@
 ## surāmerayapāne pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :---------------------------------- | :------- | :----------------------------------------------------------- | :-------------------------------------------------- | :---------------------- | :------- | :--------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | surāmerayapāne | noun | nt loc sg of surāmerayapāna, comp | | in drinking spirits and wine; drinking alcoholic beverages | in drinking distilled liquor and fermented liquor | | | surā + meraya + pāna | genitive tappurisa | surāmerayassa + pāna |
 | - surā | noun | fem | | spirit liquor | distilled liquor | √su (extract, distil) | | √su + rā | | |
 | - meraya | noun | nt | | fermented liquor | | | | | | |
 | - pāne | noun | nt loc sg of pāna | | in drinking | | √pā (drink) | | √pā + ana | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**In drinking distilled and fermented alcohol, there is an offence requiring confession.**
 
 
 [← previous](uyyodhikasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sur%C4%81p%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](aṅgulipatodakasikkhāpadaṃ.md)

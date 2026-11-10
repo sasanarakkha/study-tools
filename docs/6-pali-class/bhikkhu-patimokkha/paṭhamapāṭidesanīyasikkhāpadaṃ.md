@@ -3,7 +3,7 @@
 ## yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------------- | :------- | :----------------------------------- | :-------------------------- | :------------------- | :-------------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -23,10 +23,12 @@
 | bhuñjeyya | verb | opt 3rd sg of bhuñjati | | he would eat | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 
+**If any monk, having accepted non-staple or staple food with his own hand from the hand of an unrelated nun who has entered an inhabited area, should chew or eat (it)**
+
 ## paṭidesetabbaṃ tena bhikkhunā, gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------------- | :--------------------------- | :-------------------------- | :------------------------ | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + tabba | | |
 | tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -39,6 +41,8 @@
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | paṭidesemīti | comp | sandhi, pr + ind | | | | | | paṭidesemi + iti | | |
 | paṭidesemi | verb | pr 1st sg of paṭideseti | | I admit; I acknowledge | cause to point out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + ti | | |
+
+**[it] is to be acknowledged by that monk, "Friend[s], I have committed a blameworthy, unsuitable act, to be acknowledged; That I acknowledge."**
 
 
 [← previous](pāṭidesanīyā.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pa%E1%B9%ADhamap%C4%81%E1%B9%ADidesan%C4%AByasikkh%C4%81pada%E1%B9%83) | [next →](dutiyapāṭidesanīyasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------------------ | :------------------ | :--------------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -16,7 +16,8 @@
 | samāpajjeyya | verb | opt 3rd sg of samāpajjati | +acc | he would engage in, practice, perform | enter | √pad (go, step) | √pad + ya > pajja | saṃ + ā + pajja + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should engage in the various kinds of trading in money, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**If any monk should engage in the various kinds of trading in money, this is an offence requiring relinquishment and confession.**
 
 
 [← previous](rūpiyasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=r%C5%ABpiyasa%E1%B9%83voh%C4%81rasikkh%C4%81pada%E1%B9%83) | [next →](kayavikkayasikkhāpadaṃ.md)

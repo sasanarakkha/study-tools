@@ -3,7 +3,7 @@
 ## navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena aṭṭh'aṅgulapādakaṃ kāretabbaṃ sugat'aṅgulena aññatra heṭṭhimāya aṭaniyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :----------------------------------------------- | :------- | :--------------------------------------------------------------- | :-------------------- | :---------------- | :---------------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | navaṃ | adj | nt acc sg of nava | | new | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati, comp | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -27,11 +27,13 @@
 ## taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :--------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :------------------- | :---------------------------- | :------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | atikkāmayato | prp | masc dat sg of atikkāmanta | | for (one) going beyond, exceeding | causing to go too far | √kam (go) | √kam + *aya > kāmaya (caus) | ati + kāmaya + nta | | |
 | chedanakaṃ | ind | adv, acc sg of chedanaka | | involving cutting up | cutting up | √chid (cut, steal) | √chid + *e > chede | chede + ana + akaṃ | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**By a monk who is having a new bed or chair made, (it) is to be made with legs of eight fingerbreadths, by the Sugata-finger-breadth, not including the lowermost frame. For one exceeding that, there is an offence requiring confession involving cutting up (it).**
 
 
 [← previous](sūcigharasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ma%C3%B1cap%C4%AB%E1%B9%ADhasikkh%C4%81pada%E1%B9%83) | [next →](tūlonaddhasikkhāpadaṃ.md)

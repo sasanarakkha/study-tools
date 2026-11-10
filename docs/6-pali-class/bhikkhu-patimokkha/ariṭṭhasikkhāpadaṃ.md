@@ -3,7 +3,7 @@
 ## yo pana bhikkhu evaṃ vadeyya, tath'āhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā ye'me antarāyikā dhammā vuttā bhagavatā, te paṭisevato n'ālaṃ antarāyāyā'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------------- | :------------- | :------------------------------------------- | :--------------------- | :-------------------------- | :------------------------ | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -33,10 +33,12 @@
 | - antarāyāya | noun | masc dat sg of antarāya | | for obstruction, obstacle, danger | for coming inbetween | | | antara + aya | | |
 | - iti | ind | | | “” | thus | | | | | |
 
+**If any monk should say thus, "As I understand the Teaching taught by the Blessed One, these obstructive acts which are spoken of by the Blessed One: they are not enough for obstruction for (one) engaging in [them],"**
+
 ## so bhikkhu bhikkhūhi evam'assa vacanīyo, mā āyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :---------------------------------- | :------- | :---------------------------------------- | :-------------------------- | :---------------------- | :------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
@@ -55,10 +57,12 @@
 | bhagavato 2 | noun | masc gen sg of bhagavant | | of the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
 | abbhakkhānaṃ | noun | nt nom sg of abbhakkhāna | +gen | misrepresenting, slandering | | √khā (tell, announce) | | abhi + ā + √khā + ana | | |
 
+**that monk is to be spoken to by the monks thus: "Venerable, don't say so! Don't misrepresent the Blessed One, for misrepresentation of the Blessed One is not good,**
+
 ## na hi bhagavā evaṃ vadeyya, anekapariyāyena āvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañ'ca pana te paṭisevato antarāyāyā'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------- | :------- | :--------------------------------------- | :-------------------------- | :------------------------ | :---------------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | hi | ind | excl | | certainly, indeed (or) because; for | | | | | | |
 | bhagavā | noun | masc nom sg of bhagavant | | the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
@@ -77,10 +81,12 @@
 | paṭisevato | prp | masc dat sg of paṭisevanta | | for (one) engaging, indulging | for associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
 | antarāyāyāti | comp | sandhi, masc + ind | | | | | | antarāyāya + iti | | |
 
+**for the Blessed One would not say so. In many ways, friend, obstructive acts are said to be obstructive by the Blessed One, and they are enough for obstruction for (one) engaging in [them],"**
+
 ## evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :---------------------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------------------ | :------------------------- | :----------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | evañca | comp | sandhi, adv + ind | | and thus, and if like this, but thus | | | | evaṃ + ca | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
@@ -97,25 +103,31 @@
 | tassa 2 | pron | masc gen sg of ta | | of that; his | | | | | | |
 | paṭinissaggāya | noun | masc dat sg paṭinissagga, from paṭinissajjati | +gen | for the giving up (of), relinquishing (of) | | √sajj (relinquish, let loose) | | pati + nī + √sajj > sagg + a | | |
 
+**and if that monk being spoken to thus by the monks should uphold in the same way, (then) that monk is to be admonished up to three times by the monks for the relinquishment of that**
+
 ## yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajeyya, iccetaṃ kusalaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :--------------------------------------------------------- | :------- | :-------------------------------------------------- | :-------------- | :----------------------------- | :----------------------------- | :--------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yāvatatiyañce | comp | sandhi, adv + ind | | if up to the third time | | | | yāvatatiyaṃ + ce | | |
 | samanubhāsiyamāno | prp | masc nom sg of samanubhāsiyamāna, prp of samanubhāsiyati | +instr | being admonished (by), being sternly advised (by) | | √bhās (shine, speak) | √bhās + iya > bhāsiya (pass) | saṃ + anu + bhāsiya + māna | | |
 | taṃ | pron | masc/fem/nt acc sg of ta | | that | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | iccetaṃ | comp | sandhi, ind + pron | | that is | thus this | | | iti + etaṃ | | |
 | kusalaṃ | noun | nt nom sg of kusala | | something proper, good deed; doing good | | | | | | |
-| no | ind | neg | | not | | | | | | |
+
+**(if) being admonished up to three times, he should relinquish it, that is good,**
 
 ## no ce paṭinissajeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------- | :------- | :---------------------------------------------------------- | :-------------- | :----------------------------- | :---------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| no | ind | neg | | not | | | | | | |
 | ce | ind | cond | | if | | | | | | |
 | paṭinissajeyya | verb | opt 3rd sg of paṭinissajjati | +acc | he would give up, relinquish | | √saj (relinquish, let loose) | √saj + a > saja | pati + nī + saja + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**(but) if he should not relinquish (it), is an offence requiring confession.**
 
-[← previous](saṃvidhānasikkhāpadaṃ 2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ari%E1%B9%AD%E1%B9%ADhasikkh%C4%81pada%E1%B9%83) | [next →](ukkhittasambhogasikkhāpadaṃ.md)
+
+[← previous](saṃvidhānasikkhāpadaṃ-2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ari%E1%B9%AD%E1%B9%ADhasikkh%C4%81pada%E1%B9%83) | [next →](ukkhittasambhogasikkhāpadaṃ.md)

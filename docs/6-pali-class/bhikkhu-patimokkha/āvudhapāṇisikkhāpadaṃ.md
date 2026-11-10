@@ -3,7 +3,7 @@
 ## na āvudhapāṇissa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :----------------------- | :------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | āvudhapāṇissa | adj | masc dat sg of āvudhapāṇī, comp | | to (one) with a weapon in hand | | | | āvudha + pāṇī | kammadhāraya | āvudha + pāṇī |
 | - āvudha | noun | nt | | weapon | | √yudh (fight) | | ā + √yudh > vudh + a | | |
@@ -14,14 +14,18 @@
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 
+**"I shall not teach Dhamma to one who has a weapon in [his] hand, [and] who is not ill," the training is to be done.**
+
 ## surusuruvaggo chaṭṭho.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :----------------------------------- | :------- | :----------------------- | :-------------- | :------- | :------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | surusuruvaggo | noun | comp, masc nom sg of surusuruvagga | | chapter about slurping | | | | surusuru + vagga | kammadhāraya | surusuru + vagga |
 | - surusuru | noun | masc, onom | | slurping sound | | | | suru + suru | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | chaṭṭho | ordin | masc nom sg of chaṭṭha | | sixth (6th) | | | | cha + ṭṭha | | |
+
+**The chapter about slurping is sixth**
 
 
 [← previous](satthapāṇisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=%C4%81vudhap%C4%81%E1%B9%87isikkh%C4%81pada%E1%B9%83) | [next →](pādukasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhuṃ evaṃ vadeyya, eh'āvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :---------------------------------- | :------- | :----------------------- | :------------------ | :---------------- | :---------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -22,10 +22,12 @@
 | - pavisissāma | verb | fut 1st pl of pavisati | | let's go into | we will enter | √vis (enter) | √vis + a > visa | pa + visa + issa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 
+**If any monk should say so to a monk, "Come friend! We shall enter a village or town for alms,"**
+
 ## tassa dāpetvā vā adāpetvā vā uyyojeyya, gacch'āvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------- | :------ | :-------------------------- | :------- | :------------------------------ | :-------------------------- | :------------------------- | :-------------------------- | :------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tassa | pron | masc dat sg of ta | | to him | | | | | | |
 | dāpetvā | verb | abs of dāpeti | | having got | having caused to give | √dā (give) | √dā + āpe > dāpe (caus) | dāpe + tva | | |
 | vā | ind | conj | | or, either or | | | | | | |
@@ -56,15 +58,19 @@
 | - hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 
+**[after] having had [food] given to him or not, should he dismiss [him]: "Go friend! There is no ease for me talking or sitting down together with you; there is ease for me talking or sitting down alone;"**
+
 ## etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------- | :------ | :----------------------- | :------- | :---------------------------------------------------------- | :-------------- | :---------------- | :------- | :--------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | etadeva | comp | sandhi, pron + ind | | just this, only this | | | | | | |
 | paccayaṃ | noun | masc acc sg of paccaya | | cause, reason | | √i (come, go) | | pati + √i + *a | | |
 | karitvā | abs | abs of karoti | | having done | | √kar (do, make) | | √kar + itvā | | |
 | anaññaṃ | pron | masc acc sg of anaññā | | not another | | | | na + añña | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**having done [it] only for this reason, not another; there is an offence requiring confession.**
 
 
 [← previous](acelakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=uyyojanasikkh%C4%81pada%E1%B9%83) | [next →](sabhojanasikkhāpadaṃ.md)

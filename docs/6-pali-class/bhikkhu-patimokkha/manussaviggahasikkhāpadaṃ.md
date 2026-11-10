@@ -3,7 +3,7 @@
 ## yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ v'āssa pariyeseyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :---------- | :---------------------------- | :---------------------- | :-------------------- | :------------------------------- | :---------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -20,12 +20,13 @@
 | - vā | ind | | | or | | | | | | |
 | - assa | pron | masc dat sg of ta | | for him, to him | | | | | | |
 | pariyeseyya | verb | opt 3rd sg of pariyesati | +acc +dat | he would seek, look for | | √es (seek, search) | √es + a > esa | pari + esa + ti | | |
-| Whichever monk, should intentionally deprive a human being of life, or should seek an assassin for him, | | | | | | | | | | |
+
+**Whichever monk, should intentionally deprive a human being of life, or should seek an assassin for him,**
 
 ## maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------- | :------ | :--------------------------------- | :------- | :----------------------------------- | :----------------------- | :------------------- | :--------------------------- | :----------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | maraṇavaṇṇaṃ | noun | masc acc sg of maraṇavaṇṇa, comp | | value of death, advantage in death | | | | maraṇa + vaṇṇa | genitive tappurisa | maraṇassa + vaṇṇa |
 | - maraṇa | noun | nt | | death | dying | √mar (die) | | √mar + aṇa | | |
 | - vaṇṇaṃ | noun | masc acc of vaṇṇa | | praise; approval; value | | √vaṇṇ (praise) | | √vaṇṇ + a | | |
@@ -34,12 +35,13 @@
 | maraṇāya | noun | nt dat sg of maraṇa | | for death | | √mar (die) | | √mar + aṇa | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | samādapeyya | verb | opt 3rd sg of samādapeti | +dat | he would encourage, incite | cause to take together | √ādā (take, steal) | √ādā + āpe > ādape (irreg) | saṃ + ādape + ti | | |
-| or should praise the advantage of death, or should encourage towards death | | | | | | | | | | |
+
+**or should praise the advantage of death, or should encourage towards death**
 
 ## ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matan'te jīvitā seyyo'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :-------------------------------- | :------- | :----------------------------------- | :-------------- | :------------ | :------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ambho | ind | excl | | hey! look here! | | | | | | |
 | purisa | noun | masc voc sg | | man, person | | | | | | |
 | kiṃ | pron | nt nom sg of ka | | what? | | | | | | |
@@ -58,14 +60,12 @@
 
 ## ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, matante jīvitā seyyo'ti
 
-| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------- | :------ | :---------- | :------- | :---------- | :-------------- | :------- | :------- | :--------------- | :---------------- | :------------------------ |
-| “Dear man, what is (it) with this bad, miserable life for you? Death for you is better than life!” | | | | | | | | | | |
+**“Dear man, what is (it) with this bad, miserable life for you? Death for you is better than life!”**
 
 ## iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :----------------------------------------------- | :----------------------- | :------------------- | :--------------------------- | :------------------------- | :------------------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | iti | ind | adv | | this, like, thus | | | | | | |
 | cittamano | adj | masc nom sg of cittamanas, comp | | with (this) thought in mind | thought in mind | | | citta + manas | locative tappurisa > bahubbīhi | citte + manas |
 | - citta | noun | nt | | mind, thought, heart | | √cit (think) | | √cit + ta | | |
@@ -82,17 +82,19 @@
 | maraṇāya | noun | nt dat sg of maraṇa | | for death | | √mar (die) | | √mar + aṇa | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | samādapeyya | verb | opt 3rd sg of samādapeti | +dat | he would encourage, incite | cause to take together | √ādā (take, steal) | √ādā + āpe > ādape (irreg) | saṃ + ādape + ti | | |
-| (if) one with such thought (and) intention in mind should praise the advantage of death, or should encourage towards death, | | | | | | | | | | |
+
+**(if) one with such thought (and) intention in mind should praise the advantage of death, or should encourage towards death,**
 
 ## ayam'pi pārājiko hoti asaṃvāso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------- | :------ | :---------------------------------------- | :------- | :---------------------------------- | :-------------------- | :-------------- | :------------- | :------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ayampi | comp | sandhi, pron + ind | | he too | | | | ayaṃ + api | | |
 | pārājiko | adj | masc nom sg of pārājika | | defeated, destroyed, disqualified | conquered | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
 | asaṃvāso | adj | masc nom sg of asaṃvāsa, from saṃvasati | | unaffiliated, excommunicated | not living together | √vas (live) | | na + saṃ + √vas + *a | | |
-| he also is disqualified, not in communion. | | | | | | | | | | |
+
+**he also is disqualified, not in communion.**
 
 
 [← previous](adinnādānasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=manussaviggahasikkh%C4%81pada%E1%B9%83) | [next →](uttarimanussadhammasikkhāpadaṃ.md)

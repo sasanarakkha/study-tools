@@ -3,7 +3,7 @@
 ## yo pana bhikkhu sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ purisassa vā itthimatiṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :------------------------------------------- | :------------------ | :-------------------- | :------------------ | :---------------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -19,12 +19,13 @@
 | itthimatiṃ | noun | fem acc sg of itthimati, comp | | woman’s intention, woman’s proposal | woman’s idea | | | itthi + mati | genitive tappurisa | itthiyā + mati |
 | - itthi | noun | fem | | woman | | | | | | |
 | - matiṃ | noun | fem acc sg of mati | | intention, proposal | thought, idea | √man (think) | | √man + ti | | |
-| If any monk should engage in mediating a man’s intention to a woman, or a woman’s intention to a man | | | | | | | | | | |
+
+**If any monk should engage in mediating a man’s intention to a woman, or a woman’s intention to a man**
 
 ## jāyattane vā jārattane vā, antamaso taṃ'khaṇikāya'pi, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------------------ | :------- | :----------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | jāyattane | noun | nt loc sg of jāyattana | | for being a wife, about marriage | in wifehood | √jan (be born, produce) | | √jan > jā + yā + ttana | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | jārattane | noun | nt loc sg of jārattana | | for being a mistress | in lover state | | | jāra + ttana | | |
@@ -35,7 +36,8 @@
 | - khaṇikāya | noun | fem loc sg of khaṇikā | | in related to moment; temporary | | | | khaṇa + ikā | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
-| for being a wife or for being a mistress, even for being a momentary sexual partner, is a saṅghādisesa (offence) | | | | | | | | | | |
+
+**for being a wife or for being a mistress, even for being a momentary sexual partner, is a saṅghādisesa (offence)**
 
 
 [← previous](attakāmapāricariyasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sa%C3%B1carittasikkh%C4%81pada%E1%B9%83) | [next →](kuṭikārasikkhāpadaṃ.md)

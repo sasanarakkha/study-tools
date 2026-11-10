@@ -3,7 +3,7 @@
 ## tañ'ce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------- | :--------------------- | :----------------------------- | :---------------------- | :-------------------- | :----------------- | :------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tañce | comp | sandhi, pron + ind | | if that; if him | | | | taṃ + ce | | |
 | - taṃ | pron | masc acc sg of ta | | that; him | | | | | | |
 | - ce | ind | cond | | if | | | | | | |
@@ -16,12 +16,13 @@
 | cīvarehi | noun | nt instr pl of cīvara | | with robes | cloths | | | | | |
 | abhihaṭṭhuṃ | inf | inf of abhiharati | | to take away | | √har (carry) | | abhi + √har + tuṃ | | |
 | pavāreyya | verb | opt 3rd sg of pavāreti | +acc & +instr & +inf | he would invite, offer | | √var (wish, choose) | √var + *e > vāre | pa + vāre + ti | | |
-| If an unrelated male householder or female householder,  with many robe-cloths, should invite him to take away, | | | | | | | | | | |
+
+**If an unrelated male householder or female householder,  with many robe-cloths, should invite him to take away,**
 
 ## santar'uttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------- | :---------- | :----------------------------------------- | :------- | :--------------------------------------------------------------------------- | :------------------ | :--------------------- | :------- | :--------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | santaruttaraparamaṃ | ind | adv, acc sg of santaruttaraparama | | with an inner and upper robe at most | | | | santara + uttara + paramaṃ | abyayībhāva | santaruttara + paramaṃ |
 | - santara | noun | nt | | inner robe, under robe | inside | | | sa + anta + ra | | |
 | - uttara | noun | nt | | upper robe | higher | √tar (cross) | | ud + √tar + a | | |
@@ -32,19 +33,21 @@
 | tato | pron | abl sg of ta | | from that; therefrom; from him | from that | | | ta + to | | |
 | cīvaraṃ | noun | nt nom sg of cīvara | | robe, robe-cloth | cloth | | | | | |
 | sāditabbaṃ | ptp | nt nom sg of sāditabba, ptp of sādeti | | can be accepted, permitted | to be tasted | √sād (taste, relish) | | √sād + itabba | | |
-| with an inner and upper robe at most, therefrom the robe-cloth can be accepted by that monk; | | | | | | | | | | |
+
+**with an inner and upper robe at most, therefrom the robe-cloth can be accepted by that monk;**
 
 ## tato ce uttariṃ sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------ | :------ | :------------------------ | :------- | :---------------------------------------------------------- | :--------------- | :------------------------------ | :------------------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
 | ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | sādiyeyya | verb | opt 3rd sg of sādiyati | | he would accept | be tasted | √sād (taste, relish) | √sād + e + iya > sādiya (pass) | sādiya + ti | | |
 | nissaggiyaṃ | ptp | nt nom sg of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| if he should accept more than that, this is an offence requiring relinquishment and confession. | | | | | | | | | | |
+
+**if he should accept more than that, this is an offence requiring relinquishment and confession.**
 
 
 [← previous](aññātakaviññattisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=tatuttarisikkh%C4%81pada%E1%B9%83) | [next →](paṭhamaupakkhaṭasikkhāpadaṃ.md)

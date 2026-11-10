@@ -3,7 +3,7 @@
 ## na ujjhānasaññī paresaṃ pattaṃ olokessāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :------------------------- | :---------------- | :----------------- | :------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | ujjhānasaññī | adj | masc nom sg of ujjhānasaññī | | perceiving fault; with a critical mind | thinking down perception | | | ujjhāna + saññī | | |
 | - ujjhāna | noun | nt, from ujjhāyati | | finding fault; complaining | thinking down | √jhā (think) | | ava > o > u + √jhā + ana | | |
@@ -15,6 +15,8 @@
 | - iti | ind | | | “” | thus | | | | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not look at another's bowl finding fault," the training is to be done.**
 
 
 [← previous](sūpodanaviññattisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ujjh%C4%81nasa%C3%B1%C3%B1%C4%ABsikkh%C4%81pada%E1%B9%83) | [next →](kabaḷasikkhāpadaṃ.md)

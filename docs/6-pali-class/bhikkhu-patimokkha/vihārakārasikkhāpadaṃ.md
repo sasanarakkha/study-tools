@@ -3,7 +3,7 @@
 ## mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ att'uddesaṃ bhikkhū abhinetabbā vatthudesanāya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------ | :------- | :------------------------------------------------------------ | :------------------------- | :-------------------------- | :---------------------------- | :------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | mahallakaṃ | adj | masc acc sg of mahallaka | | large, big | | √mah (increase) | | √mah + ā + la + ka | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -16,24 +16,26 @@
 | vatthudesanāya | noun | fem dat sg, comp | | for designating the site; appointing the place | | | | vatthu + desanā | genitive tappurisa | vatthuno + desanā |
 | - vatthu | noun | nt | | plot, site, location | | √vas (live) | | √vas + tu | | |
 | - desanāya | noun | fem dat sg of desanā | | to appointing; allocating; indicating; designating; showing | for causing to point out | √dis (point out, explain) | √dis + *e > dese | dese + anā | | |
-| By a monk who is having a large dwelling built, with an owner, designated for himself, monks are to be brought for appointing the site. | | | | | | | | | | |
+
+**By a monk who is having a large dwelling built, with an owner, designated for himself, monks are to be brought for appointing the site.**
 
 ## tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------- | :------ | :------------------------- | :------- | :-------------------------------- | :--------------------------- | :-------------------------- | :----------------------------------- | :------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | vatthu | noun | nt nom sg | | plot, site, location | | √vas (live) | | √vas + tu | | |
 | desetabbaṃ | ptp | nt nom sg of desetabba | | should be appointed, designated | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese | dese + tabba | | |
 | anārambhaṃ | adj | nt nom sg | | not harmful, not injurious | without violence | √rabh (be violent) | √rabh + a > rabha > rambha (irreg) | na > an + ā + rambha + a | | |
 | saparikkamanaṃ | adj | nt nom sg | | accessible, approachable | with walking around | √kam (go) | | sa + pari + √kam + ana | | |
-| By those monks a site is to be appointed which is not harmful, having a surrounding space. | | | | | | | | | | |
+
+**By those monks a site is to be appointed which is not harmful, having a surrounding space.**
 
 ## sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------------- | :----------------------------------- | :----------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sārambhe | adj | nt loc sg of sārambha, comp | | on harmful, injurious | in with harm | √rabh (be violent) | √rabh + a > rabha > rambha (irreg) | saṃ > sā + rambha + a | | |
 | ce | ind | cond | | if | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -47,7 +49,8 @@
 | anabhineyya | verb | opt 3rd sg of abhineti, neg | +acc | he would not bring; not invite | | √nī (lead) | √nī + a > ne | abhi + ne + ti | | |
 | vatthudesanāya | noun | fem dat sg, comp | | for designating the site; appointing the place | | | | vatthu + desanā | genitive tappurisa | vatthuno + desanā |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
-| If a monk on a harmful site, without surrounding space, would have a large dwelling built, or (if) he would not bring monks for appointing the site, it is a saṅghādisesa (offence). | | | | | | | | | | |
+
+**If a monk on a harmful site, without surrounding space, would have a large dwelling built, or (if) he would not bring monks for appointing the site, it is a saṅghādisesa (offence).**
 
 
 [← previous](kuṭikārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=vih%C4%81rak%C4%81rasikkh%C4%81pada%E1%B9%83) | [next →](duṭṭhadosasikkhāpadaṃ.md)

@@ -3,19 +3,20 @@
 ## gaṇabhojane aññatra samayā pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------- | :------ | :------------------------------- | :------- | :---------------------------------------------------------- | :------------------- | :------------------- | :------- | :------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | gaṇabhojane | noun | nt loc sg of gaṇabhojana, comp | | in a group meal, eating in a group | in group eating | | | gaṇa + bhojana | locative tappurisa | gaṇe + bhojana |
 | - gaṇa | noun | masc | | group | count | √gaṇ (calculate) | | √gaṇ + a | | |
 | - bhojane | noun | nt loc of bhojana | | in eating, consuming | | √bhuj (eat, enjoy) | | √bhuj + *ana | | |
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
 | samayā | noun | masc abl sg of samaya | | from the right time, proper occasion | from come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| In eating in a group, except at the right occasion, there is an offence requiring confession. <br> | | | | | | | | | | |
+
+**In eating in a group, except at the right occasion, there is an offence requiring confession. <br>**
 
 ## tatth'āyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāv'ābhirūhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṃ tattha samayo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------- | :------- | :----------------------------------------- | :------------------- | :--------------------------- | :----------------- | :----------------------- | :--------------------- | :-------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatthāyaṃ | comp | sandhi, adv + pron | | in this case this | there this | | | tattha + ayaṃ | | |
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 | gilānasamayo | noun | masc nom sg of gilānasamaya, comp | | time of sickness | | | | gilāna + samaya | genitive tappurisa | gilānassa + samaya |
@@ -52,7 +53,8 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
-| In that case this is the right occasion: the occasion of illness; the occasion of robe offering; the occasion of robe-making; the occasion of going on a road journey; the occasion of boarding on a boat; the great occasion; the occasion of an ascetic meal; this is the right occasion in that case. | | | | | | | | | | |
+
+**In that case this is the right occasion: the occasion of illness; the occasion of robe offering; the occasion of robe-making; the occasion of going on a road journey; the occasion of boarding on a boat; the great occasion; the occasion of an ascetic meal; this is the right occasion in that case.**
 
 
 [← previous](āvasathapiṇḍasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ga%E1%B9%87abhojanasikkh%C4%81pada%E1%B9%83) | [next →](paramparabhojanasikkhāpadaṃ.md)

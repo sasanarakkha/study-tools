@@ -3,7 +3,7 @@
 ## yo pana bhikkhu anvaḍḍhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya, idān'eva kho ahaṃ jānāmi, ayam'pi kira dhammo sutt'āgato suttapariyāpanno anvaḍḍhamāsaṃ uddesaṃ āgacchatī'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------- | :------ | :-------------------------------------- | :------- | :---------------------------------------------- | :--------------------- | :-------------------------- | :-------------------------- | :--------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -33,10 +33,12 @@
 | - āgacchati | verb | pr 3rd sg | | it comes; it occurs | arrives | √gam (go) | √gam + a > gaccha (irreg) | ā + gaccha + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 
+**If any monk when the Disciplinary Code is being recited every fortnight should say thus, “Only now I know! This too, indeed, is a case which has been handed down as a rule (and) included in rules, which comes up for recitation every fortnight!”**
+
 ## tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------------------- | :------- | :------------------------------------- | :--------------------------- | :-------------------------- | :------------------------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tañce | comp | sandhi, pron + ind | | if that; if him | | | | taṃ + ce | | |
 | bhikkhuṃ | noun | masc acc sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | aññe | pron | masc nom pl of añña | | other | | | | | | |
@@ -57,10 +59,12 @@
 | bhiyyo | ind | ind, adv | | more (than) | | | | | | |
 | - iti | ind | | | “” | thus | | | | | |
 
+**if other monks should know [about] that monk [thus], “There have been sitting(s) before by this monk two or three times when the Disciplinary Code was being recited. What to say of more!”**
+
 ## na ca tassa bhikkhuno aññāṇakena mutti atthi, yañ'ca tattha āpattiṃ āpanno, tañ'ca yathādhammo kāretabbo, uttariñ'c'assa moho āropetabbo
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :--------------------------------------- | :------- | :--------------------------------------------------- | :----------------------- | :---------------------------- | :------------------------------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | tassa | pron | masc dat sg of ta | | to that | | | | | | |
@@ -85,10 +89,12 @@
 | moho | noun | masc nom sg | | deceiving; causing delusion | deluding | √muh (be deluded, confused) | √muh + *e > mohe | mohe + a | | |
 | āropetabbo | ptp | masc nom sg of āropetabba | | should be impeached, challenged, charged | to cause to be mounted | √ruh (ascend, grow) | √ruh + *e > rohe > rope (caus) | ā + rope + tabba | | |
 
+**there is no release for that monk through not-knowing, and whatever committed offence there, (he) is to be made to act according to that case and moreover his deception is to be charged,**
+
 ## tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā manasikarosī'ti, idaṃ tasmiṃ mohanake pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------- | :------- | :---------------------------------------------------------- | :-------------------- | :---------------------------- | :------------------------- | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tassa 3 | ind | adv, masc & nt gen sg | | regarding that; because of that | of that | | | | | |
 | te 3 | pron | 2nd dat sg of tvaṃ | | for you | | | | | | |
 | āvuso | noun | masc voc sg or pl of āyasmant | | friend(s), brother(s) | having long life | | | āyas + mant | | |
@@ -114,6 +120,8 @@
 | tasmiṃ | pron | masc loc sg of ta | | in that (case), in that (situation) | in that | | | | | |
 | mohanake | noun | masc loc sg of mahanka | | in pretending not to know; deception | in making confusion | √muh (be deluded, confused) | √muh + *e > mohe (caus) | mohe + ana + ka | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**“Because of that it is a loss for you, because of that [it] has been ill-gotten by you, when the Disciplinary Code is being recited, that you, having not carefully given importance, do (not) pay attention.” In that deception, this [is a case] requiring confession.**
 
 
 [← previous](vilekhanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=mohanasikkh%C4%81pada%E1%B9%83) | [next →](pahārasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## bhikkhū pan'eva kulesu nimantitā bhuñjanti, tatra ce sā bhikkhunī vosāsamānarūpā ṭhitā hoti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------- | :------- | :------------------------------------ | :-------------------- | :------------------------ | :-------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | paneva | comp | sandhi, ind + ind | | and just, and now | | | | pana + eva | | |
 | kulesu | noun | nt loc pl of kula | | in families; among families | | √kul (be close) | | √kul + a | | |
@@ -19,10 +19,12 @@
 | ṭhitā | pp | fem nom sg of ṭhita | | standing; situated; remaining | stood | √ṭhā (stand) | | √ṭhā + ita | | |
 | hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
 
+**Now, invited monks are eating among families, and if a nun with a commanding nature is standing there**
+
 ## idha sūpaṃ detha, idha odanaṃ dethā’ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------- | :------ | :-------------------- | :------- | :------------------- | :-------------- | :------------- | :-------------- | :---------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | idha | ind | adv | | here | | | | ima + dha | | |
 | sūpaṃ | noun | masc acc sg of sūpa | | dahl; lentil curry | | | | | | |
 | detha | verb | imp 2nd pl of detu | | you all must give! | | √dā (give) | √dā + a  > de | de + ti | | |
@@ -31,20 +33,24 @@
 | dethāti | comp | sandhi, imp + ind | | | | | | detha + iti | | |
 | detha | verb | imp 2nd pl of detu | | you all must give! | | √dā (give) | √dā + a  > de | de + ti | | |
 
+**"Give curry here, give rice here!"**
+
 ## tehi bhikkhūhi sā bhikkhunī apasādetabbā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :------------------------------- | :------- | :---------------------------------------------------------------- | :-------------------- | :------------------------- | :------------------ | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu, comp | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
 | sā | pron | fem nom sg of ta | | she, that | | | | | | |
 | bhikkhunī | noun | fem nom sg of bhikkhunī | | nun | female beggar | √bhikkh (beg) | | √bhikkh + u + [n] + ī | | |
 | apasādetabbā | ptp | fem nom sg of apasādetabba | | should be rebuked; should be reprimanded; should be discouraged | to cause to be sunk | √sad (sink, sit, settle) | √sad + *e  > sāde | apa + sāde + tabba | | |
 
+**[then] by those monks that nun is to be rebuked**
+
 ## apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------------------ | :------- | :------------------ | :-------------------- | :--------------------------- | :-------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | apasakka | verb | imp 2nd sg of apasakkatu, from apasakkati | | go away! begone! | move away | √sakk (move) | | apa + √sakk + ati | | |
 | tāva | ind | adv | | as long as, while | | | | ta + ? | | |
 | bhagini | noun | fem voc of bhaginī | | sister, woman | | √bhaj (divide, distribute) | | √bhaj > bhag + a + inī | | |
@@ -54,10 +60,12 @@
 | - bhuñjanti | verb | pr 3rd pl of bhuñjati | | they are eating | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 
+**"Go away, sister, for as long as the monks eat!"**
+
 ## ekassa'pi ce bhikkhuno nappaṭibhāseyya taṃ bhikkhuniṃ apasādetuṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :--------------------------------------- | :------- | :------------------------------------------------------------------- | :---------------------- | :------------------------- | :----------------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ekassapi | comp | sandhi, pron + ind | | to even one; to a single one | | | | ekassa + api | | |
 | - ekassa | pron | masc dat sg of eka | | to one; to a single one | | | | eka + ssa | | |
 | - api | ind | conj, comp | | then, and, now, even, also | | | | (a)pi | | |
@@ -69,10 +77,12 @@
 | bhikkhuniṃ | noun | fem acc sg of bhikkhunī | | nun | female beggar | √bhikkh (beg) | | √bhikkh + u + [n] + ī | | |
 | apasādetuṃ | verb | inf of apasādeti | | to discourage; to rebuke | to cause to sink away | √sad (sink, sit, settle) | √sad + *e  > sāde | apa + sāde + tuṃ | | |
 
+**and if it would not occur to even one monk to rebuke that nun,**
+
 ## apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------------------ | :------- | :------------------ | :-------------------- | :--------------------------- | :------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | apasakka | verb | imp 2nd sg of apasakkatu, from apasakkati | | go away! begone! | move away | √sakk (move) | | apa + √sakk + ati | | |
 | tāva | ind | adv | | as long as, while | | | | ta + ? | | |
 | bhagini | noun | fem voc of bhaginī | | sister, woman | | √bhaj (divide, distribute) | | √bhaj > bhag + a + inī | | |
@@ -80,10 +90,12 @@
 | bhikkhū | noun | masc nom pl, from bhikkhati | | monks, monastics | beggars, mendicants | √bhikkh (beg) | | √bhikkh + u | | |
 | bhuñjantīti | comp | sandhi, pr + ind | | | | | | bhuñjanti + iti | | |
 
+**"Go away, sister, for as long as the monks eat!"**
+
 ## paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------ | :------- | :------------------------------------------- | :--------------------------- | :-------------------------- | :------------------------ | :------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | paṭidesetabbaṃ | ptp | nt nom sg of paṭidesetabba | | it should be acknowledged, admitted | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + tabba | | |
 | tehi | pron | masc instr pl of ta | | by these | | | | | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu, comp | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
@@ -97,6 +109,8 @@
 | paṭidesemāti | comp | sandhi, pr + ind | | | | | | paṭidesema + iti | | |
 | - paṭidesema | verb | pr 1st pl of paṭidesati | | we admit; acknowledge | | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
+
+**[it] is to be acknowledged by those monks, "Friend[s], we have committed a blameworthy, unsuitable act, to be acknowledged; That we acknowledge."**
 
 
 [← previous](paṭhamapāṭidesanīyasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=dutiyap%C4%81%E1%B9%ADidesan%C4%AByasikkh%C4%81pada%E1%B9%83) | [next →](tatiyapāṭidesanīyasikkhāpadaṃ.md)

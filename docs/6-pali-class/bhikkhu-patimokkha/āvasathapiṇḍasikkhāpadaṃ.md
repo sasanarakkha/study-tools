@@ -3,7 +3,7 @@
 ## agilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo. tato ce uttariṃ bhuñjeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :----------------------- | :-------------------- | :------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | agilānena | adj | masc instr sg of agilāna | | by a healthy | not sick | √gilā (be sick, tired) | | na + √gilā + ana | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | eko | card | masc nom sg of eka | | one | | | | | | |
@@ -16,7 +16,8 @@
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | bhuñjeyya | verb | opt 3rd sg of bhuñjati | | he would eat | | √bhuj (eat, enjoy) | √bhuj + ṃa > bhuñja | bhuñja + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| By a monk who is not ill, one alms-meal in a resthouse can be eaten; if he should eat more than that, there is an offence requiring confession. | | | | | | | | | | |
+
+**By a monk who is not ill, one alms-meal in a resthouse can be eaten; if he should eat more than that, there is an offence requiring confession.**
 
 
 [← previous](rahonisajjasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=%C4%81vasathapi%E1%B9%87%E1%B8%8Dasikkh%C4%81pada%E1%B9%83) | [next →](gaṇabhojanasikkhāpadaṃ.md)

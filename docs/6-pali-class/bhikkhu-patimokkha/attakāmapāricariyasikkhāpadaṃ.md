@@ -3,7 +3,7 @@
 ## yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṃ bhāseyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :---------------------------------------- | :------------------- | :--------------------- | :------------------ | :------------------------------ | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -19,23 +19,25 @@
 | - pāricariyāya | noun | fem gen sg of pāricariyā, from paricara | | of service, ministering, attending | walking around | √car (walk, behave) | | pari > pāri + √car + a + *iyā | | |
 | vaṇṇaṃ | noun | masc acc sg, from vaṇṇeti | | praise, value | | √vaṇṇ (praise) | | √vaṇṇ + a | | |
 | bhāseyya | verb | opt 3rd sg of bhāsati | | he could speak | | √bhās (shine, speak) | √bhās + a > bhāsa | bhāsa + ti | | |
-| If any monk, affected by an altered mind, (and) in the presence of a woman, should speak praise of service to himself with sex: | | | | | | | | | | |
+
+**If any monk, affected by an altered mind, (and) in the presence of a woman, should speak praise of service to himself with sex:**
 
 ## etad'aggaṃ bhagini pāricariyānaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------------------------------- | :------ | :---------------------------------------- | :------- | :--------------------------------------------- | :--------------- | :--------------------------- | :------- | :------------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | etadaggaṃ | comp | sandhi, pron + adj | +gen | this (is) the highest, this is the best (of) | | | | etad + aggaṃ | | |
 | - etad | pron | nt nom sg of eta | | this | | | | eta + aṃ > ad | | |
 | - aggaṃ | adj | nt nom sg of agga | | highest, best, top | peak | | | | | |
 | bhagini | noun | fem voc of bhaginī | | sister, woman | | √bhaj (divide, distribute) | | √bhaj > bhag + a + inī | | |
 | pāricariyānaṃ | noun | fem gen pl of pāricariyā, from paricara | | of services, of ministrations | walking around | √car (walk, behave) | | pari > pāri + √car + a + *iyā | | |
-| “Sister, this is the best of services: | | | | | | | | | | |
+
+**“Sister, this is the best of services:**
 
 ## yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyā'ti methun'upasaṃhitena, saṅghādiseso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :----------------------- | :---------------- | :--------------------- | :------------------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yā | pron | fem nom sg of ya | | whoever, she, she who | | | | | | |
 | mādisaṃ | adj | masc acc sg of mādisa, comp | | like me, resembling me | | | | maṃ > mā + disa + *a | unelided accusative tappurisa | maṃ + disa |
 | - maṃ | pron | 1st acc sg of ahaṃ | | me | | | | maṃ > mā | | |
@@ -54,7 +56,8 @@
 | - iti | ind | | | “” | thus | | | | | |
 | methunūpasaṃhitena | adj | masc instr sg of methunūpasaṃhita, comp | | with related to sexual intercourse, concerned with sexual activity | | | | methuna + upasaṃhita | instrumental tappurisa | methunena + upasaṃhita |
 | saṅghādiseso | noun | masc nom sg of saṅghādisesa, comp | | offence requiring communal rehabilitation; related to an offence entailing demotion | offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
-| she who would serve a virtuous, good natured celibate person like me with this act,” concerned with sexual intercourse, is a saṅghādisesa (offence) | | | | | | | | | | |
+
+**she who would serve a virtuous, good natured celibate person like me with this act,” concerned with sexual intercourse, is a saṅghādisesa (offence)**
 
 
 [← previous](duṭṭhullavācāsikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=attak%C4%81map%C4%81ricariyasikkh%C4%81pada%E1%B9%83) | [next →](sañcarittasikkhāpadaṃ.md)

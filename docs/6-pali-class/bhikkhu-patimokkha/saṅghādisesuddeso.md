@@ -3,7 +3,7 @@
 ## ime kho pan'āyasmanto terasa saṅghādisesā dhammā uddesaṃ āgacchanti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :-------------------------- | :--------------------------- | :------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ime | pron | masc nom pl of ima | | these | | | | | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | panāyasmanto | comp | sandhi, ind + masc | | and venerables | | | | pana + āyasmanto | | |
@@ -17,18 +17,13 @@
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | uddesaṃ | noun | masc acc sg of uddesa, from uddisati | | recitation, chanting | pointing up | √dis (point out, explain) | | ud + √dis + *a | | |
 | āgacchanti | verb | pr 3rd pl of āgacchati | +acc | they arrive, they are coming up (for) | arrive | √gam (go) | √gam + a > gaccha (irreg) | ā + gaccha + ti | | |
-| Venerables, these thirteen saṅghādisesā cases come up for recitation. | | | | | | | | | | |
 
-## SA 1 ... 12 
-
-| pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------- | :------ | :---------- | :------- | :---------- | :-------------- | :------- | :------- | :--------------- | :---------------- | :------------------------ |
-|  |  |  |  |  |  |  |  |  |  |  |
+**Venerables, these thirteen saṅghādisesā cases come up for recitation.**
 
 ## uddiṭṭhā kho āyasmanto terasa saṅghādisesā dhammā nava paṭham'āpattikā, cattāro yāvatatiyakā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- | :------- | :--------------------------- | :------------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | uddiṭṭhā | pp | masc nom pl of uddiṭṭha, pp of uddisati | | recited, chanted | pointed up | √dis (point out, explain) | | ud + √dis + ta | | |
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | āyasmanto | noun | masc voc pl of āyasmant | | venerables | having long life | | | āyas + mant | | |
@@ -43,12 +38,13 @@
 | yāvatatiyakā | adj | masc nom pl of yāvatatiyaka, comp | | established after the third time; occurring after the third time | related to as many as third | | | yāva + tatiya + ka | kammadhāraya > bahubīhi | yāva + tatiyakā |
 | - yāva | ind | prep | | as far as, up to, until | | | | | | |
 | - tatiyakā | adj | masc nom pl of tatiyaka | | related to the third | | | | ti + tiya + ka | | |
-| Venerables, the thirteen cases related to saṅghādisesa have been recited, nine are established on the first offence, four are established after the third time. | | | | | | | | | | |
+
+**Venerables, the thirteen cases related to saṅghādisesa have been recited, nine are established on the first offence, four are established after the third time.**
 
 ## yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'ihaṃ jānaṃ paṭicchādeti, tāvat'ihaṃ tena bhikkhunā akāmā parivatthabbaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------- | :------- | :-------------------------------------------------- | :-------------------- | :----------------------- | :------------------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yesaṃ | pron | gen pl of ya | | of those | of which | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | aññataraṃ | adj | masc acc sg of aññatara | +gen | one (of); either one (of) | more than another | | | añña + tara | | |
@@ -68,12 +64,13 @@
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | akāmā | ind | adv, instr or abl of akāma | | involuntarily, with no choice (in the matter) | not with/from wish | √kam (desire) | | na + √kam + *a + ā | | |
 | parivatthabbaṃ | ptp | nt nom sg of parivatthabba | | should be under probation; should serve probation | to be stayed around | √vas (live) | | pari + √vas + tabba | | |
-| A monk having committed any one of those (offences), for as many days he knowingly conceals, for that many days by that monk, with no choice, the probation should be served. | | | | | | | | | | |
+
+**A monk having committed any one of those (offences), for as many days he knowingly conceals, for that many days by that monk, with no choice, the probation should be served.**
 
 ## parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :------------------------------------------------------------ | :------------------ | :---------------- | :------------------ | :------------------------ | :------------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | parivutthaparivāsena | adj | masc instr sg of parivutthaparivāsa, comp | | by (the monk) who has served probation | | | | parivuttha + parivāsa | kammadhāraya > bahubbīhi | parivuttha + parivāsa |
 | - parivuttha | pp | pp of parivasati | | served (probation) | lived around | √vas (live) | | pari + √vas + ta | | |
 | - parivāsena | noun | masc instr sg of parivāsa, from parivasati | | by probation | living around | √vas (live) | | pari + √vas + *a | | |
@@ -86,12 +83,13 @@
 | - bhikkhu | noun | masc, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | - mānattāya | noun | nt dat sg of mānatta, from māna | | for deference, paying respect | | √man (think) | | √man + *a + tta | | |
 | paṭipajjitabbaṃ | ptp | nt nom sg of paṭipajjitabba, from paṭipajjati | | should be practised, should be undergone | | √pad (go, step) | √pad + ya > pajja | paṭi + pajja + itabba | | |
-| by a monk who has stayed on the probation, furthermore, for six-night the deference to the monastics has to be practised. | | | | | | | | | | |
+
+**by a monk who has stayed on the probation, furthermore, for six-night the deference to the monastics has to be practised.**
 
 ## ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho, tattha so bhikkhu abbhetabbo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :--------------------------------------------------------- | :------------------ | :---------------------- | :--------------- | :----------------- | :------------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ciṇṇamānatto | adj | masc nom sg of ciṇṇamānatta, comp | | who has completed probation, who has completed deference | | | | ciṇṇa + mānatta | kammadhāraya > bahubbīhi | ciṇṇa + mānatta |
 | - ciṇṇa | pp | pp of carati | | completed, fulfilled | walked, acted | √car (walk, behave) | | √car + na | | |
 | - mānatto | noun | masc nom sg of mānatta, from māna | | penance | paying respect | √man (think) | | √man + *a + tta | | |
@@ -108,12 +106,13 @@
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | abbhetabbo | ptp | masc nom sg of abbhetabba, from abbheti | | should be reinstated, can be readmitted | to be called back | √vhe (call, name) | | ā + √vhe + tabba | | |
-| (once) the monk has performed the deference, wherever there may be a community of monks, which is a group of twenty, there that monk should be reinstated. | | | | | | | | | | |
+
+**(once) the monk has performed the deference, wherever there may be a community of monks, which is a group of twenty, there that monk should be reinstated.**
 
 ## ekena'pi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā, ayaṃ tattha sāmīci.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------- | :------- | :---------------------------------------------------- | :-------------------- | :------------------ | :----------- | :-------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ekenapi | comp | sandhi, card + ind | | even by one, by just one | | | | ekena + api | | |
 | - ekena | card | masc instr sg of eka | | by one | | | | | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
@@ -135,12 +134,13 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | sāmīci | noun | fem nom sg | | right thing to do, correct course, proper procedure | | | | | | |
-| If the community of monks, which is a group of twenty, which is deficient even by one, should reinstate that monk, (then) that monk is not reinstated, and those monks are blameworthy. This is the proper procedure there. | | | | | | | | | | |
+
+**If the community of monks, which is a group of twenty, which is deficient even by one, should reinstate that monk, (then) that monk is not reinstated, and those monks are blameworthy. This is the proper procedure there.**
 
 ## tatth'āyasmante pucchāmi, kacci'ttha parisuddhā, dutiyam'pi pucchāmi, kacci'ttha parisuddhā, tatiyam'pi pucchāmi, kacci'ttha parisuddhā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------------- | :------- | :----------------------------------------------- | :-------------- | :---------------- | :-------------------- | :------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatthāyasmante | comp | sandhi, adv + masc | | in that case the venerables | | | | tattha + āyasmante | | |
 | pucchāmi | verb | pr 1st sg of pucchati | | I ask, I am asking | | √pucch (ask) | √pucch + a > puccha | puccha + ti | | |
 | kaccittha | comp | sandhi, ind + adv (or) ind + pr | | I trust in this case, (or) I trust you all are | | | | kacci + ettha or kacci + attha | | |
@@ -153,27 +153,30 @@
 | pucchāmi | verb | pr 1st sg of pucchati | | I ask, I am asking | | √pucch (ask) | √pucch + a > puccha | puccha + ti | | |
 | kaccittha | comp | sandhi, ind + adv (or) ind + pr | | I trust in this case, (or) I trust you all are | | | | kacci + ettha or kacci + attha | | |
 | parisuddhā | pp | masc nom pl of parisuddha, pp of parisujjhati | | pure, innocent | purified | √sudh (be pure) | | pari + √sudh + ta | | |
-| In that case I ask the Venerables: I hope in this (you all are) pure ? (or) I hope you all are pure ? And for the second time I ask: I hope in this (you all are) pure ? And for the third time I ask: I hope in this (you all are) pure ? | | | | | | | | | | |
+
+**In that case I ask the Venerables: I hope in this (you all are) pure ? (or) I hope you all are pure ? And for the second time I ask: I hope in this (you all are) pure ? And for the third time I ask: I hope in this (you all are) pure ?**
 
 ## parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmi.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------- | :------ | :------------------------ | :------- | :----------------------------------------- | :---------------------------------- | :-------------------------- | :----------------------- | :------------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | parisuddhetthāyasmanto | comp | sandhi, pp + adv + masc | | the venerables (are) pure in this regard | the long lived ones are pure here | | | parisuddhā + ettha + āyasmanto | | |
 | tasmā | ind | adv, abl sg of ta | | therefore | from that | | | ta + smā | | |
 | tuṇhī | ind | adv | | silent, silence, silently | | | | | | |
 | evametaṃ | comp | sandhi, adv + pron | | therefore this | thus this | | | evaṃ + etaṃ | | |
 | dhārayāmi | verb | pr 1st sg of dhārayati | +acc | I take, I believe, I keep in mind | I bear, carry | √dhar (wear, hold, carry) | √dhar + *aya > dhāraya | dhāraya + ti | | |
-| In this case the venerables are pure, therefore (there is) silence, so I keep this (in mind). | | | | | | | | | | |
+
+**In this case the venerables are pure, therefore (there is) silence, so I keep this (in mind).**
 
 ## terasa saṅghādisesā niṭṭhitā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------- | :------ | :---------------------------- | :------- | :---------------------------------------------------------------------------------- | :------------------------------------------------- | :------------- | :------- | :--------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | terasa | card | x nom pl, comp | | thirteen | | | | ti > te + dasa > rasa + *a | dvanda | ti ca dasa ca |
 | saṅghādisesā 2 | noun | masc nom pl of saṅghādisesa | | offences requiring the involvement of the community in the beginning and the rest | with the community in the beginning and the rest | | | saṅgha + ādi + sesa | | |
 | niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
-| The thirteen saṅghādisesā offences is finished | | | | | | | | | | |
+
+**The thirteen saṅghādisesā offences is finished**
 
 
 [← previous](uttarimanussadhammasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sa%E1%B9%85gh%C4%81disesuddeso) | [next →](sukkavisaṭṭhisikkhāpadaṃ.md)

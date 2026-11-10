@@ -3,7 +3,7 @@
 ## samaṇ'uddeso'pi ce evaṃ vadeyya, tath'āhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā ye'me antarāyikā dhammā vuttā bhagavatā, te paṭisevato n'ālaṃ antarāyāyā'ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------------- | :------- | :----------------------------------------- | :--------------------- | :-------------------------- | :------------------------ | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | samaṇuddesopi | comp | sandhi, masc + ind | | even (if) a novice | | | | samaṇuddeso + api | | |
 | - samaṇuddeso | noun | masc nom sg of samaṇuddesa | | novice | designated ascetic | | | samaṇa + uddesa | | |
 | - samaṇa | noun | masc | | ascetic; renunciant; monk | | √sam (exert, strive) | | √sam + aṇa | | |
@@ -28,10 +28,12 @@
 | nālaṃ | comp | sandhi, ind + ind | +dat | they are not enough (for); not able (to) | not enough (for) | | | na + alaṃ | | |
 | antarāyāyāti | comp | sandhi, masc + ind | | | | | | antarāyāya + iti | | |
 
+**If a novice should say thus too, "As I understand the Teaching taught by the Blessed One, these obstructive acts which are spoken of by the Blessed One: they are not enough for obstruction for (one) engaging in [them],"**
+
 ## so samaṇ'uddeso bhikkhūhi evam'assa vacanīyo, m'āvuso, samaṇ'uddesa evaṃ avaca
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------ | :------- | :---------------------------------- | :------------------- | :-------------- | :------- | :---------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | samaṇuddeso | noun | masc nom sg of samaṇuddesa | | novice | designated ascetic | | | samaṇa + uddesa | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
@@ -43,10 +45,12 @@
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | avaca | verb | imperf 3rd sg of vacati | | one says | one said | √vac (speak) | | a + √vac + a | | |
 
+**[then] that novice is to be spoken to by the monks thus, "Friend novice, don't say so!**
+
 ## mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :-------------------------- | :------- | :---------------------------------------- | :-------------------------- | :---------------------- | :---------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | mā | ind | neg | | don't! may not! | | | | | | |
 | bhagavantaṃ | noun | masc acc sg of bhagavant | | the Blessed One, Fortunate one | having quality of fortune | √bhaj (divide) | | √bhaj + a + vant | | |
 | abbhācikkhi | verb | aor 2nd sg of abbhācikkhi | | misrepresent, slander | misrepresented, slandered | √cikkh (show, tell) | | abhi + ā + √cikkh + i | | |
@@ -61,10 +65,12 @@
 | evaṃ | ind | ind, adv | | thus, like this | | | | | | |
 | vadeyya | verb | opt 3rd sg of vadati | | would say, speak, tell | | √vad (speak) | √vad + a > vada | vada + eyya | | |
 
+**Don't misrepresent the Blessed One, for misrepresentation of the Blessed One is not good, for the Blessed One would not say so.**
+
 ## anekapariyāyena āvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā’ti
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------- | :------- | :----------------------------------------- | :--------------------- | :------------------------ | :--------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | anekapariyāyena | ind | adv, instr sg of anekapariyāya, comp | | in various ways, in many ways | with not one way | | | aneka + pariyāyena | kammadhāraya | aneka + pariyāyena |
 | āvuso | noun | masc voc sg or pl of āyasmant | | friend(s), brother(s) | having long life | | | āyas + mant | | |
 | samaṇuddesa | noun | masc voc sg of samaṇuddesa | | novice | designated ascetic | | | samaṇa + uddesa | | |
@@ -79,10 +85,12 @@
 | paṭisevato | prp | masc dat sg of paṭisevanta | | for (one) engaging, indulging | for associating | √sev (serve, associate) | √sev + a | pati + seva + nta | | |
 | antarāyāyāti | comp | sandhi, masc + ind | | | | | | antarāyāya + iti | | |
 
+**In many ways, friend novice, obstructive acts are said to be obstructive by the Blessed One, and they are enough for obstruction for (one) engaging in [them],"**
+
 ## evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :----------------------------------------- | :------- | :------------------------------------- | :------------------- | :-------------- | :------------------------- | :---------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | evañca | comp | sandhi, adv + ind | | and thus, and if like this, but thus | | | | evaṃ + ca | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
@@ -92,10 +100,12 @@
 | tatheva | comp | sandhi, adv + ind | | just like that, in that way | | | | tathā + eva | | |
 | paggaṇheyya | verb | opt 3rd sg of paggaṇhāti | | he would support, uphold | hold forward | √gah (grasp) | | pa + gaṇhā + ti | | |
 
+**and if that novice being spoken to thus by the monks should uphold in the same way,**
+
 ## so samaṇ'uddeso bhikkhūhi evam'assa vacanīyo, ajja't'agge te, āvuso, samaṇ'uddesa na c'eva so bhagavā satthā apadisitabbo
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :------------------------------ | :------- | :---------------------------------- | :-------------------------- | :-------------------------- | :------- | :-------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | samaṇuddeso | noun | masc nom sg of samaṇuddesa | | novice | designated ascetic | | | samaṇa + uddesa | | |
 | bhikkhūhi | noun | masc instr pl of bhikkhu | | with monks | | √bhikkh (beg) | | √bhikkh + u | | |
@@ -114,10 +124,12 @@
 | satthā | noun | masc nom sg of satthar | | teacher | | √sās (teach) | | √sās + tar | | |
 | apadisitabbo | ptp | masc nom sg of apadisitabba | | should be referred to | to be pointed away | √dis (point out, explain) | | apa + √dis + itabba | | |
 
+**[then] that novice is to be spoken to by the monks thus, "From today onwards, friend novice, the Blessed One is not to be referred to (as) the teacher by you,**
+
 ## yam'pi c'aññe samaṇ'uddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, s'āpi te n'atthi, cara pi're, vinassā'ti.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------------- | :-------------------- | :-------------------------- | :------------------ | :------------------------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yampi | comp | sandhi, pron + ind | | and whichever | whichever and | | | yaṃ + api | | |
 | - yaṃ | pron | fem acc sg of ya | | whichever | | | | | | |
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
@@ -144,10 +156,12 @@
 | - vinassa | verb | imp 2nd sg | | get lost! | disappear! | √nas (be lost, disappear) | √nas + ya > nassa | vi + nassa + ti | | |
 | - iti | ind | | | “” | thus | | | | | |
 
+**and also whatever sleeping place other novices get together with monks for two or three nights, that too is not for you. Go away, disappear!"**
+
 ## yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇ'uddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :------------------------------------------- | :------- | :---------------------------------------------------------- | :------------------------- | :---------------------------- | :-------------------------- | :------------------ | :-------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -168,14 +182,18 @@
 | kappeyya | verb | opt 3rd sg of kappeti | +acc | should take, use | make suitable | √kapp (be fit, be suitable) | √kapp + *e > kappe (caus) | kappe + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk should knowingly befriend such an expelled novice, or should make [him] attend [to himself], or should associate with [him], or should make use of a sleeping place together with [him], there is an offence requiring confession.**
+
 ## sappāṇakavaggo sattamo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------ | :------- | :--------------------------------------- | :-------------- | :------------- | :------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sappāṇakavaggo | noun | comp, masc nom sg of sappāṇakavagga | | chapter about containing living beings | | | | sappāṇaka + vagga | kammadhāraya | sappāṇaka + vagga |
 | - sappāṇaka | adj | nt acc sg of sappāṇaka | | containing living beings | with breath | √an (breath) | | sa + pa + √an + a + ka | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | sattamo | ordin | masc nom sg of sattama | | seventh (7th) | | | | satta + ma | | |
+
+**The chapter about containing living beings is the seventh.**
 
 
 [← previous](ukkhittasambhogasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=ka%E1%B9%87%E1%B9%ADakasikkh%C4%81pada%E1%B9%83) | [next →](sahadhammikasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :--------------------- | :---------------------- | :----------------- | :---------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -15,16 +15,20 @@
 | pariṇāmeyya | verb | opt 3rd sg of pariṇāmeti | | he would appropriate, transfer | cause to bend | √nam (bend) | √nam + *e > ṇāme | pari + ṇāme + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk would knowingly divert to an individual a community-allocated gain, this is an offence requiring confession.**
+
 ## sahadhammikavaggo aṭṭhamo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------ | :------ | :--------------------------------------- | :------- | :---------------------------- | :------------------ | :------------- | :------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sahadhammikavaggo | noun | comp, masc nom sg of sahadhammikavagga | | chapter about rightful | | | | sahadhammika + vagga | kammadhāraya | sahadhammika + vagga |
 | - sahadhammika | adj | masc | | legal; legitimate; rightful | | | | saha + dhammika | | |
 | - - saha | ind | prep | | with, together with | | | | | | |
 | - - dhammika | adj | masc | | legal, legitimate | related to dhamma | √dhar (hold) | | √dhar + ma + ika | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | aṭṭhamo | ordin | masc nom sg of aṭṭhama | | eighth (8th) | | | | aṭṭha + ma | | |
+
+**The chapter about rightful is eighth**
 
 
 [← previous](dubbalasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=pari%E1%B9%87%C4%81manasikkh%C4%81pada%E1%B9%83) | [next →](antepurasikkhāpadaṃ.md)

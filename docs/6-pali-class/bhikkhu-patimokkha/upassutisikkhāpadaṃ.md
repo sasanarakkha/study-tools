@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivād'āpannānaṃ upassutiṃ tiṭṭheyya
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :---------------------------------- | :------- | :------------------------------------- | :-------------------- | :------------------------ | :-------------------- | :---------------- | :------------------------ | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -20,10 +20,12 @@
 | upassutiṃ | ind | adv, fem acc sg of upassuti | | eavesdropping | listening near | √su (hear) | | upa + √su + ti | | |
 | tiṭṭheyya | verb | opt 3rd sg of tiṭṭhati | | he would stand | | √ṭhā (stand) | √ṭhā + ṭhā > tiṭṭha | tiṭṭha + ti | | |
 
+**If any monk should stand overhearing monks who are arguing, quarrelling, engaged in dispute,**
+
 ## yaṃ ime bhaṇissanti, taṃ sossāmī’ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------- | :------- | :---------------------------------------------------------- | :-------------- | :-------------------- | :----------------------- | :------------------ | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yaṃ | pron | masc acc sg of ya | | whichever; which | | | | | | |
 | ime | pron | masc nom pl of ima | | they | | | | | | |
 | bhaṇissanti | verb | fut 3rd pl of bhaṇati | | they will speak | | √bhaṇ (talk, speak) | √bhaṇ + a > bhaṇa | bhaṇa + issa + ti | | |
@@ -37,5 +39,7 @@
 | anaññaṃ | pron | masc acc sg of anaññā | | not another | | | | na + añña | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**“Whatever they say, that I will hear,” having done [it] only for this reason, not another; there is an offence requiring confession.**
 
-[← previous](sañciccasikkhāpadaṃ 2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=upassutisikkh%C4%81pada%E1%B9%83) | [next →](kammappaṭibāhanasikkhāpadaṃ.md)
+
+[← previous](sañciccasikkhāpadaṃ-2.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=upassutisikkh%C4%81pada%E1%B9%83) | [next →](kammappaṭibāhanasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā antamaso hass'āpekkho'pi, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :--------------------------------------- | :------- | :---------------------------------------------------------- | :------------------------- | :------------------------- | :----------------------- | :---------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -34,16 +34,20 @@
 | - api | ind | conj | | then, and, now, even, also | | | | (a)pi | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk should hide a monk's bowl or robe or sitting-cloth or needle case or belt, or have [it] hidden, even just for fun, there is an offence requiring confession.**
+
 ## surāpānavaggo chaṭṭho.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :----------------------------------- | :------- | :------------------------------- | :----------------- | :---------------------- | :------- | :----------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | surāpānavaggo | noun | comp, masc nom sg of surāpānavagga | | chapter about drinking alcohol | | | | surāpāna + vagga | kammadhāraya | surāpāna + vagga |
 | - surāpāna | noun | nt, comp | | drinking alcohol | | | | surā + pāna | accusative tappurisa | suraṃ + pāna |
 | - - surā | noun | fem | | spirit liquor | distilled liquor | √su (extract, distil) | | √su + rā | | |
 | - - pāna | noun | nt | | drinking; sipping | | | | | | |
 | - vaggo | noun | masc nom sg of vagga | | chapter; section | division | | | vi + agga | | |
 | chaṭṭho | ordin | masc nom sg of chaṭṭha | | sixth (6th) | | | | cha + ṭṭha | | |
+
+**The chapter about drinking alcohol is the sixth**
 
 
 [← previous](vikappanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=apanidh%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](sañciccasikkhāpadaṃ.md)

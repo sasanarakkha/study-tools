@@ -3,7 +3,7 @@
 ## yo pana bhikkhu mātugāmassa uttariṃ chappañcavācāhi dhammaṃ deseyya aññatra viññunā purisaviggahena, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :-------------------------- | :------------------------ | :------------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -22,7 +22,8 @@
 | - purisa | noun | masc | | man, person | | | | | | |
 | - viggahena | noun | masc instr sg of viggaha | | with body, form, individual | taken, grabbed (form) | √gah (grasp) | | vi + √gah + a | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should teach the Dhamma to a woman with more than five or six sentences, except with a knowledgeable male human being, there is an offence requiring confession. | | | | | | | | | | |
+
+**If any monk should teach the Dhamma to a woman with more than five or six sentences, except with a knowledgeable male human being, there is an offence requiring confession.**
 
 
 [← previous](dutiyasahaseyyasikkhāpada.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=dhammadesan%C4%81sikkh%C4%81pada%E1%B9%83) | [next →](bhūtārocanasikkhāpadaṃ.md)

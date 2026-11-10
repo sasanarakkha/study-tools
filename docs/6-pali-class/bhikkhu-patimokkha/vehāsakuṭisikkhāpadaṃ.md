@@ -3,7 +3,7 @@
 ## yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------ | :------------------------------------ | :------- | :---------------------------------------------------------- | :------------------------ | :------------------------- | :------------------ | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -25,7 +25,8 @@
 | abhinipajjeyya | verb | opt 3rd sg of abhinipajjati | | he would lie down hard | | √pad (go, step) | √pad + ya > pajja | abhi + ni + pajja + ti | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should sit down hard or lie down hard on a bed or seat with detachable legs on the upper-floor of a hut belonging to the community, there is an offence requiring confession. | | | | | | | | | | |
+
+**If any monk should sit down hard or lie down hard on a bed or seat with detachable legs on the upper-floor of a hut belonging to the community, there is an offence requiring confession.**
 
 
 [← previous](nikkaḍḍhanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=veh%C4%81saku%E1%B9%ADisikkh%C4%81pada%E1%B9%83) | [next →](mahallakavihārasikkhāpadaṃ.md)

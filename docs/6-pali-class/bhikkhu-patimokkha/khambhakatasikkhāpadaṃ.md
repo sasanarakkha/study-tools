@@ -3,7 +3,7 @@
 ## na khambhakato antaraghare gamissāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :------------------------- | :------- | :---------------- | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | khambhakato | adj | masc nom sg of khambhakata, comp | | akimbo; placed on the sides | made support | | | khambha + kata | accusative tappurisa | khambhaṃ + kata |
 | - khambha | noun | masc | | prop, support | | √khambh (prop, be stiff) | | √khambh + a | | |
@@ -13,16 +13,20 @@
 | sikkhā | noun | fem nom sg | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
 
+**"I shall not go having made [the arms] a support inside an inhabited area," the training is to be done.**
+
 ## na khambhakato antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------- | :------ | :------------------------------------- | :------- | :------------------------------------------------- | :----------------- | :---------------- | :------- | :------------------ | :--------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | khambhakato | adj | masc nom sg of khambhakata, comp | | akimbo; placed on the sides | made support | | | khambha + kata | accusative tappurisa | khambhaṃ + kata |
 | antaraghare | noun | nt loc sg of antaraghara, comp | | inside the village, in inhabited area | in-between house | | | antara + ghara | kammadhāraya | antara + ghara |
 | nisīdissāmīti | comp | sandhi, fut + ind | | | | | | nisīdissāmi + iti | | |
 | sikkhā | noun | fem nom sg | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not sit having made [the arms] a support inside an inhabited area," the training is to be done.**
 
 
 [← previous](sīsappacālakasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=khambhakatasikkh%C4%81pada%E1%B9%83) | [next →](oguṇṭhitasikkhāpadaṃ.md)

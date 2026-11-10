@@ -3,7 +3,7 @@
 ## agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttariṃ sādiyeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------ | :------ | :----------------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :----------------------- | :------------------------------- | :---------------------------------------- | :----------------- | :------------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | agilānena | adj | masc instr sg of agilāna | | by a healthy | not sick | √gilā (be sick, tired) | | na + √gilā + ana | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | cātumāsapaccayapavāraṇā | noun | fem nom sg, comp | | four month invitation for requisites | | | | catu > cātu + māsa + paccaya + pavāraṇā | dative tappurisa | cātumāsapaccayassa +  pavāraṇā |
@@ -27,6 +27,8 @@
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | sādiyeyya | verb | opt 3rd sg of sādiyati | | he would accept | be tasted | √sād (taste, relish) | √sād + e + iya > sādiya (pass) | sādiya + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**By a monk who is not ill a four-month invitation for requisites can be accepted; except with a repeated invitation, except with a permanent invitation; if he should accept more than that, there is an offence requiring confession.**
 
 
 [← previous](cārittasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=mah%C4%81n%C4%81masikkh%C4%81pada%E1%B9%83) | [next →](uyyuttasenāsikkhāpadaṃ.md)

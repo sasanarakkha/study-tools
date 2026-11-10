@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhūnaṃ sikkhāsājīvasamāpanno sikkhaṃ appaccakkhāya dubbalyaṃ anāvikatvā
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------------------------- | :------- | :-------------------------------------------------------- | :--------------------- | :---------------------- | :------- | :---------------------------- | :--------------------- | :-------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -20,12 +20,13 @@
 | - an | ind | neg | | not | | | | na > an | | |
 | - āvi | ind | adv | | openly; in full view; face to face | | | | | | |
 | - katvā | verb | abs of karoti | | having made | having done | √kar (do, make) | | √kar + tvā | | |
-| Whichever monk, engaged in the training and livelihood of monks, having not rejected the training, having not made open (his) weakness, | | | | | | | | | | |
+
+**Whichever monk, engaged in the training and livelihood of monks, having not rejected the training, having not made open (his) weakness,**
 
 ## methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatāya'pi, pārājiko hoti asaṃvāso.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------------------------------------------------------------------------------------------- | :------ | :---------------------------------------- | :------- | :--------------------------------------------------- | :------------------------ | :------------------------ | :------------- | :------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | methunaṃ | adj | masc acc sg of methuna | | sexual | related to couples | √mith (pair) | | √mith > meth + una + *a | | |
 | dhammaṃ | noun | masc acc sg of dhamma | | act, practice, behaviour | | √dhar (hold) | | √dhar + ma | | |
 | paṭiseveyya | verb | opt 3rd sg of paṭisevati | +acc | he would practice, indulge (in), engage (in) | associate oneself | √sev (serve, associate) | √sev + a | pati + seva + ti | | |
@@ -38,7 +39,8 @@
 | pārājiko | adj | masc nom sg of pārājika | | defeated, destroyed, disqualified | conquered | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | hoti | verb | pr 3rd sg | +nom | there is | it is | √hū (be) | √hū + a > ho | ho + ti | | |
 | asaṃvāso | adj | masc nom sg of asaṃvāsa, from saṃvasati | | unaffiliated, excommunicated | not living together | √vas (live) | | na + saṃ + √vas + *a | | |
-| should engage in the sexual act, even with just a female animal, he is defeated (and) not in communion. | | | | | | | | | | |
+
+**should engage in the sexual act, even with just a female animal, he is defeated (and) not in communion.**
 
 
 [← previous](pārājikuddeso.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=methunadhamma%20sikkh%C4%81pada%E1%B9%83) | [next →](adinnādānasikkhāpadaṃ.md)

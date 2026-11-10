@@ -3,7 +3,7 @@
 ## siyā ca tassa bhikkhuno koci'd'eva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :---------------- | :------ | :----------------------------------------------- | :------- | :------------------------- | :------------------ | :-------------- | :--------------- | :----------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | siyā | verb | opt 3rd sg of atthi | +nom | there could be | | √as (be) | √as + a > siya | siya + a | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
 | tassa | pron | masc dat sg of ta | | to that | | | | | | |
@@ -20,15 +20,19 @@
 | senāya | noun | fem instr sg of senā | | with the army | | | | | | |
 | vasitabbaṃ | ptp | nt nom sg of vasitabba | | can be stayed | | √vas (live) | | √vas + itabba | | |
 
+**And should there be any reason for that monk to go to the army, two or three nights can be stayed with the army by that monk,**
+
 ## tato ce uttariṃ vaseyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :----------- | :------ | :----------------------- | :------- | :---------------------------------------------------------- | :-------------- | :------------- | :---------------- | :------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tato 2 | ind | adv, abl sg of ta | | (comparative) than that | from that | | | ta + to | | |
 | ce | ind | cond | | if | | | | | | |
 | uttariṃ | ind | adv, acc sg of uttari | | more, moreover, furthermore | higher | √tar (cross) | | ud + √tar + i + iṃ | | |
 | vaseyya | verb | opt 3rd sg of vasati | | he would stay, live | | √vas (live) | √vas + a > vasa | vasa + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**if he would stay more than that, there is an offence requiring confession.**
 
 
 [← previous](uyyuttasenāsikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sen%C4%81v%C4%81sasikkh%C4%81pada%E1%B9%83) | [next →](uyyodhikasikkhāpadaṃ.md)

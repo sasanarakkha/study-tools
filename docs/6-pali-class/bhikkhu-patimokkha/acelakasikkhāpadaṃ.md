@@ -3,7 +3,7 @@
 ## yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------- | :-------------------- | :------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -20,6 +20,8 @@
 | vā | ind | conj | | or, either or | | | | | | |
 | dadeyya | verb | opt 3rd sg of dadāti | | he would give | | √dā (give) | √dā + dā + a > dadā | dadā + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk should give with his own hand non-staple or staple food to a naked ascetic or to a wanderer or to a wanderess, there is an offence requiring confession.**
 
 
 [← previous](dantaponasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=acelakasikkh%C4%81pada%E1%B9%83) | [next →](uyyojanasikkhāpadaṃ.md)

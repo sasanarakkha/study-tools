@@ -3,7 +3,7 @@
 ## yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūl'onaddhaṃ kārāpeyya, uddālanakaṃ pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------ | :------ | :---------------------------------- | :------- | :---------------------------------------------------------- | :--------------------------- | :------------------------------------ | :--------------------- | :--------------------- | :----------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -17,6 +17,8 @@
 | kārāpeyya | verb | opt 3rd sg of kārāpeti | | he should make | cause to make | √kar (do, make) | √kar + *āpe > kārāpe | kārāpe + ti | | |
 | uddālanakaṃ | ind | adv, acc sg of uddālanaka | | involving tearing off; with ripping off | with tearing up | √dal (split, tear apart) | √dal + *e > dāle | ud + dāle + ana + ka | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk should have made a bed or bench covered with cotton, there is an offence requiring confession involving tearing off [the cotton].**
 
 
 [← previous](mañcapīṭhasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=t%C5%ABlonaddhasikkh%C4%81pada%E1%B9%83) | [next →](nisīdanasikkhāpadaṃ.md)

@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :--------------------------------------- | :------- | :---------------------------------------------------------- | :----------------------- | :----------------------- | :----------------- | :--------------------------- | :------------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -15,7 +15,8 @@
 | aññatra | ind | ind, adv | +abl | apart (from), except (for) | other (than) | | | añña + tra | | |
 | bhikkhusammutiyā | noun | fem abl sg of bhikkhusammuti, comp | | from permission from the monks; consent of the monastics | agreement of the monks | | | bhikkhu + sammuti | genitive tappurisa | bhikkhūnaṃ + sammuti |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
-| If any monk should declare a monk's serious offence to an unordained person, apart from permission from the monks, there is an offence requiring confession. | | | | | | | | | | |
+
+**If any monk should declare a monk's serious offence to an unordained person, apart from permission from the monks, there is an offence requiring confession.**
 
 
 [← previous](bhūtārocanasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=du%E1%B9%AD%E1%B9%ADhull%C4%81rocanasikkh%C4%81pada%E1%B9%83) | [next →](pathavīkhaṇanasikkhāpadaṃ.md)

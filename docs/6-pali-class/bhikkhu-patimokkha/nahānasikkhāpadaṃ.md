@@ -3,7 +3,7 @@
 ## yo pana bhikkhu oren'aḍḍhamāsaṃ nahāyeyya aññatra samayā, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :----------------------------------- | :------- | :---------------------------------------------------------- | :---------------------- | :-------------- | :------------------- | :--------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -17,10 +17,12 @@
 | samayā | noun | masc abl sg of samaya | | from the right time, proper occasion | from come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
 
+**If any monk should bathe within less than half a month, except at the right occasion, there is an offence requiring confession.**
+
 ## tatth'āyaṃ samayo diyaḍḍho māso seso gimhānan'ti vassānassa paṭhamo māso icc'ete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :-------------------- | :------ | :----------------------------------------- | :------- | :-------------------------------- | :------------------------ | :---------------- | :----------------- | :----------------------- | :------------------- | :-------------------------- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | tatthāyaṃ | comp | sandhi, adv + pron | | in this case this | there this | | | tattha + ayaṃ | | |
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
 | diyaḍḍho | adj | masc nom sg of diyaḍḍha, comp | | one and a half | two minus half | | | dvi + [y] + aḍḍha | digu | dvi + aḍḍha |
@@ -58,6 +60,8 @@
 | ayaṃ | pron | masc/fem nom sg of ima | | this | | | | | | |
 | tattha | ind | adv, from ta | | there; in that case | | | | ta + ttha | | |
 | samayo | noun | masc nom sg of samaya | | the right time, proper occasion | come together | √i (come, go) | | saṃ + √i > ay + *a | | |
+
+**Here the occasion is this [thinking]: "one and a half month is left of the hot season," [and] "the first month of the rainy season" - these two and a half months are the occasion of heat, [and] humidity - [also:] the occasion of being sick; the occasion of work; the occasion of going on a journey; the occasion of wind and rain; this is the right occasion in that case.**
 
 
 [← previous](jotisikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=nah%C4%81nasikkh%C4%81pada%E1%B9%83) | [next →](dubbaṇṇakaraṇasikkhāpadaṃ.md)

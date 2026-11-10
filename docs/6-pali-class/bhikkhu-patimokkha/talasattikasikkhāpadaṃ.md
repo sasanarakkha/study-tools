@@ -3,7 +3,7 @@
 ## yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṃ uggireyya, pācittiyaṃ.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :------------- | :------ | :--------------------------------------- | :------- | :---------------------------------------------------------- | :------------------ | :------------------------- | :---------------- | :----------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yo | pron | masc nom sg of ya | | whichever, whoever | | | | | | |
 | pana | ind | | | then, now, so, but | | | | | | |
 | bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
@@ -15,6 +15,8 @@
 | - sattikaṃ | noun | nt acc sg of sattika | | weapon | weapon-like | √sak (be able, powerful) | | √sak + ti + ka | | |
 | uggireyya | verb | opt 3rd sg of uggirati | | brandish; raise | | √gir (raise) | √gir + a > gira | ud + gira + ti | | |
 | pācittiyaṃ | noun | nt nom sg of pācittiya | +loc | offence requiring confession, offence involving expiation | | | | | | |
+
+**If any monk who is angry (and) displeased should raise up the hand to a monk in a threatening gesture, there is an offence requiring confession.**
 
 
 [← previous](pahārasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=talasattikasikkh%C4%81pada%E1%B9%83) | [next →](amūlakasikkhāpadaṃ.md)

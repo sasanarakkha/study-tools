@@ -3,7 +3,7 @@
 ## na sakabaḷena mukhena byāharissāmī'ti sikkhā karaṇīyā.
 
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
-| :--------------- | :------ | :------------------------------------------- | :------- | :------------------------------------------------- | :-------------- | :---------------- | :---------------- | :-------------------------- | :---------------- | :------------------------ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | na | ind | neg | | not | | | | | | |
 | sakabaḷena | adj | nt isntr sg of sakabaḷa | | with a (mouth) full of food | with lump | | | sa + kabaḷa | | |
 | mukhena | noun | nt instr sg of mukha | | with a mouth | | | | | | |
@@ -12,6 +12,8 @@
 | - iti | ind | | | “” | thus | | | | | |
 | sikkhā | noun | fem nom sg, comp | | training, precept, training precept | | √sikkh (train) | | √sikkh + ā | | |
 | karaṇīyā | noun | nt abl sg of karaṇīya, ptp of karoti, comp | | duty; obligation; business; something to be done | to be done | √kar (do, make) | | √kar + aṇīya | | |
+
+**"I shall not speak with a mouth which has a morsel [of food in it]," the training is to be done.**
 
 
 [← previous](bhuñjamānasikkhāpadaṃ.md) | [index](index.md) | [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.1433863141=sakaba%E1%B8%B7asikkh%C4%81pada%E1%B9%83) | [next →](piṇḍukkhepakasikkhāpadaṃ.md)
