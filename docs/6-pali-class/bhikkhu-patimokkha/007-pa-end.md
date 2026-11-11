@@ -98,7 +98,7 @@
 | cattāro | card | masc nom pl of catu | | four | | | | | | |
 | pārājikā | adj | masc nom pl of pārājika | | related to defeat | | √ji (conquer) | | parā > pārā + √ji + *ika | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
-| niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
+| niṭṭhitā | pp | masc nom pl of niṭṭhita, pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 
 **Four cases involving disqualification are finished**
 

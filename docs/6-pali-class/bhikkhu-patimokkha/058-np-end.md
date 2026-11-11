@@ -39,7 +39,7 @@
 | nissaggiyā | ptp | masc nom pl of nissaggiya | | involving relinquishment | to be given up | √sajj (relinquish, let loose) | | ni + √sajj > sagg + iya | | |
 | pācittiyā | adj | masc nom pl of pācittiya | | requiring confession, involving expiation | | | | | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
-| niṭṭhitā | pp | masc nom pl of niṭṭhita | | finished | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
+| niṭṭhitā | pp | masc nom pl of niṭṭhita, pp of niṭṭhāti | | finished | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 
 **The cases requiring confession with forfeiture are finished**
 

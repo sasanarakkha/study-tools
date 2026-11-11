@@ -63,7 +63,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | sekhiyā | ptp | masc nom pl of sekhiya | | related to training; to be practised | to be trained | √sikkh (learn, train) | | √sikkh + *iya | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
-| niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
+| niṭṭhitā | pp | masc nom pl of niṭṭhita, pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 
 **The recitation of the cases related to training is finished**
 

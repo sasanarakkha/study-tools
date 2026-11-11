@@ -50,7 +50,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | dve | card | x nom pl | | two | | | | | | |
 | aniyatā | adj | masc nom pl of aniyata | | uncertain; undecided; variable | not fixed down | √yam (control) | | na + ni + √yam + ta | | |
-| niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
+| niṭṭhitā | pp | masc nom pl of niṭṭhita, pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 
 **Two uncertain (cases) is finished**
 

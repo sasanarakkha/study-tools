@@ -65,7 +65,7 @@
 | dvenavuti | card | fem nom sg, comp | | ninety two | | | | dve + navuti | dvanda | dve ca navuti ca |
 | pācittiyā | adj | masc nom pl of pācittiya | | requiring confession, involving expiation | | | | | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
-| niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
+| niṭṭhitā | pp | masc nom pl of niṭṭhita, pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 
 **The recitation of the ninety two cases requiring confessing is finished**
 

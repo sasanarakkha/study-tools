@@ -8,14 +8,14 @@
 | kho | ind | emph | | truly, indeed, then | | | | | | |
 | āyasmanto | noun | masc voc pl of āyasmant | | venerables | having long life | | | āyas + mant | | |
 | terasa | card | x nom pl, comp | | thirteen | | | | ti > te + dasa > rasa + *a | dvanda | ti ca dasa ca |
-| saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring communal rehabilitation; related to an offence entailing demotion | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | sattamī tappurisa | saṅgha + ādisese |
+| saṅghādisesā | adj | masc nom pl of saṅghādisesa, comp | | related to an offence requiring communal rehabilitation; related to an offence entailing demotion | related to an offence requiring involvement of the community from start to finish | | | saṅgha + ādi + sesa | locative tappurisa | saṅgha + ādisese |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
 | nava | card | x nom pl | | nine | | | | | | |
-| paṭhamāpattikā | adj | masc nom pl of paṭhamāpattika, comp | | established on the first offence; which is an immediate offence | related to the first offence | | | paṭhama + āpatti + ka | kammadhāraya > bahubīhi | paṭhama + āpattika |
+| paṭhamāpattikā | adj | masc nom pl of paṭhamāpattika, comp | | established on the first offence; which is an immediate offence | related to the first offence | | | paṭhama + āpatti + ka | kammadhāraya > bahubbīhi | paṭhama + āpattika |
 | - paṭhama | ordin | | | first | most forward | | | pa + tama | | |
 | - āpattikā | noun | masc nom pl of āpattika, from āpajjati | | related to offences, transgressions, wrongdoings | | √pad (go, step) | | ā + √pad + ti + ka | | |
 | cattāro | card | masc nom pl of catu | | four | | | | | | |
-| yāvatatiyakā | adj | masc nom pl of yāvatatiyaka, comp | | established after the third time; occurring after the third time | related to as many as third | | | yāva + tatiya + ka | kammadhāraya > bahubīhi | yāva + tatiyakā |
+| yāvatatiyakā | adj | masc nom pl of yāvatatiyaka, comp | | established after the third time; occurring after the third time | related to as many as third | | | yāva + tatiya + ka | kammadhāraya > bahubbīhi | yāva + tatiyakā |
 | - yāva | ind | prep | | as far as, up to, until | | | | | | |
 | - tatiyakā | adj | masc nom pl of tatiyaka | | related to the third | | | | ti + tiya + ka | | |
 
@@ -26,7 +26,7 @@
 | pāḷi | pos | grammar | case | meaning | meaning_lit | root | base | construction | compound_type | compound_construction |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | yesaṃ | pron | gen pl of ya | | of those | of which | | | | | |
-| bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
+| bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | aññataraṃ | adj | masc acc sg of aññatara | +gen | one (of); either one (of) | more than another | | | añña + tara | | |
 | vā | ind | conj | | or, either or | | | | | | |
 | aññataraṃ | adj | masc acc sg of aññatara | +gen | one (of); either one (of) | more than another | | | añña + tara | | |
@@ -39,7 +39,7 @@
 | paṭicchādeti | verb | pr 3rd sg | | he conceals, hides | covers | √chad (cover, conceal) | √chad + *e > chāde | paṭi + chāde + ti | | |
 | tāvatihaṃ | ind | adv, comp | | that many days | | | | tāvati + aha + aṃ | abyayībhāva | tāvati + ahaṃ |
 | - tāvati | ind | adv, from tāva | | that many | | | | tāva + ti | | |
-| - ahaṃ | noun | acc sg of aha | | day | | | | | | |
+| - ahaṃ | noun | nt acc sg of aha | | day | | | | | | |
 | tena | pron | masc instr sg of ta | | by him; by that | | | | | | |
 | bhikkhunā | noun | masc instr sg of bhikkhu, from bhikkhati | | by a monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | akāmā | ind | adv, instr or abl of akāma | | involuntarily, with no choice (in the matter) | not with/from wish | √kam (desire) | | na + √kam + *a + ā | | |
@@ -73,7 +73,7 @@
 | ciṇṇamānatto | adj | masc nom sg of ciṇṇamānatta, comp | | who has completed probation, who has completed deference | | | | ciṇṇa + mānatta | kammadhāraya > bahubbīhi | ciṇṇa + mānatta |
 | - ciṇṇa | pp | pp of carati | | completed, fulfilled | walked, acted | √car (walk, behave) | | √car + na | | |
 | - mānatto | noun | masc nom sg of mānatta, from māna | | penance | paying respect | √man (think) | | √man + *a + tta | | |
-| bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
+| bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | yattha | ind | adv, from ya | | where, wherever | | | | ya + ttha | | |
 | siyā | verb | opt 3rd sg of atthi | +nom | there could be | | √as (be) | √as + a > siya | siya + a | | |
 | vīsatigaṇo | adj | masc nom sg of vīsatigaṇa, comp | | which is a group of twenty | | | | vīsati + gaṇa | digu > bahubbīhi | vīsati + gaṇa |
@@ -84,7 +84,7 @@
 | - saṅgho | noun | masc nom sg of saṅgha | | community, assembly, group | joined together | √ghaṭ (join together) | | saṃ + √ghaṭ + a | | |
 | tattha | ind | adv, from ta | | there | | | | ta + ttha | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
-| bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
+| bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | abbhetabbo | ptp | masc nom sg of abbhetabba, from abbheti | | should be reinstated, can be readmitted | to be called back | √vhe (call, name) | | ā + √vhe + tabba | | |
 
 **(once) the monk has performed the deference, wherever there may be a community of monks, which is a group of twenty, there that monk should be reinstated.**
@@ -105,7 +105,7 @@
 | abbheyya | verb | opt 3rd sg of abbheti | | (Saṅgha) should re-instate, readmit | call back | √vhe (call, name) | √vhe > bhe | ā + bhe + ti | | |
 | so | pron | masc nom sg of ta | | he, that | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |
-| bhikkhu | noun | masc nom sg, from bhikkhati, comp | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
+| bhikkhu | noun | masc nom sg, from bhikkhati | | monk, monastic | beggar, mendicant | √bhikkh (beg) | | √bhikkh + u | | |
 | anabbhito | pp | masc nom sg, pp of na abbheti | | not re-instated, not readmitted | | √vhe (call, name) | | na + ā + √vhe + ita | | |
 | te | pron | masc nom pl of ta | | they, those | | | | | | |
 | ca | ind | conj | | and (or) but, and if | | | | | | |

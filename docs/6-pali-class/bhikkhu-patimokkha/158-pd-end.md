@@ -65,7 +65,7 @@
 | cattāro | card | masc nom pl of catu | | four | | | | | | |
 | pāṭidesanīyā | ptp | masc nom pl of pāṭidesanīya | | should be acknowledged; to be admitted | to cause to be pointed out | √dis (point out, explain) | √dis + *e > dese (caus) | pati + dese + *anīya | | |
 | dhammā | noun | masc nom pl of dhamma | | cases, laws, rules | holdings, supports | √dhar (hold) | | √dhar + ma | | |
-| niṭṭhitā | pp | pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
+| niṭṭhitā | pp | masc nom pl of niṭṭhita, pp of niṭṭhāti | | finished, complete | | √ṭhā (stand) | | ni + √ṭhā + ita | | |
 
 **The recitation of the four cases which should be acknowledged is finished**
 
