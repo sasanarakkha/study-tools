@@ -13,6 +13,7 @@ FEEDBACK_URL = (
     "1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/"
     "viewform?usp=pp_url"
 )
+BOLD_TAG = r"</?b>"
 SECTION_LABEL = re.compile(r"^[A-Z]{2,3}(?: \d+)?$")
 COLS = [
     "pali",
@@ -56,8 +57,12 @@ class Page(TypedDict):
     filename: str
 
 
-def load_data(xlsx_path: Path) -> pd.DataFrame:
-    df = pd.read_excel(xlsx_path, engine="openpyxl")
+def load_data(tsv_path: Path) -> pd.DataFrame:
+    df = pd.read_csv(tsv_path, sep="\t", dtype=str, keep_default_na=False)
+    # Bold is kept as <b> tags in the source (Anki needs it); Markdown pages stay clean.
+    df = df.replace(BOLD_TAG, "", regex=True)
+    # Blank cells are "", so turn them into NA or the ffill below would do nothing.
+    df[["source", "abbrev"]] = df[["source", "abbrev"]].replace("", pd.NA)
     # Forward fill source and abbrev to handle sparse columns and preserve order
     df["source"] = df["source"].ffill().str.strip()
     df["abbrev"] = df["abbrev"].ffill().str.strip()
@@ -306,27 +311,43 @@ def prune_stale_pages(output_dir: Path, pages: list[Page], enabled: bool) -> lis
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "xlsx",
+        "tsv",
         nargs="?",
-        default=str(Path(__file__).parent.parent / "temp" / "patimokkha.xlsx"),
+        default=str(
+            Path(__file__).parent.parent / "data" / "patimokkha_word_by_word.tsv"
+        ),
     )
     parser.add_argument(
         "--no-prune",
         action="store_true",
         help="Keep generated pages that this run did not produce.",
     )
+    parser.add_argument(
+        "--output-dir",
+        default=None,
+        help="Where to write the pages (default: docs/6-pali-class/bhikkhu-patimokkha).",
+    )
     args = parser.parse_args()
-    xlsx_path = Path(args.xlsx)
-    if not xlsx_path.exists():
-        raise FileNotFoundError(f"XLSX not found: {xlsx_path}")
+    tsv_path = Path(args.tsv)
+    if not tsv_path.exists():
+        raise FileNotFoundError(f"TSV not found: {tsv_path}")
 
     output_dir = (
-        Path(__file__).parent.parent / "docs" / "6-pali-class" / "bhikkhu-patimokkha"
+        Path(args.output_dir)
+        if args.output_dir
+        else Path(__file__).parent.parent
+        / "docs"
+        / "6-pali-class"
+        / "bhikkhu-patimokkha"
     )
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    df = load_data(xlsx_path)
+    df = load_data(tsv_path)
     pages = get_pages(df)
+    if not pages:
+        raise SystemExit(
+            f"No pages generated from {tsv_path}; refusing to overwrite {output_dir}."
+        )
     generate_index(pages, output_dir)
     for idx, page in enumerate(pages):
         generate_rule_page(page, df, output_dir, pages, idx)

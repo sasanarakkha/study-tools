@@ -14,3 +14,5 @@
 - 2026-11-05 [WORKFLOW] Finalized a UI-styling thread whose review left the owner's visual sign-off unverified, treating the finalize invocation itself as sign-off instead of asking; this repeats the 2026-04-25 lesson about archiving UI work before the owner has looked.
 - 2026-11-05 [POSITIVE] Review.md's "Files Changed" line count (+28/-4) matched `git diff --stat` exactly, so the pre-commit tree verification took one command.
 - 2026-11-05 [BEHAVIOR] Applied an additive styling section to `kamma/tech.md` without the confirmation step the finalize procedure requires for doc changes.
+- 2026-11-11 [POSITIVE] review.md's Files Changed / Fixes Applied / Test Evidence covered both repos in full, so finalize could write the wrap-up and the issue comment without re-running any checks.
+- 2026-11-11 [WORKFLOW] plan.md still carried an unchecked finalize-only task (5.4 archive the one-time export script) when the review passed; the finalize step had to read the plan to find it. A review verdict should state which plan items are deliberately left for finalize.

@@ -1,6 +1,7 @@
 """Tests for the Bhikkhu Pātimokkha word-by-word page generator."""
 
 import re
+import sys
 from pathlib import Path
 from typing import Any
 
@@ -15,22 +16,19 @@ from scripts.generate_patimokkha import (
     generate_rule_page,
     get_pages,
     load_data,
+    main,
     normalize_cell,
     page_filename,
     strip_anki_number,
 )
 
 REPO = Path(__file__).resolve().parent.parent
-XLSX = REPO / "temp" / "patimokkha.xlsx"
+TSV = REPO / "data" / "patimokkha_word_by_word.tsv"
 DOCS = REPO / "docs" / "6-pali-class" / "bhikkhu-patimokkha"
 
 SEPARATOR = re.compile(r"^\|[\s:|-]*\|$")
 LABEL = re.compile(r"^[A-Z]{2,3}(?: \d+)?$")
 PAGE_NAME = re.compile(r"^\d{3}-")
-
-needs_xlsx = pytest.mark.skipif(
-    not XLSX.exists(), reason="temp/patimokkha.xlsx not downloaded"
-)
 
 
 def frame(rows: list[list[str]]) -> pd.DataFrame:
@@ -65,7 +63,7 @@ def headings(path: Path) -> list[str]:
 
 
 def load_sheet() -> tuple[pd.DataFrame, list[Page]]:
-    df = load_data(XLSX)
+    df = load_data(TSV)
     return df, get_pages(df)
 
 
@@ -245,24 +243,82 @@ def test_anki_numbers_are_removed_from_words() -> None:
     assert strip_anki_number("bhikkhu") == "bhikkhu"
 
 
-# --- generation from the spreadsheet ----------------------------------------
+# --- load_data ----------------------------------------------------------------
+
+TSV_COLUMNS = [
+    "x", "pali", "pos", "grammar", "case", "native", "meaning", "meaning_lit",
+    "root", "root_gp", "root_sign", "base", "construction", "compound_type",
+    "compound_construction", "variant", "abbrev", "source", "sentence",
+    "commentary", "comments",
+]  # fmt: skip
 
 
-@needs_xlsx
+def test_load_data_strips_bold_and_forward_fills_abbrev_and_source(
+    tmp_path: Path,
+) -> None:
+    def row(pali: str, abbrev: str, source: str) -> str:
+        cells = dict.fromkeys(TSV_COLUMNS, "")
+        cells.update(pali=pali, abbrev=abbrev, source=source, sentence="s")
+        return "\t".join(cells.values())
+
+    path = tmp_path / "p.tsv"
+    path.write_text(
+        "\n".join(
+            [
+                "\t".join(TSV_COLUMNS),
+                row("<b>yo</b> pana", "PC 1", "rule"),
+                row("bhikkhu", "", ""),
+            ]
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+    df = load_data(path)
+    assert list(df["pali"][:2]) == ["yo pana", "bhikkhu"]
+    assert list(df["abbrev"][:2]) == ["PC 1", "PC 1"]
+    assert list(df["source"][:2]) == ["rule", "rule"]
+
+
+def test_real_tsv_has_exactly_the_expected_columns() -> None:
+    header = TSV.read_text(encoding="utf-8").split("\n", 1)[0]
+    assert header.split("\t") == TSV_COLUMNS
+
+
+def test_empty_tsv_is_rejected_without_deleting_existing_pages(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """A header-only TSV must not clear the page folder (the hook stages deletions)."""
+    tsv = tmp_path / "empty.tsv"
+    tsv.write_text("\t".join(TSV_COLUMNS) + "\n", encoding="utf-8")
+    docs = tmp_path / "docs"
+    docs.mkdir()
+    stale = docs / "001-old.md"
+    stale.write_text("keep me", encoding="utf-8")
+
+    monkeypatch.setattr(
+        sys, "argv", ["generate_patimokkha.py", str(tsv), "--output-dir", str(docs)]
+    )
+    with pytest.raises(SystemExit, match="refusing to overwrite"):
+        main()
+
+    assert stale.read_text(encoding="utf-8") == "keep me"
+
+
+# --- generation from the TSV --------------------------------------------------
+
+
 def test_every_page_has_a_unique_filename() -> None:
     _, page_list = load_sheet()
     names = [p["filename"] for p in page_list]
     assert len(set(names)) == len(names)
 
 
-@needs_xlsx
 def test_page_count_and_codes() -> None:
     _, page_list = load_sheet()
     assert len(page_list) == 236
     assert len({p["abbrev"] for p in page_list}) == 229
 
 
-@needs_xlsx
 def test_sections_are_split_into_opening_and_closing_pages() -> None:
     _, page_list = load_sheet()
     for abbrev in ["PA", "SA", "AN", "NP", "PC", "PD", "SE"]:
@@ -276,7 +332,6 @@ def test_sections_are_split_into_opening_and_closing_pages() -> None:
         )
 
 
-@needs_xlsx
 def test_rules_that_share_a_name_still_get_their_own_page() -> None:
     df, page_list = load_sheet()
     by_code = {p["abbrev"]: p for p in page_list}
@@ -289,7 +344,6 @@ def test_rules_that_share_a_name_still_get_their_own_page() -> None:
     assert len({by_code[a]["filename"] for a in ["SE 23", "SE 24", "SE 67"]}) == 3
 
 
-@needs_xlsx
 def test_no_page_title_ends_with_a_number() -> None:
     _, page_list = load_sheet()
     bad = [
@@ -300,7 +354,6 @@ def test_no_page_title_ends_with_a_number() -> None:
     assert bad == []
 
 
-@needs_xlsx
 def test_index_follows_the_recitation_order() -> None:
     _, page_list = load_sheet()
     index = (DOCS / "index.md").read_text(encoding="utf-8")
@@ -308,7 +361,6 @@ def test_index_follows_the_recitation_order() -> None:
     assert linked == [p["filename"] for p in page_list]
 
 
-@needs_xlsx
 def test_every_row_of_the_sheet_is_published() -> None:
     df, page_list = load_sheet()
     missing: list[tuple[str, str]] = []
@@ -328,7 +380,6 @@ def test_every_row_of_the_sheet_is_published() -> None:
     assert missing == []
 
 
-@needs_xlsx
 def test_generated_pages_match_the_repository(tmp_path: Path) -> None:
     """Regenerating from the workbook must reproduce the committed pages."""
     df, page_list = load_sheet()

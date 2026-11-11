@@ -54,11 +54,9 @@ These scripts are used for content generation, maintenance, and data integrity:
   - Usage: `uv run python scripts/verify_assets.py`
 - `scripts/compare_pali_sources.py`: Identifies data loss between current Markdown files and a past Git commit.
   - Usage: `uv run scripts/compare_pali_sources.py --commit <hash> --dir <path>`
-- `scripts/generate_patimokkha.py`: Generates word-by-word Pāṭimokkha analysis pages from an Excel spreadsheet.
+- `scripts/generate_patimokkha.py`: Generates word-by-word Pāṭimokkha analysis pages from `data/patimokkha_word_by_word.tsv`.
   - Usage: `uv run scripts/generate_patimokkha.py`
-- `scripts/download_patimokkha.sh`: Downloads the Pātimokkha Word by Word spreadsheet from Google Sheets.
-  - Usage: `bash scripts/download_patimokkha.sh`
-- `scripts/pat_preprocessing.sh`: Local equivalent of the `regen_patimokkha.yaml` workflow — downloads the latest spreadsheet, regenerates the Pātimokkha pages, and fixes tables (no git operations).
+- `scripts/pat_preprocessing.sh`: Regenerates the Pātimokkha pages from the TSV and fixes tables (no git operations). The `patimokkha-regen` pre-commit hook runs it and stages the pages whenever the TSV is committed.
   - Usage: `bash scripts/pat_preprocessing.sh`
 - `scripts/upload.sh`: Creates a new GitHub release and uploads assets from `temp-push/`.
   - Usage: `bash scripts/upload.sh`
@@ -82,3 +80,7 @@ These scripts are used for content generation, maintenance, and data integrity:
 - `scripts/` — Python and Bash scripts for content generation and maintenance.
 - `identity/` — Custom CSS and JavaScript for the SBS brand.
 - `tools/` — Shared utilities and MkDocs hooks.
+
+## Editing the Pātimokkha data
+
+The word-by-word source is `data/patimokkha_word_by_word.tsv` (tab-separated, one row per word, 21 columns: `x pali pos grammar case native meaning meaning_lit root root_gp root_sign base construction compound_type compound_construction variant abbrev source sentence commentary comments`). Bold is written as `<b>…</b>` (the Anki deck needs it; the Markdown pages strip it). There is no `#` column: the Anki deck keeps the first row with a `pos` for each word. Edit the TSV and commit: the `patimokkha-regen` pre-commit hook regenerates `docs/6-pali-class/bhikkhu-patimokkha/` and adds the pages to the same commit (a generation error blocks the commit). The hook needs `uv run pre-commit install` once per clone. Use a plain `git add` + `git commit`; `--no-verify` skips the hook, and the `regen_patimokkha.yaml` workflow (manual dispatch) is the fallback. The dpd-db Anki deck reads the same file.

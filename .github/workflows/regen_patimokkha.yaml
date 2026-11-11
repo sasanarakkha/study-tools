@@ -1,8 +1,6 @@
 name: Regenerate Pātimokkha Pages
 
 on:
-  schedule:
-    - cron: '0 3 * * 1'   # Monday 03:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -32,9 +30,6 @@ jobs:
           python-version: "3.12"
 
       - run: uv sync --frozen
-
-      - name: Download Pātimokkha XLSX
-        run: bash scripts/download_patimokkha.sh
 
       - name: Generate Markdown pages
         run: uv run python scripts/generate_patimokkha.py

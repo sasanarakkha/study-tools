@@ -1,13 +1,10 @@
 #!/bin/bash
-# Locally regenerate the Pātimokkha pages exactly as regen_patimokkha.yaml does, minus git steps.
+# Regenerate the Pātimokkha pages from data/patimokkha_word_by_word.tsv (also run by the patimokkha-regen pre-commit hook).
 set -e
 
 # Change to the project root
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$PROJECT_ROOT"
-
-# Download the latest spreadsheet from Google Sheets
-bash scripts/download_patimokkha.sh
 
 # Generate patimokkha
 uv run python scripts/generate_patimokkha.py

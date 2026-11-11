@@ -28,3 +28,11 @@ repos:
         language: system
         types: [python]
         pass_filenames: true
+
+      - id: patimokkha-regen
+        name: regenerate Pātimokkha pages
+        entry: bash -c 'bash scripts/pat_preprocessing.sh && git add docs/6-pali-class/bhikkhu-patimokkha/'
+        language: system
+        files: ^data/patimokkha_word_by_word\.tsv$
+        pass_filenames: false
+        require_serial: true
