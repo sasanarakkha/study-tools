@@ -17,3 +17,6 @@ dpd_operations.log
 .env
 output/pdf/
 output/docs/
+
+# audit work in progress
+kamma/audit/scratch/

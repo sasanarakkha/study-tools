@@ -26,6 +26,11 @@ All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immedi
 ## One-Time Scripts
 Scripts that run once (like data migrations or one-time transformations) MUST be moved to `scripts/archive/` after they complete successfully. This distinguishes them from permanent preprocessing or maintenance scripts. Place them in the active `scripts/` directory during development, then move to `scripts/archive/` during the finalize step.
 
+## Material Audits (`kamma/audit/`)
+- Read-only audits of source folders or data files (findings lists, never edit the source). Follow `kamma/audit/audit-guide.md` (process, row format, categories, limits). Work in progress and handoff state go in `kamma/audit/scratch/STATE.md` (gitignored).
+- `kamma/audit/audit-guide.md` and `kamma/audit/scripts/` are symlinks into the sibling checkout `../../dpd-pali-courses/kamma/audit/`; edit them there. Run the scripts from this repo's root, e.g. `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> …`.
+- `kamma/audit/site-audit/` is a different kind of audit and does not follow the guide.
+
 ## Python Coding Standards
 - Always import the printer instance from `tools.printer`: `from tools.printer import printer as pr`. Never import the `Printer` class directly for standard logging.
 - Use `icecream` (`from icecream import ic`) for debug output, not `print()`.
