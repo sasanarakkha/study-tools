@@ -1,6 +1,6 @@
 # Pātimokkha audit — rearranged for the TSV source
 
-Source audit: `kamma/draft/pat-audit/pat-audit.md` (2026-11-10, written against the old `docs/` md files). This file re-keys it to `data/patimokkha_word_by_word.tsv`. **No suggestion was added, changed or judged; only items still present in the TSV are kept.** For the issue #24 review.
+Source audit: `kamma/audit/pat-audit/pat-audit.md` (2026-11-10, written against the old `docs/` md files). This file re-keys it to `data/patimokkha_word_by_word.tsv`. **No suggestion was added, changed or judged; only items still present in the TSV are kept.** For the issue #24 review.
 
 ## How to read
 

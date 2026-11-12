@@ -4,8 +4,14 @@ Grammar and spelling check for markdown files using LanguageTool, with Pāḷi a
 
 Usage:
     uv run scripts/grammar_check.py <file_or_folder>
+    uv run scripts/grammar_check.py --report <out.tsv> <file_or_folder> [...]
+
+Without --report the check is interactive and can edit files. With --report it runs
+without prompts, never edits the sources, and writes every filtered match to a TSV.
 """
 
+import argparse
+import csv
 import json
 import re
 import sys
@@ -28,6 +34,15 @@ PALI_ASCII_TERMS = [
     "Majjhima",
 ]
 EXCEPTIONS_FILE = Path("temp/grammar_exceptions.json")
+REPORT_COLUMNS = [
+    "file",
+    "line",
+    "rule_id",
+    "message",
+    "matched",
+    "replacement",
+    "context",
+]
 
 
 def load_exceptions() -> set[str]:
@@ -235,14 +250,80 @@ def process_file(path: Path, tool, exceptions: set):
                     print("\r" + " " * 40 + "\r", end="", flush=True)
 
 
+def _one_line(text: str) -> str:
+    """Collapse newlines and tabs so the text fits in one TSV cell."""
+    return text.replace("\t", " ").replace("\r", " ").replace("\n", " ")
+
+
+def report_file(path: Path, tool, exceptions: set) -> list[list[str]]:
+    """Return one report row per filtered match in a file, without editing it."""
+    content = path.read_text()
+    rows: list[list[str]] = []
+    lines_before = 0
+
+    for chunk in split_into_chunks_lossless(content):
+        text = chunk["text"]
+        if chunk["type"] == "prose":
+            for match in check_paragraph(tool, text, exceptions):
+                end = match.offset + match.error_length
+                line = lines_before + text.count("\n", 0, match.offset) + 1
+                rows.append(
+                    [
+                        str(path),
+                        str(line),
+                        match.rule_id,
+                        _one_line(match.message),
+                        _one_line(text[match.offset : end]),
+                        _one_line(match.replacements[0]),
+                        _one_line(
+                            f"{text[max(0, match.offset - 40) : match.offset]}"
+                            f"[{text[match.offset : end]}]"
+                            f"{text[end : end + 40]}"
+                        ),
+                    ]
+                )
+        lines_before += text.count("\n")
+
+    return rows
+
+
+def write_report(out_path: Path, rows: list[list[str]]) -> None:
+    """Write report rows to a TSV with a header row."""
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with out_path.open("w", newline="") as fh:
+        writer = csv.writer(fh, delimiter="\t", lineterminator="\n")
+        writer.writerow(REPORT_COLUMNS)
+        writer.writerows(rows)
+
+
+def collect_files(targets: list[Path]) -> list[Path]:
+    """Expand files and folders into a list of markdown files."""
+    files: list[Path] = []
+    for target in targets:
+        if target.is_file():
+            files.append(target)
+        elif target.is_dir():
+            files.extend(sorted(target.rglob("*.md")))
+        else:
+            pr.red(f"Target not found: {target}")
+            sys.exit(1)
+    return files
+
+
 def main():
-    if len(sys.argv) < 2 or sys.argv[1] in ["--help", "-h"]:
-        print("Usage: uv run scripts/grammar_check.py <file_or_folder>")
-        sys.exit(0)
+    parser = argparse.ArgumentParser(
+        description="Grammar and spelling check for markdown files (Pāḷi-aware)."
+    )
+    parser.add_argument("targets", nargs="+", type=Path, help="file or folder")
+    parser.add_argument(
+        "--report",
+        type=Path,
+        metavar="OUT.tsv",
+        help="non-interactive: write all matches to this TSV, edit nothing",
+    )
+    args = parser.parse_args()
 
-    target_str = sys.argv[-1]
-    target = Path(target_str)
-
+    files = collect_files(args.targets)
     exceptions = load_exceptions()
 
     pr.green("Initializing LanguageTool (en-US)...")
@@ -252,15 +333,17 @@ def main():
         pr.red(f"Failed to initialize LanguageTool: {e}")
         sys.exit(1)
 
-    if target.is_file():
-        process_file(target, tool, exceptions)
-    elif target.is_dir():
-        files = sorted(target.rglob("*.md"))
+    if args.report:
+        pr.bip()
+        rows: list[list[str]] = []
         for file in files:
-            process_file(file, tool, exceptions)
-    else:
-        pr.red(f"Target not found: {target}")
-        sys.exit(1)
+            rows.extend(report_file(file, tool, exceptions))
+        write_report(args.report, rows)
+        pr.yes(f"{len(rows)} matches in {len(files)} files -> {args.report}")
+        return
+
+    for file in files:
+        process_file(file, tool, exceptions)
 
 
 if __name__ == "__main__":
