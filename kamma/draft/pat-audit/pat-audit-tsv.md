@@ -20,87 +20,66 @@ Source audit: `kamma/draft/pat-audit/pat-audit.md` (2026-11-10, written against 
 - TSV 6082 … 6684 (49 rows) `[grammar]` stray `, comp` in the grammar cell of `sikkhā`.
 - TSV 4876, 5630, 5668 `[grammar]` stray `, comp` on `bhikkhūhi`.
 - TSV 3475, 3481 `[format]` compound type `genetive tappurisa` → `genitive tappurisa`.
-- `[convention]` absolutive labelled several ways: {'verb/ger': 26, 'verb/abs': 62, 'ind/ger': 8, 'prp/abs': 2, 'ind/abs': 1, 'pp/abs': 1, 'noun/abs': 6, 'comp/ger': 2} plus `ind | adv, ger` rows; decide one label.
-- `[convention]` homonym numbers left in the Pāli cell (62 word rows, e.g. `tato 2`, `bhikkhu 2`); decide whether they stay.
-- `[convention]` decide before touching the rest: one label for absolutives; sandhi rows always with member rows and meaning; whether SE 2–24 get own files or index entries.
-- TSV 39, 41, 282, 1233, 1581, 2623, 3408, 5302 … (10 rows) `[same-word]` optative / future constructions end in `+ ti` where parallel rows end in `+ eyya` / `+ issa + ti`: `kareyya` `karo + ti`, `uddiseyya`, `ādiyeyya`, `abbheyya`, `hareyya`, `kappeyya` (11 rows); `bhavissati` `bhava + ti`; `nisīditvā` `ni + sīda + ti`; `vadetu` `vade + ti`
-- TSV 183, 504, 1595, 1791, 3119, 5526, 5781, 6701 … (9 rows) `[gloss]` accusative with no object marking: `tatthāyasmante` "in that case the venerables"
-- TSV 216, 525, 1612, 1808, 3134, 5547, 5802, 6722 … (9 rows) `[gloss]` `evametaṃ` glossed "therefore this" in the closing formula → "thus this" (`tasmā` already gives "therefore")
-- TSV 379, 426, 428 `[same-word]` `iti` with `adv` (3 rows) against empty elsewhere
-- TSV 695, 2673, 2688, 3198, 3205, 4216, 4232, 4718 … (35 rows) `[convention]` compounds with member rows but empty type / construction cells: `samaṇuddesa` (9 rows in `kaṇṭaka`), `saññācikāya`, `piṇḍukkhepakaṃ` … `oṭṭhanillehakaṃ` (SE 44–54), `sabbahatthaṃ`, `sakabaḷena`, `ujjhānasaññī`, `sasitthakaṃ`, `uppannuppannānaṃ`, `nānappakārakaṃ`, `dirattatirattaṃ`, `sahaseyyaṃ`, `diyaḍḍhaṃ`, `aḍḍhateyyā`
+- TSV 183, 504, 1595, 1791, 3119, 5526, 5781, 6701 … (9 rows) `[gloss]` accusative with no object marking: `tatthāyasmante` "in that case the venerables" (?)
+- TSV 216, 525, 1612, 1808, 3134, 5547, 5802, 6722 … (9 rows) `[gloss]` `evametaṃ` glossed "therefore this" in the closing formula → "thus this" (`tasmā` already gives "therefore") (?)
+- TSV 695, 2673, 2688, 3198, 3205, 4216, 4232, 4718 … (35 rows) `[convention]` compounds with member rows but empty type / construction cells: `samaṇuddesa` (9 rows in `kaṇṭaka`), `saññācikāya`, `piṇḍukkhepakaṃ` … `oṭṭhanillehakaṃ` (SE 44–54), `sabbahatthaṃ`, `sakabaḷena`, `ujjhānasaññī`, `sasitthakaṃ`, `uppannuppannānaṃ`, `nānappakārakaṃ`, `dirattatirattaṃ`, `sahaseyyaṃ`, `diyaḍḍhaṃ`, `aḍḍhateyyā` (?)
 - TSV 720, 2573, 5363 `[gloss]` `sugata` "standard; commonly accepted" in `sugatavidatthi`, `sugataṅgula` → "Well Gone One" (genitive tappurisa, as `sugatacīvara` in `nanda`); the genitive reading is the correct one
-- TSV 727, 775 `[pali-text]` `vatthuṃ desetabbaṃ` (kuṭikāra) against `vatthu desetabbaṃ` (vihārakāra) (check edition)
-- TSV 804, 845, 855, 905, 1303, 1322, 1352, 1459 `[same-word]` `√dus (be angry, corrupt)` against `√dus (hate, dislike)`
-- TSV 873, 1049, 1214, 1293, 1741, 6044, 6053, 6062 … (12 rows) `[convention]` sandhi rows without member rows or meaning: `gamissāmīti` (SE 23–26, 32–34), SA 9 / 11 / 12 / 13, `tamenaṃ`; all sandhi rows of `aniyatuddeso`, `adhikaraṇasamathā`, `pāṭidesanīyā`, `sekhiyā`
-- TSV 1629, 3463, 5875, 6730 `[convention]` headings with no final full stop (`mahallakavihāra`, `okkhittacakkhu`, `adhikaraṇasamathā`, `aniyatuddeso`)
-- TSV 1652, 1687, 1742, 1771 `[grammar]` `saddheyyavacasā` typed `kammadhāraya` → `kammadhāraya > bahubbīhi`
+- TSV 727, 775 `[pali-text]` `vatthuṃ desetabbaṃ` (kuṭikāra) against `vatthu desetabbaṃ` (vihārakāra) - should be `vatthuṃ desetabbaṃ` in both places.
+- TSV 1629, 3463, 5875, 6730 `[convention]` headings with no final full stop (`mahallakavihāra`, `okkhittacakkhu`, `adhikaraṇasamathā`, `aniyatuddeso`) (??)
+- TSV 1652, 1687, 1742, 1771 `[grammar]` `saddheyyavacasā` typed `kammadhāraya` → `kammadhāraya > bahubbīhi` - should be `kammadhāraya` everywhere.
 - TSV 1700, 3213 `[convention]` source names `dutiyasahaseyyasikkhāpada` and `dutiyāniyatasikkhāpada` lack the final `ṃ`
 - TSV 1833, 1852, 1876 `[grammar]` `ubbhata` derived from `√dhar (hold)`, `ud + √dhar + ta` → DPD `√bhar`, `ud + √bhar + ta`
-- TSV 1844, 2710, 2804, 5369, 5415, 5444, 5473 `[grammar]` `atikkāmayato | prp | masc dat sg of atikkāmanta` → lemma `atikkāmayanta` (causative `kāmaya`); gloss "for (one) going beyond" drops the causative ("letting it pass")
 - TSV 2057, 2094, 2202, 3608, 3621, 4408, 4428, 4442 … (9 rows) `[grammar]` `cīvaraṃ` tagged `nt nom sg` where it is the object → accusative
-- TSV 2484, 2502, 2516, 2601, 2638 `[same-word]` gender of `eḷakaloma`: masc gen pl / nt nom pl in different rows (also `suddhakāḷakānaṃ`)
-- TSV 2985, 3026 `[same-word]` `kattikapuṇṇamaṃ` typed `kammadhāraya` here against `genitive tappurisa` at the `kattikatemāsikapuṇṇamaṃ` row (2985)
-- TSV 3352, 3394, 3443 `[gloss]` case marker stuck in front of an adjective gloss: "in belonging to the community" (`dutiyasenāsana`, `anupakhajja`, `vehāsakuṭi`)
-- TSV 3418, 4083, 5120, 5152 `[grammar]` `anaññaṃ | pron | masc acc sg of anaññā` → lemma `anañña`; an adjective qualifying `paccayaṃ`
+- TSV 2484, 2502, 2516, 2601, 2638 `[same-word]` gender of `eḷakaloma`: masc gen pl / nt nom pl in different rows (also `suddhakāḷakānaṃ`) - shoule be nt
+- TSV 2985, 3026 `[same-word]` `kattikapuṇṇamaṃ` typed `kammadhāraya` here against `genitive tappurisa` at the `kattikatemāsikapuṇṇamaṃ` row (2985) - should be `kammadhāraya`
 - TSV 3753, 3803 `[convention]` no comma before `pācittiyaṃ` (`gaṇabhojana`, `paramparabhojana`)
-- TSV 3975, 5698, 5753 `[gloss]` adjective glossed as a clause: `agilāno` "is not ill"
+- TSV 3975, 5698, 5753 `[gloss]` adjective glossed as a clause: `agilāno` "is not ill" - "not sick; healthy"
 - TSV 4620, 4661, 4667, 4745, 4789, 4797, 4876, 5630 … (9 rows) `[gloss]` `bhikkhūhi` glossed "with monks" where it is the agent → "by monks"
-- TSV 4769, 5141, 5300, 5587, 5618, 5635, 5657, 5665 … (10 rows) `[convention]` quotes: PC / PD headings use `’ti`, SE and others `'ti`
-- TSV 5260, 5419, 5477, 5786 `[convention]` headings with trailing space or comma (`ratana`, `kaṇḍupaṭicchādi`, `nanda`, `pāṭidesanīyā`)
-- TSV 5867, 5885, 5902, 5926, 5945, 5964, 5984, 6004 … (14 rows) `[convention]` headings with `-īti` without the apostrophe (`pattasaññībhuñjana`, `samasūpaka`, `sūpodanaviññatti`, `ṭhita`, `udakeuccāra`, and others)
-- TSV 6425, 6441, 6454, 6467 `[grammar]` `chattapāṇissa`, `daṇḍapāṇissa`, `satthapāṇissa`, `āvudhapāṇissa` typed `kammadhāraya` → `kammadhāraya > bahubbīhi`
-- TSV 6430, 6446 `[convention]` `desessāmīti` (SE 57–72): the parent construction reads `desissāmi + iti` in every file; member rows only in SE 57
+- TSV 4769, 5141, 5300, 5587, 5618, 5635, 5657, 5665 … (10 rows) `[convention]` quotes: PC / PD headings use `’ti`, SE and others `'ti` - change everywhere from `’` to `'`.
+- TSV 5260, 5419, 5477, 5786 `[convention]` headings with trailing space or comma (`ratana`, `kaṇḍupaṭicchādi`, `nanda`, `pāṭidesanīyā`) (??)
+- TSV 6425, 6441, 6454, 6467 `[grammar]` `chattapāṇissa`, `daṇḍapāṇissa`, `satthapāṇissa`, `āvudhapāṇissa` typed `kammadhāraya` → `kammadhāraya > bahubbīhi` - make all `kammadhāraya > bahubbīhi`
 - TSV 6458, 6471, 6490, 6503, 6516, 6529, 6541, 6556 … (14 rows) `[gloss]` `dhammaṃ` glossed "act, practice, behaviour" in `dhammaṃ desessāmi` → "teaching, Dhamma" (as `chattapāṇi`, `daṇḍapāṇi`)
-- TSV 6514, 6527 `[gloss]` `gatassa` "to (a person) on" (truncated) (`yāna`, `sayana`)
-- TSV 6539, 6581, 6597, 6609 `[gloss]` "to seated (a person), sitting" (`chamā`, `nīcāsana`, `pallatthika 2`, `ṭhita`)
-- TSV 6730, 6738 `[pali-text]` heading lacks `dhammā` (`… satta adhikaraṇasamathā dhammā uddesaṃ āgacchanti`); the table has the row (check edition)
+- TSV 6514, 6527 `[gloss]` `gatassa` "to (a person) on" (truncated) (`yāna`, `sayana`) > "to (a person) going (by)"
+- TSV 6539, 6581, 6597, 6609 `[gloss]` "to seated (a person), sitting" (`chamā`, `nīcāsana`, `pallatthika 2`, `ṭhita`) > "to (a person) seated, sitting"
+- TSV 6730, 6738 `[pali-text]` heading lacks `dhammā` (`… satta adhikaraṇasamathā dhammā uddesaṃ āgacchanti`); the table has the row - add everywhere (sentences column and first row)
 
 ## By rule, in TSV order
 
 ### NI · nidānuddeso (TSV from line 3)
 
-- TSV 27 `[convention]` `-dasa` without the space
-- TSV 35 `[grammar]` `pattakallaṃ` is `nt nom sg` but its member `kallaṃ` is `masc acc sg of kāla`
-- TSV 110 `[gloss]` "in of kind; in of type"
+- TSV 27 `[convention]` `-dasa` without the space - add space
+- TSV 35 `[grammar]` `pattakallaṃ` is `nt nom sg` but its member `kallaṃ` is `masc acc sg of kāla` - should be also nt
+- TSV 110 `[gloss]` "in of kind; in of type" > "in having quality"
 - TSV 115 `[grammar]` lemma `of anusāvita` / `anusāviyamāna` → `anussāvita` / `anussāviyamāna`
-- TSV 115 `[grammar]` `anussāvitaṃ`: `noun` → pp (predicate of `hoti`)
-- TSV 117 `[translation]` "there is an announcement" for `anussāvitaṃ hoti` ("has been announced"); also bare "fallen" for `āpannena`
+- TSV 164 `[translation]` "fallen" for `āpannena` > "who has committed (an offence),"
 - TSV 131 `[format]` POS column holds a gender (`masc` / `fem` / `nt`) → `noun`
 
 ### PA · pārājikuddeso (TSV from line 226)
 
-- TSV 230 `[translation]` Pārājika: "defeat" here against "disqualification / disqualified" elsewhere
-
-### PA 1 · methunadhamma (TSV from line 237)
-
-- TSV 237 `[convention]` source name `methunadhamma sikkhāpadaṃ` has a space
+- TSV 230 `[translation]` Pārājika: "defeat" here against "disqualification / disqualified" elsewhere > everywhere "defeat" / "defeated".
 
 ### PA 2 · adinnādāna (TSV from line 270)
 
 - TSV 281 `[grammar]` `sankhāyati` → `saṅkhāyati`
 - TSV 282 `[grammar]` `ādiyeyya` lacks `+acc` (the parallel row has it)
 - TSV 283, 317, 331 `[translation]` "You are a immature!"; `!,”` stray comma; "something what has not been given"; "given(and)"
-- TSV 292 `[grammar]` lemma `of rāja`, construction `√rāj + a + āno` → `rājan`
-- TSV 302 `[translation]` "king's men" for `rājāno`
-- TSV 308 `[gloss]` `bālo` "fool, idiot, moron" against the translation's "immature"
+- TSV 292 `[meaning_lit]` "king's men" remove
+- TSV 302 `[translation]` "king's men" for `rājāno` > authorities
+- TSV 308 `[gloss]` `bālo` "fool, idiot, moron" > "fool; idiot; immature person"
 - TSV 319 `[grammar]` lemma `tathārupa` → `tathārūpa`
 
 ### PA 4 · uttarimanussadhamma (TSV from line 404)
 
-- TSV 448 `[doubtful]` the heading has no `avacaṃ` after `apassaṃ`; editions differ (check edition)
-- TSV 449 `[grammar]` `ajānamevāhaṃ` = `ajānaṃ + evaṃ`, member `evaṃ | thus` → `ajānaṃ + eva + ahaṃ` (emphatic `eva`); gloss "not knowing thus" inherits the error
 - TSV 450 `[grammar]` `ajānaṃ` lemma `from ājānāti` → `from na jānāti`
 - TSV 461 `[grammar]` lemma `of vilapi` → `vilapati`
-- TSV 463 `[translation]` "Not knowing thus, friend(s), I spoke" follows the wrong `evaṃ` analysis → "Not knowing, I said 'I know'"
 
 ### SA 2 · kāyasaṃsagga (TSV from line 563)
 
-- TSV 581, 585 `[grammar]` `gāhaṃ | adj` inside the noun compound `hatthagāhaṃ` / `veṇigāhaṃ`
-- TSV 594 `[translation]` "any of the limb"
+- TSV 594 `[translation]` "any of the limb" (?)
 
 ### SA 3 · duṭṭhullavācā (TSV from line 597)
 
-- TSV 613, 615 `[gloss]` "with related to sexual intercourse", "with connected with"
+- TSV 613, 615 `[gloss]` "with related to sexual intercourse", "with connected with" > "related to sexual intercourse", "connected with"
 
 ### SA 4 · attakāmapāricariya (TSV from line 620)
 
@@ -109,21 +88,15 @@ Source audit: `kamma/draft/pat-audit/pat-audit.md` (2026-11-10, written against 
 
 ### SA 5 · sañcaritta (TSV from line 665)
 
-- TSV 681 `[pali-text]` `taṃ'khaṇikāya'pi` / `taṃkhaṇikāyapi` (standard `taṅkhaṇikāyapi`) (check edition)
-- TSV 689 `[gloss]` "in related to moment"
-
-### SA 6 · kuṭikāra (TSV from line 695)
-
-- TSV 735 `[grammar]` `vatthuṃ`: `nt nom sg` → the `-uṃ` form is acc; see Pāli text
+- TSV 689 `[gloss]` "in related to moment" > "related to moment"
 
 ### SA 7 · vihārakāra (TSV from line 762)
 
-- TSV 765, 772, 778, 787, 790 `[same-word]` `√har (live)` against `√har (carry)` elsewhere
 - TSV 768 `[grammar]` `attuddesaṃ`: `fem acc sg` → masc acc sg (with `vihāraṃ`)
 
 ### SA 9 · aññabhāgiya (TSV from line 851)
 
-- TSV 897, 908 `[translation]` "is belonging to another class"; "which a mere pretext"
+- TSV 897, 908 `[translation]` "is belonging to another class"; "which a mere pretext" > "belongs to another class"; "which is a mere pretext"
 
 ### SA 10 · saṅghabheda (TSV from line 911)
 
