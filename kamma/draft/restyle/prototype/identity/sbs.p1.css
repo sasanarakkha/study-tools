@@ -1,0 +1,207 @@
+/* ==========================================================================
+   SBS Study Tools — family palette shared with sasanarakkha.org
+   Section 1: TOKENS (used by every proposal)
+   ========================================================================== */
+
+/* Raw brand colours, sampled from sasanarakkha.org */
+:root {
+    --sbs-ink: #1e1d1c;          /* dark tiles on the main site */
+    --sbs-ink-deep: #141313;     /* main-site header as rendered */
+    --sbs-slate: #353740;        /* the "Teachings" tile on the main site */
+    --sbs-cream: #efe8de;        /* main-site page background */
+    --sbs-cream-raised: #f7f3ec; /* cards, lighter than the page */
+    --sbs-cream-sunken: #e6ddd0; /* table heads, code, wells */
+    --sbs-copper: #b6825e;       /* main-site accent: DECORATION ONLY on cream (2.72:1) */
+    --sbs-copper-light: #d9a77f; /* copper for text on dark surfaces */
+    --sbs-copper-dark: #7d4c29;  /* copper for text on cream (5.88:1) */
+    --sbs-copper-deep: #5e3618;  /* hover / focus on cream (8.56:1) */
+
+    --md-text-font-family:
+        -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
+        Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --md-code-font-family:
+        "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+/* Light scheme */
+[data-md-color-scheme="default"] {
+    --md-default-bg-color: var(--sbs-cream);
+    --md-default-fg-color: #2b2826;
+    --md-default-fg-color--light: #5f5a55;
+    --md-default-fg-color--lighter: rgba(43, 40, 38, 0.32);
+    --md-default-fg-color--lightest: rgba(43, 40, 38, 0.08);
+    --md-typeset-color: #2b2826;
+    --md-typeset-a-color: var(--sbs-copper-dark);
+    --md-accent-fg-color: var(--sbs-copper-deep);
+    --md-accent-fg-color--transparent: rgba(94, 54, 24, 0.1);
+    --md-code-bg-color: var(--sbs-cream-sunken);
+    --md-code-fg-color: #2b2826;
+    --md-typeset-table-color: rgba(43, 40, 38, 0.16);
+    --md-typeset-table-color--light: rgba(43, 40, 38, 0.04);
+
+    --sbs-heading: #141313;
+    --sbs-surface: var(--sbs-cream-raised);
+    --sbs-sunken: var(--sbs-cream-sunken);
+    --sbs-link-active: var(--sbs-copper-dark);
+    --sbs-button-fg: var(--sbs-copper-dark);
+    --sbs-button-hover-bg: var(--sbs-copper-dark);
+    --sbs-button-hover-fg: var(--sbs-cream);
+}
+
+/* Dark scheme: must come after the light block, equal specificity otherwise */
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: var(--sbs-ink);
+    --md-default-fg-color: #d9d1c5;
+    --md-default-fg-color--light: #a39c93;
+    --md-default-fg-color--lighter: rgba(217, 209, 197, 0.32);
+    --md-default-fg-color--lightest: rgba(217, 209, 197, 0.1);
+    --md-typeset-color: #d9d1c5;
+    --md-typeset-a-color: var(--sbs-copper-light);
+    --md-accent-fg-color: #f0c9a6;
+    --md-accent-fg-color--transparent: rgba(240, 201, 166, 0.1);
+    --md-code-bg-color: #2a2826;
+    --md-code-fg-color: #d9d1c5;
+    --md-typeset-table-color: rgba(217, 209, 197, 0.18);
+    --md-typeset-table-color--light: rgba(217, 209, 197, 0.04);
+
+    --sbs-heading: #efe8de;
+    --sbs-surface: #2a2826;
+    --sbs-sunken: #2a2826;
+    --sbs-link-active: var(--sbs-copper-light);
+    --sbs-button-fg: var(--sbs-copper-light);
+    --sbs-button-hover-bg: var(--sbs-copper-light);
+    --sbs-button-hover-fg: var(--sbs-ink);
+}
+
+/* Header, tabs and footer: ink in both schemes, cream text, copper accent */
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #191718;
+    --md-primary-fg-color--light: #2a2826;
+    --md-primary-fg-color--dark: var(--sbs-ink-deep);
+    --md-primary-bg-color: var(--sbs-cream);
+    --md-primary-bg-color--light: rgba(239, 232, 222, 0.72);
+    --md-footer-bg-color: var(--sbs-ink);
+    --md-footer-bg-color--dark: var(--sbs-ink-deep);
+    --md-footer-fg-color: var(--sbs-cream);
+    --md-footer-fg-color--light: #a39c93;
+    --md-footer-fg-color--lighter: #a39c93;
+}
+
+/* Bold links: the non-colour cue for WCAG 1.4.1 (body links carry no
+   underline). Hover rules set colour only and must never reset the weight. */
+.md-typeset a {
+    font-weight: 700;
+}
+.md-typeset a:hover,
+.md-typeset a:focus {
+    color: var(--md-accent-fg-color);
+}
+.md-nav__link--active,
+.md-nav__item .md-nav__link--active {
+    color: var(--sbs-link-active);
+}
+
+/* Typography feel (unchanged from the previous stylesheet) */
+body {
+    font-family:
+        "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+/* Larger default reading text (unchanged from the previous stylesheet) */
+.md-typeset {
+    font-size: 1rem;
+}
+.md-typeset td,
+.md-typeset th {
+    font-size: 1rem;
+}
+/* ==========================================================================
+   Proposal 1 only: keep today's compact 26px header with the logo hidden
+   (copied unchanged from the current identity/sbs.css)
+   ========================================================================== */
+:root {
+    --md-header-height: 26px !important;
+}
+.md-header {
+    height: var(--md-header-height) !important;
+}
+.md-header__inner {
+    height: var(--md-header-height) !important;
+    padding: 0 0.4rem !important;
+    display: flex !important;
+    align-items: center !important;
+}
+.md-header__title {
+    margin-left: 0.8rem !important;
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+}
+.md-header__ellipsis,
+.md-header__topic,
+.md-header__topic a,
+.md-header__topic .md-ellipsis {
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    line-height: normal !important;
+}
+.md-header__topic {
+    font-size: 14px !important;
+}
+.md-header__topic a {
+    color: inherit !important;
+    text-decoration: none !important;
+    width: 100% !important;
+}
+.md-header__button.md-logo {
+    display: none !important;
+}
+.md-tabs__link--active,
+.md-tabs__item--active .md-tabs__link {
+    color: var(--sbs-copper-light);
+}
+/* Patimokkha tables */
+.patimokkha-table {
+    display: block !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    border-collapse: collapse !important;
+}
+.patimokkha-table th,
+.patimokkha-table td {
+    border: 1px solid var(--md-typeset-table-color, rgba(0, 0, 0, 0.12)) !important;
+    white-space: nowrap !important;
+}
+.patimokkha-table th {
+    font-weight: bold !important;
+    font-style: italic !important;
+}
+/* grammar column: wrappable, slightly narrower than meaning */
+.patimokkha-table th:nth-child(3),
+.patimokkha-table td:nth-child(3) {
+    white-space: normal !important;
+    min-width: 160px !important;
+    text-align: left !important;
+}
+/* meaning column: prose text, wrappable, left-aligned */
+.patimokkha-table th:nth-child(5),
+.patimokkha-table td:nth-child(5) {
+    white-space: normal !important;
+    min-width: 260px !important;
+    text-align: left !important;
+}
+/* meaning_lit column: left-aligned */
+.patimokkha-table th:nth-child(6),
+.patimokkha-table td:nth-child(6) {
+    text-align: left !important;
+}
+/* root column: wrappable, same size as grammar */
+.patimokkha-table th:nth-child(7),
+.patimokkha-table td:nth-child(7) {
+    white-space: normal !important;
+    min-width: 100px !important;
+    text-align: left !important;
+}

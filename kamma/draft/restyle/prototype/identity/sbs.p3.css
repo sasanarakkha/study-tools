@@ -1,0 +1,486 @@
+/* ==========================================================================
+   SBS Study Tools — family palette shared with sasanarakkha.org
+   Section 1: TOKENS (used by every proposal)
+   ========================================================================== */
+
+/* Raw brand colours, sampled from sasanarakkha.org */
+:root {
+    --sbs-ink: #1e1d1c;          /* dark tiles on the main site */
+    --sbs-ink-deep: #141313;     /* main-site header as rendered */
+    --sbs-slate: #353740;        /* the "Teachings" tile on the main site */
+    --sbs-cream: #efe8de;        /* main-site page background */
+    --sbs-cream-raised: #f7f3ec; /* cards, lighter than the page */
+    --sbs-cream-sunken: #e6ddd0; /* table heads, code, wells */
+    --sbs-copper: #b6825e;       /* main-site accent: DECORATION ONLY on cream (2.72:1) */
+    --sbs-copper-light: #d9a77f; /* copper for text on dark surfaces */
+    --sbs-copper-dark: #7d4c29;  /* copper for text on cream (5.88:1) */
+    --sbs-copper-deep: #5e3618;  /* hover / focus on cream (8.56:1) */
+
+    --md-text-font-family:
+        -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
+        Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --md-code-font-family:
+        "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+/* Light scheme */
+[data-md-color-scheme="default"] {
+    --md-default-bg-color: var(--sbs-cream);
+    --md-default-fg-color: #2b2826;
+    --md-default-fg-color--light: #5f5a55;
+    --md-default-fg-color--lighter: rgba(43, 40, 38, 0.32);
+    --md-default-fg-color--lightest: rgba(43, 40, 38, 0.08);
+    --md-typeset-color: #2b2826;
+    --md-typeset-a-color: var(--sbs-copper-dark);
+    --md-accent-fg-color: var(--sbs-copper-deep);
+    --md-accent-fg-color--transparent: rgba(94, 54, 24, 0.1);
+    --md-code-bg-color: var(--sbs-cream-sunken);
+    --md-code-fg-color: #2b2826;
+    --md-typeset-table-color: rgba(43, 40, 38, 0.16);
+    --md-typeset-table-color--light: rgba(43, 40, 38, 0.04);
+
+    --sbs-heading: #141313;
+    --sbs-surface: var(--sbs-cream-raised);
+    --sbs-sunken: var(--sbs-cream-sunken);
+    --sbs-link-active: var(--sbs-copper-dark);
+    --sbs-button-fg: var(--sbs-copper-dark);
+    --sbs-button-hover-bg: var(--sbs-copper-dark);
+    --sbs-button-hover-fg: var(--sbs-cream);
+}
+
+/* Dark scheme: must come after the light block, equal specificity otherwise */
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: var(--sbs-ink);
+    --md-default-fg-color: #d9d1c5;
+    --md-default-fg-color--light: #a39c93;
+    --md-default-fg-color--lighter: rgba(217, 209, 197, 0.32);
+    --md-default-fg-color--lightest: rgba(217, 209, 197, 0.1);
+    --md-typeset-color: #d9d1c5;
+    --md-typeset-a-color: var(--sbs-copper-light);
+    --md-accent-fg-color: #f0c9a6;
+    --md-accent-fg-color--transparent: rgba(240, 201, 166, 0.1);
+    --md-code-bg-color: #2a2826;
+    --md-code-fg-color: #d9d1c5;
+    --md-typeset-table-color: rgba(217, 209, 197, 0.18);
+    --md-typeset-table-color--light: rgba(217, 209, 197, 0.04);
+
+    --sbs-heading: #efe8de;
+    --sbs-surface: #2a2826;
+    --sbs-sunken: #2a2826;
+    --sbs-link-active: var(--sbs-copper-light);
+    --sbs-button-fg: var(--sbs-copper-light);
+    --sbs-button-hover-bg: var(--sbs-copper-light);
+    --sbs-button-hover-fg: var(--sbs-ink);
+}
+
+/* Header, tabs and footer: ink in both schemes, cream text, copper accent */
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #191718;
+    --md-primary-fg-color--light: #2a2826;
+    --md-primary-fg-color--dark: var(--sbs-ink-deep);
+    --md-primary-bg-color: var(--sbs-cream);
+    --md-primary-bg-color--light: rgba(239, 232, 222, 0.72);
+    --md-footer-bg-color: var(--sbs-ink);
+    --md-footer-bg-color--dark: var(--sbs-ink-deep);
+    --md-footer-fg-color: var(--sbs-cream);
+    --md-footer-fg-color--light: #a39c93;
+    --md-footer-fg-color--lighter: #a39c93;
+}
+
+/* Bold links: the non-colour cue for WCAG 1.4.1 (body links carry no
+   underline). Hover rules set colour only and must never reset the weight. */
+.md-typeset a {
+    font-weight: 700;
+}
+.md-typeset a:hover,
+.md-typeset a:focus {
+    color: var(--md-accent-fg-color);
+}
+.md-nav__link--active,
+.md-nav__item .md-nav__link--active {
+    color: var(--sbs-link-active);
+}
+
+/* Typography feel (unchanged from the previous stylesheet) */
+body {
+    font-family:
+        "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+/* Larger default reading text (unchanged from the previous stylesheet) */
+.md-typeset {
+    font-size: 1rem;
+}
+.md-typeset td,
+.md-typeset th {
+    font-size: 1rem;
+}
+/* ==========================================================================
+   Section 2: COMPONENTS (proposals 2 and 3)
+   ========================================================================== */
+
+/* --- Header: mark + letter-spaced wordmark, as on sasanarakkha.org -------- */
+.md-header {
+    box-shadow: none;
+    border-top: 3px solid var(--sbs-copper);
+}
+.md-header__button.md-logo {
+    margin: 0.2rem 0 0.2rem 0.2rem;
+    padding: 0.2rem;
+}
+.md-header__button.md-logo img {
+    width: 1.7rem;
+    height: 1.7rem;
+}
+.md-header__title {
+    margin-left: 0.4rem;
+}
+.md-header__topic:first-child {
+    font-size: 0.66rem;
+    font-weight: 700;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+}
+.md-header__topic a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* --- Tabs: same bar as the header, copper marks the current section ------- */
+.md-tabs {
+    background-color: var(--md-primary-fg-color);
+    border-bottom: 1px solid rgba(182, 130, 94, 0.35);
+}
+.md-tabs__link {
+    font-size: 0.7rem;
+    font-weight: 600;
+    opacity: 0.88;
+}
+.md-tabs__item--active .md-tabs__link,
+.md-tabs__link--active {
+    color: var(--sbs-copper-light);
+    opacity: 1;
+}
+.md-tabs__item--active {
+    box-shadow: inset 0 -2px 0 var(--sbs-copper);
+}
+
+/* --- Headings: bold and dark, as on the main site -------------------------- */
+.md-typeset h1 {
+    color: var(--sbs-heading);
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin-bottom: 0.8em;
+}
+.md-typeset h2 {
+    color: var(--sbs-heading);
+    font-weight: 700;
+    letter-spacing: 0;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid var(--md-typeset-table-color);
+}
+.md-typeset h3 {
+    color: var(--sbs-heading);
+    font-weight: 700;
+}
+.md-typeset h4 {
+    color: var(--md-default-fg-color--light);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+}
+.md-typeset hr {
+    border-bottom: 1px solid var(--sbs-copper);
+    opacity: 0.55;
+}
+
+/* --- Sidebars: small letter-spaced captions (main-site "ETYMOLOGY" style) -- */
+.md-nav__title {
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--md-default-fg-color--light);
+}
+.md-nav__link {
+    font-size: 0.72rem;
+}
+.md-nav__link--active {
+    font-weight: 700;
+}
+
+/* --- Download links become the main site's outlined "MORE" button ---------- */
+.md-typeset a[href*="/releases/latest/download/"] {
+    display: inline-block;
+    margin: 0.15em 0.1em;
+    padding: 0.45em 1.1em;
+    border: 2px solid var(--sbs-copper);
+    color: var(--sbs-button-fg);
+    font-size: 0.62rem;
+    font-weight: 800;
+    letter-spacing: 0.16em;
+    line-height: 1.5;
+    text-transform: uppercase;
+    transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+}
+.md-typeset a[href*="/releases/latest/download/"]:hover,
+.md-typeset a[href*="/releases/latest/download/"]:focus {
+    background-color: var(--sbs-button-hover-bg);
+    border-color: var(--sbs-button-hover-bg);
+    color: var(--sbs-button-hover-fg);
+}
+
+/* --- Tables ---------------------------------------------------------------- */
+.md-typeset table:not([class]) {
+    border: 1px solid var(--md-typeset-table-color);
+    border-radius: 0;
+    background-color: var(--sbs-surface);
+    box-shadow: 0 12px 18px -14px rgba(0, 0, 0, 0.35);
+}
+.md-typeset table:not([class]) th,
+.patimokkha-table th {
+    background-color: var(--sbs-sunken);
+    color: var(--sbs-heading);
+    border-bottom: 2px solid var(--sbs-copper);
+}
+
+/* --- Images (screenshots in the Anki guides) -------------------------------- */
+.md-typeset img {
+    border: 1px solid var(--md-typeset-table-color);
+    box-shadow: 0 12px 18px -14px rgba(0, 0, 0, 0.35);
+}
+
+/* --- Footer: dark, copper links, as on the main site ----------------------- */
+.md-footer-meta {
+    border-top: 3px solid var(--sbs-copper);
+}
+.md-copyright {
+    font-size: 0.64rem;
+    letter-spacing: 0.04em;
+}
+html .md-footer-meta.md-typeset a {
+    color: var(--sbs-copper-light);
+}
+html .md-footer-meta.md-typeset a:hover,
+html .md-footer-meta.md-typeset a:focus {
+    color: var(--sbs-cream);
+}
+.md-social__link svg {
+    fill: var(--sbs-copper-light);
+}
+
+/* ==========================================================================
+   Section 3: HOME PAGE (classes are added by tools/home_hook.py)
+   ========================================================================== */
+.sbs-home .md-sidebar {
+    display: none;
+}
+.sbs-home .md-main__inner {
+    margin-top: 0;
+}
+.sbs-home .md-content__inner {
+    padding-top: 0;
+}
+.sbs-home .md-content__inner::before {
+    display: none;
+}
+
+/* Hero band: full-bleed ink panel with a large faint mark.
+   No position/offset parent here: Material measures the h1's offsetTop to
+   decide when to swap the header title, so the hero must not be positioned. */
+.sbs-hero {
+    margin: 0 0 2rem;
+    padding: 2.6rem 0 2.4rem;
+    color: #d9d1c5;
+    background: var(--sbs-hero-bg, var(--sbs-ink)) url("sbs-mark-ghost.svg")
+        right 1rem center / 15rem no-repeat;
+    box-shadow: 0 0 0 100vmax var(--sbs-hero-bg, var(--sbs-ink));
+    clip-path: inset(0 -100vmax);
+}
+.md-typeset .sbs-hero h1 {
+    margin: 0 0 0.3em;
+    color: var(--sbs-cream);
+    font-size: 1.9rem;
+}
+.md-typeset .sbs-hero h1 .headerlink {
+    display: none;
+}
+.sbs-hero p {
+    max-width: 36rem;
+    margin: 0.7em 0;
+}
+.sbs-hero p:first-of-type {
+    color: var(--sbs-copper-light);
+    font-size: 0.66rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+/* Section cards */
+.md-typeset ul.sbs-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 0 0 2rem;
+    padding: 0;
+    list-style: none;
+    counter-reset: sbs-card;
+}
+.md-typeset ul.sbs-cards > li {
+    flex: 1 1 13rem;
+    margin: 0;
+    counter-increment: sbs-card;
+}
+.md-typeset ul.sbs-cards > li > a {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 8.5rem;
+    padding: 1.1rem 1.2rem 1rem;
+    background-color: var(--sbs-surface);
+    border-top: 3px solid var(--sbs-copper);
+    box-shadow: 0 14px 20px -14px rgba(0, 0, 0, 0.4);
+    color: var(--sbs-heading);
+    font-size: 0.95rem;
+    line-height: 1.3;
+    transition: transform 0.15s, box-shadow 0.15s;
+}
+.md-typeset ul.sbs-cards > li > a::before {
+    content: counter(sbs-card, decimal-leading-zero);
+    margin-bottom: 0.5rem;
+    color: var(--sbs-button-fg);
+    font-size: 0.6rem;
+    font-weight: 800;
+    letter-spacing: 0.2em;
+}
+.md-typeset ul.sbs-cards > li > a::after {
+    content: "Open";
+    align-self: flex-start;
+    margin-top: auto;
+    padding: 0.35em 1em;
+    border: 2px solid var(--sbs-copper);
+    color: var(--sbs-button-fg);
+    font-size: 0.56rem;
+    font-weight: 800;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+.md-typeset ul.sbs-cards > li > a:hover,
+.md-typeset ul.sbs-cards > li > a:focus {
+    color: var(--sbs-heading);
+    transform: translateY(-2px);
+    box-shadow: 0 18px 24px -14px rgba(0, 0, 0, 0.5);
+}
+.md-typeset ul.sbs-cards > li > a:hover::after,
+.md-typeset ul.sbs-cards > li > a:focus::after {
+    background-color: var(--sbs-button-hover-bg);
+    border-color: var(--sbs-button-hover-bg);
+    color: var(--sbs-button-hover-fg);
+}
+
+/* Closing note under the cards */
+.sbs-home-foot {
+    color: var(--md-default-fg-color--light);
+    font-size: 0.8rem;
+}
+
+/* Small screens: drop the hero mark and tighten the wordmark so it fits */
+@media screen and (max-width: 44.9375em) {
+    .sbs-hero {
+        padding: 1.8rem 0 1.6rem;
+        background-image: none;
+    }
+    .md-typeset .sbs-hero h1 {
+        font-size: 1.5rem;
+    }
+    .md-header__topic:first-child {
+        font-size: 0.56rem;
+        letter-spacing: 0.1em;
+    }
+}
+
+/* ==========================================================================
+   Section 4: PĀTIMOKKHA TABLES (unchanged from the previous stylesheet)
+   ========================================================================== */
+.patimokkha-table {
+    display: block !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    border-collapse: collapse !important;
+}
+.patimokkha-table th,
+.patimokkha-table td {
+    border: 1px solid var(--md-typeset-table-color, rgba(0, 0, 0, 0.12)) !important;
+    white-space: nowrap !important;
+}
+.patimokkha-table th {
+    font-weight: bold !important;
+    font-style: italic !important;
+}
+/* grammar column: wrappable, slightly narrower than meaning */
+.patimokkha-table th:nth-child(3),
+.patimokkha-table td:nth-child(3) {
+    white-space: normal !important;
+    min-width: 160px !important;
+    text-align: left !important;
+}
+/* meaning column: prose text, wrappable, left-aligned */
+.patimokkha-table th:nth-child(5),
+.patimokkha-table td:nth-child(5) {
+    white-space: normal !important;
+    min-width: 260px !important;
+    text-align: left !important;
+}
+/* meaning_lit column: left-aligned */
+.patimokkha-table th:nth-child(6),
+.patimokkha-table td:nth-child(6) {
+    text-align: left !important;
+}
+/* root column: wrappable, same size as grammar */
+.patimokkha-table th:nth-child(7),
+.patimokkha-table td:nth-child(7) {
+    white-space: normal !important;
+    min-width: 100px !important;
+    text-align: left !important;
+}
+/* ==========================================================================
+   Proposal 3 only: light "reading room" header, slate hero and footer
+   ========================================================================== */
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: var(--sbs-cream-raised);
+    --md-primary-fg-color--light: var(--sbs-cream-raised);
+    --md-primary-fg-color--dark: var(--sbs-cream-sunken);
+    --md-primary-bg-color: #1e1d1c;
+    --md-primary-bg-color--light: rgba(30, 29, 28, 0.6);
+    --md-footer-bg-color: var(--sbs-slate);
+    --md-footer-bg-color--dark: var(--sbs-slate);
+    --sbs-hero-bg: var(--sbs-slate);
+}
+[data-md-color-scheme="default"] .md-tabs {
+    border-bottom: 1px solid rgba(43, 40, 38, 0.16);
+}
+[data-md-color-scheme="default"] .md-tabs__item--active .md-tabs__link,
+[data-md-color-scheme="default"] .md-tabs__link--active {
+    color: var(--sbs-copper-dark);
+}
+[data-md-color-scheme="default"] .md-search__form,
+[data-md-color-scheme="default"] .md-search__form:hover {
+    background-color: rgba(43, 40, 38, 0.08);
+}
+[data-md-color-scheme="default"] .md-search__input,
+[data-md-color-scheme="default"] .md-search__icon {
+    color: #1e1d1c;
+}
+[data-md-color-scheme="default"] .md-search__input::placeholder {
+    color: rgba(30, 29, 28, 0.6);
+}
+/* Dark scheme keeps the ink header but uses slate for hero and footer too */
+[data-md-color-scheme="slate"] {
+    --md-footer-bg-color: #26272e;
+    --md-footer-bg-color--dark: #26272e;
+    --sbs-hero-bg: #26272e;
+}
