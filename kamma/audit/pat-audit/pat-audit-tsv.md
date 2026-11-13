@@ -101,15 +101,13 @@ Source audit: `kamma/audit/pat-audit/pat-audit.md` (2026-11-10, written against 
 ### SA 10 · saṅghabheda (TSV from line 911)
 
 - TSV 922, 945 `[grammar]` `adhikaraṇaṃ` tagged nominative where it is the object of `samādāya paggayha` → accusative
-- TSV 960 `[gloss]` "Patimokkha" spelling
-- TSV 965 `[same-word]` `√har (live)` against `√har (carry)` elsewhere
-- TSV 988 `[same-word]` `paṭinissaggāya` uses `√sajj` (against `√saj` in `paṭinissajeyya`)
-- TSV 1003 `[same-word]` `paṭinissajeyya`: `√sajj … sajja` here against `√saj … saja` (7 rows elsewhere)
+- TSV 960 `[gloss]` "Patimokkha" spelling > Pātimokkha
 
 ### SA 11 · bhedānuvattaka (TSV from line 1008)
 
 - TSV 1052, 1070 `[grammar]` `amhākaṃ`: `masc gen/dat pl` → `1st gen/dat pl` (no gender; so `dubbaca`)
 - TSV 1076 `[translation]` `api` in `amhākampetaṃ` is untranslated; two alternative translations are joined by `(or)` (a line break in the cell)
+---- approved untill here -----
 - TSV 1085 `[grammar]` `assu`: `pron | opt 3rd pl of assa` → POS verb, of atthi
 - TSV 1102 `[gloss]` `āyasmantānampi` "and for the venerables" → "for the venerables too"
 - TSV 1108 `[grammar]` `ruccittha`: `aor 2nd pl of rucci`, base `(pass)` → aor 3rd sg (middle) of ruccati; subject is `saṅghabhedo`
