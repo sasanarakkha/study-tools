@@ -56,6 +56,9 @@ These scripts are used for content generation, maintenance, and data integrity:
   - Usage: `uv run scripts/compare_pali_sources.py --commit <hash> --dir <path>`
 - `scripts/generate_patimokkha.py`: Generates word-by-word Pāṭimokkha analysis pages from `data/patimokkha_word_by_word.tsv`.
   - Usage: `uv run scripts/generate_patimokkha.py`
+- `scripts/extract_patimokkha_english.py`: Exports the English translation of the Bhikkhu Pātimokkha from the same TSV as Markdown and DOCX.
+  - Usage: `uv run python scripts/extract_patimokkha_english.py`
+  - Output: `output/docs/patimokkha_english.md` and `output/docs/patimokkha_english.docx`
 - `scripts/pat_preprocessing.sh`: Regenerates the Pātimokkha pages from the TSV and fixes tables (no git operations). The `patimokkha-regen` pre-commit hook runs it and stages the pages whenever the TSV is committed.
   - Usage: `bash scripts/pat_preprocessing.sh`
 - `scripts/upload.sh`: Creates a new GitHub release and uploads assets from `temp-push/`.

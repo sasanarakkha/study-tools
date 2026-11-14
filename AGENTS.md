@@ -37,7 +37,7 @@ Scripts that run once (like data migrations or one-time transformations) MUST be
 
 ## Visual Changes (MANDATORY)
 
-**Never finalize or archive a thread that changes appearance (CSS, theme, layout, colours) until the owner has explicitly confirmed the look.** Programmatic checks (contrast ratios, computed styles, screenshots inspected by the agent) are evidence, not sign-off. Ask, wait for a yes, then archive.
+**Never finalize or archive a thread that changes appearance (CSS, theme, layout, colours) or produces an owner-facing generated file (DOCX, PDF), until the owner has explicitly confirmed the look.** Programmatic checks (contrast ratios, computed styles, screenshots inspected by the agent, paragraph-text comparisons) are evidence, not sign-off. Ask, wait for a yes, then archive.
 
 ## Pre-Completion Validation (MANDATORY)
 

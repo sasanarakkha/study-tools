@@ -16,3 +16,6 @@
 - 2026-11-05 [BEHAVIOR] Applied an additive styling section to `kamma/tech.md` without the confirmation step the finalize procedure requires for doc changes.
 - 2026-11-11 [POSITIVE] review.md's Files Changed / Fixes Applied / Test Evidence covered both repos in full, so finalize could write the wrap-up and the issue comment without re-running any checks.
 - 2026-11-11 [WORKFLOW] plan.md still carried an unchecked finalize-only task (5.4 archive the one-time export script) when the review passed; the finalize step had to read the plan to find it. A review verdict should state which plan items are deliberately left for finalize.
+- 2026-11-14 [POSITIVE] Asked for the owner's DOCX sign-off before archiving instead of treating the finalize invocation or the review's PASSED verdict as approval, correcting the 2026-11-05 behaviour.
+- 2026-11-14 [POSITIVE] Proposed the `kamma/tech.md` addition and waited for confirmation, correcting the 2026-11-05 behaviour.
+- 2026-11-14 [WORKFLOW] The review returned PASSED while listing an unverified owner visual gate under "Not Verified"; the finalize step caught it, but an open owner-facing gate should be recorded as blocking in the verdict.
