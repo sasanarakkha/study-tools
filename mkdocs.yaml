@@ -6,24 +6,32 @@ theme:
   name: material
   language: en
   custom_dir: identity
+  logo: sbs-mark.svg
+  favicon: sbs-favicon-48.png
   font:
     text: false
     code: false
   palette:
+    - media: (prefers-color-scheme)
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
     - media: '(prefers-color-scheme: light)'
       scheme: default
-      primary: brown
-      accent: orange
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
-      primary: brown
-      accent: orange
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -44,8 +52,22 @@ validation:
     omitted_files: ignore
 hooks:
   - tools/patimokkha_hook.py
+  - tools/home_hook.py
+  - tools/dark_image_hook.py
+copyright: Sāsanārakkha Buddhist Sanctuary · <a href="https://sasanarakkha.org/">sasanarakkha.org</a>
+  · <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
 extra:
   generator: false
+  social:
+    - icon: fontawesome/solid/house
+      link: https://sasanarakkha.org/
+      name: Sāsanārakkha Buddhist Sanctuary
+    - icon: fontawesome/brands/github
+      link: https://github.com/sasanarakkha/study-tools
+      name: Source on GitHub
+    - icon: fontawesome/solid/envelope
+      link: mailto:studytools@sasanarakkha.org
+      name: Contact us
 extra_css:
   - sbs.css
 extra_javascript:

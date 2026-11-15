@@ -81,8 +81,8 @@ These scripts are used for content generation, maintenance, and data integrity:
 
 - `docs/` — Markdown source files and assets.
 - `scripts/` — Python and Bash scripts for content generation and maintenance.
-- `identity/` — Custom CSS and JavaScript for the SBS brand.
-- `tools/` — Shared utilities and MkDocs hooks.
+- `identity/` — Custom CSS and JavaScript for the SBS brand, plus the logo (`sbs-mark.svg`, `sbs-mark-ghost.svg`) and favicon (`sbs-favicon-48.png`, `sbs-favicon.svg`).
+- `tools/` — Shared utilities and MkDocs hooks (`patimokkha_hook.py` for table widths, `home_hook.py` for the home page hero and cards, `dark_image_hook.py` for light/dark screenshots). To give a screenshot a proper dark version, add a `-d` twin beside it (`name-b.png` → `name-d.png`, or `name.png` → `name-d.png`); it overrides the automatic inversion.
 
 ## Editing the Pātimokkha data
 

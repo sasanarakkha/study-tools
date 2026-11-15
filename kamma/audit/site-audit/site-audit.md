@@ -12,6 +12,8 @@ Date: 2026-11-12. Scope: English grammar, spelling, punctuation and clarity, plu
 - Findings marked **⚠ data/URL** delete content, rename a published page, or change a URL. Approve them only on purpose.
 - Findings marked **Pāḷi** change the spelling of a Pāḷi word. Everything else leaves Pāḷi text unchanged.
 - **Generated files.** `docs/index.md`, `docs/4-dictionaries/index.md`, `docs/5-anki/index.md` and `docs/6-pali-class/index.md` are rebuilt from the `.header.md` file in the same folder by `scripts/generate_indexes.py`, and the `mkdocs.yaml` nav is rebuilt from first headings by `scripts/generate_mkdocs_yaml.py` (both run in `scripts/web_preprocessing.sh`). Findings name the source file (`.header.md` or the page's first heading); the generated copies change when preprocessing runs.
+- **Home page layout (added 2026-11-16, website restyle thread).** `tools/home_hook.py` builds the home page's hero and section cards from the rendered `docs/index.md`. It needs the `.header.md` text to keep one `#` heading, the `---` rule and the list of section links as the last list. If any of these is missing, the hook leaves the page unstyled (it removes no content). Finding 3 only changes a word, so it is safe.
+- **Screenshots (added 2026-11-16).** `tools/dark_image_hook.py` shows a `name-d.png` twin in dark mode when one sits next to the image. A finding that renames or moves an image must move its `-d` twin as well. No finding here does.
 - Line numbers are from the files as of commit `519a7ca` plus this thread's uncommitted changes (none in `docs/`).
 
 ## Coverage
@@ -579,7 +581,7 @@ All 90 files were read. "Full" means every line was read; "prose only" means the
 - **`docs/6-pali-class/2-patimokkha-class.md:20`** says "there are two Anki decks available" but links only one deck page, and doesn't name the decks.
 - **Russian pages** (`docs/5-anki/10-dps/1-ru-pali-vocab.md`, `ru-test.md`) are outside this English audit. Obvious typos seen: `1-ru-pali-vocab.md:5` "Удобрый интрумент" (→ "Удобный инструмент"); `ru-test.md:3` "Следовательно,устареашие" (→ "Следовательно, устаревшие"); `1-ru-pali-vocab.md:32` tells the user to pick the `.apkg` in the CSV import steps (the same error as finding 50). `ru-test.md` also has no H1 (it starts at `##`).
 - **Pāḷi page names in `docs/7-notebook-lm.md:7`, `:15`, `:27`:** "Sutta Tipiṭaka" and "Vinaya Tipiṭaka" for what is usually called the Sutta Piṭaka and Vinaya Piṭaka. Left unchanged because it is a naming choice used consistently on that page.
-- **Visual/CSS:** none found.
+- **Visual/CSS:** none found (as of 2026-11-12; the site was restyled afterwards in thread `20261116_website_restyle`, Issue #25).
 
 ## Triage summary (LanguageTool)
 

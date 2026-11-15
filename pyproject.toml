@@ -24,6 +24,7 @@ dependencies = [
     "pypandoc>=1.17",
     "python-docx>=1.2.0",
     "pytest>=9.2.0",
+    "pillow>=12.2.0",
 ]
 
 

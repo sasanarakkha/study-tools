@@ -3,7 +3,7 @@
 ## Tools & Platforms
 
 - **Static site generator:** MkDocs with Material theme
-- **Python:** 3.12+ with uv, pandas, openpyxl, tabulate, beautifulsoup4
+- **Python:** 3.12+ with uv, pandas, openpyxl, tabulate, beautifulsoup4, pillow
 - **Hosting:** GitHub Pages
 - **CI/CD:** GitHub Actions
 
@@ -44,19 +44,39 @@ Developers maintaining the study-tools website.
 
 ## Website Styling (`identity/sbs.css`)
 
-`identity/sbs.css` is the only custom stylesheet (`extra_css` + `custom_dir` in `mkdocs.yaml`).
+`identity/sbs.css` is the only custom stylesheet (`extra_css` + `custom_dir` in `mkdocs.yaml`). The look is a sibling of sasanarakkha.org (ink header and footer, cream page, copper accents). `mkdocs.yaml` sets `primary: custom` / `accent: custom`, so the stylesheet sets all colours through CSS variables with no `!important`. `identity/` also holds the logo (`sbs-mark.svg`, `sbs-mark-ghost.svg`) and favicon files; everything in `identity/` is published.
 
 - **Scheme-scoped colour variables.** Material's light (`default`) and dark (`slate`) schemes need
-  different values; a single `:root` colour cannot pass WCAG AA on both `#ffffff` and `#242424`.
-  `:root` and `[data-md-color-scheme="slate"]` have *equal* specificity, so the slate block must be
-  declared **after** the light block.
+  different values. `:root` and `[data-md-color-scheme="slate"]` have *equal* specificity, so the
+  slate block must be declared **after** the light block.
 - **Body links carry no underline** in this theme, so colour is the only default cue. `identity/sbs.css`
   adds `font-weight: 700` on `.md-typeset a` as the non-colour cue (WCAG 1.4.1); hover rules set
   colour only and must never reset the weight.
 - **`--md-accent-fg-color` is functional, not decorative.** It drives sidebar link hover/focus,
   meta/clipboard hover and every focus `outline-color`, so it must stay legible in both schemes.
-- **Scheme backgrounds/text for contrast work:** light bg `#ffffff`, light body text `#212121`;
-  slate bg `#242424`, slate body text `#c3bfbf`.
+- **Copper `#B6825E` is decoration-only on cream** (2.7:1, fails AA as text). Use `#7D4C29` for
+  link and button text in the light scheme; copper is fine for text on the ink header/footer.
+- **`.sbs-hero` must not be positioned** (`position` of any value). Material reads the `h1`'s
+  `offsetTop` to swap the header title; a positioned hero becomes the offset parent and the header
+  shows "Home" instead of the site name.
+- **Home page markup comes from `tools/home_hook.py`**, not from `docs/index.md` (hero, cards and
+  closing note wrappers are added at build time).
+- **Automatic scheme.** The first `theme.palette` entry is `media: "(prefers-color-scheme)"` (no
+  `scheme`), followed by light and dark. The toggle cycles auto → light → dark → auto, so a visitor
+  can always return to following the system. Material stores the choice in `localStorage`
+  (`__palette`); a stale 2-state choice needs the site data cleared once.
+- **Dark/light screenshots come from `tools/dark_image_hook.py`**, never from edits to markdown.
+  A real `-d` twin next to the original (`x-b.png` → `x-d.png`, or `x.png` → `x-d.png`) wins and is
+  emitted as an `#only-light` / `#only-dark` pair (Material hides the wrong one). Images without a
+  twin are measured with Pillow (mean greyscale > 128 = light): light ones get `sbs-auto-dark`
+  (`invert(0.88) hue-rotate(180deg)` in dark mode only), dark ones get `sbs-auto-light`
+  (`invert(1) hue-rotate(180deg)` in light mode only).
+- **Scheme tokens for contrast work:**
+  - Light: page `#EFE8DE`, raised `#F7F3EC`, sunken `#E6DDD0`, body text `#2B2826`, muted `#5F5A55`,
+    link/button `#7D4C29`, hover/focus `#5E3618`.
+  - Slate: page `#1E1D1C`, surface `#2A2826`, body text `#D9D1C5`, muted `#A39C93`,
+    link/button `#D9A77F`, hover/focus `#F0C9A6`.
+  - Header/tabs `#191718` with text `#EFE8DE`; footer `#1E1D1C` / `#141313`.
 
 ## What the output looks like
 
