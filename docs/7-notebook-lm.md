@@ -22,9 +22,11 @@ This is a powerful AI tool, limited only by the selected resources. It is excell
 
 - [Visuddhimagga](https://notebooklm.google.com/notebook/13187f85-d540-42c1-8ea8-5f723c5afab3)
 
+- [Sammā Vāca](https://notebook.google.com/notebook/5d657e61-d288-4954-8931-47654362f317?authuser=2) - EBT + Vinaya about speech + NVC 
+
 ---
 
-*__Early part of the Sutta Tipiṭaka__, it includes:
+*__Early part of the Sutta Tipiṭaka__ (EBT), it includes:
 - Dīgha Nikāya, 
 - Majjhimā Nikāya, 
 - Saṃyutta Nikāya, 
