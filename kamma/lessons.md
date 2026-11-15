@@ -19,3 +19,6 @@
 - 2026-11-14 [POSITIVE] Asked for the owner's DOCX sign-off before archiving instead of treating the finalize invocation or the review's PASSED verdict as approval, correcting the 2026-11-05 behaviour.
 - 2026-11-14 [POSITIVE] Proposed the `kamma/tech.md` addition and waited for confirmation, correcting the 2026-11-05 behaviour.
 - 2026-11-14 [WORKFLOW] The review returned PASSED while listing an unverified owner visual gate under "Not Verified"; the finalize step caught it, but an open owner-facing gate should be recorded as blocking in the verdict.
+- 2026-11-16 [WORKFLOW] Issues #23 and #24 are "review and approve" requests whose own comments chain apply and follow-up-audit steps; the finalize instruction to close referenced issues would have closed them prematurely, so they were commented and left open.
+- 2026-11-16 [POSITIVE] The second review pass found five delivery bugs that pass 1 missed and all five were two findings editing the same source cell, so a cheap same-cell overlap scan removes a whole class of "agent stops on the second grep" failures.
+- 2026-11-16 [POSITIVE] review.md carried per-file and per-status counts, so finalize could confirm 206/205/1,137 statuses and the three Fresh look sections from three greps instead of re-running the verification suite.

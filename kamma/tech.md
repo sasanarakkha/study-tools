@@ -40,6 +40,7 @@ Developers maintaining the study-tools website.
 - **Automation First:** Prefer scripts over manual edits for large-scale formatting changes to ensure consistency and repeatability.
 - **Prose Improvement:** Use `scripts/rewrite_english.py` for AI-assisted interactive rewriting of English prose with Pāḷi term preservation.
 - **Grammar Validation:** Use `scripts/grammar_check.py` for offline LanguageTool-based grammar and spelling checks.
+- **Audit findings live in `kamma/audit/`** (`pat-audit/`, `sutta-audit/`, `sbs-per-audit/`), each following `audit-guide.md`. Every finding carries a re-check status (`owner-reviewed`, `gone`, `keep (n)`, `adjust: <fix>`, `drop: <reason>`, `undecided`); an `adjust` or `drop` status overrides the original suggestion, and `undecided` rows wait for the owner.
 
 ## Website Styling (`identity/sbs.css`)
 

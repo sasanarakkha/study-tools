@@ -30,6 +30,7 @@ Scripts that run once (like data migrations or one-time transformations) MUST be
 - Read-only audits of source folders or data files (findings lists, never edit the source). Follow `kamma/audit/audit-guide.md` (process, row format, categories, limits). Work in progress and handoff state go in `kamma/audit/scratch/STATE.md` (gitignored).
 - `kamma/audit/audit-guide.md` and `kamma/audit/scripts/` are symlinks into the sibling checkout `../../dpd-pali-courses/kamma/audit/`; edit them there. Run the scripts from this repo's root, e.g. `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> …`.
 - `kamma/audit/site-audit/` is a different kind of audit and does not follow the guide.
+- No two findings may edit the same source cell. Two rows on one cell (e.g. a `keep` and an `adjust`) make the second edit fail the implementing agent's grep-before-edit check, so scan for same-cell overlap before delivering an audit and merge or `drop` the duplicate.
 
 ## Python Coding Standards
 - Always import the printer instance from `tools.printer`: `from tools.printer import printer as pr`. Never import the `Printer` class directly for standard logging.
