@@ -35,6 +35,7 @@ Scripts that run once (like data migrations or one-time transformations) MUST be
 ## Python Coding Standards
 - Always import the printer instance from `tools.printer`: `from tools.printer import printer as pr`. Never import the `Printer` class directly for standard logging.
 - Use `icecream` (`from icecream import ic`) for debug output, not `print()`.
+- When a change adds a Python dependency, also add it to the dependency list in `kamma/tech.md`, not only to the section describing the feature.
 
 ## Visual Changes (MANDATORY)
 

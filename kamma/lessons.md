@@ -22,3 +22,5 @@
 - 2026-11-16 [WORKFLOW] Issues #23 and #24 are "review and approve" requests whose own comments chain apply and follow-up-audit steps; the finalize instruction to close referenced issues would have closed them prematurely, so they were commented and left open.
 - 2026-11-16 [POSITIVE] The second review pass found five delivery bugs that pass 1 missed and all five were two findings editing the same source cell, so a cheap same-cell overlap scan removes a whole class of "agent stops on the second grep" failures.
 - 2026-11-16 [POSITIVE] review.md carried per-file and per-status counts, so finalize could confirm 206/205/1,137 statuses and the three Fresh look sections from three greps instead of re-running the verification suite.
+- 2026-11-16 [POSITIVE] The restyle thread recorded a dated owner sign-off in plan 5.8 during review, so finalize could archive a visual thread without re-asking, and its Files Changed list matched the tree exactly.
+- 2026-11-16 [WORKFLOW] The restyle thread added `pillow` but only described it in the Website Styling section of `kamma/tech.md`; the project's dependency list still omitted it until finalize caught it.
