@@ -1,6 +1,6 @@
 # SBS Pāḷi–English chant analysis — merged review, in reading order
 
-Date: 2026-11-09. Source of every suggestion: (1) the original audit `sbs-per-analysis-audit.md` Parts 1–8 (**A**), (2) the second review found in `temp/Chanting Book Analaysis*` (**B**, "Reviewer B"; the two folders are identical). Rebuilt here **per chant, in line order**, so that everything about one chant is read in one place. Line numbers refer to the current files in `docs/6-pali-class/sbs-per-analysis/` (unchanged since the audit; match on the quoted text, not the line number alone).
+Date: 2026-11-09. Source of every suggestion: (1) the original audit `kamma/archive/audit/sbs-per-analysis-audit.md` Parts 1–8 (**A**), (2) the second review found in `temp/Chanting Book Analaysis*` (**B**, "Reviewer B"; the two folders are identical). Rebuilt here **per chant, in line order**, so that everything about one chant is read in one place. Line numbers refer to the current files in `docs/6-pali-class/sbs-per-analysis/` (unchanged since the audit; match on the quoted text, not the line number alone).
 
 ## How to use
 
